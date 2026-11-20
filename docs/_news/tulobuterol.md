@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Tulobuterol. 4 predicted indications."
 permalink: /news/tulobuterol/
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-20
 ---
 
 # Tulobuterol News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="What news is there about Tulobuterol?">
-<strong>Tulobuterol</strong> currently has <strong>5 news articles</strong>, with 4 predicted indications.
+<strong>Tulobuterol</strong> currently has <strong>6 news articles</strong>, with 4 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,15 @@ This page combines the AI-predicted indications for Tulobuterol with the latest 
 <p><a href="{{ '/drugs/tulobuterol/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (6)
+
+### [World COPD Day: Can’t quit smoking? Experts urge science-led approaches to reducing COPD risks - ANI News](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNUzdSekplQmk0eFRXWksxUkRMcWZhdjRwdDU1UWNrTVdYUi1pOG95bDV1TjRQM19MVkptNmk3em9Jb2J6Z2NOX1FRRnpPZC0zVWpEei1fS3NiZWo3d3BRLVZ0amx0dlAwUy03dHJ6bmgwOURISzJ3ZmhadHl2eHdSdXhGaW5hdXAtWnIwUmx1eVJxenRENllZWGNDaUZLcm1yQXlkUEoxaVdVaTNVd2p4eE11RGpSTURiOXk5QnFwa2FPUmtMeDJ5RG5reHRmVUt4cmNHOUg0eHBKTmlYUU1EWE5MTHVBYkg4a3hORzNlUm42bThuRHc?oc=5)
+
+2026-11-19 <span class="news-indication-tag">COPD</span>
+
+Source: [ANI News](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNUzdSekplQmk0eFRXWksxUkRMcWZhdjRwdDU1UWNrTVdYUi1pOG95bDV1TjRQM19MVkptNmk3em9Jb2J6Z2NOX1FRRnpPZC0zVWpEei1fS3NiZWo3d3BRLVZ0amx0dlAwUy03dHJ6bmgwOURISzJ3ZmhadHl2eHdSdXhGaW5hdXAtWnIwUmx1eVJxenRENllZWGNDaUZLcm1yQXlkUEoxaVdVaTNVd2p4eE11RGpSTURiOXk5QnFwa2FPUmtMeDJ5RG5reHRmVUt4cmNHOUg0eHBKTmlYUU1EWE5MTHVBYkg4a3hORzNlUm42bThuRHc?oc=5)
+
+---
 
 ### [World COPD Day Highlights Importance of Early Diagnosis - Respiratory Therapy](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaVM3U180UDZmdUVNd3lFb19EQmZTaEhzLURuX0paUzV0ZGpULVVycUZwVmZwUzNiVS0xZDZIaWFhOEtPNWkyeHppOWlmbXJEcHkxVVpWR0ZQQUYwb2RaZUdNZFpfTFB0Y2NfdkFZNmpuelY4RzQ3cXYtT2tQZE1YZDFJdllPaHRfQmphbWVsTHpsU0xqZVhxLWc2NG0tXzRDNmtya2VYc2dEcUFpNE9Qc2tXeWdkbi1Hd2p3dElkendmZFMway1DYl9mVVJ2WUhyQnlLTkRVRQ?oc=5)
 

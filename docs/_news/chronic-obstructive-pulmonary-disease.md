@@ -3,9 +3,9 @@ layout: default
 title: "COPD (chronic obstructive pulmonary disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about COPD (chronic obstructive pulmonary disease). 5 articles, 1 related drugs."
+description: "Health news about COPD (chronic obstructive pulmonary disease). 6 articles, 1 related drugs."
 permalink: /news/chronic-obstructive-pulmonary-disease/
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-20
 ---
 
 # COPD (chronic obstructive pulmonary disease) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="What news is there about COPD (chronic obstructive pulmonary disease)?">
-<strong>COPD (chronic obstructive pulmonary disease)</strong> currently has <strong>5 news articles</strong> and 1 related drugs.
+<strong>COPD (chronic obstructive pulmonary disease)</strong> currently has <strong>6 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page brings together the latest health news about “COPD” and lists the 
 </ul>
 </div>
 
-## Related News (5)
+## Related News (6)
+
+### [World COPD Day: Can’t quit smoking? Experts urge science-led approaches to reducing COPD risks - ANI News](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNUzdSekplQmk0eFRXWksxUkRMcWZhdjRwdDU1UWNrTVdYUi1pOG95bDV1TjRQM19MVkptNmk3em9Jb2J6Z2NOX1FRRnpPZC0zVWpEei1fS3NiZWo3d3BRLVZ0amx0dlAwUy03dHJ6bmgwOURISzJ3ZmhadHl2eHdSdXhGaW5hdXAtWnIwUmx1eVJxenRENllZWGNDaUZLcm1yQXlkUEoxaVdVaTNVd2p4eE11RGpSTURiOXk5QnFwa2FPUmtMeDJ5RG5reHRmVUt4cmNHOUg0eHBKTmlYUU1EWE5MTHVBYkg4a3hORzNlUm42bThuRHc?oc=5)
+
+2026-11-19
+
+Source: [ANI News](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNUzdSekplQmk0eFRXWksxUkRMcWZhdjRwdDU1UWNrTVdYUi1pOG95bDV1TjRQM19MVkptNmk3em9Jb2J6Z2NOX1FRRnpPZC0zVWpEei1fS3NiZWo3d3BRLVZ0amx0dlAwUy03dHJ6bmgwOURISzJ3ZmhadHl2eHdSdXhGaW5hdXAtWnIwUmx1eVJxenRENllZWGNDaUZLcm1yQXlkUEoxaVdVaTNVd2p4eE11RGpSTURiOXk5QnFwa2FPUmtMeDJ5RG5reHRmVUt4cmNHOUg0eHBKTmlYUU1EWE5MTHVBYkg4a3hORzNlUm42bThuRHc?oc=5)
+
+---
 
 ### [World COPD Day Highlights Importance of Early Diagnosis - Respiratory Therapy](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaVM3U180UDZmdUVNd3lFb19EQmZTaEhzLURuX0paUzV0ZGpULVVycUZwVmZwUzNiVS0xZDZIaWFhOEtPNWkyeHppOWlmbXJEcHkxVVpWR0ZQQUYwb2RaZUdNZFpfTFB0Y2NfdkFZNmpuelY4RzQ3cXYtT2tQZE1YZDFJdllPaHRfQmphbWVsTHpsU0xqZVhxLWc2NG0tXzRDNmtya2VYc2dEcUFpNE9Qc2tXeWdkbi1Hd2p3dElkendmZFMway1DYl9mVVJ2WUhyQnlLTkRVRQ?oc=5)
 

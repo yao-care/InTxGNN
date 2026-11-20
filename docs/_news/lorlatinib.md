@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="What news is there about Lorlatinib?">
-<strong>Lorlatinib</strong> currently has <strong>72 news articles</strong>, with 9 predicted indications.
+<strong>Lorlatinib</strong> currently has <strong>78 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,39 @@ This page combines the AI-predicted indications for Lorlatinib with the latest h
 <p><a href="{{ '/drugs/lorlatinib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (72)
+## Related News (78)
+
+### [Cancer Control Plans Reveal Global Gaps in Comprehensiveness](https://news.google.com/rss/articles/CBMipAFBVV95cUxQc2hQZGZtQkZtWXlxLVVCd2ZKTjVTR1hjNWVGZTZjUXF6eWhtb0ZaMDNKXzNiMWtDZXpnR1RMTFc2UmZzaVp5LTUweXl1VlI3WGd2TXVoM3hjbkpOblpRR1ZObzlOQVk0bGlvOHNkeHE4N3lZWGIzcldpYWRtYlczQ01MUzhoZWc4MUI3X2dYUWhBaEpWUE9JdWotcUFIMWsxVmVGNA?oc=5)
+
+2026-11-20 <span class="news-indication-tag">cancer</span>
+
+Source: [EMJ](https://news.google.com/rss/articles/CBMipAFBVV95cUxQc2hQZGZtQkZtWXlxLVVCd2ZKTjVTR1hjNWVGZTZjUXF6eWhtb0ZaMDNKXzNiMWtDZXpnR1RMTFc2UmZzaVp5LTUweXl1VlI3WGd2TXVoM3hjbkpOblpRR1ZObzlOQVk0bGlvOHNkeHE4N3lZWGIzcldpYWRtYlczQ01MUzhoZWc4MUI3X2dYUWhBaEpWUE9JdWotcUFIMWsxVmVGNA?oc=5)
+
+---
+
+### [New pancreatic cancer drug halts tumour growth in 90% of patients - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPa3RTTVJkU3ZLREhsRFQ4Y21qWWVvd0ZwSmdROVpQaHFWTF82N01OVXdzbTRqSUlIUjVjN0VOZDBVUlI4Q1NNWU0ycEhLckdnSS1RRTQyRFE4SjhZWnF5dTdsYUp0b0I3YkY1MmZVZmc1bEJCNDhxV09MaVlReUxtX1BXejA?oc=5)
+
+2026-11-20 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">pancreatic cancer</span> <span class="news-indication-tag">pancreatic cancer</span>
+
+Source: [Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPa3RTTVJkU3ZLREhsRFQ4Y21qWWVvd0ZwSmdROVpQaHFWTF82N01OVXdzbTRqSUlIUjVjN0VOZDBVUlI4Q1NNWU0ycEhLckdnSS1RRTQyRFE4SjhZWnF5dTdsYUp0b0I3YkY1MmZVZmc1bEJCNDhxV09MaVlReUxtX1BXejA?oc=5)
+
+---
+
+### [Why do the majority prefer self-collected HPV tests - Medical Buyer](https://news.google.com/rss/articles/CBMihgFBVV95cUxQXy13Q3E4WDBULVVxdXJaUDRTR3Y0ZWVCVW1pdE1sTjVOUmtEdTQwRnNlRktUaE5pQU1wcFE0WHZWZnRCTlVhQXFjb2E4SmJvMmVodU8zY0FYUXpmbGRETDVQZUVreWQ3NjNBT3ctcTZfU0lFNzFTX0xrd0I4bjVuSjFaMUF4QQ?oc=5)
+
+2026-11-20 <span class="news-indication-tag">cancer</span>
+
+Source: [Medical Buyer](https://news.google.com/rss/articles/CBMihgFBVV95cUxQXy13Q3E4WDBULVVxdXJaUDRTR3Y0ZWVCVW1pdE1sTjVOUmtEdTQwRnNlRktUaE5pQU1wcFE0WHZWZnRCTlVhQXFjb2E4SmJvMmVodU8zY0FYUXpmbGRETDVQZUVreWQ3NjNBT3ctcTZfU0lFNzFTX0xrd0I4bjVuSjFaMUF4QQ?oc=5)
+
+---
+
+### [Strand Life Sciences to take its multi-cancer blood test to more hospitals, looks to bring down cost: CEO](https://news.google.com/rss/articles/CBMigwJBVV95cUxQT29iWHRJSGNjbWhzUzVURVF4RFE5NlVzMWV0QkU3NmRkUVhtZ3B5TG1DbXRadTVCR3VIUnVQVFdmb2Y4aHlpX1hkNXRXZlNrNktQS0l0UDJfVFlZNGx4b3lKMWpLSjJyclBrNkRVSWJ3VjYwMHNNdHljajZFVExIQjhqX0NSSmwyYmNSZlVUU20yU0hwc09rcTlBeFZ5SWlVbS04YWx2SVhqUzc5OTl4VkdJZDB1ZzJMekp1Z05vVEdpbUtBSVB2TThqMmRlM25qekV2a0pHcXVnSXRXNzI2cEZMSUJmYmNXTVBEMXZ0dmxlYm0xREFwZWw5eHBZeXFBMHpr0gGKAkFVX3lxTFB5aDNqcUtpd25aZXdrU1ZBTTE0dHFtVFpFUVNUeTRaWHNiZ0dDUG9Zdl9wc3BScXMyc0FOMWYyU29lNTZMYTdYc2hkX2hPRlMwdjBQamxURzNuanRad1RmVkRfbzFKcEM4VFlvUnVMTmtQY2w3bXJwRlpKc1NCOV9BaXBiZHRkWEpMQktBSDhHdGNjUHdCYUE4UlAzZUFFYXl3czNmU0x1MmJiN0JRcGptUVJjaHB4VVdRZmdPMmRCWi13X3d0cTF6ZUlna1Y3OUp5bkhpM0kwcW1reUZZN2hma3Nwak50SmNSR3FFY3BrV080cGduZTRsaktlRDR4Y25GQmpQeGh2cUxB?oc=5)
+
+2026-11-20 <span class="news-indication-tag">cancer</span>
+
+Source: [BusinessLine](https://news.google.com/rss/articles/CBMigwJBVV95cUxQT29iWHRJSGNjbWhzUzVURVF4RFE5NlVzMWV0QkU3NmRkUVhtZ3B5TG1DbXRadTVCR3VIUnVQVFdmb2Y4aHlpX1hkNXRXZlNrNktQS0l0UDJfVFlZNGx4b3lKMWpLSjJyclBrNkRVSWJ3VjYwMHNNdHljajZFVExIQjhqX0NSSmwyYmNSZlVUU20yU0hwc09rcTlBeFZ5SWlVbS04YWx2SVhqUzc5OTl4VkdJZDB1ZzJMekp1Z05vVEdpbUtBSVB2TThqMmRlM25qekV2a0pHcXVnSXRXNzI2cEZMSUJmYmNXTVBEMXZ0dmxlYm0xREFwZWw5eHBZeXFBMHpr0gGKAkFVX3lxTFB5aDNqcUtpd25aZXdrU1ZBTTE0dHFtVFpFUVNUeTRaWHNiZ0dDUG9Zdl9wc3BScXMyc0FOMWYyU29lNTZMYTdYc2hkX2hPRlMwdjBQamxURzNuanRad1RmVkRfbzFKcEM4VFlvUnVMTmtQY2w3bXJwRlpKc1NCOV9BaXBiZHRkWEpMQktBSDhHdGNjUHdCYUE4UlAzZUFFYXl3czNmU0x1MmJiN0JRcGptUVJjaHB4VVdRZmdPMmRCWi13X3d0cTF6ZUlna1Y3OUp5bkhpM0kwcW1reUZZN2hma3Nwak50SmNSR3FFY3BrV080cGduZTRsaktlRDR4Y25GQmpQeGh2cUxB?oc=5)
+
+---
 
 ### [Stem cells injected into brains of Alzheimer’s patients in world first - The Times](https://news.google.com/rss/articles/CBMijgFBVV95cUxOU1lNTGI4X1Q4TDFaTGM2SllLV0VORjVpRjZtSjFIVmpRV2NIUG5GWk9xLThSVU9xU1RSb01UTDFXU2x4UVRIVWU2NkVBZlJkekVyYVB5OHZ6czRGZnJFS1pzVGVaT2RxbGkwN1Q2TVZEM0Y3NU1pTHlwTHVRN0hMN29rcXJhSThvdlFDRGdn?oc=5)
 
@@ -59,11 +91,27 @@ Source: [Cureus](https://news.google.com/rss/articles/CBMilAJBVV95cUxQTnVwX0lKU1
 
 ---
 
+### [Higher radiation from childhood imaging may increase brain tumor risk](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWnhUUGtDOFlBYU1WX1hDbUlvVS1Jb3Z6U2djbEF0Skx1czVzQlY0cW1tTGR6VnY3WDA2TGp5UXBKRURDNTliRnpFeFVma0FVbmRoZnlIVmZHMV9Ed1l1Z1F2bEI0MWY3U0lIQVhDR1VKNmNpOEktRXVNQVFaOUdUVXlDM1dMWGRsQ2RaN0J2M0x4SGdlbnpwajNSbWNubTVQemRrTXRQOFp2NUp5MFZvUzlvMllfMWYy?oc=5)
+
+2026-11-19 <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">tumor</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWnhUUGtDOFlBYU1WX1hDbUlvVS1Jb3Z6U2djbEF0Skx1czVzQlY0cW1tTGR6VnY3WDA2TGp5UXBKRURDNTliRnpFeFVma0FVbmRoZnlIVmZHMV9Ed1l1Z1F2bEI0MWY3U0lIQVhDR1VKNmNpOEktRXVNQVFaOUdUVXlDM1dMWGRsQ2RaN0J2M0x4SGdlbnpwajNSbWNubTVQemRrTXRQOFp2NUp5MFZvUzlvMllfMWYy?oc=5)
+
+---
+
 ### [World Pancreatic Cancer Month 2026: Know the Signs, Risk Factors and Why Early D](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTkxpQUxDOHdfRnQ2WVB0aTZFNUJRNU9FSFp2ZWZ1NjRxckhJVzdybEUtVV94UnlTdE1mVlZ4dEZEdHRmYnJKQnpoZEI4VHZaQ3BoYjdMRlJaOWVCYTNfdzBZU0ZBVDk1aWtNaW40N3NtM19UemMxYlFtdURrLUEwUEtjZ3JyV1BaTmVRZW00MVcyNGF5VWwxcV8tTzRxeUVsUGV2bEdGUkFTQ1JndVY2T0dCUWRBX0gxVXNfS2NDNktDLUJOSTgySXdBa29UTDVVRVFjRHNLWQ?oc=5)
 
 2026-11-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">pancreatic cancer</span> <span class="news-indication-tag">pancreatic cancer</span>
 
 Source: [Netmeds](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTkxpQUxDOHdfRnQ2WVB0aTZFNUJRNU9FSFp2ZWZ1NjRxckhJVzdybEUtVV94UnlTdE1mVlZ4dEZEdHRmYnJKQnpoZEI4VHZaQ3BoYjdMRlJaOWVCYTNfdzBZU0ZBVDk1aWtNaW40N3NtM19UemMxYlFtdURrLUEwUEtjZ3JyV1BaTmVRZW00MVcyNGF5VWwxcV8tTzRxeUVsUGV2bEdGUkFTQ1JndVY2T0dCUWRBX0gxVXNfS2NDNktDLUJOSTgySXdBa29UTDVVRVFjRHNLWQ?oc=5)
+
+---
+
+### [People entering old age now have better memory than their parents did](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZT19CcC1pUUNlNUZrMjcyOXREdHVsLWRLaTR6S2tNbGNJSzkzZVNMeVZNaUtBNkNQQ0Mta0tlMnNlOVlsS21RYWV2amJKWFdNdC1wdTNwSTFBYlBVdjZJ?oc=5)
+
+2026-11-19 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZT19CcC1pUUNlNUZrMjcyOXREdHVsLWRLaTR6S2tNbGNJSzkzZVNMeVZNaUtBNkNQQ0Mta0tlMnNlOVlsS21RYWV2amJKWFdNdC1wdTNwSTFBYlBVdjZJ?oc=5)
 
 ---
 

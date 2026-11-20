@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="What news is there about Arsenic Trioxide?">
-<strong>Arsenic Trioxide</strong> currently has <strong>55 news articles</strong>, with 0 predicted indications.
+<strong>Arsenic Trioxide</strong> currently has <strong>60 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -29,13 +29,53 @@ This page combines the AI-predicted indications for Arsenic Trioxide with the la
 <p><a href="{{ '/drugs/arsenic-trioxide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (55)
+## Related News (60)
+
+### [Cancer Control Plans Reveal Global Gaps in Comprehensiveness](https://news.google.com/rss/articles/CBMipAFBVV95cUxQc2hQZGZtQkZtWXlxLVVCd2ZKTjVTR1hjNWVGZTZjUXF6eWhtb0ZaMDNKXzNiMWtDZXpnR1RMTFc2UmZzaVp5LTUweXl1VlI3WGd2TXVoM3hjbkpOblpRR1ZObzlOQVk0bGlvOHNkeHE4N3lZWGIzcldpYWRtYlczQ01MUzhoZWc4MUI3X2dYUWhBaEpWUE9JdWotcUFIMWsxVmVGNA?oc=5)
+
+2026-11-20 <span class="news-indication-tag">cancer</span>
+
+Source: [EMJ](https://news.google.com/rss/articles/CBMipAFBVV95cUxQc2hQZGZtQkZtWXlxLVVCd2ZKTjVTR1hjNWVGZTZjUXF6eWhtb0ZaMDNKXzNiMWtDZXpnR1RMTFc2UmZzaVp5LTUweXl1VlI3WGd2TXVoM3hjbkpOblpRR1ZObzlOQVk0bGlvOHNkeHE4N3lZWGIzcldpYWRtYlczQ01MUzhoZWc4MUI3X2dYUWhBaEpWUE9JdWotcUFIMWsxVmVGNA?oc=5)
+
+---
+
+### [New pancreatic cancer drug halts tumour growth in 90% of patients - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPa3RTTVJkU3ZLREhsRFQ4Y21qWWVvd0ZwSmdROVpQaHFWTF82N01OVXdzbTRqSUlIUjVjN0VOZDBVUlI4Q1NNWU0ycEhLckdnSS1RRTQyRFE4SjhZWnF5dTdsYUp0b0I3YkY1MmZVZmc1bEJCNDhxV09MaVlReUxtX1BXejA?oc=5)
+
+2026-11-20 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">pancreatic cancer</span> <span class="news-indication-tag">pancreatic cancer</span>
+
+Source: [Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPa3RTTVJkU3ZLREhsRFQ4Y21qWWVvd0ZwSmdROVpQaHFWTF82N01OVXdzbTRqSUlIUjVjN0VOZDBVUlI4Q1NNWU0ycEhLckdnSS1RRTQyRFE4SjhZWnF5dTdsYUp0b0I3YkY1MmZVZmc1bEJCNDhxV09MaVlReUxtX1BXejA?oc=5)
+
+---
+
+### [Why do the majority prefer self-collected HPV tests - Medical Buyer](https://news.google.com/rss/articles/CBMihgFBVV95cUxQXy13Q3E4WDBULVVxdXJaUDRTR3Y0ZWVCVW1pdE1sTjVOUmtEdTQwRnNlRktUaE5pQU1wcFE0WHZWZnRCTlVhQXFjb2E4SmJvMmVodU8zY0FYUXpmbGRETDVQZUVreWQ3NjNBT3ctcTZfU0lFNzFTX0xrd0I4bjVuSjFaMUF4QQ?oc=5)
+
+2026-11-20 <span class="news-indication-tag">cancer</span>
+
+Source: [Medical Buyer](https://news.google.com/rss/articles/CBMihgFBVV95cUxQXy13Q3E4WDBULVVxdXJaUDRTR3Y0ZWVCVW1pdE1sTjVOUmtEdTQwRnNlRktUaE5pQU1wcFE0WHZWZnRCTlVhQXFjb2E4SmJvMmVodU8zY0FYUXpmbGRETDVQZUVreWQ3NjNBT3ctcTZfU0lFNzFTX0xrd0I4bjVuSjFaMUF4QQ?oc=5)
+
+---
+
+### [Strand Life Sciences to take its multi-cancer blood test to more hospitals, looks to bring down cost: CEO](https://news.google.com/rss/articles/CBMigwJBVV95cUxQT29iWHRJSGNjbWhzUzVURVF4RFE5NlVzMWV0QkU3NmRkUVhtZ3B5TG1DbXRadTVCR3VIUnVQVFdmb2Y4aHlpX1hkNXRXZlNrNktQS0l0UDJfVFlZNGx4b3lKMWpLSjJyclBrNkRVSWJ3VjYwMHNNdHljajZFVExIQjhqX0NSSmwyYmNSZlVUU20yU0hwc09rcTlBeFZ5SWlVbS04YWx2SVhqUzc5OTl4VkdJZDB1ZzJMekp1Z05vVEdpbUtBSVB2TThqMmRlM25qekV2a0pHcXVnSXRXNzI2cEZMSUJmYmNXTVBEMXZ0dmxlYm0xREFwZWw5eHBZeXFBMHpr0gGKAkFVX3lxTFB5aDNqcUtpd25aZXdrU1ZBTTE0dHFtVFpFUVNUeTRaWHNiZ0dDUG9Zdl9wc3BScXMyc0FOMWYyU29lNTZMYTdYc2hkX2hPRlMwdjBQamxURzNuanRad1RmVkRfbzFKcEM4VFlvUnVMTmtQY2w3bXJwRlpKc1NCOV9BaXBiZHRkWEpMQktBSDhHdGNjUHdCYUE4UlAzZUFFYXl3czNmU0x1MmJiN0JRcGptUVJjaHB4VVdRZmdPMmRCWi13X3d0cTF6ZUlna1Y3OUp5bkhpM0kwcW1reUZZN2hma3Nwak50SmNSR3FFY3BrV080cGduZTRsaktlRDR4Y25GQmpQeGh2cUxB?oc=5)
+
+2026-11-20 <span class="news-indication-tag">cancer</span>
+
+Source: [BusinessLine](https://news.google.com/rss/articles/CBMigwJBVV95cUxQT29iWHRJSGNjbWhzUzVURVF4RFE5NlVzMWV0QkU3NmRkUVhtZ3B5TG1DbXRadTVCR3VIUnVQVFdmb2Y4aHlpX1hkNXRXZlNrNktQS0l0UDJfVFlZNGx4b3lKMWpLSjJyclBrNkRVSWJ3VjYwMHNNdHljajZFVExIQjhqX0NSSmwyYmNSZlVUU20yU0hwc09rcTlBeFZ5SWlVbS04YWx2SVhqUzc5OTl4VkdJZDB1ZzJMekp1Z05vVEdpbUtBSVB2TThqMmRlM25qekV2a0pHcXVnSXRXNzI2cEZMSUJmYmNXTVBEMXZ0dmxlYm0xREFwZWw5eHBZeXFBMHpr0gGKAkFVX3lxTFB5aDNqcUtpd25aZXdrU1ZBTTE0dHFtVFpFUVNUeTRaWHNiZ0dDUG9Zdl9wc3BScXMyc0FOMWYyU29lNTZMYTdYc2hkX2hPRlMwdjBQamxURzNuanRad1RmVkRfbzFKcEM4VFlvUnVMTmtQY2w3bXJwRlpKc1NCOV9BaXBiZHRkWEpMQktBSDhHdGNjUHdCYUE4UlAzZUFFYXl3czNmU0x1MmJiN0JRcGptUVJjaHB4VVdRZmdPMmRCWi13X3d0cTF6ZUlna1Y3OUp5bkhpM0kwcW1reUZZN2hma3Nwak50SmNSR3FFY3BrV080cGduZTRsaktlRDR4Y25GQmpQeGh2cUxB?oc=5)
+
+---
 
 ### [Survival Outcomes in Patients with Non-Endometrioid Uterine Malignancies at a Tertiary Cancer Centre in North Kerala, India: A Retrospective Analysis](https://news.google.com/rss/articles/CBMilAJBVV95cUxQTnVwX0lKU1hObGRyQ2lNRXBjSU13b1ZFV1ZJamZFTlR0bF9UWTQ3RmVsZE90UWROYnE0QmRURlBBRUs0dGxTQW51SnIzVmxYanczUXNVM3hNeFE1NWY3V2hmamp2aHZ5YVg5TDUxRy1FU0ZXb2pwTkpWQkUzNl84OU5PY1o2YnpNenFOTEtwUUZxZnVtcE9DbjZXWVRmLTB2NXhOWHBlRjc0djVkMi1sT1A4Ynk4TEJFS3BCSm93UnN1elpjekpRRzJLZ013VHl4WW44X1J2ZWZnakhtcFFIWnNwTHVLcm5XTXNrUi1IRUltVmp2UHR5emF3Y19OR1VGSW94NUhVbTJYUUdpbkRPcEk1Vl8?oc=5)
 
 2026-11-19 <span class="news-indication-tag">cancer</span>
 
 Source: [Cureus](https://news.google.com/rss/articles/CBMilAJBVV95cUxQTnVwX0lKU1hObGRyQ2lNRXBjSU13b1ZFV1ZJamZFTlR0bF9UWTQ3RmVsZE90UWROYnE0QmRURlBBRUs0dGxTQW51SnIzVmxYanczUXNVM3hNeFE1NWY3V2hmamp2aHZ5YVg5TDUxRy1FU0ZXb2pwTkpWQkUzNl84OU5PY1o2YnpNenFOTEtwUUZxZnVtcE9DbjZXWVRmLTB2NXhOWHBlRjc0djVkMi1sT1A4Ynk4TEJFS3BCSm93UnN1elpjekpRRzJLZ013VHl4WW44X1J2ZWZnakhtcFFIWnNwTHVLcm5XTXNrUi1IRUltVmp2UHR5emF3Y19OR1VGSW94NUhVbTJYUUdpbkRPcEk1Vl8?oc=5)
+
+---
+
+### [Higher radiation from childhood imaging may increase brain tumor risk](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWnhUUGtDOFlBYU1WX1hDbUlvVS1Jb3Z6U2djbEF0Skx1czVzQlY0cW1tTGR6VnY3WDA2TGp5UXBKRURDNTliRnpFeFVma0FVbmRoZnlIVmZHMV9Ed1l1Z1F2bEI0MWY3U0lIQVhDR1VKNmNpOEktRXVNQVFaOUdUVXlDM1dMWGRsQ2RaN0J2M0x4SGdlbnpwajNSbWNubTVQemRrTXRQOFp2NUp5MFZvUzlvMllfMWYy?oc=5)
+
+2026-11-19 <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">tumor</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWnhUUGtDOFlBYU1WX1hDbUlvVS1Jb3Z6U2djbEF0Skx1czVzQlY0cW1tTGR6VnY3WDA2TGp5UXBKRURDNTliRnpFeFVma0FVbmRoZnlIVmZHMV9Ed1l1Z1F2bEI0MWY3U0lIQVhDR1VKNmNpOEktRXVNQVFaOUdUVXlDM1dMWGRsQ2RaN0J2M0x4SGdlbnpwajNSbWNubTVQemRrTXRQOFp2NUp5MFZvUzlvMllfMWYy?oc=5)
 
 ---
 

@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Ivermectin. 9 predicted indications."
 permalink: /news/ivermectin/
-last_modified_at: 2026-11-14
+last_modified_at: 2026-11-20
 ---
 
 # Ivermectin News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-14
 ---
 
 <p class="key-answer" data-question="What news is there about Ivermectin?">
-<strong>Ivermectin</strong> currently has <strong>1 news articles</strong>, with 9 predicted indications.
+<strong>Ivermectin</strong> currently has <strong>2 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ This page combines the AI-predicted indications for Ivermectin with the latest h
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (9)</strong>:<ul>
-<li>vulvovaginal candidiasis</li>
+<li class="indication-matched">vulvovaginal candidiasis<span class="indication-tag">📰 vulvovaginal candidiasis</span></li>
 <li>esophageal candidiasis</li>
 <li>anogenital human papillomavirus infection</li>
 <li>vulvovaginitis</li>
@@ -41,7 +41,15 @@ This page combines the AI-predicted indications for Ivermectin with the latest h
 <p><a href="{{ '/drugs/ivermectin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [Antifungal Susceptibility Pattern of Candida Species Causing Vulvovaginal Candidiasis: A Single-Center Study](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZE5FbkNJRk5pWC1jQWxYU1NmSlNlOU42X0pYaU5wSk1tVTdYMDdOZWM2Unl5QTZVdTRGVFRpQnhkQTA4OFpTcmtVWkF4cVNTTV93Vm1YeHpLSXh3RF9ZTkdPWHJMWnItTENiZTZlNHduSkdteGd6RHViTWVnbU54ajZyUG5KRkY3MlFHTmFmNVZkYkd1RlFEYkJFRlJidkhPQm1QdHNPaldmYUtfcEotbkp6X3VyZVB5bE5ndkphUExUTTEzMGx4Vm9TYkZPWU9HaWpwOXczek9TWlZXa3c4?oc=5)
+
+2026-11-20 <span class="news-indication-tag">vulvovaginal candidiasis</span> <span class="news-indication-tag">candidiasis</span>
+
+Source: [Cureus](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZE5FbkNJRk5pWC1jQWxYU1NmSlNlOU42X0pYaU5wSk1tVTdYMDdOZWM2Unl5QTZVdTRGVFRpQnhkQTA4OFpTcmtVWkF4cVNTTV93Vm1YeHpLSXh3RF9ZTkdPWHJMWnItTENiZTZlNHduSkdteGd6RHViTWVnbU54ajZyUG5KRkY3MlFHTmFmNVZkYkd1RlFEYkJFRlJidkhPQm1QdHNPaldmYUtfcEotbkp6X3VyZVB5bE5ndkphUExUTTEzMGx4Vm9TYkZPWU9HaWpwOXczek9TWlZXa3c4?oc=5)
+
+---
 
 ### [Menopause and Common Inflammatory Dermatoses: Current Evidence and Clinical Implications](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYUZyUzl1OWR2bWIyOW5VYWN5LWFoMnJkLXhIbUNlTFpHZEhKbjVZVlctc0tSSlFfNjgyaHJpeXVydXFEdWNqQzhKZlcxTnlURmx1S2dCNEx2Z1ljTU5MR0NJQUw0N2w4R0JoV1VoclVmc3VzSXJ1a3h6d1JWZzFhcFVoLTE4NnUxUm1SdnhFQWUtRUVISDlvZXZLbkJkSUQ5MjdEUGYydkU0UUZtc3FmYVdzU0hzc3pDQnpjVTdjUlVESzVrcmMwYkNjbm12c0QtenQ2U2FGY203Zw?oc=5)
 

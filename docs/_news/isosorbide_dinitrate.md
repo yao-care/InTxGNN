@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="What news is there about Isosorbide Dinitrate?">
-<strong>Isosorbide Dinitrate</strong> currently has <strong>19 news articles</strong>, with 0 predicted indications.
+<strong>Isosorbide Dinitrate</strong> currently has <strong>18 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -29,21 +29,13 @@ This page combines the AI-predicted indications for Isosorbide Dinitrate with th
 <p><a href="{{ '/drugs/isosorbide-dinitrate/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (19)
+## Related News (18)
 
 ### [Summer heatwaves raise death risk for heart disease patients](https://news.google.com/rss/articles/CBMirAFBVV95cUxPQm9LWl9WcXkwM3Zka1A3RHJQajE0ekpobUtvbHotWDhEUVdtb0Y2NGtCbjF2SmViaWh2RDNETTdlczVYZE5QWXhZVnNEcFctLWhNeHM3cGhmZWppRkJodlZHOVQxdVhrel9NNVRIeHFBNXdjcGhhLXV5Q0c5T1dPaW1WVTJvaUo3aThBRmlDVTd4RFRRU296LXczQWhJSDlSd2RrbmNGOUNJUWhB?oc=5)
 
 2026-11-19 <span class="news-indication-tag">heart disease</span>
 
 Source: [News-Medical](https://news.google.com/rss/articles/CBMirAFBVV95cUxPQm9LWl9WcXkwM3Zka1A3RHJQajE0ekpobUtvbHotWDhEUVdtb0Y2NGtCbjF2SmViaWh2RDNETTdlczVYZE5QWXhZVnNEcFctLWhNeHM3cGhmZWppRkJodlZHOVQxdVhrel9NNVRIeHFBNXdjcGhhLXV5Q0c5T1dPaW1WVTJvaUo3aThBRmlDVTd4RFRRU296LXczQWhJSDlSd2RrbmNGOUNJUWhB?oc=5)
-
----
-
-### [Stopping GLP-1s Linked to Double Heart Event Risk in T2D](https://news.google.com/rss/articles/CBMiogFBVV95cUxOdEQ0WlliTS12MFdrSEh6d1JlUWR5dk44UWxoU0drV1JxT2dsTFp4dmRTcnkwakV4aW5qSzhvbE9KRHh4ZHNZQm1rYnNkcnRsNThrRDVzT1B2RDlDa01wVXFVQ3k2Z2hXYVZ6U2FiaWRhMG00MW5uTEQ2MmVBX2ZhRUlRQjBQdnRHRHhMMHZZZlIzRURfUDNCQkNQaUR0aURGTFE?oc=5)
-
-2026-11-19 <span class="news-drug-tag">METFORMIN</span> <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">heart disease</span>
-
-Source: [Medscape](https://news.google.com/rss/articles/CBMiogFBVV95cUxOdEQ0WlliTS12MFdrSEh6d1JlUWR5dk44UWxoU0drV1JxT2dsTFp4dmRTcnkwakV4aW5qSzhvbE9KRHh4ZHNZQm1rYnNkcnRsNThrRDVzT1B2RDlDa01wVXFVQ3k2Z2hXYVZ6U2FiaWRhMG00MW5uTEQ2MmVBX2ZhRUlRQjBQdnRHRHhMMHZZZlIzRURfUDNCQkNQaUR0aURGTFE?oc=5)
 
 ---
 

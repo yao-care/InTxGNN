@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Mesalazine. 6 predicted indications."
 permalink: /news/mesalazine/
-last_modified_at: 2026-11-18
+last_modified_at: 2026-11-20
 ---
 
 # Mesalazine News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about Mesalazine?">
-<strong>Mesalazine</strong> currently has <strong>4 news articles</strong>, with 6 predicted indications.
+<strong>Mesalazine</strong> currently has <strong>5 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,7 @@ This page combines the AI-predicted indications for Mesalazine with the latest h
 <li><strong>Predicted indications (6)</strong>:<ul>
 <li>congenital hypotrichosis with juvenile macular dystrophy</li>
 <li class="indication-matched">osteoarthritis<span class="indication-tag">📰 osteoarthritis</span></li>
-<li>rheumatoid arthritis</li>
+<li class="indication-matched">rheumatoid arthritis<span class="indication-tag">📰 joint pain</span></li>
 <li>seborrheic keratosis</li>
 <li>vulvar inverted follicular keratosis</li>
 <li>pseudoachondroplasia</li>
@@ -38,7 +38,15 @@ This page combines the AI-predicted indications for Mesalazine with the latest h
 <p><a href="{{ '/drugs/mesalazine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (5)
+
+### [Cochrane review challenges benefits of turmeric supplements for knee osteoarthritis](https://news.google.com/rss/articles/CBMiywFBVV95cUxQME1MTXpRZnNNLWR1Ul9WeWZ2SDdoMFFnVzViNkEwQjE3eUUxVUQ1R21wX0tpWVZHV0plRllmZFhRRmh3N3kyODRTeHIzNHhmNWJzdy10b1JpQ1VITGJuUlRkZi1ZOGkwTTNmNnRHbVM2U3p6M2Y2Vm9CMlRMdDQtcnFZVlNFZU1wQjY2aGYxcWJtVGpYZ01CSWlYb1gzbGd0blMzc3BDbTlaOFV3d1hEajlmclZsYmNnTlROUDJMSWJaMUlWNTItbGROOA?oc=5)
+
+2026-11-19 <span class="news-indication-tag">joint pain</span> <span class="news-indication-tag">osteoarthritis</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMiywFBVV95cUxQME1MTXpRZnNNLWR1Ul9WeWZ2SDdoMFFnVzViNkEwQjE3eUUxVUQ1R21wX0tpWVZHV0plRllmZFhRRmh3N3kyODRTeHIzNHhmNWJzdy10b1JpQ1VITGJuUlRkZi1ZOGkwTTNmNnRHbVM2U3p6M2Y2Vm9CMlRMdDQtcnFZVlNFZU1wQjY2aGYxcWJtVGpYZ01CSWlYb1gzbGd0blMzc3BDbTlaOFV3d1hEajlmclZsYmNnTlROUDJMSWJaMUlWNTItbGROOA?oc=5)
+
+---
 
 ### [Investigational retatrutide reduced knee osteoarthritis pain and body weight versus placebo in adults with obesity - 2 Minute Medicine](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQUxQb254MjBrNV9jUlFGcTd2NTNPZ0VKb2Z5RUJ4NVVubmRMLTZZWlRDVDJfUnRXMF92UkJoREZtSndOUDV1N19XMW03amlPM0NxRzQzdFhKbXJvRnRlb0d3ZHlYbkJqMXdmUVZIY3Vvb3czbnR2N1RoZGpxdGt3a3o1N0dhdUZGbEpEcWlHZ3hhYUhvY2tsRDNSaXU1N2pkSkswU3Jxdno5dkdiM2xaNWIwckstcnlTeWR0djZwdnVDY0pjTjk0R0pFcXE0WnJVZkxfUkFJSEs2dE5LZzRPcA?oc=5)
 

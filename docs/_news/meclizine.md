@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Meclizine. 6 predicted indications."
 permalink: /news/meclizine/
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-20
 ---
 
 # Meclizine News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="What news is there about Meclizine?">
-<strong>Meclizine</strong> currently has <strong>5 news articles</strong>, with 6 predicted indications.
+<strong>Meclizine</strong> currently has <strong>6 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,15 @@ This page combines the AI-predicted indications for Meclizine with the latest he
 <p><a href="{{ '/drugs/meclizine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (6)
+
+### [WHO warns against antibiotic use for cold and flu | Tap to know more | Inshorts](https://news.google.com/rss/articles/CBMilwFBVV95cUxORG15dHJCMWNITzY4bnRqWEFBR1RVQ042LVdyTXVUTGJhUmdfYmdlc3pyR0VmaEFIQVYtazlyNlZOOFhwT2dUcDlRWEpTakVydTZ1VGF1UzBWSkxCMWdkY1RqSngySVZxTEZvUU5jM2ViMDZPUFY0RnhIaUFNX3FKQTlTUGxORUpDNWRieDEybkxxejVQOHdr0gGcAUFVX3lxTE14QjQ5WnNxRGlfVG9WS01RMnR2eXdkM0Rialh5dEdPZVlZOGhiRWFDdGxUV1pCTmJmSng5RTdHSUo3UUFLdlQ5STJlQzFhcGo1dnNpZHcwTXVzeVppU2d0V1U5RWxOVGEwMGtfVUZLVVdFeW5WUGtoY0FhazgwSTlGM1FIc19pX1I3YjZaSzgzbldQR3VjMWRvV3BFeA?oc=5)
+
+2026-11-19 <span class="news-indication-tag">cold</span>
+
+Source: [Inshorts](https://news.google.com/rss/articles/CBMilwFBVV95cUxORG15dHJCMWNITzY4bnRqWEFBR1RVQ042LVdyTXVUTGJhUmdfYmdlc3pyR0VmaEFIQVYtazlyNlZOOFhwT2dUcDlRWEpTakVydTZ1VGF1UzBWSkxCMWdkY1RqSngySVZxTEZvUU5jM2ViMDZPUFY0RnhIaUFNX3FKQTlTUGxORUpDNWRieDEybkxxejVQOHdr0gGcAUFVX3lxTE14QjQ5WnNxRGlfVG9WS01RMnR2eXdkM0Rialh5dEdPZVlZOGhiRWFDdGxUV1pCTmJmSng5RTdHSUo3UUFLdlQ5STJlQzFhcGo1dnNpZHcwTXVzeVppU2d0V1U5RWxOVGEwMGtfVUZLVVdFeW5WUGtoY0FhazgwSTlGM1FIc19pX1I3YjZaSzgzbldQR3VjMWRvV3BFeA?oc=5)
+
+---
 
 ### [Pneumonia warning signs: Doctors explain early warning symptoms that can be mistaken for a common cold or seasonal flu | Health - Hindustan Times](https://news.google.com/rss/articles/CBMilAJBVV95cUxOMVFFOTRBcVZTWWJSR0JRamlTQzRDeFliVVU3UnRYOU9NSzd3NzF5QmRBYldJY185NHRkcUtuSUJEMl82ZFhmcnJhR2ZBdjJVeFRNckV3bjdwVW1tckE5M3l3OE4zeGdlenFaVUJ6MG9HVlVpWHlGUWtBLWdZWTdwX0NpLUlDSXZXVzNfWlNzdkFpSm1ZYUE0cFBZUGxDWlVUSU93a3hPREg4VEtCemlqUUlmSzZxV0g3MW03UjVucXpSeENMam5iMzZLZm0zQkh6UG9ES0ZuT1FkZUh4YldjaXlRN2JOVWlNbEpQd1dQREFWM2RNNzd6RmlyU19TYVhhMjgwTnVEQ0djVWpkZjF2eFR0aUrSAZoCQVVfeXFMTjNya2M3OGlaWUZiSVRtc3hhMHhwRnRveTkxdnlFSkFSalBUalgyUl8yd3laRzNnWktaeGRKU042SW1SQnc5ZzlJSFNVV0NVUzBoaGlEVnF4WFNscmZISDM5MlZmRGdRNXFBVkRRaHBkUlVSWnJvQTB4dmlGMjdna2tacmdyX1l5WXpQeUFFdmZQd0Ffb0xGZjh3anlnNDdLdTV2eTNkR19Ec2hwaGltdWxHQ210ZEswTW9kZDhOeU9zeWJ2b05yV19fTHIxb3FVc1psb2xYTXM5UVhVMmVJYTBPbXBqS2pybW1LdzVOTWZBT0FuT0tpZzIwTmRHWFdWSnBaSHEtQi1IQmk1a0RtSU9CM2NuNXR6amRR?oc=5)
 

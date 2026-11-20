@@ -36,19 +36,19 @@ This page combines the AI-predicted indications for Ebastine with the latest hea
 
 ## Related News (19)
 
+### [Antifungal Susceptibility Pattern of Candida Species Causing Vulvovaginal Candidiasis: A Single-Center Study](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZE5FbkNJRk5pWC1jQWxYU1NmSlNlOU42X0pYaU5wSk1tVTdYMDdOZWM2Unl5QTZVdTRGVFRpQnhkQTA4OFpTcmtVWkF4cVNTTV93Vm1YeHpLSXh3RF9ZTkdPWHJMWnItTENiZTZlNHduSkdteGd6RHViTWVnbU54ajZyUG5KRkY3MlFHTmFmNVZkYkd1RlFEYkJFRlJidkhPQm1QdHNPaldmYUtfcEotbkp6X3VyZVB5bE5ndkphUExUTTEzMGx4Vm9TYkZPWU9HaWpwOXczek9TWlZXa3c4?oc=5)
+
+2026-11-20 <span class="news-indication-tag">vulvovaginal candidiasis</span> <span class="news-indication-tag">candidiasis</span>
+
+Source: [Cureus](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZE5FbkNJRk5pWC1jQWxYU1NmSlNlOU42X0pYaU5wSk1tVTdYMDdOZWM2Unl5QTZVdTRGVFRpQnhkQTA4OFpTcmtVWkF4cVNTTV93Vm1YeHpLSXh3RF9ZTkdPWHJMWnItTENiZTZlNHduSkdteGd6RHViTWVnbU54ajZyUG5KRkY3MlFHTmFmNVZkYkd1RlFEYkJFRlJidkhPQm1QdHNPaldmYUtfcEotbkp6X3VyZVB5bE5ndkphUExUTTEzMGx4Vm9TYkZPWU9HaWpwOXczek9TWlZXa3c4?oc=5)
+
+---
+
 ### [Summer heatwaves raise death risk for heart disease patients](https://news.google.com/rss/articles/CBMirAFBVV95cUxPQm9LWl9WcXkwM3Zka1A3RHJQajE0ekpobUtvbHotWDhEUVdtb0Y2NGtCbjF2SmViaWh2RDNETTdlczVYZE5QWXhZVnNEcFctLWhNeHM3cGhmZWppRkJodlZHOVQxdVhrel9NNVRIeHFBNXdjcGhhLXV5Q0c5T1dPaW1WVTJvaUo3aThBRmlDVTd4RFRRU296LXczQWhJSDlSd2RrbmNGOUNJUWhB?oc=5)
 
 2026-11-19 <span class="news-indication-tag">heart disease</span>
 
 Source: [News-Medical](https://news.google.com/rss/articles/CBMirAFBVV95cUxPQm9LWl9WcXkwM3Zka1A3RHJQajE0ekpobUtvbHotWDhEUVdtb0Y2NGtCbjF2SmViaWh2RDNETTdlczVYZE5QWXhZVnNEcFctLWhNeHM3cGhmZWppRkJodlZHOVQxdVhrel9NNVRIeHFBNXdjcGhhLXV5Q0c5T1dPaW1WVTJvaUo3aThBRmlDVTd4RFRRU296LXczQWhJSDlSd2RrbmNGOUNJUWhB?oc=5)
-
----
-
-### [Stopping GLP-1s Linked to Double Heart Event Risk in T2D](https://news.google.com/rss/articles/CBMiogFBVV95cUxOdEQ0WlliTS12MFdrSEh6d1JlUWR5dk44UWxoU0drV1JxT2dsTFp4dmRTcnkwakV4aW5qSzhvbE9KRHh4ZHNZQm1rYnNkcnRsNThrRDVzT1B2RDlDa01wVXFVQ3k2Z2hXYVZ6U2FiaWRhMG00MW5uTEQ2MmVBX2ZhRUlRQjBQdnRHRHhMMHZZZlIzRURfUDNCQkNQaUR0aURGTFE?oc=5)
-
-2026-11-19 <span class="news-drug-tag">METFORMIN</span> <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">heart disease</span>
-
-Source: [Medscape](https://news.google.com/rss/articles/CBMiogFBVV95cUxOdEQ0WlliTS12MFdrSEh6d1JlUWR5dk44UWxoU0drV1JxT2dsTFp4dmRTcnkwakV4aW5qSzhvbE9KRHh4ZHNZQm1rYnNkcnRsNThrRDVzT1B2RDlDa01wVXFVQ3k2Z2hXYVZ6U2FiaWRhMG00MW5uTEQ2MmVBX2ZhRUlRQjBQdnRHRHhMMHZZZlIzRURfUDNCQkNQaUR0aURGTFE?oc=5)
 
 ---
 

@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Bosentan. 8 predicted indications."
 permalink: /news/bosentan/
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-20
 ---
 
 # Bosentan News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-15
 ---
 
 <p class="key-answer" data-question="What news is there about Bosentan?">
-<strong>Bosentan</strong> currently has <strong>1 news articles</strong>, with 8 predicted indications.
+<strong>Bosentan</strong> currently has <strong>2 news articles</strong>, with 8 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ This page combines the AI-predicted indications for Bosentan with the latest hea
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
 <li><strong>Predicted indications (8)</strong>:<ul>
-<li>rheumatoid arthritis</li>
+<li class="indication-matched">rheumatoid arthritis<span class="indication-tag">📰 joint pain</span></li>
 <li>brachydactyly-syndactyly syndrome</li>
 <li>colobomatous microphthalmia-rhizomelic dysplasia syndrome</li>
 <li>pseudoxanthoma elasticum, forme fruste</li>
@@ -40,7 +40,15 @@ This page combines the AI-predicted indications for Bosentan with the latest hea
 <p><a href="{{ '/drugs/bosentan/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [Cochrane review challenges benefits of turmeric supplements for knee osteoarthritis](https://news.google.com/rss/articles/CBMiywFBVV95cUxQME1MTXpRZnNNLWR1Ul9WeWZ2SDdoMFFnVzViNkEwQjE3eUUxVUQ1R21wX0tpWVZHV0plRllmZFhRRmh3N3kyODRTeHIzNHhmNWJzdy10b1JpQ1VITGJuUlRkZi1ZOGkwTTNmNnRHbVM2U3p6M2Y2Vm9CMlRMdDQtcnFZVlNFZU1wQjY2aGYxcWJtVGpYZ01CSWlYb1gzbGd0blMzc3BDbTlaOFV3d1hEajlmclZsYmNnTlROUDJMSWJaMUlWNTItbGROOA?oc=5)
+
+2026-11-19 <span class="news-indication-tag">joint pain</span> <span class="news-indication-tag">osteoarthritis</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMiywFBVV95cUxQME1MTXpRZnNNLWR1Ul9WeWZ2SDdoMFFnVzViNkEwQjE3eUUxVUQ1R21wX0tpWVZHV0plRllmZFhRRmh3N3kyODRTeHIzNHhmNWJzdy10b1JpQ1VITGJuUlRkZi1ZOGkwTTNmNnRHbVM2U3p6M2Y2Vm9CMlRMdDQtcnFZVlNFZU1wQjY2aGYxcWJtVGpYZ01CSWlYb1gzbGd0blMzc3BDbTlaOFV3d1hEajlmclZsYmNnTlROUDJMSWJaMUlWNTItbGROOA?oc=5)
+
+---
 
 ### [Gout is on the rise – and excruciating. Why are sufferers still judged for it? - The Guardian](https://news.google.com/rss/articles/CBMixgFBVV95cUxPMHNxZlBhYzlZNVAzcGpHeHZEQ21rdV9CQUFxVzl0azF1Wk81RHF1MWh6dFdMazQya0Z4WUF1SUlDWnhzM1ltNnRkOUxwdk9fOUtQczBycW1aRVk1eE1rZkp4djdRSGtTdlJWZG41OVV4TFcweW0tTlVtN29XQW80eWZtX2Zkcmlydl95OXpXMHpKaEZBYWVsN3ZsR2RFZl9lVGVtVThHSXRySDk2RHlJSHR3SHRtODJJNk1FVVN5RzNYay1ndWc?oc=5)
 

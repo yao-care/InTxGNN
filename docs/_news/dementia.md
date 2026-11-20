@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "alzheimer (dementia) News"
+title: "memory loss (dementia) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about alzheimer (dementia). 23 articles, 8 related drugs."
+description: "Health news about memory loss (dementia). 24 articles, 8 related drugs."
 permalink: /news/dementia/
 last_modified_at: 2026-11-20
 ---
 
-# alzheimer (dementia) News
+# memory loss (dementia) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about alzheimer (dementia)?">
-<strong>alzheimer (dementia)</strong> currently has <strong>23 news articles</strong> and 8 related drugs.
+<p class="key-answer" data-question="What news is there about memory loss (dementia)?">
+<strong>memory loss (dementia)</strong> currently has <strong>24 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “alzheimer” and lists the drugs in the InTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “memory loss” and lists the drugs in the InTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -37,13 +37,21 @@ This page brings together the latest health news about “alzheimer” and lists
 </ul>
 </div>
 
-## Related News (23)
+## Related News (24)
 
 ### [Stem cells injected into brains of Alzheimer’s patients in world first - The Times](https://news.google.com/rss/articles/CBMijgFBVV95cUxOU1lNTGI4X1Q4TDFaTGM2SllLV0VORjVpRjZtSjFIVmpRV2NIUG5GWk9xLThSVU9xU1RSb01UTDFXU2x4UVRIVWU2NkVBZlJkekVyYVB5OHZ6czRGZnJFS1pzVGVaT2RxbGkwN1Q2TVZEM0Y3NU1pTHlwTHVRN0hMN29rcXJhSThvdlFDRGdn?oc=5)
 
 2026-11-19
 
 Source: [The Times](https://news.google.com/rss/articles/CBMijgFBVV95cUxOU1lNTGI4X1Q4TDFaTGM2SllLV0VORjVpRjZtSjFIVmpRV2NIUG5GWk9xLThSVU9xU1RSb01UTDFXU2x4UVRIVWU2NkVBZlJkekVyYVB5OHZ6czRGZnJFS1pzVGVaT2RxbGkwN1Q2TVZEM0Y3NU1pTHlwTHVRN0hMN29rcXJhSThvdlFDRGdn?oc=5)
+
+---
+
+### [People entering old age now have better memory than their parents did](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZT19CcC1pUUNlNUZrMjcyOXREdHVsLWRLaTR6S2tNbGNJSzkzZVNMeVZNaUtBNkNQQ0Mta0tlMnNlOVlsS21RYWV2amJKWFdNdC1wdTNwSTFBYlBVdjZJ?oc=5)
+
+2026-11-19
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZT19CcC1pUUNlNUZrMjcyOXREdHVsLWRLaTR6S2tNbGNJSzkzZVNMeVZNaUtBNkNQQ0Mta0tlMnNlOVlsS21RYWV2amJKWFdNdC1wdTNwSTFBYlBVdjZJ?oc=5)
 
 ---
 
