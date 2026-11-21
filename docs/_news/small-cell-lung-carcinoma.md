@@ -3,9 +3,9 @@ layout: default
 title: "lung cancer (small cell lung carcinoma) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about lung cancer (small cell lung carcinoma). 8 articles, 5 related drugs."
+description: "Health news about lung cancer (small cell lung carcinoma). 10 articles, 5 related drugs."
 permalink: /news/small-cell-lung-carcinoma/
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-21
 ---
 
 # lung cancer (small cell lung carcinoma) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="What news is there about lung cancer (small cell lung carcinoma)?">
-<strong>lung cancer (small cell lung carcinoma)</strong> currently has <strong>8 news articles</strong> and 5 related drugs.
+<strong>lung cancer (small cell lung carcinoma)</strong> currently has <strong>10 news articles</strong> and 5 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,23 @@ This page brings together the latest health news about “lung cancer” and lis
 </ul>
 </div>
 
-## Related News (8)
+## Related News (10)
+
+### [Why Are Indian Men More Vulnerable to Lung Cancer Than Women? Understanding the Gender Gap - Health and Me](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNalViREh1SEV2UjBlWkZ1TTh1MktKVW9HemFxU0JKNlE2VVdpNHZHWDJOVnAyRFB2OXAtbFFlMWE3Y3hJNXJHQmR2WkxWWnRyWldpdWFSeURLLUpUcjRPOUhTeDZrNDF5QklROG9XbGpPV2luaktHWTl5a1hsQk1ocEJaaE5wVjEyNTNGTGRjcm0yUXg0bDVEVlBaQ1NSOEh1V2lMNVNqM2NpaXdnSlFYMHEwVW9rQzdCMmtMR0ZXa0JjS2dRNjlJMUJVeG85SXdIV1BQNEJ6aHotWFVYZ1VzeTZ2cGZ1Zw?oc=5)
+
+2026-11-21
+
+Source: [Health and Me](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNalViREh1SEV2UjBlWkZ1TTh1MktKVW9HemFxU0JKNlE2VVdpNHZHWDJOVnAyRFB2OXAtbFFlMWE3Y3hJNXJHQmR2WkxWWnRyWldpdWFSeURLLUpUcjRPOUhTeDZrNDF5QklROG9XbGpPV2luaktHWTl5a1hsQk1ocEJaaE5wVjEyNTNGTGRjcm0yUXg0bDVEVlBaQ1NSOEh1V2lMNVNqM2NpaXdnSlFYMHEwVW9rQzdCMmtMR0ZXa0JjS2dRNjlJMUJVeG85SXdIV1BQNEJ6aHotWFVYZ1VzeTZ2cGZ1Zw?oc=5)
+
+---
+
+### [Illusion Of Healthy Vapes Goes Up In Smoke, Study Finds It Causes Decline In Lung Function](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNc2RRMFNIWW1VY3Z3cUE4dWZkYXhEd0paOHRaZFNRV2phWTNfZFctMDB4dnoxTENrMTZTZTEwbUU0eWtKa1VaeTI0b2k4Nld6VkxqVldfeFEyR3MzQzdlbXkwVlhjZWNtaHJLR0x0MEVGbVBfOTlTVV9ma3VfbTN2aTdUSUcyd2cyeGpaOHcwOHN5TVRsMlpKdENwa3lIM2g2WldmcWptajJJbnViZUs2X1QtNTlWcVhOSjUtcW1qMXp3UWxaWkVhZTJjMm5sNHB0RmFHT0VHU0FTRVNrU1VxNDhjaXpVRW5IbG9QRV9ZVdIB9AFBVV95cUxNWDJmcDFzelpjek1BcVh1YzkzSk9pM1JaMHBJUDRFam1CT1FNbjJsdXU1MUFCV3NTUkJWQTJUZGlVMWVYUWpJbTItZXQzdzdnYzFJYXdFNE9ST2tFTHBsZS1uTFpCSmJGdGtLdkdzM1NZY215dHZUeFhqazliaHdYWUw4d0VZaWllXzNzM1hvUWZabkxoQ2lwbnQ2U3Y3aTdkMWI2NzA5dHE5eXRLTXBKd0JrNlNwQmNBb1ZwZ1FpMmszWTJ1b1lLcFRiZnNndVVjZzBoQ1RDdGN3X2dVUG1YY0c2UlRON2pXTXBBaFdjajh2djNi?oc=5)
+
+2026-11-21
+
+Source: [News18](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNc2RRMFNIWW1VY3Z3cUE4dWZkYXhEd0paOHRaZFNRV2phWTNfZFctMDB4dnoxTENrMTZTZTEwbUU0eWtKa1VaeTI0b2k4Nld6VkxqVldfeFEyR3MzQzdlbXkwVlhjZWNtaHJLR0x0MEVGbVBfOTlTVV9ma3VfbTN2aTdUSUcyd2cyeGpaOHcwOHN5TVRsMlpKdENwa3lIM2g2WldmcWptajJJbnViZUs2X1QtNTlWcVhOSjUtcW1qMXp3UWxaWkVhZTJjMm5sNHB0RmFHT0VHU0FTRVNrU1VxNDhjaXpVRW5IbG9QRV9ZVdIB9AFBVV95cUxNWDJmcDFzelpjek1BcVh1YzkzSk9pM1JaMHBJUDRFam1CT1FNbjJsdXU1MUFCV3NTUkJWQTJUZGlVMWVYUWpJbTItZXQzdzdnYzFJYXdFNE9ST2tFTHBsZS1uTFpCSmJGdGtLdkdzM1NZY215dHZUeFhqazliaHdYWUw4d0VZaWllXzNzM1hvUWZabkxoQ2lwbnQ2U3Y3aTdkMWI2NzA5dHE5eXRLTXBKd0JrNlNwQmNBb1ZwZ1FpMmszWTJ1b1lLcFRiZnNndVVjZzBoQ1RDdGN3X2dVUG1YY0c2UlRON2pXTXBBaFdjajh2djNi?oc=5)
+
+---
 
 ### [ESMO 2026: Advancing Lung Cancer Prevention with Laura Mezquita](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPamt6UnU0RERqcGowZHdqS193X2RSRGlKYnZDLXoxR0FxeGh1c1VmWG9nQ1A2VVNjSUtjNHJ0a2tkUlRKWVpENTBkb21zYVh4UTIyd2JmUl9hQ2prdHdrd29ZMmEycE9QdG1rMi1hX2Y0U1RvQ0ljX0Z2aXNpYWphX0o5ZE9LZ3FQOUhVaVdYX09ONGd2aURLTW5LTjNtaFhjb1czRmI2WUFfZWZXek0xUDZ0bE5ZSnJpVC02T0gwbEU4THc?oc=5)
 

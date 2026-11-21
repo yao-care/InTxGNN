@@ -15,7 +15,7 @@ last_modified_at: 2026-11-21
 ---
 
 <p class="key-answer" data-question="What news is there about Tulobuterol?">
-<strong>Tulobuterol</strong> currently has <strong>7 news articles</strong>, with 4 predicted indications.
+<strong>Tulobuterol</strong> currently has <strong>9 news articles</strong>, with 4 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,7 @@ This page combines the AI-predicted indications for Tulobuterol with the latest 
 <p><a href="{{ '/drugs/tulobuterol/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (7)
+## Related News (9)
 
 ### [Beyond self-reporting: Measuring smoking exposure objectively](https://news.google.com/rss/articles/CBMitAFBVV95cUxOaTI2VldsOGFpOVVtcElwQ2VzWm5DSUlhMC1WS09xODJiOG9MalJFd2h3XzBFRUp4azVSR0RybHlLY3ZFSkFXVGRZOC1wd3FQRTlNYmx0WFlHR29BYUJ1OWlyN3pYWHI5X0cyT2Q0eGxlOXdMREJ5dHBLQm0yNzBRSjdIbUJiazE3YWlzdEwtZFEtX0EwQ2JlQ01QLUVnbU1DNmlGNFcyS2hONmhMYWlpOFI5WHA?oc=5)
 
@@ -78,11 +78,27 @@ Source: [Yahoo Health](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPX2Q2
 
 ---
 
+### [World COPD Day: How air pollution is sparking silent COPD attacks and the warning signs you shouldn’t ignore](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPaERUVWdzeENhMXFubXI1SU5LU1FEaEFyQ1llUE52M3dNYUQ4NDBSbE9FM3Z2dzdXSzYtSVM0ZVRKNVk5WjhKN2M4UExEdHVhQXNOZEFTVHR4RVBMQW5Sd0NOQWRQNW5kZTAtSDBjVzJtYUVaVkNEVC1JNC1ZVEozUWhjX0V0VzlvTl9VWW81UkR3cVo4Ym1tZ2JPTTRVNVZOcDNwMFdZc3VrQTgwWGc0Vlh2R0VweXZlZHdwclplLVJjZjhtbUtTdHgwVFMtakthS3p1TGpBM28xbnhQaUs1R19fLTl2WHl2T0F1U3UzejJCM25rTzhJVlhVdERqd9IBiwJBVV95cUxONEkzVjBiNldHaVNSeXptVWgwWm9US19CdkpMV3dvVndVQm1QZ21ULVlKNUpMVExqRkJITEJvRjItWEQyY3BhQ2hFeEpUNWEybTl0aEFxZVhuZ0tMNE0tUTBsT3RmNUxwWG1JZFBvWXBaZnVGU3kxaEloMnp4UHJaMWtkcjBiRzZGTTczX3paQXI5RzhmWnR3NlMwWHZrMVhaMkRwd25iMzV5cmFQMWd5cDRYdXBveS02cnVoMGpPaEVLbEw1dExUOWNGdkEybjNZZlc1UUR6d2N0ZjBXWFU0MnQ4Zy1sd3YzLXRfQmNBaDd6RTFMWUFNaGxVenZNd3JYbFN5bTFTN2lDQUE?oc=5)
+
+2026-11-18 <span class="news-indication-tag">COPD</span>
+
+Source: [IndulgExpress](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPaERUVWdzeENhMXFubXI1SU5LU1FEaEFyQ1llUE52M3dNYUQ4NDBSbE9FM3Z2dzdXSzYtSVM0ZVRKNVk5WjhKN2M4UExEdHVhQXNOZEFTVHR4RVBMQW5Sd0NOQWRQNW5kZTAtSDBjVzJtYUVaVkNEVC1JNC1ZVEozUWhjX0V0VzlvTl9VWW81UkR3cVo4Ym1tZ2JPTTRVNVZOcDNwMFdZc3VrQTgwWGc0Vlh2R0VweXZlZHdwclplLVJjZjhtbUtTdHgwVFMtakthS3p1TGpBM28xbnhQaUs1R19fLTl2WHl2T0F1U3UzejJCM25rTzhJVlhVdERqd9IBiwJBVV95cUxONEkzVjBiNldHaVNSeXptVWgwWm9US19CdkpMV3dvVndVQm1QZ21ULVlKNUpMVExqRkJITEJvRjItWEQyY3BhQ2hFeEpUNWEybTl0aEFxZVhuZ0tMNE0tUTBsT3RmNUxwWG1JZFBvWXBaZnVGU3kxaEloMnp4UHJaMWtkcjBiRzZGTTczX3paQXI5RzhmWnR3NlMwWHZrMVhaMkRwd25iMzV5cmFQMWd5cDRYdXBveS02cnVoMGpPaEVLbEw1dExUOWNGdkEybjNZZlc1UUR6d2N0ZjBXWFU0MnQ4Zy1sd3YzLXRfQmNBaDd6RTFMWUFNaGxVenZNd3JYbFN5bTFTN2lDQUE?oc=5)
+
+---
+
 ### [World COPD Day – Breathlessness Is Not Just Ageing : Early Warning Signs Of COPD That Often Go Unnoticed : Dr. Pavan Yadav M V, Clinical Director & Senior Consultant – Interventional Pulmonology & Sleep Medicine, KIMS Hospitals, Electronic City, Ben - TRIPURA STAR NEWS](https://news.google.com/rss/articles/CBMiqwJBVV95cUxNVm54MU1uVUd5NlpaTlJodk42Y0pRMUlYdVdCM2p4MXJtVVk4QVNiWUNLU0hFOGs0UXpVaXJnQkdRNGNabzZPeDVoM2MxQ09lUXdtcUQzc1kweUlqOFlHVk9OcGlOV0pmUkhVOFp0TGRCWTNOX0htUE5pNmlLT09jR0dSQmN1cWtubDkyN0MwbXZXZ1NFMENXUVNDVnlkdjFxSU9YMFMwZTFuYVFKMTlfaEUxMm0tMWpPY2Q2bzk4RGU3TENJRVBKNUVTcW9meWFSbXEyTmxUNkppbW5laDMwcUVKeXFuX0JFVnJYQ09zSEtqUDBqMjdNM0pqLUo3UXNkcWdBVzN4TmxQalRKUHFET2E4YmUxZXlyV05Rb2xyYndYLXl6M2JzalZ2TQ?oc=5)
 
 2026-11-18 <span class="news-indication-tag">COPD</span>
 
 Source: [TRIPURA STAR NEWS](https://news.google.com/rss/articles/CBMiqwJBVV95cUxNVm54MU1uVUd5NlpaTlJodk42Y0pRMUlYdVdCM2p4MXJtVVk4QVNiWUNLU0hFOGs0UXpVaXJnQkdRNGNabzZPeDVoM2MxQ09lUXdtcUQzc1kweUlqOFlHVk9OcGlOV0pmUkhVOFp0TGRCWTNOX0htUE5pNmlLT09jR0dSQmN1cWtubDkyN0MwbXZXZ1NFMENXUVNDVnlkdjFxSU9YMFMwZTFuYVFKMTlfaEUxMm0tMWpPY2Q2bzk4RGU3TENJRVBKNUVTcW9meWFSbXEyTmxUNkppbW5laDMwcUVKeXFuX0JFVnJYQ09zSEtqUDBqMjdNM0pqLUo3UXNkcWdBVzN4TmxQalRKUHFET2E4YmUxZXlyV05Rb2xyYndYLXl6M2JzalZ2TQ?oc=5)
+
+---
+
+### [Indoor air pollution raises COPD risk even among non-smokers, warns doctor on World COPD Day - The Times of India](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMFYtS3JkUzRBbGJTUTZ1a0hjV1lybW1vZG0zUldwWXBwUjh1Sm0yTHRZWlFuUkFydzhhdE5USVljd2xuMmVVNFdUOTVJQ1pna0VvQl9yS1lOSEh1WVo5cGx0WnZZeFBBaU0tVXVCdVlIVVh1Y1N5enUwdXFiZWczOU1OLXNuYzRJY0dPYXVXelVGSzctdXZ3emJ6aXhVVEVPVEU0YWpza09vUXpQY29kQXpDNXFLczQzU2JMQVREM0FRVkhsV25rcmNhVkRPUHAtWDFoMmVsUW0tSFE3QUZzMFFvV0ZfbkNtM3RYVFEzMHNMdw?oc=5)
+
+2026-11-18 <span class="news-indication-tag">COPD</span>
+
+Source: [The Times of India](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMFYtS3JkUzRBbGJTUTZ1a0hjV1lybW1vZG0zUldwWXBwUjh1Sm0yTHRZWlFuUkFydzhhdE5USVljd2xuMmVVNFdUOTVJQ1pna0VvQl9yS1lOSEh1WVo5cGx0WnZZeFBBaU0tVXVCdVlIVVh1Y1N5enUwdXFiZWczOU1OLXNuYzRJY0dPYXVXelVGSzctdXZ3emJ6aXhVVEVPVEU0YWpza09vUXpQY29kQXpDNXFLczQzU2JMQVREM0FRVkhsV25rcmNhVkRPUHAtWDFoMmVsUW0tSFE3QUZzMFFvV0ZfbkNtM3RYVFEzMHNMdw?oc=5)
 
 ---
 

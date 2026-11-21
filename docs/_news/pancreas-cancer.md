@@ -3,9 +3,9 @@ layout: default
 title: "pancreatic cancer (pancreas cancer) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about pancreatic cancer (pancreas cancer). 6 articles, 1 related drugs."
+description: "Health news about pancreatic cancer (pancreas cancer). 9 articles, 1 related drugs."
 permalink: /news/pancreas-cancer/
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-21
 ---
 
 # pancreatic cancer (pancreas cancer) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="What news is there about pancreatic cancer (pancreas cancer)?">
-<strong>pancreatic cancer (pancreas cancer)</strong> currently has <strong>6 news articles</strong> and 1 related drugs.
+<strong>pancreatic cancer (pancreas cancer)</strong> currently has <strong>9 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page brings together the latest health news about “pancreatic cancer” a
 </ul>
 </div>
 
-## Related News (6)
+## Related News (9)
+
+### [Daraxonrasib Pill Offers Promising Hope for Pancreatic Cancer - India News Network](https://news.google.com/rss/articles/CBMipAFBVV95cUxQY005RENtWmhrTURWX3lBWTRDRTIydGVuTWFMc1BuYy1kelo4d19QQ3BhazRfUHRkQm5BdGs4REhBNFZDVUVsWDQwUkUtQlFzYkZCZ1dGX3g1aFhydG5DdEgxcHdOOVpkUmVQYUdCNHlyTFktcnpoR2pOOC0zQlVmSnlMT1NyLXZCRmFuQ01xc2dSNHp2Mzk4Ui1pejNuUWhMZ2tjXw?oc=5)
+
+2026-11-21
+
+Source: [India News Network](https://news.google.com/rss/articles/CBMipAFBVV95cUxQY005RENtWmhrTURWX3lBWTRDRTIydGVuTWFMc1BuYy1kelo4d19QQ3BhazRfUHRkQm5BdGs4REhBNFZDVUVsWDQwUkUtQlFzYkZCZ1dGX3g1aFhydG5DdEgxcHdOOVpkUmVQYUdCNHlyTFktcnpoR2pOOC0zQlVmSnlMT1NyLXZCRmFuQ01xc2dSNHp2Mzk4Ui1pejNuUWhMZ2tjXw?oc=5)
+
+---
 
 ### [5 Pancreatic Cancer Numbers Patients and Families Should Know - Cure Today](https://news.google.com/rss/articles/CBMilwFBVV95cUxPS1g3Yl9hM3ROVVZsUDlpM2hNM0FEOGE2al9uX0w3UDZ5SWZlVEN5SGZOQndSZGlRTmpjX0lzYUlER0FsR3ZXZ3UyYVRnVFM2MmpwbmJsNGpDUjBYM3paanlBeDJZbXJPVFVZbjE3TjN1XzZrTVREWHN0bWk2RFk1OTBaQllvRGJsMVhxRGhWWF96N0p0QlR3?oc=5)
 
@@ -40,11 +48,27 @@ Source: [Cure Today](https://news.google.com/rss/articles/CBMilwFBVV95cUxPS1g3Yl
 
 ---
 
+### [Revolution Medicines Highlights Strong 12-Month Overall Survival Rate for Lead Cancer Drug Regimen](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNdnZvRW55S2t6elVkdUJ2OGhuXzYyMjRULTBmYndlNWREV3pfcGtoQy1VcHoxUDN2UjU2QjRtckl3Z0V3Z0pLb1dYRXJMZ2ZFeTdDdGlEYTBIS2JjME5NbnRHY1NaUDNNME5UdkhoX1Z6aGE3bm5wSEFwUFpQajJtSVZ2cmcwLTk3UGwwU201dXExZUNMUzE3a1pHcldCVVVhbWlzb2pHWmhtVTVJVUhBdG9ydUYwWEFtQVRJTkF1RE4tbU1rRVl3TlZwdjlXa3NWS0FZLVdLS0l0bmw4OHdvWFhQZ3RiaVBVOUJLT05B?oc=5)
+
+2026-11-20
+
+Source: [TradingView](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNdnZvRW55S2t6elVkdUJ2OGhuXzYyMjRULTBmYndlNWREV3pfcGtoQy1VcHoxUDN2UjU2QjRtckl3Z0V3Z0pLb1dYRXJMZ2ZFeTdDdGlEYTBIS2JjME5NbnRHY1NaUDNNME5UdkhoX1Z6aGE3bm5wSEFwUFpQajJtSVZ2cmcwLTk3UGwwU201dXExZUNMUzE3a1pHcldCVVVhbWlzb2pHWmhtVTVJVUhBdG9ydUYwWEFtQVRJTkF1RE4tbU1rRVl3TlZwdjlXa3NWS0FZLVdLS0l0bmw4OHdvWFhQZ3RiaVBVOUJLT05B?oc=5)
+
+---
+
 ### [New pancreatic cancer drug halts tumour growth in 90% of patients - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPa3RTTVJkU3ZLREhsRFQ4Y21qWWVvd0ZwSmdROVpQaHFWTF82N01OVXdzbTRqSUlIUjVjN0VOZDBVUlI4Q1NNWU0ycEhLckdnSS1RRTQyRFE4SjhZWnF5dTdsYUp0b0I3YkY1MmZVZmc1bEJCNDhxV09MaVlReUxtX1BXejA?oc=5)
 
 2026-11-20
 
 Source: [Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPa3RTTVJkU3ZLREhsRFQ4Y21qWWVvd0ZwSmdROVpQaHFWTF82N01OVXdzbTRqSUlIUjVjN0VOZDBVUlI4Q1NNWU0ycEhLckdnSS1RRTQyRFE4SjhZWnF5dTdsYUp0b0I3YkY1MmZVZmc1bEJCNDhxV09MaVlReUxtX1BXejA?oc=5)
+
+---
+
+### [World Pancreatic Cancer Month 2026: Recognising Warning Signs And Understanding The Risks - News Mobile](https://news.google.com/rss/articles/CBMivwFBVV95cUxNTDB6cTlpWkRXNnV1U2pxeEZSRXdLUUlCZ2gxbWJJVlVodVItUkdqR2xpMURGbFJqTS15NmRzUXllWDlJUEJWZlB3SnhfRU1HZk5HV1Jta1JNY2lnUU1lMXBUd1RlNFlGZVBwU09VRUJwdm1SNUcwdGE5R3pxeGtlNXNkVW5aVzZweVBCenlHejdUM2pjenhkSjdwaUdheGpSTThNU0RkZng0R0xpOHVObTJUWDFpTjVuWlZIM05Maw?oc=5)
+
+2026-11-20
+
+Source: [News Mobile](https://news.google.com/rss/articles/CBMivwFBVV95cUxNTDB6cTlpWkRXNnV1U2pxeEZSRXdLUUlCZ2gxbWJJVlVodVItUkdqR2xpMURGbFJqTS15NmRzUXllWDlJUEJWZlB3SnhfRU1HZk5HV1Jta1JNY2lnUU1lMXBUd1RlNFlGZVBwU09VRUJwdm1SNUcwdGE5R3pxeGtlNXNkVW5aVzZweVBCenlHejdUM2pjenhkSjdwaUdheGpSTThNU0RkZng0R0xpOHVObTJUWDFpTjVuWlZIM05Maw?oc=5)
 
 ---
 

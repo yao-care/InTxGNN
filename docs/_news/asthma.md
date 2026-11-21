@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "asthma News"
+title: "wheezing (asthma) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about asthma. 3 articles, 1 related drugs."
+description: "Health news about wheezing (asthma). 4 articles, 1 related drugs."
 permalink: /news/asthma/
-last_modified_at: 2026-11-18
+last_modified_at: 2026-11-21
 ---
 
-# asthma News
+# wheezing (asthma) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about asthma?">
-<strong>asthma</strong> currently has <strong>3 news articles</strong> and 1 related drugs.
+<p class="key-answer" data-question="What news is there about wheezing (asthma)?">
+<strong>wheezing (asthma)</strong> currently has <strong>4 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “asthma” and lists the drugs in the InTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “wheezing” and lists the drugs in the InTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -30,7 +30,15 @@ This page brings together the latest health news about “asthma” and lists th
 </ul>
 </div>
 
-## Related News (3)
+## Related News (4)
+
+### [Wheezing, Dyspnea, and Bronchial Calcifications Revealing Suspected Keutel Syndrome: A Case Report](https://news.google.com/rss/articles/CBMizwFBVV95cUxPeXVvNVNDNjFodUtxLU9vSEhybU5OMlc2T0NEV1JPbHlHbzlyREY4dnZhZ3dJNVBmdTh5a24yV0NYSEh1Zm9CbVpLdFN6S2phR0Y2VVlFOEEwUEIxWE1IY1BORkVqNDJJYU9fenRoZUpLc1paQ3M1RXE1aEZlbHVPeUJfZ0NJVjlHREJVWmtCNjFaZmlRR0hnTWdXQ1lTcHdWYU1tNW95d1cxd0RhWkw3Nk1DcHRwV3ZOUjFzRUpfbmVLMEJCUlRaVkVwYWVaVk0?oc=5)
+
+2026-11-21
+
+Source: [Cureus](https://news.google.com/rss/articles/CBMizwFBVV95cUxPeXVvNVNDNjFodUtxLU9vSEhybU5OMlc2T0NEV1JPbHlHbzlyREY4dnZhZ3dJNVBmdTh5a24yV0NYSEh1Zm9CbVpLdFN6S2phR0Y2VVlFOEEwUEIxWE1IY1BORkVqNDJJYU9fenRoZUpLc1paQ3M1RXE1aEZlbHVPeUJfZ0NJVjlHREJVWmtCNjFaZmlRR0hnTWdXQ1lTcHdWYU1tNW95d1cxd0RhWkw3Nk1DcHRwV3ZOUjFzRUpfbmVLMEJCUlRaVkVwYWVaVk0?oc=5)
+
+---
 
 ### [Infant Chest Infection Tied to Higher Odds of Wheeze, Asthma](https://news.google.com/rss/articles/CBMipgFBVV95cUxQYTVqSVhCMjBoUDloZVdONTZuRlNuOWxqUjJSYWNGalhTRkFOd1U4Y3p2Q1M3Vk9Ga3VUR2QyaGhHd1ZxT2htZ09oRnB2RnQwQzdnNUpXQi1UNEtydVMyOU1ZeTNHaklQS0ZGa2NYZUxwdzNsanh0YU9vZWRndTlIZzgtdlIyNjVNbjUtRks2c2tiRVFwV29pUzM1M1hyNmtDYzNvcVN3?oc=5)
 

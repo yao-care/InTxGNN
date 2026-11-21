@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Montelukast. 2 predicted indications."
 permalink: /news/montelukast/
-last_modified_at: 2026-11-18
+last_modified_at: 2026-11-21
 ---
 
 # Montelukast News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about Montelukast?">
-<strong>Montelukast</strong> currently has <strong>3 news articles</strong>, with 2 predicted indications.
+<strong>Montelukast</strong> currently has <strong>4 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,15 @@ This page combines the AI-predicted indications for Montelukast with the latest 
 <p><a href="{{ '/drugs/montelukast/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (4)
+
+### [Wheezing, Dyspnea, and Bronchial Calcifications Revealing Suspected Keutel Syndrome: A Case Report](https://news.google.com/rss/articles/CBMizwFBVV95cUxPeXVvNVNDNjFodUtxLU9vSEhybU5OMlc2T0NEV1JPbHlHbzlyREY4dnZhZ3dJNVBmdTh5a24yV0NYSEh1Zm9CbVpLdFN6S2phR0Y2VVlFOEEwUEIxWE1IY1BORkVqNDJJYU9fenRoZUpLc1paQ3M1RXE1aEZlbHVPeUJfZ0NJVjlHREJVWmtCNjFaZmlRR0hnTWdXQ1lTcHdWYU1tNW95d1cxd0RhWkw3Nk1DcHRwV3ZOUjFzRUpfbmVLMEJCUlRaVkVwYWVaVk0?oc=5)
+
+2026-11-21 <span class="news-indication-tag">wheezing</span>
+
+Source: [Cureus](https://news.google.com/rss/articles/CBMizwFBVV95cUxPeXVvNVNDNjFodUtxLU9vSEhybU5OMlc2T0NEV1JPbHlHbzlyREY4dnZhZ3dJNVBmdTh5a24yV0NYSEh1Zm9CbVpLdFN6S2phR0Y2VVlFOEEwUEIxWE1IY1BORkVqNDJJYU9fenRoZUpLc1paQ3M1RXE1aEZlbHVPeUJfZ0NJVjlHREJVWmtCNjFaZmlRR0hnTWdXQ1lTcHdWYU1tNW95d1cxd0RhWkw3Nk1DcHRwV3ZOUjFzRUpfbmVLMEJCUlRaVkVwYWVaVk0?oc=5)
+
+---
 
 ### [Infant Chest Infection Tied to Higher Odds of Wheeze, Asthma](https://news.google.com/rss/articles/CBMipgFBVV95cUxQYTVqSVhCMjBoUDloZVdONTZuRlNuOWxqUjJSYWNGalhTRkFOd1U4Y3p2Q1M3Vk9Ga3VUR2QyaGhHd1ZxT2htZ09oRnB2RnQwQzdnNUpXQi1UNEtydVMyOU1ZeTNHaklQS0ZGa2NYZUxwdzNsanh0YU9vZWRndTlIZzgtdlIyNjVNbjUtRks2c2tiRVFwV29pUzM1M1hyNmtDYzNvcVN3?oc=5)
 
