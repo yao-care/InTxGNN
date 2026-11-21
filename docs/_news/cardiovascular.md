@@ -3,9 +3,9 @@ layout: default
 title: "heart disease (cardiovascular) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about heart disease (cardiovascular). 19 articles, 31 related drugs."
+description: "Health news about heart disease (cardiovascular). 20 articles, 31 related drugs."
 permalink: /news/cardiovascular/
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-21
 ---
 
 # heart disease (cardiovascular) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="What news is there about heart disease (cardiovascular)?">
-<strong>heart disease (cardiovascular)</strong> currently has <strong>19 news articles</strong> and 31 related drugs.
+<strong>heart disease (cardiovascular)</strong> currently has <strong>20 news articles</strong> and 31 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -58,7 +58,15 @@ This page brings together the latest health news about “heart disease” and l
 </ul>
 </div>
 
-## Related News (19)
+## Related News (20)
+
+### [Cases of seasonal ailments rise as weather changes - The Times of India](https://news.google.com/rss/articles/CBMixgFBVV95cUxQYTFqMUtGazRSZEpZUXQzLUNOS0VNdy1EVmcyLUg2MTFyUWk2VGRiM2p6TVlnR2pjWXlGQ1daVFpVX0lfd3lWR1luWHJPYWpob1RpUDJKSW54NFZrenRub01jR2o1MTl1MFNOd1BQa2tDV0RHZHozUVdFNEFXYjI3b19wNHVOOC1RNlRKVnBVVEp2OHNhTFFrYVdqR19VX09oS3hMZGd3VVFTeWkzOW9nd3pzVkU1S19kQVFESFJBRXRCTzh4X2fSAcsBQVVfeXFMTnUzWDJfZmpNbm9Kc1lzT1lsWmtnREpNTkFLUjRoOFpFWEI5R3RqWXp2UktpU0NmeWpNOVgxY01NLTY4ZG55M1lubEtac1VWU1JBMjV4Y3J5LUx0NlkwcHp0RHA3LWpWSEM0Tkk1SzlSWmtCLVlHZnRjV0Y4RHZmN1FuNHRrdmQxaVJJNkYwUTF0TVc5emRYQVZyZ1dVU01xSV94Tnhqc1pJY2RUeFg1ZkFaWHNkV3R2Mlo5dDdpbXl2R3dYRWtuNktNeEU?oc=5)
+
+2026-11-20
+
+Source: [The Times of India](https://news.google.com/rss/articles/CBMixgFBVV95cUxQYTFqMUtGazRSZEpZUXQzLUNOS0VNdy1EVmcyLUg2MTFyUWk2VGRiM2p6TVlnR2pjWXlGQ1daVFpVX0lfd3lWR1luWHJPYWpob1RpUDJKSW54NFZrenRub01jR2o1MTl1MFNOd1BQa2tDV0RHZHozUVdFNEFXYjI3b19wNHVOOC1RNlRKVnBVVEp2OHNhTFFrYVdqR19VX09oS3hMZGd3VVFTeWkzOW9nd3pzVkU1S19kQVFESFJBRXRCTzh4X2fSAcsBQVVfeXFMTnUzWDJfZmpNbm9Kc1lzT1lsWmtnREpNTkFLUjRoOFpFWEI5R3RqWXp2UktpU0NmeWpNOVgxY01NLTY4ZG55M1lubEtac1VWU1JBMjV4Y3J5LUx0NlkwcHp0RHA3LWpWSEM0Tkk1SzlSWmtCLVlHZnRjV0Y4RHZmN1FuNHRrdmQxaVJJNkYwUTF0TVc5emRYQVZyZ1dVU01xSV94Tnhqc1pJY2RUeFg1ZkFaWHNkV3R2Mlo5dDdpbXl2R3dYRWtuNktNeEU?oc=5)
+
+---
 
 ### [Summer heatwaves raise death risk for heart disease patients](https://news.google.com/rss/articles/CBMirAFBVV95cUxPQm9LWl9WcXkwM3Zka1A3RHJQajE0ekpobUtvbHotWDhEUVdtb0Y2NGtCbjF2SmViaWh2RDNETTdlczVYZE5QWXhZVnNEcFctLWhNeHM3cGhmZWppRkJodlZHOVQxdVhrel9NNVRIeHFBNXdjcGhhLXV5Q0c5T1dPaW1WVTJvaUo3aThBRmlDVTd4RFRRU296LXczQWhJSDlSd2RrbmNGOUNJUWhB?oc=5)
 

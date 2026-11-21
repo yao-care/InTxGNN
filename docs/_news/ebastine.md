@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Ebastine. 2 predicted indications."
 permalink: /news/ebastine/
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-21
 ---
 
 # Ebastine News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="What news is there about Ebastine?">
-<strong>Ebastine</strong> currently has <strong>21 news articles</strong>, with 2 predicted indications.
+<strong>Ebastine</strong> currently has <strong>22 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,15 @@ This page combines the AI-predicted indications for Ebastine with the latest hea
 <p><a href="{{ '/drugs/ebastine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (21)
+## Related News (22)
+
+### [Cases of seasonal ailments rise as weather changes - The Times of India](https://news.google.com/rss/articles/CBMixgFBVV95cUxQYTFqMUtGazRSZEpZUXQzLUNOS0VNdy1EVmcyLUg2MTFyUWk2VGRiM2p6TVlnR2pjWXlGQ1daVFpVX0lfd3lWR1luWHJPYWpob1RpUDJKSW54NFZrenRub01jR2o1MTl1MFNOd1BQa2tDV0RHZHozUVdFNEFXYjI3b19wNHVOOC1RNlRKVnBVVEp2OHNhTFFrYVdqR19VX09oS3hMZGd3VVFTeWkzOW9nd3pzVkU1S19kQVFESFJBRXRCTzh4X2fSAcsBQVVfeXFMTnUzWDJfZmpNbm9Kc1lzT1lsWmtnREpNTkFLUjRoOFpFWEI5R3RqWXp2UktpU0NmeWpNOVgxY01NLTY4ZG55M1lubEtac1VWU1JBMjV4Y3J5LUx0NlkwcHp0RHA3LWpWSEM0Tkk1SzlSWmtCLVlHZnRjV0Y4RHZmN1FuNHRrdmQxaVJJNkYwUTF0TVc5emRYQVZyZ1dVU01xSV94Tnhqc1pJY2RUeFg1ZkFaWHNkV3R2Mlo5dDdpbXl2R3dYRWtuNktNeEU?oc=5)
+
+2026-11-20 <span class="news-indication-tag">cardiovascular</span>
+
+Source: [The Times of India](https://news.google.com/rss/articles/CBMixgFBVV95cUxQYTFqMUtGazRSZEpZUXQzLUNOS0VNdy1EVmcyLUg2MTFyUWk2VGRiM2p6TVlnR2pjWXlGQ1daVFpVX0lfd3lWR1luWHJPYWpob1RpUDJKSW54NFZrenRub01jR2o1MTl1MFNOd1BQa2tDV0RHZHozUVdFNEFXYjI3b19wNHVOOC1RNlRKVnBVVEp2OHNhTFFrYVdqR19VX09oS3hMZGd3VVFTeWkzOW9nd3pzVkU1S19kQVFESFJBRXRCTzh4X2fSAcsBQVVfeXFMTnUzWDJfZmpNbm9Kc1lzT1lsWmtnREpNTkFLUjRoOFpFWEI5R3RqWXp2UktpU0NmeWpNOVgxY01NLTY4ZG55M1lubEtac1VWU1JBMjV4Y3J5LUx0NlkwcHp0RHA3LWpWSEM0Tkk1SzlSWmtCLVlHZnRjV0Y4RHZmN1FuNHRrdmQxaVJJNkYwUTF0TVc5emRYQVZyZ1dVU01xSV94Tnhqc1pJY2RUeFg1ZkFaWHNkV3R2Mlo5dDdpbXl2R3dYRWtuNktNeEU?oc=5)
+
+---
 
 ### [Antifungal Susceptibility Pattern of Candida Species Causing Vulvovaginal Candidiasis: A Single-Center Study](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZE5FbkNJRk5pWC1jQWxYU1NmSlNlOU42X0pYaU5wSk1tVTdYMDdOZWM2Unl5QTZVdTRGVFRpQnhkQTA4OFpTcmtVWkF4cVNTTV93Vm1YeHpLSXh3RF9ZTkdPWHJMWnItTENiZTZlNHduSkdteGd6RHViTWVnbU54ajZyUG5KRkY3MlFHTmFmNVZkYkd1RlFEYkJFRlJidkhPQm1QdHNPaldmYUtfcEotbkp6X3VyZVB5bE5ndkphUExUTTEzMGx4Vm9TYkZPWU9HaWpwOXczek9TWlZXa3c4?oc=5)
 

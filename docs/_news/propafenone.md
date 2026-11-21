@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Propafenone. 6 predicted indications."
 permalink: /news/propafenone/
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-21
 ---
 
 # Propafenone News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="What news is there about Propafenone?">
-<strong>Propafenone</strong> currently has <strong>19 news articles</strong>, with 6 predicted indications.
+<strong>Propafenone</strong> currently has <strong>20 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,15 @@ This page combines the AI-predicted indications for Propafenone with the latest 
 <p><a href="{{ '/drugs/propafenone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (19)
+## Related News (20)
+
+### [Cases of seasonal ailments rise as weather changes - The Times of India](https://news.google.com/rss/articles/CBMixgFBVV95cUxQYTFqMUtGazRSZEpZUXQzLUNOS0VNdy1EVmcyLUg2MTFyUWk2VGRiM2p6TVlnR2pjWXlGQ1daVFpVX0lfd3lWR1luWHJPYWpob1RpUDJKSW54NFZrenRub01jR2o1MTl1MFNOd1BQa2tDV0RHZHozUVdFNEFXYjI3b19wNHVOOC1RNlRKVnBVVEp2OHNhTFFrYVdqR19VX09oS3hMZGd3VVFTeWkzOW9nd3pzVkU1S19kQVFESFJBRXRCTzh4X2fSAcsBQVVfeXFMTnUzWDJfZmpNbm9Kc1lzT1lsWmtnREpNTkFLUjRoOFpFWEI5R3RqWXp2UktpU0NmeWpNOVgxY01NLTY4ZG55M1lubEtac1VWU1JBMjV4Y3J5LUx0NlkwcHp0RHA3LWpWSEM0Tkk1SzlSWmtCLVlHZnRjV0Y4RHZmN1FuNHRrdmQxaVJJNkYwUTF0TVc5emRYQVZyZ1dVU01xSV94Tnhqc1pJY2RUeFg1ZkFaWHNkV3R2Mlo5dDdpbXl2R3dYRWtuNktNeEU?oc=5)
+
+2026-11-20 <span class="news-indication-tag">cardiovascular</span>
+
+Source: [The Times of India](https://news.google.com/rss/articles/CBMixgFBVV95cUxQYTFqMUtGazRSZEpZUXQzLUNOS0VNdy1EVmcyLUg2MTFyUWk2VGRiM2p6TVlnR2pjWXlGQ1daVFpVX0lfd3lWR1luWHJPYWpob1RpUDJKSW54NFZrenRub01jR2o1MTl1MFNOd1BQa2tDV0RHZHozUVdFNEFXYjI3b19wNHVOOC1RNlRKVnBVVEp2OHNhTFFrYVdqR19VX09oS3hMZGd3VVFTeWkzOW9nd3pzVkU1S19kQVFESFJBRXRCTzh4X2fSAcsBQVVfeXFMTnUzWDJfZmpNbm9Kc1lzT1lsWmtnREpNTkFLUjRoOFpFWEI5R3RqWXp2UktpU0NmeWpNOVgxY01NLTY4ZG55M1lubEtac1VWU1JBMjV4Y3J5LUx0NlkwcHp0RHA3LWpWSEM0Tkk1SzlSWmtCLVlHZnRjV0Y4RHZmN1FuNHRrdmQxaVJJNkYwUTF0TVc5emRYQVZyZ1dVU01xSV94Tnhqc1pJY2RUeFg1ZkFaWHNkV3R2Mlo5dDdpbXl2R3dYRWtuNktNeEU?oc=5)
+
+---
 
 ### [Summer heatwaves raise death risk for heart disease patients](https://news.google.com/rss/articles/CBMirAFBVV95cUxPQm9LWl9WcXkwM3Zka1A3RHJQajE0ekpobUtvbHotWDhEUVdtb0Y2NGtCbjF2SmViaWh2RDNETTdlczVYZE5QWXhZVnNEcFctLWhNeHM3cGhmZWppRkJodlZHOVQxdVhrel9NNVRIeHFBNXdjcGhhLXV5Q0c5T1dPaW1WVTJvaUo3aThBRmlDVTd4RFRRU296LXczQWhJSDlSd2RrbmNGOUNJUWhB?oc=5)
 
