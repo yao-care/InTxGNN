@@ -15,7 +15,7 @@ last_modified_at: 2026-11-21
 ---
 
 <p class="key-answer" data-question="What news is there about Albendazole?">
-<strong>Albendazole</strong> currently has <strong>93 news articles</strong>, with 1 predicted indications.
+<strong>Albendazole</strong> currently has <strong>92 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,7 @@ This page combines the AI-predicted indications for Albendazole with the latest 
 <p><a href="{{ '/drugs/albendazole/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (93)
+## Related News (92)
 
 ### [ctDNA Predicts Outcomes After SBRT in Prostate Cancer](https://news.google.com/rss/articles/CBMimgFBVV95cUxOb0NMRllHb25ncGc4NFJYXzEwOEpjaDFLcHJtU0VURVJJdmtHYjd2LTlwRnBDOGpKa3UxV3FpbFBaTnV1OWNRLTl5aHlwUDd2S0ttVUZ5enByQ29UVlZjU1V6dUh3cGdsSzdYbE1yTlB2MjRPNlN6LVBhYXBIRUcxOC10WUxRNlF2aU0xMlhRZ0Q5U2pVUFU5NlZ3?oc=5)
 
@@ -144,14 +144,6 @@ Source: [EMJ](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPamt6UnU0RERqc
 2026-11-20 <span class="news-indication-tag">cancer</span>
 
 Source: [Medical Buyer](https://news.google.com/rss/articles/CBMihgFBVV95cUxQXy13Q3E4WDBULVVxdXJaUDRTR3Y0ZWVCVW1pdE1sTjVOUmtEdTQwRnNlRktUaE5pQU1wcFE0WHZWZnRCTlVhQXFjb2E4SmJvMmVodU8zY0FYUXpmbGRETDVQZUVreWQ3NjNBT3ctcTZfU0lFNzFTX0xrd0I4bjVuSjFaMUF4QQ?oc=5)
-
----
-
-### [Resistance training could help boost brain health and confidence in older adults - The Conversation](https://news.google.com/rss/articles/CBMitgFBVV95cUxQTWhkaTZ4Y0p1ekJGTlFhaDhxbFVsZ2oyTmozdkdSVVF4WEQ3RWo3enBoVWN2akMzVVQwRFBlQUdBaktNdkhVUHcyT3cxVDgxWl9HbWw5eGlRRlJVdlZ1YWJJN1l5VzR6dlQ4TW9hU0VpSGp4X08wcThXNzkzOTFyUElaMU5rRDF3MVI4QzdBWUN6cEluemgwbTZ1RmllczJSRGEySmJTc21tcl9hVC1nQV96M2pSdw?oc=5)
-
-2026-11-20 <span class="news-indication-tag">alzheimer</span>
-
-Source: [The Conversation](https://news.google.com/rss/articles/CBMitgFBVV95cUxQTWhkaTZ4Y0p1ekJGTlFhaDhxbFVsZ2oyTmozdkdSVVF4WEQ3RWo3enBoVWN2akMzVVQwRFBlQUdBaktNdkhVUHcyT3cxVDgxWl9HbWw5eGlRRlJVdlZ1YWJJN1l5VzR6dlQ4TW9hU0VpSGp4X08wcThXNzkzOTFyUElaMU5rRDF3MVI4QzdBWUN6cEluemgwbTZ1RmllczJSRGEySmJTc21tcl9hVC1nQV96M2pSdw?oc=5)
 
 ---
 
