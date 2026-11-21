@@ -3,7 +3,7 @@ layout: default
 title: "dementia (memory loss) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about dementia (memory loss). 8 articles, 8 related drugs."
+description: "Health news about dementia (memory loss). 9 articles, 8 related drugs."
 permalink: /news/memory-loss/
 last_modified_at: 2026-11-20
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="What news is there about dementia (memory loss)?">
-<strong>dementia (memory loss)</strong> currently has <strong>8 news articles</strong> and 8 related drugs.
+<strong>dementia (memory loss)</strong> currently has <strong>9 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,15 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (8)
+## Related News (9)
+
+### [People entering old age now have better memory than their parents did](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZT19CcC1pUUNlNUZrMjcyOXREdHVsLWRLaTR6S2tNbGNJSzkzZVNMeVZNaUtBNkNQQ0Mta0tlMnNlOVlsS21RYWV2amJKWFdNdC1wdTNwSTFBYlBVdjZJ?oc=5)
+
+2026-11-19
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZT19CcC1pUUNlNUZrMjcyOXREdHVsLWRLaTR6S2tNbGNJSzkzZVNMeVZNaUtBNkNQQ0Mta0tlMnNlOVlsS21RYWV2amJKWFdNdC1wdTNwSTFBYlBVdjZJ?oc=5)
+
+---
 
 ### [β3 Agonists Do Not Cut Dementia Risk Versus Anticholinergics in OAB - Optometry Advisor](https://news.google.com/rss/articles/CBMisAFBVV95cUxOZjlFdGlhUkd0bE5fWVJiaC1ja0hxWTAwVUM3a2dxTF9WZWlubmdJUUk0cW1qS0V2Nzl0TG9IQS1zbzBVaHhUNG5ZR21Pdk1oVXY3ai1rMGY2WGt3eERJZHpkYjZCcUkxeWNJRlhpdXJHNmVCOEVraXBKNmpPakVJN0hjMmdiSXF3enZ6WTNiVXhLUkNvTXIzYm4yejQ5NjNBMTBqRXVuSzVSNm1RN0NTTQ?oc=5)
 

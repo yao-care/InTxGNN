@@ -3,9 +3,9 @@ layout: default
 title: "lung cancer (small cell lung carcinoma) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about lung cancer (small cell lung carcinoma). 7 articles, 5 related drugs."
+description: "Health news about lung cancer (small cell lung carcinoma). 8 articles, 5 related drugs."
 permalink: /news/small-cell-lung-carcinoma/
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-20
 ---
 
 # lung cancer (small cell lung carcinoma) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="What news is there about lung cancer (small cell lung carcinoma)?">
-<strong>lung cancer (small cell lung carcinoma)</strong> currently has <strong>7 news articles</strong> and 5 related drugs.
+<strong>lung cancer (small cell lung carcinoma)</strong> currently has <strong>8 news articles</strong> and 5 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,15 @@ This page brings together the latest health news about “lung cancer” and lis
 </ul>
 </div>
 
-## Related News (7)
+## Related News (8)
+
+### [ESMO 2026: Advancing Lung Cancer Prevention with Laura Mezquita](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPamt6UnU0RERqcGowZHdqS193X2RSRGlKYnZDLXoxR0FxeGh1c1VmWG9nQ1A2VVNjSUtjNHJ0a2tkUlRKWVpENTBkb21zYVh4UTIyd2JmUl9hQ2prdHdrd29ZMmEycE9QdG1rMi1hX2Y0U1RvQ0ljX0Z2aXNpYWphX0o5ZE9LZ3FQOUhVaVdYX09ONGd2aURLTW5LTjNtaFhjb1czRmI2WUFfZWZXek0xUDZ0bE5ZSnJpVC02T0gwbEU4THc?oc=5)
+
+2026-11-20
+
+Source: [EMJ](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPamt6UnU0RERqcGowZHdqS193X2RSRGlKYnZDLXoxR0FxeGh1c1VmWG9nQ1A2VVNjSUtjNHJ0a2tkUlRKWVpENTBkb21zYVh4UTIyd2JmUl9hQ2prdHdrd29ZMmEycE9QdG1rMi1hX2Y0U1RvQ0ljX0Z2aXNpYWphX0o5ZE9LZ3FQOUhVaVdYX09ONGd2aURLTW5LTjNtaFhjb1czRmI2WUFfZWZXek0xUDZ0bE5ZSnJpVC02T0gwbEU4THc?oc=5)
+
+---
 
 ### [Investigating the antitumor potential of Karakilçik wheatgrass juice against prostate and lung cancer cells through in vitro and in silico](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DdFBGM1pxN0NoVVVKZ19fVjM2aVZWaC1ramRlRk5NSllWY1lpZ2FreUxDTFItdEs3aXhBQjhmaEdmWnB4MVZDUFFoWTJVYXlqRzJMRnIySllnbFg1RzBZ?oc=5)
 

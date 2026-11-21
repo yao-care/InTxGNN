@@ -3,9 +3,9 @@ layout: default
 title: "osteoarthritis News"
 parent: Health News
 nav_exclude: true
-description: "Health news about osteoarthritis. 4 articles, 5 related drugs."
+description: "Health news about osteoarthritis. 5 articles, 5 related drugs."
 permalink: /news/osteoarthritis/
-last_modified_at: 2026-11-18
+last_modified_at: 2026-11-20
 ---
 
 # osteoarthritis News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about osteoarthritis?">
-<strong>osteoarthritis</strong> currently has <strong>4 news articles</strong> and 5 related drugs.
+<strong>osteoarthritis</strong> currently has <strong>5 news articles</strong> and 5 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,15 @@ This page brings together the latest health news about “osteoarthritis” and 
 </ul>
 </div>
 
-## Related News (4)
+## Related News (5)
+
+### [Cochrane review challenges benefits of turmeric supplements for knee osteoarthritis](https://news.google.com/rss/articles/CBMiywFBVV95cUxQME1MTXpRZnNNLWR1Ul9WeWZ2SDdoMFFnVzViNkEwQjE3eUUxVUQ1R21wX0tpWVZHV0plRllmZFhRRmh3N3kyODRTeHIzNHhmNWJzdy10b1JpQ1VITGJuUlRkZi1ZOGkwTTNmNnRHbVM2U3p6M2Y2Vm9CMlRMdDQtcnFZVlNFZU1wQjY2aGYxcWJtVGpYZ01CSWlYb1gzbGd0blMzc3BDbTlaOFV3d1hEajlmclZsYmNnTlROUDJMSWJaMUlWNTItbGROOA?oc=5)
+
+2026-11-19
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMiywFBVV95cUxQME1MTXpRZnNNLWR1Ul9WeWZ2SDdoMFFnVzViNkEwQjE3eUUxVUQ1R21wX0tpWVZHV0plRllmZFhRRmh3N3kyODRTeHIzNHhmNWJzdy10b1JpQ1VITGJuUlRkZi1ZOGkwTTNmNnRHbVM2U3p6M2Y2Vm9CMlRMdDQtcnFZVlNFZU1wQjY2aGYxcWJtVGpYZ01CSWlYb1gzbGd0blMzc3BDbTlaOFV3d1hEajlmclZsYmNnTlROUDJMSWJaMUlWNTItbGROOA?oc=5)
+
+---
 
 ### [Investigational retatrutide reduced knee osteoarthritis pain and body weight versus placebo in adults with obesity - 2 Minute Medicine](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQUxQb254MjBrNV9jUlFGcTd2NTNPZ0VKb2Z5RUJ4NVVubmRMLTZZWlRDVDJfUnRXMF92UkJoREZtSndOUDV1N19XMW03amlPM0NxRzQzdFhKbXJvRnRlb0d3ZHlYbkJqMXdmUVZIY3Vvb3czbnR2N1RoZGpxdGt3a3o1N0dhdUZGbEpEcWlHZ3hhYUhvY2tsRDNSaXU1N2pkSkswU3Jxdno5dkdiM2xaNWIwckstcnlTeWR0djZwdnVDY0pjTjk0R0pFcXE0WnJVZkxfUkFJSEs2dE5LZzRPcA?oc=5)
 

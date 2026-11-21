@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Isoxsuprine. 10 predicted indications."
 permalink: /news/isoxsuprine/
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-21
 ---
 
 # Isoxsuprine News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="What news is there about Isoxsuprine?">
-<strong>Isoxsuprine</strong> currently has <strong>18 news articles</strong>, with 10 predicted indications.
+<strong>Isoxsuprine</strong> currently has <strong>20 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,21 @@ This page combines the AI-predicted indications for Isoxsuprine with the latest 
 <p><a href="{{ '/drugs/isoxsuprine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (18)
+## Related News (20)
+
+### [Cases of seasonal ailments rise as weather changes - The Times of India](https://news.google.com/rss/articles/CBMixgFBVV95cUxQYTFqMUtGazRSZEpZUXQzLUNOS0VNdy1EVmcyLUg2MTFyUWk2VGRiM2p6TVlnR2pjWXlGQ1daVFpVX0lfd3lWR1luWHJPYWpob1RpUDJKSW54NFZrenRub01jR2o1MTl1MFNOd1BQa2tDV0RHZHozUVdFNEFXYjI3b19wNHVOOC1RNlRKVnBVVEp2OHNhTFFrYVdqR19VX09oS3hMZGd3VVFTeWkzOW9nd3pzVkU1S19kQVFESFJBRXRCTzh4X2fSAcsBQVVfeXFMTnUzWDJfZmpNbm9Kc1lzT1lsWmtnREpNTkFLUjRoOFpFWEI5R3RqWXp2UktpU0NmeWpNOVgxY01NLTY4ZG55M1lubEtac1VWU1JBMjV4Y3J5LUx0NlkwcHp0RHA3LWpWSEM0Tkk1SzlSWmtCLVlHZnRjV0Y4RHZmN1FuNHRrdmQxaVJJNkYwUTF0TVc5emRYQVZyZ1dVU01xSV94Tnhqc1pJY2RUeFg1ZkFaWHNkV3R2Mlo5dDdpbXl2R3dYRWtuNktNeEU?oc=5)
+
+2026-11-20 <span class="news-indication-tag">cardiovascular</span>
+
+Source: [The Times of India](https://news.google.com/rss/articles/CBMixgFBVV95cUxQYTFqMUtGazRSZEpZUXQzLUNOS0VNdy1EVmcyLUg2MTFyUWk2VGRiM2p6TVlnR2pjWXlGQ1daVFpVX0lfd3lWR1luWHJPYWpob1RpUDJKSW54NFZrenRub01jR2o1MTl1MFNOd1BQa2tDV0RHZHozUVdFNEFXYjI3b19wNHVOOC1RNlRKVnBVVEp2OHNhTFFrYVdqR19VX09oS3hMZGd3VVFTeWkzOW9nd3pzVkU1S19kQVFESFJBRXRCTzh4X2fSAcsBQVVfeXFMTnUzWDJfZmpNbm9Kc1lzT1lsWmtnREpNTkFLUjRoOFpFWEI5R3RqWXp2UktpU0NmeWpNOVgxY01NLTY4ZG55M1lubEtac1VWU1JBMjV4Y3J5LUx0NlkwcHp0RHA3LWpWSEM0Tkk1SzlSWmtCLVlHZnRjV0Y4RHZmN1FuNHRrdmQxaVJJNkYwUTF0TVc5emRYQVZyZ1dVU01xSV94Tnhqc1pJY2RUeFg1ZkFaWHNkV3R2Mlo5dDdpbXl2R3dYRWtuNktNeEU?oc=5)
+
+---
 
 ### [Summer heatwaves raise death risk for heart disease patients](https://news.google.com/rss/articles/CBMirAFBVV95cUxPQm9LWl9WcXkwM3Zka1A3RHJQajE0ekpobUtvbHotWDhEUVdtb0Y2NGtCbjF2SmViaWh2RDNETTdlczVYZE5QWXhZVnNEcFctLWhNeHM3cGhmZWppRkJodlZHOVQxdVhrel9NNVRIeHFBNXdjcGhhLXV5Q0c5T1dPaW1WVTJvaUo3aThBRmlDVTd4RFRRU296LXczQWhJSDlSd2RrbmNGOUNJUWhB?oc=5)
 
 2026-11-19 <span class="news-indication-tag">heart disease</span>
 
 Source: [News-Medical](https://news.google.com/rss/articles/CBMirAFBVV95cUxPQm9LWl9WcXkwM3Zka1A3RHJQajE0ekpobUtvbHotWDhEUVdtb0Y2NGtCbjF2SmViaWh2RDNETTdlczVYZE5QWXhZVnNEcFctLWhNeHM3cGhmZWppRkJodlZHOVQxdVhrel9NNVRIeHFBNXdjcGhhLXV5Q0c5T1dPaW1WVTJvaUo3aThBRmlDVTd4RFRRU296LXczQWhJSDlSd2RrbmNGOUNJUWhB?oc=5)
-
----
-
-### [Stopping GLP-1s Linked to Double Heart Event Risk in T2D](https://news.google.com/rss/articles/CBMiogFBVV95cUxOdEQ0WlliTS12MFdrSEh6d1JlUWR5dk44UWxoU0drV1JxT2dsTFp4dmRTcnkwakV4aW5qSzhvbE9KRHh4ZHNZQm1rYnNkcnRsNThrRDVzT1B2RDlDa01wVXFVQ3k2Z2hXYVZ6U2FiaWRhMG00MW5uTEQ2MmVBX2ZhRUlRQjBQdnRHRHhMMHZZZlIzRURfUDNCQkNQaUR0aURGTFE?oc=5)
-
-2026-11-19 <span class="news-drug-tag">METFORMIN</span> <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">heart disease</span>
-
-Source: [Medscape](https://news.google.com/rss/articles/CBMiogFBVV95cUxOdEQ0WlliTS12MFdrSEh6d1JlUWR5dk44UWxoU0drV1JxT2dsTFp4dmRTcnkwakV4aW5qSzhvbE9KRHh4ZHNZQm1rYnNkcnRsNThrRDVzT1B2RDlDa01wVXFVQ3k2Z2hXYVZ6U2FiaWRhMG00MW5uTEQ2MmVBX2ZhRUlRQjBQdnRHRHhMMHZZZlIzRURfUDNCQkNQaUR0aURGTFE?oc=5)
 
 ---
 
@@ -108,6 +108,14 @@ Source: [Medscape](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQXzNHcjVp
 
 ---
 
+### [Dust, pollen, changing temperatures trigger seasonal allergies - The Hitavada](https://news.google.com/rss/articles/CBMirwFBVV95cUxOaTFNOU1vNVlFUEZGZkFLZ3liSHJBMHk1Z3I1Q2x0Zjk5eGFhNUlLOXg3dzNnQloxRmZraHFpTkNmZDVOVGhWYjN2R2hQNUNONDZfQ09sY1V0N21TTWxfS1FQekMtamRjS1FkRTFqaG5sdzg0N2d0SGItaG1ibU1QamRjSS1iX3NReHNXU0ZVam1oRTNPWFlqRWZoQl82MzRIdXBnczhnMlFqaGE0VUNB?oc=5)
+
+2026-11-18 <span class="news-indication-tag">cardiovascular</span>
+
+Source: [The Hitavada](https://news.google.com/rss/articles/CBMirwFBVV95cUxOaTFNOU1vNVlFUEZGZkFLZ3liSHJBMHk1Z3I1Q2x0Zjk5eGFhNUlLOXg3dzNnQloxRmZraHFpTkNmZDVOVGhWYjN2R2hQNUNONDZfQ09sY1V0N21TTWxfS1FQekMtamRjS1FkRTFqaG5sdzg0N2d0SGItaG1ibU1QamRjSS1iX3NReHNXU0ZVam1oRTNPWFlqRWZoQl82MzRIdXBnczhnMlFqaGE0VUNB?oc=5)
+
+---
+
 ### [Inflamed Hearts on CT; Drawback to BP-Monitoring Wearables; Body Positions for HF? - MedPage Today](https://news.google.com/rss/articles/CBMickFVX3lxTE5FdlV1RlFfMm5YOUVzaGwxbk1fQWQ3QmxRYkNiQmJxcjhCd1JOckVCejdod2g3dTFWampyTVlyZFE5QzREWFA5TXBTRTR5eEU0THBLcEJnUnJiY1AxZG1POFp1Rk5LNDlhOG5CbmE4YzhYdw?oc=5)
 
 2026-11-17 <span class="news-indication-tag">cardiovascular</span>
@@ -145,6 +153,14 @@ Source: [Medscape](https://news.google.com/rss/articles/CBMipgFBVV95cUxQa0FwN1gt
 2026-11-16 <span class="news-indication-tag">cardiovascular</span>
 
 Source: [The Indian Practitioner](https://news.google.com/rss/articles/CBMiugFBVV95cUxPQ1RTdDZzaFJCNm4xdTh0ekxydC1VUy1DaWRJblU2UUM2QTEtcWFyejd3dkZwR3lmamM4ZzBRYzNtSUNyeHpQS1J0SHBpb0laYktNQXlBanFmRTlqazVPdDFzMlExTlUzUEtDZF81czZQdnVHSjdwODhMTTVkUGlodnpqN01ncXdXenl0UU44MEpwOER4SFlFekNiaFdFRVR0NU9iVC1DS2hfc3M0Q2lJSnpORzlHREd6dGc?oc=5)
+
+---
+
+### [Diabetes does more than raise blood sugar: 7 cardiovascular risks people should not overlook - The Times of India](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPNGlhMHZSYkFVa1F3bV9mdHB5NFZxMy1MUnpMU3g0SkhyLVlBQXY0ejVzNmlfbS1Vcng5RUlrbWhvc3p1UmZudGhuUGcydXotZ21NUlFyeXpwc3o3Y1g4a25CbGFjbTdWZUJCTkhaeGc3RXV6cEU5OHpqVVdnVVg1SXJkV1RnTGRtejR2RktXRWdUVDBzbVFzUzRLS21CVVprS19DMDF5NzduaDBJWXd1Z3p4aS1FLVFSV2ZDdVBJdThhc29VdkZUOWRsT2padTc3V0YtRFpxaElaTzlncjg0SFRSb0xFckF3VWhPYy1rQkbSAfgBQVVfeXFMT3Z1azZLbWVOSzA4SXU5d2NrSTcybnpzTVhaejFWbWNIdE1Idm5vNDFRbkVBYmt0dEtXczJJdDNpUW1mUGlqWFNoQXI2cmdtdkFZQ1V2bGxuMkFIdzhiZHRMYlFCR05TWGpVLW5ReUVzMHJqRVBzSTd6dkl4Smw0TXMwMW9rSVBLM09aZmRtWmFuWF9RSFBSaldpTUVEUXBPZk1MaWN5M1U3VHRuYjJRTkxMZndySndDam5OYmh6TVQtSGJTN25kd1NjZERLcUUzdzFRU1A4YlFjRm94ak05bXZXQmdsQ2tNUVFGTUpMT0Y0Q0tFSllBUnM?oc=5)
+
+2026-11-16 <span class="news-indication-tag">cardiovascular</span>
+
+Source: [The Times of India](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPNGlhMHZSYkFVa1F3bV9mdHB5NFZxMy1MUnpMU3g0SkhyLVlBQXY0ejVzNmlfbS1Vcng5RUlrbWhvc3p1UmZudGhuUGcydXotZ21NUlFyeXpwc3o3Y1g4a25CbGFjbTdWZUJCTkhaeGc3RXV6cEU5OHpqVVdnVVg1SXJkV1RnTGRtejR2RktXRWdUVDBzbVFzUzRLS21CVVprS19DMDF5NzduaDBJWXd1Z3p4aS1FLVFSV2ZDdVBJdThhc29VdkZUOWRsT2padTc3V0YtRFpxaElaTzlncjg0SFRSb0xFckF3VWhPYy1rQkbSAfgBQVVfeXFMT3Z1azZLbWVOSzA4SXU5d2NrSTcybnpzTVhaejFWbWNIdE1Idm5vNDFRbkVBYmt0dEtXczJJdDNpUW1mUGlqWFNoQXI2cmdtdkFZQ1V2bGxuMkFIdzhiZHRMYlFCR05TWGpVLW5ReUVzMHJqRVBzSTd6dkl4Smw0TXMwMW9rSVBLM09aZmRtWmFuWF9RSFBSaldpTUVEUXBPZk1MaWN5M1U3VHRuYjJRTkxMZndySndDam5OYmh6TVQtSGJTN25kd1NjZERLcUUzdzFRU1A4YlFjRm94ak05bXZXQmdsQ2tNUVFGTUpMT0Y0Q0tFSllBUnM?oc=5)
 
 ---
 

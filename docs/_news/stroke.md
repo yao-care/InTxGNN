@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "stroke News"
+title: "paralysis (stroke) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about stroke. 12 articles, 15 related drugs."
+description: "Health news about paralysis (stroke). 13 articles, 15 related drugs."
 permalink: /news/stroke/
 last_modified_at: 2026-11-20
 ---
 
-# stroke News
+# paralysis (stroke) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about stroke?">
-<strong>stroke</strong> currently has <strong>12 news articles</strong> and 15 related drugs.
+<p class="key-answer" data-question="What news is there about paralysis (stroke)?">
+<strong>paralysis (stroke)</strong> currently has <strong>13 news articles</strong> and 15 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “stroke” and lists the drugs in the InTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “paralysis” and lists the drugs in the InTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -44,21 +44,29 @@ This page brings together the latest health news about “stroke” and lists th
 </ul>
 </div>
 
-## Related News (12)
+## Related News (13)
+
+### [Noninvasive brain interface uses AI suggestions to convey messages nearly three times faster - Tech Xplore](https://news.google.com/rss/articles/CBMihAFBVV95cUxPMGdMQy1lVnVBdHhOMTV6VXV5eFlOTzFnRTk2OGJ6QlhocXViUkRURElGY1A5TW9ES0pMeVdqQjJuYVNoRGtxVmQxX1JucUhwY2VwN2t0S2lySWFuRi0tSkNfWkNFeWhJQldLVDYweU1hem5PUWRkUDZIZUdaZDRSV0FDQnI?oc=5)
+
+2026-11-20
+
+Source: [Tech Xplore](https://news.google.com/rss/articles/CBMihAFBVV95cUxPMGdMQy1lVnVBdHhOMTV6VXV5eFlOTzFnRTk2OGJ6QlhocXViUkRURElGY1A5TW9ES0pMeVdqQjJuYVNoRGtxVmQxX1JucUhwY2VwN2t0S2lySWFuRi0tSkNfWkNFeWhJQldLVDYweU1hem5PUWRkUDZIZUdaZDRSV0FDQnI?oc=5)
+
+---
+
+### [Winter heart health: Cardiologist explains why cold mornings increase heart attack risk and what precautions you should take | Health - Hindustan Times](https://news.google.com/rss/articles/CBMinAJBVV95cUxOVGRFeHlDUDhUUHpUMUJBOHpUS0tCeVVRbXVVU1VkZW5vRWJvX0I2Z1BYdkswZjBDSU1hZGtjSlZyS1ZQSjFvVGg4MG5PT2Y2ZmQ3UkxkY0QzeDRVSGlLajA3RW1BYndtdlY0SkMyd2RyUEpCNFBLQ19rYW4zNjZ0NVIwN053R2VpTEdvemNHR3A4UmNYWFlzVFpmY2h5SHhZcXZpc2tFbEVaNkN0bl8ySFlqVWl6d19OSF9mZTI4WjlNOUQ1TEZVc1ltZ3lBNnNaYjFOR3d4cFZFQTQxZmxSVkxicDY2ekFqdlVlaHJiWDd0aV81ckxtTUVUSS1IaWJldE5OYkNrX3NEN0NCOWRmeFJOMk1mdTdNS0ZtNdIBogJBVV95cUxNQndOdDlhdVB2cmxHeHpRa0ZYeXpkeW94Ny1zdUtvT0luSzc5SHBSdF9keTBVcE9GWUhuOGtPemNIUXp3enV5dmdfRTNLdXM0bnk3TzUwTmFSU1pUSDNqVko4cDRZUngzQUtjMGxzTFdqNDhBS1VCVDQxUHhVb19tTkFGMDBRUE9saS1fZ21WbkZxNmM2OWhYZWNsZkY5ZWJ6WnlOS2NxZlpoRW13NzA1Nld5UnhYOVVUeFBQdEVUTTgwcXZJSnE2RU1DcjJEamwtUmhvYmZxYzNCMTZ3NEthUGZnOUdyb2JaU1d0WGFla1hGOGtJdzJ6R1cybUlEOExlVXVYZ1dxMkYxSG5HWmlZQkVvR20yQXFTYVM2U3RpdTU1dw?oc=5)
+
+2026-11-20
+
+Source: [Hindustan Times](https://news.google.com/rss/articles/CBMinAJBVV95cUxOVGRFeHlDUDhUUHpUMUJBOHpUS0tCeVVRbXVVU1VkZW5vRWJvX0I2Z1BYdkswZjBDSU1hZGtjSlZyS1ZQSjFvVGg4MG5PT2Y2ZmQ3UkxkY0QzeDRVSGlLajA3RW1BYndtdlY0SkMyd2RyUEpCNFBLQ19rYW4zNjZ0NVIwN053R2VpTEdvemNHR3A4UmNYWFlzVFpmY2h5SHhZcXZpc2tFbEVaNkN0bl8ySFlqVWl6d19OSF9mZTI4WjlNOUQ1TEZVc1ltZ3lBNnNaYjFOR3d4cFZFQTQxZmxSVkxicDY2ekFqdlVlaHJiWDd0aV81ckxtTUVUSS1IaWJldE5OYkNrX3NEN0NCOWRmeFJOMk1mdTdNS0ZtNdIBogJBVV95cUxNQndOdDlhdVB2cmxHeHpRa0ZYeXpkeW94Ny1zdUtvT0luSzc5SHBSdF9keTBVcE9GWUhuOGtPemNIUXp3enV5dmdfRTNLdXM0bnk3TzUwTmFSU1pUSDNqVko4cDRZUngzQUtjMGxzTFdqNDhBS1VCVDQxUHhVb19tTkFGMDBRUE9saS1fZ21WbkZxNmM2OWhYZWNsZkY5ZWJ6WnlOS2NxZlpoRW13NzA1Nld5UnhYOVVUeFBQdEVUTTgwcXZJSnE2RU1DcjJEamwtUmhvYmZxYzNCMTZ3NEthUGZnOUdyb2JaU1d0WGFla1hGOGtJdzJ6R1cybUlEOExlVXVYZ1dxMkYxSG5HWmlZQkVvR20yQXFTYVM2U3RpdTU1dw?oc=5)
+
+---
 
 ### [Recovery of stimulation-evoked synchronization in post-stroke brain networks - APS Journals](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5KY21MUHRHcWdEcndGMFRZVTJNNEFEY3F5RmxBSGlRN1RZamV0eGZMTWtkSHdLQ1I1S2hFVGxrVjFOaE80dkNPX1JoNmpiTDY4bndRZXFrXzU0UnlVMHRzMURUMThRdw?oc=5)
 
 2026-11-19
 
 Source: [APS Journals](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5KY21MUHRHcWdEcndGMFRZVTJNNEFEY3F5RmxBSGlRN1RZamV0eGZMTWtkSHdLQ1I1S2hFVGxrVjFOaE80dkNPX1JoNmpiTDY4bndRZXFrXzU0UnlVMHRzMURUMThRdw?oc=5)
-
----
-
-### [Stopping GLP-1s Linked to Double Heart Event Risk in T2D](https://news.google.com/rss/articles/CBMiogFBVV95cUxOdEQ0WlliTS12MFdrSEh6d1JlUWR5dk44UWxoU0drV1JxT2dsTFp4dmRTcnkwakV4aW5qSzhvbE9KRHh4ZHNZQm1rYnNkcnRsNThrRDVzT1B2RDlDa01wVXFVQ3k2Z2hXYVZ6U2FiaWRhMG00MW5uTEQ2MmVBX2ZhRUlRQjBQdnRHRHhMMHZZZlIzRURfUDNCQkNQaUR0aURGTFE?oc=5)
-
-2026-11-19
-
-Source: [Medscape](https://news.google.com/rss/articles/CBMiogFBVV95cUxOdEQ0WlliTS12MFdrSEh6d1JlUWR5dk44UWxoU0drV1JxT2dsTFp4dmRTcnkwakV4aW5qSzhvbE9KRHh4ZHNZQm1rYnNkcnRsNThrRDVzT1B2RDlDa01wVXFVQ3k2Z2hXYVZ6U2FiaWRhMG00MW5uTEQ2MmVBX2ZhRUlRQjBQdnRHRHhMMHZZZlIzRURfUDNCQkNQaUR0aURGTFE?oc=5)
 
 ---
 

@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Abemaciclib. 0 predicted indications."
 permalink: /news/abemaciclib/
-last_modified_at: 2026-11-18
+last_modified_at: 2026-11-20
 ---
 
 # Abemaciclib News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about Abemaciclib?">
-<strong>Abemaciclib</strong> currently has <strong>2 news articles</strong>, with 0 predicted indications.
+<strong>Abemaciclib</strong> currently has <strong>3 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page combines the AI-predicted indications for Abemaciclib with the latest 
 <p><a href="{{ '/drugs/abemaciclib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (3)
+
+### [Cochrane review challenges benefits of turmeric supplements for knee osteoarthritis](https://news.google.com/rss/articles/CBMiywFBVV95cUxQME1MTXpRZnNNLWR1Ul9WeWZ2SDdoMFFnVzViNkEwQjE3eUUxVUQ1R21wX0tpWVZHV0plRllmZFhRRmh3N3kyODRTeHIzNHhmNWJzdy10b1JpQ1VITGJuUlRkZi1ZOGkwTTNmNnRHbVM2U3p6M2Y2Vm9CMlRMdDQtcnFZVlNFZU1wQjY2aGYxcWJtVGpYZ01CSWlYb1gzbGd0blMzc3BDbTlaOFV3d1hEajlmclZsYmNnTlROUDJMSWJaMUlWNTItbGROOA?oc=5)
+
+2026-11-19 <span class="news-indication-tag">joint pain</span> <span class="news-indication-tag">osteoarthritis</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMiywFBVV95cUxQME1MTXpRZnNNLWR1Ul9WeWZ2SDdoMFFnVzViNkEwQjE3eUUxVUQ1R21wX0tpWVZHV0plRllmZFhRRmh3N3kyODRTeHIzNHhmNWJzdy10b1JpQ1VITGJuUlRkZi1ZOGkwTTNmNnRHbVM2U3p6M2Y2Vm9CMlRMdDQtcnFZVlNFZU1wQjY2aGYxcWJtVGpYZ01CSWlYb1gzbGd0blMzc3BDbTlaOFV3d1hEajlmclZsYmNnTlROUDJMSWJaMUlWNTItbGROOA?oc=5)
+
+---
 
 ### [Wine, beer, or spirits? Massive study reveals a surprising health divide - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE0tczdpVy0yQkc5TVJ1MG95d0dtNTJhMFhOakRXUVUwXzgxbjkzS0RDRXFWUTZYYm9GZGo1ZmxiN0VONU1jT3BMNHp2aERHY2VEN3JZOHR0RnpFb2ZtSnR3dnVuM0RXWmd2djdqVGppSQ?oc=5)
 

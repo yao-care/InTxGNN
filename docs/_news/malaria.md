@@ -3,7 +3,7 @@ layout: default
 title: "malaria News"
 parent: Health News
 nav_exclude: true
-description: "Health news about malaria. 6 articles, 2 related drugs."
+description: "Health news about malaria. 9 articles, 2 related drugs."
 permalink: /news/malaria/
 last_modified_at: 2026-11-20
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="What news is there about malaria?">
-<strong>malaria</strong> currently has <strong>6 news articles</strong> and 2 related drugs.
+<strong>malaria</strong> currently has <strong>9 news articles</strong> and 2 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,23 @@ This page brings together the latest health news about “malaria” and lists t
 </ul>
 </div>
 
-## Related News (6)
+## Related News (9)
+
+### [President Droupadi Murmu Inaugurates Golden Jubilee Celebrations of ICMR-NIMR - Drishti IAS](https://news.google.com/rss/articles/CBMiygFBVV95cUxPOWg1NHc0aWhUN1F5OU92TEJXSHVhZWZqTzlEUE1jNWRWWUNrUjhpaTJHSEFKbEJqb3JDeE1adkxVRkhVX1VKbjF5Y1E3NlpLLXFnUXpuR2NPQXp6RUsyeGlQcUJxZTN6NFVpYnZNRE9GZUVSVVVHdElFRnBVOEFEaGIwRENnUHU1RTRPWFBnemtuZVdvdzBOTU5QRXEwMlVLQ3RhUzdudV95elVVd29GSU1tMjg3WFQxaTROM2x3emxuRUlWMXZ5YlN3?oc=5)
+
+2026-11-20
+
+Source: [Drishti IAS](https://news.google.com/rss/articles/CBMiygFBVV95cUxPOWg1NHc0aWhUN1F5OU92TEJXSHVhZWZqTzlEUE1jNWRWWUNrUjhpaTJHSEFKbEJqb3JDeE1adkxVRkhVX1VKbjF5Y1E3NlpLLXFnUXpuR2NPQXp6RUsyeGlQcUJxZTN6NFVpYnZNRE9GZUVSVVVHdElFRnBVOEFEaGIwRENnUHU1RTRPWFBnemtuZVdvdzBOTU5QRXEwMlVLQ3RhUzdudV95elVVd29GSU1tMjg3WFQxaTROM2x3emxuRUlWMXZ5YlN3?oc=5)
+
+---
+
+### [Seasonal mass vaccination for malaria control in west Africa - The Lancet](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWWl6U1dEdVJnV3h4c3ZzNE9CbG9WSTJJUkdvX3ZSSzNfal9oQUFGZHZkb3hWQ095ZTVTTUJkY0t2ZUtkekdnWUZVZzFTN1JhRUNudlVNREhKcktFWEVzVGprRUhEamFuRDEwTjA3NFY5OXJSNnlYZ241d1R4Z0tJXzFyLTB5a0g2c1RZ?oc=5)
+
+2026-11-20
+
+Source: [The Lancet](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWWl6U1dEdVJnV3h4c3ZzNE9CbG9WSTJJUkdvX3ZSSzNfal9oQUFGZHZkb3hWQ095ZTVTTUJkY0t2ZUtkekdnWUZVZzFTN1JhRUNudlVNREhKcktFWEVzVGprRUhEamFuRDEwTjA3NFY5OXJSNnlYZ241d1R4Z0tJXzFyLTB5a0g2c1RZ?oc=5)
+
+---
 
 ### [Genetically engineered malaria vaccine demonstrates 87% efficacy in phase 1 trial](https://news.google.com/rss/articles/CBMiygFBVV95cUxQYmc5Y3pka0ZNZlM3VldqNU5mNUY5THpBQWkwSjNiYWpfNS0yTWdLTmx4dWpvemdTNnJZMmZ1VUNsM0NGTW9yM1VLQWl1X2VDdmdfVDBnXzNTR2ZGaVRyR01PSUl1T1NBOG1DeHpuUjVpTzV3N3RyWWRrZF95WWxsMUdQNHViVUpaNlFQNWwtdmxtSXliT2N5OUdFOVRfU3RYeTBaSS1haGFQOFlPSG1wYVZfSnFMMnpwblFfYW9LTTdOd2hQcVdJZVZn?oc=5)
 
@@ -46,6 +62,14 @@ Source: [News-Medical](https://news.google.com/rss/articles/CBMiygFBVV95cUxQYmc5
 2026-11-19
 
 Source: [Phys.org](https://news.google.com/rss/articles/CBMie0FVX3lxTE1kdXlWUmNpakRNWk5hcXh1dHlzOTVPZFVkaGRXOGpNRjRLWGZ5SGM4N2lNNUFMWG5wMEgtMmNxbEVfeWcxMHFGNmRMQm1XVVhUcEFaSy1lYjRoRnpJaDZ0aGM4dEFLUzZQTjF3bUFYUV9BZm1Da1JvN0pIcw?oc=5)
+
+---
+
+### [India's Malaria Burden: ICMR Flags Gaps In Case Reporting, Warns Of Hidden Plasmodium Species - ETV Bharat](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPblJIWXhjbFdyQ3UtdHlIZjRjc09uWmFUNE1TczJfaUwyY3B4X1hLZWU0NGJpQ1JTNnVyZnIxUjJ6dVg0U2ZaVnB3Mk54SWZ4ekJqZ2xNSXNnNlpYZm5Pd296S0VaSV84UDAxSzFBSkpIY0k1R3p2S3czWi1VdzZFRC04TGFWdWFEY1BwZk1wODM1dV9kVWZzcVVIYktJamEyeVVyTlctdUNCbGEtd0F4YVdYWjFiYkZBcnU3VGpVYTlqU096TjlWMEpudFRpaXB1QkxhMWdIZWjSAd4BQVVfeXFMTXJsLV9OWmZQc2x2NWJjNjFIM3R0c1lHLTBfWTY3U0IySFkxVEJkSm1Kci1wWnE3SXJ2TldSdTZMc3dGLTlPRUdzc2oxeVpHbnhsMlhkM1RkeWd6UXkxaFNvXzZqWFhDclNxUG40RnNMLVRnbHZEQ21QMnhtTjdDa0IxLVd2S3J0OWtTa2pJZXJ2TkFKQlU3TDlJVm9kY1FUMllCUUFTS09fM2NTSzBFSTFpS3k2RHdlYlNMdzJyRHNiNDJ3aVVWZVJvSDg3OHJLNWRaSmNnLWdjaXdmc1FB?oc=5)
+
+2026-11-18
+
+Source: [ETV Bharat](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPblJIWXhjbFdyQ3UtdHlIZjRjc09uWmFUNE1TczJfaUwyY3B4X1hLZWU0NGJpQ1JTNnVyZnIxUjJ6dVg0U2ZaVnB3Mk54SWZ4ekJqZ2xNSXNnNlpYZm5Pd296S0VaSV84UDAxSzFBSkpIY0k1R3p2S3czWi1VdzZFRC04TGFWdWFEY1BwZk1wODM1dV9kVWZzcVVIYktJamEyeVVyTlctdUNCbGEtd0F4YVdYWjFiYkZBcnU3VGpVYTlqU096TjlWMEpudFRpaXB1QkxhMWdIZWjSAd4BQVVfeXFMTXJsLV9OWmZQc2x2NWJjNjFIM3R0c1lHLTBfWTY3U0IySFkxVEJkSm1Kci1wWnE3SXJ2TldSdTZMc3dGLTlPRUdzc2oxeVpHbnhsMlhkM1RkeWd6UXkxaFNvXzZqWFhDclNxUG40RnNMLVRnbHZEQ21QMnhtTjdDa0IxLVd2S3J0OWtTa2pJZXJ2TkFKQlU3TDlJVm9kY1FUMllCUUFTS09fM2NTSzBFSTFpS3k2RHdlYlNMdzJyRHNiNDJ3aVVWZVJvSDg3OHJLNWRaSmNnLWdjaXdmc1FB?oc=5)
 
 ---
 

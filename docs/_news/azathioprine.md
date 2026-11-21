@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Azathioprine. 7 predicted indications."
 permalink: /news/azathioprine/
-last_modified_at: 2026-11-18
+last_modified_at: 2026-11-20
 ---
 
 # Azathioprine News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about Azathioprine?">
-<strong>Azathioprine</strong> currently has <strong>5 news articles</strong>, with 7 predicted indications.
+<strong>Azathioprine</strong> currently has <strong>6 news articles</strong>, with 7 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -39,7 +39,15 @@ This page combines the AI-predicted indications for Azathioprine with the latest
 <p><a href="{{ '/drugs/azathioprine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (6)
+
+### [Cochrane review challenges benefits of turmeric supplements for knee osteoarthritis](https://news.google.com/rss/articles/CBMiywFBVV95cUxQME1MTXpRZnNNLWR1Ul9WeWZ2SDdoMFFnVzViNkEwQjE3eUUxVUQ1R21wX0tpWVZHV0plRllmZFhRRmh3N3kyODRTeHIzNHhmNWJzdy10b1JpQ1VITGJuUlRkZi1ZOGkwTTNmNnRHbVM2U3p6M2Y2Vm9CMlRMdDQtcnFZVlNFZU1wQjY2aGYxcWJtVGpYZ01CSWlYb1gzbGd0blMzc3BDbTlaOFV3d1hEajlmclZsYmNnTlROUDJMSWJaMUlWNTItbGROOA?oc=5)
+
+2026-11-19 <span class="news-indication-tag">joint pain</span> <span class="news-indication-tag">osteoarthritis</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMiywFBVV95cUxQME1MTXpRZnNNLWR1Ul9WeWZ2SDdoMFFnVzViNkEwQjE3eUUxVUQ1R21wX0tpWVZHV0plRllmZFhRRmh3N3kyODRTeHIzNHhmNWJzdy10b1JpQ1VITGJuUlRkZi1ZOGkwTTNmNnRHbVM2U3p6M2Y2Vm9CMlRMdDQtcnFZVlNFZU1wQjY2aGYxcWJtVGpYZ01CSWlYb1gzbGd0blMzc3BDbTlaOFV3d1hEajlmclZsYmNnTlROUDJMSWJaMUlWNTItbGROOA?oc=5)
+
+---
 
 ### [N-of-1 Trials: Personalized Medicine for Inflammatory Bowel Disease](https://news.google.com/rss/articles/CBMiggFBVV95cUxOS0NJM2xMMm1YNEhrX3BfOHpxeC04RlFockxnOVNGbElTTUtpbjNRS05pbmN0VFlRaUxvTVA1c3hDUW45SktjVWZVWXdSTHVMY3l1ek1BWVdGYXZTOXBGU0FtQzU0WG9WUHlVOUVIMGZVSjhkWHVMTnhPX2k5S3Z4R3dB?oc=5)
 
