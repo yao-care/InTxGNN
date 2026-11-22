@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Meclizine. 6 predicted indications."
 permalink: /news/meclizine/
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-22
 ---
 
 # Meclizine News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-21
 ---
 
 <p class="key-answer" data-question="What news is there about Meclizine?">
-<strong>Meclizine</strong> currently has <strong>8 news articles</strong>, with 6 predicted indications.
+<strong>Meclizine</strong> currently has <strong>9 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,15 @@ This page combines the AI-predicted indications for Meclizine with the latest he
 <p><a href="{{ '/drugs/meclizine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (8)
+## Related News (9)
+
+### [Can You Get Tanned In Winter? Here's Why Cold Weather Does Not Protect Your Skin](https://news.google.com/rss/articles/CBMimwFBVV95cUxNbzBnSjR0REV1eEZiei1XWmJiY1ROcDJkX2dvMkVyM1JWYkZUWVBVM3RaanVidmVuMnk1Rm41eGpEWXdoR0hvTS12ODBUSUZKdXlydTc4WHNyWTJLQkgyb3J1N1lRQWNRelNHdmJWYVVqWGpLZmRYMmZxMF95eEV4M0hxVzdmMlpGTEFRUEVMcTB5M2JnYTYzdm1qMA?oc=5)
+
+2026-11-22 <span class="news-indication-tag">cold</span>
+
+Source: [Onlymyhealth](https://news.google.com/rss/articles/CBMimwFBVV95cUxNbzBnSjR0REV1eEZiei1XWmJiY1ROcDJkX2dvMkVyM1JWYkZUWVBVM3RaanVidmVuMnk1Rm41eGpEWXdoR0hvTS12ODBUSUZKdXlydTc4WHNyWTJLQkgyb3J1N1lRQWNRelNHdmJWYVVqWGpLZmRYMmZxMF95eEV4M0hxVzdmMlpGTEFRUEVMcTB5M2JnYTYzdm1qMA?oc=5)
+
+---
 
 ### [Winter heart health: Cardiologist explains why cold mornings increase heart attack risk and what precautions you should take | Health - Hindustan Times](https://news.google.com/rss/articles/CBMinAJBVV95cUxOVGRFeHlDUDhUUHpUMUJBOHpUS0tCeVVRbXVVU1VkZW5vRWJvX0I2Z1BYdkswZjBDSU1hZGtjSlZyS1ZQSjFvVGg4MG5PT2Y2ZmQ3UkxkY0QzeDRVSGlLajA3RW1BYndtdlY0SkMyd2RyUEpCNFBLQ19rYW4zNjZ0NVIwN053R2VpTEdvemNHR3A4UmNYWFlzVFpmY2h5SHhZcXZpc2tFbEVaNkN0bl8ySFlqVWl6d19OSF9mZTI4WjlNOUQ1TEZVc1ltZ3lBNnNaYjFOR3d4cFZFQTQxZmxSVkxicDY2ekFqdlVlaHJiWDd0aV81ckxtTUVUSS1IaWJldE5OYkNrX3NEN0NCOWRmeFJOMk1mdTdNS0ZtNdIBogJBVV95cUxNQndOdDlhdVB2cmxHeHpRa0ZYeXpkeW94Ny1zdUtvT0luSzc5SHBSdF9keTBVcE9GWUhuOGtPemNIUXp3enV5dmdfRTNLdXM0bnk3TzUwTmFSU1pUSDNqVko4cDRZUngzQUtjMGxzTFdqNDhBS1VCVDQxUHhVb19tTkFGMDBRUE9saS1fZ21WbkZxNmM2OWhYZWNsZkY5ZWJ6WnlOS2NxZlpoRW13NzA1Nld5UnhYOVVUeFBQdEVUTTgwcXZJSnE2RU1DcjJEamwtUmhvYmZxYzNCMTZ3NEthUGZnOUdyb2JaU1d0WGFla1hGOGtJdzJ6R1cybUlEOExlVXVYZ1dxMkYxSG5HWmlZQkVvR20yQXFTYVM2U3RpdTU1dw?oc=5)
 

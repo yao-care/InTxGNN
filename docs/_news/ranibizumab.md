@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="What news is there about Ranibizumab?">
-<strong>Ranibizumab</strong> currently has <strong>1 news articles</strong>, with 9 predicted indications.
+<strong>Ranibizumab</strong> currently has <strong>2 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ This page combines the AI-predicted indications for Ranibizumab with the latest 
 <p><a href="{{ '/drugs/ranibizumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [Treatment of spontaneous hyphema in Fuch's heterochromic iridocyclitis with intravitreal anti-VEGF ranibizumab - National Institutes of Health (NIH) | (.gov)](https://news.google.com/rss/articles/CBMioAJBVV95cUxQQmxNd1hZN1lUSlFSVmE0MjNqUXRXUnlNSWxCLWQzX1lsOTRUNWJqS2lDZ2FEbmFndnFJYkJPY0dYcDlycTNaM2tPTjVmekFvZlhORTAwRFM1a2w1VTQyTWFycHM4SnVodEZGLWpHLVIwcF9XdHUwdUNZeEhxQXhUOEFnc0hzUWIzYnlXc2hjRmV4NTZ1azlva2FRYkYtOUx5ZkpXYnBzeTlzMWpNRk5sdE5OY244cjN6YUJCQWZ6WHhILTVBUnRRaVRPdmk4VFE5MXdaVkNQcWJmSDRsWU5SSU5kNGVibVdSbjhycG1IUEhfQVpzeFhhZW85clRXc3pxWTF2aTB6WGhaSFhpUmF4bVgwQkY1RmYwekcyTUcxWkM?oc=5)
+
+2026-11-22 <span class="news-drug-tag">RANIBIZUMAB</span> <span class="news-drug-tag">Ranibizumab</span>
+
+Source: [National Institutes of Health (NIH) | (.gov)](https://news.google.com/rss/articles/CBMioAJBVV95cUxQQmxNd1hZN1lUSlFSVmE0MjNqUXRXUnlNSWxCLWQzX1lsOTRUNWJqS2lDZ2FEbmFndnFJYkJPY0dYcDlycTNaM2tPTjVmekFvZlhORTAwRFM1a2w1VTQyTWFycHM4SnVodEZGLWpHLVIwcF9XdHUwdUNZeEhxQXhUOEFnc0hzUWIzYnlXc2hjRmV4NTZ1azlva2FRYkYtOUx5ZkpXYnBzeTlzMWpNRk5sdE5OY244cjN6YUJCQWZ6WHhILTVBUnRRaVRPdmk4VFE5MXdaVkNQcWJmSDRsWU5SSU5kNGVibVdSbjhycG1IUEhfQVpzeFhhZW85clRXc3pxWTF2aTB6WGhaSFhpUmF4bVgwQkY1RmYwekcyTUcxWkM?oc=5)
+
+---
 
 ### [Treatment of spontaneous hyphema in Fuch's heterochromic iridocyclitis with intravitreal anti-VEGF ranibizumab - National Institutes of Health (NIH) | (.gov)](https://news.google.com/rss/articles/CBMioAJBVV95cUxQRXVBWUxoTHgxYnY2bUJxMzlmRUtleklHNUVGUlZWLTNzNkR6ZEwzaXplTjgyRExBOEVjd1M0QjF3ZnRTeHpZcHpnRklpaFlCcUVEeFp6TnEwSXdfNmFJVk5XQXFGaGc3WjEyUVpMeHM3T1BGdEVhNHZYWG9SaEJzQ3hhRFlBSUo3a1VvenhsbzVYcjU5TzBPRzFGY0lweGFfa2VqZlNHMmJCV3pWRGFSU1hUQWtFOXJ1RzRLT1lncHVzV09XaWUwU0IzQzh6dVhtTWZYei1CSHVENjg1WXVKbXI5NElzTHJrNFhzTjcxMzA0UkJON2hwSXlyNlZSLWVnM2hucWI3RncyNE12Y1pSaFdJeHI5eERGalVrLU5fdE0?oc=5)
 

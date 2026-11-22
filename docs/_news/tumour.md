@@ -3,7 +3,7 @@ layout: default
 title: "tumour News"
 parent: Health News
 nav_exclude: true
-description: "Health news about tumour. 4 articles, 228 related drugs."
+description: "Health news about tumour. 5 articles, 228 related drugs."
 permalink: /news/tumour/
 last_modified_at: 2026-11-22
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="What news is there about tumour?">
-<strong>tumour</strong> currently has <strong>4 news articles</strong> and 228 related drugs.
+<strong>tumour</strong> currently has <strong>5 news articles</strong> and 228 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -236,13 +236,21 @@ This page brings together the latest health news about “tumour” and lists th
 </ul>
 </div>
 
-## Related News (4)
+## Related News (5)
 
 ### [Michelle Mitchell: New Pancreatic Cancer Trial Results Offer Hope, but More Research Is Needed](https://news.google.com/rss/articles/CBMie0FVX3lxTE5KX2pYSDdwNkQ5aDF6OXVNOGNoSkRYRUZuQzc2SUMyS0V2bW11aWlRUThocmdNMzFOY3VKRU1LNkNfRHZxQndTVjloNDBMeUVKbHJBcm9BMFAyaDZoS2Y2LWVTa2tjLUtMNkczbzhHdkdnaklGcDBZcXFrcw?oc=5)
 
 2026-11-21
 
 Source: [Oncodaily](https://news.google.com/rss/articles/CBMie0FVX3lxTE5KX2pYSDdwNkQ5aDF6OXVNOGNoSkRYRUZuQzc2SUMyS0V2bW11aWlRUThocmdNMzFOY3VKRU1LNkNfRHZxQndTVjloNDBMeUVKbHJBcm9BMFAyaDZoS2Y2LWVTa2tjLUtMNkczbzhHdkdnaklGcDBZcXFrcw?oc=5)
+
+---
+
+### [A pill that makes pancreatic cancer disappear? What the daraxonrasib trial found - The Indian Express](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUzgzSHpDVUpNSjMyREpORU9sajlkUTdjLU5JVzFHMG1OdUU3bzV3NjJra3JaakoxUUdydjA5aWY1ai1VT0hUemNBV0czaEJFbF9ZLWNqdmctbjdaVFVJT0h3ZEpUMUZuTHpYcElTTUtJanAzeWQ0N0pRTS05WUNwUy1hWUFYU1BHY3pmSGxXVUZqWUlxOUNlVVFnaVEwUFVTRnFTTW9WcTBMTHJzakRHbXpKdTRtRm9hdU1VM0lRVmtOeS1kd0paZXA4VzVoVGdhT0lKcnotY9IB3gFBVV95cUxQa3R3cjBSR0VZLVlnZ2FhOENpUmNKbVhkMVNFU1hkeE5ET1YzQ2tYZnRDMGxXS0I1R2VwNUltY0NtSHZPTjk5ODVldjZxUHU5VGxZeVh6LXBfYzVTVjZBelVFMnhpZW1OM3pIV3dFS0JoaEgxeXlibTJaQmx5S25UUnM3YVE2MTRSMWNlUm1UbFNUbVdxcVZqWUxFdFdOM2gzSVhXYnRqQ3h6MUh0Q1pGMkRVNkZwOVJfRV80aGdNWFhQUnZqRU5MMGNwTnNUazRxTzhTcElORlpaWHdaY1E?oc=5)
+
+2026-11-21
+
+Source: [The Indian Express](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUzgzSHpDVUpNSjMyREpORU9sajlkUTdjLU5JVzFHMG1OdUU3bzV3NjJra3JaakoxUUdydjA5aWY1ai1VT0hUemNBV0czaEJFbF9ZLWNqdmctbjdaVFVJT0h3ZEpUMUZuTHpYcElTTUtJanAzeWQ0N0pRTS05WUNwUy1hWUFYU1BHY3pmSGxXVUZqWUlxOUNlVVFnaVEwUFVTRnFTTW9WcTBMTHJzakRHbXpKdTRtRm9hdU1VM0lRVmtOeS1kd0paZXA4VzVoVGdhT0lKcnotY9IB3gFBVV95cUxQa3R3cjBSR0VZLVlnZ2FhOENpUmNKbVhkMVNFU1hkeE5ET1YzQ2tYZnRDMGxXS0I1R2VwNUltY0NtSHZPTjk5ODVldjZxUHU5VGxZeVh6LXBfYzVTVjZBelVFMnhpZW1OM3pIV3dFS0JoaEgxeXlibTJaQmx5S25UUnM3YVE2MTRSMWNlUm1UbFNUbVdxcVZqWUxFdFdOM2gzSVhXYnRqQ3h6MUh0Q1pGMkRVNkZwOVJfRV80aGdNWFhQUnZqRU5MMGNwTnNUazRxTzhTcElORlpaWHdaY1E?oc=5)
 
 ---
 

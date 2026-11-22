@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="What news is there about Iron?">
-<strong>Iron</strong> currently has <strong>5 news articles</strong>, with 5 predicted indications.
+<strong>Iron</strong> currently has <strong>6 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,7 @@ This page combines the AI-predicted indications for Iron with the latest health 
 <p><a href="{{ '/drugs/iron/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (6)
 
 ### [Assam hospitals feature in study linking anaemia to higher heart failure risk during pregnancy](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRXF4NkRncG1KRmk4LTdiQUJLdGx4SDA5YVB2RnNFeTlVZHFyRzJXVzd2YlU3T1hYdldjRm9CZXFWWkJOWVk5MWlxOURSLUlXSlhSclNkX01nZTZVT2xsNmNBNUZyV015Tks4WDNrV1Z3N1lfWWZwOU9zTU9PN2lXakpDSGM1WVphT1FyVDZuWl9PbjhjQWVOTlMya1RVRFB2MXlTUWwtcnJFUVZKbE55azNsRjUyNVpXbFBNS0FFWVM4Q0J5SnpjaWpOeWxWQ01aRUlqRNIB1AFBVV95cUxNSldzcEoyNmxUQlZKWldITTJvQW40VGFTd3pvZWFlZkJ2VUpFZ2VLbEFzZ24zSTVqSElCUlcyU1VKeWVab1d5WjZOV3RfQVhtZTEyZFpfeXNMdDdlbEhldFZKSmRPdVlweUhGbFJiZTZXaW9VcldJb1dBSHc2SFc2b2hjVlQ3b20tY0NBYXBpUjNQWkJ0RzM5NTFjbFpEa1NMZEp1aHlDMldyZWFWRkRJSTJlMHh4NXpQR2tEWXJJNGdURjJ4N3A1TURCSmxhUHNvRUlNMA?oc=5)
 
@@ -60,6 +60,14 @@ Source: [Harvard Health](https://news.google.com/rss/articles/CBMipwFBVV95cUxNTm
 2026-11-20 <span class="news-drug-tag">IRON</span> <span class="news-drug-tag">Iron</span>
 
 Source: [The South First](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcUl0UE1DMlJWMVh5bElTbE5wMXoybF9FQXdhOTJyVm5aam9TRTJyeUYyc3I0WUVPNG84OHdGbHRKZEY4QkM3ODk1cjd5RmFOQjh0ejhEdGYwbWwwX2R4eUpzX2lfNU8tcGZqLTViVnpjRk1xOXRweXByX1lkb1NVdVlLdTlma1FqbUJKZXYybmc3ME93eGhiUndfcmp2UXpIUUxrS1k2UzVPLXB4VDJSZTQ5Uk1ha1NKcDNFSnNfLTc?oc=5)
+
+---
+
+### [ASH Issues New 2026 Guidelines for Diagnosis of Iron Deficiency - Medical Dialogues](https://news.google.com/rss/articles/CBMiugFBVV95cUxQVE1kSG9ERHVZU2pEZGFGNzBpY3FzOGx6bWVqa0VnT2ZEMnVRRW1UNFJYSUp2a0JaQlFTanJiQlJiQ1NyaVlySFRuR21UZlJrUDRyd2kwVWJzWml2eDRQcDFqQ202eFFCUmxUUm9XbUw2TnI1eXNOVlc0NC1MWEhKYzRsQk1tWkF0TGk2QzJSWk9vV2U5UU9xUFc5S01PT0loRk93ODFaVzV2elZVMlExRThiSUc2Qjk1X0HSAb8BQVVfeXFMUF84WUVSOUdlbFNiRi1CZEV2RExqS2ZUSmQwN2lZWjhQZXI3eU9rUDhPZXppbHZZaHJ1UkdGNmk5dmoxY2h5bGh5eUhzdnpMRTc4ZjZnVS13ZlhpTGlBWTU5a3pXeHBGcFdzdTZ4MFV0RFpLWGJZZnlUNmlBbHRjUmVLemIzbUtrUjZ5MXFWTF8xRUc2NlIzNkVkaVFKLXY3SzlIMW1MTUdmaVF3QWY4Wl9zdnVacWd6ZFAzX1NrRXc?oc=5)
+
+2026-11-19 <span class="news-drug-tag">IRON</span> <span class="news-drug-tag">Iron</span>
+
+Source: [Medical Dialogues](https://news.google.com/rss/articles/CBMiugFBVV95cUxQVE1kSG9ERHVZU2pEZGFGNzBpY3FzOGx6bWVqa0VnT2ZEMnVRRW1UNFJYSUp2a0JaQlFTanJiQlJiQ1NyaVlySFRuR21UZlJrUDRyd2kwVWJzWml2eDRQcDFqQ202eFFCUmxUUm9XbUw2TnI1eXNOVlc0NC1MWEhKYzRsQk1tWkF0TGk2QzJSWk9vV2U5UU9xUFc5S01PT0loRk93ODFaVzV2elZVMlExRThiSUc2Qjk1X0HSAb8BQVVfeXFMUF84WUVSOUdlbFNiRi1CZEV2RExqS2ZUSmQwN2lZWjhQZXI3eU9rUDhPZXppbHZZaHJ1UkdGNmk5dmoxY2h5bGh5eUhzdnpMRTc4ZjZnVS13ZlhpTGlBWTU5a3pXeHBGcFdzdTZ4MFV0RFpLWGJZZnlUNmlBbHRjUmVLemIzbUtrUjZ5MXFWTF8xRUc2NlIzNkVkaVFKLXY3SzlIMW1MTUdmaVF3QWY4Wl9zdnVacWd6ZFAzX1NrRXc?oc=5)
 
 ---
 

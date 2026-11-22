@@ -3,7 +3,7 @@ layout: default
 title: "pancreatic cancer (pancreas cancer) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about pancreatic cancer (pancreas cancer). 10 articles, 1 related drugs."
+description: "Health news about pancreatic cancer (pancreas cancer). 12 articles, 1 related drugs."
 permalink: /news/pancreas-cancer/
 last_modified_at: 2026-11-22
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="What news is there about pancreatic cancer (pancreas cancer)?">
-<strong>pancreatic cancer (pancreas cancer)</strong> currently has <strong>10 news articles</strong> and 1 related drugs.
+<strong>pancreatic cancer (pancreas cancer)</strong> currently has <strong>12 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,21 @@ This page brings together the latest health news about “pancreatic cancer” a
 </ul>
 </div>
 
-## Related News (10)
+## Related News (12)
 
 ### [Michelle Mitchell: New Pancreatic Cancer Trial Results Offer Hope, but More Research Is Needed](https://news.google.com/rss/articles/CBMie0FVX3lxTE5KX2pYSDdwNkQ5aDF6OXVNOGNoSkRYRUZuQzc2SUMyS0V2bW11aWlRUThocmdNMzFOY3VKRU1LNkNfRHZxQndTVjloNDBMeUVKbHJBcm9BMFAyaDZoS2Y2LWVTa2tjLUtMNkczbzhHdkdnaklGcDBZcXFrcw?oc=5)
 
 2026-11-21
 
 Source: [Oncodaily](https://news.google.com/rss/articles/CBMie0FVX3lxTE5KX2pYSDdwNkQ5aDF6OXVNOGNoSkRYRUZuQzc2SUMyS0V2bW11aWlRUThocmdNMzFOY3VKRU1LNkNfRHZxQndTVjloNDBMeUVKbHJBcm9BMFAyaDZoS2Y2LWVTa2tjLUtMNkczbzhHdkdnaklGcDBZcXFrcw?oc=5)
+
+---
+
+### [A pill that makes pancreatic cancer disappear? What the daraxonrasib trial found - The Indian Express](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUzgzSHpDVUpNSjMyREpORU9sajlkUTdjLU5JVzFHMG1OdUU3bzV3NjJra3JaakoxUUdydjA5aWY1ai1VT0hUemNBV0czaEJFbF9ZLWNqdmctbjdaVFVJT0h3ZEpUMUZuTHpYcElTTUtJanAzeWQ0N0pRTS05WUNwUy1hWUFYU1BHY3pmSGxXVUZqWUlxOUNlVVFnaVEwUFVTRnFTTW9WcTBMTHJzakRHbXpKdTRtRm9hdU1VM0lRVmtOeS1kd0paZXA4VzVoVGdhT0lKcnotY9IB3gFBVV95cUxQa3R3cjBSR0VZLVlnZ2FhOENpUmNKbVhkMVNFU1hkeE5ET1YzQ2tYZnRDMGxXS0I1R2VwNUltY0NtSHZPTjk5ODVldjZxUHU5VGxZeVh6LXBfYzVTVjZBelVFMnhpZW1OM3pIV3dFS0JoaEgxeXlibTJaQmx5S25UUnM3YVE2MTRSMWNlUm1UbFNUbVdxcVZqWUxFdFdOM2gzSVhXYnRqQ3h6MUh0Q1pGMkRVNkZwOVJfRV80aGdNWFhQUnZqRU5MMGNwTnNUazRxTzhTcElORlpaWHdaY1E?oc=5)
+
+2026-11-21
+
+Source: [The Indian Express](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUzgzSHpDVUpNSjMyREpORU9sajlkUTdjLU5JVzFHMG1OdUU3bzV3NjJra3JaakoxUUdydjA5aWY1ai1VT0hUemNBV0czaEJFbF9ZLWNqdmctbjdaVFVJT0h3ZEpUMUZuTHpYcElTTUtJanAzeWQ0N0pRTS05WUNwUy1hWUFYU1BHY3pmSGxXVUZqWUlxOUNlVVFnaVEwUFVTRnFTTW9WcTBMTHJzakRHbXpKdTRtRm9hdU1VM0lRVmtOeS1kd0paZXA4VzVoVGdhT0lKcnotY9IB3gFBVV95cUxQa3R3cjBSR0VZLVlnZ2FhOENpUmNKbVhkMVNFU1hkeE5ET1YzQ2tYZnRDMGxXS0I1R2VwNUltY0NtSHZPTjk5ODVldjZxUHU5VGxZeVh6LXBfYzVTVjZBelVFMnhpZW1OM3pIV3dFS0JoaEgxeXlibTJaQmx5S25UUnM3YVE2MTRSMWNlUm1UbFNUbVdxcVZqWUxFdFdOM2gzSVhXYnRqQ3h6MUh0Q1pGMkRVNkZwOVJfRV80aGdNWFhQUnZqRU5MMGNwTnNUazRxTzhTcElORlpaWHdaY1E?oc=5)
 
 ---
 
@@ -101,6 +109,14 @@ Source: [NBC 5 Dallas-Fort Worth](https://news.google.com/rss/articles/CBMi2wFBV
 2026-11-19
 
 Source: [The Times of India](https://news.google.com/rss/articles/CBMikgJBVV95cUxQU2tnODFpSUxReG9mMzRNVlE0MmF1aFpXc3lKTGptdDJVLUdsNmZ3ekdNaU9KVmFXYjVvak9yX1VnTUhtMlY2c2R3RlQxTUhDbkVHNnYtUTF6RHpXVEhBMmV2a25mNUhPTlY2V3NCaHZzeXlneHV2ZU1CdHNQblNkQUlTNU8wSDFZcWYtZkxUNmxUanp1YXVIek85RFM5NGE4azgtQnBIYV9jMzF2TThsbzJNWTIzMnFDcXNyd2hUWDk5MEU0UHhmSENhSUtkX3FTbmktVllFMExzWV9QMHluaEdvWWxxWFBTYV9sdmJWblZSTHZkdnAwVUhzMDF1Z2JDTmNmbWhuZGtBVktNZjlUb2t3?oc=5)
+
+---
+
+### [The Silent Cancer: From Late Diagnosis to New Hope”](https://news.google.com/rss/articles/CBMilwFBVV95cUxQV2E5QmlnMkpqWGcwUmJtZy1vRmVxV3RlQndzdlBnM2pxNTkwUVY4TnZPazhySU1QUWtzSlpMQWpQTUJORWo4N09wYUZGcC00M0xIYmZ4NC1NY3l4MUJkYURqM3BkYVpRS2tXY21pTTNhQnk0eGhQLTBpZXlURFJhdWF1UUFVQVFPWlhWMFROeWttY1p0WjVN0gGXAUFVX3lxTFBXYTlCaWcySmpYZzBSYm1nLW9GZXFXdGVCd3N2UGczanE1OTBRVjhOdk9rOHJJTVBRa3NKWkxBalBNQk5Fajg3T3BhRkZwLTQzTEhiZng0LU1jeXgxQmRhRGozcGRhWlFLa1djbWlNM2FCeTR4aFAtMGlleVREUmF1YXVRQVVBUU9aWFYwVE55a21jWnRaNU0?oc=5)
+
+2026-11-18
+
+Source: [TheWire.in](https://news.google.com/rss/articles/CBMilwFBVV95cUxQV2E5QmlnMkpqWGcwUmJtZy1vRmVxV3RlQndzdlBnM2pxNTkwUVY4TnZPazhySU1QUWtzSlpMQWpQTUJORWo4N09wYUZGcC00M0xIYmZ4NC1NY3l4MUJkYURqM3BkYVpRS2tXY21pTTNhQnk0eGhQLTBpZXlURFJhdWF1UUFVQVFPWlhWMFROeWttY1p0WjVN0gGXAUFVX3lxTFBXYTlCaWcySmpYZzBSYm1nLW9GZXFXdGVCd3N2UGczanE1OTBRVjhOdk9rOHJJTVBRa3NKWkxBalBNQk5Fajg3T3BhRkZwLTQzTEhiZng0LU1jeXgxQmRhRGozcGRhWlFLa1djbWlNM2FCeTR4aFAtMGlleVREUmF1YXVRQVVBUU9aWFYwVE55a21jWnRaNU0?oc=5)
 
 ---
 
