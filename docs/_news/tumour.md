@@ -3,9 +3,9 @@ layout: default
 title: "tumour News"
 parent: Health News
 nav_exclude: true
-description: "Health news about tumour. 3 articles, 228 related drugs."
+description: "Health news about tumour. 4 articles, 228 related drugs."
 permalink: /news/tumour/
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-22
 ---
 
 # tumour News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-21
 ---
 
 <p class="key-answer" data-question="What news is there about tumour?">
-<strong>tumour</strong> currently has <strong>3 news articles</strong> and 228 related drugs.
+<strong>tumour</strong> currently has <strong>4 news articles</strong> and 228 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -236,7 +236,15 @@ This page brings together the latest health news about “tumour” and lists th
 </ul>
 </div>
 
-## Related News (3)
+## Related News (4)
+
+### [Michelle Mitchell: New Pancreatic Cancer Trial Results Offer Hope, but More Research Is Needed](https://news.google.com/rss/articles/CBMie0FVX3lxTE5KX2pYSDdwNkQ5aDF6OXVNOGNoSkRYRUZuQzc2SUMyS0V2bW11aWlRUThocmdNMzFOY3VKRU1LNkNfRHZxQndTVjloNDBMeUVKbHJBcm9BMFAyaDZoS2Y2LWVTa2tjLUtMNkczbzhHdkdnaklGcDBZcXFrcw?oc=5)
+
+2026-11-21
+
+Source: [Oncodaily](https://news.google.com/rss/articles/CBMie0FVX3lxTE5KX2pYSDdwNkQ5aDF6OXVNOGNoSkRYRUZuQzc2SUMyS0V2bW11aWlRUThocmdNMzFOY3VKRU1LNkNfRHZxQndTVjloNDBMeUVKbHJBcm9BMFAyaDZoS2Y2LWVTa2tjLUtMNkczbzhHdkdnaklGcDBZcXFrcw?oc=5)
+
+---
 
 ### [Daraxonrasib Pill Offers Promising Hope for Pancreatic Cancer - India News Network](https://news.google.com/rss/articles/CBMipAFBVV95cUxQY005RENtWmhrTURWX3lBWTRDRTIydGVuTWFMc1BuYy1kelo4d19QQ3BhazRfUHRkQm5BdGs4REhBNFZDVUVsWDQwUkUtQlFzYkZCZ1dGX3g1aFhydG5DdEgxcHdOOVpkUmVQYUdCNHlyTFktcnpoR2pOOC0zQlVmSnlMT1NyLXZCRmFuQ01xc2dSNHp2Mzk4Ui1pejNuUWhMZ2tjXw?oc=5)
 

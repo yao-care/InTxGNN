@@ -3,9 +3,9 @@ layout: default
 title: "tumor News"
 parent: Health News
 nav_exclude: true
-description: "Health news about tumor. 2 articles, 228 related drugs."
+description: "Health news about tumor. 4 articles, 228 related drugs."
 permalink: /news/tumor/
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-22
 ---
 
 # tumor News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="What news is there about tumor?">
-<strong>tumor</strong> currently has <strong>2 news articles</strong> and 228 related drugs.
+<strong>tumor</strong> currently has <strong>4 news articles</strong> and 228 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -236,7 +236,23 @@ This page brings together the latest health news about “tumor” and lists the
 </ul>
 </div>
 
-## Related News (2)
+## Related News (4)
+
+### [Tumor-derived TGM2 drives macrophage-mediated angiogenesis via the PKM2/STAT1/CCL2 axis in gastric cancer](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9BZURoZ3psaWt0d05mOXJwM1RiVkhNVUhOWlZTaGJ6T3NiNjdpMW5kMzM4U0hTMm9objV6eFUtMHNFZWJ6bmRsQWdVbF9UQ1dCZnNTam9Eb3lNWndNU1h3?oc=5)
+
+2026-11-21
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9BZURoZ3psaWt0d05mOXJwM1RiVkhNVUhOWlZTaGJ6T3NiNjdpMW5kMzM4U0hTMm9objV6eFUtMHNFZWJ6bmRsQWdVbF9UQ1dCZnNTam9Eb3lNWndNU1h3?oc=5)
+
+---
+
+### [Repeated CT scans, MRIs may raise brain tumour risk—what study of 3.7 mn US, Canadian children found](https://news.google.com/rss/articles/CBMizwFBVV95cUxOcnBvZFhvTnRNNHdCT2dLMjMwUVFXc2E5alRSWmlOYklMaW1odUlzLXdBSjdoWUZpUkhQRjlvME5YU01KY2xIeWo5X191aG51RDREdVg5cDlyX1BZT1F5d0N3WEFMWmdidzhJd3JPZkJkZnF2RlhqaEhzMWo4Nl9NUkpIN25hMWl5amZaUF9vZXlQT1RIRmxCRUo3OGhRZVlQUU9fNUdMUGRpZXZNaHdRZXhlMlBOM2JneHZtYTdzdExIc2wzRWN3RXI2N0JhMlHSAdQBQVVfeXFMTWhfQUR5a3FPWHRvMVFYMDNFcFF6NldrVVFYSkt6NXlNamFZTkxSNnFZMEN2Nmx2UmRYLTdGb3pVb3VwOG4xVE5lajY1LWJURkplQUt3ZXZBdE40dC0wM1RoSFZDSUdoSlZ5VWkyOVkzb215bE9PN1F5aDgzazBqdDZnSFZaaGdidl9vTV9GR3BXdzg1RDRZbExfNWo2cmxjRklNMi1obVNNWDcwdkdkMEVZMGNrY3MybjRMREN5V1NVV2tLN0dlOXJBbk8tWFZSYTZ4NUU?oc=5)
+
+2026-11-21
+
+Source: [ThePrint](https://news.google.com/rss/articles/CBMizwFBVV95cUxOcnBvZFhvTnRNNHdCT2dLMjMwUVFXc2E5alRSWmlOYklMaW1odUlzLXdBSjdoWUZpUkhQRjlvME5YU01KY2xIeWo5X191aG51RDREdVg5cDlyX1BZT1F5d0N3WEFMWmdidzhJd3JPZkJkZnF2RlhqaEhzMWo4Nl9NUkpIN25hMWl5amZaUF9vZXlQT1RIRmxCRUo3OGhRZVlQUU9fNUdMUGRpZXZNaHdRZXhlMlBOM2JneHZtYTdzdExIc2wzRWN3RXI2N0JhMlHSAdQBQVVfeXFMTWhfQUR5a3FPWHRvMVFYMDNFcFF6NldrVVFYSkt6NXlNamFZTkxSNnFZMEN2Nmx2UmRYLTdGb3pVb3VwOG4xVE5lajY1LWJURkplQUt3ZXZBdE40dC0wM1RoSFZDSUdoSlZ5VWkyOVkzb215bE9PN1F5aDgzazBqdDZnSFZaaGdidl9vTV9GR3BXdzg1RDRZbExfNWo2cmxjRklNMi1obVNNWDcwdkdkMEVZMGNrY3MybjRMREN5V1NVV2tLN0dlOXJBbk8tWFZSYTZ4NUU?oc=5)
+
+---
 
 ### [CT scans, X-rays can raise brain tumour risk in children, study warns](https://news.google.com/rss/articles/CBMipwFBVV95cUxOdTZ1R1NRMVlyNW9Lb0trRlFvSjBWc3RwSi0wT1pOODFnU0hHaVBtTUwzNjF4dmVOanc5YXJLdWFBZ3BpZ2pCb0ttSEZTdk9hbXJ6ckNDLURKTy03UnJqalpSUVkta2NWQVpUNjdWT0ZwWlg0MG1oMlpKYmJSMVFiVEtXb1E3NWFDbDFEeVVfUXJxMlREUWtKSi1SckdMc1lmd292SGd0RdIBrAFBVV95cUxNaFVlbVptZURsUWtWTzlQR1pBR2x2UnJia1ZlRDREMTFZdVZodU9TV00xQ25ZUUdjNUdKRVVYQU53cHRBS0VuWDZrcW9QVWczajlzaE1IRmp6Mm80Z19JcXRibDJNQ2tOWVJETGdfV05CMXhiZFBOR0UzQWljdlZFcWRfcUExbmtKVFdCUVlxOHVzSXN6b0N5d0k5V2lxSTNzZmhSTlNxaEhkMkUt?oc=5)
 

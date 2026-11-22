@@ -3,9 +3,9 @@ layout: default
 title: "memory loss (dementia) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about memory loss (dementia). 24 articles, 8 related drugs."
+description: "Health news about memory loss (dementia). 25 articles, 8 related drugs."
 permalink: /news/dementia/
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-22
 ---
 
 # memory loss (dementia) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-21
 ---
 
 <p class="key-answer" data-question="What news is there about memory loss (dementia)?">
-<strong>memory loss (dementia)</strong> currently has <strong>24 news articles</strong> and 8 related drugs.
+<strong>memory loss (dementia)</strong> currently has <strong>25 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,15 @@ This page brings together the latest health news about “memory loss” and lis
 </ul>
 </div>
 
-## Related News (24)
+## Related News (25)
+
+### [Resistance training could help boost brain health and confidence in older adults - The Conversation](https://news.google.com/rss/articles/CBMitgFBVV95cUxQTWhkaTZ4Y0p1ekJGTlFhaDhxbFVsZ2oyTmozdkdSVVF4WEQ3RWo3enBoVWN2akMzVVQwRFBlQUdBaktNdkhVUHcyT3cxVDgxWl9HbWw5eGlRRlJVdlZ1YWJJN1l5VzR6dlQ4TW9hU0VpSGp4X08wcThXNzkzOTFyUElaMU5rRDF3MVI4QzdBWUN6cEluemgwbTZ1RmllczJSRGEySmJTc21tcl9hVC1nQV96M2pSdw?oc=5)
+
+2026-11-20
+
+Source: [The Conversation](https://news.google.com/rss/articles/CBMitgFBVV95cUxQTWhkaTZ4Y0p1ekJGTlFhaDhxbFVsZ2oyTmozdkdSVVF4WEQ3RWo3enBoVWN2akMzVVQwRFBlQUdBaktNdkhVUHcyT3cxVDgxWl9HbWw5eGlRRlJVdlZ1YWJJN1l5VzR6dlQ4TW9hU0VpSGp4X08wcThXNzkzOTFyUElaMU5rRDF3MVI4QzdBWUN6cEluemgwbTZ1RmllczJSRGEySmJTc21tcl9hVC1nQV96M2pSdw?oc=5)
+
+---
 
 ### [Stem cells injected into brains of Alzheimer’s patients in world first - The Times](https://news.google.com/rss/articles/CBMijgFBVV95cUxOU1lNTGI4X1Q4TDFaTGM2SllLV0VORjVpRjZtSjFIVmpRV2NIUG5GWk9xLThSVU9xU1RSb01UTDFXU2x4UVRIVWU2NkVBZlJkekVyYVB5OHZ6czRGZnJFS1pzVGVaT2RxbGkwN1Q2TVZEM0Y3NU1pTHlwTHVRN0hMN29rcXJhSThvdlFDRGdn?oc=5)
 
