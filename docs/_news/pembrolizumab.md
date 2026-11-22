@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Pembrolizumab. 9 predicted indications."
 permalink: /news/pembrolizumab/
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-22
 ---
 
 # Pembrolizumab News
@@ -45,7 +45,7 @@ This page combines the AI-predicted indications for Pembrolizumab with the lates
 
 ### [Can Intismeran Autogene Plus Pembrolizumab Improve Melanoma Outcomes? - Targeted Onc](https://news.google.com/rss/articles/CBMiowFBVV95cUxPUmVyOG5IWTdMZzFQbkd2X0ZYR1lSVG5IdTY0RkpxaFd4NUdNZ0hzeFZldUJ1c2FOS3pINUkzOGYyRC15NTMyOXg0bGJnUXJTS0paZ3E3Ym1rQk1HcEpUUV9jNEsxS2JuUlQwZklVNktrekN6bUVTUzBXSkw0eS1ncjRzdnNIc2lfT3MtLWVqLTFlNXpJTHByVnlETnBhaWVodkhr?oc=5)
 
-2026-11-20 <span class="news-drug-tag">PEMBROLIZUMAB</span> <span class="news-drug-tag">Pembrolizumab</span>
+2026-11-20 <span class="news-drug-tag">PEMBROLIZUMAB</span> <span class="news-drug-tag">Pembrolizumab</span> <span class="news-indication-tag">cancer</span>
 
 Source: [Targeted Onc](https://news.google.com/rss/articles/CBMiowFBVV95cUxPUmVyOG5IWTdMZzFQbkd2X0ZYR1lSVG5IdTY0RkpxaFd4NUdNZ0hzeFZldUJ1c2FOS3pINUkzOGYyRC15NTMyOXg0bGJnUXJTS0paZ3E3Ym1rQk1HcEpUUV9jNEsxS2JuUlQwZklVNktrekN6bUVTUzBXSkw0eS1ncjRzdnNIc2lfT3MtLWVqLTFlNXpJTHByVnlETnBhaWVodkhr?oc=5)
 

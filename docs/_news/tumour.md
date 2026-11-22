@@ -3,9 +3,9 @@ layout: default
 title: "tumour News"
 parent: Health News
 nav_exclude: true
-description: "Health news about tumour. 1 articles, 228 related drugs."
+description: "Health news about tumour. 4 articles, 228 related drugs."
 permalink: /news/tumour/
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-22
 ---
 
 # tumour News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="What news is there about tumour?">
-<strong>tumour</strong> currently has <strong>1 news articles</strong> and 228 related drugs.
+<strong>tumour</strong> currently has <strong>4 news articles</strong> and 228 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -236,7 +236,31 @@ This page brings together the latest health news about “tumour” and lists th
 </ul>
 </div>
 
-## Related News (1)
+## Related News (4)
+
+### [Michelle Mitchell: New Pancreatic Cancer Trial Results Offer Hope, but More Research Is Needed](https://news.google.com/rss/articles/CBMie0FVX3lxTE5KX2pYSDdwNkQ5aDF6OXVNOGNoSkRYRUZuQzc2SUMyS0V2bW11aWlRUThocmdNMzFOY3VKRU1LNkNfRHZxQndTVjloNDBMeUVKbHJBcm9BMFAyaDZoS2Y2LWVTa2tjLUtMNkczbzhHdkdnaklGcDBZcXFrcw?oc=5)
+
+2026-11-21
+
+Source: [Oncodaily](https://news.google.com/rss/articles/CBMie0FVX3lxTE5KX2pYSDdwNkQ5aDF6OXVNOGNoSkRYRUZuQzc2SUMyS0V2bW11aWlRUThocmdNMzFOY3VKRU1LNkNfRHZxQndTVjloNDBMeUVKbHJBcm9BMFAyaDZoS2Y2LWVTa2tjLUtMNkczbzhHdkdnaklGcDBZcXFrcw?oc=5)
+
+---
+
+### [Daraxonrasib Pill Offers Promising Hope for Pancreatic Cancer - India News Network](https://news.google.com/rss/articles/CBMipAFBVV95cUxQY005RENtWmhrTURWX3lBWTRDRTIydGVuTWFMc1BuYy1kelo4d19QQ3BhazRfUHRkQm5BdGs4REhBNFZDVUVsWDQwUkUtQlFzYkZCZ1dGX3g1aFhydG5DdEgxcHdOOVpkUmVQYUdCNHlyTFktcnpoR2pOOC0zQlVmSnlMT1NyLXZCRmFuQ01xc2dSNHp2Mzk4Ui1pejNuUWhMZ2tjXw?oc=5)
+
+2026-11-21
+
+Source: [India News Network](https://news.google.com/rss/articles/CBMipAFBVV95cUxQY005RENtWmhrTURWX3lBWTRDRTIydGVuTWFMc1BuYy1kelo4d19QQ3BhazRfUHRkQm5BdGs4REhBNFZDVUVsWDQwUkUtQlFzYkZCZ1dGX3g1aFhydG5DdEgxcHdOOVpkUmVQYUdCNHlyTFktcnpoR2pOOC0zQlVmSnlMT1NyLXZCRmFuQ01xc2dSNHp2Mzk4Ui1pejNuUWhMZ2tjXw?oc=5)
+
+---
+
+### [Revolution Medicines Highlights Strong 12-Month Overall Survival Rate for Lead Cancer Drug Regimen](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNdnZvRW55S2t6elVkdUJ2OGhuXzYyMjRULTBmYndlNWREV3pfcGtoQy1VcHoxUDN2UjU2QjRtckl3Z0V3Z0pLb1dYRXJMZ2ZFeTdDdGlEYTBIS2JjME5NbnRHY1NaUDNNME5UdkhoX1Z6aGE3bm5wSEFwUFpQajJtSVZ2cmcwLTk3UGwwU201dXExZUNMUzE3a1pHcldCVVVhbWlzb2pHWmhtVTVJVUhBdG9ydUYwWEFtQVRJTkF1RE4tbU1rRVl3TlZwdjlXa3NWS0FZLVdLS0l0bmw4OHdvWFhQZ3RiaVBVOUJLT05B?oc=5)
+
+2026-11-20
+
+Source: [TradingView](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNdnZvRW55S2t6elVkdUJ2OGhuXzYyMjRULTBmYndlNWREV3pfcGtoQy1VcHoxUDN2UjU2QjRtckl3Z0V3Z0pLb1dYRXJMZ2ZFeTdDdGlEYTBIS2JjME5NbnRHY1NaUDNNME5UdkhoX1Z6aGE3bm5wSEFwUFpQajJtSVZ2cmcwLTk3UGwwU201dXExZUNMUzE3a1pHcldCVVVhbWlzb2pHWmhtVTVJVUhBdG9ydUYwWEFtQVRJTkF1RE4tbU1rRVl3TlZwdjlXa3NWS0FZLVdLS0l0bmw4OHdvWFhQZ3RiaVBVOUJLT05B?oc=5)
+
+---
 
 ### [New pancreatic cancer drug halts tumour growth in 90% of patients - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPa3RTTVJkU3ZLREhsRFQ4Y21qWWVvd0ZwSmdROVpQaHFWTF82N01OVXdzbTRqSUlIUjVjN0VOZDBVUlI4Q1NNWU0ycEhLckdnSS1RRTQyRFE4SjhZWnF5dTdsYUp0b0I3YkY1MmZVZmc1bEJCNDhxV09MaVlReUxtX1BXejA?oc=5)
 

@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Iron. 5 predicted indications."
 permalink: /news/iron/
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-22
 ---
 
 # Iron News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-21
 ---
 
 <p class="key-answer" data-question="What news is there about Iron?">
-<strong>Iron</strong> currently has <strong>4 news articles</strong>, with 5 predicted indications.
+<strong>Iron</strong> currently has <strong>5 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,15 @@ This page combines the AI-predicted indications for Iron with the latest health 
 <p><a href="{{ '/drugs/iron/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (5)
+
+### [Assam hospitals feature in study linking anaemia to higher heart failure risk during pregnancy](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRXF4NkRncG1KRmk4LTdiQUJLdGx4SDA5YVB2RnNFeTlVZHFyRzJXVzd2YlU3T1hYdldjRm9CZXFWWkJOWVk5MWlxOURSLUlXSlhSclNkX01nZTZVT2xsNmNBNUZyV015Tks4WDNrV1Z3N1lfWWZwOU9zTU9PN2lXakpDSGM1WVphT1FyVDZuWl9PbjhjQWVOTlMya1RVRFB2MXlTUWwtcnJFUVZKbE55azNsRjUyNVpXbFBNS0FFWVM4Q0J5SnpjaWpOeWxWQ01aRUlqRNIB1AFBVV95cUxNSldzcEoyNmxUQlZKWldITTJvQW40VGFTd3pvZWFlZkJ2VUpFZ2VLbEFzZ24zSTVqSElCUlcyU1VKeWVab1d5WjZOV3RfQVhtZTEyZFpfeXNMdDdlbEhldFZKSmRPdVlweUhGbFJiZTZXaW9VcldJb1dBSHc2SFc2b2hjVlQ3b20tY0NBYXBpUjNQWkJ0RzM5NTFjbFpEa1NMZEp1aHlDMldyZWFWRkRJSTJlMHh4NXpQR2tEWXJJNGdURjJ4N3A1TURCSmxhUHNvRUlNMA?oc=5)
+
+2026-11-21 <span class="news-drug-tag">IRON</span> <span class="news-drug-tag">Iron</span>
+
+Source: [NENow.in](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRXF4NkRncG1KRmk4LTdiQUJLdGx4SDA5YVB2RnNFeTlVZHFyRzJXVzd2YlU3T1hYdldjRm9CZXFWWkJOWVk5MWlxOURSLUlXSlhSclNkX01nZTZVT2xsNmNBNUZyV015Tks4WDNrV1Z3N1lfWWZwOU9zTU9PN2lXakpDSGM1WVphT1FyVDZuWl9PbjhjQWVOTlMya1RVRFB2MXlTUWwtcnJFUVZKbE55azNsRjUyNVpXbFBNS0FFWVM4Q0J5SnpjaWpOeWxWQ01aRUlqRNIB1AFBVV95cUxNSldzcEoyNmxUQlZKWldITTJvQW40VGFTd3pvZWFlZkJ2VUpFZ2VLbEFzZ24zSTVqSElCUlcyU1VKeWVab1d5WjZOV3RfQVhtZTEyZFpfeXNMdDdlbEhldFZKSmRPdVlweUhGbFJiZTZXaW9VcldJb1dBSHc2SFc2b2hjVlQ3b20tY0NBYXBpUjNQWkJ0RzM5NTFjbFpEa1NMZEp1aHlDMldyZWFWRkRJSTJlMHh4NXpQR2tEWXJJNGdURjJ4N3A1TURCSmxhUHNvRUlNMA?oc=5)
+
+---
 
 ### [New guidelines aim to improve diagnosis of iron deficiency - Harvard Health](https://news.google.com/rss/articles/CBMipwFBVV95cUxNTm55T3dhTTZBei1UUXBnR1hlbHJ0RTJoWlRPUUtKdXRMUC1CbkFfVFRqb1pGRzVzYUd0UklnN0NVV0JOOERZSTNWYzBmS3hPdEg3b0lLUXh4MjZGZlNrWHBaYXExM2VId2Y1M0pZNnh1ZE5rZWlqRjJFem13aHFqckdYdGxNQjRkN0R4MHZHT2lSdDdDblBSc3VjdG1kMlJNVXMyZDh4bw?oc=5)
 

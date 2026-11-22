@@ -3,9 +3,9 @@ layout: default
 title: "colorectal cancer (colonic neoplasm) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about colorectal cancer (colonic neoplasm). 1 articles, 1 related drugs."
+description: "Health news about colorectal cancer (colonic neoplasm). 2 articles, 1 related drugs."
 permalink: /news/colonic-neoplasm/
-last_modified_at: 2026-11-18
+last_modified_at: 2026-11-22
 ---
 
 # colorectal cancer (colonic neoplasm) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about colorectal cancer (colonic neoplasm)?">
-<strong>colorectal cancer (colonic neoplasm)</strong> currently has <strong>1 news articles</strong> and 1 related drugs.
+<strong>colorectal cancer (colonic neoplasm)</strong> currently has <strong>2 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page brings together the latest health news about “colorectal cancer” a
 </ul>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [Machine learning analysis of serum ATR-FTIR spectra for colorectal cancer discrimination](https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tZktYbEhXdUI3OWxrNUFWZXFkT1VQYTE0VWdFRmdkRzdEUFFGQWV1VWota21pNTVkLWVTeFZiekttczJGLXMxWEJ5MG8yNnlJVjl1MExNUUp4Zzc0VWFJ?oc=5)
+
+2026-11-21
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tZktYbEhXdUI3OWxrNUFWZXFkT1VQYTE0VWdFRmdkRzdEUFFGQWV1VWota21pNTVkLWVTeFZiekttczJGLXMxWEJ5MG8yNnlJVjl1MExNUUp4Zzc0VWFJ?oc=5)
+
+---
 
 ### [Targeting antioxidant defenses could overcome colorectal cancer drug resistance](https://news.google.com/rss/articles/CBMixgFBVV95cUxNVk9CMGJqSWIwV2ZtUDFhUnZQTzFodXpIODRmVFF6NmhaNGtRQWRrVVZGU1BTZnRUY25MOV81VFlNZUJkMVdQdFRoVGlhZ2Z5Y2dzb1J5S0xrUGxEVGVRdXhmUjRJVUtzdnV4RDRPUmkxLWhZSUc4NG9aYnpBcmUwT3RwbnR2RnpMdGFBMzMwRkF0SWloLUZ3UzBQNDUyVlJqLUM2bWxjd0tKUjZ6ekIxYXRaZW5MSEZhREp5NmZ5ZXZEUDUtRnc?oc=5)
 

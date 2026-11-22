@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "alzheimer (dementia) News"
+title: "memory loss (dementia) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about alzheimer (dementia). 25 articles, 8 related drugs."
+description: "Health news about memory loss (dementia). 25 articles, 8 related drugs."
 permalink: /news/dementia/
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-22
 ---
 
-# alzheimer (dementia) News
+# memory loss (dementia) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about alzheimer (dementia)?">
-<strong>alzheimer (dementia)</strong> currently has <strong>25 news articles</strong> and 8 related drugs.
+<p class="key-answer" data-question="What news is there about memory loss (dementia)?">
+<strong>memory loss (dementia)</strong> currently has <strong>25 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “alzheimer” and lists the drugs in the InTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “memory loss” and lists the drugs in the InTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
