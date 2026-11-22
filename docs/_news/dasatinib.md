@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="What news is there about Dasatinib?">
-<strong>Dasatinib</strong> currently has <strong>110 news articles</strong>, with 9 predicted indications.
+<strong>Dasatinib</strong> currently has <strong>118 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,13 +41,53 @@ This page combines the AI-predicted indications for Dasatinib with the latest he
 <p><a href="{{ '/drugs/dasatinib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (110)
+## Related News (118)
+
+### [Can a Blood Test Detect Cancer? CBC, Tumor Markers, ctDNA, and Multi-Cancer Tests](https://news.google.com/rss/articles/CBMickFVX3lxTE41VEIyWVA4ckE2cV9wM0lpa0ttT3Y4ZmJ5anhfQlNJV0k0Z3NzeHRkbXExWU1ZY3VWdEstTzB1S055WkNaWnF1V2ZVMVZNcjg4MElVV1Z3YWNIVkw1T1RSczBucV9PRGNBWjBYNDhnZUtYdw?oc=5)
+
+2026-11-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">tumor</span>
+
+Source: [Oncodaily](https://news.google.com/rss/articles/CBMickFVX3lxTE41VEIyWVA4ckE2cV9wM0lpa0ttT3Y4ZmJ5anhfQlNJV0k0Z3NzeHRkbXExWU1ZY3VWdEstTzB1S055WkNaWnF1V2ZVMVZNcjg4MElVV1Z3YWNIVkw1T1RSczBucV9PRGNBWjBYNDhnZUtYdw?oc=5)
+
+---
+
+### [Gastric Cancer Awareness Month 2026: A Global Perspective on Risk, Prevention, and Progress](https://news.google.com/rss/articles/CBMiY0FVX3lxTFBqR0hkMWEtTlRhaFZxYmY1NUtMVi1TZWx5OHgwUVBWVlZxemU2T1ZLVXFHekk1R2xzU2JCaHVuc2xQVlZNMnN2clZYRmJXUHlHeUtkc2VlOEh5Z1Z1ZnFZQ0hWbw?oc=5)
+
+2026-11-22 <span class="news-indication-tag">cancer</span>
+
+Source: [Oncodaily](https://news.google.com/rss/articles/CBMiY0FVX3lxTFBqR0hkMWEtTlRhaFZxYmY1NUtMVi1TZWx5OHgwUVBWVlZxemU2T1ZLVXFHekk1R2xzU2JCaHVuc2xQVlZNMnN2clZYRmJXUHlHeUtkc2VlOEh5Z1Z1ZnFZQ0hWbw?oc=5)
+
+---
+
+### [Julie Fleshman Calls for Greater Pancreatic Cancer Research Investment on World Pancreatic Cancer Day](https://news.google.com/rss/articles/CBMie0FVX3lxTE5OdUx6QkRPZk0wdUxRbkdKVThRQkk5SGZ5Z2gxNnRsWDEybFhrNUkzdHQxTk42ZG1jdWJGMlBKWmtIYlliWnI5a2plUUxMcmtHd3RCVWhSTi1EYVMxb0R5RG9nSTBBbE1oME9XN0pKeHFtNENyMy1ETXpFSQ?oc=5)
+
+2026-11-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">pancreatic cancer</span> <span class="news-indication-tag">pancreatic cancer</span>
+
+Source: [Oncodaily](https://news.google.com/rss/articles/CBMie0FVX3lxTE5OdUx6QkRPZk0wdUxRbkdKVThRQkk5SGZ5Z2gxNnRsWDEybFhrNUkzdHQxTk42ZG1jdWJGMlBKWmtIYlliWnI5a2plUUxMcmtHd3RCVWhSTi1EYVMxb0R5RG9nSTBBbE1oME9XN0pKeHFtNENyMy1ETXpFSQ?oc=5)
+
+---
+
+### [THE WEEK Health Summit 2026: Why treating early-onset cancer requires looking beyond medicine alone - The Week](https://news.google.com/rss/articles/CBMimAFBVV95cUxNWVZDMm1DZ2NsTC1HTHRxU09GZ1VHVml6bE9yX0RUUW9PdW9RdUoxM0c2cElrT0Y1eVlzbmNsNzBORUJQTElVaHBodkc4TW5vdUJJTkNzZmNLTmtXZUlocE00clFRMnFrMHZzN3FURWVITHR0Qk1oaWNER2pfQ3BEb1U0VXdVbC0zcE1tblNHUFY1WnVRTS1kMtIBngFBVV95cUxQdUxNXzc3R3dPQ2g2aUpTWnE1WXhFUjNQZkNyWklKaUdkSkRTNnpod3hOUTcwZEhxYTJVRXA2OVlGaVh5eWxJYXZmcTlPSnJaUmI2ZDd3OTZfbVVnOWhQaGVTckZ2T3JYdk0tdzZaMmpBNVRBbWt1cjFDUU1FNmJNRllHaGlfb0FfYy00TUJsWkJRYW5SN003RGRVOWhhdw?oc=5)
+
+2026-11-22 <span class="news-indication-tag">cancer</span>
+
+Source: [The Week](https://news.google.com/rss/articles/CBMimAFBVV95cUxNWVZDMm1DZ2NsTC1HTHRxU09GZ1VHVml6bE9yX0RUUW9PdW9RdUoxM0c2cElrT0Y1eVlzbmNsNzBORUJQTElVaHBodkc4TW5vdUJJTkNzZmNLTmtXZUlocE00clFRMnFrMHZzN3FURWVITHR0Qk1oaWNER2pfQ3BEb1U0VXdVbC0zcE1tblNHUFY1WnVRTS1kMtIBngFBVV95cUxQdUxNXzc3R3dPQ2g2aUpTWnE1WXhFUjNQZkNyWklKaUdkSkRTNnpod3hOUTcwZEhxYTJVRXA2OVlGaVh5eWxJYXZmcTlPSnJaUmI2ZDd3OTZfbVVnOWhQaGVTckZ2T3JYdk0tdzZaMmpBNVRBbWt1cjFDUU1FNmJNRllHaGlfb0FfYy00TUJsWkJRYW5SN003RGRVOWhhdw?oc=5)
+
+---
 
 ### [Assessment of the knowledge, attitudes, and practices of oral and maxillofacial surgeons in Türkiye regarding oral potentially malignant disorders and oral cancer](https://news.google.com/rss/articles/CBMiX0FVX3lxTE80bGswb1NleEJyVVNTQW1PZ0lkbE83MU5YeFNRU1FybF8taFVTS3VBZGo2TXpZRHA0am96eS1lMmNtQk9vQjFsT1daZk4xdFltYmNpeXlnX2l3cjlkYklz?oc=5)
 
 2026-11-22 <span class="news-indication-tag">cancer</span>
 
 Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE80bGswb1NleEJyVVNTQW1PZ0lkbE83MU5YeFNRU1FybF8taFVTS3VBZGo2TXpZRHA0am96eS1lMmNtQk9vQjFsT1daZk4xdFltYmNpeXlnX2l3cjlkYklz?oc=5)
+
+---
+
+### [Trial Shows New Pancreatic Cancer Drug Halts Tumour Growth In 90% Of Patients](https://news.google.com/rss/articles/CBMixwFBVV95cUxONTFGU0labmdZSnNrajhydEpCSUkyYUVSV1JPNFNkdTdvakVsWXZhT3VVdG93NnJQdTJnMnR1T2Itbm5pWHZyUGd0cUhFd0dtTG1seFRDQTRoVHptemt5Q3Z2aVhIbmRWbkNPRmNib3UtaWNpNnl6b3pSRk1KbWxPUEh0MjFfMmFxZWxxWldDZFdjTEswTGRUM21kYmlCWlJDRGJHQ1Q1V3NwalZYOER0Ujc4aHc1TE1PczBHWDg2cVpzZEpjU3U0?oc=5)
+
+2026-11-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">pancreatic cancer</span> <span class="news-indication-tag">pancreas cancer</span> <span class="news-indication-tag">pancreatic cancer</span>
+
+Source: [NDTV](https://news.google.com/rss/articles/CBMixwFBVV95cUxONTFGU0labmdZSnNrajhydEpCSUkyYUVSV1JPNFNkdTdvakVsWXZhT3VVdG93NnJQdTJnMnR1T2Itbm5pWHZyUGd0cUhFd0dtTG1seFRDQTRoVHptemt5Q3Z2aVhIbmRWbkNPRmNib3UtaWNpNnl6b3pSRk1KbWxPUEh0MjFfMmFxZWxxWldDZFdjTEswTGRUM21kYmlCWlJDRGJHQ1Q1V3NwalZYOER0Ujc4aHc1TE1PczBHWDg2cVpzZEpjU3U0?oc=5)
 
 ---
 
@@ -475,6 +515,14 @@ Source: [The Times of India](https://news.google.com/rss/articles/CBMihwNBVV95cU
 
 ---
 
+### [Multicomponent Lifestyle Intervention and Brain Aging A Secondary Analysis of a Randomized Clinical Trial](https://news.google.com/rss/articles/CBMid0FVX3lxTE9seW1DNExZRjVvVUd4S3JnekxSM2V1d2oyRXNzVFVZZ1BFVUZfMTNzN0VXU0xRUFc4VGtpUWNhWGtZZnhzWXpQeGJYNkxyeTl5MjU3ZFROSW15amhYcGNVcUk5SUZvdEQ2UE9VUzBraXQ4TXJuN1hJ?oc=5)
+
+2026-11-18 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">alzheimer</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
+
+Source: [JAMA](https://news.google.com/rss/articles/CBMid0FVX3lxTE9seW1DNExZRjVvVUd4S3JnekxSM2V1d2oyRXNzVFVZZ1BFVUZfMTNzN0VXU0xRUFc4VGtpUWNhWGtZZnhzWXpQeGJYNkxyeTl5MjU3ZFROSW15amhYcGNVcUk5SUZvdEQ2UE9VUzBraXQ4TXJuN1hJ?oc=5)
+
+---
+
 ### [Moving From Awareness to Action and From Prevention to Elimination of Cervical Cancer by 2030 - ACAN](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XdHVqUTlJd3B2NUd2Mi16OE52aUNtR1lxLXBKcHdBT3BIZG9vV1lnWGpqUldUbGhKYkEwNGVRc2tXcm4xUXFlOXQ3Zy1qdlB6eUllVkJwVGZZdkhoVXppUFFFN3VRUWc?oc=5)
 
 2026-11-18 <span class="news-indication-tag">cancer</span>
@@ -736,6 +784,22 @@ Source: [News-Medical](https://news.google.com/rss/articles/CBMisAFBVV95cUxPSElt
 2026-11-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">lung cancer</span>
 
 Source: [Health and Me](https://news.google.com/rss/articles/CBMiggJBVV95cUxOQXdhSHppVUVTWFh3NFpiTktVbTcxYlprSnRSdVBteEQ1T1JsM3drODN3RUxiemQ4d0MwNkFzbGw0VlhZM01mbTBkOUI3S3FXczQxcFB5cFUyRVJGSnpuMW1HdE1iQVpkeFRmNE5qSnQ4b2pGVmNObWFleTNuN3k5MnVndFd2UDBhU3RGZ2JHRWotc1NsTHBFSGlmcnVKX0w5RW5KQUc2RTUzR2JGeXVtcWNBUG9XQkh2OWVwNC1oN2F5dmtlT042QVZNWC1LWUUyUElqRGhmeFd2MzVqcnhYaHpPUlJram5aWndhY1FjS2NSbXJFQlZPcmRScTVSYU16Nmc?oc=5)
+
+---
+
+### [A cancer vaccine made for one patient? What Hyderabad's RNA Foundry is building - India Today](https://news.google.com/rss/articles/CBMiowFBVV95cUxQMjlNS18wVFlLbEF1elNhdEZ4N0ZrdlNlT2pKRTNXWHNDYUNOVG9yYm02NGtLdEhDSDBEVEUzWjFCckpQbFBkQ21XLWQ5REJtZG1iaHJWMTdFRHEzNnJxc01jM3dTT2JEeDdndURkRWZhVjlldFp0a2hQZ1pxLVd2c0pHNmxHSGJQcXFzREpnaGtFZ01ibGRxVTJOQi1tM3ZqWVB30gGoAUFVX3lxTFBMUHNSdDZMM2pLdjBCWWZKYmZyYUVqQnp6QWlaMGVpSUlmQlBBN25HTzhrcE5NYy1IbE5ESnVuei0xMXdueTVfUktobmJ4UjRhd0NCVm91QmtJNGpjcFgxUWZtQ3VRTEJWaUhQMXBjZS1GeWUydkU5c1E5R0x0RFd6RjJtbzFrWW9YdlJ4dFh1MEFULTR0dVRJRkhMSDBxLTJUSEg0YzliXw?oc=5)
+
+2026-11-16 <span class="news-indication-tag">cancer</span>
+
+Source: [India Today](https://news.google.com/rss/articles/CBMiowFBVV95cUxQMjlNS18wVFlLbEF1elNhdEZ4N0ZrdlNlT2pKRTNXWHNDYUNOVG9yYm02NGtLdEhDSDBEVEUzWjFCckpQbFBkQ21XLWQ5REJtZG1iaHJWMTdFRHEzNnJxc01jM3dTT2JEeDdndURkRWZhVjlldFp0a2hQZ1pxLVd2c0pHNmxHSGJQcXFzREpnaGtFZ01ibGRxVTJOQi1tM3ZqWVB30gGoAUFVX3lxTFBMUHNSdDZMM2pLdjBCWWZKYmZyYUVqQnp6QWlaMGVpSUlmQlBBN25HTzhrcE5NYy1IbE5ESnVuei0xMXdueTVfUktobmJ4UjRhd0NCVm91QmtJNGpjcFgxUWZtQ3VRTEJWaUhQMXBjZS1GeWUydkU5c1E5R0x0RFd6RjJtbzFrWW9YdlJ4dFh1MEFULTR0dVRJRkhMSDBxLTJUSEg0YzliXw?oc=5)
+
+---
+
+### [Detailed Exercise Prescriptions Can Support Brain Health](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeXVqLWswZmtqNGY3TUlpTWhqQm9mYjZ0M0JVTmpBcm9yWDBYTUN4c0FLNTE3aDlMZ2szb0ZPaE5UTXZPcDRaNU1Kd0swTElwM2FFamFxNkplVkVlWGZOMkNvYVFzS0JJUGI4WmQxcXN4M1ZuVU53Ml9aTVcwWjIzRzVXY3dUM2tTOTVrSkdrMjB4X0ZLMlJlbUZ6b21nWldaQW9GNXlGUWVkQQ?oc=5)
+
+2026-11-16 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeXVqLWswZmtqNGY3TUlpTWhqQm9mYjZ0M0JVTmpBcm9yWDBYTUN4c0FLNTE3aDlMZ2szb0ZPaE5UTXZPcDRaNU1Kd0swTElwM2FFamFxNkplVkVlWGZOMkNvYVFzS0JJUGI4WmQxcXN4M1ZuVU53Ml9aTVcwWjIzRzVXY3dUM2tTOTVrSkdrMjB4X0ZLMlJlbUZ6b21nWldaQW9GNXlGUWVkQQ?oc=5)
 
 ---
 

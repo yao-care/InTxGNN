@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Tulobuterol. 4 predicted indications."
 permalink: /news/tulobuterol/
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-22
 ---
 
 # Tulobuterol News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-21
 ---
 
 <p class="key-answer" data-question="What news is there about Tulobuterol?">
-<strong>Tulobuterol</strong> currently has <strong>9 news articles</strong>, with 4 predicted indications.
+<strong>Tulobuterol</strong> currently has <strong>10 news articles</strong>, with 4 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,7 @@ This page combines the AI-predicted indications for Tulobuterol with the latest 
 <p><a href="{{ '/drugs/tulobuterol/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (9)
+## Related News (10)
 
 ### [Beyond self-reporting: Measuring smoking exposure objectively](https://news.google.com/rss/articles/CBMitAFBVV95cUxOaTI2VldsOGFpOVVtcElwQ2VzWm5DSUlhMC1WS09xODJiOG9MalJFd2h3XzBFRUp4azVSR0RybHlLY3ZFSkFXVGRZOC1wd3FQRTlNYmx0WFlHR29BYUJ1OWlyN3pYWHI5X0cyT2Q0eGxlOXdMREJ5dHBLQm0yNzBRSjdIbUJiazE3YWlzdEwtZFEtX0EwQ2JlQ01QLUVnbU1DNmlGNFcyS2hONmhMYWlpOFI5WHA?oc=5)
 
@@ -75,6 +75,14 @@ Source: [Netmeds](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQUJLWmFwd
 2026-11-18 <span class="news-indication-tag">COPD</span>
 
 Source: [Yahoo Health](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPX2Q2dkhPUlJQV1BPdDlFTW5sUmFTdlltWkw0bUQzTTFqWXpsQk11M2k0YXZ1VXVPZjIyRGYxSlY2aW9iWWdqQS1wWXgzeXBMeUxMb2JKN3N4NElaYVZwUmdjdXpCTE9hUUNZb1F5MU9YVFhZcnlCazFhYjZIRlBBLTh0bm1KSzlyVi1jTDJpSHBhOTZxVURzRmExLTRkZ1o3bXdhbzFzNmM?oc=5)
+
+---
+
+### [Can’t quit smoking? Experts urge science-led approaches to reducing COPD](https://news.google.com/rss/articles/CBMiqAFBVV95cUxONTdsLTlhY1ZGVFVacHgzZGdJem1UQjF4WFFlRGYwZ1dVSEpHVFgxX1NFdGQ1dzdFXzhDdndYMXljY3lZMGxxX1MtdXZGYWszQzV3MG5hUzhTQUxIeE9RNVlnVjA1aThnOHVIYnptWVR3VnVBejlHV2ZtSi10VV9iM1FtcXUweU1uNkhLWkszTFhlNmxHcmJZNnI0YlhCYlgySEFnYTdQUTnSAa4BQVVfeXFMTmMxamowOUdkaktsSVh5dVVudUlYaFZUZ0lDZnZTekVxbnBNajgweFM1dWxkSUprY1RGQjNOM2VQRDBzUi1zUEMyMzdEYmd1VnBDaElPWHpuc0YyeDhyaWo2dUtOWno3TEJPQjZDTFpxV3JzRHI2OHpxVTVOSEp0alBQQkZPSTNWNElyQXhqcW15SWZSZTdGYXhyM01xU0hSSW41YTJhOHB2MzFOQmlB?oc=5)
+
+2026-11-18 <span class="news-indication-tag">COPD</span>
+
+Source: [ThePrint](https://news.google.com/rss/articles/CBMiqAFBVV95cUxONTdsLTlhY1ZGVFVacHgzZGdJem1UQjF4WFFlRGYwZ1dVSEpHVFgxX1NFdGQ1dzdFXzhDdndYMXljY3lZMGxxX1MtdXZGYWszQzV3MG5hUzhTQUxIeE9RNVlnVjA1aThnOHVIYnptWVR3VnVBejlHV2ZtSi10VV9iM1FtcXUweU1uNkhLWkszTFhlNmxHcmJZNnI0YlhCYlgySEFnYTdQUTnSAa4BQVVfeXFMTmMxamowOUdkaktsSVh5dVVudUlYaFZUZ0lDZnZTekVxbnBNajgweFM1dWxkSUprY1RGQjNOM2VQRDBzUi1zUEMyMzdEYmd1VnBDaElPWHpuc0YyeDhyaWo2dUtOWno3TEJPQjZDTFpxV3JzRHI2OHpxVTVOSEp0alBQQkZPSTNWNElyQXhqcW15SWZSZTdGYXhyM01xU0hSSW41YTJhOHB2MzFOQmlB?oc=5)
 
 ---
 

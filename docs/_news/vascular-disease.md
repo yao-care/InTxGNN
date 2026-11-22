@@ -3,9 +3,9 @@ layout: default
 title: "vascular disease News"
 parent: Health News
 nav_exclude: true
-description: "Health news about vascular disease. 1 articles, 3 related drugs."
+description: "Health news about vascular disease. 2 articles, 3 related drugs."
 permalink: /news/vascular-disease/
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-22
 ---
 
 # vascular disease News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="What news is there about vascular disease?">
-<strong>vascular disease</strong> currently has <strong>1 news articles</strong> and 3 related drugs.
+<strong>vascular disease</strong> currently has <strong>2 news articles</strong> and 3 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,15 @@ This page brings together the latest health news about “vascular disease” an
 </ul>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [Artificial Intelligence for Cardiovascular Disease Prevention in Resource-Limited Settings: A Review of the Literature](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPTG5BY2Z1dkVOVE8wNkZtTkpnUjMwZjFENkJLNHVISElCVDJXbzdmbS1qTmhwMHJQY3BFelEzUWJ2UmRiVVNjdnVRYkIyY3p2SWpFZS12cWFqTkMtcUFPNDdIdTQ2VEdXdjNNOEhpN0NxUDI0WUZvVXhEa2JnNTN3MWJWa3V2WFRYc3lnY1hDX01mVk00dDdsZjl0X3R0NWZhS2MyYzg1SGc2QlVraTZUZEZ3cWxKUHQ5TVVldHFFZmFIZ25xMHFFdXdmakJMa25GSXZObzhiblpxNE5tSjZEdDdpUUh3SXJwa3c0Ug?oc=5)
+
+2026-11-20
+
+Source: [Cureus](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPTG5BY2Z1dkVOVE8wNkZtTkpnUjMwZjFENkJLNHVISElCVDJXbzdmbS1qTmhwMHJQY3BFelEzUWJ2UmRiVVNjdnVRYkIyY3p2SWpFZS12cWFqTkMtcUFPNDdIdTQ2VEdXdjNNOEhpN0NxUDI0WUZvVXhEa2JnNTN3MWJWa3V2WFRYc3lnY1hDX01mVk00dDdsZjl0X3R0NWZhS2MyYzg1SGc2QlVraTZUZEZ3cWxKUHQ5TVVldHFFZmFIZ25xMHFFdXdmakJMa25GSXZObzhiblpxNE5tSjZEdDdpUUh3SXJwa3c0Ug?oc=5)
+
+---
 
 ### [A novel hybrid fuzzy membership function-based feature transformation for cardiovascular disease prediction](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnTDVDNkZWWFVlbDRfMVRBU1ZpNThwR3p6SGJUVVBpZzZqdmQwTkpmbFJDWVVmMkFOWTMybFZLSFZ2cHNrMHZ4aG5XempkOWFycDFXYXIxM2ptOVJNSGZZ?oc=5)
 

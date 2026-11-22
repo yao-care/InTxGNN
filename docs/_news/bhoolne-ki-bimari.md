@@ -3,7 +3,7 @@ layout: default
 title: "dementia (bhoolne ki bimari) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about dementia (bhoolne ki bimari). 10 articles, 8 related drugs."
+description: "Health news about dementia (bhoolne ki bimari). 12 articles, 8 related drugs."
 permalink: /news/bhoolne-ki-bimari/
 last_modified_at: 2026-11-22
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="What news is there about dementia (bhoolne ki bimari)?">
-<strong>dementia (bhoolne ki bimari)</strong> currently has <strong>10 news articles</strong> and 8 related drugs.
+<strong>dementia (bhoolne ki bimari)</strong> currently has <strong>12 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,7 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (10)
+## Related News (12)
 
 ### [Resistance training could help boost brain health and confidence in older adults - The Conversation](https://news.google.com/rss/articles/CBMitgFBVV95cUxQTWhkaTZ4Y0p1ekJGTlFhaDhxbFVsZ2oyTmozdkdSVVF4WEQ3RWo3enBoVWN2akMzVVQwRFBlQUdBaktNdkhVUHcyT3cxVDgxWl9HbWw5eGlRRlJVdlZ1YWJJN1l5VzR6dlQ4TW9hU0VpSGp4X08wcThXNzkzOTFyUElaMU5rRDF3MVI4QzdBWUN6cEluemgwbTZ1RmllczJSRGEySmJTc21tcl9hVC1nQV96M2pSdw?oc=5)
 
@@ -71,6 +71,14 @@ Source: [The Times of India](https://news.google.com/rss/articles/CBMihwNBVV95cU
 
 ---
 
+### [Multicomponent Lifestyle Intervention and Brain Aging A Secondary Analysis of a Randomized Clinical Trial](https://news.google.com/rss/articles/CBMid0FVX3lxTE9seW1DNExZRjVvVUd4S3JnekxSM2V1d2oyRXNzVFVZZ1BFVUZfMTNzN0VXU0xRUFc4VGtpUWNhWGtZZnhzWXpQeGJYNkxyeTl5MjU3ZFROSW15amhYcGNVcUk5SUZvdEQ2UE9VUzBraXQ4TXJuN1hJ?oc=5)
+
+2026-11-18
+
+Source: [JAMA](https://news.google.com/rss/articles/CBMid0FVX3lxTE9seW1DNExZRjVvVUd4S3JnekxSM2V1d2oyRXNzVFVZZ1BFVUZfMTNzN0VXU0xRUFc4VGtpUWNhWGtZZnhzWXpQeGJYNkxyeTl5MjU3ZFROSW15amhYcGNVcUk5SUZvdEQ2UE9VUzBraXQ4TXJuN1hJ?oc=5)
+
+---
+
 ### [Type 2 Diabetes Linked to a 53% Higher Risk of Alzheimer’s, Massive Study Finds](https://news.google.com/rss/articles/CBMipAFBVV95cUxQRG53QkVjMmEwZmF6eTlTSHd4Z2FoSl83TjZmem9fOE4xemwzcF96NUlIaUFRNjJtQ2lIM09WTEY4bXlXOVVGV0oyQ0xFTzFoNWpPODdmdzFpcnlmVVYtU0xySGc4ZXQwZlpxMG1kWHZvazlEWHBQNkd1SlprQmh4b0tZSGprQi14ejI2MW5od2JXY09neGllY3phaDFzSkhyaWt1aQ?oc=5)
 
 2026-11-16
@@ -84,6 +92,14 @@ Source: [SciTechDaily](https://news.google.com/rss/articles/CBMipAFBVV95cUxQRG53
 2026-11-16
 
 Source: [The American Journal of Managed Care® (AJMC®)](https://news.google.com/rss/articles/CBMikgFBVV95cUxPd3NhbnRJb05oS2ZWcXpHMnJTbldpejN2anJQbjVnWnJPVkpMeGpHdmZnbV91bVdQWmtFVUIwNVVzbEJWdFhvLVQ2dmJDVk9zVWhLYmlqX0FuQzZyWlZNbl9oYU9oZThXMUdvYW8wOVBJRERKWUhJbldrcmdPQkZIZU96eWNHdjJnWVBCYlhNT2xRZw?oc=5)
+
+---
+
+### [Detailed Exercise Prescriptions Can Support Brain Health](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeXVqLWswZmtqNGY3TUlpTWhqQm9mYjZ0M0JVTmpBcm9yWDBYTUN4c0FLNTE3aDlMZ2szb0ZPaE5UTXZPcDRaNU1Kd0swTElwM2FFamFxNkplVkVlWGZOMkNvYVFzS0JJUGI4WmQxcXN4M1ZuVU53Ml9aTVcwWjIzRzVXY3dUM2tTOTVrSkdrMjB4X0ZLMlJlbUZ6b21nWldaQW9GNXlGUWVkQQ?oc=5)
+
+2026-11-16
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeXVqLWswZmtqNGY3TUlpTWhqQm9mYjZ0M0JVTmpBcm9yWDBYTUN4c0FLNTE3aDlMZ2szb0ZPaE5UTXZPcDRaNU1Kd0swTElwM2FFamFxNkplVkVlWGZOMkNvYVFzS0JJUGI4WmQxcXN4M1ZuVU53Ml9aTVcwWjIzRzVXY3dUM2tTOTVrSkdrMjB4X0ZLMlJlbUZ6b21nWldaQW9GNXlGUWVkQQ?oc=5)
 
 ---
 

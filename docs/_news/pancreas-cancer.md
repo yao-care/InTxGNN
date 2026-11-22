@@ -3,7 +3,7 @@ layout: default
 title: "pancreatic cancer (pancreas cancer) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about pancreatic cancer (pancreas cancer). 12 articles, 1 related drugs."
+description: "Health news about pancreatic cancer (pancreas cancer). 14 articles, 1 related drugs."
 permalink: /news/pancreas-cancer/
 last_modified_at: 2026-11-22
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="What news is there about pancreatic cancer (pancreas cancer)?">
-<strong>pancreatic cancer (pancreas cancer)</strong> currently has <strong>12 news articles</strong> and 1 related drugs.
+<strong>pancreatic cancer (pancreas cancer)</strong> currently has <strong>14 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,23 @@ This page brings together the latest health news about “pancreatic cancer” a
 </ul>
 </div>
 
-## Related News (12)
+## Related News (14)
+
+### [Julie Fleshman Calls for Greater Pancreatic Cancer Research Investment on World Pancreatic Cancer Day](https://news.google.com/rss/articles/CBMie0FVX3lxTE5OdUx6QkRPZk0wdUxRbkdKVThRQkk5SGZ5Z2gxNnRsWDEybFhrNUkzdHQxTk42ZG1jdWJGMlBKWmtIYlliWnI5a2plUUxMcmtHd3RCVWhSTi1EYVMxb0R5RG9nSTBBbE1oME9XN0pKeHFtNENyMy1ETXpFSQ?oc=5)
+
+2026-11-22
+
+Source: [Oncodaily](https://news.google.com/rss/articles/CBMie0FVX3lxTE5OdUx6QkRPZk0wdUxRbkdKVThRQkk5SGZ5Z2gxNnRsWDEybFhrNUkzdHQxTk42ZG1jdWJGMlBKWmtIYlliWnI5a2plUUxMcmtHd3RCVWhSTi1EYVMxb0R5RG9nSTBBbE1oME9XN0pKeHFtNENyMy1ETXpFSQ?oc=5)
+
+---
+
+### [Trial Shows New Pancreatic Cancer Drug Halts Tumour Growth In 90% Of Patients](https://news.google.com/rss/articles/CBMixwFBVV95cUxONTFGU0labmdZSnNrajhydEpCSUkyYUVSV1JPNFNkdTdvakVsWXZhT3VVdG93NnJQdTJnMnR1T2Itbm5pWHZyUGd0cUhFd0dtTG1seFRDQTRoVHptemt5Q3Z2aVhIbmRWbkNPRmNib3UtaWNpNnl6b3pSRk1KbWxPUEh0MjFfMmFxZWxxWldDZFdjTEswTGRUM21kYmlCWlJDRGJHQ1Q1V3NwalZYOER0Ujc4aHc1TE1PczBHWDg2cVpzZEpjU3U0?oc=5)
+
+2026-11-22
+
+Source: [NDTV](https://news.google.com/rss/articles/CBMixwFBVV95cUxONTFGU0labmdZSnNrajhydEpCSUkyYUVSV1JPNFNkdTdvakVsWXZhT3VVdG93NnJQdTJnMnR1T2Itbm5pWHZyUGd0cUhFd0dtTG1seFRDQTRoVHptemt5Q3Z2aVhIbmRWbkNPRmNib3UtaWNpNnl6b3pSRk1KbWxPUEh0MjFfMmFxZWxxWldDZFdjTEswTGRUM21kYmlCWlJDRGJHQ1Q1V3NwalZYOER0Ujc4aHc1TE1PczBHWDg2cVpzZEpjU3U0?oc=5)
+
+---
 
 ### [Michelle Mitchell: New Pancreatic Cancer Trial Results Offer Hope, but More Research Is Needed](https://news.google.com/rss/articles/CBMie0FVX3lxTE5KX2pYSDdwNkQ5aDF6OXVNOGNoSkRYRUZuQzc2SUMyS0V2bW11aWlRUThocmdNMzFOY3VKRU1LNkNfRHZxQndTVjloNDBMeUVKbHJBcm9BMFAyaDZoS2Y2LWVTa2tjLUtMNkczbzhHdkdnaklGcDBZcXFrcw?oc=5)
 

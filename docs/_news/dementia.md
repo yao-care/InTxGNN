@@ -3,7 +3,7 @@ layout: default
 title: "memory loss (dementia) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about memory loss (dementia). 25 articles, 8 related drugs."
+description: "Health news about memory loss (dementia). 28 articles, 8 related drugs."
 permalink: /news/dementia/
 last_modified_at: 2026-11-22
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="What news is there about memory loss (dementia)?">
-<strong>memory loss (dementia)</strong> currently has <strong>25 news articles</strong> and 8 related drugs.
+<strong>memory loss (dementia)</strong> currently has <strong>28 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,7 @@ This page brings together the latest health news about “memory loss” and lis
 </ul>
 </div>
 
-## Related News (25)
+## Related News (28)
 
 ### [Resistance training could help boost brain health and confidence in older adults - The Conversation](https://news.google.com/rss/articles/CBMitgFBVV95cUxQTWhkaTZ4Y0p1ekJGTlFhaDhxbFVsZ2oyTmozdkdSVVF4WEQ3RWo3enBoVWN2akMzVVQwRFBlQUdBaktNdkhVUHcyT3cxVDgxWl9HbWw5eGlRRlJVdlZ1YWJJN1l5VzR6dlQ4TW9hU0VpSGp4X08wcThXNzkzOTFyUElaMU5rRDF3MVI4QzdBWUN6cEluemgwbTZ1RmllczJSRGEySmJTc21tcl9hVC1nQV96M2pSdw?oc=5)
 
@@ -103,6 +103,22 @@ Source: [The Times of India](https://news.google.com/rss/articles/CBMihwNBVV95cU
 
 ---
 
+### [Multicomponent Lifestyle Intervention and Brain Aging A Secondary Analysis of a Randomized Clinical Trial](https://news.google.com/rss/articles/CBMid0FVX3lxTE9seW1DNExZRjVvVUd4S3JnekxSM2V1d2oyRXNzVFVZZ1BFVUZfMTNzN0VXU0xRUFc4VGtpUWNhWGtZZnhzWXpQeGJYNkxyeTl5MjU3ZFROSW15amhYcGNVcUk5SUZvdEQ2UE9VUzBraXQ4TXJuN1hJ?oc=5)
+
+2026-11-18
+
+Source: [JAMA](https://news.google.com/rss/articles/CBMid0FVX3lxTE9seW1DNExZRjVvVUd4S3JnekxSM2V1d2oyRXNzVFVZZ1BFVUZfMTNzN0VXU0xRUFc4VGtpUWNhWGtZZnhzWXpQeGJYNkxyeTl5MjU3ZFROSW15amhYcGNVcUk5SUZvdEQ2UE9VUzBraXQ4TXJuN1hJ?oc=5)
+
+---
+
+### [Multicomponent Lifestyle Intervention and Brain Aging A Secondary Analysis of a Randomized Clinical Trial](https://news.google.com/rss/articles/CBMid0FVX3lxTE9seW1DNExZRjVvVUd4S3JnekxSM2V1d2oyRXNzVFVZZ1BFVUZfMTNzN0VXU0xRUFc4VGtpUWNhWGtZZnhzWXpQeGJYNkxyeTl5MjU3ZFROSW15amhYcGNVcUk5SUZvdEQ2UE9VUzBraXQ4TXJuN1hJ?oc=5)
+
+2026-11-18
+
+Source: [JAMA](https://news.google.com/rss/articles/CBMid0FVX3lxTE9seW1DNExZRjVvVUd4S3JnekxSM2V1d2oyRXNzVFVZZ1BFVUZfMTNzN0VXU0xRUFc4VGtpUWNhWGtZZnhzWXpQeGJYNkxyeTl5MjU3ZFROSW15amhYcGNVcUk5SUZvdEQ2UE9VUzBraXQ4TXJuN1hJ?oc=5)
+
+---
+
 ### [Brain Fog In Delhi Pollution: Why You’re Feeling Mentally Exhausted, Forgetful And Unable To Focus](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQLUdIakVuMkV5bXVTWndHNTQ5UkRVNEo4dTZqSy1oeFI5dkk0SHVQSGJhQmtBdGl6d05GQzctYlpCNjhVMDFZQ1IyWHJPclh3OUFmZnMtUzhtUGsyR0hETk1XbG9JaF9WQW1zR25XWUduNVZSRl9xcUZqWURVelZZeXpTaXBReGRrcDhHVnRXdWZ4Sy0xWVd2X3REeEZZV01rR09MdkZUVGVVSUpOWmhOX2sybHowSERoYUgzNkJPLVAtbGpfWEZXN2l2MGRETEdkMVFqTVBjU2pCc0g5VVY4TGh0c1llZVM1dklRVUl1dVZ0VzTSAfgBQVVfeXFMT0lnMlduaHRWaGRBN0gtNVdENUkteGFvS1cxVF9uamNCZ2FJdUFaRUUwX3dvVWdodks4SGRBQUJoVDBtOWM5SDRNTTRtb3FsNDUtUlNfN0pqRTQydXQ1WU9NLU41cXdTWHhDOU5LTEpaQm5ZSU9qNVA3akc0NUxIb0lNd3E2U1BFTUhKSXpteVRhTEJzNmxoWldxMXh1dkFYUWpNeDlJV2ZtSWtrMW1zRlIzcm9qS3JWUjFkeW9mNnpWVlVlc2hncnFnbzdUTU1rcHRua1NJNUZCa2cySlJIcGJaczV4U0lMUG1tamU5OVVvR1UzQVg4dU0?oc=5)
 
 2026-11-18
@@ -148,6 +164,14 @@ Source: [The American Journal of Managed Care® (AJMC®)](https://news.google.co
 2026-11-16
 
 Source: [News-Medical](https://news.google.com/rss/articles/CBMisAFBVV95cUxPSEltYWVMLTZnTGE2aVdIMDNmNHc2aTExUlpCb29oODU2aUx2NndnOE8xRnZRV3B2REliMkkxZDQzcGNKaUtEd2RsdUlGNUZjZzJ2RW1jX1B6bUM0VE50cWMyaGRyNjUtV0tFMU5lVVA3TVlXNXdla0VDX0VDRldNVk5uSEVLb1BJUEpSbjE3Z240MG1qVUFEOUFCc2VzR3lVYjgzRTRwWWVlYm80TTJGUw?oc=5)
+
+---
+
+### [Detailed Exercise Prescriptions Can Support Brain Health](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeXVqLWswZmtqNGY3TUlpTWhqQm9mYjZ0M0JVTmpBcm9yWDBYTUN4c0FLNTE3aDlMZ2szb0ZPaE5UTXZPcDRaNU1Kd0swTElwM2FFamFxNkplVkVlWGZOMkNvYVFzS0JJUGI4WmQxcXN4M1ZuVU53Ml9aTVcwWjIzRzVXY3dUM2tTOTVrSkdrMjB4X0ZLMlJlbUZ6b21nWldaQW9GNXlGUWVkQQ?oc=5)
+
+2026-11-16
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeXVqLWswZmtqNGY3TUlpTWhqQm9mYjZ0M0JVTmpBcm9yWDBYTUN4c0FLNTE3aDlMZ2szb0ZPaE5UTXZPcDRaNU1Kd0swTElwM2FFamFxNkplVkVlWGZOMkNvYVFzS0JJUGI4WmQxcXN4M1ZuVU53Ml9aTVcwWjIzRzVXY3dUM2tTOTVrSkdrMjB4X0ZLMlJlbUZ6b21nWldaQW9GNXlGUWVkQQ?oc=5)
 
 ---
 

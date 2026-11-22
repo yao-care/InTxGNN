@@ -3,7 +3,7 @@ layout: default
 title: "tumour News"
 parent: Health News
 nav_exclude: true
-description: "Health news about tumour. 5 articles, 228 related drugs."
+description: "Health news about tumour. 6 articles, 228 related drugs."
 permalink: /news/tumour/
 last_modified_at: 2026-11-22
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="What news is there about tumour?">
-<strong>tumour</strong> currently has <strong>5 news articles</strong> and 228 related drugs.
+<strong>tumour</strong> currently has <strong>6 news articles</strong> and 228 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -236,7 +236,15 @@ This page brings together the latest health news about “tumour” and lists th
 </ul>
 </div>
 
-## Related News (5)
+## Related News (6)
+
+### [Trial Shows New Pancreatic Cancer Drug Halts Tumour Growth In 90% Of Patients](https://news.google.com/rss/articles/CBMixwFBVV95cUxONTFGU0labmdZSnNrajhydEpCSUkyYUVSV1JPNFNkdTdvakVsWXZhT3VVdG93NnJQdTJnMnR1T2Itbm5pWHZyUGd0cUhFd0dtTG1seFRDQTRoVHptemt5Q3Z2aVhIbmRWbkNPRmNib3UtaWNpNnl6b3pSRk1KbWxPUEh0MjFfMmFxZWxxWldDZFdjTEswTGRUM21kYmlCWlJDRGJHQ1Q1V3NwalZYOER0Ujc4aHc1TE1PczBHWDg2cVpzZEpjU3U0?oc=5)
+
+2026-11-22
+
+Source: [NDTV](https://news.google.com/rss/articles/CBMixwFBVV95cUxONTFGU0labmdZSnNrajhydEpCSUkyYUVSV1JPNFNkdTdvakVsWXZhT3VVdG93NnJQdTJnMnR1T2Itbm5pWHZyUGd0cUhFd0dtTG1seFRDQTRoVHptemt5Q3Z2aVhIbmRWbkNPRmNib3UtaWNpNnl6b3pSRk1KbWxPUEh0MjFfMmFxZWxxWldDZFdjTEswTGRUM21kYmlCWlJDRGJHQ1Q1V3NwalZYOER0Ujc4aHc1TE1PczBHWDg2cVpzZEpjU3U0?oc=5)
+
+---
 
 ### [Michelle Mitchell: New Pancreatic Cancer Trial Results Offer Hope, but More Research Is Needed](https://news.google.com/rss/articles/CBMie0FVX3lxTE5KX2pYSDdwNkQ5aDF6OXVNOGNoSkRYRUZuQzc2SUMyS0V2bW11aWlRUThocmdNMzFOY3VKRU1LNkNfRHZxQndTVjloNDBMeUVKbHJBcm9BMFAyaDZoS2Y2LWVTa2tjLUtMNkczbzhHdkdnaklGcDBZcXFrcw?oc=5)
 

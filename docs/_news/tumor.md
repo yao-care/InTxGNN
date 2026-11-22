@@ -3,7 +3,7 @@ layout: default
 title: "tumor News"
 parent: Health News
 nav_exclude: true
-description: "Health news about tumor. 4 articles, 228 related drugs."
+description: "Health news about tumor. 5 articles, 228 related drugs."
 permalink: /news/tumor/
 last_modified_at: 2026-11-22
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="What news is there about tumor?">
-<strong>tumor</strong> currently has <strong>4 news articles</strong> and 228 related drugs.
+<strong>tumor</strong> currently has <strong>5 news articles</strong> and 228 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -236,7 +236,15 @@ This page brings together the latest health news about “tumor” and lists the
 </ul>
 </div>
 
-## Related News (4)
+## Related News (5)
+
+### [Can a Blood Test Detect Cancer? CBC, Tumor Markers, ctDNA, and Multi-Cancer Tests](https://news.google.com/rss/articles/CBMickFVX3lxTE41VEIyWVA4ckE2cV9wM0lpa0ttT3Y4ZmJ5anhfQlNJV0k0Z3NzeHRkbXExWU1ZY3VWdEstTzB1S055WkNaWnF1V2ZVMVZNcjg4MElVV1Z3YWNIVkw1T1RSczBucV9PRGNBWjBYNDhnZUtYdw?oc=5)
+
+2026-11-22
+
+Source: [Oncodaily](https://news.google.com/rss/articles/CBMickFVX3lxTE41VEIyWVA4ckE2cV9wM0lpa0ttT3Y4ZmJ5anhfQlNJV0k0Z3NzeHRkbXExWU1ZY3VWdEstTzB1S055WkNaWnF1V2ZVMVZNcjg4MElVV1Z3YWNIVkw1T1RSczBucV9PRGNBWjBYNDhnZUtYdw?oc=5)
+
+---
 
 ### [Tumor-derived TGM2 drives macrophage-mediated angiogenesis via the PKM2/STAT1/CCL2 axis in gastric cancer](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9BZURoZ3psaWt0d05mOXJwM1RiVkhNVUhOWlZTaGJ6T3NiNjdpMW5kMzM4U0hTMm9objV6eFUtMHNFZWJ6bmRsQWdVbF9UQ1dCZnNTam9Eb3lNWndNU1h3?oc=5)
 

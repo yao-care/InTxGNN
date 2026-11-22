@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Atosiban. 10 predicted indications."
 permalink: /news/atosiban/
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-22
 ---
 
 # Atosiban News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-21
 ---
 
 <p class="key-answer" data-question="What news is there about Atosiban?">
-<strong>Atosiban</strong> currently has <strong>21 news articles</strong>, with 10 predicted indications.
+<strong>Atosiban</strong> currently has <strong>22 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ This page combines the AI-predicted indications for Atosiban with the latest hea
 <p><a href="{{ '/drugs/atosiban/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (21)
+## Related News (22)
 
 ### [Cases of seasonal ailments rise as weather changes - The Times of India](https://news.google.com/rss/articles/CBMixgFBVV95cUxQYTFqMUtGazRSZEpZUXQzLUNOS0VNdy1EVmcyLUg2MTFyUWk2VGRiM2p6TVlnR2pjWXlGQ1daVFpVX0lfd3lWR1luWHJPYWpob1RpUDJKSW54NFZrenRub01jR2o1MTl1MFNOd1BQa2tDV0RHZHozUVdFNEFXYjI3b19wNHVOOC1RNlRKVnBVVEp2OHNhTFFrYVdqR19VX09oS3hMZGd3VVFTeWkzOW9nd3pzVkU1S19kQVFESFJBRXRCTzh4X2fSAcsBQVVfeXFMTnUzWDJfZmpNbm9Kc1lzT1lsWmtnREpNTkFLUjRoOFpFWEI5R3RqWXp2UktpU0NmeWpNOVgxY01NLTY4ZG55M1lubEtac1VWU1JBMjV4Y3J5LUx0NlkwcHp0RHA3LWpWSEM0Tkk1SzlSWmtCLVlHZnRjV0Y4RHZmN1FuNHRrdmQxaVJJNkYwUTF0TVc5emRYQVZyZ1dVU01xSV94Tnhqc1pJY2RUeFg1ZkFaWHNkV3R2Mlo5dDdpbXl2R3dYRWtuNktNeEU?oc=5)
 
 2026-11-20 <span class="news-indication-tag">cardiovascular</span>
 
 Source: [The Times of India](https://news.google.com/rss/articles/CBMixgFBVV95cUxQYTFqMUtGazRSZEpZUXQzLUNOS0VNdy1EVmcyLUg2MTFyUWk2VGRiM2p6TVlnR2pjWXlGQ1daVFpVX0lfd3lWR1luWHJPYWpob1RpUDJKSW54NFZrenRub01jR2o1MTl1MFNOd1BQa2tDV0RHZHozUVdFNEFXYjI3b19wNHVOOC1RNlRKVnBVVEp2OHNhTFFrYVdqR19VX09oS3hMZGd3VVFTeWkzOW9nd3pzVkU1S19kQVFESFJBRXRCTzh4X2fSAcsBQVVfeXFMTnUzWDJfZmpNbm9Kc1lzT1lsWmtnREpNTkFLUjRoOFpFWEI5R3RqWXp2UktpU0NmeWpNOVgxY01NLTY4ZG55M1lubEtac1VWU1JBMjV4Y3J5LUx0NlkwcHp0RHA3LWpWSEM0Tkk1SzlSWmtCLVlHZnRjV0Y4RHZmN1FuNHRrdmQxaVJJNkYwUTF0TVc5emRYQVZyZ1dVU01xSV94Tnhqc1pJY2RUeFg1ZkFaWHNkV3R2Mlo5dDdpbXl2R3dYRWtuNktNeEU?oc=5)
+
+---
+
+### [Artificial Intelligence for Cardiovascular Disease Prevention in Resource-Limited Settings: A Review of the Literature](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPTG5BY2Z1dkVOVE8wNkZtTkpnUjMwZjFENkJLNHVISElCVDJXbzdmbS1qTmhwMHJQY3BFelEzUWJ2UmRiVVNjdnVRYkIyY3p2SWpFZS12cWFqTkMtcUFPNDdIdTQ2VEdXdjNNOEhpN0NxUDI0WUZvVXhEa2JnNTN3MWJWa3V2WFRYc3lnY1hDX01mVk00dDdsZjl0X3R0NWZhS2MyYzg1SGc2QlVraTZUZEZ3cWxKUHQ5TVVldHFFZmFIZ25xMHFFdXdmakJMa25GSXZObzhiblpxNE5tSjZEdDdpUUh3SXJwa3c0Ug?oc=5)
+
+2026-11-20 <span class="news-indication-tag">cardiovascular</span> <span class="news-indication-tag">vascular disease</span>
+
+Source: [Cureus](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPTG5BY2Z1dkVOVE8wNkZtTkpnUjMwZjFENkJLNHVISElCVDJXbzdmbS1qTmhwMHJQY3BFelEzUWJ2UmRiVVNjdnVRYkIyY3p2SWpFZS12cWFqTkMtcUFPNDdIdTQ2VEdXdjNNOEhpN0NxUDI0WUZvVXhEa2JnNTN3MWJWa3V2WFRYc3lnY1hDX01mVk00dDdsZjl0X3R0NWZhS2MyYzg1SGc2QlVraTZUZEZ3cWxKUHQ5TVVldHFFZmFIZ25xMHFFdXdmakJMa25GSXZObzhiblpxNE5tSjZEdDdpUUh3SXJwa3c0Ug?oc=5)
 
 ---
 

@@ -3,9 +3,9 @@ layout: default
 title: "COPD (chronic obstructive pulmonary disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about COPD (chronic obstructive pulmonary disease). 9 articles, 1 related drugs."
+description: "Health news about COPD (chronic obstructive pulmonary disease). 10 articles, 1 related drugs."
 permalink: /news/chronic-obstructive-pulmonary-disease/
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-22
 ---
 
 # COPD (chronic obstructive pulmonary disease) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-21
 ---
 
 <p class="key-answer" data-question="What news is there about COPD (chronic obstructive pulmonary disease)?">
-<strong>COPD (chronic obstructive pulmonary disease)</strong> currently has <strong>9 news articles</strong> and 1 related drugs.
+<strong>COPD (chronic obstructive pulmonary disease)</strong> currently has <strong>10 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,7 @@ This page brings together the latest health news about “COPD” and lists the 
 </ul>
 </div>
 
-## Related News (9)
+## Related News (10)
 
 ### [Beyond self-reporting: Measuring smoking exposure objectively](https://news.google.com/rss/articles/CBMitAFBVV95cUxOaTI2VldsOGFpOVVtcElwQ2VzWm5DSUlhMC1WS09xODJiOG9MalJFd2h3XzBFRUp4azVSR0RybHlLY3ZFSkFXVGRZOC1wd3FQRTlNYmx0WFlHR29BYUJ1OWlyN3pYWHI5X0cyT2Q0eGxlOXdMREJ5dHBLQm0yNzBRSjdIbUJiazE3YWlzdEwtZFEtX0EwQ2JlQ01QLUVnbU1DNmlGNFcyS2hONmhMYWlpOFI5WHA?oc=5)
 
@@ -69,6 +69,14 @@ Source: [Netmeds](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQUJLWmFwd
 2026-11-18
 
 Source: [Yahoo Health](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPX2Q2dkhPUlJQV1BPdDlFTW5sUmFTdlltWkw0bUQzTTFqWXpsQk11M2k0YXZ1VXVPZjIyRGYxSlY2aW9iWWdqQS1wWXgzeXBMeUxMb2JKN3N4NElaYVZwUmdjdXpCTE9hUUNZb1F5MU9YVFhZcnlCazFhYjZIRlBBLTh0bm1KSzlyVi1jTDJpSHBhOTZxVURzRmExLTRkZ1o3bXdhbzFzNmM?oc=5)
+
+---
+
+### [Can’t quit smoking? Experts urge science-led approaches to reducing COPD](https://news.google.com/rss/articles/CBMiqAFBVV95cUxONTdsLTlhY1ZGVFVacHgzZGdJem1UQjF4WFFlRGYwZ1dVSEpHVFgxX1NFdGQ1dzdFXzhDdndYMXljY3lZMGxxX1MtdXZGYWszQzV3MG5hUzhTQUxIeE9RNVlnVjA1aThnOHVIYnptWVR3VnVBejlHV2ZtSi10VV9iM1FtcXUweU1uNkhLWkszTFhlNmxHcmJZNnI0YlhCYlgySEFnYTdQUTnSAa4BQVVfeXFMTmMxamowOUdkaktsSVh5dVVudUlYaFZUZ0lDZnZTekVxbnBNajgweFM1dWxkSUprY1RGQjNOM2VQRDBzUi1zUEMyMzdEYmd1VnBDaElPWHpuc0YyeDhyaWo2dUtOWno3TEJPQjZDTFpxV3JzRHI2OHpxVTVOSEp0alBQQkZPSTNWNElyQXhqcW15SWZSZTdGYXhyM01xU0hSSW41YTJhOHB2MzFOQmlB?oc=5)
+
+2026-11-18
+
+Source: [ThePrint](https://news.google.com/rss/articles/CBMiqAFBVV95cUxONTdsLTlhY1ZGVFVacHgzZGdJem1UQjF4WFFlRGYwZ1dVSEpHVFgxX1NFdGQ1dzdFXzhDdndYMXljY3lZMGxxX1MtdXZGYWszQzV3MG5hUzhTQUxIeE9RNVlnVjA1aThnOHVIYnptWVR3VnVBejlHV2ZtSi10VV9iM1FtcXUweU1uNkhLWkszTFhlNmxHcmJZNnI0YlhCYlgySEFnYTdQUTnSAa4BQVVfeXFMTmMxamowOUdkaktsSVh5dVVudUlYaFZUZ0lDZnZTekVxbnBNajgweFM1dWxkSUprY1RGQjNOM2VQRDBzUi1zUEMyMzdEYmd1VnBDaElPWHpuc0YyeDhyaWo2dUtOWno3TEJPQjZDTFpxV3JzRHI2OHpxVTVOSEp0alBQQkZPSTNWNElyQXhqcW15SWZSZTdGYXhyM01xU0hSSW41YTJhOHB2MzFOQmlB?oc=5)
 
 ---
 
