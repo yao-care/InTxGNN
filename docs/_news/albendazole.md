@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Albendazole. 1 predicted indications."
 permalink: /news/albendazole/
-last_modified_at: 2026-11-22
+last_modified_at: 2026-11-23
 ---
 
 # Albendazole News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="What news is there about Albendazole?">
-<strong>Albendazole</strong> currently has <strong>118 news articles</strong>, with 1 predicted indications.
+<strong>Albendazole</strong> currently has <strong>121 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,7 @@ This page combines the AI-predicted indications for Albendazole with the latest 
 <p><a href="{{ '/drugs/albendazole/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (118)
+## Related News (121)
 
 ### [Can a Blood Test Detect Cancer? CBC, Tumor Markers, ctDNA, and Multi-Cancer Tests](https://news.google.com/rss/articles/CBMickFVX3lxTE41VEIyWVA4ckE2cV9wM0lpa0ttT3Y4ZmJ5anhfQlNJV0k0Z3NzeHRkbXExWU1ZY3VWdEstTzB1S055WkNaWnF1V2ZVMVZNcjg4MElVV1Z3YWNIVkw1T1RSczBucV9PRGNBWjBYNDhnZUtYdw?oc=5)
 
@@ -56,6 +56,14 @@ Source: [Oncodaily](https://news.google.com/rss/articles/CBMiY0FVX3lxTFBqR0hkMWE
 2026-11-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">pancreatic cancer</span> <span class="news-indication-tag">pancreatic cancer</span>
 
 Source: [Oncodaily](https://news.google.com/rss/articles/CBMie0FVX3lxTE5OdUx6QkRPZk0wdUxRbkdKVThRQkk5SGZ5Z2gxNnRsWDEybFhrNUkzdHQxTk42ZG1jdWJGMlBKWmtIYlliWnI5a2plUUxMcmtHd3RCVWhSTi1EYVMxb0R5RG9nSTBBbE1oME9XN0pKeHFtNENyMy1ETXpFSQ?oc=5)
+
+---
+
+### [New drug combo shrinks tumors in most patients facing advanced pancreatic cancer, trial shows - LiveNOW from FOX](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNEl1eFM2dlYyaWo5ck9NTkE3VkNKYWpTc3Q5UnNBb2Y2Mk5sQjdGbHNOQUZBYlpBelAyUWRPVWlNcUthZnY2cDYtYjU3VDl4YW5yQVRHVmh0UzI5RlltdVJKRm5RcU05c01GTXNwdGNHbTJGaHlmaXFOMzNFSlZIXzlSVGZ1S2lSSFo4?oc=5)
+
+2026-11-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">pancreatic cancer</span> <span class="news-indication-tag">pancreas cancer</span> <span class="news-indication-tag">pancreatic cancer</span>
+
+Source: [LiveNOW from FOX](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNEl1eFM2dlYyaWo5ck9NTkE3VkNKYWpTc3Q5UnNBb2Y2Mk5sQjdGbHNOQUZBYlpBelAyUWRPVWlNcUthZnY2cDYtYjU3VDl4YW5yQVRHVmh0UzI5RlltdVJKRm5RcU05c01GTXNwdGNHbTJGaHlmaXFOMzNFSlZIXzlSVGZ1S2lSSFo4?oc=5)
 
 ---
 
@@ -443,6 +451,14 @@ Source: [The Times of India](https://news.google.com/rss/articles/CBMikgJBVV95cU
 
 ---
 
+### [Apollo Spectra Hospital Highlights Early Warning Signs And Modern Care For Pancreatic Cancer On World Pancreatic Cancer Day. - TRIPURA STAR NEWS](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNmp5MXFiYXhfLUpOOUdnQnpLeTVHdHZRdXNVa0pCeGFiQlU5WVlnX0g3b2dEM1BFcXpLNGpGSlk1UmhNcTVKLW9fUjlSZ1dhWFZ0WVVzbUNJMGhLOFROd2NIVnV1dE9fN0Y2aHFzVUJmT3hLaXpJQ2NicFFUSmNOeXhuN2d2a3czdDA4VW1XRi0ySzYzWktKWTgyM194VjNvV0JhS0NpNkJlRVFSSXJtYjE1RkRhYVZtLTVuc2lxUFRfOF9LamJlcnptU1ZxVHZuclc3X0RnUVpnV3puV3ZvTnZuUXdPVlRxZ2R4Rw?oc=5)
+
+2026-11-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">pancreatic cancer</span> <span class="news-indication-tag">pancreatic cancer</span>
+
+Source: [TRIPURA STAR NEWS](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNmp5MXFiYXhfLUpOOUdnQnpLeTVHdHZRdXNVa0pCeGFiQlU5WVlnX0g3b2dEM1BFcXpLNGpGSlk1UmhNcTVKLW9fUjlSZ1dhWFZ0WVVzbUNJMGhLOFROd2NIVnV1dE9fN0Y2aHFzVUJmT3hLaXpJQ2NicFFUSmNOeXhuN2d2a3czdDA4VW1XRi0ySzYzWktKWTgyM194VjNvV0JhS0NpNkJlRVFSSXJtYjE1RkRhYVZtLTVuc2lxUFRfOF9LamJlcnptU1ZxVHZuclc3X0RnUVpnV3puV3ZvTnZuUXdPVlRxZ2R4Rw?oc=5)
+
+---
+
 ### [β3 Agonists Do Not Cut Dementia Risk Versus Anticholinergics in OAB - Optometry Advisor](https://news.google.com/rss/articles/CBMisAFBVV95cUxOZjlFdGlhUkd0bE5fWVJiaC1ja0hxWTAwVUM3a2dxTF9WZWlubmdJUUk0cW1qS0V2Nzl0TG9IQS1zbzBVaHhUNG5ZR21Pdk1oVXY3ai1rMGY2WGt3eERJZHpkYjZCcUkxeWNJRlhpdXJHNmVCOEVraXBKNmpPakVJN0hjMmdiSXF3enZ6WTNiVXhLUkNvTXIzYm4yejQ5NjNBMTBqRXVuSzVSNm1RN0NTTQ?oc=5)
 
 2026-11-19 <span class="news-drug-tag">CHOLINE</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
@@ -632,6 +648,14 @@ Source: [Onlymyhealth](https://news.google.com/rss/articles/CBMiogFBVV95cUxPRUlN
 2026-11-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">lung cancer</span>
 
 Source: [Cureus](https://news.google.com/rss/articles/CBMixgFBVV95cUxNNnBqQlVzUUhOZHlKcVN1ZU5YSkNUb2hfZGR0RUJqR01waE9uYnJGTEFEam84SXZMUVRHSlN1cUE4RFdpQ3BfVzVKZWhnUmhjQ1NSeU5oWE56cmZGMEdsdWhHSWlIQlBSWnFhbkRkT0lFdGdlRU41NnlSeGRNSGtYM1VLSldCLUxXeDdvakZfenBsZXQ1NEE1WmxEdlNaQ1NJV2g3T3F6VXhTMC1WbGdSWWZNWFFmR1VPaWQxWlVfa3lhcVVnNHc?oc=5)
+
+---
+
+### [Alcohol use reduces the efficacy of anti-PD1 immunotherapy by disrupting antitumor immunity - Science | AAAS](https://news.google.com/rss/articles/CBMiY0FVX3lxTFBkc09wclVNcUJlV2l2eUcyekd6cnpsZVJwU3Y3NWd2bFE4RG4zX2hDMmJXcVNyYlJFQ1ZDVjZ5ckdUVWtBV0JGWENYRTVJUE14YjhGRldTVVhrMjd6cXZiejBYMA?oc=5)
+
+2026-11-17 <span class="news-indication-tag">cancer</span>
+
+Source: [Science | AAAS](https://news.google.com/rss/articles/CBMiY0FVX3lxTFBkc09wclVNcUJlV2l2eUcyekd6cnpsZVJwU3Y3NWd2bFE4RG4zX2hDMmJXcVNyYlJFQ1ZDVjZ5ckdUVWtBV0JGWENYRTVJUE14YjhGRldTVVhrMjd6cXZiejBYMA?oc=5)
 
 ---
 

@@ -3,9 +3,9 @@ layout: default
 title: "tumour News"
 parent: Health News
 nav_exclude: true
-description: "Health news about tumour. 6 articles, 228 related drugs."
+description: "Health news about tumour. 7 articles, 228 related drugs."
 permalink: /news/tumour/
-last_modified_at: 2026-11-22
+last_modified_at: 2026-11-23
 ---
 
 # tumour News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="What news is there about tumour?">
-<strong>tumour</strong> currently has <strong>6 news articles</strong> and 228 related drugs.
+<strong>tumour</strong> currently has <strong>7 news articles</strong> and 228 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -236,7 +236,15 @@ This page brings together the latest health news about “tumour” and lists th
 </ul>
 </div>
 
-## Related News (6)
+## Related News (7)
+
+### [New drug combo shrinks tumors in most patients facing advanced pancreatic cancer, trial shows - LiveNOW from FOX](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNEl1eFM2dlYyaWo5ck9NTkE3VkNKYWpTc3Q5UnNBb2Y2Mk5sQjdGbHNOQUZBYlpBelAyUWRPVWlNcUthZnY2cDYtYjU3VDl4YW5yQVRHVmh0UzI5RlltdVJKRm5RcU05c01GTXNwdGNHbTJGaHlmaXFOMzNFSlZIXzlSVGZ1S2lSSFo4?oc=5)
+
+2026-11-22
+
+Source: [LiveNOW from FOX](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNEl1eFM2dlYyaWo5ck9NTkE3VkNKYWpTc3Q5UnNBb2Y2Mk5sQjdGbHNOQUZBYlpBelAyUWRPVWlNcUthZnY2cDYtYjU3VDl4YW5yQVRHVmh0UzI5RlltdVJKRm5RcU05c01GTXNwdGNHbTJGaHlmaXFOMzNFSlZIXzlSVGZ1S2lSSFo4?oc=5)
+
+---
 
 ### [Trial Shows New Pancreatic Cancer Drug Halts Tumour Growth In 90% Of Patients](https://news.google.com/rss/articles/CBMixwFBVV95cUxONTFGU0labmdZSnNrajhydEpCSUkyYUVSV1JPNFNkdTdvakVsWXZhT3VVdG93NnJQdTJnMnR1T2Itbm5pWHZyUGd0cUhFd0dtTG1seFRDQTRoVHptemt5Q3Z2aVhIbmRWbkNPRmNib3UtaWNpNnl6b3pSRk1KbWxPUEh0MjFfMmFxZWxxWldDZFdjTEswTGRUM21kYmlCWlJDRGJHQ1Q1V3NwalZYOER0Ujc4aHc1TE1PczBHWDg2cVpzZEpjU3U0?oc=5)
 

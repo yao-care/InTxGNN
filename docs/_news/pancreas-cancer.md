@@ -3,9 +3,9 @@ layout: default
 title: "pancreatic cancer (pancreas cancer) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about pancreatic cancer (pancreas cancer). 14 articles, 1 related drugs."
+description: "Health news about pancreatic cancer (pancreas cancer). 16 articles, 1 related drugs."
 permalink: /news/pancreas-cancer/
-last_modified_at: 2026-11-22
+last_modified_at: 2026-11-23
 ---
 
 # pancreatic cancer (pancreas cancer) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="What news is there about pancreatic cancer (pancreas cancer)?">
-<strong>pancreatic cancer (pancreas cancer)</strong> currently has <strong>14 news articles</strong> and 1 related drugs.
+<strong>pancreatic cancer (pancreas cancer)</strong> currently has <strong>16 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,21 @@ This page brings together the latest health news about “pancreatic cancer” a
 </ul>
 </div>
 
-## Related News (14)
+## Related News (16)
 
 ### [Julie Fleshman Calls for Greater Pancreatic Cancer Research Investment on World Pancreatic Cancer Day](https://news.google.com/rss/articles/CBMie0FVX3lxTE5OdUx6QkRPZk0wdUxRbkdKVThRQkk5SGZ5Z2gxNnRsWDEybFhrNUkzdHQxTk42ZG1jdWJGMlBKWmtIYlliWnI5a2plUUxMcmtHd3RCVWhSTi1EYVMxb0R5RG9nSTBBbE1oME9XN0pKeHFtNENyMy1ETXpFSQ?oc=5)
 
 2026-11-22
 
 Source: [Oncodaily](https://news.google.com/rss/articles/CBMie0FVX3lxTE5OdUx6QkRPZk0wdUxRbkdKVThRQkk5SGZ5Z2gxNnRsWDEybFhrNUkzdHQxTk42ZG1jdWJGMlBKWmtIYlliWnI5a2plUUxMcmtHd3RCVWhSTi1EYVMxb0R5RG9nSTBBbE1oME9XN0pKeHFtNENyMy1ETXpFSQ?oc=5)
+
+---
+
+### [New drug combo shrinks tumors in most patients facing advanced pancreatic cancer, trial shows - LiveNOW from FOX](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNEl1eFM2dlYyaWo5ck9NTkE3VkNKYWpTc3Q5UnNBb2Y2Mk5sQjdGbHNOQUZBYlpBelAyUWRPVWlNcUthZnY2cDYtYjU3VDl4YW5yQVRHVmh0UzI5RlltdVJKRm5RcU05c01GTXNwdGNHbTJGaHlmaXFOMzNFSlZIXzlSVGZ1S2lSSFo4?oc=5)
+
+2026-11-22
+
+Source: [LiveNOW from FOX](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNEl1eFM2dlYyaWo5ck9NTkE3VkNKYWpTc3Q5UnNBb2Y2Mk5sQjdGbHNOQUZBYlpBelAyUWRPVWlNcUthZnY2cDYtYjU3VDl4YW5yQVRHVmh0UzI5RlltdVJKRm5RcU05c01GTXNwdGNHbTJGaHlmaXFOMzNFSlZIXzlSVGZ1S2lSSFo4?oc=5)
 
 ---
 
@@ -125,6 +133,14 @@ Source: [NBC 5 Dallas-Fort Worth](https://news.google.com/rss/articles/CBMi2wFBV
 2026-11-19
 
 Source: [The Times of India](https://news.google.com/rss/articles/CBMikgJBVV95cUxQU2tnODFpSUxReG9mMzRNVlE0MmF1aFpXc3lKTGptdDJVLUdsNmZ3ekdNaU9KVmFXYjVvak9yX1VnTUhtMlY2c2R3RlQxTUhDbkVHNnYtUTF6RHpXVEhBMmV2a25mNUhPTlY2V3NCaHZzeXlneHV2ZU1CdHNQblNkQUlTNU8wSDFZcWYtZkxUNmxUanp1YXVIek85RFM5NGE4azgtQnBIYV9jMzF2TThsbzJNWTIzMnFDcXNyd2hUWDk5MEU0UHhmSENhSUtkX3FTbmktVllFMExzWV9QMHluaEdvWWxxWFBTYV9sdmJWblZSTHZkdnAwVUhzMDF1Z2JDTmNmbWhuZGtBVktNZjlUb2t3?oc=5)
+
+---
+
+### [Apollo Spectra Hospital Highlights Early Warning Signs And Modern Care For Pancreatic Cancer On World Pancreatic Cancer Day. - TRIPURA STAR NEWS](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNmp5MXFiYXhfLUpOOUdnQnpLeTVHdHZRdXNVa0pCeGFiQlU5WVlnX0g3b2dEM1BFcXpLNGpGSlk1UmhNcTVKLW9fUjlSZ1dhWFZ0WVVzbUNJMGhLOFROd2NIVnV1dE9fN0Y2aHFzVUJmT3hLaXpJQ2NicFFUSmNOeXhuN2d2a3czdDA4VW1XRi0ySzYzWktKWTgyM194VjNvV0JhS0NpNkJlRVFSSXJtYjE1RkRhYVZtLTVuc2lxUFRfOF9LamJlcnptU1ZxVHZuclc3X0RnUVpnV3puV3ZvTnZuUXdPVlRxZ2R4Rw?oc=5)
+
+2026-11-19
+
+Source: [TRIPURA STAR NEWS](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNmp5MXFiYXhfLUpOOUdnQnpLeTVHdHZRdXNVa0pCeGFiQlU5WVlnX0g3b2dEM1BFcXpLNGpGSlk1UmhNcTVKLW9fUjlSZ1dhWFZ0WVVzbUNJMGhLOFROd2NIVnV1dE9fN0Y2aHFzVUJmT3hLaXpJQ2NicFFUSmNOeXhuN2d2a3czdDA4VW1XRi0ySzYzWktKWTgyM194VjNvV0JhS0NpNkJlRVFSSXJtYjE1RkRhYVZtLTVuc2lxUFRfOF9LamJlcnptU1ZxVHZuclc3X0RnUVpnV3puV3ZvTnZuUXdPVlRxZ2R4Rw?oc=5)
 
 ---
 
