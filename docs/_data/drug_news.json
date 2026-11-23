@@ -20,50 +20,75 @@
     {
       "url": "/news/acetazolamide/",
       "title": "Acetazolamide News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/acitretin/": [
     {
       "url": "/news/acitretin/",
       "title": "Acitretin News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/acyclovir/": [
     {
+      "url": "/news/herpes-zoster/",
+      "title": "herpes zoster News",
+      "count": 2
+    },
+    {
       "url": "/news/acyclovir/",
       "title": "Acyclovir News",
+      "count": 1
+    },
+    {
+      "url": "/news/db00787/",
+      "title": "ACYCLOVIR News",
+      "count": 1
+    },
+    {
+      "url": "/news/shingles/",
+      "title": "herpes zoster (shingles) News",
+      "count": 1
+    },
+    {
+      "url": "/news/herpes/",
+      "title": "herpes zoster (herpes) News",
+      "count": 1
+    },
+    {
+      "url": "/news/chhaale/",
+      "title": "herpes zoster (chhaale) News",
       "count": 1
     },
     {
@@ -76,22 +101,22 @@
     {
       "url": "/news/ademetionine/",
       "title": "Ademetionine News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/colonic-neoplasm/",
@@ -103,59 +128,59 @@
     {
       "url": "/news/aflibercept/",
       "title": "Aflibercept News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/db08885/",
       "title": "AFLIBERCEPT News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/albendazole/": [
     {
       "url": "/news/albendazole/",
       "title": "Albendazole News",
-      "count": 121
+      "count": 137
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/dementia/",
-      "title": "memory loss (dementia) News",
-      "count": 28
+      "title": "alzheimer (dementia) News",
+      "count": 30
     },
     {
       "url": "/news/alzheimer/",
@@ -175,34 +200,34 @@
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/aliskiren/": [
     {
       "url": "/news/aliskiren/",
       "title": "Aliskiren News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/alpelisib/": [
@@ -221,7 +246,7 @@
     {
       "url": "/news/db00009/",
       "title": "ALTEPLASE News",
-      "count": 33
+      "count": 34
     },
     {
       "url": "/news/alteplase/",
@@ -241,22 +266,22 @@
     {
       "url": "/news/stroke/",
       "title": "stroke News",
-      "count": 12
+      "count": 13
     },
     {
       "url": "/news/brain-attack/",
       "title": "stroke (brain attack) News",
-      "count": 12
+      "count": 13
     },
     {
       "url": "/news/paralysis/",
       "title": "stroke (paralysis) News",
-      "count": 12
+      "count": 13
     },
     {
       "url": "/news/lakwa/",
       "title": "stroke (lakwa) News",
-      "count": 12
+      "count": 13
     },
     {
       "url": "/news/heart-disease/",
@@ -273,47 +298,47 @@
     {
       "url": "/news/altretamine/",
       "title": "Altretamine News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/db00488/",
       "title": "ALTRETAMINE News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
-    },
-    {
-      "url": "/news/tumor/",
-      "title": "tumor News",
-      "count": 5
-    },
-    {
-      "url": "/news/tumor/",
-      "title": "tumor News",
-      "count": 5
+      "count": 8
     },
     {
       "url": "/news/female-breast-carcinoma/",
       "title": "breast cancer (female breast carcinoma) News",
-      "count": 5
+      "count": 6
+    },
+    {
+      "url": "/news/tumor/",
+      "title": "tumor News",
+      "count": 6
+    },
+    {
+      "url": "/news/tumor/",
+      "title": "tumor News",
+      "count": 6
     }
   ],
   "/drugs/ambroxol/": [
@@ -332,22 +357,22 @@
     {
       "url": "/news/amifostine/",
       "title": "Amifostine News",
-      "count": 101
+      "count": 115
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/alopecia/",
@@ -371,22 +396,22 @@
     {
       "url": "/news/amiloride/",
       "title": "Amiloride News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/amiodarone/": [
@@ -415,47 +440,47 @@
     {
       "url": "/news/amlodipine/",
       "title": "Amlodipine News",
-      "count": 101
+      "count": 115
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/db00381/",
       "title": "AMLODIPINE News",
-      "count": 12
+      "count": 13
     },
     {
       "url": "/news/stroke/",
       "title": "stroke News",
-      "count": 12
+      "count": 13
     },
     {
       "url": "/news/brain-attack/",
       "title": "stroke (brain attack) News",
-      "count": 12
+      "count": 13
     },
     {
       "url": "/news/paralysis/",
       "title": "stroke (paralysis) News",
-      "count": 12
+      "count": 13
     },
     {
       "url": "/news/lakwa/",
       "title": "stroke (lakwa) News",
-      "count": 12
+      "count": 13
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/intracerebral-hemorrhage/",
@@ -479,93 +504,93 @@
     {
       "url": "/news/amoxicillin/",
       "title": "Amoxicillin News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/ampicillin/": [
     {
       "url": "/news/ampicillin/",
       "title": "Ampicillin News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/amylmetacresol/": [
     {
       "url": "/news/amylmetacresol/",
       "title": "Amylmetacresol News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/anastrozole/": [
     {
       "url": "/news/anastrozole/",
       "title": "Anastrozole News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
-    },
-    {
-      "url": "/news/tumor/",
-      "title": "tumor News",
-      "count": 5
+      "count": 8
     },
     {
       "url": "/news/female-breast-carcinoma/",
       "title": "breast cancer (female breast carcinoma) News",
-      "count": 5
+      "count": 6
+    },
+    {
+      "url": "/news/tumor/",
+      "title": "tumor News",
+      "count": 6
     }
   ],
   "/drugs/apomorphine/": [
@@ -613,42 +638,42 @@
     {
       "url": "/news/arsenic_trioxide/",
       "title": "Arsenic Trioxide News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/db01169/",
       "title": "ARSENIC TRIOXIDE News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/artemether/": [
@@ -684,12 +709,12 @@
     {
       "url": "/news/atenolol/",
       "title": "Atenolol News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/db00335/",
@@ -704,12 +729,12 @@
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/heart-disease/",
@@ -721,49 +746,49 @@
     {
       "url": "/news/atezolizumab/",
       "title": "Atezolizumab News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/db11595/",
       "title": "ATEZOLIZUMAB News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/atorvastatin/": [
     {
       "url": "/news/db01076/",
       "title": "ATORVASTATIN News",
-      "count": 33
+      "count": 34
     },
     {
       "url": "/news/cardiovascular/",
@@ -773,22 +798,22 @@
     {
       "url": "/news/stroke/",
       "title": "stroke News",
-      "count": 12
+      "count": 13
     },
     {
       "url": "/news/brain-attack/",
       "title": "stroke (brain attack) News",
-      "count": 12
+      "count": 13
     },
     {
       "url": "/news/paralysis/",
       "title": "stroke (paralysis) News",
-      "count": 12
+      "count": 13
     },
     {
       "url": "/news/lakwa/",
       "title": "stroke (lakwa) News",
-      "count": 12
+      "count": 13
     },
     {
       "url": "/news/heart-disease/",
@@ -827,42 +852,42 @@
     {
       "url": "/news/axitinib/",
       "title": "Axitinib News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/db06626/",
       "title": "AXITINIB News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/azathioprine/": [
@@ -886,44 +911,44 @@
     {
       "url": "/news/azithromycin/",
       "title": "Azithromycin News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/aztreonam/": [
     {
       "url": "/news/aztreonam/",
       "title": "Aztreonam News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/balsalazide/": [
@@ -952,130 +977,130 @@
     {
       "url": "/news/basiliximab/",
       "title": "Basiliximab News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/becaplermin/": [
     {
       "url": "/news/becaplermin/",
       "title": "Becaplermin News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/bempedoic-acid/": [
     {
       "url": "/news/bempedoic_acid/",
       "title": "Bempedoic Acid News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/benazepril/": [
     {
       "url": "/news/benazepril/",
       "title": "Benazepril News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/bendamustine/": [
     {
       "url": "/news/bendamustine/",
       "title": "Bendamustine News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/db06769/",
       "title": "BENDAMUSTINE News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/benzoic-acid/": [
@@ -1106,91 +1131,91 @@
     {
       "url": "/news/db00443/",
       "title": "BETAMETHASONE News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/bevacizumab/": [
     {
       "url": "/news/bevacizumab/",
       "title": "Bevacizumab News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/db00112/",
       "title": "BEVACIZUMAB News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/bicalutamide/": [
     {
       "url": "/news/bicalutamide/",
       "title": "Bicalutamide News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
-    },
-    {
-      "url": "/news/tumor/",
-      "title": "tumor News",
-      "count": 5
+      "count": 8
     },
     {
       "url": "/news/female-breast-carcinoma/",
       "title": "breast cancer (female breast carcinoma) News",
-      "count": 5
+      "count": 6
+    },
+    {
+      "url": "/news/tumor/",
+      "title": "tumor News",
+      "count": 6
     }
   ],
   "/drugs/bimatoprost/": [
@@ -1209,64 +1234,64 @@
     {
       "url": "/news/bisoprolol/",
       "title": "Bisoprolol News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/bleomycin/": [
     {
       "url": "/news/bleomycin/",
       "title": "Bleomycin News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/db00290/",
       "title": "BLEOMYCIN News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/bosentan/": [
@@ -1307,26 +1332,26 @@
     {
       "url": "/news/db01200/",
       "title": "BROMOCRIPTINE News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
-    },
-    {
-      "url": "/news/bromocriptine/",
-      "title": "Bromocriptine News",
-      "count": 5
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
+      "count": 6
+    },
+    {
+      "url": "/news/bromocriptine/",
+      "title": "Bromocriptine News",
       "count": 5
     },
     {
@@ -1361,49 +1386,49 @@
     {
       "url": "/news/bupropion/",
       "title": "Bupropion News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/cabazitaxel/": [
     {
       "url": "/news/cabazitaxel/",
       "title": "Cabazitaxel News",
-      "count": 101
+      "count": 115
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
-    },
-    {
-      "url": "/news/tumor/",
-      "title": "tumor News",
-      "count": 5
+      "count": 8
     },
     {
       "url": "/news/female-breast-carcinoma/",
       "title": "breast cancer (female breast carcinoma) News",
-      "count": 5
+      "count": 6
+    },
+    {
+      "url": "/news/tumor/",
+      "title": "tumor News",
+      "count": 6
     },
     {
       "url": "/news/rheumatoid-arthritis/",
@@ -1415,42 +1440,42 @@
     {
       "url": "/news/cabergoline/",
       "title": "Cabergoline News",
-      "count": 101
+      "count": 115
     },
     {
       "url": "/news/db00248/",
       "title": "CABERGOLINE News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/glaucoma/",
@@ -1467,42 +1492,42 @@
     {
       "url": "/news/cabozantinib/",
       "title": "Cabozantinib News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/db08875/",
       "title": "CABOZANTINIB News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/caffeine/": [
@@ -1521,22 +1546,22 @@
     {
       "url": "/news/calcipotriol/",
       "title": "Calcipotriol News",
-      "count": 101
+      "count": 115
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/menopause/",
@@ -1558,66 +1583,66 @@
     {
       "url": "/news/db01101/",
       "title": "CAPECITABINE News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/carboplatin/": [
     {
       "url": "/news/db00958/",
       "title": "CARBOPLATIN News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/carfilzomib/": [
     {
       "url": "/news/db08889/",
       "title": "CARFILZOMIB News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/cefazolin/": [
@@ -1636,88 +1661,88 @@
     {
       "url": "/news/db09063/",
       "title": "CERITINIB News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/cetuximab/": [
     {
       "url": "/news/db00002/",
       "title": "CETUXIMAB News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/chlorambucil/": [
     {
       "url": "/news/db00291/",
       "title": "CHLORAMBUCIL News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/chlorthalidone/": [
     {
       "url": "/news/chlorthalidone/",
       "title": "Chlorthalidone News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/chlorzoxazone/": [
@@ -1736,22 +1761,22 @@
     {
       "url": "/news/choline_salicylate/",
       "title": "Choline Salicylate News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/chromium/": [
@@ -1785,108 +1810,108 @@
     {
       "url": "/news/ciprofloxacin/",
       "title": "Ciprofloxacin News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/db00537/",
       "title": "CIPROFLOXACIN News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/cladribine/": [
     {
       "url": "/news/db00242/",
       "title": "CLADRIBINE News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/clofarabine/": [
     {
       "url": "/news/db00631/",
       "title": "CLOFARABINE News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/clonazepam/": [
     {
       "url": "/news/clonazepam/",
       "title": "Clonazepam News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/clopidogrel/": [
@@ -1922,44 +1947,44 @@
     {
       "url": "/news/colchicine/",
       "title": "Colchicine News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/crizotinib/": [
     {
       "url": "/news/db08865/",
       "title": "CRIZOTINIB News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/cyclandelate/": [
@@ -1983,22 +2008,22 @@
     {
       "url": "/news/db00531/",
       "title": "CYCLOPHOSPHAMIDE News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/cyproterone-acetate/": [
@@ -2022,22 +2047,22 @@
     {
       "url": "/news/db00987/",
       "title": "CYTARABINE News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/d-glucose/": [
@@ -2056,84 +2081,84 @@
     {
       "url": "/news/dacarbazine/",
       "title": "Dacarbazine News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/db00851/",
       "title": "DACARBAZINE News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/dactinomycin/": [
     {
       "url": "/news/dactinomycin/",
       "title": "Dactinomycin News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/db00970/",
       "title": "DACTINOMYCIN News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/head-and-neck-cancer/",
@@ -2150,27 +2175,27 @@
     {
       "url": "/news/dasatinib/",
       "title": "Dasatinib News",
-      "count": 121
+      "count": 137
     },
     {
       "url": "/news/db01254/",
       "title": "DASATINIB News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/dementia/",
-      "title": "memory loss (dementia) News",
-      "count": 28
+      "title": "alzheimer (dementia) News",
+      "count": 30
     },
     {
       "url": "/news/alzheimer/",
@@ -2190,125 +2215,125 @@
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     }
   ],
   "/drugs/daunorubicin/": [
     {
       "url": "/news/daunorubicin/",
       "title": "Daunorubicin News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/db00694/",
       "title": "DAUNORUBICIN News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/small-cell-lung-carcinoma/",
       "title": "lung cancer (small cell lung carcinoma) News",
-      "count": 11
+      "count": 12
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/decitabine/": [
     {
       "url": "/news/db01262/",
       "title": "DECITABINE News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/deferasirox/": [
     {
       "url": "/news/deferasirox/",
       "title": "Deferasirox News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/demeclocycline/": [
     {
       "url": "/news/demeclocycline/",
       "title": "Demeclocycline News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/denosumab/": [
@@ -2347,22 +2372,22 @@
     {
       "url": "/news/db01260/",
       "title": "DESONIDE News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/desonide/",
@@ -2379,42 +2404,42 @@
     {
       "url": "/news/desoximetasone/",
       "title": "Desoximetasone News",
-      "count": 102
+      "count": 116
     },
     {
       "url": "/news/db00547/",
       "title": "DESOXIMETASONE News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/alopecia-areata/",
@@ -2431,22 +2456,22 @@
     {
       "url": "/news/db01234/",
       "title": "DEXAMETHASONE News",
-      "count": 101
+      "count": 115
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/dexamethasone/",
@@ -2458,22 +2483,22 @@
     {
       "url": "/news/db01119/",
       "title": "DIAZOXIDE News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/diazoxide/",
@@ -2490,27 +2515,27 @@
     {
       "url": "/news/digoxin/",
       "title": "Digoxin News",
-      "count": 12
+      "count": 13
     },
     {
       "url": "/news/stroke/",
       "title": "stroke News",
-      "count": 12
+      "count": 13
     },
     {
       "url": "/news/brain-attack/",
       "title": "stroke (brain attack) News",
-      "count": 12
+      "count": 13
     },
     {
       "url": "/news/paralysis/",
       "title": "stroke (paralysis) News",
-      "count": 12
+      "count": 13
     },
     {
       "url": "/news/lakwa/",
       "title": "stroke (lakwa) News",
-      "count": 12
+      "count": 13
     }
   ],
   "/drugs/dihydralazine/": [
@@ -2529,76 +2554,76 @@
     {
       "url": "/news/diltiazem/",
       "title": "Diltiazem News",
-      "count": 12
+      "count": 13
     },
     {
       "url": "/news/stroke/",
       "title": "stroke News",
-      "count": 12
+      "count": 13
     },
     {
       "url": "/news/brain-attack/",
       "title": "stroke (brain attack) News",
-      "count": 12
+      "count": 13
     },
     {
       "url": "/news/paralysis/",
       "title": "stroke (paralysis) News",
-      "count": 12
+      "count": 13
     },
     {
       "url": "/news/lakwa/",
       "title": "stroke (lakwa) News",
-      "count": 12
+      "count": 13
     }
   ],
   "/drugs/dipyridamole/": [
     {
       "url": "/news/dipyridamole/",
       "title": "Dipyridamole News",
-      "count": 12
+      "count": 13
     },
     {
       "url": "/news/stroke/",
       "title": "stroke News",
-      "count": 12
+      "count": 13
     },
     {
       "url": "/news/brain-attack/",
       "title": "stroke (brain attack) News",
-      "count": 12
+      "count": 13
     },
     {
       "url": "/news/paralysis/",
       "title": "stroke (paralysis) News",
-      "count": 12
+      "count": 13
     },
     {
       "url": "/news/lakwa/",
       "title": "stroke (lakwa) News",
-      "count": 12
+      "count": 13
     }
   ],
   "/drugs/disopyramide/": [
     {
       "url": "/news/disopyramide/",
       "title": "Disopyramide News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/dobutamine/": [
@@ -2617,64 +2642,64 @@
     {
       "url": "/news/db01248/",
       "title": "DOCETAXEL News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/docetaxel/",
       "title": "Docetaxel News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/small-cell-lung-carcinoma/",
       "title": "lung cancer (small cell lung carcinoma) News",
-      "count": 11
+      "count": 12
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
-    },
-    {
-      "url": "/news/tumor/",
-      "title": "tumor News",
-      "count": 5
-    },
-    {
-      "url": "/news/tumor/",
-      "title": "tumor News",
-      "count": 5
+      "count": 8
     },
     {
       "url": "/news/female-breast-carcinoma/",
       "title": "breast cancer (female breast carcinoma) News",
-      "count": 5
+      "count": 6
+    },
+    {
+      "url": "/news/tumor/",
+      "title": "tumor News",
+      "count": 6
+    },
+    {
+      "url": "/news/tumor/",
+      "title": "tumor News",
+      "count": 6
     }
   ],
   "/drugs/donepezil/": [
     {
       "url": "/news/dementia/",
-      "title": "memory loss (dementia) News",
-      "count": 28
+      "title": "alzheimer (dementia) News",
+      "count": 30
     },
     {
       "url": "/news/db00843/",
       "title": "DONEPEZIL News",
-      "count": 22
+      "count": 24
     },
     {
       "url": "/news/alzheimer/",
@@ -2742,111 +2767,111 @@
     {
       "url": "/news/db00997/",
       "title": "DOXORUBICIN News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/doxorubicin/",
       "title": "Doxorubicin News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/dronedarone/": [
     {
       "url": "/news/dronedarone/",
       "title": "Dronedarone News",
-      "count": 12
+      "count": 13
     },
     {
       "url": "/news/stroke/",
       "title": "stroke News",
-      "count": 12
+      "count": 13
     },
     {
       "url": "/news/brain-attack/",
       "title": "stroke (brain attack) News",
-      "count": 12
+      "count": 13
     },
     {
       "url": "/news/paralysis/",
       "title": "stroke (paralysis) News",
-      "count": 12
+      "count": 13
     },
     {
       "url": "/news/lakwa/",
       "title": "stroke (lakwa) News",
-      "count": 12
+      "count": 13
     }
   ],
   "/drugs/durvalumab/": [
     {
       "url": "/news/db11714/",
       "title": "DURVALUMAB News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/durvalumab/",
       "title": "Durvalumab News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/ebastine/": [
@@ -2880,83 +2905,83 @@
     {
       "url": "/news/db12243/",
       "title": "EDARAVONE News",
-      "count": 12
+      "count": 13
     },
     {
       "url": "/news/stroke/",
       "title": "stroke News",
-      "count": 12
+      "count": 13
     },
     {
       "url": "/news/brain-attack/",
       "title": "stroke (brain attack) News",
-      "count": 12
+      "count": 13
     },
     {
       "url": "/news/paralysis/",
       "title": "stroke (paralysis) News",
-      "count": 12
+      "count": 13
     },
     {
       "url": "/news/lakwa/",
       "title": "stroke (lakwa) News",
-      "count": 12
+      "count": 13
     }
   ],
   "/drugs/eflornithine/": [
     {
       "url": "/news/eflornithine/",
       "title": "Eflornithine News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/efonidipine/": [
     {
       "url": "/news/efonidipine/",
       "title": "Efonidipine News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/entacapone/": [
     {
       "url": "/news/dementia/",
-      "title": "memory loss (dementia) News",
-      "count": 28
+      "title": "alzheimer (dementia) News",
+      "count": 30
     },
     {
       "url": "/news/entacapone/",
       "title": "Entacapone News",
-      "count": 22
+      "count": 24
     },
     {
       "url": "/news/alzheimer/",
@@ -2978,118 +3003,118 @@
     {
       "url": "/news/db08899/",
       "title": "ENZALUTAMIDE News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/enzalutamide/",
       "title": "Enzalutamide News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/epirubicin/": [
     {
       "url": "/news/db00445/",
       "title": "EPIRUBICIN News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/epirubicin/",
       "title": "Epirubicin News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/eplerenone/": [
     {
       "url": "/news/eplerenone/",
       "title": "Eplerenone News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/eptifibatide/": [
     {
       "url": "/news/eptifibatide/",
       "title": "Eptifibatide News",
-      "count": 101
+      "count": 115
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/db00063/",
@@ -3104,17 +3129,17 @@
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
-    },
-    {
-      "url": "/news/tumor/",
-      "title": "tumor News",
-      "count": 5
+      "count": 8
     },
     {
       "url": "/news/female-breast-carcinoma/",
       "title": "breast cancer (female breast carcinoma) News",
-      "count": 5
+      "count": 6
+    },
+    {
+      "url": "/news/tumor/",
+      "title": "tumor News",
+      "count": 6
     },
     {
       "url": "/news/heart-disease/",
@@ -3131,221 +3156,248 @@
     {
       "url": "/news/eribulin/",
       "title": "Eribulin News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/estramustine/": [
     {
       "url": "/news/db01196/",
       "title": "ESTRAMUSTINE News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/estramustine/",
       "title": "Estramustine News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
-    },
-    {
-      "url": "/news/tumor/",
-      "title": "tumor News",
-      "count": 5
-    },
-    {
-      "url": "/news/tumor/",
-      "title": "tumor News",
-      "count": 5
+      "count": 8
     },
     {
       "url": "/news/female-breast-carcinoma/",
       "title": "breast cancer (female breast carcinoma) News",
-      "count": 5
+      "count": 6
+    },
+    {
+      "url": "/news/tumor/",
+      "title": "tumor News",
+      "count": 6
+    },
+    {
+      "url": "/news/tumor/",
+      "title": "tumor News",
+      "count": 6
     }
   ],
   "/drugs/etoposide/": [
     {
       "url": "/news/db00773/",
       "title": "ETOPOSIDE News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/everolimus/": [
     {
       "url": "/news/db01590/",
       "title": "EVEROLIMUS News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
+    }
+  ],
+  "/drugs/famciclovir/": [
+    {
+      "url": "/news/herpes-zoster/",
+      "title": "herpes zoster News",
+      "count": 2
+    },
+    {
+      "url": "/news/db00426/",
+      "title": "FAMCICLOVIR News",
+      "count": 1
+    },
+    {
+      "url": "/news/shingles/",
+      "title": "herpes zoster (shingles) News",
+      "count": 1
+    },
+    {
+      "url": "/news/herpes/",
+      "title": "herpes zoster (herpes) News",
+      "count": 1
+    },
+    {
+      "url": "/news/chhaale/",
+      "title": "herpes zoster (chhaale) News",
+      "count": 1
     }
   ],
   "/drugs/felodipine/": [
     {
       "url": "/news/felodipine/",
       "title": "Felodipine News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/fluocinolone-acetonide/": [
     {
       "url": "/news/db00591/",
       "title": "FLUOCINOLONE ACETONIDE News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/fluorouracil/": [
     {
       "url": "/news/db00544/",
       "title": "FLUOROURACIL News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/flutamide/": [
     {
       "url": "/news/db00499/",
       "title": "FLUTAMIDE News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/flutamide/",
       "title": "Flutamide News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/fluvastatin/": [
@@ -3368,13 +3420,13 @@
   "/drugs/galantamine/": [
     {
       "url": "/news/dementia/",
-      "title": "memory loss (dementia) News",
-      "count": 28
+      "title": "alzheimer (dementia) News",
+      "count": 30
     },
     {
       "url": "/news/db00674/",
       "title": "GALANTAMINE News",
-      "count": 22
+      "count": 24
     },
     {
       "url": "/news/alzheimer/",
@@ -3396,44 +3448,44 @@
     {
       "url": "/news/db00317/",
       "title": "GEFITINIB News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/gemcitabine/": [
     {
       "url": "/news/db00441/",
       "title": "GEMCITABINE News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/gemcitabine/",
@@ -3445,142 +3497,169 @@
     {
       "url": "/news/db09257/",
       "title": "GIMERACIL News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/hydrocortisone/": [
     {
       "url": "/news/db00741/",
       "title": "HYDROCORTISONE News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/hydroxyurea/": [
     {
       "url": "/news/db01005/",
       "title": "HYDROXYUREA News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/hydroxyurea/",
       "title": "Hydroxyurea News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
+    }
+  ],
+  "/drugs/idoxuridine/": [
+    {
+      "url": "/news/herpes-zoster/",
+      "title": "herpes zoster News",
+      "count": 2
+    },
+    {
+      "url": "/news/db00249/",
+      "title": "IDOXURIDINE News",
+      "count": 1
+    },
+    {
+      "url": "/news/shingles/",
+      "title": "herpes zoster (shingles) News",
+      "count": 1
+    },
+    {
+      "url": "/news/herpes/",
+      "title": "herpes zoster (herpes) News",
+      "count": 1
+    },
+    {
+      "url": "/news/chhaale/",
+      "title": "herpes zoster (chhaale) News",
+      "count": 1
     }
   ],
   "/drugs/imiquimod/": [
     {
       "url": "/news/db00724/",
       "title": "IMIQUIMOD News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/irinotecan/": [
     {
       "url": "/news/db00762/",
       "title": "IRINOTECAN News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/iron/": [
     {
       "url": "/news/db01592/",
       "title": "IRON News",
-      "count": 6
+      "count": 7
     },
     {
       "url": "/news/iron/",
       "title": "Iron News",
-      "count": 6
+      "count": 7
     }
   ],
   "/drugs/isosorbide-dinitrate/": [
@@ -3631,29 +3710,29 @@
     {
       "url": "/news/isotretinoin/",
       "title": "Isotretinoin News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/isoxsuprine/": [
     {
       "url": "/news/db08941/",
       "title": "ISOXSUPRINE News",
-      "count": 33
+      "count": 34
     },
     {
       "url": "/news/isoxsuprine/",
@@ -3673,22 +3752,22 @@
     {
       "url": "/news/stroke/",
       "title": "stroke News",
-      "count": 12
+      "count": 13
     },
     {
       "url": "/news/brain-attack/",
       "title": "stroke (brain attack) News",
-      "count": 12
+      "count": 13
     },
     {
       "url": "/news/paralysis/",
       "title": "stroke (paralysis) News",
-      "count": 12
+      "count": 13
     },
     {
       "url": "/news/lakwa/",
       "title": "stroke (lakwa) News",
-      "count": 12
+      "count": 13
     },
     {
       "url": "/news/heart-disease/",
@@ -3732,42 +3811,42 @@
     {
       "url": "/news/db04845/",
       "title": "IXABEPILONE News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/ixabepilone/",
       "title": "Ixabepilone News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/l-glutamine/": [
@@ -3786,219 +3865,219 @@
     {
       "url": "/news/labetalol/",
       "title": "Labetalol News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/lactulose/": [
     {
       "url": "/news/lactulose/",
       "title": "Lactulose News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/lamotrigine/": [
     {
       "url": "/news/lamotrigine/",
       "title": "Lamotrigine News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/lapatinib/": [
     {
       "url": "/news/db01259/",
       "title": "LAPATINIB News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/lapatinib/",
       "title": "Lapatinib News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/lenalidomide/": [
     {
       "url": "/news/db00480/",
       "title": "LENALIDOMIDE News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/lenalidomide/",
       "title": "Lenalidomide News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/lenvatinib/": [
     {
       "url": "/news/db09078/",
       "title": "LENVATINIB News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/lenvatinib/",
       "title": "Lenvatinib News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/letrozole/": [
     {
       "url": "/news/letrozole/",
       "title": "Letrozole News",
-      "count": 101
+      "count": 115
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
-    },
-    {
-      "url": "/news/tumor/",
-      "title": "tumor News",
-      "count": 5
+      "count": 8
     },
     {
       "url": "/news/female-breast-carcinoma/",
       "title": "breast cancer (female breast carcinoma) News",
-      "count": 5
+      "count": 6
+    },
+    {
+      "url": "/news/tumor/",
+      "title": "tumor News",
+      "count": 6
     },
     {
       "url": "/news/menopause/",
@@ -4032,22 +4111,34 @@
     {
       "url": "/news/levamisole/",
       "title": "Levamisole News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
+    }
+  ],
+  "/drugs/levetiracetam/": [
+    {
+      "url": "/news/levetiracetam/",
+      "title": "Levetiracetam News",
+      "count": 1
+    },
+    {
+      "url": "/news/status-epilepticus/",
+      "title": "status epilepticus News",
+      "count": 1
     }
   ],
   "/drugs/levocetirizine/": [
@@ -4066,22 +4157,22 @@
     {
       "url": "/news/levofloxacin/",
       "title": "Levofloxacin News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/levonorgestrel/": [
@@ -4110,34 +4201,34 @@
     {
       "url": "/news/lindane/",
       "title": "Lindane News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/lisinopril/": [
     {
       "url": "/news/lisinopril/",
       "title": "Lisinopril News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/db00722/",
@@ -4152,12 +4243,12 @@
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/heart-disease/",
@@ -4169,49 +4260,49 @@
     {
       "url": "/news/db01206/",
       "title": "LOMUSTINE News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/lorlatinib/": [
     {
       "url": "/news/lorlatinib/",
       "title": "Lorlatinib News",
-      "count": 121
+      "count": 137
     },
     {
       "url": "/news/db12130/",
       "title": "LORLATINIB News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/dementia/",
-      "title": "memory loss (dementia) News",
-      "count": 28
+      "title": "alzheimer (dementia) News",
+      "count": 30
     },
     {
       "url": "/news/alzheimer/",
@@ -4231,12 +4322,12 @@
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     }
   ],
   "/drugs/lornoxicam/": [
@@ -4255,22 +4346,22 @@
     {
       "url": "/news/losartan/",
       "title": "Losartan News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/lovastatin/": [
@@ -4338,64 +4429,64 @@
     {
       "url": "/news/db00742/",
       "title": "MANNITOL News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/mannitol/",
       "title": "Mannitol News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/maraviroc/": [
     {
       "url": "/news/maraviroc/",
       "title": "Maraviroc News",
-      "count": 102
+      "count": 116
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/candidiasis/",
@@ -4439,22 +4530,22 @@
     {
       "url": "/news/db00603/",
       "title": "MEDROXYPROGESTERONE ACETATE News",
-      "count": 101
+      "count": 115
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/menopause/",
@@ -4476,121 +4567,133 @@
     {
       "url": "/news/megestrol_acetate/",
       "title": "Megestrol Acetate News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
+    },
+    {
+      "url": "/news/tumor/",
+      "title": "tumor News",
+      "count": 6
     },
     {
       "url": "/news/ovarian-cancer/",
       "title": "ovarian cancer News",
       "count": 6
-    },
-    {
-      "url": "/news/tumor/",
-      "title": "tumor News",
-      "count": 5
     }
   ],
   "/drugs/melphalan/": [
     {
       "url": "/news/db01042/",
       "title": "MELPHALAN News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/melphalan/",
       "title": "Melphalan News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
-    },
-    {
-      "url": "/news/tumor/",
-      "title": "tumor News",
-      "count": 5
-    },
-    {
-      "url": "/news/tumor/",
-      "title": "tumor News",
-      "count": 5
+      "count": 8
     },
     {
       "url": "/news/female-breast-carcinoma/",
       "title": "breast cancer (female breast carcinoma) News",
-      "count": 5
+      "count": 6
+    },
+    {
+      "url": "/news/tumor/",
+      "title": "tumor News",
+      "count": 6
+    },
+    {
+      "url": "/news/tumor/",
+      "title": "tumor News",
+      "count": 6
+    }
+  ],
+  "/drugs/mepolizumab/": [
+    {
+      "url": "/news/db06612/",
+      "title": "MEPOLIZUMAB News",
+      "count": 1
+    },
+    {
+      "url": "/news/mepolizumab/",
+      "title": "Mepolizumab News",
+      "count": 1
     }
   ],
   "/drugs/mercaptopurine/": [
     {
       "url": "/news/db01033/",
       "title": "MERCAPTOPURINE News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/mercaptopurine/",
       "title": "Mercaptopurine News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/small-cell-lung-carcinoma/",
       "title": "lung cancer (small cell lung carcinoma) News",
-      "count": 11
+      "count": 12
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/mesalazine/": [
@@ -4636,155 +4739,155 @@
     {
       "url": "/news/db00563/",
       "title": "METHOTREXATE News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/methotrexate/",
       "title": "Methotrexate News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/small-cell-lung-carcinoma/",
       "title": "lung cancer (small cell lung carcinoma) News",
-      "count": 11
+      "count": 12
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/methoxsalen/": [
     {
       "url": "/news/db00553/",
       "title": "METHOXSALEN News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/methoxsalen/",
       "title": "Methoxsalen News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/methylprednisolone/": [
     {
       "url": "/news/db00959/",
       "title": "METHYLPREDNISOLONE News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/metolazone/": [
     {
       "url": "/news/metolazone/",
       "title": "Metolazone News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/metoprolol/": [
     {
       "url": "/news/metoprolol/",
       "title": "Metoprolol News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/metronidazole/": [
@@ -4866,99 +4969,99 @@
     {
       "url": "/news/db00305/",
       "title": "MITOMYCIN News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/mitomycin/",
       "title": "Mitomycin News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/pancreatic-cancer/",
       "title": "pancreatic cancer News",
-      "count": 22
+      "count": 25
     },
     {
       "url": "/news/pancreas-cancer/",
       "title": "pancreatic cancer (pancreas cancer) News",
-      "count": 16
+      "count": 18
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/mitoxantrone/": [
     {
       "url": "/news/db01204/",
       "title": "MITOXANTRONE News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/mitoxantrone/",
       "title": "Mitoxantrone News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/small-cell-lung-carcinoma/",
       "title": "lung cancer (small cell lung carcinoma) News",
-      "count": 11
+      "count": 12
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/head-and-neck-cancer/",
@@ -4970,22 +5073,22 @@
     {
       "url": "/news/mometasone/",
       "title": "Mometasone News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/montelukast/": [
@@ -5031,44 +5134,44 @@
     {
       "url": "/news/moxifloxacin/",
       "title": "Moxifloxacin News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/moxonidine/": [
     {
       "url": "/news/moxonidine/",
       "title": "Moxonidine News",
-      "count": 101
+      "count": 115
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/alopecia/",
@@ -5155,22 +5258,22 @@
     {
       "url": "/news/natamycin/",
       "title": "Natamycin News",
-      "count": 101
+      "count": 115
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/menopause/",
@@ -5192,22 +5295,22 @@
     {
       "url": "/news/nebivolol/",
       "title": "Nebivolol News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/nepafenac/": [
@@ -5277,84 +5380,84 @@
     {
       "url": "/news/db04868/",
       "title": "NILOTINIB News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/nilotinib/",
       "title": "Nilotinib News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/nintedanib/": [
     {
       "url": "/news/db09079/",
       "title": "NINTEDANIB News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/nintedanib/",
       "title": "Nintedanib News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/nitric-oxide/": [
@@ -5434,152 +5537,164 @@
     {
       "url": "/news/db01059/",
       "title": "NORFLOXACIN News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/ofatumumab/": [
     {
       "url": "/news/db06650/",
       "title": "OFATUMUMAB News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/ofloxacin/": [
     {
       "url": "/news/db01165/",
       "title": "OFLOXACIN News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/olaparib/": [
     {
       "url": "/news/db09074/",
       "title": "OLAPARIB News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/oxaliplatin/": [
     {
       "url": "/news/db00526/",
       "title": "OXALIPLATIN News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/oxaliplatin/",
       "title": "Oxaliplatin News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
+    }
+  ],
+  "/drugs/oxcarbazepine/": [
+    {
+      "url": "/news/oxcarbazepine/",
+      "title": "Oxcarbazepine News",
+      "count": 1
+    },
+    {
+      "url": "/news/status-epilepticus/",
+      "title": "status epilepticus News",
+      "count": 1
     }
   ],
   "/drugs/paclitaxel/": [
     {
       "url": "/news/db01229/",
       "title": "PACLITAXEL News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/paclitaxel/",
@@ -5591,22 +5706,22 @@
     {
       "url": "/news/db01269/",
       "title": "PANITUMUMAB News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/papaverine/": [
@@ -5635,66 +5750,66 @@
     {
       "url": "/news/db06589/",
       "title": "PAZOPANIB News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/pegaspargase/": [
     {
       "url": "/news/db00059/",
       "title": "PEGASPARGASE News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/pembrolizumab/": [
     {
       "url": "/news/db09037/",
       "title": "PEMBROLIZUMAB News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/pembrolizumab/",
@@ -5706,88 +5821,88 @@
     {
       "url": "/news/db00642/",
       "title": "PEMETREXED News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/pertuzumab/": [
     {
       "url": "/news/db06366/",
       "title": "PERTUZUMAB News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/phenoxybenzamine/": [
     {
       "url": "/news/db00925/",
       "title": "PHENOXYBENZAMINE News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/plerixafor/": [
     {
       "url": "/news/db06809/",
       "title": "PLERIXAFOR News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/prasugrel/": [
@@ -5811,7 +5926,7 @@
     {
       "url": "/news/db00175/",
       "title": "PRAVASTATIN News",
-      "count": 33
+      "count": 34
     },
     {
       "url": "/news/cardiovascular/",
@@ -5821,22 +5936,22 @@
     {
       "url": "/news/stroke/",
       "title": "stroke News",
-      "count": 12
+      "count": 13
     },
     {
       "url": "/news/brain-attack/",
       "title": "stroke (brain attack) News",
-      "count": 12
+      "count": 13
     },
     {
       "url": "/news/paralysis/",
       "title": "stroke (paralysis) News",
-      "count": 12
+      "count": 13
     },
     {
       "url": "/news/lakwa/",
       "title": "stroke (lakwa) News",
-      "count": 12
+      "count": 13
     },
     {
       "url": "/news/heart-disease/",
@@ -5848,88 +5963,88 @@
     {
       "url": "/news/db00860/",
       "title": "PREDNISOLONE News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/primidone/": [
     {
       "url": "/news/primidone/",
       "title": "Primidone News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/procarbazine/": [
     {
       "url": "/news/db01168/",
       "title": "PROCARBAZINE News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/progesterone/": [
     {
       "url": "/news/db00396/",
       "title": "PROGESTERONE News",
-      "count": 102
+      "count": 116
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/progesterone/",
@@ -5973,22 +6088,22 @@
     {
       "url": "/news/db00571/",
       "title": "PROPRANOLOL News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/raloxifene/": [
@@ -6017,49 +6132,49 @@
     {
       "url": "/news/db00178/",
       "title": "RAMIPRIL News",
-      "count": 12
+      "count": 13
     },
     {
       "url": "/news/stroke/",
       "title": "stroke News",
-      "count": 12
+      "count": 13
     },
     {
       "url": "/news/brain-attack/",
       "title": "stroke (brain attack) News",
-      "count": 12
+      "count": 13
     },
     {
       "url": "/news/paralysis/",
       "title": "stroke (paralysis) News",
-      "count": 12
+      "count": 13
     },
     {
       "url": "/news/lakwa/",
       "title": "stroke (lakwa) News",
-      "count": 12
+      "count": 13
     }
   ],
   "/drugs/ramucirumab/": [
     {
       "url": "/news/db05578/",
       "title": "RAMUCIRUMAB News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/ranibizumab/": [
@@ -6078,22 +6193,22 @@
     {
       "url": "/news/db08896/",
       "title": "REGORAFENIB News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/reteplase/": [
@@ -6128,13 +6243,13 @@
   "/drugs/rivastigmine/": [
     {
       "url": "/news/dementia/",
-      "title": "memory loss (dementia) News",
-      "count": 28
+      "title": "alzheimer (dementia) News",
+      "count": 30
     },
     {
       "url": "/news/db00989/",
       "title": "RIVASTIGMINE News",
-      "count": 22
+      "count": 24
     },
     {
       "url": "/news/alzheimer/",
@@ -6156,7 +6271,7 @@
     {
       "url": "/news/db01098/",
       "title": "ROSUVASTATIN News",
-      "count": 33
+      "count": 34
     },
     {
       "url": "/news/cardiovascular/",
@@ -6166,22 +6281,22 @@
     {
       "url": "/news/stroke/",
       "title": "stroke News",
-      "count": 12
+      "count": 13
     },
     {
       "url": "/news/brain-attack/",
       "title": "stroke (brain attack) News",
-      "count": 12
+      "count": 13
     },
     {
       "url": "/news/paralysis/",
       "title": "stroke (paralysis) News",
-      "count": 12
+      "count": 13
     },
     {
       "url": "/news/lakwa/",
       "title": "stroke (lakwa) News",
-      "count": 12
+      "count": 13
     },
     {
       "url": "/news/heart-disease/",
@@ -6193,44 +6308,44 @@
     {
       "url": "/news/db08877/",
       "title": "RUXOLITINIB News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/secnidazole/": [
     {
       "url": "/news/secnidazole/",
       "title": "Secnidazole News",
-      "count": 101
+      "count": 115
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/menopause/",
@@ -6271,7 +6386,7 @@
     {
       "url": "/news/db00641/",
       "title": "SIMVASTATIN News",
-      "count": 33
+      "count": 34
     },
     {
       "url": "/news/cardiovascular/",
@@ -6281,22 +6396,22 @@
     {
       "url": "/news/stroke/",
       "title": "stroke News",
-      "count": 12
+      "count": 13
     },
     {
       "url": "/news/brain-attack/",
       "title": "stroke (brain attack) News",
-      "count": 12
+      "count": 13
     },
     {
       "url": "/news/paralysis/",
       "title": "stroke (paralysis) News",
-      "count": 12
+      "count": 13
     },
     {
       "url": "/news/lakwa/",
       "title": "stroke (lakwa) News",
-      "count": 12
+      "count": 13
     },
     {
       "url": "/news/heart-disease/",
@@ -6308,91 +6423,91 @@
     {
       "url": "/news/db00877/",
       "title": "SIROLIMUS News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/sorafenib/": [
     {
       "url": "/news/db00398/",
       "title": "SORAFENIB News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/sorafenib/",
       "title": "Sorafenib News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/sotalol/": [
     {
       "url": "/news/sotalol/",
       "title": "Sotalol News",
-      "count": 12
+      "count": 13
     },
     {
       "url": "/news/stroke/",
       "title": "stroke News",
-      "count": 12
+      "count": 13
     },
     {
       "url": "/news/brain-attack/",
       "title": "stroke (brain attack) News",
-      "count": 12
+      "count": 13
     },
     {
       "url": "/news/paralysis/",
       "title": "stroke (paralysis) News",
-      "count": 12
+      "count": 13
     },
     {
       "url": "/news/lakwa/",
       "title": "stroke (lakwa) News",
-      "count": 12
+      "count": 13
     }
   ],
   "/drugs/streptokinase/": [
@@ -6416,115 +6531,115 @@
     {
       "url": "/news/db01268/",
       "title": "SUNITINIB News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/tamoxifen/": [
     {
       "url": "/news/db00675/",
       "title": "TAMOXIFEN News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/tegafur/": [
     {
       "url": "/news/db09256/",
       "title": "TEGAFUR News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/telmisartan/": [
     {
       "url": "/news/db00966/",
       "title": "TELMISARTAN News",
-      "count": 12
+      "count": 13
     },
     {
       "url": "/news/stroke/",
       "title": "stroke News",
-      "count": 12
+      "count": 13
     },
     {
       "url": "/news/brain-attack/",
       "title": "stroke (brain attack) News",
-      "count": 12
+      "count": 13
     },
     {
       "url": "/news/paralysis/",
       "title": "stroke (paralysis) News",
-      "count": 12
+      "count": 13
     },
     {
       "url": "/news/lakwa/",
       "title": "stroke (lakwa) News",
-      "count": 12
+      "count": 13
     }
   ],
   "/drugs/temsirolimus/": [
     {
       "url": "/news/db06287/",
       "title": "TEMSIROLIMUS News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/tenecteplase/": [
@@ -6587,254 +6702,254 @@
     {
       "url": "/news/db09343/",
       "title": "TIPIRACIL News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/topiramate/": [
     {
       "url": "/news/topiramate/",
       "title": "Topiramate News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/topotecan/": [
     {
       "url": "/news/db01030/",
       "title": "TOPOTECAN News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/trabectedin/": [
     {
       "url": "/news/db05109/",
       "title": "TRABECTEDIN News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/trametinib/": [
     {
       "url": "/news/db08911/",
       "title": "TRAMETINIB News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/trastuzumab/": [
     {
       "url": "/news/db00072/",
       "title": "TRASTUZUMAB News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/tretinoin/": [
     {
       "url": "/news/db00755/",
       "title": "TRETINOIN News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/triamcinolone/": [
     {
       "url": "/news/db00620/",
       "title": "TRIAMCINOLONE News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/tulobuterol/": [
     {
       "url": "/news/tulobuterol/",
       "title": "Tulobuterol News",
-      "count": 10
+      "count": 12
     },
     {
       "url": "/news/chronic-obstructive-pulmonary-disease/",
       "title": "COPD (chronic obstructive pulmonary disease) News",
-      "count": 10
+      "count": 12
     }
   ],
   "/drugs/valproic-acid/": [
     {
       "url": "/news/valproic_acid/",
       "title": "Valproic Acid News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/valsartan/": [
     {
       "url": "/news/valsartan/",
       "title": "Valsartan News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/vandetanib/": [
     {
       "url": "/news/db05294/",
       "title": "VANDETANIB News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/verapamil/": [
@@ -6858,78 +6973,78 @@
     {
       "url": "/news/db00570/",
       "title": "VINBLASTINE News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/vincristine/": [
     {
       "url": "/news/db00541/",
       "title": "VINCRISTINE News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/vinorelbine/": [
     {
       "url": "/news/db00361/",
       "title": "VINORELBINE News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
-      "count": 100
+      "count": 114
     },
     {
       "url": "/news/tumour/",
       "title": "tumour News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/tumor/",
       "title": "tumor News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/vinpocetine/": [
     {
       "url": "/news/dementia/",
-      "title": "memory loss (dementia) News",
-      "count": 28
+      "title": "alzheimer (dementia) News",
+      "count": 30
     },
     {
       "url": "/news/db12131/",
       "title": "VINPOCETINE News",
-      "count": 22
+      "count": 24
     },
     {
       "url": "/news/alzheimer/",

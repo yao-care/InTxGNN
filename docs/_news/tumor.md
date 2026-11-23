@@ -3,9 +3,9 @@ layout: default
 title: "tumor News"
 parent: Health News
 nav_exclude: true
-description: "Health news about tumor. 5 articles, 228 related drugs."
+description: "Health news about tumor. 6 articles, 228 related drugs."
 permalink: /news/tumor/
-last_modified_at: 2026-11-22
+last_modified_at: 2026-11-23
 ---
 
 # tumor News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="What news is there about tumor?">
-<strong>tumor</strong> currently has <strong>5 news articles</strong> and 228 related drugs.
+<strong>tumor</strong> currently has <strong>6 news articles</strong> and 228 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -236,7 +236,7 @@ This page brings together the latest health news about “tumor” and lists the
 </ul>
 </div>
 
-## Related News (5)
+## Related News (6)
 
 ### [Can a Blood Test Detect Cancer? CBC, Tumor Markers, ctDNA, and Multi-Cancer Tests](https://news.google.com/rss/articles/CBMickFVX3lxTE41VEIyWVA4ckE2cV9wM0lpa0ttT3Y4ZmJ5anhfQlNJV0k0Z3NzeHRkbXExWU1ZY3VWdEstTzB1S055WkNaWnF1V2ZVMVZNcjg4MElVV1Z3YWNIVkw1T1RSczBucV9PRGNBWjBYNDhnZUtYdw?oc=5)
 
@@ -275,6 +275,14 @@ Source: [ThePrint](https://news.google.com/rss/articles/CBMipwFBVV95cUxOdTZ1R1NR
 2026-11-19
 
 Source: [News-Medical](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWnhUUGtDOFlBYU1WX1hDbUlvVS1Jb3Z6U2djbEF0Skx1czVzQlY0cW1tTGR6VnY3WDA2TGp5UXBKRURDNTliRnpFeFVma0FVbmRoZnlIVmZHMV9Ed1l1Z1F2bEI0MWY3U0lIQVhDR1VKNmNpOEktRXVNQVFaOUdUVXlDM1dMWGRsQ2RaN0J2M0x4SGdlbnpwajNSbWNubTVQemRrTXRQOFp2NUp5MFZvUzlvMllfMWYy?oc=5)
+
+---
+
+### [Medical Imaging and Pediatric and Adolescent Brain Tumor Risk](https://news.google.com/rss/articles/CBMiaEFVX3lxTFA4ZFF2b05jblpIZk4zWVEzT0RvSDFkM2xuVC1jdFhYcDAxeDktNWtPb1hsaHk2RVRSdjhqaWIySndENWFOWlA4NlFIQ1JYNF9mMFFHNWo5T3ctWVk0R0Jya05YY3FDdlo3?oc=5)
+
+2026-11-19
+
+Source: [JAMA](https://news.google.com/rss/articles/CBMiaEFVX3lxTFA4ZFF2b05jblpIZk4zWVEzT0RvSDFkM2xuVC1jdFhYcDAxeDktNWtPb1hsaHk2RVRSdjhqaWIySndENWFOWlA4NlFIQ1JYNF9mMFFHNWo5T3ctWVk0R0Jya05YY3FDdlo3?oc=5)
 
 ---
 

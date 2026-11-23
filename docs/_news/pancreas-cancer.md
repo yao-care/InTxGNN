@@ -3,7 +3,7 @@ layout: default
 title: "pancreatic cancer (pancreas cancer) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about pancreatic cancer (pancreas cancer). 16 articles, 1 related drugs."
+description: "Health news about pancreatic cancer (pancreas cancer). 18 articles, 1 related drugs."
 permalink: /news/pancreas-cancer/
 last_modified_at: 2026-11-23
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-23
 ---
 
 <p class="key-answer" data-question="What news is there about pancreatic cancer (pancreas cancer)?">
-<strong>pancreatic cancer (pancreas cancer)</strong> currently has <strong>16 news articles</strong> and 1 related drugs.
+<strong>pancreatic cancer (pancreas cancer)</strong> currently has <strong>18 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,23 @@ This page brings together the latest health news about “pancreatic cancer” a
 </ul>
 </div>
 
-## Related News (16)
+## Related News (18)
+
+### [Daraxonrasib Plus Chemo Yields 60.7% Response Rate in First-Line PDAC - Oncology Nursing News](https://news.google.com/rss/articles/CBMipwFBVV95cUxOTDBJZzVtSkQxVmllZ2VnNU1YempxTTB4NGRyaVpPWHNaVmc4Qk1GTjVRTEhJWkNEVi10Ym5MR2haZmlZRHBFUHZ0OS1TRDZaS0VBY0Q2SC1JRk13aHBXTjJMcjFyM0NWZ2pwS2M3ZG5INDF4U09sNXVpUmhHeTAzMkQ3RWRZU1I3VWFhTExPQnJaWW53ZjZxSDBmNjVBUElGOG9LOTRsVQ?oc=5)
+
+2026-11-23
+
+Source: [Oncology Nursing News](https://news.google.com/rss/articles/CBMipwFBVV95cUxOTDBJZzVtSkQxVmllZ2VnNU1YempxTTB4NGRyaVpPWHNaVmc4Qk1GTjVRTEhJWkNEVi10Ym5MR2haZmlZRHBFUHZ0OS1TRDZaS0VBY0Q2SC1JRk13aHBXTjJMcjFyM0NWZ2pwS2M3ZG5INDF4U09sNXVpUmhHeTAzMkQ3RWRZU1I3VWFhTExPQnJaWW53ZjZxSDBmNjVBUElGOG9LOTRsVQ?oc=5)
+
+---
+
+### [Yellow eyes or unexplained weight loss: Warning signs of pancreatic cancer that need attention | Health - Hindustan Times](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPY2lkMjRUdUFPZWdGazJjNnZoaTZEQlMtaWFidlBDSEFuM3NoVG9USllwR1ZVdUVOTENLM1JqZ0h3bVFHZlh0QnlLY2JRYUJlS0FmNVVTRG9tZk9ET1pzV3RZUEh0LVloYVZqaHBhaVROWkpXWktMSERSSVlPcnY3ZDl1N1R5cWdzRHVYdUt0V2JVNXFUd0N1UWltWV8tMnpKNG1pYXhHWGxrMVpXdjZFZmNsdGU5MENCTjUtdkEzM3BQdUNRZjllT1RHT3ppVllnUVgzQlFDUjVIdHh2REgzcmF4YlpIQWxwQ3lXMHRvbXNtTml50gH6AUFVX3lxTFBTSEJpTnhTbXZjQ3BnVi1ZSkxjbVU2Y2xMLVhmOEwwYk51M2FQdUJTSlMwSVpZdXVFdzhLUTUwS2FVelpvMGJ5U2pvaDl4Nk91VlNyZzdTdHBoQ0lBaGxMR2YyazFwT0NyWXBtOWRwZFE2Yk1mUnJ6bzBZSkE1X0ZOY2ZLa1FsU0x3WmZCeHVpczc1N0xYNGd3S1VrTktKd0pUak5ZMDhLNTNFZWN0LVFfYnpjQzBZQ2tYMkxtRkx4OXJFOUE3OV9CS0dCay1OVk9xeUg4eVpGb2VjWXpRWHcyd2V0Z1d0dkdaTVVwdTlPdHhJc1k0UmpxVHc?oc=5)
+
+2026-11-23
+
+Source: [Hindustan Times](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPY2lkMjRUdUFPZWdGazJjNnZoaTZEQlMtaWFidlBDSEFuM3NoVG9USllwR1ZVdUVOTENLM1JqZ0h3bVFHZlh0QnlLY2JRYUJlS0FmNVVTRG9tZk9ET1pzV3RZUEh0LVloYVZqaHBhaVROWkpXWktMSERSSVlPcnY3ZDl1N1R5cWdzRHVYdUt0V2JVNXFUd0N1UWltWV8tMnpKNG1pYXhHWGxrMVpXdjZFZmNsdGU5MENCTjUtdkEzM3BQdUNRZjllT1RHT3ppVllnUVgzQlFDUjVIdHh2REgzcmF4YlpIQWxwQ3lXMHRvbXNtTml50gH6AUFVX3lxTFBTSEJpTnhTbXZjQ3BnVi1ZSkxjbVU2Y2xMLVhmOEwwYk51M2FQdUJTSlMwSVpZdXVFdzhLUTUwS2FVelpvMGJ5U2pvaDl4Nk91VlNyZzdTdHBoQ0lBaGxMR2YyazFwT0NyWXBtOWRwZFE2Yk1mUnJ6bzBZSkE1X0ZOY2ZLa1FsU0x3WmZCeHVpczc1N0xYNGd3S1VrTktKd0pUak5ZMDhLNTNFZWN0LVFfYnpjQzBZQ2tYMkxtRkx4OXJFOUE3OV9CS0dCay1OVk9xeUg4eVpGb2VjWXpRWHcyd2V0Z1d0dkdaTVVwdTlPdHhJc1k0UmpxVHc?oc=5)
+
+---
 
 ### [Julie Fleshman Calls for Greater Pancreatic Cancer Research Investment on World Pancreatic Cancer Day](https://news.google.com/rss/articles/CBMie0FVX3lxTE5OdUx6QkRPZk0wdUxRbkdKVThRQkk5SGZ5Z2gxNnRsWDEybFhrNUkzdHQxTk42ZG1jdWJGMlBKWmtIYlliWnI5a2plUUxMcmtHd3RCVWhSTi1EYVMxb0R5RG9nSTBBbE1oME9XN0pKeHFtNENyMy1ETXpFSQ?oc=5)
 

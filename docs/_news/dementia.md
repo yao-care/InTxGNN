@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "memory loss (dementia) News"
+title: "alzheimer (dementia) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about memory loss (dementia). 28 articles, 8 related drugs."
+description: "Health news about alzheimer (dementia). 30 articles, 8 related drugs."
 permalink: /news/dementia/
-last_modified_at: 2026-11-22
+last_modified_at: 2026-11-23
 ---
 
-# memory loss (dementia) News
+# alzheimer (dementia) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about memory loss (dementia)?">
-<strong>memory loss (dementia)</strong> currently has <strong>28 news articles</strong> and 8 related drugs.
+<p class="key-answer" data-question="What news is there about alzheimer (dementia)?">
+<strong>alzheimer (dementia)</strong> currently has <strong>30 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “memory loss” and lists the drugs in the InTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “alzheimer” and lists the drugs in the InTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -37,7 +37,23 @@ This page brings together the latest health news about “memory loss” and lis
 </ul>
 </div>
 
-## Related News (28)
+## Related News (30)
+
+### [Lecanemab Linked to Changes in 12 Blood Proteins in Alzheimer’s](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMmpCZDRVUlkzNFZTYWk0enpYSGIwcXczNHREWDVkSWJfdGt1N21FX3lncS1jUU40c3NIWDZyR0RncWd1ai1ZR2hZN0Y0Yy1TckxWakFkYlJ2cktTbk5UM1cyMlMxeFlJWlctNHlRdXkza0thSk9PY2tqTGV3aElyZVlVWFZDeXY1Y1RFdUtET0hIZjdlRnBrR1hRSGx3ZDgzRENVcFlPZDk?oc=5)
+
+2026-11-23
+
+Source: [EMJ](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMmpCZDRVUlkzNFZTYWk0enpYSGIwcXczNHREWDVkSWJfdGt1N21FX3lncS1jUU40c3NIWDZyR0RncWd1ai1ZR2hZN0Y0Yy1TckxWakFkYlJ2cktTbk5UM1cyMlMxeFlJWlctNHlRdXkza0thSk9PY2tqTGV3aElyZVlVWFZDeXY1Y1RFdUtET0hIZjdlRnBrR1hRSGx3ZDgzRENVcFlPZDk?oc=5)
+
+---
+
+### [Type 2 Diabetes Linked to Increased Risk for Alzheimer Disease - Psychiatry Advisor](https://news.google.com/rss/articles/CBMipAFBVV95cUxNeFp2WktwbjZPakxHcnZiRmhWc0xCZ1REMXVMNlY2OVVBc2xxVUFFQUFjdDJobDRvZU53QkxSOWFSMlhwZ2lBdFF6WjBhOTVJb28yUFVxX1QyckRkMHQ4SW9HVHJVWnA5TUhfeFVybXdtY3BrYWlQVmtoU3l6MkxtbERBTEJBQUNGRzV4OElmVllZVzkxNEZ1anZUNVozS2g2cDdIUg?oc=5)
+
+2026-11-23
+
+Source: [Psychiatry Advisor](https://news.google.com/rss/articles/CBMipAFBVV95cUxNeFp2WktwbjZPakxHcnZiRmhWc0xCZ1REMXVMNlY2OVVBc2xxVUFFQUFjdDJobDRvZU53QkxSOWFSMlhwZ2lBdFF6WjBhOTVJb28yUFVxX1QyckRkMHQ4SW9HVHJVWnA5TUhfeFVybXdtY3BrYWlQVmtoU3l6MkxtbERBTEJBQUNGRzV4OElmVllZVzkxNEZ1anZUNVozS2g2cDdIUg?oc=5)
+
+---
 
 ### [Resistance training could help boost brain health and confidence in older adults - The Conversation](https://news.google.com/rss/articles/CBMitgFBVV95cUxQTWhkaTZ4Y0p1ekJGTlFhaDhxbFVsZ2oyTmozdkdSVVF4WEQ3RWo3enBoVWN2akMzVVQwRFBlQUdBaktNdkhVUHcyT3cxVDgxWl9HbWw5eGlRRlJVdlZ1YWJJN1l5VzR6dlQ4TW9hU0VpSGp4X08wcThXNzkzOTFyUElaMU5rRDF3MVI4QzdBWUN6cEluemgwbTZ1RmllczJSRGEySmJTc21tcl9hVC1nQV96M2pSdw?oc=5)
 

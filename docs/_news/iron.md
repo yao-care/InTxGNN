@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Iron. 5 predicted indications."
 permalink: /news/iron/
-last_modified_at: 2026-11-22
+last_modified_at: 2026-11-23
 ---
 
 # Iron News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="What news is there about Iron?">
-<strong>Iron</strong> currently has <strong>6 news articles</strong>, with 5 predicted indications.
+<strong>Iron</strong> currently has <strong>7 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,15 @@ This page combines the AI-predicted indications for Iron with the latest health 
 <p><a href="{{ '/drugs/iron/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (6)
+## Related News (7)
+
+### [Association between iron status and gallstone disease: a systematic review and meta-analysis](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ya3lmX21rUlp3R3o1WWx0THgxZkE3dUtDaUZ3OElBaEhfV3hwWXc2OXNvLXdnLTh1T2JUN0xHN2ViSlJhQTY1Z0xjUXNmTzhUREdJTGgwVS1HTHhoa1VV?oc=5)
+
+2026-11-23 <span class="news-drug-tag">IRON</span> <span class="news-drug-tag">Iron</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ya3lmX21rUlp3R3o1WWx0THgxZkE3dUtDaUZ3OElBaEhfV3hwWXc2OXNvLXdnLTh1T2JUN0xHN2ViSlJhQTY1Z0xjUXNmTzhUREdJTGgwVS1HTHhoa1VV?oc=5)
+
+---
 
 ### [Assam hospitals feature in study linking anaemia to higher heart failure risk during pregnancy](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRXF4NkRncG1KRmk4LTdiQUJLdGx4SDA5YVB2RnNFeTlVZHFyRzJXVzd2YlU3T1hYdldjRm9CZXFWWkJOWVk5MWlxOURSLUlXSlhSclNkX01nZTZVT2xsNmNBNUZyV015Tks4WDNrV1Z3N1lfWWZwOU9zTU9PN2lXakpDSGM1WVphT1FyVDZuWl9PbjhjQWVOTlMya1RVRFB2MXlTUWwtcnJFUVZKbE55azNsRjUyNVpXbFBNS0FFWVM4Q0J5SnpjaWpOeWxWQ01aRUlqRNIB1AFBVV95cUxNSldzcEoyNmxUQlZKWldITTJvQW40VGFTd3pvZWFlZkJ2VUpFZ2VLbEFzZ24zSTVqSElCUlcyU1VKeWVab1d5WjZOV3RfQVhtZTEyZFpfeXNMdDdlbEhldFZKSmRPdVlweUhGbFJiZTZXaW9VcldJb1dBSHc2SFc2b2hjVlQ3b20tY0NBYXBpUjNQWkJ0RzM5NTFjbFpEa1NMZEp1aHlDMldyZWFWRkRJSTJlMHh4NXpQR2tEWXJJNGdURjJ4N3A1TURCSmxhUHNvRUlNMA?oc=5)
 
