@@ -3,9 +3,9 @@ layout: default
 title: "tumour News"
 parent: Health News
 nav_exclude: true
-description: "Health news about tumour. 8 articles, 228 related drugs."
+description: "Health news about tumour. 9 articles, 228 related drugs."
 permalink: /news/tumour/
-last_modified_at: 2026-11-23
+last_modified_at: 2026-11-24
 ---
 
 # tumour News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-23
 ---
 
 <p class="key-answer" data-question="What news is there about tumour?">
-<strong>tumour</strong> currently has <strong>8 news articles</strong> and 228 related drugs.
+<strong>tumour</strong> currently has <strong>9 news articles</strong> and 228 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -236,7 +236,15 @@ This page brings together the latest health news about “tumour” and lists th
 </ul>
 </div>
 
-## Related News (8)
+## Related News (9)
+
+### [EC Approves Daraxonrasib for Previously Treated Metastatic Pancreatic Cancer](https://news.google.com/rss/articles/CBMisAFBVV95cUxPakFneU1NcTF0WEYwYXg5MkpjdmNXZ3dIb0JKVllrbVdyZ3FjbEpjUDB3c3ZvY2k0STF3Nmd5cGtRc1FqazNZZVlpWUNReEdTRG43Ry1waFprdW9VMjNLaWozcHQyOGFRbmRvTmVpU1JfUFRiMHA5Vk9aQjlwTUJtR0Zlb1NhRDFKUUU2cnVmdnN0dDVHQ1JnUnI5TWZIdFZfNmNYd1pRbVJoOTA2MnpjWQ?oc=5)
+
+2026-11-23
+
+Source: [CancerNetwork](https://news.google.com/rss/articles/CBMisAFBVV95cUxPakFneU1NcTF0WEYwYXg5MkpjdmNXZ3dIb0JKVllrbVdyZ3FjbEpjUDB3c3ZvY2k0STF3Nmd5cGtRc1FqazNZZVlpWUNReEdTRG43Ry1waFprdW9VMjNLaWozcHQyOGFRbmRvTmVpU1JfUFRiMHA5Vk9aQjlwTUJtR0Zlb1NhRDFKUUU2cnVmdnN0dDVHQ1JnUnI5TWZIdFZfNmNYd1pRbVJoOTA2MnpjWQ?oc=5)
+
+---
 
 ### [Daraxonrasib Plus Chemo Yields 60.7% Response Rate in First-Line PDAC - Oncology Nursing News](https://news.google.com/rss/articles/CBMipwFBVV95cUxOTDBJZzVtSkQxVmllZ2VnNU1YempxTTB4NGRyaVpPWHNaVmc4Qk1GTjVRTEhJWkNEVi10Ym5MR2haZmlZRHBFUHZ0OS1TRDZaS0VBY0Q2SC1JRk13aHBXTjJMcjFyM0NWZ2pwS2M3ZG5INDF4U09sNXVpUmhHeTAzMkQ3RWRZU1I3VWFhTExPQnJaWW53ZjZxSDBmNjVBUElGOG9LOTRsVQ?oc=5)
 

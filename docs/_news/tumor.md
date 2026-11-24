@@ -3,9 +3,9 @@ layout: default
 title: "tumor News"
 parent: Health News
 nav_exclude: true
-description: "Health news about tumor. 6 articles, 228 related drugs."
+description: "Health news about tumor. 7 articles, 228 related drugs."
 permalink: /news/tumor/
-last_modified_at: 2026-11-23
+last_modified_at: 2026-11-24
 ---
 
 # tumor News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-23
 ---
 
 <p class="key-answer" data-question="What news is there about tumor?">
-<strong>tumor</strong> currently has <strong>6 news articles</strong> and 228 related drugs.
+<strong>tumor</strong> currently has <strong>7 news articles</strong> and 228 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -236,7 +236,15 @@ This page brings together the latest health news about “tumor” and lists the
 </ul>
 </div>
 
-## Related News (6)
+## Related News (7)
+
+### [Strand Life Sciences Plans to Expand Multi-Cancer Blood Test to More Hospitals, Reduce Costs - The Indian Practitioner](https://news.google.com/rss/articles/CBMixAFBVV95cUxNN2hwM1cwWElKRlRla2MxcUtlcjJrN2NwekhNQUJjNzMwN1ZTa25rcEdRSzN5LTUtT2pRYWU0YmZXamZ1R2xsbHlZQ2dacUtlbllTYUQ3MWdUVjBFYWJlbVVsaGRHVldTQ0pYa29nZU40QWYwNlc4QVhvRXVIY2o4bEN4V3FMbnF2aENscnZ3ZDJiTnh6dEZuSUpMVU5TQnRWd0tRdXRSTUZzU2tiMFFYTkJWMkpZUFZOWksxbUZOcElwdEw2?oc=5)
+
+2026-11-23
+
+Source: [The Indian Practitioner](https://news.google.com/rss/articles/CBMixAFBVV95cUxNN2hwM1cwWElKRlRla2MxcUtlcjJrN2NwekhNQUJjNzMwN1ZTa25rcEdRSzN5LTUtT2pRYWU0YmZXamZ1R2xsbHlZQ2dacUtlbllTYUQ3MWdUVjBFYWJlbVVsaGRHVldTQ0pYa29nZU40QWYwNlc4QVhvRXVIY2o4bEN4V3FMbnF2aENscnZ3ZDJiTnh6dEZuSUpMVU5TQnRWd0tRdXRSTUZzU2tiMFFYTkJWMkpZUFZOWksxbUZOcElwdEw2?oc=5)
+
+---
 
 ### [Can a Blood Test Detect Cancer? CBC, Tumor Markers, ctDNA, and Multi-Cancer Tests](https://news.google.com/rss/articles/CBMickFVX3lxTE41VEIyWVA4ckE2cV9wM0lpa0ttT3Y4ZmJ5anhfQlNJV0k0Z3NzeHRkbXExWU1ZY3VWdEstTzB1S055WkNaWnF1V2ZVMVZNcjg4MElVV1Z3YWNIVkw1T1RSczBucV9PRGNBWjBYNDhnZUtYdw?oc=5)
 

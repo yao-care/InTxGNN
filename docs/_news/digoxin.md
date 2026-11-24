@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Digoxin. 5 predicted indications."
 permalink: /news/digoxin/
-last_modified_at: 2026-11-23
+last_modified_at: 2026-11-24
 ---
 
 # Digoxin News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-23
 ---
 
 <p class="key-answer" data-question="What news is there about Digoxin?">
-<strong>Digoxin</strong> currently has <strong>13 news articles</strong>, with 5 predicted indications.
+<strong>Digoxin</strong> currently has <strong>14 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,15 @@ This page combines the AI-predicted indications for Digoxin with the latest heal
 <p><a href="{{ '/drugs/digoxin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (13)
+## Related News (14)
+
+### [Early warning signs predict heart attack and stroke decades ahead](https://news.google.com/rss/articles/CBMiswFBVV95cUxOelp0SGtKc3hjcUN1eV9TbXdRajZtLXhvMVhsb0FfREN4S3prWXpTUXc0a25sYk5SM3E0U3QyOHBldUlPYzV3ZEVlekptUzVNYlc0TERNcEE2Y01pNlpseXdjbEFjUldQV3lKY04xdUFYYmFwYjJxZFViYTFEbXNfU3prTzJiUTRyY0tWRzNxZHFQZm9kc1JubndDWmtSc1NVZGwzZGR6Q2JreFROcTMxYU5FUQ?oc=5)
+
+2026-11-23 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMiswFBVV95cUxOelp0SGtKc3hjcUN1eV9TbXdRajZtLXhvMVhsb0FfREN4S3prWXpTUXc0a25sYk5SM3E0U3QyOHBldUlPYzV3ZEVlekptUzVNYlc0TERNcEE2Y01pNlpseXdjbEFjUldQV3lKY04xdUFYYmFwYjJxZFViYTFEbXNfU3prTzJiUTRyY0tWRzNxZHFQZm9kc1JubndDWmtSc1NVZGwzZGR6Q2JreFROcTMxYU5FUQ?oc=5)
+
+---
 
 ### [Migraine Plus Smoking Tied to Higher Stroke Risk in Women](https://news.google.com/rss/articles/CBMirgFBVV95cUxNNnZOVzB4bU1NYzc3R250MkJHc1JEUVRvQjdiNk0tR3BKcG4yZDZxWHA3RU42UHJFUUFQb3J6bGowc2tIVlE4SVlFRC1xQjFObTJzbWo1cE9DekpNRmhsZVJ2VkVuVk9oSGZWRi1WNy1SSVNxSU1BV05OckdTRHVwZmdONlVJa01KNzB3dGt2VjZtenVVTDhsTzlBUnBjT3lLbkNEMFFpV2FZNXhtZWc?oc=5)
 

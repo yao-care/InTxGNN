@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Entacapone. 10 predicted indications."
 permalink: /news/entacapone/
-last_modified_at: 2026-11-23
+last_modified_at: 2026-11-24
 ---
 
 # Entacapone News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-23
 ---
 
 <p class="key-answer" data-question="What news is there about Entacapone?">
-<strong>Entacapone</strong> currently has <strong>24 news articles</strong>, with 10 predicted indications.
+<strong>Entacapone</strong> currently has <strong>25 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ This page combines the AI-predicted indications for Entacapone with the latest h
 <p><a href="{{ '/drugs/entacapone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (24)
+## Related News (25)
 
 ### [Lecanemab Linked to Changes in 12 Blood Proteins in Alzheimer’s](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMmpCZDRVUlkzNFZTYWk0enpYSGIwcXczNHREWDVkSWJfdGt1N21FX3lncS1jUU40c3NIWDZyR0RncWd1ai1ZR2hZN0Y0Yy1TckxWakFkYlJ2cktTbk5UM1cyMlMxeFlJWlctNHlRdXkza0thSk9PY2tqTGV3aElyZVlVWFZDeXY1Y1RFdUtET0hIZjdlRnBrR1hRSGx3ZDgzRENVcFlPZDk?oc=5)
 
 2026-11-23 <span class="news-indication-tag">alzheimer</span>
 
 Source: [EMJ](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMmpCZDRVUlkzNFZTYWk0enpYSGIwcXczNHREWDVkSWJfdGt1N21FX3lncS1jUU40c3NIWDZyR0RncWd1ai1ZR2hZN0Y0Yy1TckxWakFkYlJ2cktTbk5UM1cyMlMxeFlJWlctNHlRdXkza0thSk9PY2tqTGV3aElyZVlVWFZDeXY1Y1RFdUtET0hIZjdlRnBrR1hRSGx3ZDgzRENVcFlPZDk?oc=5)
+
+---
+
+### [Study reveals that type 2 Diabetes may increase the risk of Alzheimer’s disease by 53% - The Times of India](https://news.google.com/rss/articles/CBMigAJBVV95cUxNN1B5YnJlUks4WFR1R2pORVlHd0FLUjZpNjlMQkZZTnlsX01SOFAyckVMVHBhQ1VHVHFuYmdEak5pYW1LN3ptV3VOTGhrem9ueGdoWU93NXhZSXVhQVUyWmxadGJzVTI5NmcxaWN5TkhiM2p6NFJfR0dLQzBnM2tSdjlfVjNCSWpieHpIa0sydjZWempsLV9KS3FMX0ZTeC1KeWU2eXJkNnZDSjdOMDFfX3dRanpSN2tsZGpnZWRKUWtodlZFeXVGSVBrRlVZR2w4UWMtNW9Rd2VpOHBjRHVNMU5hUEE0YW5nTmp5TjQ2YnZuMnNCLWd2cFNpVUVwVjRH0gGGAkFVX3lxTE5sU0RtekpmR2lrQllUN0FMeF9MYkxvMUtCLV9MTk53UXZLazZyRjlveDZjVDBIVFhlYWJETVBiRkpoYU1uTEg4UmZVZnR5QTlvZUJNTFREaDlZcE5KUFZOQUotZTVTWm5hbmQ2T25EdThzcGN5dHRRVjF5LWktczR5Qkk1blVaSU9xTUpLSUF4X2k0NEkzbW5SRmd6S3hOVnIyY2V5TERNeFNRd2dwb0h0Q3cwN0czZVUtWGY1ajg2X1lyWldvWGw3RnRHYjdWMG1xcm81S3JHXzNYQjA4RzVtaGhiVF94R2RRTzhWRUU3Tzc4dERHRkxWazFmMWoybnhTMWpBSEE?oc=5)
+
+2026-11-23 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">alzheimer</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
+
+Source: [The Times of India](https://news.google.com/rss/articles/CBMigAJBVV95cUxNN1B5YnJlUks4WFR1R2pORVlHd0FLUjZpNjlMQkZZTnlsX01SOFAyckVMVHBhQ1VHVHFuYmdEak5pYW1LN3ptV3VOTGhrem9ueGdoWU93NXhZSXVhQVUyWmxadGJzVTI5NmcxaWN5TkhiM2p6NFJfR0dLQzBnM2tSdjlfVjNCSWpieHpIa0sydjZWempsLV9KS3FMX0ZTeC1KeWU2eXJkNnZDSjdOMDFfX3dRanpSN2tsZGpnZWRKUWtodlZFeXVGSVBrRlVZR2w4UWMtNW9Rd2VpOHBjRHVNMU5hUEE0YW5nTmp5TjQ2YnZuMnNCLWd2cFNpVUVwVjRH0gGGAkFVX3lxTE5sU0RtekpmR2lrQllUN0FMeF9MYkxvMUtCLV9MTk53UXZLazZyRjlveDZjVDBIVFhlYWJETVBiRkpoYU1uTEg4UmZVZnR5QTlvZUJNTFREaDlZcE5KUFZOQUotZTVTWm5hbmQ2T25EdThzcGN5dHRRVjF5LWktczR5Qkk1blVaSU9xTUpLSUF4X2k0NEkzbW5SRmd6S3hOVnIyY2V5TERNeFNRd2dwb0h0Q3cwN0czZVUtWGY1ajg2X1lyWldvWGw3RnRHYjdWMG1xcm81S3JHXzNYQjA4RzVtaGhiVF94R2RRTzhWRUU3Tzc4dERHRkxWazFmMWoybnhTMWpBSEE?oc=5)
 
 ---
 

@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Nepafenac. 10 predicted indications."
 permalink: /news/nepafenac/
-last_modified_at: 2026-11-18
+last_modified_at: 2026-11-24
 ---
 
 # Nepafenac News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about Nepafenac?">
-<strong>Nepafenac</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
+<strong>Nepafenac</strong> currently has <strong>2 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ This page combines the AI-predicted indications for Nepafenac with the latest he
 <p><a href="{{ '/drugs/nepafenac/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [Best disease-associated choroidal neovascularisation in children: A collaborative perspective from the European Reference Network for Rare Eye Diseases (ERN-EYE)](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9WaGpkY2xGY2FXb0hQYnItSHUxQlpOcFo5c3k3WTNmZGJYTnVsczVUNjVkWng4NUkyOWZ0RGRxUkVwbGFkYlN6d1JRZUhDNmdqTEQ4aGlUTE5QSmEzcFVJ?oc=5)
+
+2026-11-24 <span class="news-indication-tag">eye disease</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9WaGpkY2xGY2FXb0hQYnItSHUxQlpOcFo5c3k3WTNmZGJYTnVsczVUNjVkWng4NUkyOWZ0RGRxUkVwbGFkYlN6d1JRZUhDNmdqTEQ4aGlUTE5QSmEzcFVJ?oc=5)
+
+---
 
 ### [Retinal screening, healthy diet and exercise can keep 'silent thief of eyesight' at bay](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPc1NudERjWkdhRWxnTEl0ZzA2MDM2MXlIdG90VzFMekhoLWtqVVEyOEt1WHhvZS1nWnhCaTRHN1IycWpickE3VTdfVERxTktPVGE2ckw4OUUzZHU1X2U3RXhnYzZyY0RhcmFaeUpvckNxbmtWRzhZQktlZHBuYmhfUjEwT05pYmlJNThtNGE3V2JWR3RBbmtiREs3c0xxcDZYV2ExWGN3YkhRLTNBUVRaNzE5Z3hvdm9qUWRIMTUxZXBNMm8?oc=5)
 

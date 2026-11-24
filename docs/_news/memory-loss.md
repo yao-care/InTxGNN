@@ -3,9 +3,9 @@ layout: default
 title: "dementia (memory loss) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about dementia (memory loss). 12 articles, 8 related drugs."
+description: "Health news about dementia (memory loss). 13 articles, 8 related drugs."
 permalink: /news/memory-loss/
-last_modified_at: 2026-11-22
+last_modified_at: 2026-11-24
 ---
 
 # dementia (memory loss) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="What news is there about dementia (memory loss)?">
-<strong>dementia (memory loss)</strong> currently has <strong>12 news articles</strong> and 8 related drugs.
+<strong>dementia (memory loss)</strong> currently has <strong>13 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,15 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (12)
+## Related News (13)
+
+### [Study reveals that type 2 Diabetes may increase the risk of Alzheimer’s disease by 53% - The Times of India](https://news.google.com/rss/articles/CBMigAJBVV95cUxNN1B5YnJlUks4WFR1R2pORVlHd0FLUjZpNjlMQkZZTnlsX01SOFAyckVMVHBhQ1VHVHFuYmdEak5pYW1LN3ptV3VOTGhrem9ueGdoWU93NXhZSXVhQVUyWmxadGJzVTI5NmcxaWN5TkhiM2p6NFJfR0dLQzBnM2tSdjlfVjNCSWpieHpIa0sydjZWempsLV9KS3FMX0ZTeC1KeWU2eXJkNnZDSjdOMDFfX3dRanpSN2tsZGpnZWRKUWtodlZFeXVGSVBrRlVZR2w4UWMtNW9Rd2VpOHBjRHVNMU5hUEE0YW5nTmp5TjQ2YnZuMnNCLWd2cFNpVUVwVjRH0gGGAkFVX3lxTE5sU0RtekpmR2lrQllUN0FMeF9MYkxvMUtCLV9MTk53UXZLazZyRjlveDZjVDBIVFhlYWJETVBiRkpoYU1uTEg4UmZVZnR5QTlvZUJNTFREaDlZcE5KUFZOQUotZTVTWm5hbmQ2T25EdThzcGN5dHRRVjF5LWktczR5Qkk1blVaSU9xTUpLSUF4X2k0NEkzbW5SRmd6S3hOVnIyY2V5TERNeFNRd2dwb0h0Q3cwN0czZVUtWGY1ajg2X1lyWldvWGw3RnRHYjdWMG1xcm81S3JHXzNYQjA4RzVtaGhiVF94R2RRTzhWRUU3Tzc4dERHRkxWazFmMWoybnhTMWpBSEE?oc=5)
+
+2026-11-23
+
+Source: [The Times of India](https://news.google.com/rss/articles/CBMigAJBVV95cUxNN1B5YnJlUks4WFR1R2pORVlHd0FLUjZpNjlMQkZZTnlsX01SOFAyckVMVHBhQ1VHVHFuYmdEak5pYW1LN3ptV3VOTGhrem9ueGdoWU93NXhZSXVhQVUyWmxadGJzVTI5NmcxaWN5TkhiM2p6NFJfR0dLQzBnM2tSdjlfVjNCSWpieHpIa0sydjZWempsLV9KS3FMX0ZTeC1KeWU2eXJkNnZDSjdOMDFfX3dRanpSN2tsZGpnZWRKUWtodlZFeXVGSVBrRlVZR2w4UWMtNW9Rd2VpOHBjRHVNMU5hUEE0YW5nTmp5TjQ2YnZuMnNCLWd2cFNpVUVwVjRH0gGGAkFVX3lxTE5sU0RtekpmR2lrQllUN0FMeF9MYkxvMUtCLV9MTk53UXZLazZyRjlveDZjVDBIVFhlYWJETVBiRkpoYU1uTEg4UmZVZnR5QTlvZUJNTFREaDlZcE5KUFZOQUotZTVTWm5hbmQ2T25EdThzcGN5dHRRVjF5LWktczR5Qkk1blVaSU9xTUpLSUF4X2k0NEkzbW5SRmd6S3hOVnIyY2V5TERNeFNRd2dwb0h0Q3cwN0czZVUtWGY1ajg2X1lyWldvWGw3RnRHYjdWMG1xcm81S3JHXzNYQjA4RzVtaGhiVF94R2RRTzhWRUU3Tzc4dERHRkxWazFmMWoybnhTMWpBSEE?oc=5)
+
+---
 
 ### [Resistance training could help boost brain health and confidence in older adults - The Conversation](https://news.google.com/rss/articles/CBMitgFBVV95cUxQTWhkaTZ4Y0p1ekJGTlFhaDhxbFVsZ2oyTmozdkdSVVF4WEQ3RWo3enBoVWN2akMzVVQwRFBlQUdBaktNdkhVUHcyT3cxVDgxWl9HbWw5eGlRRlJVdlZ1YWJJN1l5VzR6dlQ4TW9hU0VpSGp4X08wcThXNzkzOTFyUElaMU5rRDF3MVI4QzdBWUN6cEluemgwbTZ1RmllczJSRGEySmJTc21tcl9hVC1nQV96M2pSdw?oc=5)
 

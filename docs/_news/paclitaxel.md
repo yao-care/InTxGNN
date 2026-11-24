@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Paclitaxel. 2 predicted indications."
 permalink: /news/paclitaxel/
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-24
 ---
 
 # Paclitaxel News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-21
 ---
 
 <p class="key-answer" data-question="What news is there about Paclitaxel?">
-<strong>Paclitaxel</strong> currently has <strong>2 news articles</strong>, with 2 predicted indications.
+<strong>Paclitaxel</strong> currently has <strong>3 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,15 @@ This page combines the AI-predicted indications for Paclitaxel with the latest h
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (3)
+
+### [Biotechnology: Using plants to produce anticancer drug (Nature Chemical Biology) - Nature Asia](https://news.google.com/rss/articles/CBMibkFVX3lxTE9MQlZqeXBXOWIzRDI5cFdnWXVHcm82VkdvaG15dFFtUzRjSXhSR2V5bHZQLVpkWnBURmx5TTYtNjVydFZ1WTdJU2I0dHd6QmQzU3lCaW1zQThUaFRVNjR3Q3hYQkRLZ1Z6SmxUYkRR?oc=5)
+
+2026-11-24 <span class="news-drug-tag">PACLITAXEL</span> <span class="news-drug-tag">Paclitaxel</span> <span class="news-indication-tag">cancer</span>
+
+Source: [Nature Asia](https://news.google.com/rss/articles/CBMibkFVX3lxTE9MQlZqeXBXOWIzRDI5cFdnWXVHcm82VkdvaG15dFFtUzRjSXhSR2V5bHZQLVpkWnBURmx5TTYtNjVydFZ1WTdJU2I0dHd6QmQzU3lCaW1zQThUaFRVNjR3Q3hYQkRLZ1Z6SmxUYkRR?oc=5)
+
+---
 
 ### [Daraxonrasib Pill Offers Promising Hope for Pancreatic Cancer - India News Network](https://news.google.com/rss/articles/CBMipAFBVV95cUxQY005RENtWmhrTURWX3lBWTRDRTIydGVuTWFMc1BuYy1kelo4d19QQ3BhazRfUHRkQm5BdGs4REhBNFZDVUVsWDQwUkUtQlFzYkZCZ1dGX3g1aFhydG5DdEgxcHdOOVpkUmVQYUdCNHlyTFktcnpoR2pOOC0zQlVmSnlMT1NyLXZCRmFuQ01xc2dSNHp2Mzk4Ui1pejNuUWhMZ2tjXw?oc=5)
 

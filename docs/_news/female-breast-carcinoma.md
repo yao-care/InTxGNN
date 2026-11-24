@@ -3,9 +3,9 @@ layout: default
 title: "breast cancer (female breast carcinoma) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about breast cancer (female breast carcinoma). 6 articles, 9 related drugs."
+description: "Health news about breast cancer (female breast carcinoma). 8 articles, 9 related drugs."
 permalink: /news/female-breast-carcinoma/
-last_modified_at: 2026-11-23
+last_modified_at: 2026-11-24
 ---
 
 # breast cancer (female breast carcinoma) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-23
 ---
 
 <p class="key-answer" data-question="What news is there about breast cancer (female breast carcinoma)?">
-<strong>breast cancer (female breast carcinoma)</strong> currently has <strong>6 news articles</strong> and 9 related drugs.
+<strong>breast cancer (female breast carcinoma)</strong> currently has <strong>8 news articles</strong> and 9 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -38,13 +38,29 @@ This page brings together the latest health news about “breast cancer” and l
 </ul>
 </div>
 
-## Related News (6)
+## Related News (8)
+
+### [From lung cancer in non-smokers to rising breast cancer deaths: South India's cancer profile is changing - The South First](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPY0Q3dDVnSF9Pd0g0cmhqV0k1dk5YTW5jcHhZQjNGZkRMeUhOOGdudTRYdW83dUM2Z0c4LVVHZUUwSWcxbXJoUXBkMHBhbkRqTDlwM1VSQ2FhbUxMbW55ZUZIN0NGdjNxb3ZjZ0gtQ0NxUWdEcnlqWXAxczl1ektialN6Y1NSMFFWZ2RXcTF4Y0I5d09uaU9jNUJGSWdlM0t1M0ticzNjYTlKR3l6clJTS3RHVUxCdWJRNkdtcEdTRXVLSzVYTUJfQzM5UEtPZzBuREE?oc=5)
+
+2026-11-24
+
+Source: [The South First](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPY0Q3dDVnSF9Pd0g0cmhqV0k1dk5YTW5jcHhZQjNGZkRMeUhOOGdudTRYdW83dUM2Z0c4LVVHZUUwSWcxbXJoUXBkMHBhbkRqTDlwM1VSQ2FhbUxMbW55ZUZIN0NGdjNxb3ZjZ0gtQ0NxUWdEcnlqWXAxczl1ektialN6Y1NSMFFWZ2RXcTF4Y0I5d09uaU9jNUJGSWdlM0t1M0ticzNjYTlKR3l6clJTS3RHVUxCdWJRNkdtcEdTRXVLSzVYTUJfQzM5UEtPZzBuREE?oc=5)
+
+---
 
 ### [Can AI help detect breast cancer faster? Major new trial will find out](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQM2x6VnJvcWNyZHpLWU9VVjhBUnBGX0lDRlVkcnM0bkxKZU9zVVZXTDFsdlJPUF9TOG1aMjNIVnBRZHU4NlpMSWcyeVFzeFFiWGplU3ZPcnBaZlZLdVZiOWM5SW5BcmNIS0NMWndpQzBiTU54WkRRLXcwY0hPc3JPZnNmNmZmSFpsZW5CZjAzeXladTdzVmN6ZEhzMUYzaHRDM0pYUzVaN3c?oc=5)
 
 2026-11-23
 
 Source: [Euronews](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQM2x6VnJvcWNyZHpLWU9VVjhBUnBGX0lDRlVkcnM0bkxKZU9zVVZXTDFsdlJPUF9TOG1aMjNIVnBRZHU4NlpMSWcyeVFzeFFiWGplU3ZPcnBaZlZLdVZiOWM5SW5BcmNIS0NMWndpQzBiTU54WkRRLXcwY0hPc3JPZnNmNmZmSFpsZW5CZjAzeXladTdzVmN6ZEhzMUYzaHRDM0pYUzVaN3c?oc=5)
+
+---
+
+### [Taking breast cancer screening closer to women, building a pathway from detection to diagnosis - Express Healthcare](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOT3dkVW43MHo4NzNzVElLbWI0VDQxeHVyYzNBN2xuVU1rQVd4N3Z1dGluZjBQVEpycE5wN1ZuYUpUcjhJRDVTM3VTODJjYV9SME1UQXFoakNvMDlzMURUS2FuMTB6UVJOeGtBSmpzNXVZMkVWZG1rd0ZhYS1ZaWJOU0Q0THJjY28xS3VUNU5TbkpTYmlxZ0dISWVmTEJueEVxRmNfR2F5dDVCSEpWbnQ2M19iUVBQSUVMdDRHV2xxdzNpVkN0QUtQR0xIYnNWQTA2a1BvazB3?oc=5)
+
+2026-11-23
+
+Source: [Express Healthcare](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOT3dkVW43MHo4NzNzVElLbWI0VDQxeHVyYzNBN2xuVU1rQVd4N3Z1dGluZjBQVEpycE5wN1ZuYUpUcjhJRDVTM3VTODJjYV9SME1UQXFoakNvMDlzMURUS2FuMTB6UVJOeGtBSmpzNXVZMkVWZG1rd0ZhYS1ZaWJOU0Q0THJjY28xS3VUNU5TbkpTYmlxZ0dISWVmTEJueEVxRmNfR2F5dDVCSEpWbnQ2M19iUVBQSUVMdDRHV2xxdzNpVkN0QUtQR0xIYnNWQTA2a1BvazB3?oc=5)
 
 ---
 

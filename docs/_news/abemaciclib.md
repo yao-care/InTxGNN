@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Abemaciclib. 0 predicted indications."
 permalink: /news/abemaciclib/
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 ---
 
 # Abemaciclib News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="What news is there about Abemaciclib?">
-<strong>Abemaciclib</strong> currently has <strong>3 news articles</strong>, with 0 predicted indications.
+<strong>Abemaciclib</strong> currently has <strong>4 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page combines the AI-predicted indications for Abemaciclib with the latest 
 <p><a href="{{ '/drugs/abemaciclib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (4)
+
+### [Rheumatoid Arthritis Takes a Psychological Toll Beyond Depression](https://news.google.com/rss/articles/CBMisAFBVV95cUxOSW85OUFLZ0hGMDYyT2toZUxyQzhoc0tuRFJTZFd3OUVpWmxCbnRJc1JvZGZ4bzVnanFadTN4ajVrYll3Vlo1eXZJVVBxTjdtTlU0M2VIRU1UUE14eG1JN0ZoMzVEdElqNXlRTVRySmJzT2MxamVSWTFJcHRoaTNncEt0ZmVfM1dzVVFTaWhtY0hxZTRjUWNHUGl3ZGc4Z0hUa0kyUjY4ZjhSeFZvektEZA?oc=5)
+
+2026-11-23 <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">rheumatoid arthritis</span>
+
+Source: [EMJ](https://news.google.com/rss/articles/CBMisAFBVV95cUxOSW85OUFLZ0hGMDYyT2toZUxyQzhoc0tuRFJTZFd3OUVpWmxCbnRJc1JvZGZ4bzVnanFadTN4ajVrYll3Vlo1eXZJVVBxTjdtTlU0M2VIRU1UUE14eG1JN0ZoMzVEdElqNXlRTVRySmJzT2MxamVSWTFJcHRoaTNncEt0ZmVfM1dzVVFTaWhtY0hxZTRjUWNHUGl3ZGc4Z0hUa0kyUjY4ZjhSeFZvektEZA?oc=5)
+
+---
 
 ### [Cochrane review challenges benefits of turmeric supplements for knee osteoarthritis](https://news.google.com/rss/articles/CBMiywFBVV95cUxQME1MTXpRZnNNLWR1Ul9WeWZ2SDdoMFFnVzViNkEwQjE3eUUxVUQ1R21wX0tpWVZHV0plRllmZFhRRmh3N3kyODRTeHIzNHhmNWJzdy10b1JpQ1VITGJuUlRkZi1ZOGkwTTNmNnRHbVM2U3p6M2Y2Vm9CMlRMdDQtcnFZVlNFZU1wQjY2aGYxcWJtVGpYZ01CSWlYb1gzbGd0blMzc3BDbTlaOFV3d1hEajlmclZsYmNnTlROUDJMSWJaMUlWNTItbGROOA?oc=5)
 
