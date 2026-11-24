@@ -3,8 +3,8 @@
 依 snapshots/in_licenses.json.gz（scripts/build_license_snapshot.py 產生）檢查，不需要 data/：
   1. 「## India Market Information」段落裡許可證表第一欄的號碼（含數字的格）都屬於本藥（快照 own；正規化後相同，或格子以該號碼結尾，
      例「ARTG 10294T」對「10294T」）。
-  2. 程式產生的許可證表（本站 沒有程式產生的許可證表，只驗號碼、狀態列、張數列與表格列狀態）：<!-- licenses:begin --> … <!-- licenses:end --> 內＝依快照重算的結果
-     （狀態欄以外逐列相同；狀態欄由每週排程依事實層改寫，由第 4 項驗）。
+  2. 程式產生的許可證表（2026-11-24 起，scripts/sync_license_tables.py）：市場段落一定要有 <!-- licenses:begin --> … <!-- licenses:end -->，
+     區塊內＝依快照 rows／show 重算的結果（表頭、全部列、表下程式文字）。
   3. 概覽表的狀態列與張數列＝事實層的寫法：用本站 tools/txgnn/.claude/check_drug_page.py 的 marketed_text／not_marketed_text／
      unknown_status_text／not_reg_text／count_text（checker M1／M4 的同一套函式）。
   4. 表格列寫的狀態不得跟事實相反（checker row_status_conflicts）。
@@ -144,13 +144,13 @@ def page_problems(stem: str, text: str) -> list[str]:
                     errs.append("程式區塊有表格，但快照沒有任何可列的許可證")
             elif not tb or tb[0].strip() != _head(s):
                 errs.append("程式區塊的表頭不是程式表頭")
-            elif [_nostatus(x) for x in tb[2:]] != [_nostatus(x) for x in e["rows"][:n]]:
+            elif tb[2:] != e["rows"]:
                 k = next((k for k, (x, y) in enumerate(zip(tb[2:], e["rows"])) if _nostatus(x) != _nostatus(y)), min(n, len(e["rows"])))
                 errs.append(f"程式表第 {k + 1} 列跟快照重算的結果不同（程式表被手改或資料已更新：跑 scripts/sync_license_tables.py）")
-            if e.get("show") is not None and tb and rest != e["show"]:
+            if e.get("show") is not None and rest != e["show"]:
                 errs.append(f"程式區塊表格下方的程式文字應為「{' '.join(e['show']) or '（無）'}」")
-        elif s is not None and getattr(s, "HEAD", None) and any(x.strip() == _head(s) for x in sec):
-            errs.append("程式表沒有程式區塊標記（跑 python3 scripts/sync_license_tables.py --mark-existing）")
+        elif s is not None and "rows" in e:
+            errs.append("市場段落沒有程式許可證區塊（跑 python3 scripts/sync_license_tables.py）")
     fc = e.get("facts")
     if fc:
         all_rows = [r for t in _tables(lines) for r in _rows(t)]
