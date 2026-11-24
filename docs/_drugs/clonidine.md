@@ -74,7 +74,7 @@ Clonidine is marketed in India. All records are valid. The data compiled for thi
 
 <!-- review:begin in-lic-20261106-clonidine-1 -->
 
-> **Review correction (2026-11-24)**: Originally stated: "All 20 records are valid, and all are single-ingredient products." Removed: the number or status of product records stated here did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). The data list 20 product records for this drug, 20 current; the Quick Overview and the table under India Market Information show the current figures. Revised 2026-11-24: the hard-coded number of records and the wording about the old table were dropped; the Quick Overview and the product table under India Market Information show the current figures. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+> **Review correction (2026-11-24)**: Originally stated: "All 20 records are valid, and all are single-ingredient products." Removed: the number or status of product records stated here did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). The Quick Overview and the product table under India Market Information show the current number of product records. Revised 2026-11-24: the hard-coded number of records and the wording about the old table were dropped; the Quick Overview and the product table under India Market Information show the current figures. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
 
 <!-- review:end in-lic-20261106-clonidine-1 -->
 

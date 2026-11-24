@@ -127,7 +127,7 @@ The highest-scoring prediction (drug-induced osteoporosis) and most other predic
 
 <!-- review:begin in-lic-20261031-l-glutamine-1 -->
 
-> **Review correction (2026-10-31)**: Originally stated: "The highest-scoring prediction (drug-induced osteoporosis) and most other predictions have no supporting trials or literature, so they remain computational outputs only. Dermatitis has plausible preclinical mechanisms and supportive-care clinical signals, but the only registered trial was withdrawn with no enrolment and the clinical studies do not address primary dermatitis." Removed: it said the product records were cancelled, discontinued, or not current, which did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-10-31). The data list 1 product record for this drug, 1 current; the Quick Overview and the table under India Market Information show the current figures. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+> **Review correction (2026-11-24)**: Originally stated: "The highest-scoring prediction (drug-induced osteoporosis) and most other predictions have no supporting trials or literature, so they remain computational outputs only. Dermatitis has plausible preclinical mechanisms and supportive-care clinical signals, but the only registered trial was withdrawn with no enrolment and the clinical studies do not address primary dermatitis." Removed: it said the product records were cancelled, discontinued, or not current, which did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-10-31). The Quick Overview and the product table under India Market Information show the current number of product records. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
 
 <!-- review:end in-lic-20261031-l-glutamine-1 -->
 
@@ -146,7 +146,7 @@ Below is the review log for this page: statements checked against official India
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-10-31 | Removed: "Dermatitis has plausible preclinical mechanisms and supportive-care clinical signals, but the only registered trial was withdrawn with no en" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-24 | Removed: "Dermatitis has plausible preclinical mechanisms and supportive-care clinical signals, but the only registered trial was withdrawn with no en" | Corrected (revised 2026-11-24; earlier version kept in the record) | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 

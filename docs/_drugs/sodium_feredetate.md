@@ -67,7 +67,7 @@ A sixth registration, Fericom-SF Tablet (No. 85282, Bioncare Pharma, strip of 10
 
 <!-- review:begin in-lic-20261106-sodium_feredetate-1 -->
 
-> **Review correction (2026-11-12)**: Originally stated: "All six registrations are single-ingredient products and none has been cancelled." Removed: the number or status of product records stated here did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). The data list 6 product records for this drug, 6 current; the Quick Overview and the table under India Market Information show the current figures. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+> **Review correction (2026-11-24)**: Originally stated: "All six registrations are single-ingredient products and none has been cancelled." Removed: the number or status of product records stated here did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). The Quick Overview and the product table under India Market Information show the current number of product records. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
 
 <!-- review:end in-lic-20261106-sodium_feredetate-1 -->
 
@@ -83,7 +83,7 @@ Below is the review log for this page: statements checked against official India
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-12 | Removed: "All six registrations are single-ingredient products and" | Corrected (revised 2026-11-12; earlier version kept in the record) | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-24 | Removed: "All six registrations are single-ingredient products and" | Corrected (revised 2026-11-24; earlier version kept in the record) | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 

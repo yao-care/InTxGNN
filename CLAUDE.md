@@ -557,7 +557,7 @@ python3 scripts/check_seo_docs.py              # 必須 exit 0
 - B. `scripts/rewrite_license_counts.py`＋`src/intxgnn/regulatory/count_prose.py`（照 CaTxGNN 英文版移植，口徑改成本站：licence／registration／authorization／listing／product＋India／valid／dataset）：依快照事實層改寫句型明確的張數；有保留、講查詢、相對數、劑型或廠商子集、顯示筆數、partial 頁（517 個證據包中 439 頁）不動，單方張數不改（列 single），單複數、0 張、前提句列待查。gate 第 22 項擋「再跑一次會變」。事實層的單方數依資料集 short_composition2 判斷，2026-11-24 對 data/raw 原始 CSV 驗過非 partial 的 464 頁全部一致。
 - 2026-11-24 第一次套用（Release data-20261112-161012）：898 頁換成程式表（公開頁 881、noindex 17；原有表 891 頁、段落裡沒有許可證表的 7 頁補在段落開頭）；`--migrate` 拿掉只講舊表筆數的說明句 428 處與舊的部分紀錄提示行 15 行；改頁的 last_modified_at 改 2026-11-24。
   B 改寫 0 句（現行事實全部有效、張數句跟事實一致；判斷不了 0 句）。錨在舊表上的查核紀錄 0 筆（不用 superseded）。
-  查核紀錄：53 筆 `in-lic-20261106-*` 更正文字裡寫死的張數與舊表筆數拿掉、同 id 重發（前版存 history；potassium_iodide 前版「All are are」一併修正）；
+  查核紀錄：53 筆 `in-lic-20261106-*` 更正文字裡寫死的張數與舊表筆數拿掉、同 id 重發（前版存 history；potassium_iodide 前版「All are are」一併修正）；說明（note）寫死「The data list N product records」的 6 筆改成不寫數字，`scripts/reviews_from_edits.py` 的 figures 樣板同改；
   另寫的寬偵測（單方說法對照 data/raw 原始資料集）找到 41 句說「全部單方／沒有複方」而證據包紀錄其實有複方，36 句以 `in-lic-20261124-*-1` 只刪單方字樣更正，5 句講「資料把它們歸為單方」列待查；
   正文仍講舊表列了哪幾筆（「A sixth licence … is also valid」「… are not shown」等）42 句列待查（source：市場段落換成程式許可證表後…）。checker 全量前後都是 0；gate exit 0。
 - 母目錄 `.claude/license_labels/InTxGNN.json` 只有「Valid」：資料集標停產時程式表會寫「Discontinued」（目前 0 筆），要加 `"Discontinued": "cancelled"`（這次沒改母目錄）。

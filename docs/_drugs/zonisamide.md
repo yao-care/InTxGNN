@@ -66,7 +66,7 @@ Other predictions in the top 10 differ in strength:
 
 <!-- review:begin in-lic-20261031-zonisamide-1 -->
 
-> **Review correction (2026-10-31)**: Originally stated: "An open-label-type report exists in bipolar depression, but there is also a report of zonisamide-induced mania. / **Fibromyalgia (score 0.9920, Evidence Level L5):** The only trial was withdrawn with zero enrollment." Removed: it said the product records were cancelled, discontinued, or not current, which did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-10-31). The data list 13 product records for this drug, 13 current; the Quick Overview and the table under India Market Information show the current figures. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+> **Review correction (2026-11-24)**: Originally stated: "An open-label-type report exists in bipolar depression, but there is also a report of zonisamide-induced mania. / **Fibromyalgia (score 0.9920, Evidence Level L5):** The only trial was withdrawn with zero enrollment." Removed: it said the product records were cancelled, discontinued, or not current, which did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-10-31). The Quick Overview and the product table under India Market Information show the current number of product records. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
 
 <!-- review:end in-lic-20261031-zonisamide-1 -->
 
@@ -164,7 +164,7 @@ Below is the review log for this page: statements checked against official India
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-10-31 | Removed: "**Fibromyalgia (score 0.9920, Evidence Level L5):** The only trial was withdrawn with zero enrollment" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-24 | Removed: "**Fibromyalgia (score 0.9920, Evidence Level L5):** The only trial was withdrawn with zero enrollment" | Corrected (revised 2026-11-24; earlier version kept in the record) | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 | 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Zonegran (zonisamide) prescribing information, Advanz Pharma (US) Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d12de43e-3ac3-4335-bc85-70d7366a91eb) |
 
 <!-- review:end log -->

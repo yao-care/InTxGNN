@@ -106,7 +106,7 @@ Two more eye drop registrations also exist (Cataclear, 35495; Catadoze, 39559), 
 
 <!-- review:begin in-lic-20261106-potassium_iodide-1 -->
 
-> **Review correction (2026-11-24)**: Originally stated: "All are single-ingredient products and all are currently valid." Removed: the number or status of product records stated here did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). The data list 7 product records for this drug, 7 current; the Quick Overview and the table under India Market Information show the current figures. Revised 2026-11-24: the hard-coded number of records and the wording about the old table were dropped; the Quick Overview and the product table under India Market Information show the current figures. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+> **Review correction (2026-11-24)**: Originally stated: "All are single-ingredient products and all are currently valid." Removed: the number or status of product records stated here did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). The Quick Overview and the product table under India Market Information show the current number of product records. Revised 2026-11-24: the hard-coded number of records and the wording about the old table were dropped; the Quick Overview and the product table under India Market Information show the current figures. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
 
 <!-- review:end in-lic-20261106-potassium_iodide-1 -->
 

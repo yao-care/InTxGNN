@@ -537,7 +537,7 @@
    "action": "correct",
    "claim": "All 20 records are valid, and all are single-ingredient products.",
    "replacement": "All records are valid.",
-   "note": "Removed: the number or status of product records stated here did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). The data list 20 product records for this drug, 20 current; the Quick Overview and the table under India Market Information show the current figures. Revised 2026-11-24: the hard-coded number of records and the wording about the old table were dropped; the Quick Overview and the product table under India Market Information show the current figures.",
+   "note": "Removed: the number or status of product records stated here did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). The Quick Overview and the product table under India Market Information show the current number of product records. Revised 2026-11-24: the hard-coded number of records and the wording about the old table were dropped; the Quick Overview and the product table under India Market Information show the current figures.",
    "finding": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 20 張，其中單方 19 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）",
    "sources": [
     {
@@ -581,7 +581,7 @@
    "action": "correct",
    "claim": "The high TxGNN score (0.9952) is a computational prediction. The only trial was withdrawn without enrolling anyone, and the literature consists of reviews on heart-failure hyponatremia and animal pharmacology.",
    "replacement": "The high TxGNN score (0.9952) is a computational prediction.",
-   "note": "Removed: it said the product records were cancelled, discontinued, or not current, which did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-10-31). The data list 1 product record for this drug, 1 current; the Quick Overview and the table under India Market Information show the current figures.",
+   "note": "Removed: it said the product records were cancelled, discontinued, or not current, which did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-10-31). The Quick Overview and the product table under India Market Information show the current number of product records.",
    "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
    "sources": [
     {
@@ -590,9 +590,33 @@
      "accessed": "2026-10-31"
     }
    ],
-   "checked": "2026-10-31",
+   "checked": "2026-11-24",
    "summary": "Removed: \"The only trial was withdrawn without enrolling anyone, and the literature consists of reviews on heart-failure hyponatremia and animal pharm\"",
-   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：dcc29335e（2026-10-31）"
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：dcc29335e（2026-10-31）",
+   "history": [
+    {
+     "id": "in-lic-20261031-conivaptan-1",
+     "drug": "conivaptan",
+     "file": "conivaptan.md",
+     "action": "correct",
+     "claim": "The high TxGNN score (0.9952) is a computational prediction. The only trial was withdrawn without enrolling anyone, and the literature consists of reviews on heart-failure hyponatremia and animal pharmacology.",
+     "replacement": "The high TxGNN score (0.9952) is a computational prediction.",
+     "note": "Removed: it said the product records were cancelled, discontinued, or not current, which did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-10-31). The data list 1 product record for this drug, 1 current; the Quick Overview and the table under India Market Information show the current figures.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+     "sources": [
+      {
+       "title": "Indian Medicine Dataset",
+       "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+       "accessed": "2026-10-31"
+      }
+     ],
+     "checked": "2026-10-31",
+     "summary": "Removed: \"The only trial was withdrawn without enrolling anyone, and the literature consists of reviews on heart-failure hyponatremia and animal pharm\"",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：dcc29335e（2026-10-31）",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定：說明裡寫死的張數改成不寫數字"
+    }
+   ]
   },
   {
    "id": "in-lic-20261106-cyanocobalamin-1",
@@ -1393,7 +1417,7 @@
    "action": "correct",
    "claim": "The highest-scoring prediction (drug-induced osteoporosis) and most other predictions have no supporting trials or literature, so they remain computational outputs only. Dermatitis has plausible preclinical mechanisms and supportive-care clinical signals, but the only registered trial was withdrawn with no enrolment and the clinical studies do not address primary dermatitis.",
    "replacement": "The highest-scoring prediction (drug-induced osteoporosis) and most other predictions have no supporting trials or literature, so they remain computational outputs only.",
-   "note": "Removed: it said the product records were cancelled, discontinued, or not current, which did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-10-31). The data list 1 product record for this drug, 1 current; the Quick Overview and the table under India Market Information show the current figures.",
+   "note": "Removed: it said the product records were cancelled, discontinued, or not current, which did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-10-31). The Quick Overview and the product table under India Market Information show the current number of product records.",
    "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
    "sources": [
     {
@@ -1402,9 +1426,33 @@
      "accessed": "2026-10-31"
     }
    ],
-   "checked": "2026-10-31",
+   "checked": "2026-11-24",
    "summary": "Removed: \"Dermatitis has plausible preclinical mechanisms and supportive-care clinical signals, but the only registered trial was withdrawn with no en\"",
-   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：dcc29335e（2026-10-31）"
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：dcc29335e（2026-10-31）",
+   "history": [
+    {
+     "id": "in-lic-20261031-l-glutamine-1",
+     "drug": "l-glutamine",
+     "file": "l-glutamine.md",
+     "action": "correct",
+     "claim": "The highest-scoring prediction (drug-induced osteoporosis) and most other predictions have no supporting trials or literature, so they remain computational outputs only. Dermatitis has plausible preclinical mechanisms and supportive-care clinical signals, but the only registered trial was withdrawn with no enrolment and the clinical studies do not address primary dermatitis.",
+     "replacement": "The highest-scoring prediction (drug-induced osteoporosis) and most other predictions have no supporting trials or literature, so they remain computational outputs only.",
+     "note": "Removed: it said the product records were cancelled, discontinued, or not current, which did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-10-31). The data list 1 product record for this drug, 1 current; the Quick Overview and the table under India Market Information show the current figures.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+     "sources": [
+      {
+       "title": "Indian Medicine Dataset",
+       "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+       "accessed": "2026-10-31"
+      }
+     ],
+     "checked": "2026-10-31",
+     "summary": "Removed: \"Dermatitis has plausible preclinical mechanisms and supportive-care clinical signals, but the only registered trial was withdrawn with no en\"",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：dcc29335e（2026-10-31）",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定：說明裡寫死的張數改成不寫數字"
+    }
+   ]
   },
   {
    "id": "in-lic-20261106-ledipasvir-1",
@@ -1808,7 +1856,7 @@
    "action": "correct",
    "claim": "All are single-ingredient products and all are currently valid.",
    "replacement": "All are currently valid.",
-   "note": "Removed: the number or status of product records stated here did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). The data list 7 product records for this drug, 7 current; the Quick Overview and the table under India Market Information show the current figures. Revised 2026-11-24: the hard-coded number of records and the wording about the old table were dropped; the Quick Overview and the product table under India Market Information show the current figures.",
+   "note": "Removed: the number or status of product records stated here did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). The Quick Overview and the product table under India Market Information show the current number of product records. Revised 2026-11-24: the hard-coded number of records and the wording about the old table were dropped; the Quick Overview and the product table under India Market Information show the current figures.",
    "finding": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 7 張，其中單方 0 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）",
    "sources": [
     {
@@ -2092,7 +2140,7 @@
    "action": "correct",
    "claim": "All six registrations are single-ingredient products and none has been cancelled.",
    "replacement": "None has been cancelled.",
-   "note": "Removed: the number or status of product records stated here did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). The data list 6 product records for this drug, 6 current; the Quick Overview and the table under India Market Information show the current figures.",
+   "note": "Removed: the number or status of product records stated here did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). The Quick Overview and the product table under India Market Information show the current number of product records.",
    "finding": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 6 張，其中單方 2 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）。2026-11-12 更正：原刪句切斷後變成「One has been cancelled.」，跟資料（indian_medicine_data.csv 本藥 6 筆 Is_discontinued 全是 FALSE）相反，改成保留「None has been cancelled.」",
    "sources": [
     {
@@ -2101,7 +2149,7 @@
      "accessed": "2026-11-06"
     }
    ],
-   "checked": "2026-11-12",
+   "checked": "2026-11-24",
    "summary": "Removed: \"All six registrations are single-ingredient products and\"",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a373ef9df（2026-11-06）",
    "history": [
@@ -2126,6 +2174,28 @@
      "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a373ef9df（2026-11-06）",
      "retired": "2026-11-12",
      "reason": "11-06 的刪句（a373ef9df）要刪「All six registrations are single-ingredient products and」，卻在「no|ne」中間切斷，留下的「ne has been cancelled.」被寫成「One has been cancelled.」，意思反過來（資料 6 筆都沒有停產）；改成只刪單方子句、保留「None has been cancelled.」"
+    },
+    {
+     "id": "in-lic-20261106-sodium_feredetate-1",
+     "drug": "sodium_feredetate",
+     "file": "sodium_feredetate.md",
+     "action": "correct",
+     "claim": "All six registrations are single-ingredient products and none has been cancelled.",
+     "replacement": "None has been cancelled.",
+     "note": "Removed: the number or status of product records stated here did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). The data list 6 product records for this drug, 6 current; the Quick Overview and the table under India Market Information show the current figures.",
+     "finding": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 6 張，其中單方 2 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）。2026-11-12 更正：原刪句切斷後變成「One has been cancelled.」，跟資料（indian_medicine_data.csv 本藥 6 筆 Is_discontinued 全是 FALSE）相反，改成保留「None has been cancelled.」",
+     "sources": [
+      {
+       "title": "Indian Medicine Dataset",
+       "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+       "accessed": "2026-11-06"
+      }
+     ],
+     "checked": "2026-11-12",
+     "summary": "Removed: \"All six registrations are single-ingredient products and\"",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a373ef9df（2026-11-06）",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定：說明裡寫死的張數改成不寫數字"
     }
    ]
   },
@@ -2488,7 +2558,7 @@
    "action": "correct",
    "claim": "An open-label-type report exists in bipolar depression, but there is also a report of zonisamide-induced mania.\n- **Fibromyalgia (score 0.9920, Evidence Level L5):** The only trial was withdrawn with zero enrollment.",
    "replacement": "An open-label-type report exists in bipolar depression, but there is also a report of zonisamide-induced mania.",
-   "note": "Removed: it said the product records were cancelled, discontinued, or not current, which did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-10-31). The data list 13 product records for this drug, 13 current; the Quick Overview and the table under India Market Information show the current figures.",
+   "note": "Removed: it said the product records were cancelled, discontinued, or not current, which did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-10-31). The Quick Overview and the product table under India Market Information show the current number of product records.",
    "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
    "sources": [
     {
@@ -2497,9 +2567,33 @@
      "accessed": "2026-10-31"
     }
    ],
-   "checked": "2026-10-31",
+   "checked": "2026-11-24",
    "summary": "Removed: \"**Fibromyalgia (score 0.9920, Evidence Level L5):** The only trial was withdrawn with zero enrollment\"",
-   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：dcc29335e（2026-10-31）"
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：dcc29335e（2026-10-31）",
+   "history": [
+    {
+     "id": "in-lic-20261031-zonisamide-1",
+     "drug": "zonisamide",
+     "file": "zonisamide.md",
+     "action": "correct",
+     "claim": "An open-label-type report exists in bipolar depression, but there is also a report of zonisamide-induced mania.\n- **Fibromyalgia (score 0.9920, Evidence Level L5):** The only trial was withdrawn with zero enrollment.",
+     "replacement": "An open-label-type report exists in bipolar depression, but there is also a report of zonisamide-induced mania.",
+     "note": "Removed: it said the product records were cancelled, discontinued, or not current, which did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-10-31). The data list 13 product records for this drug, 13 current; the Quick Overview and the table under India Market Information show the current figures.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+     "sources": [
+      {
+       "title": "Indian Medicine Dataset",
+       "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+       "accessed": "2026-10-31"
+      }
+     ],
+     "checked": "2026-10-31",
+     "summary": "Removed: \"**Fibromyalgia (score 0.9920, Evidence Level L5):** The only trial was withdrawn with zero enrollment\"",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：dcc29335e（2026-10-31）",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定：說明裡寫死的張數改成不寫數字"
+    }
+   ]
   },
   {
    "id": "in-moa-20261119-abacavir-1",
