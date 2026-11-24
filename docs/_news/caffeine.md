@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Caffeine. 8 predicted indications."
 permalink: /news/caffeine/
-last_modified_at: 2026-11-18
+last_modified_at: 2026-11-24
 ---
 
 # Caffeine News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about Caffeine?">
-<strong>Caffeine</strong> currently has <strong>1 news articles</strong>, with 8 predicted indications.
+<strong>Caffeine</strong> currently has <strong>2 news articles</strong>, with 8 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,15 @@ This page combines the AI-predicted indications for Caffeine with the latest hea
 <p><a href="{{ '/drugs/caffeine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [The Surprising Link Between Sleep Deprivation, Memory, & Caffeine](https://news.google.com/rss/articles/CBMioAFBVV95cUxQeUlpTHczUkloTVFGQ19aeG1FOWJaRkV5ZTlyQ1loLWNRMUVycmhMbUotckZ3cnZxYnNXNE9ZZWJ3ZWdqZ014emdXNEI0cTNtTkNDQXRuNmVFbEd5bUpCLTlhVTlLWjlJZE9qQTd3R2xEcDllUmIwWk4tY1VuS096UUUyOFZJdzkzb1hQcU1ScFhYelpEVnBxX04wR2RjUFNX?oc=5)
+
+2026-11-24 <span class="news-drug-tag">Caffeine</span> <span class="news-drug-tag">CAFFEINE</span>
+
+Source: [Yahoo](https://news.google.com/rss/articles/CBMioAFBVV95cUxQeUlpTHczUkloTVFGQ19aeG1FOWJaRkV5ZTlyQ1loLWNRMUVycmhMbUotckZ3cnZxYnNXNE9ZZWJ3ZWdqZ014emdXNEI0cTNtTkNDQXRuNmVFbEd5bUpCLTlhVTlLWjlJZE9qQTd3R2xEcDllUmIwWk4tY1VuS096UUUyOFZJdzkzb1hQcU1ScFhYelpEVnBxX04wR2RjUFNX?oc=5)
+
+---
 
 ### [Scientists trace how cells respond to alcohol, nicotine, and caffeine](https://news.google.com/rss/articles/CBMitgFBVV95cUxQcEk3ZVktbTZtcVNoT211OHVGX1psSlJVWDJBaEltVEFJdVk3MEpwQ2lOX1NPc2Q4UXBYZXltanZLZlhTRVZUWmljS3B1RXlFUzZmTS16NWVYLWF1Y2pqLTlRdWhRV0YzQWlneDhTY1dCN2V4b3JEa21uWnV2aGdJMml4bFF1NVk4RFFsUVlpMHZMOXFFTEZTMHA0eXk5SWJPSDBOZGMzaG5sQnpxVW5hQndWQ2JfZw?oc=5)
 

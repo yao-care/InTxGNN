@@ -3,7 +3,7 @@ layout: default
 title: "breast cancer (female breast carcinoma) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about breast cancer (female breast carcinoma). 8 articles, 9 related drugs."
+description: "Health news about breast cancer (female breast carcinoma). 9 articles, 9 related drugs."
 permalink: /news/female-breast-carcinoma/
 last_modified_at: 2026-11-24
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-24
 ---
 
 <p class="key-answer" data-question="What news is there about breast cancer (female breast carcinoma)?">
-<strong>breast cancer (female breast carcinoma)</strong> currently has <strong>8 news articles</strong> and 9 related drugs.
+<strong>breast cancer (female breast carcinoma)</strong> currently has <strong>9 news articles</strong> and 9 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,15 @@ This page brings together the latest health news about “breast cancer” and l
 </ul>
 </div>
 
-## Related News (8)
+## Related News (9)
+
+### [Synthesis, anticancer activity, and molecular docking of gemcitabine–hydroxycinnamic acid conjugates against breast cancer cells](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xYl8wX3hTMkpULVdxSjVkY2ctYWpoRkhJcjFMdkFCWll5djFBMldqdmFmSUowbkhsbUl4aGJFWG5EWG1mdTNmYy1tM0ZYdnJzbEd6QldfLW4zRml6NmZJ?oc=5)
+
+2026-11-24
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xYl8wX3hTMkpULVdxSjVkY2ctYWpoRkhJcjFMdkFCWll5djFBMldqdmFmSUowbkhsbUl4aGJFWG5EWG1mdTNmYy1tM0ZYdnJzbEd6QldfLW4zRml6NmZJ?oc=5)
+
+---
 
 ### [From lung cancer in non-smokers to rising breast cancer deaths: South India's cancer profile is changing - The South First](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPY0Q3dDVnSF9Pd0g0cmhqV0k1dk5YTW5jcHhZQjNGZkRMeUhOOGdudTRYdW83dUM2Z0c4LVVHZUUwSWcxbXJoUXBkMHBhbkRqTDlwM1VSQ2FhbUxMbW55ZUZIN0NGdjNxb3ZjZ0gtQ0NxUWdEcnlqWXAxczl1ektialN6Y1NSMFFWZ2RXcTF4Y0I5d09uaU9jNUJGSWdlM0t1M0ticzNjYTlKR3l6clJTS3RHVUxCdWJRNkdtcEdTRXVLSzVYTUJfQzM5UEtPZzBuREE?oc=5)
 
@@ -52,7 +60,7 @@ Source: [The South First](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPY
 
 2026-11-23
 
-Source: [Euronews](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQM2x6VnJvcWNyZHpLWU9VVjhBUnBGX0lDRlVkcnM0bkxKZU9zVVZXTDFsdlJPUF9TOG1aMjNIVnBRZHU4NlpMSWcyeVFzeFFiWGplU3ZPcnBaZlZLdVZiOWM5SW5BcmNIS0NMWndpQzBiTU54WkRRLXcwY0hPc3JPZnNmNmZmSFpsZW5CZjAzeXladTdzVmN6ZEhzMUYzaHRDM0pYUzVaN3c?oc=5)
+Source: [Euronews.com](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQM2x6VnJvcWNyZHpLWU9VVjhBUnBGX0lDRlVkcnM0bkxKZU9zVVZXTDFsdlJPUF9TOG1aMjNIVnBRZHU4NlpMSWcyeVFzeFFiWGplU3ZPcnBaZlZLdVZiOWM5SW5BcmNIS0NMWndpQzBiTU54WkRRLXcwY0hPc3JPZnNmNmZmSFpsZW5CZjAzeXladTdzVmN6ZEhzMUYzaHRDM0pYUzVaN3c?oc=5)
 
 ---
 

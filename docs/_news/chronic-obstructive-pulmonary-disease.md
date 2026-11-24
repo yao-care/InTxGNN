@@ -3,9 +3,9 @@ layout: default
 title: "COPD (chronic obstructive pulmonary disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about COPD (chronic obstructive pulmonary disease). 12 articles, 1 related drugs."
+description: "Health news about COPD (chronic obstructive pulmonary disease). 13 articles, 1 related drugs."
 permalink: /news/chronic-obstructive-pulmonary-disease/
-last_modified_at: 2026-11-23
+last_modified_at: 2026-11-24
 ---
 
 # COPD (chronic obstructive pulmonary disease) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-23
 ---
 
 <p class="key-answer" data-question="What news is there about COPD (chronic obstructive pulmonary disease)?">
-<strong>COPD (chronic obstructive pulmonary disease)</strong> currently has <strong>12 news articles</strong> and 1 related drugs.
+<strong>COPD (chronic obstructive pulmonary disease)</strong> currently has <strong>13 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,21 @@ This page brings together the latest health news about “COPD” and lists the 
 </ul>
 </div>
 
-## Related News (12)
+## Related News (13)
 
 ### [Mepolizumab Cuts High-Dose Steroid Days in COPD](https://news.google.com/rss/articles/CBMilwFBVV95cUxOUkVubGw5cE5IZjRsWmNwMDNDaHhRZkp4VnpsdXc4UXBVTjUzUmUtNmhyWUI3Y3VkMk1IOEtmZzJoNkJKQlJQSDZ5TTZJQ1kwSFM2WGl3LTdRM2FkSlc2dXZDaWdSMy1RX0tQazBCZG1JajZkQ0E1VWN1dGlDSXU0WVZ2T1BEUS1JOVlMY1pLRzJoVWVkbmI4?oc=5)
 
 2026-11-22
 
 Source: [EMJ](https://news.google.com/rss/articles/CBMilwFBVV95cUxOUkVubGw5cE5IZjRsWmNwMDNDaHhRZkp4VnpsdXc4UXBVTjUzUmUtNmhyWUI3Y3VkMk1IOEtmZzJoNkJKQlJQSDZ5TTZJQ1kwSFM2WGl3LTdRM2FkSlc2dXZDaWdSMy1RX0tQazBCZG1JajZkQ0E1VWN1dGlDSXU0WVZ2T1BEUS1JOVlMY1pLRzJoVWVkbmI4?oc=5)
+
+---
+
+### [COPD Risk Is Rising: Non-Smokers and Women Face Growing Threat, Doctors Warn - The Indian Practitioner](https://news.google.com/rss/articles/CBMirgFBVV95cUxQalV0M0Jpcm5tV3BRX1pqa2xaTDZCbk9ZbTZ5Qm5hWUEzQWE1dHJkUk9FcEFqZXp4OGQ1a1AzbFFBVWliRGVMNEFXX3JmOE9lQjYyWXladnpqRF92RjRrOVBlaGpmZzg5RzlTdkJ6cDhac2pld2VoVmlGMU16SkpsTzJ4d1dyTDR0Z3RlYmRjOWh4dFE0ZXd4VEoyeUFHbTNZWURWRWF2UkE3UmRjbXc?oc=5)
+
+2026-11-19
+
+Source: [The Indian Practitioner](https://news.google.com/rss/articles/CBMirgFBVV95cUxQalV0M0Jpcm5tV3BRX1pqa2xaTDZCbk9ZbTZ5Qm5hWUEzQWE1dHJkUk9FcEFqZXp4OGQ1a1AzbFFBVWliRGVMNEFXX3JmOE9lQjYyWXladnpqRF92RjRrOVBlaGpmZzg5RzlTdkJ6cDhac2pld2VoVmlGMU16SkpsTzJ4d1dyTDR0Z3RlYmRjOWh4dFE0ZXd4VEoyeUFHbTNZWURWRWF2UkE3UmRjbXc?oc=5)
 
 ---
 

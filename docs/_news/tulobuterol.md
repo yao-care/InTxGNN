@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Tulobuterol. 4 predicted indications."
 permalink: /news/tulobuterol/
-last_modified_at: 2026-11-23
+last_modified_at: 2026-11-24
 ---
 
 # Tulobuterol News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-23
 ---
 
 <p class="key-answer" data-question="What news is there about Tulobuterol?">
-<strong>Tulobuterol</strong> currently has <strong>12 news articles</strong>, with 4 predicted indications.
+<strong>Tulobuterol</strong> currently has <strong>13 news articles</strong>, with 4 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,13 +36,21 @@ This page combines the AI-predicted indications for Tulobuterol with the latest 
 <p><a href="{{ '/drugs/tulobuterol/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (12)
+## Related News (13)
 
 ### [Mepolizumab Cuts High-Dose Steroid Days in COPD](https://news.google.com/rss/articles/CBMilwFBVV95cUxOUkVubGw5cE5IZjRsWmNwMDNDaHhRZkp4VnpsdXc4UXBVTjUzUmUtNmhyWUI3Y3VkMk1IOEtmZzJoNkJKQlJQSDZ5TTZJQ1kwSFM2WGl3LTdRM2FkSlc2dXZDaWdSMy1RX0tQazBCZG1JajZkQ0E1VWN1dGlDSXU0WVZ2T1BEUS1JOVlMY1pLRzJoVWVkbmI4?oc=5)
 
 2026-11-22 <span class="news-drug-tag">MEPOLIZUMAB</span> <span class="news-drug-tag">Mepolizumab</span> <span class="news-indication-tag">COPD</span>
 
 Source: [EMJ](https://news.google.com/rss/articles/CBMilwFBVV95cUxOUkVubGw5cE5IZjRsWmNwMDNDaHhRZkp4VnpsdXc4UXBVTjUzUmUtNmhyWUI3Y3VkMk1IOEtmZzJoNkJKQlJQSDZ5TTZJQ1kwSFM2WGl3LTdRM2FkSlc2dXZDaWdSMy1RX0tQazBCZG1JajZkQ0E1VWN1dGlDSXU0WVZ2T1BEUS1JOVlMY1pLRzJoVWVkbmI4?oc=5)
+
+---
+
+### [COPD Risk Is Rising: Non-Smokers and Women Face Growing Threat, Doctors Warn - The Indian Practitioner](https://news.google.com/rss/articles/CBMirgFBVV95cUxQalV0M0Jpcm5tV3BRX1pqa2xaTDZCbk9ZbTZ5Qm5hWUEzQWE1dHJkUk9FcEFqZXp4OGQ1a1AzbFFBVWliRGVMNEFXX3JmOE9lQjYyWXladnpqRF92RjRrOVBlaGpmZzg5RzlTdkJ6cDhac2pld2VoVmlGMU16SkpsTzJ4d1dyTDR0Z3RlYmRjOWh4dFE0ZXd4VEoyeUFHbTNZWURWRWF2UkE3UmRjbXc?oc=5)
+
+2026-11-19 <span class="news-indication-tag">COPD</span>
+
+Source: [The Indian Practitioner](https://news.google.com/rss/articles/CBMirgFBVV95cUxQalV0M0Jpcm5tV3BRX1pqa2xaTDZCbk9ZbTZ5Qm5hWUEzQWE1dHJkUk9FcEFqZXp4OGQ1a1AzbFFBVWliRGVMNEFXX3JmOE9lQjYyWXladnpqRF92RjRrOVBlaGpmZzg5RzlTdkJ6cDhac2pld2VoVmlGMU16SkpsTzJ4d1dyTDR0Z3RlYmRjOWh4dFE0ZXd4VEoyeUFHbTNZWURWRWF2UkE3UmRjbXc?oc=5)
 
 ---
 

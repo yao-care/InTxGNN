@@ -3,7 +3,7 @@ layout: default
 title: "tumour News"
 parent: Health News
 nav_exclude: true
-description: "Health news about tumour. 9 articles, 228 related drugs."
+description: "Health news about tumour. 10 articles, 228 related drugs."
 permalink: /news/tumour/
 last_modified_at: 2026-11-24
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-24
 ---
 
 <p class="key-answer" data-question="What news is there about tumour?">
-<strong>tumour</strong> currently has <strong>9 news articles</strong> and 228 related drugs.
+<strong>tumour</strong> currently has <strong>10 news articles</strong> and 228 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -236,7 +236,15 @@ This page brings together the latest health news about “tumour” and lists th
 </ul>
 </div>
 
-## Related News (9)
+## Related News (10)
+
+### [Pill plus chemo shrank pancreatic tumours in 61% in early trial | Tap to know more | Inshorts](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc1JTRmU1NTR2UDBRZDRPaG55T0Q4dmQ1V081ZkJkd05PS3lqUFZoNGZ1RndXTS1Od2hqR2txY2FIMHpWWnRxR3VmQ3gzbGQ5YnN4S1FkX1Zzb0pGM3RPUkVCTWlOU3lNRzhjWEMtaHJHZUE2TFlNaTY3MEl3RDR0Ml9DeUJqSmtLSWNJV3pJdFl3Y2FXUTI5NEtLaDJaSEt4SllWZ25CN1Fyd9IBrwFBVV95cUxOMUpZYy1vVGZnWlJFaWZOcVVCRl90cGJVT3pZZUM0Z2RGeTVSY3hHdHlvM2hJemhmNmdWUnI1enRBbnRQOVhiQUpFVnM3dkZoZmg3VGxHR3UxYm82VkdUSlNBNHN5XzlNNFFaWEVBT011Y0RkcGhsN0Vqc25FX3Q1LUl4LVhLRGloMjVZTmNnSW9yM1dlQkxQYzI3VEVHTmNrejJmWlYzT0QtU1R4Y2dV?oc=5)
+
+2026-11-24
+
+Source: [Inshorts](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc1JTRmU1NTR2UDBRZDRPaG55T0Q4dmQ1V081ZkJkd05PS3lqUFZoNGZ1RndXTS1Od2hqR2txY2FIMHpWWnRxR3VmQ3gzbGQ5YnN4S1FkX1Zzb0pGM3RPUkVCTWlOU3lNRzhjWEMtaHJHZUE2TFlNaTY3MEl3RDR0Ml9DeUJqSmtLSWNJV3pJdFl3Y2FXUTI5NEtLaDJaSEt4SllWZ25CN1Fyd9IBrwFBVV95cUxOMUpZYy1vVGZnWlJFaWZOcVVCRl90cGJVT3pZZUM0Z2RGeTVSY3hHdHlvM2hJemhmNmdWUnI1enRBbnRQOVhiQUpFVnM3dkZoZmg3VGxHR3UxYm82VkdUSlNBNHN5XzlNNFFaWEVBT011Y0RkcGhsN0Vqc25FX3Q1LUl4LVhLRGloMjVZTmNnSW9yM1dlQkxQYzI3VEVHTmNrejJmWlYzT0QtU1R4Y2dV?oc=5)
+
+---
 
 ### [EC Approves Daraxonrasib for Previously Treated Metastatic Pancreatic Cancer](https://news.google.com/rss/articles/CBMisAFBVV95cUxPakFneU1NcTF0WEYwYXg5MkpjdmNXZ3dIb0JKVllrbVdyZ3FjbEpjUDB3c3ZvY2k0STF3Nmd5cGtRc1FqazNZZVlpWUNReEdTRG43Ry1waFprdW9VMjNLaWozcHQyOGFRbmRvTmVpU1JfUFRiMHA5Vk9aQjlwTUJtR0Zlb1NhRDFKUUU2cnVmdnN0dDVHQ1JnUnI5TWZIdFZfNmNYd1pRbVJoOTA2MnpjWQ?oc=5)
 

@@ -3,7 +3,7 @@ layout: default
 title: "lung cancer (small cell lung carcinoma) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about lung cancer (small cell lung carcinoma). 14 articles, 5 related drugs."
+description: "Health news about lung cancer (small cell lung carcinoma). 15 articles, 5 related drugs."
 permalink: /news/small-cell-lung-carcinoma/
 last_modified_at: 2026-11-24
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-24
 ---
 
 <p class="key-answer" data-question="What news is there about lung cancer (small cell lung carcinoma)?">
-<strong>lung cancer (small cell lung carcinoma)</strong> currently has <strong>14 news articles</strong> and 5 related drugs.
+<strong>lung cancer (small cell lung carcinoma)</strong> currently has <strong>15 news articles</strong> and 5 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,7 @@ This page brings together the latest health news about “lung cancer” and lis
 </ul>
 </div>
 
-## Related News (14)
+## Related News (15)
 
 ### [From lung cancer in non-smokers to rising breast cancer deaths: South India's cancer profile is changing - The South First](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPY0Q3dDVnSF9Pd0g0cmhqV0k1dk5YTW5jcHhZQjNGZkRMeUhOOGdudTRYdW83dUM2Z0c4LVVHZUUwSWcxbXJoUXBkMHBhbkRqTDlwM1VSQ2FhbUxMbW55ZUZIN0NGdjNxb3ZjZ0gtQ0NxUWdEcnlqWXAxczl1ektialN6Y1NSMFFWZ2RXcTF4Y0I5d09uaU9jNUJGSWdlM0t1M0ticzNjYTlKR3l6clJTS3RHVUxCdWJRNkdtcEdTRXVLSzVYTUJfQzM5UEtPZzBuREE?oc=5)
 
@@ -57,6 +57,14 @@ Source: [Earth.com](https://news.google.com/rss/articles/CBMitwFBVV95cUxOLUhYYW4
 2026-11-23
 
 Source: [ETV Bharat](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcUZBVkVLbHNIcDFrTlhWdW9lMWJ6S3ZEYXkxdG1Ua3ZYVUxRYWt1Qzh4dEVQSWVRbkdOdlF2Y2lOZXp0aUJUNWdqN3gyU1JjUFlDeDRZS0lNTU5oX0kwNEtjaHY3R20yRVhPcU1nN29pRXcyYlF3N29rQ05ydU8yVUNJMWhFLXJrR05iX25ockJkR3RwLWlhX3JTSzFEZ0hRNWpvdVdHMi1GQdIBrwFBVV95cUxNWVhVSUJUd0kwRlAxMDVBZzFlVDR1RmRrNG5pcWQxSnFyQk1ZWFByc2doWXBEd0lYT1BSR2M2cF9QdlhaallySXZBeGc5UEdOYUFqaTI3R2prSTM1SmJfQWhodmI1ZzRRMy1LVTJiNnBSY0pxUm9iVWFiQTl0UWJMSVVmdW1hNnlVTG15Mm1CcVpQdEpCREhrMjdFSjJ2MUxZU0tkV0p3VGd6ZU5kbzNB?oc=5)
+
+---
+
+### [AI helps us spot possible lung cancer, says medic](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsRWdHZ1lmUXppLXpyUklzRU1Ja0FSRXpoNEljanBncVdGRWRQTXBGUlJXWnRoNklTeGNaejJ3ZUJIZUREXzlMbkZFN3hFQkkyb2h4aDd1cEVMVVU?oc=5)
+
+2026-11-23
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsRWdHZ1lmUXppLXpyUklzRU1Ja0FSRXpoNEljanBncVdGRWRQTXBGUlJXWnRoNklTeGNaejJ3ZUJIZUREXzlMbkZFN3hFQkkyb2h4aDd1cEVMVVU?oc=5)
 
 ---
 

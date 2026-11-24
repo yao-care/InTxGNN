@@ -15,7 +15,7 @@ last_modified_at: 2026-11-24
 ---
 
 <p class="key-answer" data-question="What news is there about Entacapone?">
-<strong>Entacapone</strong> currently has <strong>25 news articles</strong>, with 10 predicted indications.
+<strong>Entacapone</strong> currently has <strong>27 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,23 @@ This page combines the AI-predicted indications for Entacapone with the latest h
 <p><a href="{{ '/drugs/entacapone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (25)
+## Related News (27)
+
+### [Type 2 diabetes linked to 53% higher Alzheimer’s risk in study](https://news.google.com/rss/articles/CBMif0FVX3lxTE1SREVvejVJM1hJY0E1RnlaMkY1b09aY0hKZUJQcll1RFdodlJLalJSendmNWRWUzJMZG1TdV90NzBFQmF3dk1acVY0TW5URTMxaFBwSmNLc0FYSlNCTDhYTDkzcWdlU2h5cE9EdnA5NXZRQ3VjOE05dmZ2R3o2alk?oc=5)
+
+2026-11-24 <span class="news-indication-tag">alzheimer</span>
+
+Source: [Mezha.net](https://news.google.com/rss/articles/CBMif0FVX3lxTE1SREVvejVJM1hJY0E1RnlaMkY1b09aY0hKZUJQcll1RFdodlJLalJSendmNWRWUzJMZG1TdV90NzBFQmF3dk1acVY0TW5URTMxaFBwSmNLc0FYSlNCTDhYTDkzcWdlU2h5cE9EdnA5NXZRQ3VjOE05dmZ2R3o2alk?oc=5)
+
+---
+
+### [Air pollution may damage brain immunity and increase dementia risk](https://news.google.com/rss/articles/CBMitAFBVV95cUxQeVdCN2tXbzZJU2FubWduUGN6dTVsQXdIVUlsU1pFWHZxdzlmb1UtdVNzVXZFbHF4elNNanIzMXdKV0ppb2x5Rm52ZUlpUld4VkIwZm9uazNBMlVZUGlkdmViQm84cmFGWHB4S1BfVW9ZdGtjTVhhX2FVN2YxdTNEbHVNRjdfYlZyWGhDTm9mM2pEdVc5ZzV4bmtReUwzWU16SjY0eWpibExuSmk3Q01uLU9LQnM?oc=5)
+
+2026-11-24 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">alzheimer</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMitAFBVV95cUxQeVdCN2tXbzZJU2FubWduUGN6dTVsQXdIVUlsU1pFWHZxdzlmb1UtdVNzVXZFbHF4elNNanIzMXdKV0ppb2x5Rm52ZUlpUld4VkIwZm9uazNBMlVZUGlkdmViQm84cmFGWHB4S1BfVW9ZdGtjTVhhX2FVN2YxdTNEbHVNRjdfYlZyWGhDTm9mM2pEdVc5ZzV4bmtReUwzWU16SjY0eWpibExuSmk3Q01uLU9LQnM?oc=5)
+
+---
 
 ### [Lecanemab Linked to Changes in 12 Blood Proteins in Alzheimer’s](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMmpCZDRVUlkzNFZTYWk0enpYSGIwcXczNHREWDVkSWJfdGt1N21FX3lncS1jUU40c3NIWDZyR0RncWd1ai1ZR2hZN0Y0Yy1TckxWakFkYlJ2cktTbk5UM1cyMlMxeFlJWlctNHlRdXkza0thSk9PY2tqTGV3aElyZVlVWFZDeXY1Y1RFdUtET0hIZjdlRnBrR1hRSGx3ZDgzRENVcFlPZDk?oc=5)
 

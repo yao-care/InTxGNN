@@ -15,7 +15,7 @@ last_modified_at: 2026-11-24
 ---
 
 <p class="key-answer" data-question="What news is there about Diltiazem?">
-<strong>Diltiazem</strong> currently has <strong>14 news articles</strong>, with 0 predicted indications.
+<strong>Diltiazem</strong> currently has <strong>16 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,23 @@ This page combines the AI-predicted indications for Diltiazem with the latest he
 <p><a href="{{ '/drugs/diltiazem/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (14)
+## Related News (16)
+
+### [From slurred speech to an uneven smile: Doctor shares mini-stroke warning signs and when to call an ambulance | Health - Hindustan Times](https://news.google.com/rss/articles/CBMiiAJBVV95cUxQbTFXblJlTTFjQ1BPNWd2UVlZMlZqY0EzNjBQdUdkcVE3UWw3MFNEZTAyMURTS3h4Wmw3bFhiTDFtZUYwdHBESGtzbm12cG5fVUEwUGpPTXRjRGhGSkYxbHQwQUxWYWhfYXp2a1VwSHdaTHFnQWFHWGplazZlZExYLVJSbmFPRGRfZTdrY0Q1OWR2Q21tOHpadlRsTC05QWN4eUMyYTRQdHlqdHJpd2ZsM1Noa2duX3RQQkM0X1pjZXBVR2xhY090Z3habFVvZXJlY2tWLTRweHFGWXZYbmtfTndkSldkck5VV2V0Z291cVZXVWhPcGp2TGpZblNURmRTWVgyYjk5U03SAY4CQVVfeXFMTjRqQk94bDlSZEt4cjJjYmI4SjdWRzQtWjJMWnVTY1hadTdLYVN1SmRVVEFtdWl0UG4wMTBxUlBWb2R1TVlUSjBjS3VUbHVGN1lNbFZIRHZ4WXVRbzJqVTk3Z21JYzNaOEVnZF9OY0VjaFRiRUU2b05UYWYyVTFsdG56S2M1N1M5UkQ2N1ZXaDNxTnhjREJaZDhQQ05VRTQtX3hyVFhWLU1YU0FzckJTYS1jZzhPdU96RkhjU2Z1M0RXdmxsRHZXLWFsTUEyVVNyYzk1Zk5DQ3FsNEctZ2pueVpaZHZkQXdtejBnUW5zZ0s4REphTlVtRG5kVXA2NlJtVGpwRmJIeVJtQk5FNXhn?oc=5)
+
+2026-11-24 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
+
+Source: [Hindustan Times](https://news.google.com/rss/articles/CBMiiAJBVV95cUxQbTFXblJlTTFjQ1BPNWd2UVlZMlZqY0EzNjBQdUdkcVE3UWw3MFNEZTAyMURTS3h4Wmw3bFhiTDFtZUYwdHBESGtzbm12cG5fVUEwUGpPTXRjRGhGSkYxbHQwQUxWYWhfYXp2a1VwSHdaTHFnQWFHWGplazZlZExYLVJSbmFPRGRfZTdrY0Q1OWR2Q21tOHpadlRsTC05QWN4eUMyYTRQdHlqdHJpd2ZsM1Noa2duX3RQQkM0X1pjZXBVR2xhY090Z3habFVvZXJlY2tWLTRweHFGWXZYbmtfTndkSldkck5VV2V0Z291cVZXVWhPcGp2TGpZblNURmRTWVgyYjk5U03SAY4CQVVfeXFMTjRqQk94bDlSZEt4cjJjYmI4SjdWRzQtWjJMWnVTY1hadTdLYVN1SmRVVEFtdWl0UG4wMTBxUlBWb2R1TVlUSjBjS3VUbHVGN1lNbFZIRHZ4WXVRbzJqVTk3Z21JYzNaOEVnZF9OY0VjaFRiRUU2b05UYWYyVTFsdG56S2M1N1M5UkQ2N1ZXaDNxTnhjREJaZDhQQ05VRTQtX3hyVFhWLU1YU0FzckJTYS1jZzhPdU96RkhjU2Z1M0RXdmxsRHZXLWFsTUEyVVNyYzk1Zk5DQ3FsNEctZ2pueVpaZHZkQXdtejBnUW5zZ0s4REphTlVtRG5kVXA2NlJtVGpwRmJIeVJtQk5FNXhn?oc=5)
+
+---
+
+### [Lung health beyond smoking: The everyday risks we often overlook - The Times of India](https://news.google.com/rss/articles/CBMiywFBVV95cUxOSWFUZERoV1F0eXRlMHQ0Rml2XzhqUGx3MC1XV3cxR0hJd0RCT2ZDSHJRUjZnNXJHNm1LNmVXMjgzNUlJWEZXX29LaUs5VF93N25FYWlITERlc09SckFzdnYxMlRlNFZWMFdEOEpZaDVxOWhqMEJhZGlwdXpQWURHTGNzN1pFOGd3czZaUmRab0ltZEFEaVpNUVJ4QnNVN19yWjA3aXRTUkN3MmxYaThaUEJ2cTBYY1p0d3A0TjFqNTlIRzdSMndXRk9yd9IB0wFBVV95cUxNMnhZUzBhd05yd3JDdHlrdmtpUnVfeWs2cVJ0bUR2U1duTmV1bVZTWjN1SWNkem00YWQ2SGl1YmROUTFoeS1Oai16YnBGQUFTelQ1MkRMX3BVcTlfalBtTFJIdkJhd3AzbXZ4U3FPUGduRkpGMmF3eDNJY3NpQXZtLVBGTFQ4VlA2MklnVnN6STBGOFpZSG9ReWZKVG41MWVxd2xKUmRSN3ZWdlU3MnRKcHcxLVc4VzYtX2JTU3lSdERnSlJWQXYweS1qeUF0eVhKSkww?oc=5)
+
+2026-11-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
+
+Source: [The Times of India](https://news.google.com/rss/articles/CBMiywFBVV95cUxOSWFUZERoV1F0eXRlMHQ0Rml2XzhqUGx3MC1XV3cxR0hJd0RCT2ZDSHJRUjZnNXJHNm1LNmVXMjgzNUlJWEZXX29LaUs5VF93N25FYWlITERlc09SckFzdnYxMlRlNFZWMFdEOEpZaDVxOWhqMEJhZGlwdXpQWURHTGNzN1pFOGd3czZaUmRab0ltZEFEaVpNUVJ4QnNVN19yWjA3aXRTUkN3MmxYaThaUEJ2cTBYY1p0d3A0TjFqNTlIRzdSMndXRk9yd9IB0wFBVV95cUxNMnhZUzBhd05yd3JDdHlrdmtpUnVfeWs2cVJ0bUR2U1duTmV1bVZTWjN1SWNkem00YWQ2SGl1YmROUTFoeS1Oai16YnBGQUFTelQ1MkRMX3BVcTlfalBtTFJIdkJhd3AzbXZ4U3FPUGduRkpGMmF3eDNJY3NpQXZtLVBGTFQ4VlA2MklnVnN6STBGOFpZSG9ReWZKVG41MWVxd2xKUmRSN3ZWdlU3MnRKcHcxLVc4VzYtX2JTU3lSdERnSlJWQXYweS1qeUF0eVhKSkww?oc=5)
+
+---
 
 ### [Early warning signs predict heart attack and stroke decades ahead](https://news.google.com/rss/articles/CBMiswFBVV95cUxOelp0SGtKc3hjcUN1eV9TbXdRajZtLXhvMVhsb0FfREN4S3prWXpTUXc0a25sYk5SM3E0U3QyOHBldUlPYzV3ZEVlekptUzVNYlc0TERNcEE2Y01pNlpseXdjbEFjUldQV3lKY04xdUFYYmFwYjJxZFViYTFEbXNfU3prTzJiUTRyY0tWRzNxZHFQZm9kc1JubndDWmtSc1NVZGwzZGR6Q2JreFROcTMxYU5FUQ?oc=5)
 

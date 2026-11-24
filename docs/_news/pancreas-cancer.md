@@ -3,7 +3,7 @@ layout: default
 title: "pancreatic cancer (pancreas cancer) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about pancreatic cancer (pancreas cancer). 19 articles, 1 related drugs."
+description: "Health news about pancreatic cancer (pancreas cancer). 21 articles, 1 related drugs."
 permalink: /news/pancreas-cancer/
 last_modified_at: 2026-11-24
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-24
 ---
 
 <p class="key-answer" data-question="What news is there about pancreatic cancer (pancreas cancer)?">
-<strong>pancreatic cancer (pancreas cancer)</strong> currently has <strong>19 news articles</strong> and 1 related drugs.
+<strong>pancreatic cancer (pancreas cancer)</strong> currently has <strong>21 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,23 @@ This page brings together the latest health news about “pancreatic cancer” a
 </ul>
 </div>
 
-## Related News (19)
+## Related News (21)
+
+### [Pill plus chemo shrank pancreatic tumours in 61% in early trial | Tap to know more | Inshorts](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc1JTRmU1NTR2UDBRZDRPaG55T0Q4dmQ1V081ZkJkd05PS3lqUFZoNGZ1RndXTS1Od2hqR2txY2FIMHpWWnRxR3VmQ3gzbGQ5YnN4S1FkX1Zzb0pGM3RPUkVCTWlOU3lNRzhjWEMtaHJHZUE2TFlNaTY3MEl3RDR0Ml9DeUJqSmtLSWNJV3pJdFl3Y2FXUTI5NEtLaDJaSEt4SllWZ25CN1Fyd9IBrwFBVV95cUxOMUpZYy1vVGZnWlJFaWZOcVVCRl90cGJVT3pZZUM0Z2RGeTVSY3hHdHlvM2hJemhmNmdWUnI1enRBbnRQOVhiQUpFVnM3dkZoZmg3VGxHR3UxYm82VkdUSlNBNHN5XzlNNFFaWEVBT011Y0RkcGhsN0Vqc25FX3Q1LUl4LVhLRGloMjVZTmNnSW9yM1dlQkxQYzI3VEVHTmNrejJmWlYzT0QtU1R4Y2dV?oc=5)
+
+2026-11-24
+
+Source: [Inshorts](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc1JTRmU1NTR2UDBRZDRPaG55T0Q4dmQ1V081ZkJkd05PS3lqUFZoNGZ1RndXTS1Od2hqR2txY2FIMHpWWnRxR3VmQ3gzbGQ5YnN4S1FkX1Zzb0pGM3RPUkVCTWlOU3lNRzhjWEMtaHJHZUE2TFlNaTY3MEl3RDR0Ml9DeUJqSmtLSWNJV3pJdFl3Y2FXUTI5NEtLaDJaSEt4SllWZ25CN1Fyd9IBrwFBVV95cUxOMUpZYy1vVGZnWlJFaWZOcVVCRl90cGJVT3pZZUM0Z2RGeTVSY3hHdHlvM2hJemhmNmdWUnI1enRBbnRQOVhiQUpFVnM3dkZoZmg3VGxHR3UxYm82VkdUSlNBNHN5XzlNNFFaWEVBT011Y0RkcGhsN0Vqc25FX3Q1LUl4LVhLRGloMjVZTmNnSW9yM1dlQkxQYzI3VEVHTmNrejJmWlYzT0QtU1R4Y2dV?oc=5)
+
+---
+
+### [Pancreatic Cancer Awareness Month: Could yellow eyes, unexplained weight loss and abdominal pain be warning...](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVTFzYjV2NWlxSmVieDh6S2U1RGhjby1EbE1FUENGaDh2ZmpxNElHVUJmdnQ2U3JLQzVEQ2s5Nm1KUTF0MFVYdHJnNW9zXzlEUk1xeVk4b1BnNDZfRVRGczhQMVVSd2dVcVF5R2xIWF90ZkRiWUY0UTBmQUdOelJTRVNZS1lKSFItd1FYX1hRSUkxWGxWVGFIaGo1b2JGWTMxR29STWZMNHZhVUFVZFNac3hFa0V3dXZNTm5iNkhqUUlLampWazNPZ2RGWGkzQ3kyWTFnVUloYjFBenI1VFRkOU42cG1namxUX2hoY0MyQdIB9AFBVV95cUxPREJGSVhleEhaTjRxSWpoVFBRYlBZTS11ZmhkaG03NTV3bHNaZC1zRUlRUEZWb1Uyam0yTG9ZckRvS2gtZGJndU4wN3RUN2wzN3JXcGhxTDRJY2JkSUdnZkltYnJ3NzF4UEJRTnlRQmVTZW1scE51WGtCQnNVWlpfRXRfS1lBUFpmZmo0WWZYVHZ0ZUVBY000N2dEaDMxaDhaWm9SQUdJMFFndkduLXYwbl9MTlRJUENxcFdxOWdpVUphcXhLdDRPZ3RrejRtUEZ2MmhySFJoZWtoMEs4OFhqdGlCTnpma0NUZ01Kd0JqOGUxc3R4?oc=5)
+
+2026-11-24
+
+Source: [Firstpost](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVTFzYjV2NWlxSmVieDh6S2U1RGhjby1EbE1FUENGaDh2ZmpxNElHVUJmdnQ2U3JLQzVEQ2s5Nm1KUTF0MFVYdHJnNW9zXzlEUk1xeVk4b1BnNDZfRVRGczhQMVVSd2dVcVF5R2xIWF90ZkRiWUY0UTBmQUdOelJTRVNZS1lKSFItd1FYX1hRSUkxWGxWVGFIaGo1b2JGWTMxR29STWZMNHZhVUFVZFNac3hFa0V3dXZNTm5iNkhqUUlLampWazNPZ2RGWGkzQ3kyWTFnVUloYjFBenI1VFRkOU42cG1namxUX2hoY0MyQdIB9AFBVV95cUxPREJGSVhleEhaTjRxSWpoVFBRYlBZTS11ZmhkaG03NTV3bHNaZC1zRUlRUEZWb1Uyam0yTG9ZckRvS2gtZGJndU4wN3RUN2wzN3JXcGhxTDRJY2JkSUdnZkltYnJ3NzF4UEJRTnlRQmVTZW1scE51WGtCQnNVWlpfRXRfS1lBUFpmZmo0WWZYVHZ0ZUVBY000N2dEaDMxaDhaWm9SQUdJMFFndkduLXYwbl9MTlRJUENxcFdxOWdpVUphcXhLdDRPZ3RrejRtUEZ2MmhySFJoZWtoMEs4OFhqdGlCTnpma0NUZ01Kd0JqOGUxc3R4?oc=5)
+
+---
 
 ### [EC Approves Daraxonrasib for Previously Treated Metastatic Pancreatic Cancer](https://news.google.com/rss/articles/CBMisAFBVV95cUxPakFneU1NcTF0WEYwYXg5MkpjdmNXZ3dIb0JKVllrbVdyZ3FjbEpjUDB3c3ZvY2k0STF3Nmd5cGtRc1FqazNZZVlpWUNReEdTRG43Ry1waFprdW9VMjNLaWozcHQyOGFRbmRvTmVpU1JfUFRiMHA5Vk9aQjlwTUJtR0Zlb1NhRDFKUUU2cnVmdnN0dDVHQ1JnUnI5TWZIdFZfNmNYd1pRbVJoOTA2MnpjWQ?oc=5)
 

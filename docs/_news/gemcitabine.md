@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Gemcitabine. 8 predicted indications."
 permalink: /news/gemcitabine/
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-24
 ---
 
 # Gemcitabine News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-21
 ---
 
 <p class="key-answer" data-question="What news is there about Gemcitabine?">
-<strong>Gemcitabine</strong> currently has <strong>2 news articles</strong>, with 8 predicted indications.
+<strong>Gemcitabine</strong> currently has <strong>3 news articles</strong>, with 8 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,15 @@ This page combines the AI-predicted indications for Gemcitabine with the latest 
 <p><a href="{{ '/drugs/gemcitabine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (3)
+
+### [Synthesis, anticancer activity, and molecular docking of gemcitabine–hydroxycinnamic acid conjugates against breast cancer cells](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xYl8wX3hTMkpULVdxSjVkY2ctYWpoRkhJcjFMdkFCWll5djFBMldqdmFmSUowbkhsbUl4aGJFWG5EWG1mdTNmYy1tM0ZYdnJzbEd6QldfLW4zRml6NmZJ?oc=5)
+
+2026-11-24 <span class="news-drug-tag">GEMCITABINE</span> <span class="news-drug-tag">Gemcitabine</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xYl8wX3hTMkpULVdxSjVkY2ctYWpoRkhJcjFMdkFCWll5djFBMldqdmFmSUowbkhsbUl4aGJFWG5EWG1mdTNmYy1tM0ZYdnJzbEd6QldfLW4zRml6NmZJ?oc=5)
+
+---
 
 ### [Daraxonrasib Pill Offers Promising Hope for Pancreatic Cancer - India News Network](https://news.google.com/rss/articles/CBMipAFBVV95cUxQY005RENtWmhrTURWX3lBWTRDRTIydGVuTWFMc1BuYy1kelo4d19QQ3BhazRfUHRkQm5BdGs4REhBNFZDVUVsWDQwUkUtQlFzYkZCZ1dGX3g1aFhydG5DdEgxcHdOOVpkUmVQYUdCNHlyTFktcnpoR2pOOC0zQlVmSnlMT1NyLXZCRmFuQ01xc2dSNHp2Mzk4Ui1pejNuUWhMZ2tjXw?oc=5)
 

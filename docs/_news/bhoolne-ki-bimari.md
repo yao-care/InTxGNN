@@ -3,7 +3,7 @@ layout: default
 title: "dementia (bhoolne ki bimari) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about dementia (bhoolne ki bimari). 13 articles, 8 related drugs."
+description: "Health news about dementia (bhoolne ki bimari). 14 articles, 8 related drugs."
 permalink: /news/bhoolne-ki-bimari/
 last_modified_at: 2026-11-24
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-24
 ---
 
 <p class="key-answer" data-question="What news is there about dementia (bhoolne ki bimari)?">
-<strong>dementia (bhoolne ki bimari)</strong> currently has <strong>13 news articles</strong> and 8 related drugs.
+<strong>dementia (bhoolne ki bimari)</strong> currently has <strong>14 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,15 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (13)
+## Related News (14)
+
+### [Air pollution may damage brain immunity and increase dementia risk](https://news.google.com/rss/articles/CBMitAFBVV95cUxQeVdCN2tXbzZJU2FubWduUGN6dTVsQXdIVUlsU1pFWHZxdzlmb1UtdVNzVXZFbHF4elNNanIzMXdKV0ppb2x5Rm52ZUlpUld4VkIwZm9uazNBMlVZUGlkdmViQm84cmFGWHB4S1BfVW9ZdGtjTVhhX2FVN2YxdTNEbHVNRjdfYlZyWGhDTm9mM2pEdVc5ZzV4bmtReUwzWU16SjY0eWpibExuSmk3Q01uLU9LQnM?oc=5)
+
+2026-11-24
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMitAFBVV95cUxQeVdCN2tXbzZJU2FubWduUGN6dTVsQXdIVUlsU1pFWHZxdzlmb1UtdVNzVXZFbHF4elNNanIzMXdKV0ppb2x5Rm52ZUlpUld4VkIwZm9uazNBMlVZUGlkdmViQm84cmFGWHB4S1BfVW9ZdGtjTVhhX2FVN2YxdTNEbHVNRjdfYlZyWGhDTm9mM2pEdVc5ZzV4bmtReUwzWU16SjY0eWpibExuSmk3Q01uLU9LQnM?oc=5)
+
+---
 
 ### [Study reveals that type 2 Diabetes may increase the risk of Alzheimer’s disease by 53% - The Times of India](https://news.google.com/rss/articles/CBMigAJBVV95cUxNN1B5YnJlUks4WFR1R2pORVlHd0FLUjZpNjlMQkZZTnlsX01SOFAyckVMVHBhQ1VHVHFuYmdEak5pYW1LN3ptV3VOTGhrem9ueGdoWU93NXhZSXVhQVUyWmxadGJzVTI5NmcxaWN5TkhiM2p6NFJfR0dLQzBnM2tSdjlfVjNCSWpieHpIa0sydjZWempsLV9KS3FMX0ZTeC1KeWU2eXJkNnZDSjdOMDFfX3dRanpSN2tsZGpnZWRKUWtodlZFeXVGSVBrRlVZR2w4UWMtNW9Rd2VpOHBjRHVNMU5hUEE0YW5nTmp5TjQ2YnZuMnNCLWd2cFNpVUVwVjRH0gGGAkFVX3lxTE5sU0RtekpmR2lrQllUN0FMeF9MYkxvMUtCLV9MTk53UXZLazZyRjlveDZjVDBIVFhlYWJETVBiRkpoYU1uTEg4UmZVZnR5QTlvZUJNTFREaDlZcE5KUFZOQUotZTVTWm5hbmQ2T25EdThzcGN5dHRRVjF5LWktczR5Qkk1blVaSU9xTUpLSUF4X2k0NEkzbW5SRmd6S3hOVnIyY2V5TERNeFNRd2dwb0h0Q3cwN0czZVUtWGY1ajg2X1lyWldvWGw3RnRHYjdWMG1xcm81S3JHXzNYQjA4RzVtaGhiVF94R2RRTzhWRUU3Tzc4dERHRkxWazFmMWoybnhTMWpBSEE?oc=5)
 
