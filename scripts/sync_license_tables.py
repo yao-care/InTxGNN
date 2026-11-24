@@ -21,7 +21,7 @@ pack_size_label、Is_discontinued），CDSCO 核准狀態不在資料裡（同�
     （本站 known_use_pages 既有的句子）。證據包沒有任何紀錄時不放表，改一句 NONE_LINE。
   區塊前後各一行 <!-- licenses:begin --> <!-- licenses:end -->（查核紀錄、刪句工具與 gate 用來分辨程式寫的字）。
 放在哪：「## India Market Information」段落的第一張許可證表（表頭含 Authorization／Licen／Product）；段落裡沒有表時放在段落開頭；
-  沒有這個段落的頁不加。表以外的文字不動（正文張數由 scripts/rewrite_license_counts.py 依快照改寫）；
+  沒有這個段落的公開頁（證據包有紀錄）在 Safety Considerations 之前補段落（2026-11-24 第三輪 add_section；noindex 頁不補）。表以外的文字不動（正文張數由 scripts/rewrite_license_counts.py 依快照改寫）；
   段落裡舊的 PART_NOTE 行一律拿掉（程式區塊自己會寫）。
 
 第一次換表（--migrate）時另做兩件事（之後頁面上已是程式區塊，不會再發生）：
@@ -56,7 +56,8 @@ PART_NOTE = "Only part of the licence list is held in the data; the list may be 
 NONE_LINE = "No product containing this ingredient is recorded in the Indian medicine dataset used for this report."
 SUPERSEDED_BY = "programmatic product table (scripts/sync_license_tables.py, 2026-11-24, from the Indian Medicine Dataset)"
 # 每週排程 3b 的自我檢查（license_refresh）：改到的行除了表格列只能是這些（license_adapter.PAGE_NOTE 用同一份）
-PAGE_NOTE = r"^(" + "|".join(re.escape(x) for x in (BEGIN, END, SOURCE, PART_NOTE, NONE_LINE)) + r")$"
+# 2026-11-24 第三輪：補段落時新增的標題行（SEC）也放行
+PAGE_NOTE = r"^(" + "|".join(re.escape(x) for x in (BEGIN, END, SOURCE, PART_NOTE, NONE_LINE, SEC)) + r")$"
 
 
 def cell(x, n=90):
@@ -204,7 +205,7 @@ def process(text, rows, show, migrate=False, protect=()):
     lines = text.replace("\r\n", "\n").split("\n")
     a, b = _section(lines)
     if a is None:
-        return text, []
+        return add_section(text, rows, show), []
     blk = wrap(program_block(rows, show))
     removed = []
     sec = lines[a:b]
@@ -240,6 +241,32 @@ def process(text, rows, show, migrate=False, protect=()):
                 removed += g
     t = re.sub(r"\n{3,}", "\n\n", "\n".join(lines))
     return t, removed
+
+
+# 2026-11-24 第三輪（用戶決定，照 JpTxGNN 第二輪 add_section）：公開頁整頁沒有「## India Market Information」段落、證據包卻有紀錄的，
+# 補一個段落放程式表。位置：「## Safety Considerations」之前（預測頁固定順序）；沒有就「## Conclusion and Next Steps」之前；再沒有就「## Disclaimer」之前。
+# noindex 頁與證據包沒有紀錄的頁不補。
+ADD_BEFORE = ("Safety Considerations", "Conclusion and Next Steps", "Disclaimer")
+
+
+def is_noindex(text):
+    fm = text.split("---", 2)[1] if text.startswith("---") else ""
+    return bool(re.search(r"^noindex:\s*true", fm, re.M))
+
+
+def add_section(text, rows, show):
+    if is_noindex(text) or not rows:
+        return text
+    lines = text.split("\n")
+    heads = {m.group(1): i for i, l in enumerate(lines) for m in [re.match(r"^## (.+?)\s*$", l)] if m}
+    at = next((heads[h] for h in ADD_BEFORE if h in heads), None)
+    if at is None:
+        return text
+    head = lines[:at]
+    while head and not head[-1].strip():
+        head.pop()
+    sec = ["", SEC, ""] + wrap(program_block(rows, show)) + [""]
+    return re.sub(r"\n{3,}", "\n\n", "\n".join(head + sec + lines[at:]))
 
 
 def _snapshot():

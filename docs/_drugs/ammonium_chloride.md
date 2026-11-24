@@ -80,7 +80,13 @@ Currently no related literature available.
 
 ## India Market Information
 
-At least 20 single-ingredient licences are valid. The licence records contain no approved indication text.
+At least 20 licences are valid. The licence records contain no approved indication text.
+
+<!-- review:begin in-lic-20261124c-ammonium_chloride-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "At least 20 single-ingredient licences are valid." Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124c-ammonium_chloride-1 -->
 
 <!-- licenses:begin -->
 
@@ -139,6 +145,19 @@ The only support is a computational score. No trials or publications study nasal
 - A specific nasal condition (for example, rhinitis or nasal congestion) in place of the broad category, with a targeted literature and trial search
 - Review of the 21 recorded drug interactions and the knowledge-graph contraindications
 - Assessment of route and formulation compatibility; all current products are oral syrups or expectorants
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against the Indian medicine data used by this site (the Indian Medicine Dataset, a third-party compilation of Indian medicine prices). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-24 | Removed: the single-ingredient claim | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

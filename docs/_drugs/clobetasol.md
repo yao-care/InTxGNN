@@ -112,7 +112,13 @@ Only part of the licence list is held in the data; the list may be incomplete.
 
 <!-- licenses:end -->
 
-There are 20 valid single-ingredient registrations in total. All are topical products (cream, ointment, lotion).
+There are 20 valid registrations in total. All are topical products (cream, ointment, lotion).
+
+<!-- review:begin in-lic-20261124c-clobetasol-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "There are 20 valid single-ingredient registrations in total." Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124c-clobetasol-1 -->
 
 ## Safety Considerations
 
@@ -139,11 +145,12 @@ Observational cohort data and long-standing clinical practice support topical cl
 
 ## Review Log
 
-Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against the Indian medicine data used by this site (the Indian Medicine Dataset, a third-party compilation of Indian medicine prices). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-19 | "Currently, detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Clobetasol Propionate (Emollient) (clobetasol propionate) prescribing information, The J. Molner Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=26ccb1d8-c466-e238-e063-6394a90a0069) |
+| 2026-11-24 | Removed: the single-ingredient claim | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 

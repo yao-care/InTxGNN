@@ -38,9 +38,15 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 ## One-Sentence Summary
 
-Secnidazole is a 5-nitroimidazole antimicrobial that is marketed in India as a single-ingredient product.
+Secnidazole is a 5-nitroimidazole antimicrobial that is marketed in India.
 The TxGNN model predicts it may be effective for **postmenopausal atrophic vaginitis**, with a score of 0.9970.
 **No clinical trials and no publications** currently support this prediction, so it rests on the model output alone.
+
+<!-- review:begin in-lic-20261124c-secnidazole-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "Secnidazole is a 5-nitroimidazole antimicrobial that is marketed in India as a single-ingredient product." Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124c-secnidazole-1 -->
 
 ## Quick Overview
 
@@ -134,11 +140,12 @@ The prediction has a high model score but no trials or publications behind it, a
 
 ## Review Log
 
-Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against the Indian medicine data used by this site (the Indian Medicine Dataset, a third-party compilation of Indian medicine prices). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-19 | "Detailed mechanism of action data are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Solosec (secnidazole) prescribing information, Evofem Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=056485b6-8bba-4a21-ae00-cdb4e7ae4bfa) |
+| 2026-11-24 | Removed: the single-ingredient claim | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 

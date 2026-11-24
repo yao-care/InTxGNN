@@ -72,7 +72,13 @@ Currently no related literature available.
 
 ## India Market Information
 
-Clobetasone is marketed in India as single-ingredient licences (20 valid, none cancelled), all in topical forms. The approved indication text is not recorded for any of the licences.
+Clobetasone is marketed in India under licences (20 valid, none cancelled), all in topical forms. The approved indication text is not recorded for any of the licences.
+
+<!-- review:begin in-lic-20261124c-clobetasone-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "Clobetasone is marketed in India as single-ingredient licences (20 valid, none cancelled), all in topical forms." Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124c-clobetasone-1 -->
 
 <!-- licenses:begin -->
 
@@ -125,6 +131,19 @@ The only support is a TxGNN prediction (L5), with no clinical trials or literatu
 - A targeted literature search on topical corticosteroids, and clobetasone specifically, in early-stage mycosis fungoides / CTCL
 - A comparison with higher-potency corticosteroids to see whether a moderate-potency agent offers any advantage (for example, a better safety profile)
 - Route and formulation compatibility assessment for lymphoma indications
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against the Indian medicine data used by this site (the Indian Medicine Dataset, a third-party compilation of Indian medicine prices). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-24 | Removed: the single-ingredient claim | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

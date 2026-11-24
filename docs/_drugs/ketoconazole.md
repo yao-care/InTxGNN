@@ -99,7 +99,13 @@ No randomized controlled trial of ketoconazole in acne is among the retrieved pu
 
 ## India Market Information
 
-Twenty single-ingredient ketoconazole licences are currently valid in India. The approved indication text is not available in the licence records.
+Twenty ketoconazole licences are currently valid in India. The approved indication text is not available in the licence records.
+
+<!-- review:begin in-lic-20261124c-ketoconazole-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "Twenty single-ingredient ketoconazole licences are currently valid in India." Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124c-ketoconazole-1 -->
 
 <!-- licenses:begin -->
 
@@ -164,11 +170,12 @@ The prediction is biologically plausible (anti-androgenic and anti-Malassezia ef
 
 ## Review Log
 
-Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against the Indian medicine data used by this site (the Indian Medicine Dataset, a third-party compilation of Indian medicine prices). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-20 | "Detailed mechanism-of-action data are not available in the data compiled for this report, so the reasoning below rests on general pharmacology rather than curated drug-database entries" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt (revised 2026-11-20; earlier version kept in the record) | [DailyMed: ketoconazole prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4baebcab-a237-42c0-9183-6f447a44e371) |
+| 2026-11-24 | Removed: the single-ingredient claim | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 

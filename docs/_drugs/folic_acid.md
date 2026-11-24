@@ -95,7 +95,13 @@ No randomized trials or studies directly testing folic acid in biotin metabolic 
 
 ## India Market Information
 
-Folic acid has 20 valid single-ingredient licences in India, none cancelled. The approved indication text is blank in the data compiled for this report.
+Folic acid has 20 valid licences in India, none cancelled. The approved indication text is blank in the data compiled for this report.
+
+<!-- review:begin in-lic-20261124c-folic_acid-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "Folic acid has 20 valid single-ingredient licences in India, none cancelled." Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124c-folic_acid-1 -->
 
 <!-- licenses:begin -->
 
@@ -159,11 +165,12 @@ The prediction rests only on a model score (L5). There are no clinical trials, a
 
 ## Review Log
 
-Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against the Indian medicine data used by this site (the Indian Medicine Dataset, a third-party compilation of Indian medicine prices). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Quiofic (folic acid) prescribing information, Solubiomix, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b868b314-591d-458b-be82-2bcd0b73cce1) |
+| 2026-11-24 | Removed: the single-ingredient claim | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 

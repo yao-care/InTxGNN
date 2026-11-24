@@ -2784,1471 +2784,2206 @@
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "aceclofenac",
    "file": "aceclofenac.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Aceclofenac has 20 valid single-ingredient registrations in India.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 8562 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 18 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 8562 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 18 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-aceclofenac-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "acetylcysteine",
    "file": "acetylcysteine.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Acetylcysteine is a mucolytic and antioxidant thiol drug that is widely marketed in India as single-ingredient products.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 155 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 4 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 155 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 4 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-acetylcysteine-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "acetylcysteine",
    "file": "acetylcysteine.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "The data lists 20 valid single-ingredient licences, and the records may be partial.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 155 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 4 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 155 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 4 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-acetylcysteine-2"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "adapalene",
    "file": "adapalene.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Twenty valid single-ingredient registrations are listed.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 197 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 13 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 197 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 13 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-adapalene-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "alprazolam",
    "file": "alprazolam.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Alprazolam is marketed in India, with 20 valid single-ingredient licences in the data compiled for this report (the list may be partial).",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 954 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 7 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 954 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 7 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-alprazolam-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "ambroxol",
    "file": "ambroxol.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "A total of 20 valid single-ingredient registrations were found.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 2342 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 20 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 2342 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 20 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-ambroxol-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "amlodipine",
    "file": "amlodipine.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "The data compiled for this report list 20 valid single-ingredient licences, with no cancelled licences.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 1420 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 13 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 1420 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 13 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-amlodipine-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "ammonium_chloride",
    "file": "ammonium_chloride.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "At least 20 single-ingredient licences are valid.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 186 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 20 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 186 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 20 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-ammonium_chloride-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "amorolfine",
    "file": "amorolfine.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Amorolfine is marketed in India with 20 valid single-ingredient licences, all topical creams.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 102 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 2 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 102 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 2 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-amorolfine-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "amoxicillin",
    "file": "amoxicillin.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "The local records list 20 valid licences for single-ingredient products (the total is at least 20, so the list may be partial).",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 8373 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 17 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 8373 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 17 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-amoxicillin-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "ampicillin",
    "file": "ampicillin.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Ampicillin is a beta-lactam antibiotic that inhibits bacterial cell wall synthesis and is marketed in India in many single-ingredient products.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 547 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 15 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 547 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 15 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-ampicillin-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "ampicillin",
    "file": "ampicillin.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "At least 20 valid single-ingredient licences are recorded, and the list may be partial.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 547 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 15 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 547 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 15 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-ampicillin-2"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "aprepitant",
    "file": "aprepitant.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Twenty valid single-ingredient registrations were found.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 21 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 13 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 21 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 13 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-aprepitant-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "artemether",
    "file": "artemether.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Artemether is an artemisinin-class drug marketed in India in many single-ingredient products.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 377 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 16 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 377 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 16 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-artemether-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "artemether",
    "file": "artemether.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "At least 20 valid single-ingredient licences are recorded, and the list may be partial.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 377 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 16 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 377 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 16 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-artemether-2"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "ascorbic_acid",
    "file": "ascorbic_acid.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Ascorbic acid is widely marketed in India as a single-ingredient product.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 29 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 8 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 29 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 8 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-ascorbic_acid-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "atenolol",
    "file": "atenolol.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "At least 20 single-ingredient atenolol registrations are valid, and the list may be partial.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 278 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 3 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 278 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 3 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-atenolol-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "atropine",
    "file": "atropine.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Twenty valid single-ingredient registrations are on file.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 63 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 6 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 63 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 6 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-atropine-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "benzoyl_peroxide",
    "file": "benzoyl_peroxide.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "There are 20 valid single-ingredient registrations, all topical or wash-off products.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 71 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 6 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 71 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 6 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-benzoyl_peroxide-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "benzydamine",
    "file": "benzydamine.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Benzydamine has 20 valid single-ingredient registrations in India, with no cancelled licenses.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 31 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 5 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 31 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 5 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-benzydamine-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "betamethasone",
    "file": "betamethasone.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "At least 20 valid single-ingredient licences are recorded, and the list may be partial.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 383 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 8 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 383 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 8 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-betamethasone-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "bisoprolol",
    "file": "bisoprolol.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Bisoprolol is marketed in India as single-ingredient oral tablets, with 20 valid registrations and none cancelled.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 126 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 2 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 126 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 2 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-bisoprolol-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "bromfenac",
    "file": "bromfenac.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Twenty valid single-ingredient registrations are on record.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 62 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 2 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 62 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 2 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-bromfenac-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "bromocriptine",
    "file": "bromocriptine.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Bromocriptine is marketed in India, with 20 valid single-ingredient registrations.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 30 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 1 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 30 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 1 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-bromocriptine-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "buprenorphine",
    "file": "buprenorphine.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Twenty valid single-ingredient registrations are on record.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 34 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 1 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 34 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 1 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-buprenorphine-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "calcitriol",
    "file": "calcitriol.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "The records compiled for this report show 20 valid single-ingredient licences and none cancelled;",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 90 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 16 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣。另：資料集把 cholecalciferol 產品的成分寫成 Calcitriol（Calcirol 600000IU Injection 36119 在本頁程式表上；Devita Injection、Osta D3 300000IU／600000IU Injection 在資料集但沒存進證據包），程式表照資料集原文，沒改證據包規則"
+   "note": "證據包為部分收錄（資料集共 90 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 16 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣。另：資料集把 cholecalciferol 產品的成分寫成 Calcitriol（Calcirol 600000IU Injection 36119 在本頁程式表上；Devita Injection、Osta D3 300000IU／600000IU Injection 在資料集但沒存進證據包），程式表照資料集原文，沒改證據包規則",
+   "record_ids": [
+    "in-lic-20261124c-calcitriol-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "camylofin",
    "file": "camylofin.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Camylofin is an antispasmodic that is currently marketed in India in many single-ingredient products, although the data compiled for this report do not include an approved indication text.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 22 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 17 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 22 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 17 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-camylofin-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "camylofin",
    "file": "camylofin.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Camylofin is registered in India under 20 valid single-ingredient licences (no cancelled licences).",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 22 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 17 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 22 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 17 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-camylofin-2"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "capecitabine",
    "file": "capecitabine.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "At least 20 single-ingredient capecitabine licences are valid (the list may be partial).",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 58 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 1 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 58 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 1 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-capecitabine-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "carvedilol",
    "file": "carvedilol.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Carvedilol is marketed in India with 20 valid single-ingredient registrations.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 193 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 3 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 193 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 3 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-carvedilol-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "cefpodoxime",
    "file": "cefpodoxime.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "At least 20 single-ingredient licences are recorded and all are valid.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 6015 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 4 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 6015 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 4 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-cefpodoxime-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "ceftazidime",
    "file": "ceftazidime.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "At least 20 single-ingredient injection licences are valid, and the list may be partial.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 689 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 5 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 689 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 5 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-ceftazidime-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "ceftriaxone",
    "file": "ceftriaxone.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "At least 20 valid single-ingredient licences are recorded, and the list may be partial.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 6133 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 10 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 6133 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 10 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-ceftriaxone-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "celecoxib",
    "file": "celecoxib.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Celecoxib is marketed in India as a single-ingredient oral product, with 20 valid registrations and none cancelled.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 44 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 2 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 44 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 2 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-celecoxib-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "cetirizine",
    "file": "cetirizine.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Cetirizine is an H1-receptor antagonist antihistamine marketed in India in many single-ingredient products.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 1367 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 6 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 1367 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 6 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-cetirizine-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "cetirizine",
    "file": "cetirizine.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "The data list at least 20 valid single-ingredient licences, and the list may be partial.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 1367 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 6 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 1367 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 6 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-cetirizine-2"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "chloramphenicol",
    "file": "chloramphenicol.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "At least 20 valid single-ingredient licences are recorded and the list may be partial.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 332 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 8 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 332 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 8 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-chloramphenicol-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "chlordiazepoxide",
    "file": "chlordiazepoxide.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "In total, 20 valid single-ingredient oral tablet registrations were found.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 239 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 14 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 239 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 14 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-chlordiazepoxide-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "chlorpheniramine",
    "file": "chlorpheniramine.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Chlorpheniramine is an antihistamine (histamine H1 receptor blocker) that is marketed in India in single-ingredient products.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 2004 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 20 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 2004 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 20 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-chlorpheniramine-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "chlorzoxazone",
    "file": "chlorzoxazone.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Chlorzoxazone is a centrally acting skeletal muscle relaxant, marketed in India as a single-ingredient product (the license records list no approved indication text).",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 952 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 20 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 952 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 20 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-chlorzoxazone-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "choline_salicylate",
    "file": "choline_salicylate.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "The data compiled for this report list 20 valid single-ingredient licences, and none are cancelled.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 68 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 12 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 68 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 12 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-choline_salicylate-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "ciprofloxacin",
    "file": "ciprofloxacin.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Ciprofloxacin has 20 valid single-ingredient registrations in India and none are cancelled.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 1800 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 6 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 1800 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 6 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-ciprofloxacin-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "clindamycin",
    "file": "clindamycin.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Twenty valid single-ingredient licences are registered.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 753 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 6 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 753 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 6 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-clindamycin-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "clobetasol",
    "file": "clobetasol.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "There are 20 valid single-ingredient registrations in total.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 964 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 10 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 964 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 10 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-clobetasol-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "clobetasone",
    "file": "clobetasone.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Clobetasone is marketed in India as single-ingredient licences (20 valid, none cancelled), all in topical forms.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 21 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 17 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 21 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 17 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-clobetasone-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "clonazepam",
    "file": "clonazepam.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "The data compiled for this report show at least 20 valid single-ingredient records, none cancelled;",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 1458 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 11 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 1458 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 11 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-clonazepam-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "codeine",
    "file": "codeine.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Twenty single-ingredient licences are currently valid (none cancelled).",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 48 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 14 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 48 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 14 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-codeine-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "cyclobenzaprine",
    "file": "cyclobenzaprine.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Twenty valid single-ingredient registrations are on file.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 27 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 1 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 27 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 1 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-cyclobenzaprine-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "cyclopentolate",
    "file": "cyclopentolate.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Cyclopentolate is marketed in India with 20 valid single-ingredient registrations, all ophthalmic (eye drops or ophthalmic solutions).",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 36 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 2 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 36 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 2 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-cyclopentolate-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "cyproheptadine",
    "file": "cyproheptadine.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Cyproheptadine is an antihistamine with anticholinergic activity, marketed in India as single-ingredient syrups, tablets and drops.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 1085 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 17 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 1085 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 17 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-cyproheptadine-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "cyproheptadine",
    "file": "cyproheptadine.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "The data compiled for this report show 20 valid single-ingredient licences and no cancelled ones;",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 1085 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 17 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 1085 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 17 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-cyproheptadine-2"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "cyproterone_acetate",
    "file": "cyproterone_acetate.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Cyproterone acetate has 20 valid single-ingredient registrations;",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 32 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 20 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 32 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 20 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-cyproterone_acetate-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "desloratadine",
    "file": "desloratadine.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "At least 20 single-ingredient licences are currently valid, and the list may be partial.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 157 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 2 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 157 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 2 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-desloratadine-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "desvenlafaxine",
    "file": "desvenlafaxine.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "At least 20 single-ingredient licences are currently valid, and none are cancelled.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 161 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 5 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 161 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 5 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-desvenlafaxine-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "dexamethasone",
    "file": "dexamethasone.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Dexamethasone is marketed in India as a single-ingredient product.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 201 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 2 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 201 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 2 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-dexamethasone-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "diethylcarbamazine",
    "file": "diethylcarbamazine.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Diethylcarbamazine is widely marketed in India, with 20 valid single-ingredient registrations and no cancelled ones.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 68 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 12 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 68 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 12 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-diethylcarbamazine-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "diphenhydramine",
    "file": "diphenhydramine.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "At least 20 valid single-ingredient licences are recorded, and the list may be partial.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 60 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 11 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 60 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 11 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-diphenhydramine-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "domperidone",
    "file": "domperidone.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Domperidone is marketed in India, with 20 valid single-ingredient registrations and no cancelled ones.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 8756 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 19 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 8756 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 19 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-domperidone-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "donepezil",
    "file": "donepezil.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Donepezil is a cholinesterase inhibitor marketed in India as single-ingredient tablets and an orally disintegrating strip.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 124 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 6 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 124 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 6 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-donepezil-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "donepezil",
    "file": "donepezil.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Donepezil has 20 valid single-ingredient licences in the data compiled for this report, and none are cancelled.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 124 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 6 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 124 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 6 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-donepezil-2"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "doxofylline",
    "file": "doxofylline.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Twenty valid single-ingredient registrations are on record.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 302 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 13 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 302 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 13 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-doxofylline-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "doxycycline",
    "file": "doxycycline.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Twenty single-ingredient doxycycline licences are valid, and none are cancelled.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 400 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 11 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 400 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 11 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-doxycycline-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "doxylamine",
    "file": "doxylamine.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Doxylamine is an antihistamine with anticholinergic properties that is marketed in India as single-ingredient tablets.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 566 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 20 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 566 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 20 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-doxylamine-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "doxylamine",
    "file": "doxylamine.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "At least 20 valid single-ingredient licences are recorded, and the list may be partial.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 566 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 20 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 566 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 20 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-doxylamine-2"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "duloxetine",
    "file": "duloxetine.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "At least 20 valid single-ingredient licences are recorded, and the list may be partial.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 326 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 2 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 326 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 2 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-duloxetine-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "ebastine",
    "file": "ebastine.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Ebastine is marketed in India with 20 valid single-ingredient registrations and no cancelled ones.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 110 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 4 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 110 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 4 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-ebastine-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "emtricitabine",
    "file": "emtricitabine.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "At least 20 valid single-ingredient registrations were found, and the list may be partial.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 22 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 20 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 22 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 20 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-emtricitabine-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "etizolam",
    "file": "etizolam.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Etizolam has 20 valid single-ingredient registrations in India and none cancelled.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 508 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 6 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 508 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 6 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-etizolam-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "etoricoxib",
    "file": "etoricoxib.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Etoricoxib has 20 valid single-ingredient registrations.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 1961 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 8 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 1961 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 8 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-etoricoxib-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "famotidine",
    "file": "famotidine.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Famotidine has 20 valid single-ingredient registrations, all oral tablets.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 88 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 1 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 88 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 1 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-famotidine-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "fluconazole",
    "file": "fluconazole.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Fluconazole is marketed in India with 20 valid single-ingredient registrations and no cancelled ones.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 1495 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 1 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 1495 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 1 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-fluconazole-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "fluocinolone_acetonide",
    "file": "fluocinolone_acetonide.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Marketed products containing fluocinolone acetonide as a single ingredient include the following.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 90 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 15 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 90 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 15 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-fluocinolone_acetonide-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "fluoxetine",
    "file": "fluoxetine.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "At least 20 single-ingredient fluoxetine licences are recorded, and the list may be partial.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 388 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 3 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 388 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 3 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-fluoxetine-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "flupentixol",
    "file": "flupentixol.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Flupentixol is marketed in India as single-ingredient products, with 20 valid registrations and none cancelled.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 228 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 16 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 228 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 16 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-flupentixol-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "fluticasone_furoate",
    "file": "fluticasone_furoate.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Twenty single-ingredient registrations are valid in India, all nasal sprays;",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 65 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 2 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 65 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 2 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-fluticasone_furoate-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "folic_acid",
    "file": "folic_acid.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Folic acid has 20 valid single-ingredient licences in India, none cancelled.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 74 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 11 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 74 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 11 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-folic_acid-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "formoterol",
    "file": "formoterol.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "At least 20 valid single-ingredient licences were found, and the list may be partial.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 232 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 20 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 232 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 20 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-formoterol-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "glycerin",
    "file": "glycerin.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Glycerin has 20 valid single-ingredient registrations, all injectable or infusion products.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 31 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 20 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 31 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 20 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-glycerin-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "guaifenesin",
    "file": "guaifenesin.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Guaifenesin has 20 valid single-ingredient registrations in India and none are cancelled.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 374 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 20 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 374 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 20 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-guaifenesin-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "haloperidol",
    "file": "haloperidol.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Haloperidol has 20 valid single-ingredient registrations in India, all oral tablets.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 245 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 4 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 245 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 4 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-haloperidol-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "hydroquinone",
    "file": "hydroquinone.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Hydroquinone is a topical skin-lightening agent that is widely marketed in India as single-ingredient creams and ointments.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 334 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 12 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 334 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 12 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-hydroquinone-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "hydroquinone",
    "file": "hydroquinone.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Twenty single-ingredient hydroquinone products hold valid registrations, and none has been cancelled.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 334 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 12 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 334 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 12 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-hydroquinone-2"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "imipramine",
    "file": "imipramine.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "There are 20 valid single-ingredient oral registrations in total, all as tablets.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 82 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 1 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 82 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 1 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-imipramine-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "irbesartan",
    "file": "irbesartan.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Irbesartan is marketed in India, with 20 valid single-ingredient registrations.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 34 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 9 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 34 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 9 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-irbesartan-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "isosorbide_dinitrate",
    "file": "isosorbide_dinitrate.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "At least 20 valid single-ingredient licences were found, and the list may be partial.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 24 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 7 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 24 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 7 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-isosorbide_dinitrate-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "isosorbide_mononitrate",
    "file": "isosorbide_mononitrate.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "There are 20 valid single-ingredient licences.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 137 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 3 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 137 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 3 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-isosorbide_mononitrate-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "itopride",
    "file": "itopride.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Itopride has 20 valid single-ingredient registrations in India.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 36 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 1 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 36 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 1 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-itopride-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "ivabradine",
    "file": "ivabradine.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Twenty valid single-ingredient registrations were found.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 92 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 1 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 92 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 1 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-ivabradine-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "ivermectin",
    "file": "ivermectin.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Ivermectin is marketed in India with 20 valid single-ingredient registrations.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 731 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 14 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 731 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 14 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-ivermectin-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "ketoconazole",
    "file": "ketoconazole.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Twenty single-ingredient ketoconazole licences are currently valid in India.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 1049 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 1 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 1049 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 1 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-ketoconazole-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "ketoprofen",
    "file": "ketoprofen.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "A total of 20 valid single-ingredient registrations exist.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 21 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 9 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 21 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 9 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-ketoprofen-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "ketorolac",
    "file": "ketorolac.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Twenty valid single-ingredient registrations are on record, covering oral tablets (mostly dispersible), injections and ophthalmic solutions.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 368 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 2 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 368 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 2 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-ketorolac-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "lamivudine",
    "file": "lamivudine.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Lamivudine is a nucleoside reverse transcriptase inhibitor whose relations to chronic hepatitis B, HIV infection and AIDS are recorded in the knowledge graph, and it is marketed in India under many single-ingredient registrations.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 90 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 12 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 90 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 12 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-lamivudine-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "lamivudine",
    "file": "lamivudine.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "At least 20 single-ingredient registrations are on record (the list may be partial).",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 90 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 12 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 90 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 12 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-lamivudine-2"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "levodopa",
    "file": "levodopa.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Levodopa is marketed in India with 20 valid single-ingredient registrations.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 29 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 20 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 29 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 20 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-levodopa-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "levofloxacin",
    "file": "levofloxacin.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Levofloxacin is a broad-spectrum fluoroquinolone antibacterial that is marketed in India as single-ingredient oral tablets.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 2260 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 2 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 2260 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 2 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-levofloxacin-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "levonorgestrel",
    "file": "levonorgestrel.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "The data compiled for this report list 20 valid single-ingredient registrations, and the list may be partial.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 22 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 2 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 22 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 2 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-levonorgestrel-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "lidocaine",
    "file": "lidocaine.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "At least 20 single-ingredient lidocaine licences are valid in India.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 302 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 4 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 302 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 4 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-lidocaine-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "loperamide",
    "file": "loperamide.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Loperamide is marketed in India as an oral single-ingredient product, with 20 valid registrations and none cancelled.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 89 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 1 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 89 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 1 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-loperamide-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "lornoxicam",
    "file": "lornoxicam.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Lornoxicam is a nonsteroidal anti-inflammatory drug (NSAID) of the oxicam class that is marketed in India as single-ingredient products.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 439 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 16 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 439 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 16 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-lornoxicam-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "mebendazole",
    "file": "mebendazole.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "There are 20 valid single-ingredient registrations.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 34 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 4 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 34 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 4 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-mebendazole-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "mefenamic_acid",
    "file": "mefenamic_acid.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Mefenamic acid is a non-steroidal anti-inflammatory drug that blocks prostaglandin synthesis and is marketed in India as a single-ingredient product.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 1018 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 17 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 1018 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 17 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-mefenamic_acid-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "mefenamic_acid",
    "file": "mefenamic_acid.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "The data lists 20 valid single-ingredient licences.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 1018 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 17 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 1018 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 17 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-mefenamic_acid-2"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "meropenem",
    "file": "meropenem.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Meropenem has 20 valid single-ingredient registrations, all injectable.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 1136 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 1 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 1136 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 1 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-meropenem-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "metoclopramide",
    "file": "metoclopramide.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Metoclopramide is currently marketed in India with 20 valid single-ingredient registrations.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 94 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 12 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 94 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 12 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-metoclopramide-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "miconazole",
    "file": "miconazole.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "At least 20 single-ingredient miconazole licences are recorded, all valid, and the list may be partial.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 80 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 9 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 80 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 9 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-miconazole-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "montelukast",
    "file": "montelukast.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "There are 20 valid single-ingredient registrations.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 1012 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 14 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 1012 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 14 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-montelukast-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "mosapride",
    "file": "mosapride.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Mosapride has 20 valid single-ingredient registrations in India, and none are cancelled.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 50 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 4 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 50 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 4 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-mosapride-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "moxifloxacin",
    "file": "moxifloxacin.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Moxifloxacin has 20 valid single-ingredient registrations, with no cancelled ones.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 695 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 1 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 695 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 1 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-moxifloxacin-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "moxonidine",
    "file": "moxonidine.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Moxonidine is marketed in India with 20 valid single-ingredient registrations.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 39 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 1 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 39 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 1 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-moxonidine-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "nalidixic_acid",
    "file": "nalidixic_acid.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "There are 20 valid single-ingredient registrations.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 32 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 19 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 32 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 19 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-nalidixic_acid-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "naproxen",
    "file": "naproxen.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Naproxen has 20 valid single-ingredient registrations and no cancelled ones.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 156 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 14 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 156 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 14 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-naproxen-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "nebivolol",
    "file": "nebivolol.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Nebivolol is marketed in India as oral tablets (strips of 10 tablets), with 20 valid single-ingredient registrations and no cancelled ones.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 232 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 10 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 232 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 10 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-nebivolol-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "oxytetracycline",
    "file": "oxytetracycline.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Oxytetracycline has 20 valid single-ingredient registrations in India and none cancelled.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 25 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 1 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 25 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 1 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-oxytetracycline-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "paclitaxel",
    "file": "paclitaxel.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Paclitaxel has 20 valid single-ingredient registrations in India and none are cancelled.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 135 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 1 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 135 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 1 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-paclitaxel-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "piperacillin",
    "file": "piperacillin.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Piperacillin has 20 valid single-ingredient registrations, all injectable.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 917 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 20 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 917 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 20 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-piperacillin-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "polymyxin_b",
    "file": "polymyxin_b.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Polymyxin B has 20 valid single-ingredient registrations.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 55 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 4 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 55 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 4 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-polymyxin_b-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "potassium_chloride",
    "file": "potassium_chloride.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Twenty single-ingredient registrations are valid.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 23 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 6 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 23 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 6 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-potassium_chloride-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "potassium_citrate",
    "file": "potassium_citrate.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "At least 20 valid licences for single-ingredient products are on record, and the list may be partial.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 27 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 18 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 27 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 18 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-potassium_citrate-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "pseudoephedrine",
    "file": "pseudoephedrine.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Twenty single-ingredient licences are valid and none are cancelled.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 55 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 20 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 55 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 20 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-pseudoephedrine-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "pyrazinamide",
    "file": "pyrazinamide.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Pyrazinamide has 20 valid single-ingredient registrations in India.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 83 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 1 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 83 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 1 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-pyrazinamide-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "ramipril",
    "file": "ramipril.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Ramipril has 20 valid single-ingredient registrations in India (none cancelled).",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 535 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 6 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 535 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 6 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-ramipril-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "ranitidine",
    "file": "ranitidine.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Ranitidine is a histamine H2-receptor antagonist that reduces gastric acid secretion and is marketed in India as a single-ingredient product.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 288 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 1 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 288 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 1 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-ranitidine-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "rofecoxib",
    "file": "rofecoxib.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "There are 20 valid single-ingredient registrations in total, including oral tablets and capsules and topical gels.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 115 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 1 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 115 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 1 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-rofecoxib-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "roxithromycin",
    "file": "roxithromycin.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "There are 20 valid single-ingredient registrations in total.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 596 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 2 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 596 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 2 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-roxithromycin-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "salbutamol",
    "file": "salbutamol.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "The data compiled for this report lists 20 valid single-ingredient registrations and no cancelled ones.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 166 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 16 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 166 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 16 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-salbutamol-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "salicylic_acid",
    "file": "salicylic_acid.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "There are 20 valid single-ingredient registrations and no cancelled ones.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 46 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 1 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 46 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 1 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-salicylic_acid-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "secnidazole",
    "file": "secnidazole.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Secnidazole is a 5-nitroimidazole antimicrobial that is marketed in India as a single-ingredient product.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 23 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 1 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 23 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 1 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-secnidazole-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "silodosin",
    "file": "silodosin.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Silodosin is marketed in India with 20 valid single-ingredient registrations.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 224 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 11 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 224 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 11 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-silodosin-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "simvastatin",
    "file": "simvastatin.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Twenty valid single-ingredient registrations are listed.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 73 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 1 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 73 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 1 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-simvastatin-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "sofosbuvir",
    "file": "sofosbuvir.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Sofosbuvir has 20 valid single-ingredient registrations in India.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 26 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 8 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 26 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 8 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-sofosbuvir-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "sucralfate",
    "file": "sucralfate.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Sucralfate is marketed in India with 20 valid single-ingredient registrations.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 777 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 17 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 777 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 17 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-sucralfate-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "sulfamethoxazole",
    "file": "sulfamethoxazole.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Twenty valid single-ingredient registrations are on record, with no cancelled licences.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 137 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 20 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 137 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 20 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-sulfamethoxazole-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "tadalafil",
    "file": "tadalafil.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Tadalafil is marketed in India with 20 valid single-ingredient registrations and no cancelled ones.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 217 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 2 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 217 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 2 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-tadalafil-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "teneligliptin",
    "file": "teneligliptin.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Teneligliptin is marketed in India as oral single-ingredient tablets.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 343 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 1 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 343 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 1 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-teneligliptin-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "tenofovir_disoproxil",
    "file": "tenofovir_disoproxil.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Twenty valid single-ingredient licences are registered.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 21 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 4 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 21 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 4 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-tenofovir_disoproxil-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "terbutaline",
    "file": "terbutaline.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Terbutaline is marketed in India as single-ingredient products.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 172 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 19 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 172 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 19 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-terbutaline-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "theophylline",
    "file": "theophylline.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "At least 20 single-ingredient registrations are valid, and the list may be partial.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 55 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 7 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 55 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 7 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-theophylline-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "thiamine",
    "file": "thiamine.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "At least 20 licences are recorded for single-ingredient thiamine products (the list may be partial).",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 56 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 7 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 56 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 7 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-thiamine-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "ticagrelor",
    "file": "ticagrelor.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Twenty single-ingredient registrations are valid and none are cancelled.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 53 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 3 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 53 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 3 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-ticagrelor-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "tinidazole",
    "file": "tinidazole.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Twenty valid single-ingredient registrations are on record.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 58 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 3 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 58 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 3 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-tinidazole-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "tolperisone",
    "file": "tolperisone.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Tolperisone has 20 valid single-ingredient registrations and no cancelled ones.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 197 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 9 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 197 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 9 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-tolperisone-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "tranexamic_acid",
    "file": "tranexamic_acid.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Twenty valid single-ingredient registrations were found.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 855 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 8 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 855 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 8 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-tranexamic_acid-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "trihexyphenidyl",
    "file": "trihexyphenidyl.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Twenty valid single-ingredient registrations are listed;",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 117 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 2 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 117 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 2 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-trihexyphenidyl-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "valdecoxib",
    "file": "valdecoxib.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "The records compiled for this report list at least 20 valid single-ingredient registrations.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 66 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 2 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 66 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 2 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-valdecoxib-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "valsartan",
    "file": "valsartan.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Valsartan is marketed in India with 20 valid single-ingredient registrations.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 43 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 7 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 43 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 7 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-valsartan-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   },
   {
    "source": "部分收錄頁的單方說法跟證據包已存紀錄不符（2026-11-24 第二輪寬偵測）",
    "drug": "voglibose",
    "file": "voglibose.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Voglibose is sold as single-ingredient oral tablets by many manufacturers.",
    "reason": "single-partial",
    "added": "2026-11-24",
-   "note": "證據包為部分收錄（資料集共 623 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 1 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣"
+   "note": "證據包為部分收錄（資料集共 623 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 1 筆是複方；句子說單方（或 N 張單方）。資料集全量裡的單方品項數沒有逐藥核對（要依成分比對整份 data/raw/indian_medicine_data.csv），所以第一輪寬偵測只處理非部分收錄頁；要改請照 2026-11-06 做法寫紀錄刪「single-ingredient」字樣",
+   "record_ids": [
+    "in-lic-20261124c-voglibose-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第三輪用戶決定照 2026-11-06 做法只刪「single-ingredient」字樣，寫 correct 紀錄"
   }
  ]
 }

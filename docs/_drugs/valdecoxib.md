@@ -46,7 +46,13 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## India Market Information
 
-The records compiled for this report list at least 20 valid single-ingredient registrations. The list may be partial. None of the records contains approved-indication text.
+The records compiled for this report list at least 20 valid registrations. The list may be partial. None of the records contains approved-indication text.
+
+<!-- review:begin in-lic-20261124c-valdecoxib-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "The records compiled for this report list at least 20 valid single-ingredient registrations." Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124c-valdecoxib-1 -->
 
 <!-- licenses:begin -->
 
@@ -85,6 +91,18 @@ Only part of the licence list is held in the data; the list may be incomplete.
 - **Regulatory history (from the literature, to be verified)**: Valdecoxib (Bextra) was reportedly withdrawn from the US market in 2005 because of cardiovascular risk and serious skin reactions (Stevens-Johnson syndrome, toxic epidermal necrolysis). This conflicts with the "Marketed" status in the Indian records and should be checked against the current CDSCO status.
 
 Package insert warnings and contraindications were not available for this report. Please refer to the package insert for them.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against the Indian medicine data used by this site (the Indian Medicine Dataset, a third-party compilation of Indian medicine prices). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-24 | Removed: the single-ingredient claim | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

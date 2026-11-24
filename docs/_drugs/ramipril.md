@@ -77,7 +77,13 @@ No literature was retrieved for the top-ranked prediction. The closest related p
 
 ## India Market Information
 
-Ramipril has 20 valid single-ingredient registrations in India (none cancelled). Approved indication text is not available in the licence records.
+Ramipril has 20 valid registrations in India (none cancelled). Approved indication text is not available in the licence records.
+
+<!-- review:begin in-lic-20261124c-ramipril-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "Ramipril has 20 valid single-ingredient registrations in India (none cancelled)." Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124c-ramipril-1 -->
 
 <!-- licenses:begin -->
 
@@ -142,11 +148,12 @@ The prediction rests on a model score alone, with no clinical trials or publicat
 
 ## Review Log
 
-Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against the Indian medicine data used by this site (the Indian Medicine Dataset, a third-party compilation of Indian medicine prices). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: ramipril prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=245d3580-77c6-4c0f-b324-c8514b792c59) |
+| 2026-11-24 | Removed: the single-ingredient claim | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 

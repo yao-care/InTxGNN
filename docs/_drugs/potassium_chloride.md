@@ -84,7 +84,13 @@ The compiled literature is mostly case reports and narrative reviews, with no RC
 
 ## India Market Information
 
-The approved indication text is not listed for these registrations. Twenty single-ingredient registrations are valid.
+The approved indication text is not listed for these registrations. Twenty registrations are valid.
+
+<!-- review:begin in-lic-20261124c-potassium_chloride-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "Twenty single-ingredient registrations are valid." Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124c-potassium_chloride-1 -->
 
 <!-- licenses:begin -->
 
@@ -137,6 +143,19 @@ The high TxGNN score mainly reflects the known link between RTA and hypokalaemia
 - Comparative evidence versus potassium citrate or alkali therapy in RTA
 - Clinical studies on potassium replacement in RTA-related hypokalaemia
 - A monitoring plan for serum potassium and renal function, given the major hyperkalaemia-related interactions
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against the Indian medicine data used by this site (the Indian Medicine Dataset, a third-party compilation of Indian medicine prices). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-24 | Removed: the single-ingredient claim | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

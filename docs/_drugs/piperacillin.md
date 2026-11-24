@@ -82,7 +82,13 @@ None of the retrieved publications tests piperacillin as a treatment for rheumat
 
 ## India Market Information
 
-Piperacillin has 20 valid single-ingredient registrations, all injectable. The licence records compiled for this report contain no approved-indication text.
+Piperacillin has 20 valid registrations, all injectable. The licence records compiled for this report contain no approved-indication text.
+
+<!-- review:begin in-lic-20261124c-piperacillin-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "Piperacillin has 20 valid single-ingredient registrations, all injectable." Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124c-piperacillin-1 -->
 
 <!-- licenses:begin -->
 
@@ -140,6 +146,19 @@ The prediction is supported only by the model score (L5). There are no clinical 
 - Package insert warnings and contraindications from the Indian regulator, needed for safety screening
 - Preclinical or early clinical evidence of anti-inflammatory or disease-modifying activity in rheumatoid arthritis
 - Approved-indication text for the Indian registrations
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against the Indian medicine data used by this site (the Indian Medicine Dataset, a third-party compilation of Indian medicine prices). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-24 | Removed: the single-ingredient claim | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

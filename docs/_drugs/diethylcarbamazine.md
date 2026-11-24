@@ -89,7 +89,13 @@ Neither publication studies syndromic lymphedema. Both address infectious filari
 
 ## India Market Information
 
-Diethylcarbamazine is widely marketed in India, with 20 valid single-ingredient registrations and no cancelled ones. The approved indication text is not recorded for these products.
+Diethylcarbamazine is widely marketed in India, with 20 valid registrations and no cancelled ones. The approved indication text is not recorded for these products.
+
+<!-- review:begin in-lic-20261124c-diethylcarbamazine-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "Diethylcarbamazine is widely marketed in India, with 20 valid single-ingredient registrations and no cancelled ones." Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124c-diethylcarbamazine-1 -->
 
 <!-- licenses:begin -->
 
@@ -147,6 +153,19 @@ The prediction rests on model output and a shared lymphedema label. There are no
 - Package insert warnings and contraindications for the Indian products
 - Preclinical or early clinical studies directly in syndromic or other non-filarial lymphedema
 - Review of whether other high-scoring predictions have any stronger direct evidence
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against the Indian medicine data used by this site (the Indian Medicine Dataset, a third-party compilation of Indian medicine prices). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-24 | Removed: the single-ingredient claim | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

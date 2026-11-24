@@ -73,7 +73,13 @@ Currently no related literature available.
 
 ## India Market Information
 
-Mosapride has 20 valid single-ingredient registrations in India, and none are cancelled. The licence records contain no approved indication text.
+Mosapride has 20 valid registrations in India, and none are cancelled. The licence records contain no approved indication text.
+
+<!-- review:begin in-lic-20261124c-mosapride-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "Mosapride has 20 valid single-ingredient registrations in India, and none are cancelled." Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124c-mosapride-1 -->
 
 <!-- licenses:begin -->
 
@@ -126,6 +132,19 @@ The prediction rests on a model score alone. There are no clinical trials or pub
 - Detailed mechanism of action data for mosapride.
 - A literature and trial search, plus preclinical or mechanistic work, on serotonergic or gut-brain links to sleep.
 - A comparison of mosapride's pharmacology with that of existing insomnia treatments.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against the Indian medicine data used by this site (the Indian Medicine Dataset, a third-party compilation of Indian medicine prices). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-24 | Removed: the single-ingredient claim | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

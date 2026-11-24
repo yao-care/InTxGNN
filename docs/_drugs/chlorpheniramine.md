@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Chlorpheniramine"
 predicted_indications: ["nasal cavity disease"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Chlorpheniramine: predicted new indication nasal cavity disease (evidence level L5). In India: at least 20 listed products"
 ---
 
@@ -38,8 +38,14 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 ## One-Sentence Summary
 
-Chlorpheniramine is an antihistamine (histamine H1 receptor blocker) that is marketed in India in single-ingredient products.
+Chlorpheniramine is an antihistamine (histamine H1 receptor blocker) that is marketed in India.
 The TxGNN model predicts it may be effective for **nasal cavity disease**, but the supporting evidence is limited to **8 preclinical or physiology publications** and **no registered clinical trials**.
+
+<!-- review:begin in-lic-20261124c-chlorpheniramine-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "Chlorpheniramine is an antihistamine (histamine H1 receptor blocker) that is marketed in India in single-ingredient products." Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124c-chlorpheniramine-1 -->
 
 ## Quick Overview
 
@@ -80,6 +86,39 @@ All of the literature below is preclinical (animal models) or experimental physi
 | [1705288](https://pubmed.ncbi.nlm.nih.gov/1705288/) | 1990 | Animal study | Journal of Pharmacobio-Dynamics | Brown Norway rat model of allergic rhinitis used to evaluate antiallergic drugs |
 | [2923378](https://pubmed.ncbi.nlm.nih.gov/2923378/) | 1989 | Human physiology study | American Review of Respiratory Disease | Sources of protein in histamine-induced nasal secretions in atopic and nonatopic subjects |
 
+## India Market Information
+
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 12652 | Avokold DS Syrup | Bottle of 60 ml Syrup | Valid |
+| 35975 | Congestyl Tablet | Strip of 10 tablets | Valid |
+| 86270 | Forcold Plus Syrup | Bottle of 60 ml Syrup | Valid |
+| 87112 | Fevedot Plus Oral Drops | Bottle of 15 ml Oral Drops | Valid |
+| 113616 | Inqtmol-CP Oral Suspension | Bottle of 60 ml Oral Suspension | Valid |
+| 116126 | Kodex 4mg/10mg Syrup | Bottle of 100 ml Syrup | Valid |
+| 118548 | Kofnics Cold Oral Suspension | Bottle of 60 ml Oral Suspension | Valid |
+| 122943 | Litacold Syrup | Bottle of 60 ml Syrup | Valid |
+| 138666 | Molmin Tablet | Strip of 10 tablets | Valid |
+| 175838 | Phenrex Syrup | Bottle of 100 ml Syrup | Valid |
+| 185734 | Respicure P Syrup | Bottle of 100 ml Syrup | Valid |
+| 199561 | Sinarest Paediatric Drops | Packet of 15 ml Oral Drops | Valid |
+| 206660 | Seip DX Syrup | Bottle of 100 ml Syrup | Valid |
+| 214959 | Tossex DMR Syrup Kiwi Sugar Free | Bottle of 100 ml Syrup | Valid |
+| 241536 | Wincold Junior Cold Relief Syrup | Bottle of 60 ml Syrup | Valid |
+| 241938 | Wentcold Fort Syrup | Bottle of 60 ml Syrup | Valid |
+| 243849 | XL 80 4 mg/10 mg Tablet | Strip of 10 tablets | Valid |
+| 245142 | Xosal Cold Syrup | Bottle of 60 ml Syrup | Valid |
+| 247559 | Zukamin Tablet | Strip of 10 tablets | Valid |
+| 251284 | Zeero-Cold Oral Drops | Bottle of 15 ml Oral Drops | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
+
 ## Safety Considerations
 
 - **Contraindications:** Label-based contraindication text is not available in the data compiled for this report.
@@ -106,11 +145,12 @@ The only supporting studies are animal models and one physiology study, with no 
 
 ## Review Log
 
-Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against the Indian medicine data used by this site (the Indian Medicine Dataset, a third-party compilation of Indian medicine prices). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Tuxarin (codeine phosphate and chlorpheniramine maleate) prescribing information, Mainpointe Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a7cfab67-6087-4ab4-b7cd-4f9295413180) |
+| 2026-11-24 | Removed: the single-ingredient claim | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 

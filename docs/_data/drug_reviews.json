@@ -21363,6 +21363,2966 @@
    "checked": "2026-11-24",
    "summary": "Removed: wording about the earlier table",
    "method": "2026-11-24 第二輪寬偵測後逐句改寫"
+  },
+  {
+   "id": "in-lic-20261124c-aceclofenac-1",
+   "drug": "aceclofenac",
+   "file": "aceclofenac.md",
+   "action": "correct",
+   "claim": "Aceclofenac has 20 valid single-ingredient registrations in India.",
+   "replacement": "Aceclofenac has 20 valid registrations in India.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 8562 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 18 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-acetylcysteine-1",
+   "drug": "acetylcysteine",
+   "file": "acetylcysteine.md",
+   "action": "correct",
+   "claim": "Acetylcysteine is a mucolytic and antioxidant thiol drug that is widely marketed in India as single-ingredient products.",
+   "replacement": "Acetylcysteine is a mucolytic and antioxidant thiol drug that is widely marketed in India.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 155 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 4 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-acetylcysteine-2",
+   "drug": "acetylcysteine",
+   "file": "acetylcysteine.md",
+   "action": "correct",
+   "claim": "The data lists 20 valid single-ingredient licences, and the records may be partial.",
+   "replacement": "The data lists 20 valid licences, and the records may be partial.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 155 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 4 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-adapalene-1",
+   "drug": "adapalene",
+   "file": "adapalene.md",
+   "action": "correct",
+   "claim": "Twenty valid single-ingredient registrations are listed.",
+   "replacement": "Twenty valid registrations are listed.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 197 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 13 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-alprazolam-1",
+   "drug": "alprazolam",
+   "file": "alprazolam.md",
+   "action": "correct",
+   "claim": "Alprazolam is marketed in India, with 20 valid single-ingredient licences in the data compiled for this report (the list may be partial).",
+   "replacement": "Alprazolam is marketed in India, with 20 valid licences in the data compiled for this report (the list may be partial).",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 954 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 7 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-ambroxol-1",
+   "drug": "ambroxol",
+   "file": "ambroxol.md",
+   "action": "correct",
+   "claim": "A total of 20 valid single-ingredient registrations were found.",
+   "replacement": "A total of 20 valid registrations were found.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 2342 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 20 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-amlodipine-1",
+   "drug": "amlodipine",
+   "file": "amlodipine.md",
+   "action": "correct",
+   "claim": "The data compiled for this report list 20 valid single-ingredient licences, with no cancelled licences.",
+   "replacement": "The data compiled for this report list 20 valid licences, with no cancelled licences.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 1420 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 13 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-ammonium_chloride-1",
+   "drug": "ammonium_chloride",
+   "file": "ammonium_chloride.md",
+   "action": "correct",
+   "claim": "At least 20 single-ingredient licences are valid.",
+   "replacement": "At least 20 licences are valid.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 186 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 20 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-amorolfine-1",
+   "drug": "amorolfine",
+   "file": "amorolfine.md",
+   "action": "correct",
+   "claim": "Amorolfine is marketed in India with 20 valid single-ingredient licences, all topical creams.",
+   "replacement": "Amorolfine is marketed in India with 20 valid licences, all topical creams.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 102 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 2 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-amoxicillin-1",
+   "drug": "amoxicillin",
+   "file": "amoxicillin.md",
+   "action": "correct",
+   "claim": "The local records list 20 valid licences for single-ingredient products (the total is at least 20, so the list may be partial).",
+   "replacement": "The local records list 20 valid licences (the total is at least 20, so the list may be partial).",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 8373 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 17 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-ampicillin-1",
+   "drug": "ampicillin",
+   "file": "ampicillin.md",
+   "action": "correct",
+   "claim": "Ampicillin is a beta-lactam antibiotic that inhibits bacterial cell wall synthesis and is marketed in India in many single-ingredient products.",
+   "replacement": "Ampicillin is a beta-lactam antibiotic that inhibits bacterial cell wall synthesis and is marketed in India in many products.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 547 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 15 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-ampicillin-2",
+   "drug": "ampicillin",
+   "file": "ampicillin.md",
+   "action": "correct",
+   "claim": "At least 20 valid single-ingredient licences are recorded, and the list may be partial.",
+   "replacement": "At least 20 valid licences are recorded, and the list may be partial.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 547 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 15 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-aprepitant-1",
+   "drug": "aprepitant",
+   "file": "aprepitant.md",
+   "action": "correct",
+   "claim": "Twenty valid single-ingredient registrations were found.",
+   "replacement": "Twenty valid registrations were found.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 21 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 13 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-artemether-1",
+   "drug": "artemether",
+   "file": "artemether.md",
+   "action": "correct",
+   "claim": "Artemether is an artemisinin-class drug marketed in India in many single-ingredient products.",
+   "replacement": "Artemether is an artemisinin-class drug marketed in India in many products.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 377 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 16 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-artemether-2",
+   "drug": "artemether",
+   "file": "artemether.md",
+   "action": "correct",
+   "claim": "At least 20 valid single-ingredient licences are recorded, and the list may be partial.",
+   "replacement": "At least 20 valid licences are recorded, and the list may be partial.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 377 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 16 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-ascorbic_acid-1",
+   "drug": "ascorbic_acid",
+   "file": "ascorbic_acid.md",
+   "action": "correct",
+   "claim": "Ascorbic acid is widely marketed in India as a single-ingredient product.",
+   "replacement": "Ascorbic acid is widely marketed in India.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 29 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 8 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-atenolol-1",
+   "drug": "atenolol",
+   "file": "atenolol.md",
+   "action": "correct",
+   "claim": "At least 20 single-ingredient atenolol registrations are valid, and the list may be partial.",
+   "replacement": "At least 20 atenolol registrations are valid, and the list may be partial.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 278 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 3 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-atropine-1",
+   "drug": "atropine",
+   "file": "atropine.md",
+   "action": "correct",
+   "claim": "Twenty valid single-ingredient registrations are on file.",
+   "replacement": "Twenty valid registrations are on file.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 63 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 6 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-benzoyl_peroxide-1",
+   "drug": "benzoyl_peroxide",
+   "file": "benzoyl_peroxide.md",
+   "action": "correct",
+   "claim": "There are 20 valid single-ingredient registrations, all topical or wash-off products.",
+   "replacement": "There are 20 valid registrations, all topical or wash-off products.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 71 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 6 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-benzydamine-1",
+   "drug": "benzydamine",
+   "file": "benzydamine.md",
+   "action": "correct",
+   "claim": "Benzydamine has 20 valid single-ingredient registrations in India, with no cancelled licenses.",
+   "replacement": "Benzydamine has 20 valid registrations in India, with no cancelled licenses.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 31 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 5 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-betamethasone-1",
+   "drug": "betamethasone",
+   "file": "betamethasone.md",
+   "action": "correct",
+   "claim": "At least 20 valid single-ingredient licences are recorded, and the list may be partial.",
+   "replacement": "At least 20 valid licences are recorded, and the list may be partial.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 383 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 8 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-bisoprolol-1",
+   "drug": "bisoprolol",
+   "file": "bisoprolol.md",
+   "action": "correct",
+   "claim": "Bisoprolol is marketed in India as single-ingredient oral tablets, with 20 valid registrations and none cancelled.",
+   "replacement": "Bisoprolol is marketed in India as oral tablets, with 20 valid registrations and none cancelled.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 126 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 2 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-bromfenac-1",
+   "drug": "bromfenac",
+   "file": "bromfenac.md",
+   "action": "correct",
+   "claim": "Twenty valid single-ingredient registrations are on record.",
+   "replacement": "Twenty valid registrations are on record.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 62 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 2 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-bromocriptine-1",
+   "drug": "bromocriptine",
+   "file": "bromocriptine.md",
+   "action": "correct",
+   "claim": "Bromocriptine is marketed in India, with 20 valid single-ingredient registrations.",
+   "replacement": "Bromocriptine is marketed in India, with 20 valid registrations.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 30 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 1 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-buprenorphine-1",
+   "drug": "buprenorphine",
+   "file": "buprenorphine.md",
+   "action": "correct",
+   "claim": "Twenty valid single-ingredient registrations are on record.",
+   "replacement": "Twenty valid registrations are on record.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 34 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 1 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-calcitriol-1",
+   "drug": "calcitriol",
+   "file": "calcitriol.md",
+   "action": "correct",
+   "claim": "The records compiled for this report show 20 valid single-ingredient licences and none cancelled;",
+   "replacement": "The records compiled for this report show no cancelled licences;",
+   "note": "Revised: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations. The product count was also removed: four cholecalciferol (vitamin D3) injections that the data list under calcitriol were excluded from this page; current counts are in the overview table.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 90 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 16 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）；本頁另因 2026-11-24 第三輪 A 從證據包排除 4 筆 cholecalciferol 錯植品項（config/license_exclusions.json），存下的紀錄剩 19 筆，句中「20」不再成立，改成不寫張數",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-camylofin-1",
+   "drug": "camylofin",
+   "file": "camylofin.md",
+   "action": "correct",
+   "claim": "Camylofin is an antispasmodic that is currently marketed in India in many single-ingredient products, although the data compiled for this report do not include an approved indication text.",
+   "replacement": "Camylofin is an antispasmodic that is currently marketed in India in many products, although the data compiled for this report do not include an approved indication text.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 22 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 17 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-camylofin-2",
+   "drug": "camylofin",
+   "file": "camylofin.md",
+   "action": "correct",
+   "claim": "Camylofin is registered in India under 20 valid single-ingredient licences (no cancelled licences).",
+   "replacement": "Camylofin is registered in India under 20 valid licences (no cancelled licences).",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 22 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 17 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-capecitabine-1",
+   "drug": "capecitabine",
+   "file": "capecitabine.md",
+   "action": "correct",
+   "claim": "At least 20 single-ingredient capecitabine licences are valid (the list may be partial).",
+   "replacement": "At least 20 capecitabine licences are valid (the list may be partial).",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 58 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 1 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-carvedilol-1",
+   "drug": "carvedilol",
+   "file": "carvedilol.md",
+   "action": "correct",
+   "claim": "Carvedilol is marketed in India with 20 valid single-ingredient registrations.",
+   "replacement": "Carvedilol is marketed in India with 20 valid registrations.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 193 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 3 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-cefpodoxime-1",
+   "drug": "cefpodoxime",
+   "file": "cefpodoxime.md",
+   "action": "correct",
+   "claim": "At least 20 single-ingredient licences are recorded and all are valid.",
+   "replacement": "At least 20 licences are recorded and all are valid.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 6015 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 4 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-ceftazidime-1",
+   "drug": "ceftazidime",
+   "file": "ceftazidime.md",
+   "action": "correct",
+   "claim": "At least 20 single-ingredient injection licences are valid, and the list may be partial.",
+   "replacement": "At least 20 injection licences are valid, and the list may be partial.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 689 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 5 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-ceftriaxone-1",
+   "drug": "ceftriaxone",
+   "file": "ceftriaxone.md",
+   "action": "correct",
+   "claim": "At least 20 valid single-ingredient licences are recorded, and the list may be partial.",
+   "replacement": "At least 20 valid licences are recorded, and the list may be partial.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 6133 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 10 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-celecoxib-1",
+   "drug": "celecoxib",
+   "file": "celecoxib.md",
+   "action": "correct",
+   "claim": "Celecoxib is marketed in India as a single-ingredient oral product, with 20 valid registrations and none cancelled.",
+   "replacement": "Celecoxib is marketed in India as an oral product, with 20 valid registrations and none cancelled.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 44 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 2 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-cetirizine-1",
+   "drug": "cetirizine",
+   "file": "cetirizine.md",
+   "action": "correct",
+   "claim": "Cetirizine is an H1-receptor antagonist antihistamine marketed in India in many single-ingredient products.",
+   "replacement": "Cetirizine is an H1-receptor antagonist antihistamine marketed in India in many products.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 1367 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 6 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-cetirizine-2",
+   "drug": "cetirizine",
+   "file": "cetirizine.md",
+   "action": "correct",
+   "claim": "The data list at least 20 valid single-ingredient licences, and the list may be partial.",
+   "replacement": "The data list at least 20 valid licences, and the list may be partial.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 1367 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 6 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-chloramphenicol-1",
+   "drug": "chloramphenicol",
+   "file": "chloramphenicol.md",
+   "action": "correct",
+   "claim": "At least 20 valid single-ingredient licences are recorded and the list may be partial.",
+   "replacement": "At least 20 valid licences are recorded and the list may be partial.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 332 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 8 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-chlordiazepoxide-1",
+   "drug": "chlordiazepoxide",
+   "file": "chlordiazepoxide.md",
+   "action": "correct",
+   "claim": "In total, 20 valid single-ingredient oral tablet registrations were found.",
+   "replacement": "In total, 20 valid oral tablet registrations were found.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 239 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 14 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-chlorpheniramine-1",
+   "drug": "chlorpheniramine",
+   "file": "chlorpheniramine.md",
+   "action": "correct",
+   "claim": "Chlorpheniramine is an antihistamine (histamine H1 receptor blocker) that is marketed in India in single-ingredient products.",
+   "replacement": "Chlorpheniramine is an antihistamine (histamine H1 receptor blocker) that is marketed in India.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 2004 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 20 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-chlorzoxazone-1",
+   "drug": "chlorzoxazone",
+   "file": "chlorzoxazone.md",
+   "action": "correct",
+   "claim": "Chlorzoxazone is a centrally acting skeletal muscle relaxant, marketed in India as a single-ingredient product (the license records list no approved indication text).",
+   "replacement": "Chlorzoxazone is a centrally acting skeletal muscle relaxant, marketed in India (the license records list no approved indication text).",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 952 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 20 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-choline_salicylate-1",
+   "drug": "choline_salicylate",
+   "file": "choline_salicylate.md",
+   "action": "correct",
+   "claim": "The data compiled for this report list 20 valid single-ingredient licences, and none are cancelled.",
+   "replacement": "The data compiled for this report list 20 valid licences, and none are cancelled.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 68 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 12 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-ciprofloxacin-1",
+   "drug": "ciprofloxacin",
+   "file": "ciprofloxacin.md",
+   "action": "correct",
+   "claim": "Ciprofloxacin has 20 valid single-ingredient registrations in India and none are cancelled.",
+   "replacement": "Ciprofloxacin has 20 valid registrations in India and none are cancelled.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 1800 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 6 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-clindamycin-1",
+   "drug": "clindamycin",
+   "file": "clindamycin.md",
+   "action": "correct",
+   "claim": "Twenty valid single-ingredient licences are registered.",
+   "replacement": "Twenty valid licences are registered.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 753 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 6 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-clobetasol-1",
+   "drug": "clobetasol",
+   "file": "clobetasol.md",
+   "action": "correct",
+   "claim": "There are 20 valid single-ingredient registrations in total.",
+   "replacement": "There are 20 valid registrations in total.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 964 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 10 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-clobetasone-1",
+   "drug": "clobetasone",
+   "file": "clobetasone.md",
+   "action": "correct",
+   "claim": "Clobetasone is marketed in India as single-ingredient licences (20 valid, none cancelled), all in topical forms.",
+   "replacement": "Clobetasone is marketed in India under licences (20 valid, none cancelled), all in topical forms.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 21 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 17 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-clonazepam-1",
+   "drug": "clonazepam",
+   "file": "clonazepam.md",
+   "action": "correct",
+   "claim": "The data compiled for this report show at least 20 valid single-ingredient records, none cancelled;",
+   "replacement": "The data compiled for this report show at least 20 valid records, none cancelled;",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 1458 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 11 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-codeine-1",
+   "drug": "codeine",
+   "file": "codeine.md",
+   "action": "correct",
+   "claim": "Twenty single-ingredient licences are currently valid (none cancelled).",
+   "replacement": "Twenty licences are currently valid (none cancelled).",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 48 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 14 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-cyclobenzaprine-1",
+   "drug": "cyclobenzaprine",
+   "file": "cyclobenzaprine.md",
+   "action": "correct",
+   "claim": "Twenty valid single-ingredient registrations are on file.",
+   "replacement": "Twenty valid registrations are on file.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 27 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 1 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-cyclopentolate-1",
+   "drug": "cyclopentolate",
+   "file": "cyclopentolate.md",
+   "action": "correct",
+   "claim": "Cyclopentolate is marketed in India with 20 valid single-ingredient registrations, all ophthalmic (eye drops or ophthalmic solutions).",
+   "replacement": "Cyclopentolate is marketed in India with 20 valid registrations, all ophthalmic (eye drops or ophthalmic solutions).",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 36 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 2 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-cyproheptadine-1",
+   "drug": "cyproheptadine",
+   "file": "cyproheptadine.md",
+   "action": "correct",
+   "claim": "Cyproheptadine is an antihistamine with anticholinergic activity, marketed in India as single-ingredient syrups, tablets and drops.",
+   "replacement": "Cyproheptadine is an antihistamine with anticholinergic activity, marketed in India as syrups, tablets and drops.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 1085 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 17 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-cyproheptadine-2",
+   "drug": "cyproheptadine",
+   "file": "cyproheptadine.md",
+   "action": "correct",
+   "claim": "The data compiled for this report show 20 valid single-ingredient licences and no cancelled ones;",
+   "replacement": "The data compiled for this report show 20 valid licences and no cancelled ones;",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 1085 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 17 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-cyproterone_acetate-1",
+   "drug": "cyproterone_acetate",
+   "file": "cyproterone_acetate.md",
+   "action": "correct",
+   "claim": "Cyproterone acetate has 20 valid single-ingredient registrations;",
+   "replacement": "Cyproterone acetate has 20 valid registrations;",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 32 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 20 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-desloratadine-1",
+   "drug": "desloratadine",
+   "file": "desloratadine.md",
+   "action": "correct",
+   "claim": "At least 20 single-ingredient licences are currently valid, and the list may be partial.",
+   "replacement": "At least 20 licences are currently valid, and the list may be partial.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 157 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 2 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-desvenlafaxine-1",
+   "drug": "desvenlafaxine",
+   "file": "desvenlafaxine.md",
+   "action": "correct",
+   "claim": "At least 20 single-ingredient licences are currently valid, and none are cancelled.",
+   "replacement": "At least 20 licences are currently valid, and none are cancelled.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 161 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 5 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-dexamethasone-1",
+   "drug": "dexamethasone",
+   "file": "dexamethasone.md",
+   "action": "correct",
+   "claim": "Dexamethasone is marketed in India as a single-ingredient product.",
+   "replacement": "Dexamethasone is marketed in India.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 201 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 2 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-diethylcarbamazine-1",
+   "drug": "diethylcarbamazine",
+   "file": "diethylcarbamazine.md",
+   "action": "correct",
+   "claim": "Diethylcarbamazine is widely marketed in India, with 20 valid single-ingredient registrations and no cancelled ones.",
+   "replacement": "Diethylcarbamazine is widely marketed in India, with 20 valid registrations and no cancelled ones.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 68 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 12 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-diphenhydramine-1",
+   "drug": "diphenhydramine",
+   "file": "diphenhydramine.md",
+   "action": "correct",
+   "claim": "At least 20 valid single-ingredient licences are recorded, and the list may be partial.",
+   "replacement": "At least 20 valid licences are recorded, and the list may be partial.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 60 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 11 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-domperidone-1",
+   "drug": "domperidone",
+   "file": "domperidone.md",
+   "action": "correct",
+   "claim": "Domperidone is marketed in India, with 20 valid single-ingredient registrations and no cancelled ones.",
+   "replacement": "Domperidone is marketed in India, with 20 valid registrations and no cancelled ones.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 8756 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 19 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-donepezil-1",
+   "drug": "donepezil",
+   "file": "donepezil.md",
+   "action": "correct",
+   "claim": "Donepezil is a cholinesterase inhibitor marketed in India as single-ingredient tablets and an orally disintegrating strip.",
+   "replacement": "Donepezil is a cholinesterase inhibitor marketed in India as tablets and an orally disintegrating strip.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 124 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 6 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-donepezil-2",
+   "drug": "donepezil",
+   "file": "donepezil.md",
+   "action": "correct",
+   "claim": "Donepezil has 20 valid single-ingredient licences in the data compiled for this report, and none are cancelled.",
+   "replacement": "Donepezil has 20 valid licences in the data compiled for this report, and none are cancelled.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 124 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 6 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-doxofylline-1",
+   "drug": "doxofylline",
+   "file": "doxofylline.md",
+   "action": "correct",
+   "claim": "Twenty valid single-ingredient registrations are on record.",
+   "replacement": "Twenty valid registrations are on record.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 302 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 13 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-doxycycline-1",
+   "drug": "doxycycline",
+   "file": "doxycycline.md",
+   "action": "correct",
+   "claim": "Twenty single-ingredient doxycycline licences are valid, and none are cancelled.",
+   "replacement": "Twenty doxycycline licences are valid, and none are cancelled.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 400 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 11 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-doxylamine-1",
+   "drug": "doxylamine",
+   "file": "doxylamine.md",
+   "action": "correct",
+   "claim": "Doxylamine is an antihistamine with anticholinergic properties that is marketed in India as single-ingredient tablets.",
+   "replacement": "Doxylamine is an antihistamine with anticholinergic properties that is marketed in India as tablets.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 566 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 20 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-doxylamine-2",
+   "drug": "doxylamine",
+   "file": "doxylamine.md",
+   "action": "correct",
+   "claim": "At least 20 valid single-ingredient licences are recorded, and the list may be partial.",
+   "replacement": "At least 20 valid licences are recorded, and the list may be partial.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 566 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 20 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-duloxetine-1",
+   "drug": "duloxetine",
+   "file": "duloxetine.md",
+   "action": "correct",
+   "claim": "At least 20 valid single-ingredient licences are recorded, and the list may be partial.",
+   "replacement": "At least 20 valid licences are recorded, and the list may be partial.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 326 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 2 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-ebastine-1",
+   "drug": "ebastine",
+   "file": "ebastine.md",
+   "action": "correct",
+   "claim": "Ebastine is marketed in India with 20 valid single-ingredient registrations and no cancelled ones.",
+   "replacement": "Ebastine is marketed in India with 20 valid registrations and no cancelled ones.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 110 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 4 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-emtricitabine-1",
+   "drug": "emtricitabine",
+   "file": "emtricitabine.md",
+   "action": "correct",
+   "claim": "At least 20 valid single-ingredient registrations were found, and the list may be partial.",
+   "replacement": "At least 20 valid registrations were found, and the list may be partial.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 22 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 20 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-etizolam-1",
+   "drug": "etizolam",
+   "file": "etizolam.md",
+   "action": "correct",
+   "claim": "Etizolam has 20 valid single-ingredient registrations in India and none cancelled.",
+   "replacement": "Etizolam has 20 valid registrations in India and none cancelled.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 508 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 6 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-etoricoxib-1",
+   "drug": "etoricoxib",
+   "file": "etoricoxib.md",
+   "action": "correct",
+   "claim": "Etoricoxib has 20 valid single-ingredient registrations.",
+   "replacement": "Etoricoxib has 20 valid registrations.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 1961 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 8 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-famotidine-1",
+   "drug": "famotidine",
+   "file": "famotidine.md",
+   "action": "correct",
+   "claim": "Famotidine has 20 valid single-ingredient registrations, all oral tablets.",
+   "replacement": "Famotidine has 20 valid registrations, all oral tablets.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 88 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 1 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-fluconazole-1",
+   "drug": "fluconazole",
+   "file": "fluconazole.md",
+   "action": "correct",
+   "claim": "Fluconazole is marketed in India with 20 valid single-ingredient registrations and no cancelled ones.",
+   "replacement": "Fluconazole is marketed in India with 20 valid registrations and no cancelled ones.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 1495 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 1 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-fluocinolone_acetonide-1",
+   "drug": "fluocinolone_acetonide",
+   "file": "fluocinolone_acetonide.md",
+   "action": "correct",
+   "claim": "Marketed products containing fluocinolone acetonide as a single ingredient include the following.",
+   "replacement": "Marketed products containing fluocinolone acetonide include the following.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 90 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 15 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-fluoxetine-1",
+   "drug": "fluoxetine",
+   "file": "fluoxetine.md",
+   "action": "correct",
+   "claim": "At least 20 single-ingredient fluoxetine licences are recorded, and the list may be partial.",
+   "replacement": "At least 20 fluoxetine licences are recorded, and the list may be partial.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 388 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 3 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-flupentixol-1",
+   "drug": "flupentixol",
+   "file": "flupentixol.md",
+   "action": "correct",
+   "claim": "Flupentixol is marketed in India as single-ingredient products, with 20 valid registrations and none cancelled.",
+   "replacement": "Flupentixol is marketed in India, with 20 valid registrations and none cancelled.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 228 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 16 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-fluticasone_furoate-1",
+   "drug": "fluticasone_furoate",
+   "file": "fluticasone_furoate.md",
+   "action": "correct",
+   "claim": "Twenty single-ingredient registrations are valid in India, all nasal sprays;",
+   "replacement": "Twenty registrations are valid in India, all nasal sprays;",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 65 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 2 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-folic_acid-1",
+   "drug": "folic_acid",
+   "file": "folic_acid.md",
+   "action": "correct",
+   "claim": "Folic acid has 20 valid single-ingredient licences in India, none cancelled.",
+   "replacement": "Folic acid has 20 valid licences in India, none cancelled.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 74 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 11 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-formoterol-1",
+   "drug": "formoterol",
+   "file": "formoterol.md",
+   "action": "correct",
+   "claim": "At least 20 valid single-ingredient licences were found, and the list may be partial.",
+   "replacement": "At least 20 valid licences were found, and the list may be partial.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 232 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 20 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-glycerin-1",
+   "drug": "glycerin",
+   "file": "glycerin.md",
+   "action": "correct",
+   "claim": "Glycerin has 20 valid single-ingredient registrations, all injectable or infusion products.",
+   "replacement": "Glycerin has 20 valid registrations, all injectable or infusion products.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 31 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 20 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-guaifenesin-1",
+   "drug": "guaifenesin",
+   "file": "guaifenesin.md",
+   "action": "correct",
+   "claim": "Guaifenesin has 20 valid single-ingredient registrations in India and none are cancelled.",
+   "replacement": "Guaifenesin has 20 valid registrations in India and none are cancelled.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 374 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 20 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-haloperidol-1",
+   "drug": "haloperidol",
+   "file": "haloperidol.md",
+   "action": "correct",
+   "claim": "Haloperidol has 20 valid single-ingredient registrations in India, all oral tablets.",
+   "replacement": "Haloperidol has 20 valid registrations in India, all oral tablets.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 245 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 4 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-hydroquinone-1",
+   "drug": "hydroquinone",
+   "file": "hydroquinone.md",
+   "action": "correct",
+   "claim": "Hydroquinone is a topical skin-lightening agent that is widely marketed in India as single-ingredient creams and ointments.",
+   "replacement": "Hydroquinone is a topical skin-lightening agent that is widely marketed in India as creams and ointments.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 334 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 12 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-hydroquinone-2",
+   "drug": "hydroquinone",
+   "file": "hydroquinone.md",
+   "action": "correct",
+   "claim": "Twenty single-ingredient hydroquinone products hold valid registrations, and none has been cancelled.",
+   "replacement": "Twenty hydroquinone products hold valid registrations, and none has been cancelled.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 334 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 12 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-imipramine-1",
+   "drug": "imipramine",
+   "file": "imipramine.md",
+   "action": "correct",
+   "claim": "There are 20 valid single-ingredient oral registrations in total, all as tablets.",
+   "replacement": "There are 20 valid oral registrations in total, all as tablets.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 82 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 1 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-irbesartan-1",
+   "drug": "irbesartan",
+   "file": "irbesartan.md",
+   "action": "correct",
+   "claim": "Irbesartan is marketed in India, with 20 valid single-ingredient registrations.",
+   "replacement": "Irbesartan is marketed in India, with 20 valid registrations.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 34 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 9 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-isosorbide_dinitrate-1",
+   "drug": "isosorbide_dinitrate",
+   "file": "isosorbide_dinitrate.md",
+   "action": "correct",
+   "claim": "At least 20 valid single-ingredient licences were found, and the list may be partial.",
+   "replacement": "At least 20 valid licences were found, and the list may be partial.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 24 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 7 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-isosorbide_mononitrate-1",
+   "drug": "isosorbide_mononitrate",
+   "file": "isosorbide_mononitrate.md",
+   "action": "correct",
+   "claim": "There are 20 valid single-ingredient licences.",
+   "replacement": "There are 20 valid licences.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 137 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 3 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-itopride-1",
+   "drug": "itopride",
+   "file": "itopride.md",
+   "action": "correct",
+   "claim": "Itopride has 20 valid single-ingredient registrations in India.",
+   "replacement": "Itopride has 20 valid registrations in India.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 36 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 1 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-ivabradine-1",
+   "drug": "ivabradine",
+   "file": "ivabradine.md",
+   "action": "correct",
+   "claim": "Twenty valid single-ingredient registrations were found.",
+   "replacement": "Twenty valid registrations were found.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 92 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 1 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-ivermectin-1",
+   "drug": "ivermectin",
+   "file": "ivermectin.md",
+   "action": "correct",
+   "claim": "Ivermectin is marketed in India with 20 valid single-ingredient registrations.",
+   "replacement": "Ivermectin is marketed in India with 20 valid registrations.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 731 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 14 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-ketoconazole-1",
+   "drug": "ketoconazole",
+   "file": "ketoconazole.md",
+   "action": "correct",
+   "claim": "Twenty single-ingredient ketoconazole licences are currently valid in India.",
+   "replacement": "Twenty ketoconazole licences are currently valid in India.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 1049 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 1 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-ketoprofen-1",
+   "drug": "ketoprofen",
+   "file": "ketoprofen.md",
+   "action": "correct",
+   "claim": "A total of 20 valid single-ingredient registrations exist.",
+   "replacement": "A total of 20 valid registrations exist.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 21 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 9 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-ketorolac-1",
+   "drug": "ketorolac",
+   "file": "ketorolac.md",
+   "action": "correct",
+   "claim": "Twenty valid single-ingredient registrations are on record, covering oral tablets (mostly dispersible), injections and ophthalmic solutions.",
+   "replacement": "Twenty valid registrations are on record, covering oral tablets (mostly dispersible), injections and ophthalmic solutions.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 368 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 2 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-lamivudine-1",
+   "drug": "lamivudine",
+   "file": "lamivudine.md",
+   "action": "correct",
+   "claim": "Lamivudine is a nucleoside reverse transcriptase inhibitor whose relations to chronic hepatitis B, HIV infection and AIDS are recorded in the knowledge graph, and it is marketed in India under many single-ingredient registrations.",
+   "replacement": "Lamivudine is a nucleoside reverse transcriptase inhibitor whose relations to chronic hepatitis B, HIV infection and AIDS are recorded in the knowledge graph, and it is marketed in India under many registrations.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 90 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 12 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-lamivudine-2",
+   "drug": "lamivudine",
+   "file": "lamivudine.md",
+   "action": "correct",
+   "claim": "At least 20 single-ingredient registrations are on record (the list may be partial).",
+   "replacement": "At least 20 registrations are on record (the list may be partial).",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 90 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 12 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-levodopa-1",
+   "drug": "levodopa",
+   "file": "levodopa.md",
+   "action": "correct",
+   "claim": "Levodopa is marketed in India with 20 valid single-ingredient registrations.",
+   "replacement": "Levodopa is marketed in India with 20 valid registrations.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 29 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 20 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-levofloxacin-1",
+   "drug": "levofloxacin",
+   "file": "levofloxacin.md",
+   "action": "correct",
+   "claim": "Levofloxacin is a broad-spectrum fluoroquinolone antibacterial that is marketed in India as single-ingredient oral tablets.",
+   "replacement": "Levofloxacin is a broad-spectrum fluoroquinolone antibacterial that is marketed in India as oral tablets.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 2260 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 2 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-levonorgestrel-1",
+   "drug": "levonorgestrel",
+   "file": "levonorgestrel.md",
+   "action": "correct",
+   "claim": "The data compiled for this report list 20 valid single-ingredient registrations, and the list may be partial.",
+   "replacement": "The data compiled for this report list 20 valid registrations, and the list may be partial.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 22 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 2 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-lidocaine-1",
+   "drug": "lidocaine",
+   "file": "lidocaine.md",
+   "action": "correct",
+   "claim": "At least 20 single-ingredient lidocaine licences are valid in India.",
+   "replacement": "At least 20 lidocaine licences are valid in India.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 302 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 4 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-loperamide-1",
+   "drug": "loperamide",
+   "file": "loperamide.md",
+   "action": "correct",
+   "claim": "Loperamide is marketed in India as an oral single-ingredient product, with 20 valid registrations and none cancelled.",
+   "replacement": "Loperamide is marketed in India as an oral product, with 20 valid registrations and none cancelled.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 89 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 1 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-lornoxicam-1",
+   "drug": "lornoxicam",
+   "file": "lornoxicam.md",
+   "action": "correct",
+   "claim": "Lornoxicam is a nonsteroidal anti-inflammatory drug (NSAID) of the oxicam class that is marketed in India as single-ingredient products.",
+   "replacement": "Lornoxicam is a nonsteroidal anti-inflammatory drug (NSAID) of the oxicam class that is marketed in India.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 439 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 16 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-mebendazole-1",
+   "drug": "mebendazole",
+   "file": "mebendazole.md",
+   "action": "correct",
+   "claim": "There are 20 valid single-ingredient registrations.",
+   "replacement": "There are 20 valid registrations.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 34 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 4 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-mefenamic_acid-1",
+   "drug": "mefenamic_acid",
+   "file": "mefenamic_acid.md",
+   "action": "correct",
+   "claim": "Mefenamic acid is a non-steroidal anti-inflammatory drug that blocks prostaglandin synthesis and is marketed in India as a single-ingredient product.",
+   "replacement": "Mefenamic acid is a non-steroidal anti-inflammatory drug that blocks prostaglandin synthesis and is marketed in India.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 1018 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 17 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-mefenamic_acid-2",
+   "drug": "mefenamic_acid",
+   "file": "mefenamic_acid.md",
+   "action": "correct",
+   "claim": "The data lists 20 valid single-ingredient licences.",
+   "replacement": "The data lists 20 valid licences.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 1018 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 17 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-meropenem-1",
+   "drug": "meropenem",
+   "file": "meropenem.md",
+   "action": "correct",
+   "claim": "Meropenem has 20 valid single-ingredient registrations, all injectable.",
+   "replacement": "Meropenem has 20 valid registrations, all injectable.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 1136 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 1 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-metoclopramide-1",
+   "drug": "metoclopramide",
+   "file": "metoclopramide.md",
+   "action": "correct",
+   "claim": "Metoclopramide is currently marketed in India with 20 valid single-ingredient registrations.",
+   "replacement": "Metoclopramide is currently marketed in India with 20 valid registrations.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 94 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 12 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-miconazole-1",
+   "drug": "miconazole",
+   "file": "miconazole.md",
+   "action": "correct",
+   "claim": "At least 20 single-ingredient miconazole licences are recorded, all valid, and the list may be partial.",
+   "replacement": "At least 20 miconazole licences are recorded, all valid, and the list may be partial.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 80 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 9 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-montelukast-1",
+   "drug": "montelukast",
+   "file": "montelukast.md",
+   "action": "correct",
+   "claim": "There are 20 valid single-ingredient registrations.",
+   "replacement": "There are 20 valid registrations.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 1012 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 14 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-mosapride-1",
+   "drug": "mosapride",
+   "file": "mosapride.md",
+   "action": "correct",
+   "claim": "Mosapride has 20 valid single-ingredient registrations in India, and none are cancelled.",
+   "replacement": "Mosapride has 20 valid registrations in India, and none are cancelled.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 50 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 4 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-moxifloxacin-1",
+   "drug": "moxifloxacin",
+   "file": "moxifloxacin.md",
+   "action": "correct",
+   "claim": "Moxifloxacin has 20 valid single-ingredient registrations, with no cancelled ones.",
+   "replacement": "Moxifloxacin has 20 valid registrations, with no cancelled ones.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 695 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 1 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-moxonidine-1",
+   "drug": "moxonidine",
+   "file": "moxonidine.md",
+   "action": "correct",
+   "claim": "Moxonidine is marketed in India with 20 valid single-ingredient registrations.",
+   "replacement": "Moxonidine is marketed in India with 20 valid registrations.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 39 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 1 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-nalidixic_acid-1",
+   "drug": "nalidixic_acid",
+   "file": "nalidixic_acid.md",
+   "action": "correct",
+   "claim": "There are 20 valid single-ingredient registrations.",
+   "replacement": "There are 20 valid registrations.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 32 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 19 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-naproxen-1",
+   "drug": "naproxen",
+   "file": "naproxen.md",
+   "action": "correct",
+   "claim": "Naproxen has 20 valid single-ingredient registrations and no cancelled ones.",
+   "replacement": "Naproxen has 20 valid registrations and no cancelled ones.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 156 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 14 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-nebivolol-1",
+   "drug": "nebivolol",
+   "file": "nebivolol.md",
+   "action": "correct",
+   "claim": "Nebivolol is marketed in India as oral tablets (strips of 10 tablets), with 20 valid single-ingredient registrations and no cancelled ones.",
+   "replacement": "Nebivolol is marketed in India as oral tablets (strips of 10 tablets), with 20 valid registrations and no cancelled ones.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 232 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 10 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-oxytetracycline-1",
+   "drug": "oxytetracycline",
+   "file": "oxytetracycline.md",
+   "action": "correct",
+   "claim": "Oxytetracycline has 20 valid single-ingredient registrations in India and none cancelled.",
+   "replacement": "Oxytetracycline has 20 valid registrations in India and none cancelled.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 25 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 1 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-paclitaxel-1",
+   "drug": "paclitaxel",
+   "file": "paclitaxel.md",
+   "action": "correct",
+   "claim": "Paclitaxel has 20 valid single-ingredient registrations in India and none are cancelled.",
+   "replacement": "Paclitaxel has 20 valid registrations in India and none are cancelled.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 135 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 1 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-piperacillin-1",
+   "drug": "piperacillin",
+   "file": "piperacillin.md",
+   "action": "correct",
+   "claim": "Piperacillin has 20 valid single-ingredient registrations, all injectable.",
+   "replacement": "Piperacillin has 20 valid registrations, all injectable.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 917 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 20 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-polymyxin_b-1",
+   "drug": "polymyxin_b",
+   "file": "polymyxin_b.md",
+   "action": "correct",
+   "claim": "Polymyxin B has 20 valid single-ingredient registrations.",
+   "replacement": "Polymyxin B has 20 valid registrations.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 55 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 4 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-potassium_chloride-1",
+   "drug": "potassium_chloride",
+   "file": "potassium_chloride.md",
+   "action": "correct",
+   "claim": "Twenty single-ingredient registrations are valid.",
+   "replacement": "Twenty registrations are valid.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 23 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 6 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-potassium_citrate-1",
+   "drug": "potassium_citrate",
+   "file": "potassium_citrate.md",
+   "action": "correct",
+   "claim": "At least 20 valid licences for single-ingredient products are on record, and the list may be partial.",
+   "replacement": "At least 20 valid licences are on record, and the list may be partial.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 27 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 18 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-pseudoephedrine-1",
+   "drug": "pseudoephedrine",
+   "file": "pseudoephedrine.md",
+   "action": "correct",
+   "claim": "Twenty single-ingredient licences are valid and none are cancelled.",
+   "replacement": "Twenty licences are valid and none are cancelled.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 55 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 20 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-pyrazinamide-1",
+   "drug": "pyrazinamide",
+   "file": "pyrazinamide.md",
+   "action": "correct",
+   "claim": "Pyrazinamide has 20 valid single-ingredient registrations in India.",
+   "replacement": "Pyrazinamide has 20 valid registrations in India.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 83 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 1 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-ramipril-1",
+   "drug": "ramipril",
+   "file": "ramipril.md",
+   "action": "correct",
+   "claim": "Ramipril has 20 valid single-ingredient registrations in India (none cancelled).",
+   "replacement": "Ramipril has 20 valid registrations in India (none cancelled).",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 535 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 6 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-ranitidine-1",
+   "drug": "ranitidine",
+   "file": "ranitidine.md",
+   "action": "correct",
+   "claim": "Ranitidine is a histamine H2-receptor antagonist that reduces gastric acid secretion and is marketed in India as a single-ingredient product.",
+   "replacement": "Ranitidine is a histamine H2-receptor antagonist that reduces gastric acid secretion and is marketed in India.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 288 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 1 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-rofecoxib-1",
+   "drug": "rofecoxib",
+   "file": "rofecoxib.md",
+   "action": "correct",
+   "claim": "There are 20 valid single-ingredient registrations in total, including oral tablets and capsules and topical gels.",
+   "replacement": "There are 20 valid registrations in total, including oral tablets and capsules and topical gels.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 115 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 1 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-roxithromycin-1",
+   "drug": "roxithromycin",
+   "file": "roxithromycin.md",
+   "action": "correct",
+   "claim": "There are 20 valid single-ingredient registrations in total.",
+   "replacement": "There are 20 valid registrations in total.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 596 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 2 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-salbutamol-1",
+   "drug": "salbutamol",
+   "file": "salbutamol.md",
+   "action": "correct",
+   "claim": "The data compiled for this report lists 20 valid single-ingredient registrations and no cancelled ones.",
+   "replacement": "The data compiled for this report lists 20 valid registrations and no cancelled ones.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 166 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 16 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-salicylic_acid-1",
+   "drug": "salicylic_acid",
+   "file": "salicylic_acid.md",
+   "action": "correct",
+   "claim": "There are 20 valid single-ingredient registrations and no cancelled ones.",
+   "replacement": "There are 20 valid registrations and no cancelled ones.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 46 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 1 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-secnidazole-1",
+   "drug": "secnidazole",
+   "file": "secnidazole.md",
+   "action": "correct",
+   "claim": "Secnidazole is a 5-nitroimidazole antimicrobial that is marketed in India as a single-ingredient product.",
+   "replacement": "Secnidazole is a 5-nitroimidazole antimicrobial that is marketed in India.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 23 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 1 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-silodosin-1",
+   "drug": "silodosin",
+   "file": "silodosin.md",
+   "action": "correct",
+   "claim": "Silodosin is marketed in India with 20 valid single-ingredient registrations.",
+   "replacement": "Silodosin is marketed in India with 20 valid registrations.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 224 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 11 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-simvastatin-1",
+   "drug": "simvastatin",
+   "file": "simvastatin.md",
+   "action": "correct",
+   "claim": "Twenty valid single-ingredient registrations are listed.",
+   "replacement": "Twenty valid registrations are listed.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 73 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 1 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-sofosbuvir-1",
+   "drug": "sofosbuvir",
+   "file": "sofosbuvir.md",
+   "action": "correct",
+   "claim": "Sofosbuvir has 20 valid single-ingredient registrations in India.",
+   "replacement": "Sofosbuvir has 20 valid registrations in India.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 26 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 8 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-sucralfate-1",
+   "drug": "sucralfate",
+   "file": "sucralfate.md",
+   "action": "correct",
+   "claim": "Sucralfate is marketed in India with 20 valid single-ingredient registrations.",
+   "replacement": "Sucralfate is marketed in India with 20 valid registrations.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 777 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 17 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-sulfamethoxazole-1",
+   "drug": "sulfamethoxazole",
+   "file": "sulfamethoxazole.md",
+   "action": "correct",
+   "claim": "Twenty valid single-ingredient registrations are on record, with no cancelled licences.",
+   "replacement": "Twenty valid registrations are on record, with no cancelled licences.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 137 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 20 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-tadalafil-1",
+   "drug": "tadalafil",
+   "file": "tadalafil.md",
+   "action": "correct",
+   "claim": "Tadalafil is marketed in India with 20 valid single-ingredient registrations and no cancelled ones.",
+   "replacement": "Tadalafil is marketed in India with 20 valid registrations and no cancelled ones.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 217 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 2 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-teneligliptin-1",
+   "drug": "teneligliptin",
+   "file": "teneligliptin.md",
+   "action": "correct",
+   "claim": "Teneligliptin is marketed in India as oral single-ingredient tablets.",
+   "replacement": "Teneligliptin is marketed in India as oral tablets.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 343 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 1 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-tenofovir_disoproxil-1",
+   "drug": "tenofovir_disoproxil",
+   "file": "tenofovir_disoproxil.md",
+   "action": "correct",
+   "claim": "Twenty valid single-ingredient licences are registered.",
+   "replacement": "Twenty valid licences are registered.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 21 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 4 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-terbutaline-1",
+   "drug": "terbutaline",
+   "file": "terbutaline.md",
+   "action": "correct",
+   "claim": "Terbutaline is marketed in India as single-ingredient products.",
+   "replacement": "Terbutaline is marketed in India.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 172 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 19 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-theophylline-1",
+   "drug": "theophylline",
+   "file": "theophylline.md",
+   "action": "correct",
+   "claim": "At least 20 single-ingredient registrations are valid, and the list may be partial.",
+   "replacement": "At least 20 registrations are valid, and the list may be partial.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 55 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 7 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-thiamine-1",
+   "drug": "thiamine",
+   "file": "thiamine.md",
+   "action": "correct",
+   "claim": "At least 20 licences are recorded for single-ingredient thiamine products (the list may be partial).",
+   "replacement": "At least 20 licences are recorded for thiamine products (the list may be partial).",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 56 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 7 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-ticagrelor-1",
+   "drug": "ticagrelor",
+   "file": "ticagrelor.md",
+   "action": "correct",
+   "claim": "Twenty single-ingredient registrations are valid and none are cancelled.",
+   "replacement": "Twenty registrations are valid and none are cancelled.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 53 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 3 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-tinidazole-1",
+   "drug": "tinidazole",
+   "file": "tinidazole.md",
+   "action": "correct",
+   "claim": "Twenty valid single-ingredient registrations are on record.",
+   "replacement": "Twenty valid registrations are on record.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 58 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 3 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-tolperisone-1",
+   "drug": "tolperisone",
+   "file": "tolperisone.md",
+   "action": "correct",
+   "claim": "Tolperisone has 20 valid single-ingredient registrations and no cancelled ones.",
+   "replacement": "Tolperisone has 20 valid registrations and no cancelled ones.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 197 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 9 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-tranexamic_acid-1",
+   "drug": "tranexamic_acid",
+   "file": "tranexamic_acid.md",
+   "action": "correct",
+   "claim": "Twenty valid single-ingredient registrations were found.",
+   "replacement": "Twenty valid registrations were found.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 855 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 8 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-trihexyphenidyl-1",
+   "drug": "trihexyphenidyl",
+   "file": "trihexyphenidyl.md",
+   "action": "correct",
+   "claim": "Twenty valid single-ingredient registrations are listed;",
+   "replacement": "Twenty valid registrations are listed;",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 117 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 2 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-valdecoxib-1",
+   "drug": "valdecoxib",
+   "file": "valdecoxib.md",
+   "action": "correct",
+   "claim": "The records compiled for this report list at least 20 valid single-ingredient registrations.",
+   "replacement": "The records compiled for this report list at least 20 valid registrations.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 66 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 2 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-valsartan-1",
+   "drug": "valsartan",
+   "file": "valsartan.md",
+   "action": "correct",
+   "claim": "Valsartan is marketed in India with 20 valid single-ingredient registrations.",
+   "replacement": "Valsartan is marketed in India with 20 valid registrations.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 43 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 7 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-voglibose-1",
+   "drug": "voglibose",
+   "file": "voglibose.md",
+   "action": "correct",
+   "claim": "Voglibose is sold as single-ingredient oral tablets by many manufacturers.",
+   "replacement": "Voglibose is sold as oral tablets by many manufacturers.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations.",
+   "finding": "部分收錄頁（證據包存 20 筆、資料集更多）：（資料集共 623 筆、證據包存 20 筆），存下的 20 筆中依資料集原始檔 short_composition2 有 1 筆是複方；依資料集原始檔 short_composition2 存下的紀錄有複方，句子的單方說法不成立。照 2026-11-06 做法只刪「single-ingredient」字樣，其他文字與數字不動（部分收錄頁的張數照 B 規則不改；2026-11-24 用戶第三輪決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: the single-ingredient claim",
+   "method": "2026-11-24 第三輪：待查清單「部分收錄頁的單方說法」逐句只刪單方字樣"
+  },
+  {
+   "id": "in-lic-20261124c-calcitriol-2",
+   "drug": "calcitriol",
+   "file": "calcitriol.md",
+   "action": "correct",
+   "claim": "| Injectable | 1 ml ampoule; packet of 6 injections |",
+   "replacement": "| Injectable | 1 ml ampoule |",
+   "note": "Revised: the \"packet of 6 injections\" form came from Calcirol 600000IU Injection (dataset ID 36119), a cholecalciferol (vitamin D3) product that the data list under calcitriol (600000 IU is a vitamin D3 dose; calcitriol is dosed in micrograms). It was excluded from this page; the remaining injectable calcitriol products are 1 ml ampoules.",
+   "finding": "資料集原文 id 36119「Calcirol 600000IU Injection」成分欄寫「Calcitriol (600000IU)」，IU 劑量是 cholecalciferol；2026-11-24 第三輪 A 依 config/license_exclusions.json 從 calcitriol 證據包排除（另 65100 Devita、162706／166938 Osta D3 600000IU／300000IU 同樣錯植，沒存進證據包）。剩下的注射劑紀錄（Laretol 1mcg、Calcijet）都是 1 ml ampoule",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Revised: removed a dosage form from an excluded vitamin D3 product",
+   "method": "2026-11-24 第三輪 A：證據包成分對照修正"
   }
  ]
 }

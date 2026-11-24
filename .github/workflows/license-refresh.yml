@@ -51,6 +51,9 @@ jobs:
       - name: Restore data from Release
         run: bash scripts/restore_data.sh
 
+      - name: Exclude mis-mapped dataset records   # 2026-11-24 用戶決定：成分欄錯植的品項依 config/license_exclusions.json 從證據包排除（每筆附依據）
+        run: python3 scripts/exclude_bundle_records.py
+
       - name: Refresh licenses
         id: refresh
         env:

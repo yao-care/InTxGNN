@@ -79,7 +79,13 @@ Currently no related literature available.
 
 ## India Market Information
 
-Ascorbic acid is widely marketed in India as a single-ingredient product. There are 20 valid registrations, none cancelled. Dosage forms include injections, chewable tablets and oral drops. The data compiled for this report do not include approved indication text.
+Ascorbic acid is widely marketed in India. There are 20 valid registrations, none cancelled. Dosage forms include injections, chewable tablets and oral drops. The data compiled for this report do not include approved indication text.
+
+<!-- review:begin in-lic-20261124c-ascorbic_acid-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "Ascorbic acid is widely marketed in India as a single-ingredient product." Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124c-ascorbic_acid-1 -->
 
 <!-- licenses:begin -->
 
@@ -154,11 +160,12 @@ The prediction for non-syndromic esophageal malformation rests solely on the mod
 
 ## Review Log
 
-Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against the Indian medicine data used by this site (the Indian Medicine Dataset, a third-party compilation of Indian medicine prices). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: ascorbic acid prescribing information, Zydus Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f0b683f8-189b-4a3f-9ffe-f91df6d798b6) |
+| 2026-11-24 | Removed: the single-ingredient claim | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 

@@ -59,6 +59,16 @@ def _load_config() -> dict:
         return {}
 
 
+def _exclusions() -> list:
+    """config/license_exclusions.json（scripts/exclude_bundle_records.py 同一張表）；沒有檔就是空表"""
+    import json
+
+    f = PROJECT_ROOT / "config" / "license_exclusions.json"
+    if not f.exists():
+        return []
+    return json.loads(f.read_text(encoding="utf-8")).get("exclusions") or []
+
+
 class LocalFDACollector(BaseCollector):
     """本國藥證查詢（讀 Phase 1 標準資料）。"""
 
@@ -169,6 +179,11 @@ class LocalFDACollector(BaseCollector):
                 # Phase 1 對照沒對上的成分（例：重音字未正規化）→ 退回比對本國藥證的成分欄
                 recs = self._text_match(drug)
             active = [r for r in recs if not self._is_withdrawn(r)]
+            # 2026-11-24：成分欄錯植的品項（config/license_exclusions.json，每筆附依據）不收進本藥
+            lf = self.fm.get("license_id")
+            excl = {str(e.get("license_id")).strip() for e in _exclusions() if str(e.get("drugbank_id") or "").upper() in ids}
+            if excl and lf:
+                active = [r for r in active if str(r.get(lf, "") or "").strip() not in excl]
             return self._make_result(query=query, data=self._format(active, ids), success=True)
         except Exception as e:  # noqa: BLE001 — 與其他 collector 一致：失敗時回 not found 並帶錯誤
             return self._make_result(query=query, data={"found": False, "records": []}, success=False, error_message=str(e))

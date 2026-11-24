@@ -575,3 +575,15 @@ python3 scripts/check_seo_docs.py              # 必須 exit 0
 - `scripts/apply_drug_reviews.py` 的查核紀錄表說明句原本寫「checked against official Indian medicine data」，改成「the Indian medicine data used by this site (the Indian Medicine Dataset, a third-party compilation of Indian medicine prices)」（129 頁的說明句）。
 - 劑型全稱說法（only／all＋劑型）全量掃公開頁 408 句、依證據包劑型分類比對，標出的 14 句逐句讀過都成立，0 筆更正。市場段落沒有程式表的公開頁 3 頁（chlorpheniramine、docusate、ranolazine）是整頁沒有市場段落，照第一輪規則不加。
 - 驗證：apply --check 0、rewrite_license_counts --check 0、checker 全量前後 0、gate exit 0。
+
+## 第三輪：calcitriol 錯植品項排除、缺市場段落補段、部分收錄頁單方字樣（2026-11-24）
+
+用戶 2026-11-24 第三輪決定。
+- A. 證據包成分對照修正：資料集原始檔把 4 個 cholecalciferol（維生素 D3）注射劑的成分寫成「Calcitriol (300000IU／600000IU)」（Calcirol 600000IU Injection 36119、Devita Injection 65100、Osta D3 600000IU 162706、Osta D3 300000IU 166938；IU 劑量是維生素 D3，calcitriol 以 mcg 計），drug_mapping.csv 照成分欄對到 DB00136 而收進 calcitriol。
+  排除表 `config/license_exclusions.json`（每筆附資料集原文依據與理由）；`scripts/exclude_bundle_records.py` 依表把品項從 `data/bundles/<藥>/drug_bundle.json` 的 tfda.records 移到 tfda.excluded_records、total_matches 扣掉（已扣的號記在 tfda.excluded_ids，可重複執行；`--check` 只列）；`src/intxgnn/collectors/infda.py` 收集時也照表排除（依 drugbank_id）；`.github/workflows/license-refresh.yml` 在 license_refresh 前先跑這支。
+  calcitriol 證據包 records 20→19（只有 36119 存進證據包）、total_matches 90→86；證據包 local_regulatory 照 refresh_pack_regulatory 重算（dosage_forms_by_route 的「packet of 6 injections」一併拿掉）；概覽狀態列／張數列 at least 20→19、程式表少一列、description 句尾照快照重算。
+  正文劑型表「Injectable | 1 ml ampoule; packet of 6 injections」以 `in-lic-20261124c-calcitriol-2` 更正。資料集另有「Calcitriol (200／500／1000IU)」與鈣劑的複方（Mitocal-CCM 134767、135450，New Sunbless C 151591，Retencal-Plus 187830）同樣疑似維生素 D3 錯植，沒存進證據包，這次沒列進排除表（要人決定）。
+  證據包更新經 data-overlay 推進 Release。
+- B. 整頁沒有市場段落的公開頁（chlorpheniramine、docusate、ranolazine）：`scripts/sync_license_tables.py` 加 add_section（照 JpTxGNN 第二輪），在「## Safety Considerations」之前（沒有就 Conclusion and Next Steps、Disclaimer 之前）補「## India Market Information」與程式表；noindex 頁（nicotinamide、urea）與證據包沒有紀錄的頁不補。PAGE_NOTE 放行段落標題行；gate（licenses.py page_problems，第 18 項）擋「公開頁有證據包紀錄卻沒有市場段落」。
+- C. 待查清單「部分收錄頁的單方說法」147 句（136 頁）：照 2026-11-06 做法只刪「single-ingredient」字樣（「as a single-ingredient product」等片語一併拿掉），其他文字與數字不動（部分收錄頁照 B 規則不改張數），每句一筆 `in-lic-20261124c-<藥>-N`，待查標 resolved（附 record_ids）。calcitriol 那句因 A 存下的紀錄剩 19 筆，改成不寫張數（「show no cancelled licences」）。
+- 驗證：apply --check 0、rewrite_license_counts --check 0、sync_license_tables --check 0、checker 全量前後 0、gate exit 0；寬偵測（公開頁正文 single-ingredient／no combination 字樣、證據包存下紀錄有複方）剩 9 句，都是藥理概述（「a single-ingredient vitamin」）、有保留的句子（ofloxacin、salbutamol、norfloxacin）、clonazepam「single-ingredient and combination-containing products」或已判定的 diatrizoate，不改。

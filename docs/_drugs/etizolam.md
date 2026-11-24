@@ -86,7 +86,13 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-Etizolam has 20 valid single-ingredient registrations in India and none cancelled. The approved indication text is not available for these products.
+Etizolam has 20 valid registrations in India and none cancelled. The approved indication text is not available for these products.
+
+<!-- review:begin in-lic-20261124c-etizolam-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "Etizolam has 20 valid single-ingredient registrations in India and none cancelled." Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124c-etizolam-1 -->
 
 <!-- licenses:begin -->
 
@@ -140,6 +146,19 @@ The prediction rests on a computational score and a plausible class-based mechan
 - Human clinical evidence for etizolam in insomnia (trials or systematic reviews)
 - Assessment of dependence, withdrawal and rebound insomnia risk, given the rebound insomnia seen in the animal study and the withdrawal-related case report
 - Approved indication text for the Indian registrations, to check whether sleep-related uses are already labelled
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against the Indian medicine data used by this site (the Indian Medicine Dataset, a third-party compilation of Indian medicine prices). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-24 | Removed: the single-ingredient claim | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -72,7 +72,13 @@ Currently no related literature available for Laubry-Pezzi syndrome.
 
 ## India Market Information
 
-Tolperisone has 20 valid single-ingredient registrations and no cancelled ones. Approved indication text is not available for any of them.
+Tolperisone has 20 valid registrations and no cancelled ones. Approved indication text is not available for any of them.
+
+<!-- review:begin in-lic-20261124c-tolperisone-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "Tolperisone has 20 valid single-ingredient registrations and no cancelled ones." Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124c-tolperisone-1 -->
 
 <!-- licenses:begin -->
 
@@ -123,6 +129,19 @@ The prediction is supported only by a network-based score, with no clinical tria
 - Package insert warnings and contraindications from the India registrations, plus approved indication text
 - Any preclinical or clinical evidence linking tolperisone to the predicted condition
 - Reassessment of other candidate indications, for example neurological conditions where early preclinical signals exist (such as the MMP-9 findings in Parkinson's disease), before further investment
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against the Indian medicine data used by this site (the Indian Medicine Dataset, a third-party compilation of Indian medicine prices). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-24 | Removed: the single-ingredient claim | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

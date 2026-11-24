@@ -39,8 +39,14 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 ## One-Sentence Summary
 
-Camylofin is an antispasmodic that is currently marketed in India in many single-ingredient products, although the data compiled for this report do not include an approved indication text.
+Camylofin is an antispasmodic that is currently marketed in India in many products, although the data compiled for this report do not include an approved indication text.
 The TxGNN model predicts it may be effective for **insomnia**, but there are currently **no clinical trials and no publications** supporting this direction, so the prediction rests on the model alone.
+
+<!-- review:begin in-lic-20261124c-camylofin-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "Camylofin is an antispasmodic that is currently marketed in India in many single-ingredient products, although the data compiled for this report do not include an approved indication text." Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124c-camylofin-1 -->
 
 ## Quick Overview
 
@@ -70,7 +76,13 @@ Currently no related literature available.
 
 ## India Market Information
 
-Camylofin is registered in India under 20 valid single-ingredient licences (no cancelled licences). The licence data contain no approved indication text.
+Camylofin is registered in India under 20 valid licences (no cancelled licences). The licence data contain no approved indication text.
+
+<!-- review:begin in-lic-20261124c-camylofin-2 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "Camylofin is registered in India under 20 valid single-ingredient licences (no cancelled licences)." Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124c-camylofin-2 -->
 
 <!-- licenses:begin -->
 
@@ -123,6 +135,20 @@ The only support for insomnia is a model prediction (L5), with no clinical trial
 - A targeted literature and trial search for camylofin and sleep outcomes
 - Preclinical or early-phase evidence of benefit, with attention to central anticholinergic effects on cognition and sleep quality
 - Assessment of route compatibility and similarity to the original indication (currently pending)
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against the Indian medicine data used by this site (the Indian Medicine Dataset, a third-party compilation of Indian medicine prices). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-24 | Removed: the single-ingredient claim | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-24 | Removed: the single-ingredient claim | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -72,7 +72,13 @@ Currently no related literature available for malignant hypertensive renal disea
 
 ## India Market Information
 
-Carvedilol is marketed in India with 20 valid single-ingredient registrations. Approved indication text was not available for these products.
+Carvedilol is marketed in India with 20 valid registrations. Approved indication text was not available for these products.
+
+<!-- review:begin in-lic-20261124c-carvedilol-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "Carvedilol is marketed in India with 20 valid single-ingredient registrations." Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124c-carvedilol-1 -->
 
 <!-- licenses:begin -->
 
@@ -133,11 +139,12 @@ The prediction has a high model score but no clinical trials or literature for t
 
 ## Review Log
 
-Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against the Indian medicine data used by this site (the Indian Medicine Dataset, a third-party compilation of Indian medicine prices). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Coreg (carvedilol) prescribing information, Waylis Therapeutics LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=07c619c6-4a0c-445e-94fa-664a54f68a39) |
+| 2026-11-24 | Removed: the single-ingredient claim | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 

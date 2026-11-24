@@ -68,7 +68,13 @@ At most, naproxen might relieve joint pain symptomatically in some of these pati
 
 ## India Market Information
 
-Naproxen has 20 valid single-ingredient registrations and no cancelled ones. The data compiled for this report do not include approved indication text for these products.
+Naproxen has 20 valid registrations and no cancelled ones. The data compiled for this report do not include approved indication text for these products.
+
+<!-- review:begin in-lic-20261124c-naproxen-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "Naproxen has 20 valid single-ingredient registrations and no cancelled ones." Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124c-naproxen-1 -->
 
 <!-- licenses:begin -->
 
@@ -148,6 +154,7 @@ Below is the review log for this page: statements checked against the Indian med
 |------|------|------|------|
 | 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Naprelan (naproxen sodium) prescribing information, Upsher-Smith Laboratories, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b8a51c9a-488e-4377-a041-436f6a2f8893) |
 | 2026-11-24 | Revised: the single-ingredient classification | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-24 | Removed: the single-ingredient claim | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 

@@ -70,7 +70,13 @@ Currently no related literature available.
 
 ## India Market Information
 
-Salbutamol is marketed in India. The data compiled for this report lists 20 valid single-ingredient registrations and no cancelled ones. The list may be partial. Several of the products below carry salbutamol together with other ingredients in their trade names, so the entries do not describe single-ingredient salbutamol approval. Approved indication text is not recorded for these entries.
+Salbutamol is marketed in India. The data compiled for this report lists 20 valid registrations and no cancelled ones. The list may be partial. Several of the products below carry salbutamol together with other ingredients in their trade names, so the entries do not describe single-ingredient salbutamol approval. Approved indication text is not recorded for these entries.
+
+<!-- review:begin in-lic-20261124c-salbutamol-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "The data compiled for this report lists 20 valid single-ingredient registrations and no cancelled ones." Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124c-salbutamol-1 -->
 
 <!-- licenses:begin -->
 
@@ -128,11 +134,12 @@ The prediction has a high model score (0.9999) but no trials, no literature and 
 
 ## Review Log
 
-Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against the Indian medicine data used by this site (the Indian Medicine Dataset, a third-party compilation of Indian medicine prices). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Albuterol Sulfate Inhalation (albuterol sulfate) prescribing information, Amneal Pharmaceuticals NY LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2e449282-ee58-4e36-b983-85c4e6f0864d) |
+| 2026-11-24 | Removed: the single-ingredient claim | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 

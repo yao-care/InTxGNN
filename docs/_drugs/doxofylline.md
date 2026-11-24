@@ -71,7 +71,13 @@ Currently no related literature available for this predicted indication.
 
 ## India Market Information
 
-Twenty valid single-ingredient registrations are on record. The licence records do not include approved indication text.
+Twenty valid registrations are on record. The licence records do not include approved indication text.
+
+<!-- review:begin in-lic-20261124c-doxofylline-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "Twenty valid single-ingredient registrations are on record." Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124c-doxofylline-1 -->
 
 <!-- licenses:begin -->
 
@@ -156,6 +162,7 @@ Below is the review log for this page: statements checked against the Indian med
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-24 | Revised: the single-ingredient classification | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-24 | Removed: the single-ingredient claim | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 

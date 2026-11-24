@@ -93,7 +93,13 @@ None of these papers tests nalidixic acid as a treatment for conjunctivitis. The
 
 ## India Market Information
 
-There are 20 valid single-ingredient registrations. Approved indication text is not available for any of them.
+There are 20 valid registrations. Approved indication text is not available for any of them.
+
+<!-- review:begin in-lic-20261124c-nalidixic_acid-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "There are 20 valid single-ingredient registrations." Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124c-nalidixic_acid-1 -->
 
 <!-- licenses:begin -->
 
@@ -160,11 +166,12 @@ The prediction rests on a computational score alone. There are no clinical trial
 
 ## Review Log
 
-Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against the Indian medicine data used by this site (the Indian Medicine Dataset, a third-party compilation of Indian medicine prices). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-19 | "Detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL5 (nalidixic acid): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL5) |
+| 2026-11-24 | Removed: the single-ingredient claim | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 

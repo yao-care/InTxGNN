@@ -75,7 +75,13 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-A total of 20 valid single-ingredient registrations were found. Approved indication text was not available for any of them.
+A total of 20 valid registrations were found. Approved indication text was not available for any of them.
+
+<!-- review:begin in-lic-20261124c-ambroxol-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "A total of 20 valid single-ingredient registrations were found." Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124c-ambroxol-1 -->
 
 <!-- licenses:begin -->
 
@@ -127,6 +133,19 @@ The prediction rests almost entirely on the TxGNN score. There are no registered
 - Literature and trials that directly address ambroxol in nasal or upper airway disease
 - Approved indication text for the registered products, to confirm how the original indication is labelled in India
 - Consideration of acute laryngopharyngitis as a closer-to-label alternative, although it also currently has no direct evidence
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against the Indian medicine data used by this site (the Indian Medicine Dataset, a third-party compilation of Indian medicine prices). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-24 | Removed: the single-ingredient claim | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

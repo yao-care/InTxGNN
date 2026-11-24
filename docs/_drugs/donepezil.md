@@ -38,9 +38,15 @@ Evidence Level: **L5** | Predicted Indications: **8**
 
 ## One-Sentence Summary
 
-Donepezil is a cholinesterase inhibitor marketed in India as single-ingredient tablets and an orally disintegrating strip.
+Donepezil is a cholinesterase inhibitor marketed in India as tablets and an orally disintegrating strip.
 The TxGNN model predicts it may be effective for **psychogenic movement disorders**, with a score of **0.9923**.
 No clinical trials or publications were found for this disease, so the prediction rests on the model alone.
+
+<!-- review:begin in-lic-20261124c-donepezil-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "Donepezil is a cholinesterase inhibitor marketed in India as single-ingredient tablets and an orally disintegrating strip." Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124c-donepezil-1 -->
 
 ---
 
@@ -80,7 +86,13 @@ Currently no related literature available.
 
 ## India Market Information
 
-Donepezil has 20 valid single-ingredient licences in the data compiled for this report, and none are cancelled. The records may be partial. None of the licence records carry approved-indication text.
+Donepezil has 20 valid licences in the data compiled for this report, and none are cancelled. The records may be partial. None of the licence records carry approved-indication text.
+
+<!-- review:begin in-lic-20261124c-donepezil-2 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "Donepezil has 20 valid single-ingredient licences in the data compiled for this report, and none are cancelled." Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124c-donepezil-2 -->
 
 <!-- licenses:begin -->
 
@@ -144,11 +156,13 @@ The prediction has a high model score (0.9923) but no clinical trials or publica
 
 ## Review Log
 
-Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against the Indian medicine data used by this site (the Indian Medicine Dataset, a third-party compilation of Indian medicine prices). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-19 | "Detailed mechanism-of-action data for donepezil is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Aricept (donepezil hydrochloride) prescribing information, Eisai Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=98e451e1-e4d7-4439-a675-c5457ba20975) |
+| 2026-11-24 | Removed: the single-ingredient claim | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-24 | Removed: the single-ingredient claim | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 

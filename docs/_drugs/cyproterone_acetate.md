@@ -88,7 +88,13 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-Cyproterone acetate has 20 valid single-ingredient registrations; the license records provide no approved indication text.
+Cyproterone acetate has 20 valid registrations; the license records provide no approved indication text.
+
+<!-- review:begin in-lic-20261124c-cyproterone_acetate-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "Cyproterone acetate has 20 valid single-ingredient registrations;" Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124c-cyproterone_acetate-1 -->
 
 <!-- licenses:begin -->
 
@@ -161,6 +167,19 @@ The prediction rests on a computational score alone. No trials exist, and the li
 - *Amenorrhea (irregular cycles of hyperandrogenic origin)* is the best supported (L3), with one Phase 4 trial (NCT01103518, 100 participants, status unknown) and older hirsutism and hyperandrogenism studies. It is better viewed as a symptom of an already established use than as a new target.
 - *Breast fibrocystic disease* has limited, old evidence (L3) and remains on Hold.
 - The thrombosis-related predictions (thrombophilia, antithrombin deficiency type 2, heparin cofactor 2 deficiency, factor 5 excess, Prinzmetal angina) reflect harm or no evidence, and should not be pursued as therapeutic targets.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against the Indian medicine data used by this site (the Indian Medicine Dataset, a third-party compilation of Indian medicine prices). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-24 | Removed: the single-ingredient claim | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

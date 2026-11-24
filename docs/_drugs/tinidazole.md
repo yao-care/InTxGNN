@@ -91,7 +91,13 @@ Literature was retrieved only for the AIDS prediction. It mostly concerns tinida
 
 ## India Market Information
 
-Twenty valid single-ingredient registrations are on record. The approved indication text is not available for any of them.
+Twenty valid registrations are on record. The approved indication text is not available for any of them.
+
+<!-- review:begin in-lic-20261124c-tinidazole-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "Twenty valid single-ingredient registrations are on record." Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124c-tinidazole-1 -->
 
 <!-- licenses:begin -->
 
@@ -151,11 +157,12 @@ The prediction rests on model score alone (L5), with no clinical trials or liter
 
 ## Review Log
 
-Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against the Indian medicine data used by this site (the Indian Medicine Dataset, a third-party compilation of Indian medicine prices). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Tindazole (tinidazole) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=45fa3ebd-52da-4987-82a1-4a64f99785a7) |
+| 2026-11-24 | Removed: the single-ingredient claim | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 

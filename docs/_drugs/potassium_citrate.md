@@ -82,7 +82,13 @@ Currently no related literature available.
 
 ## India Market Information
 
-At least 20 valid licences for single-ingredient products are on record, and the list may be partial. The licence records do not include approved indication text.
+At least 20 valid licences are on record, and the list may be partial. The licence records do not include approved indication text.
+
+<!-- review:begin in-lic-20261124c-potassium_citrate-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "At least 20 valid licences for single-ingredient products are on record, and the list may be partial." Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124c-potassium_citrate-1 -->
 
 <!-- licenses:begin -->
 
@@ -147,6 +153,19 @@ The prediction rests only on the model score. There are no trials or publication
 - Confirmation of the approved indications in the licence records
 
 It is a far stronger candidate and should be evaluated as a separate report. Cautions would include small trial sizes, possible promotion of calcium phosphate stones by higher urinary pH, and monitoring of potassium and renal function.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against the Indian medicine data used by this site (the Indian Medicine Dataset, a third-party compilation of Indian medicine prices). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-24 | Removed: the single-ingredient claim | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

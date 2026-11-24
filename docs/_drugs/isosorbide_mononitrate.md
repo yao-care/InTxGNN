@@ -81,7 +81,13 @@ No literature is available for hypertrichosis. The only literature found relates
 
 ## India Market Information
 
-There are 20 valid single-ingredient licences. The approved indication text is not provided in the licence records.
+There are 20 valid licences. The approved indication text is not provided in the licence records.
+
+<!-- review:begin in-lic-20261124c-isosorbide_mononitrate-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "There are 20 valid single-ingredient licences." Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124c-isosorbide_mononitrate-1 -->
 
 <!-- licenses:begin -->
 
@@ -141,11 +147,12 @@ The top predictions (hypertrichosis, alopecia and related hair or congenital dis
 
 ## Review Log
 
-Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against the Indian medicine data used by this site (the Indian Medicine Dataset, a third-party compilation of Indian medicine prices). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-19 | "Currently, detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: isosorbide mononitrate prescribing information, Golden State Medical Supply, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=86be0e85-5337-bee4-e053-2a91aa0a8158) |
+| 2026-11-24 | Removed: the single-ingredient claim | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 

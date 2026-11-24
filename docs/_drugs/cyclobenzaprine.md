@@ -91,7 +91,13 @@ Only one registered trial is in a myofascial pain setting, and it tests a proced
 
 ## India Market Information
 
-Twenty valid single-ingredient registrations are on file. The approved indication text is blank for all of them.
+Twenty valid registrations are on file. The approved indication text is blank for all of them.
+
+<!-- review:begin in-lic-20261124c-cyclobenzaprine-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "Twenty valid single-ingredient registrations are on file." Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124c-cyclobenzaprine-1 -->
 
 <!-- licenses:begin -->
 
@@ -158,11 +164,12 @@ The muscle-relaxant mechanism fits myofascial pain well, and randomised trials i
 
 ## Review Log
 
-Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against the Indian medicine data used by this site (the Indian Medicine Dataset, a third-party compilation of Indian medicine prices). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-20 | "Detailed mechanism of action data was not available in the drug record, so this description comes from the repurposing analysis" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt (revised 2026-11-20; earlier version kept in the record) | [DailyMed: Tonmya (cyclobenzaprine hydrochloride) prescribing information, Tonix Medicines, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6fa59588-ce9b-48cf-8c5f-725a448f8571) |
+| 2026-11-24 | Removed: the single-ingredient claim | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 

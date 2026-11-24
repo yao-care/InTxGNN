@@ -38,9 +38,15 @@ Evidence Level: **L5** | Predicted Indications: **8**
 
 ## One-Sentence Summary
 
-Chlorzoxazone is a centrally acting skeletal muscle relaxant, marketed in India as a single-ingredient product (the license records list no approved indication text).
+Chlorzoxazone is a centrally acting skeletal muscle relaxant, marketed in India (the license records list no approved indication text).
 The TxGNN model predicts it may be effective for **migraine disorder**, but **no clinical trials** and only **3 indirect publications** (two reviews on vertigo and cerebellar disorders and one mouse study) are linked to this prediction.
 This is a model-only prediction with very weak supporting evidence.
+
+<!-- review:begin in-lic-20261124c-chlorzoxazone-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "Chlorzoxazone is a centrally acting skeletal muscle relaxant, marketed in India as a single-ingredient product (the license records list no approved indication text)." Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124c-chlorzoxazone-1 -->
 
 ---
 
@@ -179,6 +185,7 @@ Below is the review log for this page: statements checked against the Indian med
 | 2026-11-19 | "Currently, detailed mechanism of action data is not available from the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: chlorzoxazone prescribing information, Solubiomix](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c3d40a90-6df8-4b44-bc61-d7655c52bacb) |
 | 2026-11-24 | Revised: wording about the earlier partial table and the single-ingredient claim | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 | 2026-11-24 | Revised: the single-ingredient classification | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-24 | Removed: the single-ingredient claim | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 

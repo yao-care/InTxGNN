@@ -1,0 +1,53 @@
+{
+ "_note": "從本藥證據包排除的資料集品項（成分欄錯植）。scripts/exclude_bundle_records.py 依這張表把品項從 data/bundles/<bundle>/drug_bundle.json 的 tfda.records 移到 tfda.excluded_records、total_matches 扣掉；src/intxgnn/collectors/infda.py 收集時也照這張表排除（依 drugbank_id）。每週許可證排程（license-refresh.yml）在 license_refresh 前先跑。每筆附依據；要加新的，先在資料集原文確認錯植。",
+ "exclusions": [
+  {
+   "bundle": "calcitriol",
+   "drugbank_id": "DB00136",
+   "license_id": "36119",
+   "product": "Calcirol 600000IU Injection",
+   "manufacturer": "Cadila Pharmaceuticals Ltd",
+   "dataset_composition": "Calcitriol (600000IU)",
+   "reason": "資料集成分欄寫「Calcitriol」但劑量以 IU 計（300000／600000 IU）：這是維生素 D3（cholecalciferol）的劑量，calcitriol 的劑量以 mcg 計（本證據包其他品項 0.25 mcg、注射 1 mcg）；IU 劑量與 calcitriol 不符，判為 cholecalciferol 產品錯植成 calcitriol。",
+   "basis": "Indian Medicine Dataset（junioralive/Indian-Medicine-Dataset DATA/indian_medicine_data.csv，2026-11-24 讀 Release data-20261112-161012 的 data/raw）原文 id 36119：name「Calcirol 600000IU Injection」、short_composition1「Calcitriol (600000IU)」",
+   "decided": "2026-11-24 用戶決定（第三輪 A）",
+   "added": "2026-11-24"
+  },
+  {
+   "bundle": "calcitriol",
+   "drugbank_id": "DB00136",
+   "license_id": "65100",
+   "product": "Devita Injection",
+   "manufacturer": "Medinova Labs",
+   "dataset_composition": "Calcitriol (600000IU)",
+   "reason": "資料集成分欄寫「Calcitriol」但劑量以 IU 計（300000／600000 IU）：這是維生素 D3（cholecalciferol）的劑量，calcitriol 的劑量以 mcg 計（本證據包其他品項 0.25 mcg、注射 1 mcg）；IU 劑量與 calcitriol 不符，判為 cholecalciferol 產品錯植成 calcitriol。",
+   "basis": "Indian Medicine Dataset（junioralive/Indian-Medicine-Dataset DATA/indian_medicine_data.csv，2026-11-24 讀 Release data-20261112-161012 的 data/raw）原文 id 65100：name「Devita Injection」、short_composition1「Calcitriol (600000IU)」",
+   "decided": "2026-11-24 用戶決定（第三輪 A）",
+   "added": "2026-11-24"
+  },
+  {
+   "bundle": "calcitriol",
+   "drugbank_id": "DB00136",
+   "license_id": "162706",
+   "product": "Osta D3 600000IU Injection",
+   "manufacturer": "Ravenbhel Pharmaceuticals Pvt Ltd",
+   "dataset_composition": "Calcitriol (600000IU)",
+   "reason": "資料集成分欄寫「Calcitriol」但劑量以 IU 計（300000／600000 IU）：這是維生素 D3（cholecalciferol）的劑量，calcitriol 的劑量以 mcg 計（本證據包其他品項 0.25 mcg、注射 1 mcg）；品名「Osta D3」即維生素 D3；IU 劑量與 calcitriol 不符，判為 cholecalciferol 產品錯植成 calcitriol。",
+   "basis": "Indian Medicine Dataset（junioralive/Indian-Medicine-Dataset DATA/indian_medicine_data.csv，2026-11-24 讀 Release data-20261112-161012 的 data/raw）原文 id 162706：name「Osta D3 600000IU Injection」、short_composition1「Calcitriol (600000IU)」",
+   "decided": "2026-11-24 用戶決定（第三輪 A）",
+   "added": "2026-11-24"
+  },
+  {
+   "bundle": "calcitriol",
+   "drugbank_id": "DB00136",
+   "license_id": "166938",
+   "product": "Osta D3 300000IU Injection",
+   "manufacturer": "Ravenbhel Pharmaceuticals Pvt Ltd",
+   "dataset_composition": "Calcitriol (300000IU)",
+   "reason": "資料集成分欄寫「Calcitriol」但劑量以 IU 計（300000／600000 IU）：這是維生素 D3（cholecalciferol）的劑量，calcitriol 的劑量以 mcg 計（本證據包其他品項 0.25 mcg、注射 1 mcg）；品名「Osta D3」即維生素 D3；IU 劑量與 calcitriol 不符，判為 cholecalciferol 產品錯植成 calcitriol。",
+   "basis": "Indian Medicine Dataset（junioralive/Indian-Medicine-Dataset DATA/indian_medicine_data.csv，2026-11-24 讀 Release data-20261112-161012 的 data/raw）原文 id 166938：name「Osta D3 300000IU Injection」、short_composition1「Calcitriol (300000IU)」",
+   "decided": "2026-11-24 用戶決定（第三輪 A）",
+   "added": "2026-11-24"
+  }
+ ]
+}

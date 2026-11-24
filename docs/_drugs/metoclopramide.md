@@ -103,7 +103,13 @@ Most of the retrieved literature consists of general reviews of gastric motility
 
 ## India Market Information
 
-Metoclopramide is currently marketed in India with 20 valid single-ingredient registrations. The approved-indication text was not available for these products.
+Metoclopramide is currently marketed in India with 20 valid registrations. The approved-indication text was not available for these products.
+
+<!-- review:begin in-lic-20261124c-metoclopramide-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "Metoclopramide is currently marketed in India with 20 valid single-ingredient registrations." Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124c-metoclopramide-1 -->
 
 <!-- licenses:begin -->
 
@@ -185,6 +191,7 @@ Below is the review log for this page: statements checked against the Indian med
 |------|------|------|------|
 | 2026-11-19 | "(Detailed mechanism-of-action data were not available in the data compiled for this report; this description comes from the mechanistic analysis of the predicted indication.)" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Reglan (metoclopramide hydrochloride) prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=de55c133-eb08-4a35-91a2-5dc093027397) |
 | 2026-11-24 | Revised: the single-ingredient classification | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-24 | Removed: the single-ingredient claim | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 

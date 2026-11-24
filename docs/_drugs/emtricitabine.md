@@ -97,7 +97,13 @@ Most listed studies are macaque or other animal studies, and none is a human RCT
 
 ## India Market Information
 
-At least 20 valid single-ingredient registrations were found, and the list may be partial. The records compiled for this report contain no approved-indication text, so indications are not shown.
+At least 20 valid registrations were found, and the list may be partial. The records compiled for this report contain no approved-indication text, so indications are not shown.
+
+<!-- review:begin in-lic-20261124c-emtricitabine-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "At least 20 valid single-ingredient registrations were found, and the list may be partial." Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124c-emtricitabine-1 -->
 
 <!-- licenses:begin -->
 
@@ -162,11 +168,12 @@ The high model score (0.9992) is backed only by animal studies, mainly macaque S
 
 ## Review Log
 
-Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against the Indian medicine data used by this site (the Indian Medicine Dataset, a third-party compilation of Indian medicine prices). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Emtriva (emtricitabine) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d6599395-3944-44f9-97f2-e0424c6b6a1f) |
+| 2026-11-24 | Removed: the single-ingredient claim | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 

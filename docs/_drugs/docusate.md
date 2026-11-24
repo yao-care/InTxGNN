@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Docusate"
 predicted_indications: ["Plummer-Vinson syndrome", "vitamin B12- and folate-independent constitutional megaloblastic anemia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Docusate: predicted new indication Plummer-Vinson syndrome (evidence level L5). In India: 2 listed products (2 not discontinued)"
 ---
 
@@ -65,6 +65,19 @@ The high score most likely reflects how close Plummer-Vinson syndrome sits to an
 Overall, the prediction should be treated as a weak hypothesis with no mechanistic support at present.
 
 ---
+
+## India Market Information
+
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 122099 | Laxicon SG Capsule | Strip of 10 capsules | Valid |
+| 199671 | Smuth Capsule | Strip of 10 capsules | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

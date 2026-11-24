@@ -38,9 +38,15 @@ Evidence Level: **L5** | Predicted Indications: **8**
 
 ## One-Sentence Summary
 
-Lornoxicam is a nonsteroidal anti-inflammatory drug (NSAID) of the oxicam class that is marketed in India as single-ingredient products.
+Lornoxicam is a nonsteroidal anti-inflammatory drug (NSAID) of the oxicam class that is marketed in India.
 The TxGNN model predicts it may be effective for **migraine disorder**.
 The evidence is thin: **1 completed Phase 2 trial** has no published or posted results, and the **2 publications** are reviews, so the evidence level is **L5**.
+
+<!-- review:begin in-lic-20261124c-lornoxicam-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "Lornoxicam is a nonsteroidal anti-inflammatory drug (NSAID) of the oxicam class that is marketed in India as single-ingredient products." Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124c-lornoxicam-1 -->
 
 ## Quick Overview
 
@@ -126,6 +132,18 @@ The mechanism is plausible and the model score is high. However, the only trial 
 - Detailed mechanism of action data
 - Package insert warnings and contraindications from the Indian licences
 - Confirmation of the approved indication text on the local licences
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against the Indian medicine data used by this site (the Indian Medicine Dataset, a third-party compilation of Indian medicine prices). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-24 | Removed: the single-ingredient claim | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

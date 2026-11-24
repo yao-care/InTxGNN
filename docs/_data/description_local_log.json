@@ -272,9 +272,9 @@
       "date": "2026-11-19"
     },
     "calcitriol": {
-      "tail": "In India: at least 20 listed products",
+      "tail": "In India: at least 19 listed products",
       "original": "Approved use: Not recorded in the local data",
-      "date": "2026-11-19"
+      "date": "2026-11-24"
     },
     "calcium_acetate": {
       "tail": "In India: 4 listed products (4 not discontinued)",
@@ -5005,6 +5005,13 @@
       "date": "2026-11-19",
       "from": "\"Zuclopenthixol: predicted new indication Retinal dystrophy with or without extraocular anomalies (evidence level L5). Approved use: Not recorded in the local data\"",
       "to": "\"Zuclopenthixol: predicted new indication Retinal dystrophy with or without extraocular anomalies (evidence level L5). In India: 3 listed products (3 not discontinued)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/calcitriol.md",
+      "date": "2026-11-24",
+      "from": "\"Calcitriol: predicted new indication obsolete vitamin D deficiency (evidence level L5). In India: at least 20 listed products\"",
+      "to": "\"Calcitriol: predicted new indication obsolete vitamin D deficiency (evidence level L5). In India: at least 19 listed products\"",
       "tool": ".claude/drug_meta_description.py --apply"
     }
   ]

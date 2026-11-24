@@ -82,7 +82,13 @@ For open-angle glaucoma (abstracts were truncated, so the summaries below rely o
 
 ## India Market Information
 
-At least 20 licences are recorded for single-ingredient thiamine products (the list may be partial). None of the records include approved indication text.
+At least 20 licences are recorded for thiamine products (the list may be partial). None of the records include approved indication text.
+
+<!-- review:begin in-lic-20261124c-thiamine-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "At least 20 licences are recorded for single-ingredient thiamine products (the list may be partial)." Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124c-thiamine-1 -->
 
 <!-- licenses:begin -->
 
@@ -134,6 +140,19 @@ The TxGNN scores are very high (about 0.9940), but no clinical trial supports an
 - A controlled study or well-designed trial of thiamine supplementation in open-angle glaucoma (intraocular pressure and visual field outcomes)
 - Review of full abstracts and full texts, since this assessment relied on truncated abstracts
 - Route and formulation assessment, since the marketed products are mostly injectables
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against the Indian medicine data used by this site (the Indian Medicine Dataset, a third-party compilation of Indian medicine prices). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-24 | Removed: the single-ingredient claim | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

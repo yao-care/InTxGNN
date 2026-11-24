@@ -38,8 +38,14 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 ## One-Sentence Summary
 
-Doxylamine is an antihistamine with anticholinergic properties that is marketed in India as single-ingredient tablets.
+Doxylamine is an antihistamine with anticholinergic properties that is marketed in India as tablets.
 The TxGNN model predicts it may be effective for **nasal cavity disease**, but no clinical trials or publications were found in the compiled data to support this direction. The prediction rests on model output alone.
+
+<!-- review:begin in-lic-20261124c-doxylamine-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "Doxylamine is an antihistamine with anticholinergic properties that is marketed in India as single-ingredient tablets." Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124c-doxylamine-1 -->
 
 ---
 
@@ -79,7 +85,13 @@ Currently no related literature available.
 
 ## India Market Information
 
-At least 20 valid single-ingredient licences are recorded, and the list may be partial. None of them carries approved indication text in the local data.
+At least 20 valid licences are recorded, and the list may be partial. None of them carries approved indication text in the local data.
+
+<!-- review:begin in-lic-20261124c-doxylamine-2 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "At least 20 valid single-ingredient licences are recorded, and the list may be partial." Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124c-doxylamine-2 -->
 
 <!-- licenses:begin -->
 
@@ -139,11 +151,13 @@ The prediction score is high (0.9936), but no clinical trial or publication dire
 
 ## Review Log
 
-Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against the Indian medicine data used by this site (the Indian Medicine Dataset, a third-party compilation of Indian medicine prices). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-19 | "Detailed mechanism of action data are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Doxylamine Succinate And Pyridoxine Hydrochloride (doxylamine succinate and pyridoxine hydrochloride, delayed release tablets 10 mg/10 mg) prescribing information, Par Health USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=de265fd1-bc22-4da1-aab5-b5fedd649c8b) |
+| 2026-11-24 | Removed: the single-ingredient claim | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-24 | Removed: the single-ingredient claim | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 

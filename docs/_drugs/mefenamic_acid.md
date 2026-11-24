@@ -38,9 +38,15 @@ Evidence Level: **L2** | Predicted Indications: **6**
 
 ## One-Sentence Summary
 
-Mefenamic acid is a non-steroidal anti-inflammatory drug that blocks prostaglandin synthesis and is marketed in India as a single-ingredient product.
+Mefenamic acid is a non-steroidal anti-inflammatory drug that blocks prostaglandin synthesis and is marketed in India.
 The TxGNN model predicts it may be useful for **headache disorder**.
 There are **no registered clinical trials**, but **19 publications** were compiled, including three small randomized double-blind trials in migraine, a subtype of headache disorder.
+
+<!-- review:begin in-lic-20261124c-mefenamic_acid-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "Mefenamic acid is a non-steroidal anti-inflammatory drug that blocks prostaglandin synthesis and is marketed in India as a single-ingredient product." Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124c-mefenamic_acid-1 -->
 
 ## Quick Overview
 
@@ -83,7 +89,13 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-The data lists 20 valid single-ingredient licences. The records may be partial, so the list below is not exhaustive.
+The data lists 20 valid licences. The records may be partial, so the list below is not exhaustive.
+
+<!-- review:begin in-lic-20261124c-mefenamic_acid-2 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "The data lists 20 valid single-ingredient licences." Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124c-mefenamic_acid-2 -->
 
 <!-- licenses:begin -->
 
@@ -152,11 +164,13 @@ Small randomized double-blind trials of mefenamic acid exist in migraine, a subt
 
 ## Review Log
 
-Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against the Indian medicine data used by this site (the Indian Medicine Dataset, a third-party compilation of Indian medicine prices). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-19 | "Detailed mechanism-of-action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: mefenamic acid prescribing information, Lupin Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d15733a9-d5fd-4d5f-86ce-e7ed8c706c7f) |
+| 2026-11-24 | Removed: the single-ingredient claim | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-24 | Removed: the single-ingredient claim | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 

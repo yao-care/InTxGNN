@@ -38,9 +38,15 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Acetylcysteine is a mucolytic and antioxidant thiol drug that is widely marketed in India as single-ingredient products.
+Acetylcysteine is a mucolytic and antioxidant thiol drug that is widely marketed in India.
 The TxGNN model predicts it may be effective for **thrombotic disease**, with **7 clinical trials** and **20 publications** compiled for this direction.
 The strongest support is in thrombotic microangiopathy (TA-TMA) and thrombotic thrombocytopenic purpura (TTP), not thrombosis in general.
+
+<!-- review:begin in-lic-20261124c-acetylcysteine-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "Acetylcysteine is a mucolytic and antioxidant thiol drug that is widely marketed in India as single-ingredient products." Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124c-acetylcysteine-1 -->
 
 ## Quick Overview
 
@@ -121,7 +127,13 @@ Only part of the licence list is held in the data; the list may be incomplete.
 
 <!-- licenses:end -->
 
-The data lists 20 valid single-ingredient licences, and the records may be partial. Dosage forms are oral tablets and injectables.
+The data lists 20 valid licences, and the records may be partial. Dosage forms are oral tablets and injectables.
+
+<!-- review:begin in-lic-20261124c-acetylcysteine-2 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "The data lists 20 valid single-ingredient licences, and the records may be partial." Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the products held in the data are fixed-dose combinations. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124c-acetylcysteine-2 -->
 
 ## Safety Considerations
 
@@ -147,11 +159,13 @@ Evidence level is L2. One completed Phase 3 trial (NCT03252925) and a completed 
 
 ## Review Log
 
-Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against the Indian medicine data used by this site (the Indian Medicine Dataset, a third-party compilation of Indian medicine prices). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-19 | "Detailed mechanism of action data for the drug is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Acetadote (acetylcysteine) prescribing information, Cumberland Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=472f158a-5ab9-4308-8e49-1116e6ea3d39) |
+| 2026-11-24 | Removed: the single-ingredient claim | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-24 | Removed: the single-ingredient claim | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 

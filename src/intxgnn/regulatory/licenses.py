@@ -151,6 +151,11 @@ def page_problems(stem: str, text: str) -> list[str]:
                 errs.append(f"程式區塊表格下方的程式文字應為「{' '.join(e['show']) or '（無）'}」")
         elif s is not None and "rows" in e:
             errs.append("市場段落沒有程式許可證區塊（跑 python3 scripts/sync_license_tables.py）")
+    else:
+        # 2026-11-24 第三輪（用戶決定）：公開頁整頁沒有市場段落、證據包卻有紀錄 → 要補程式表段落（sync_license_tables.add_section）
+        fm = text.split("---", 2)[1] if text.startswith("---") else ""
+        if e.get("rows") and not re.search(r"^noindex:\s*true", fm, re.M):
+            errs.append("公開頁沒有「India Market Information」段落，但證據包有紀錄（跑 python3 scripts/sync_license_tables.py）")
     fc = e.get("facts")
     if fc:
         all_rows = [r for t in _tables(lines) for r in _rows(t)]
