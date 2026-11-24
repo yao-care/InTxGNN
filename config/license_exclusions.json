@@ -1,5 +1,5 @@
 {
- "_note": "從本藥證據包排除的資料集品項（成分欄錯植）。scripts/exclude_bundle_records.py 依這張表把品項從 data/bundles/<bundle>/drug_bundle.json 的 tfda.records 移到 tfda.excluded_records、total_matches 扣掉；src/intxgnn/collectors/infda.py 收集時也照這張表排除（依 drugbank_id）。每週許可證排程（license-refresh.yml）在 license_refresh 前先跑。每筆附依據；要加新的，先在資料集原文確認錯植。",
+ "_note": "從本藥證據包排除的資料集品項（成分欄錯植）。scripts/exclude_bundle_records.py 依這張表把品項從 data/bundles/<bundle>/drug_bundle.json 的 tfda.records 移到 tfda.excluded_records、total_matches 扣掉（只扣 drug_mapping.csv 確實把該號對到本藥 DrugBank ID 的，沒對到的號本來就不在總數裡）；src/intxgnn/collectors/infda.py 收集時也照這張表排除（依 drugbank_id）。每週許可證排程（license-refresh.yml）在 license_refresh 前先跑。每筆附依據；要加新的，先在資料集原文確認錯植。",
  "exclusions": [
   {
    "bundle": "calcitriol",
@@ -47,6 +47,57 @@
    "reason": "資料集成分欄寫「Calcitriol」但劑量以 IU 計（300000／600000 IU）：這是維生素 D3（cholecalciferol）的劑量，calcitriol 的劑量以 mcg 計（本證據包其他品項 0.25 mcg、注射 1 mcg）；品名「Osta D3」即維生素 D3；IU 劑量與 calcitriol 不符，判為 cholecalciferol 產品錯植成 calcitriol。",
    "basis": "Indian Medicine Dataset（junioralive/Indian-Medicine-Dataset DATA/indian_medicine_data.csv，2026-11-24 讀 Release data-20261112-161012 的 data/raw）原文 id 166938：name「Osta D3 300000IU Injection」、short_composition1「Calcitriol (300000IU)」",
    "decided": "2026-11-24 用戶決定（第三輪 A）",
+   "added": "2026-11-24"
+  },
+  {
+   "bundle": "calcitriol",
+   "drugbank_id": "DB00136",
+   "license_id": "134767",
+   "product": "Mitocal -CCM Tablet",
+   "manufacturer": "Mitoch Pharma Pvt Ltd",
+   "dataset_composition": "Calcium Citrate Malate (1000mg) + Calcitriol (500IU)",
+   "reason": "資料集把鈣劑複方的維生素 D 成分寫成「Calcitriol」但劑量以 IU 計（500 IU）：這是維生素 D3（cholecalciferol）的劑量，calcitriol 的劑量以 mcg 計（本證據包其他品項 0.25 mcg、注射 1 mcg；calcitriol 每日劑量是 0.25～1 mcg，換成 IU 只有約 10～40 IU）；鈣＋維生素 D3 是常見組合，判為 cholecalciferol 錯植成 calcitriol。",
+   "basis": "Indian Medicine Dataset（junioralive/Indian-Medicine-Dataset DATA/indian_medicine_data.csv，2026-11-24 讀 Release data-20261124-141016 的 data/raw）原文 id 134767：name「Mitocal -CCM Tablet」、short_composition1「Calcium Citrate Malate (1000mg)」、short_composition2「Calcitriol (500IU)」",
+   "decided": "2026-11-24 用戶決定（第三輪 In 追加）",
+   "added": "2026-11-24",
+   "note": "data/processed/drug_mapping.csv 只對成分欄第一個成分（本號是鈣），目前沒有對到 DB00136、不在 calcitriol 的 total_matches 裡；列在表裡是讓收集器（infda.py）之後對到第二成分時也不收進 calcitriol。exclude_bundle_records.py 依 drug_mapping 判斷，不扣 total_matches。"
+  },
+  {
+   "bundle": "calcitriol",
+   "drugbank_id": "DB00136",
+   "license_id": "135450",
+   "product": "Mitocal -CCM Tablet",
+   "manufacturer": "Mitoch Pharma Pvt Ltd",
+   "dataset_composition": "Calcium Citrate Malate (1000mg) + Calcitriol (500IU)",
+   "reason": "資料集把鈣劑複方的維生素 D 成分寫成「Calcitriol」但劑量以 IU 計（500 IU）：這是維生素 D3（cholecalciferol）的劑量，calcitriol 的劑量以 mcg 計（本證據包其他品項 0.25 mcg、注射 1 mcg；calcitriol 每日劑量是 0.25～1 mcg，換成 IU 只有約 10～40 IU）；鈣＋維生素 D3 是常見組合，判為 cholecalciferol 錯植成 calcitriol。",
+   "basis": "Indian Medicine Dataset（junioralive/Indian-Medicine-Dataset DATA/indian_medicine_data.csv，2026-11-24 讀 Release data-20261124-141016 的 data/raw）原文 id 135450：name「Mitocal -CCM Tablet」、short_composition1「Calcium Citrate Malate (1000mg)」、short_composition2「Calcitriol (500IU)」",
+   "decided": "2026-11-24 用戶決定（第三輪 In 追加）",
+   "added": "2026-11-24",
+   "note": "data/processed/drug_mapping.csv 只對成分欄第一個成分（本號是鈣），目前沒有對到 DB00136、不在 calcitriol 的 total_matches 裡；列在表裡是讓收集器（infda.py）之後對到第二成分時也不收進 calcitriol。exclude_bundle_records.py 依 drug_mapping 判斷，不扣 total_matches。"
+  },
+  {
+   "bundle": "calcitriol",
+   "drugbank_id": "DB00136",
+   "license_id": "151591",
+   "product": "New Sunbless C Tablet",
+   "manufacturer": "Zydus Cadila",
+   "dataset_composition": "Calcium (1000mg) + Calcitriol (200IU)",
+   "reason": "資料集把鈣劑複方的維生素 D 成分寫成「Calcitriol」但劑量以 IU 計（200 IU）：這是維生素 D3（cholecalciferol）的劑量，calcitriol 的劑量以 mcg 計（本證據包其他品項 0.25 mcg、注射 1 mcg；calcitriol 每日劑量是 0.25～1 mcg，換成 IU 只有約 10～40 IU）；鈣＋維生素 D3 是常見組合，判為 cholecalciferol 錯植成 calcitriol。",
+   "basis": "Indian Medicine Dataset（junioralive/Indian-Medicine-Dataset DATA/indian_medicine_data.csv，2026-11-24 讀 Release data-20261124-141016 的 data/raw）原文 id 151591：name「New Sunbless C Tablet」、short_composition1「Calcium (1000mg)」、short_composition2「Calcitriol (200IU)」",
+   "decided": "2026-11-24 用戶決定（第三輪 In 追加）",
+   "added": "2026-11-24",
+   "note": "data/processed/drug_mapping.csv 只對成分欄第一個成分（本號是鈣），目前沒有對到 DB00136、不在 calcitriol 的 total_matches 裡；列在表裡是讓收集器（infda.py）之後對到第二成分時也不收進 calcitriol。exclude_bundle_records.py 依 drug_mapping 判斷，不扣 total_matches。"
+  },
+  {
+   "bundle": "calcitriol",
+   "drugbank_id": "DB00136",
+   "license_id": "187830",
+   "product": "Retencal-Plus Tablet",
+   "manufacturer": "Ulterius Pharmaceuticals Private Limited",
+   "dataset_composition": "Calcitriol (1000IU) + Calcium Carbonate (500mg)",
+   "reason": "資料集把鈣劑複方的維生素 D 成分寫成「Calcitriol」但劑量以 IU 計（1000 IU）：這是維生素 D3（cholecalciferol）的劑量，calcitriol 的劑量以 mcg 計（本證據包其他品項 0.25 mcg、注射 1 mcg；calcitriol 每日劑量是 0.25～1 mcg，換成 IU 只有約 10～40 IU）；鈣＋維生素 D3 是常見組合，判為 cholecalciferol 錯植成 calcitriol。",
+   "basis": "Indian Medicine Dataset（junioralive/Indian-Medicine-Dataset DATA/indian_medicine_data.csv，2026-11-24 讀 Release data-20261124-141016 的 data/raw）原文 id 187830：name「Retencal-Plus Tablet」、short_composition1「Calcitriol (1000IU)」、short_composition2「Calcium Carbonate (500mg)」",
+   "decided": "2026-11-24 用戶決定（第三輪 In 追加）",
    "added": "2026-11-24"
   }
  ]

@@ -24,12 +24,23 @@ def load():
     return json.loads(CFG.read_text(encoding="utf-8")).get("exclusions") or []
 
 
+def _mapped():
+    """data/processed/drug_mapping.csv 的 (license_id, DrugBank ID) 配對；沒有檔回 None"""
+    import csv
+    f = ROOT / "data" / "processed" / "drug_mapping.csv"
+    if not f.exists():
+        return None
+    with f.open(encoding="utf-8") as fh:
+        return {(str(r.get("license_id") or "").strip(), str(r.get("drugbank_id") or "").strip().upper()) for r in csv.DictReader(fh)}
+
+
 def main(check=False):
     today = dt.date.today().isoformat()
     by_bundle = {}
     for e in load():
         by_bundle.setdefault(e["bundle"], []).append(e)
     changed, missing = [], []
+    mapped = _mapped()
     for bundle, items in sorted(by_bundle.items()):
         f = ROOT / "data" / "bundles" / bundle / "drug_bundle.json"
         if not f.exists():
@@ -50,6 +61,11 @@ def main(check=False):
                     exc.append({**r, "excluded": today, "reason": e["reason"], "basis": e["basis"]})
                 moved.append(lid)
             if lid not in done:
+                # 2026-11-24 追加：只有收集器確實算進本藥的號才扣 total_matches（drug_mapping.csv 把該號對到本藥 DrugBank ID；
+                # drug_mapping 只對成分欄第一個成分，第二成分才寫 Calcitriol 的鈣劑複方本來就不在總數裡）。
+                # 沒有 drug_mapping 時不扣、也不記進 excluded_ids（下次有 drug_mapping 時再判斷）。
+                if not hit and (mapped is None or (lid, str(e.get("drugbank_id") or "").upper()) not in mapped):
+                    continue
                 done.add(lid)
                 if isinstance(tf.get("total_matches"), int) and tf["total_matches"] > 0:
                     tf["total_matches"] -= 1
