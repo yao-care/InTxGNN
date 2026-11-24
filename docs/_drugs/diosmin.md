@@ -38,7 +38,13 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 ## One-Sentence Summary
 
-Diosmin is a flavonoid venoactive agent, widely marketed in India as a single-ingredient product for venous conditions. The TxGNN model predicts it may be effective for **amenorrhea**, but there are currently **0 clinical trials** and **0 publications** supporting this prediction. It is a purely computational signal.
+Diosmin is a flavonoid venoactive agent, widely marketed in India for venous conditions. The TxGNN model predicts it may be effective for **amenorrhea**, but there are currently **0 clinical trials** and **0 publications** supporting this prediction. It is a purely computational signal.
+
+<!-- review:begin in-lic-20261124b-diosmin-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "Diosmin is a flavonoid venoactive agent, widely marketed in India as a single-ingredient product for venous conditions." Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the recorded products are fixed-dose combinations. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124b-diosmin-1 -->
 
 ## Quick Overview
 
@@ -125,12 +131,13 @@ The prediction rests only on a model score, with no clinical trials, no literatu
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
+Below is the review log for this page: statements checked against the Indian medicine data used by this site (the Indian Medicine Dataset, a third-party compilation of Indian medicine prices). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-24 | Removed: "single-ingredient" | Corrected (revised 2026-11-24; earlier version kept in the record) | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 | 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL231884 (diosmin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL231884) |
+| 2026-11-24 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 

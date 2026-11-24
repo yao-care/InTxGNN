@@ -83,13 +83,19 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-At least 20 licences are recorded, and this list may be partial. All are valid records. No approved indication text is available in the local records, and some product names suggest co-packaged kits, so this table shows only five of them.
+At least 20 licences are recorded, and this list may be partial. All are valid records. No approved indication text is available in the local records, and some product names suggest co-packaged kits.
 
 <!-- review:begin in-lic-20261124-eplerenone-1 -->
 
 > **Review correction (2026-11-24)**: Originally stated: "All are valid single-ingredient records." Removed: it described the products as single-ingredient (or as having no combination products), which does not match the Indian medicine data (the Indian Medicine Dataset): some of the recorded products are fixed-dose combinations. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
 
 <!-- review:end in-lic-20261124-eplerenone-1 -->
+
+<!-- review:begin in-lic-20261124b-eplerenone-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "No approved indication text is available in the local records, and some product names suggest co-packaged kits, so this table shows only five of them." Revised: the sentence referred to the earlier table on this page, which showed only some of the products, and described other products as additional, further, remaining or not shown. The product table under India Market Information now lists every product held in the data, so that relative wording and the hard-coded counts were dropped; current figures are in the Quick Overview and that table. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124b-eplerenone-1 -->
 
 <!-- licenses:begin -->
 
@@ -146,12 +152,13 @@ No clinical trial or publication directly studies eplerenone in pulmonary hypert
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
+Below is the review log for this page: statements checked against the Indian medicine data used by this site (the Indian Medicine Dataset, a third-party compilation of Indian medicine prices). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Inspra (eplerenone) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1a52bedc-8e2c-4116-a296-a87770676b4a) |
 | 2026-11-24 | Removed: the single-ingredient claim | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-24 | Revised: wording about the earlier partial table and hard-coded counts | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 

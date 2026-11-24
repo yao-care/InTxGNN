@@ -111,7 +111,13 @@ Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub),
 
 <!-- licenses:end -->
 
-The remaining registrations are mostly 25 mg injections, plus Tripnor 0.5 mg/10 mg tablets (licence 216178).
+The registrations are mostly 25 mg injections, plus Arkane 2 mg tablets (licence 7771) and Tripnor 0.5 mg/10 mg tablets (licence 216178), a combination with nortriptyline.
+
+<!-- review:begin in-lic-20261124b-fluphenazine-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "The remaining registrations are mostly 25 mg injections, plus Tripnor 0.5 mg/10 mg tablets (licence 216178)." Revised: the sentence referred to the earlier table on this page, which showed only some of the products, and described other products as additional, further, remaining or not shown. The product table under India Market Information now lists every product held in the data, so that relative wording and the hard-coded counts were dropped; current figures are in the Quick Overview and that table. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124b-fluphenazine-1 -->
 
 ---
 
@@ -147,12 +153,13 @@ The prediction rests solely on a model score. No trials or publications exist, a
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
+Below is the review log for this page: statements checked against the Indian medicine data used by this site (the Indian Medicine Dataset, a third-party compilation of Indian medicine prices). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-24 | Removed: "single-ingredient" | Corrected (revised 2026-11-24; earlier version kept in the record) | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 | 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Fluphenazine Hydrochoride (fluphenazine hydrochloride) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=91b85b8d-4c10-4395-915e-272b81ef3b12) |
+| 2026-11-24 | Revised: wording about the earlier partial table and hard-coded counts | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 

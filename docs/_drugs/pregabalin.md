@@ -127,7 +127,13 @@ Only part of the licence list is held in the data; the list may be incomplete.
 
 <!-- licenses:end -->
 
-All products are oral (tablets, SR tablets and capsules). Many of the registered products carry "NT" or similar names, suggesting fixed combinations with other agents, although they are classified as single-ingredient in the records.
+All products are oral (tablets, SR tablets and capsules). Many of the registered products carry "NT" or similar names, and the Indian Medicine Dataset lists a second active ingredient for them (fixed combinations with other agents).
+
+<!-- review:begin in-lic-20261124b-pregabalin-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "Many of the registered products carry "NT" or similar names, suggesting fixed combinations with other agents, although they are classified as single-ingredient in the records." Revised: the sentence said the data classify these products as single-ingredient, but the Indian Medicine Dataset lists a second active ingredient for several of them (they are fixed-dose combinations). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124b-pregabalin-1 -->
 
 ## Safety Considerations
 
@@ -161,13 +167,14 @@ Migraine disorder has the strongest support among the predictions, with randomiz
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
+Below is the review log for this page: statements checked against the Indian medicine data used by this site (the Indian Medicine Dataset, a third-party compilation of Indian medicine prices). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "However, the only Phase 3 trial was withdrawn, adult randomized evidence is lacking, and the trials are small" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 | 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Lyrica Cr (pregabalin) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f280bbd8-2af2-444a-bd96-e409337ca6dd) |
 | 2026-11-24 | Removed: the single-ingredient claim | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-24 | Revised: the single-ingredient classification | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 

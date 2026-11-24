@@ -103,7 +103,13 @@ Only part of the licence list is held in the data; the list may be incomplete.
 
 <!-- licenses:end -->
 
-The other 15 registrations include one further laxative powder (Scilax) and 14 additional eye drops, all in 10 ml presentations.
+The registrations held in the data are mostly eye drops in 10 ml presentations, plus oral laxative powders and solutions.
+
+<!-- review:begin in-lic-20261124b-polyethylene_glycol-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "The other 15 registrations include one further laxative powder (Scilax) and 14 additional eye drops, all in 10 ml presentations." Revised: the sentence referred to the earlier table on this page, which showed only some of the products, and described other products as additional, further, remaining or not shown. The product table under India Market Information now lists every product held in the data, so that relative wording and the hard-coded counts were dropped; current figures are in the Quick Overview and that table. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124b-polyethylene_glycol-1 -->
 
 ## Safety Considerations
 
@@ -138,11 +144,12 @@ The prediction is supported only by the model score. There are no clinical trial
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against the Indian medicine data used by this site (the Indian Medicine Dataset, a third-party compilation of Indian medicine prices). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-24 | Removed: the single-ingredient claim | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-24 | Revised: wording about the earlier partial table and hard-coded counts | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 

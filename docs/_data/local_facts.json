@@ -21,11 +21,11 @@
   "items_current": 2843
  },
  "reviews": {
-  "records": 763,
-  "pages": 703,
-  "public_pages_with_records": 700,
+  "records": 821,
+  "pages": 710,
+  "public_pages_with_records": 707,
   "by_action": {
-   "correct": 96,
+   "correct": 154,
    "mechanism": 667
   }
  },
@@ -103,7 +103,7 @@
    "l": "L5",
    "lt": 19,
    "lv": 19,
-   "r": 1,
+   "r": 2,
    "i": "migraine disorder"
   }
  ],
@@ -116,53 +116,53 @@
    "l": "L5",
    "lt": 0,
    "lv": 20,
+   "r": 4,
+   "i": "tendinitis"
+  },
+  {
+   "t": "Chlorzoxazone",
+   "u": "/drugs/chlorzoxazone/",
+   "l": "L5",
+   "lt": 0,
+   "lv": 20,
+   "r": 3,
+   "i": "migraine disorder"
+  },
+  {
+   "t": "Dexketoprofen",
+   "u": "/drugs/dexketoprofen/",
+   "l": "L5",
+   "lt": 6,
+   "lv": 6,
    "r": 3,
    "i": "tendinitis"
   },
   {
-   "t": "Alfuzosin",
-   "u": "/drugs/alfuzosin/",
+   "t": "Diosmin",
+   "u": "/drugs/diosmin/",
+   "l": "L5",
+   "lt": 17,
+   "lv": 17,
+   "r": 3,
+   "i": "amenorrhea (disease)"
+  },
+  {
+   "t": "Eplerenone",
+   "u": "/drugs/eplerenone/",
    "l": "L5",
    "lt": 0,
    "lv": 20,
-   "r": 2,
-   "i": "Ambras type hypertrichosis universalis congenita"
+   "r": 3,
+   "i": "pulmonary hypertension owing to lung disease and/or hypoxia"
   },
   {
-   "t": "Amiloride",
-   "u": "/drugs/amiloride/",
+   "t": "Esomeprazole",
+   "u": "/drugs/esomeprazole/",
    "l": "L5",
-   "lt": 4,
-   "lv": 4,
-   "r": 2,
-   "i": "malignant hypertensive renal disease"
-  },
-  {
-   "t": "Aminophylline",
-   "u": "/drugs/aminophylline/",
-   "l": "L4",
-   "lt": 7,
-   "lv": 7,
-   "r": 2,
-   "i": "migraine disorder"
-  },
-  {
-   "t": "Atazanavir",
-   "u": "/drugs/atazanavir/",
-   "l": "L4",
-   "lt": 11,
-   "lv": 11,
-   "r": 2,
-   "i": "simian immunodeficiency virus infection"
-  },
-  {
-   "t": "Atorvastatin",
-   "u": "/drugs/atorvastatin/",
-   "l": "L2",
    "lt": 0,
    "lv": 20,
-   "r": 2,
-   "i": "HIV infectious disease"
+   "r": 3,
+   "i": "duodenal obstruction"
   }
  ],
  "example": {
@@ -176,197 +176,197 @@
  },
  "recent_reviews": [
   {
-   "t": "Trifluoperazine",
-   "u": "/drugs/trifluoperazine/",
-   "s": "Removed: the single-ingredient claim",
+   "t": "Zolmitriptan",
+   "u": "/drugs/zolmitriptan/",
+   "s": "Revised: wording about the earlier partial table and hard-coded counts",
    "d": "2026-11-24"
   },
   {
-   "t": "Tramadol",
-   "u": "/drugs/tramadol/",
-   "s": "Removed: the single-ingredient claim",
+   "t": "Triptorelin",
+   "u": "/drugs/triptorelin/",
+   "s": "Revised: wording about the earlier partial table and hard-coded counts",
    "d": "2026-11-24"
   },
   {
-   "t": "Thiocolchicoside",
-   "u": "/drugs/thiocolchicoside/",
-   "s": "Removed: the single-ingredient claim",
+   "t": "Topiroxostat",
+   "u": "/drugs/topiroxostat/",
+   "s": "Revised: wording about the earlier partial table and hard-coded counts",
    "d": "2026-11-24"
   },
   {
-   "t": "Tamsulosin",
-   "u": "/drugs/tamsulosin/",
-   "s": "Removed: the single-ingredient claim",
+   "t": "Tobramycin",
+   "u": "/drugs/tobramycin/",
+   "s": "Revised: wording about the earlier partial table and hard-coded counts",
    "d": "2026-11-24"
   },
   {
-   "t": "Spironolactone",
-   "u": "/drugs/spironolactone/",
-   "s": "Removed: the sentence about the old table that called all products single-ingredient",
+   "t": "Safinamide",
+   "u": "/drugs/safinamide/",
+   "s": "Revised: wording about the earlier partial table and hard-coded counts",
    "d": "2026-11-24"
   },
   {
-   "t": "Risperidone",
-   "u": "/drugs/risperidone/",
-   "s": "Removed: the single-ingredient claim",
+   "t": "Rosuvastatin",
+   "u": "/drugs/rosuvastatin/",
+   "s": "Revised: the single-ingredient classification",
    "d": "2026-11-24"
   },
   {
-   "t": "Rifampicin",
-   "u": "/drugs/rifampicin/",
-   "s": "Removed: the single-ingredient claim",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Propranolol",
-   "u": "/drugs/propranolol/",
-   "s": "Removed: the single-ingredient claim",
+   "t": "Ranitidine",
+   "u": "/drugs/ranitidine/",
+   "s": "Revised: wording about the earlier partial table and the single-ingredient claim",
    "d": "2026-11-24"
   },
   {
    "t": "Pregabalin",
    "u": "/drugs/pregabalin/",
-   "s": "Removed: the single-ingredient claim",
+   "s": "Revised: the single-ingredient classification",
    "d": "2026-11-24"
   },
   {
-   "t": "Potassium Nitrate",
-   "u": "/drugs/potassium-nitrate/",
-   "s": "Removed: the single-ingredient claim",
+   "t": "Potassium Iodide",
+   "u": "/drugs/potassium-iodide/",
+   "s": "Revised: wording about the earlier partial table and hard-coded counts",
    "d": "2026-11-24"
   },
   {
    "t": "Polyethylene Glycol",
    "u": "/drugs/polyethylene-glycol/",
-   "s": "Removed: the single-ingredient claim",
+   "s": "Revised: wording about the earlier partial table and hard-coded counts",
    "d": "2026-11-24"
   },
   {
-   "t": "Phenylpropanolamine",
-   "u": "/drugs/phenylpropanolamine/",
-   "s": "Removed: the single-ingredient claim",
+   "t": "Pitavastatin",
+   "u": "/drugs/pitavastatin/",
+   "s": "Revised: wording about the earlier table",
    "d": "2026-11-24"
   },
   {
-   "t": "Phenylephrine",
-   "u": "/drugs/phenylephrine/",
-   "s": "Removed: the single-ingredient claim",
+   "t": "Pioglitazone",
+   "u": "/drugs/pioglitazone/",
+   "s": "Revised: the single-ingredient classification",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Pentosan Polysulfate",
+   "u": "/drugs/pentosan-polysulfate/",
+   "s": "Revised: wording about the earlier partial table and hard-coded counts",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Pazopanib",
+   "u": "/drugs/pazopanib/",
+   "s": "Revised: wording about the earlier partial table and hard-coded counts",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Paliperidone",
+   "u": "/drugs/paliperidone/",
+   "s": "Revised: wording about the earlier partial table and hard-coded counts",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Oxybutynin",
+   "u": "/drugs/oxybutynin/",
+   "s": "Revised: wording about the earlier partial table and hard-coded counts",
    "d": "2026-11-24"
   },
   {
    "t": "Ofloxacin",
    "u": "/drugs/ofloxacin/",
-   "s": "Removed: the single-ingredient claim",
+   "s": "Removed: wording about the earlier table",
    "d": "2026-11-24"
   },
   {
-   "t": "Naphazoline",
-   "u": "/drugs/naphazoline/",
-   "s": "Removed: the single-ingredient claim",
+   "t": "Nitroglycerin",
+   "u": "/drugs/nitroglycerin/",
+   "s": "Revised: wording about the earlier partial table and hard-coded counts",
    "d": "2026-11-24"
   },
   {
-   "t": "Nadifloxacin",
-   "u": "/drugs/nadifloxacin/",
-   "s": "Removed: the single-ingredient claim",
+   "t": "Nicergoline",
+   "u": "/drugs/nicergoline/",
+   "s": "Removed: \"single-ingredient\"",
    "d": "2026-11-24"
   },
   {
-   "t": "Metronidazole",
-   "u": "/drugs/metronidazole/",
-   "s": "Removed: the single-ingredient claim",
+   "t": "Naproxen",
+   "u": "/drugs/naproxen/",
+   "s": "Revised: the single-ingredient classification",
    "d": "2026-11-24"
   },
   {
-   "t": "Metoprolol",
-   "u": "/drugs/metoprolol/",
-   "s": "Removed: the single-ingredient claim",
+   "t": "Mupirocin",
+   "u": "/drugs/mupirocin/",
+   "s": "Revised: wording about the earlier partial table and hard-coded counts",
    "d": "2026-11-24"
   },
   {
-   "t": "Meloxicam",
-   "u": "/drugs/meloxicam/",
-   "s": "Removed: the single-ingredient claim",
+   "t": "Moclobemide",
+   "u": "/drugs/moclobemide/",
+   "s": "Revised: wording about the earlier partial table and hard-coded counts",
    "d": "2026-11-24"
   },
   {
-   "t": "Loteprednol Etabonate",
-   "u": "/drugs/loteprednol-etabonate/",
-   "s": "Removed: the single-ingredient claim",
+   "t": "Milrinone",
+   "u": "/drugs/milrinone/",
+   "s": "Revised: wording about the earlier partial table and hard-coded counts",
    "d": "2026-11-24"
   },
   {
-   "t": "Lindane",
-   "u": "/drugs/lindane/",
-   "s": "Removed: the single-ingredient claim",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Levosalbutamol",
-   "u": "/drugs/levosalbutamol/",
-   "s": "Removed: the single-ingredient claim",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Levocetirizine",
-   "u": "/drugs/levocetirizine/",
-   "s": "Removed: the single-ingredient claim",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Iron",
-   "u": "/drugs/iron/",
-   "s": "Removed: the single-ingredient claim",
+   "t": "Mexiletine",
+   "u": "/drugs/mexiletine/",
+   "s": "Revised: wording about the earlier partial table and hard-coded counts",
    "d": "2026-11-24"
   }
  ],
  "recent_licence_reviews": [
   {
-   "t": "Trifluoperazine",
-   "u": "/drugs/trifluoperazine/",
-   "s": "Removed: the single-ingredient claim",
+   "t": "Zolmitriptan",
+   "u": "/drugs/zolmitriptan/",
+   "s": "Revised: wording about the earlier partial table and hard-coded counts",
    "d": "2026-11-24"
   },
   {
-   "t": "Tramadol",
-   "u": "/drugs/tramadol/",
-   "s": "Removed: the single-ingredient claim",
+   "t": "Triptorelin",
+   "u": "/drugs/triptorelin/",
+   "s": "Revised: wording about the earlier partial table and hard-coded counts",
    "d": "2026-11-24"
   },
   {
-   "t": "Thiocolchicoside",
-   "u": "/drugs/thiocolchicoside/",
-   "s": "Removed: the single-ingredient claim",
+   "t": "Topiroxostat",
+   "u": "/drugs/topiroxostat/",
+   "s": "Revised: wording about the earlier partial table and hard-coded counts",
    "d": "2026-11-24"
   },
   {
-   "t": "Tamsulosin",
-   "u": "/drugs/tamsulosin/",
-   "s": "Removed: the single-ingredient claim",
+   "t": "Tobramycin",
+   "u": "/drugs/tobramycin/",
+   "s": "Revised: wording about the earlier partial table and hard-coded counts",
    "d": "2026-11-24"
   },
   {
-   "t": "Spironolactone",
-   "u": "/drugs/spironolactone/",
-   "s": "Removed: the sentence about the old table that called all products single-ingredient",
+   "t": "Safinamide",
+   "u": "/drugs/safinamide/",
+   "s": "Revised: wording about the earlier partial table and hard-coded counts",
    "d": "2026-11-24"
   },
   {
-   "t": "Risperidone",
-   "u": "/drugs/risperidone/",
-   "s": "Removed: the single-ingredient claim",
+   "t": "Rosuvastatin",
+   "u": "/drugs/rosuvastatin/",
+   "s": "Revised: the single-ingredient classification",
    "d": "2026-11-24"
   },
   {
-   "t": "Rifampicin",
-   "u": "/drugs/rifampicin/",
-   "s": "Removed: the single-ingredient claim",
+   "t": "Ranitidine",
+   "u": "/drugs/ranitidine/",
+   "s": "Revised: wording about the earlier partial table and the single-ingredient claim",
    "d": "2026-11-24"
   },
   {
-   "t": "Propranolol",
-   "u": "/drugs/propranolol/",
-   "s": "Removed: the single-ingredient claim",
+   "t": "Pregabalin",
+   "u": "/drugs/pregabalin/",
+   "s": "Revised: the single-ingredient classification",
    "d": "2026-11-24"
   }
  ],

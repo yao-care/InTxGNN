@@ -19619,8 +19619,8 @@
    "file": "esomeprazole.md",
    "action": "correct",
    "claim": "All 20 registrations are valid single-ingredient products, available as oral tablets and injectable vials.",
-   "replacement": "All 20 registrations are valid products, available as oral tablets and injectable vials.",
-   "note": "Removed: it described the products as single-ingredient (or as having no combination products), which does not match the Indian medicine data (the Indian Medicine Dataset): some of the recorded products are fixed-dose combinations.",
+   "replacement": "All registrations held in the data are valid products, available as oral tablets and injectable vials.",
+   "note": "Removed: it described the products as single-ingredient (or as having no combination products), which does not match the Indian medicine data (the Indian Medicine Dataset): some of the recorded products are fixed-dose combinations. Revised 2026-11-24 (second pass): the hard-coded number of records was dropped; the Quick Overview and the product table under India Market Information show the current figures.",
    "finding": "依本站資料集原始檔（data/raw/indian_medicine_data.csv，short_composition2 有值＝複方）本藥證據包的 20 筆紀錄中複方 1 筆、單方 19 筆；句子說全部（或 N 張）是單方／沒有複方，跟事實不符。照 2026-11-06 用戶決定的做法只刪「單方」這個詞或子句，其餘保留（2026-11-24 用戶決定「單方／複方標籤錯誤寫 correct 紀錄更正」）",
    "sources": [
     {
@@ -19631,7 +19631,31 @@
    ],
    "checked": "2026-11-24",
    "summary": "Removed: the single-ingredient claim",
-   "method": "2026-11-24 寬偵測（單方說法對照 data/raw 原始資料集）後逐句改寫"
+   "method": "2026-11-24 寬偵測（單方說法對照 data/raw 原始資料集）後逐句改寫",
+   "history": [
+    {
+     "id": "in-lic-20261124-esomeprazole-1",
+     "drug": "esomeprazole",
+     "file": "esomeprazole.md",
+     "action": "correct",
+     "claim": "All 20 registrations are valid single-ingredient products, available as oral tablets and injectable vials.",
+     "replacement": "All 20 registrations are valid products, available as oral tablets and injectable vials.",
+     "note": "Removed: it described the products as single-ingredient (or as having no combination products), which does not match the Indian medicine data (the Indian Medicine Dataset): some of the recorded products are fixed-dose combinations.",
+     "finding": "依本站資料集原始檔（data/raw/indian_medicine_data.csv，short_composition2 有值＝複方）本藥證據包的 20 筆紀錄中複方 1 筆、單方 19 筆；句子說全部（或 N 張）是單方／沒有複方，跟事實不符。照 2026-11-06 用戶決定的做法只刪「單方」這個詞或子句，其餘保留（2026-11-24 用戶決定「單方／複方標籤錯誤寫 correct 紀錄更正」）",
+     "sources": [
+      {
+       "title": "Indian Medicine Dataset",
+       "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+       "accessed": "2026-11-24"
+      }
+     ],
+     "checked": "2026-11-24",
+     "summary": "Removed: the single-ingredient claim",
+     "method": "2026-11-24 寬偵測（單方說法對照 data/raw 原始資料集）後逐句改寫",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定（第二輪：更正文字裡寫死的「All 20」在部分收錄頁不成立，改成不寫數字）"
+    }
+   ]
   },
   {
    "id": "in-lic-20261124-etodolac-1",
@@ -20172,6 +20196,1173 @@
    "checked": "2026-11-24",
    "summary": "Removed: the single-ingredient claim",
    "method": "2026-11-24 寬偵測（單方說法對照 data/raw 原始資料集）後逐句改寫"
+  },
+  {
+   "id": "in-lic-20261124b-doxofylline-1",
+   "drug": "doxofylline",
+   "file": "doxofylline.md",
+   "action": "correct",
+   "claim": "The registered product names suggest that some are fixed-dose combinations, although the records classify all of them as single-ingredient.",
+   "replacement": "The registered product names suggest that some are fixed-dose combinations, and the Indian Medicine Dataset lists a second active ingredient for several of them.",
+   "note": "Revised: the sentence said the data classify these products as single-ingredient, but the Indian Medicine Dataset lists a second active ingredient for several of them (they are fixed-dose combinations).",
+   "finding": "依本站資料集原始檔（data/raw/indian_medicine_data.csv，short_composition2 有值＝複方）證據包 20 筆中複方 13 筆；句子說資料把全部歸為單方，跟資料集不符（證據包成分欄只收 short_composition1）（2026-11-24 第二輪，用戶決定逐句寫紀錄更正）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Revised: the single-ingredient classification",
+   "method": "2026-11-24 第二輪：待查清單逐句對照證據包與資料集原始檔後改寫"
+  },
+  {
+   "id": "in-lic-20261124b-metoclopramide-1",
+   "drug": "metoclopramide",
+   "file": "metoclopramide.md",
+   "action": "correct",
+   "claim": "Several registrations are fixed-dose products, such as 5 mg/500 mg tablets, though the compiled data classify all as single-ingredient.",
+   "replacement": "Several registrations are fixed-dose products, such as 5 mg/500 mg tablets; the Indian Medicine Dataset lists a second active ingredient for these products.",
+   "note": "Revised: the sentence said the data classify these products as single-ingredient, but the Indian Medicine Dataset lists a second active ingredient for several of them (they are fixed-dose combinations).",
+   "finding": "依本站資料集原始檔（data/raw/indian_medicine_data.csv，short_composition2 有值＝複方）證據包 20 筆中複方 12 筆；句子說資料把全部歸為單方，跟資料集不符（證據包成分欄只收 short_composition1）（2026-11-24 第二輪，用戶決定逐句寫紀錄更正）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Revised: the single-ingredient classification",
+   "method": "2026-11-24 第二輪：待查清單逐句對照證據包與資料集原始檔後改寫"
+  },
+  {
+   "id": "in-lic-20261124b-naproxen-1",
+   "drug": "naproxen",
+   "file": "naproxen.md",
+   "action": "correct",
+   "claim": "Several registrations are fixed-dose products, although the data classify all as single-ingredient (for example, the \"D\" and \"250mg/10mg\" products).",
+   "replacement": "Several registrations are fixed-dose products (for example, the \"D\" and \"250mg/10mg\" products), and the Indian Medicine Dataset lists a second active ingredient for them.",
+   "note": "Revised: the sentence said the data classify these products as single-ingredient, but the Indian Medicine Dataset lists a second active ingredient for several of them (they are fixed-dose combinations).",
+   "finding": "依本站資料集原始檔（data/raw/indian_medicine_data.csv，short_composition2 有值＝複方）證據包 20 筆中複方 14 筆；句子說資料把全部歸為單方，跟資料集不符（證據包成分欄只收 short_composition1）（2026-11-24 第二輪，用戶決定逐句寫紀錄更正）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Revised: the single-ingredient classification",
+   "method": "2026-11-24 第二輪：待查清單逐句對照證據包與資料集原始檔後改寫"
+  },
+  {
+   "id": "in-lic-20261124b-pioglitazone-1",
+   "drug": "pioglitazone",
+   "file": "pioglitazone.md",
+   "action": "correct",
+   "claim": "Pioglitazone has 20 valid registrations in India, all single-ingredient entries according to the data compiled for this report, including combinations with metformin or glimepiride-type partners in product names.",
+   "replacement": "Pioglitazone has valid registrations in India (the compiled data hold only part of the list; see the Quick Overview and the table below), including fixed-dose combinations with metformin or glimepiride-type partners.",
+   "note": "Revised: the sentence said the data classify these products as single-ingredient, but the Indian Medicine Dataset lists a second active ingredient for several of them (they are fixed-dose combinations).",
+   "finding": "依本站資料集原始檔（data/raw/indian_medicine_data.csv，short_composition2 有值＝複方）證據包 20 筆中複方 9 筆；句子說資料把全部歸為單方，跟資料集不符（證據包成分欄只收 short_composition1）（2026-11-24 第二輪，用戶決定逐句寫紀錄更正）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Revised: the single-ingredient classification",
+   "method": "2026-11-24 第二輪：待查清單逐句對照證據包與資料集原始檔後改寫"
+  },
+  {
+   "id": "in-lic-20261124b-rosuvastatin-1",
+   "drug": "rosuvastatin",
+   "file": "rosuvastatin.md",
+   "action": "correct",
+   "claim": "Several products carry rosuvastatin in combination with other agents (for example, the \"CV\" capsules), although the data classify all 20 as single-ingredient licences.",
+   "replacement": "Several products carry rosuvastatin in combination with other agents (for example, the \"CV\" capsules), and the Indian Medicine Dataset lists a second active ingredient for them.",
+   "note": "Revised: the sentence said the data classify these products as single-ingredient, but the Indian Medicine Dataset lists a second active ingredient for several of them (they are fixed-dose combinations).",
+   "finding": "依本站資料集原始檔（data/raw/indian_medicine_data.csv，short_composition2 有值＝複方）證據包 20 筆中複方 5 筆；句子說資料把全部歸為單方，跟資料集不符（證據包成分欄只收 short_composition1）（2026-11-24 第二輪，用戶決定逐句寫紀錄更正）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Revised: the single-ingredient classification",
+   "method": "2026-11-24 第二輪：待查清單逐句對照證據包與資料集原始檔後改寫"
+  },
+  {
+   "id": "in-lic-20261124b-alfacalcidol-1",
+   "drug": "alfacalcidol",
+   "file": "alfacalcidol.md",
+   "action": "correct",
+   "claim": "A sixth licence (235436, Vitalpha Soft Gelatin Capsule) is also valid. All six are oral single-ingredient products.",
+   "replacement": "All licences are for oral single-ingredient products.",
+   "note": "Revised: the sentence referred to the earlier table on this page, which showed only some of the products, and described other products as additional, further, remaining or not shown. The product table under India Market Information now lists every product held in the data, so that relative wording and the hard-coded counts were dropped; current figures are in the Quick Overview and that table.",
+   "finding": "2026-11-24 市場段落換成程式品項表後，表上列出證據包全部紀錄（最多 20 筆）（證據包全收 6 筆）；句子講舊 AI 表「另有第六張／其餘幾張／沒列出／只列前 5 筆」的相對說法已不成立，拿掉相對說法與寫死的張數，句中仍成立的事實（品名、劑型、狀態）保留或照證據包改寫（2026-11-24 第二輪，用戶決定逐句寫紀錄更正）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Revised: wording about the earlier partial table and hard-coded counts",
+   "method": "2026-11-24 第二輪：待查清單逐句對照證據包與資料集原始檔後改寫"
+  },
+  {
+   "id": "in-lic-20261124b-amylmetacresol-1",
+   "drug": "amylmetacresol",
+   "file": "amylmetacresol.md",
+   "action": "correct",
+   "claim": "One further registration (214990, Tusq-D Cough Lozenges Orange) is also valid. ",
+   "replacement": "",
+   "note": "Revised: the sentence referred to the earlier table on this page, which showed only some of the products, and described other products as additional, further, remaining or not shown. The product table under India Market Information now lists every product held in the data, so that relative wording and the hard-coded counts were dropped; current figures are in the Quick Overview and that table.",
+   "finding": "2026-11-24 市場段落換成程式品項表後，表上列出證據包全部紀錄（最多 20 筆）（證據包全收 6 筆）；句子講舊 AI 表「另有第六張／其餘幾張／沒列出／只列前 5 筆」的相對說法已不成立，拿掉相對說法與寫死的張數，句中仍成立的事實（品名、劑型、狀態）保留或照證據包改寫（2026-11-24 第二輪，用戶決定逐句寫紀錄更正）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Revised: wording about the earlier partial table and hard-coded counts",
+   "method": "2026-11-24 第二輪：待查清單逐句對照證據包與資料集原始檔後改寫",
+   "anchor": "All registrations are products with valid status."
+  },
+  {
+   "id": "in-lic-20261124b-benzocaine-1",
+   "drug": "benzocaine",
+   "file": "benzocaine.md",
+   "action": "correct",
+   "claim": "The 20 valid single-ingredient licences found are shown below in part (the first 5).",
+   "replacement": "The valid licences found are listed in the table below; according to the Indian Medicine Dataset, several of them are combination products.",
+   "note": "Revised: the sentence referred to the earlier table on this page, which showed only some of the products, and described other products as additional, further, remaining or not shown. The product table under India Market Information now lists every product held in the data, so that relative wording and the hard-coded counts were dropped; current figures are in the Quick Overview and that table. The sentence also described the products as single-ingredient, but the Indian Medicine Dataset lists a second active ingredient for some of them.",
+   "finding": "2026-11-24 市場段落換成程式品項表後，表上列出證據包全部紀錄（最多 20 筆）（部分收錄：資料集共 78 筆、證據包存 20 筆）；句子講舊 AI 表「另有第六張／其餘幾張／沒列出／只列前 5 筆」的相對說法已不成立，拿掉相對說法與寫死的張數，句中仍成立的事實（品名、劑型、狀態）保留或照證據包改寫；依本站資料集原始檔（data/raw/indian_medicine_data.csv，short_composition2 有值＝複方）證據包 20 筆中複方 18 筆；句子說資料把全部歸為單方，跟資料集不符（證據包成分欄只收 short_composition1）（2026-11-24 第二輪，用戶決定逐句寫紀錄更正）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Revised: wording about the earlier partial table and the single-ingredient claim",
+   "method": "2026-11-24 第二輪：待查清單逐句對照證據包與資料集原始檔後改寫"
+  },
+  {
+   "id": "in-lic-20261124b-bevacizumab-1",
+   "drug": "bevacizumab",
+   "file": "bevacizumab.md",
+   "action": "correct",
+   "claim": "The licences below are a selection of the 20 valid single-ingredient registrations; no indication text is recorded for them.",
+   "replacement": "The table below lists the valid single-ingredient registrations held in the data; no indication text is recorded for them.",
+   "note": "Revised: the sentence referred to the earlier table on this page, which showed only some of the products, and described other products as additional, further, remaining or not shown. The product table under India Market Information now lists every product held in the data, so that relative wording and the hard-coded counts were dropped; current figures are in the Quick Overview and that table.",
+   "finding": "2026-11-24 市場段落換成程式品項表後，表上列出證據包全部紀錄（最多 20 筆）（部分收錄：資料集共 40 筆、證據包存 20 筆）；句子講舊 AI 表「另有第六張／其餘幾張／沒列出／只列前 5 筆」的相對說法已不成立，拿掉相對說法與寫死的張數，句中仍成立的事實（品名、劑型、狀態）保留或照證據包改寫（2026-11-24 第二輪，用戶決定逐句寫紀錄更正）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Revised: wording about the earlier partial table and hard-coded counts",
+   "method": "2026-11-24 第二輪：待查清單逐句對照證據包與資料集原始檔後改寫"
+  },
+  {
+   "id": "in-lic-20261124b-buserelin-1",
+   "drug": "buserelin",
+   "file": "buserelin.md",
+   "action": "correct",
+   "claim": "A sixth licence (94767, Gynarich Injection, vial of 2.5 ml) is also valid. All six are single-ingredient injectables from Intas Pharmaceuticals, Serum Institute of India, and Zydus Cadila.",
+   "replacement": "All licences are single-ingredient injectables from Intas Pharmaceuticals, Serum Institute of India, and Zydus Cadila.",
+   "note": "Revised: the sentence referred to the earlier table on this page, which showed only some of the products, and described other products as additional, further, remaining or not shown. The product table under India Market Information now lists every product held in the data, so that relative wording and the hard-coded counts were dropped; current figures are in the Quick Overview and that table.",
+   "finding": "2026-11-24 市場段落換成程式品項表後，表上列出證據包全部紀錄（最多 20 筆）（證據包全收 6 筆）；句子講舊 AI 表「另有第六張／其餘幾張／沒列出／只列前 5 筆」的相對說法已不成立，拿掉相對說法與寫死的張數，句中仍成立的事實（品名、劑型、狀態）保留或照證據包改寫（2026-11-24 第二輪，用戶決定逐句寫紀錄更正）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Revised: wording about the earlier partial table and hard-coded counts",
+   "method": "2026-11-24 第二輪：待查清單逐句對照證據包與資料集原始檔後改寫"
+  },
+  {
+   "id": "in-lic-20261124b-camphor-1",
+   "drug": "camphor",
+   "file": "camphor.md",
+   "action": "correct",
+   "claim": "The remaining registrations are almost all eye drops or ophthalmic solutions.",
+   "replacement": "The registrations are almost all eye drops or ophthalmic solutions.",
+   "note": "Revised: the sentence referred to the earlier table on this page, which showed only some of the products, and described other products as additional, further, remaining or not shown. The product table under India Market Information now lists every product held in the data, so that relative wording and the hard-coded counts were dropped; current figures are in the Quick Overview and that table.",
+   "finding": "2026-11-24 市場段落換成程式品項表後，表上列出證據包全部紀錄（最多 20 筆）（證據包全收 19 筆）；句子講舊 AI 表「另有第六張／其餘幾張／沒列出／只列前 5 筆」的相對說法已不成立，拿掉相對說法與寫死的張數，句中仍成立的事實（品名、劑型、狀態）保留或照證據包改寫（2026-11-24 第二輪，用戶決定逐句寫紀錄更正）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Revised: wording about the earlier partial table and hard-coded counts",
+   "method": "2026-11-24 第二輪：待查清單逐句對照證據包與資料集原始檔後改寫"
+  },
+  {
+   "id": "in-lic-20261124b-carboplatin-1",
+   "drug": "carboplatin",
+   "file": "carboplatin.md",
+   "action": "correct",
+   "claim": "Because the record set may be partial, the table lists five examples.",
+   "replacement": "The record set may be partial.",
+   "note": "Revised: the sentence referred to the earlier table on this page, which showed only some of the products, and described other products as additional, further, remaining or not shown. The product table under India Market Information now lists every product held in the data, so that relative wording and the hard-coded counts were dropped; current figures are in the Quick Overview and that table.",
+   "finding": "2026-11-24 市場段落換成程式品項表後，表上列出證據包全部紀錄（最多 20 筆）（部分收錄：資料集共 65 筆、證據包存 20 筆）；句子講舊 AI 表「另有第六張／其餘幾張／沒列出／只列前 5 筆」的相對說法已不成立，拿掉相對說法與寫死的張數，句中仍成立的事實（品名、劑型、狀態）保留或照證據包改寫（2026-11-24 第二輪，用戶決定逐句寫紀錄更正）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Revised: wording about the earlier partial table and hard-coded counts",
+   "method": "2026-11-24 第二輪：待查清單逐句對照證據包與資料集原始檔後改寫"
+  },
+  {
+   "id": "in-lic-20261124b-chlorzoxazone-1",
+   "drug": "chlorzoxazone",
+   "file": "chlorzoxazone.md",
+   "action": "correct",
+   "claim": "Twenty valid single-ingredient registrations are on file. The first five are listed below; no approved indication text is recorded for any of them.",
+   "replacement": "Valid registrations are on file; those held in the data, all of them combination products according to the Indian Medicine Dataset, are listed below, and no approved indication text is recorded for any of them.",
+   "note": "Revised: the sentence referred to the earlier table on this page, which showed only some of the products, and described other products as additional, further, remaining or not shown. The product table under India Market Information now lists every product held in the data, so that relative wording and the hard-coded counts were dropped; current figures are in the Quick Overview and that table. The sentence also described the products as single-ingredient, but the Indian Medicine Dataset lists a second active ingredient for some of them.",
+   "finding": "2026-11-24 市場段落換成程式品項表後，表上列出證據包全部紀錄（最多 20 筆）（部分收錄：資料集共 952 筆、證據包存 20 筆）；句子講舊 AI 表「另有第六張／其餘幾張／沒列出／只列前 5 筆」的相對說法已不成立，拿掉相對說法與寫死的張數，句中仍成立的事實（品名、劑型、狀態）保留或照證據包改寫；依本站資料集原始檔（data/raw/indian_medicine_data.csv，short_composition2 有值＝複方）證據包 20 筆中複方 20 筆；句子說資料把全部歸為單方，跟資料集不符（證據包成分欄只收 short_composition1）（2026-11-24 第二輪，用戶決定逐句寫紀錄更正）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Revised: wording about the earlier partial table and the single-ingredient claim",
+   "method": "2026-11-24 第二輪：待查清單逐句對照證據包與資料集原始檔後改寫"
+  },
+  {
+   "id": "in-lic-20261124b-daptomycin-1",
+   "drug": "daptomycin",
+   "file": "daptomycin.md",
+   "action": "correct",
+   "claim": "Eight valid single-ingredient licences exist in total (the three others are Cubicin by Novartis India, Ivdapt by Fusion Healthcare and Daptojub by Jubilant). All are injectables.",
+   "replacement": "All licences are valid single-ingredient injectables, including Cubicin (Novartis India), Ivdapt (Fusion Healthcare) and Daptojub (Jubilant).",
+   "note": "Revised: the sentence referred to the earlier table on this page, which showed only some of the products, and described other products as additional, further, remaining or not shown. The product table under India Market Information now lists every product held in the data, so that relative wording and the hard-coded counts were dropped; current figures are in the Quick Overview and that table.",
+   "finding": "2026-11-24 市場段落換成程式品項表後，表上列出證據包全部紀錄（最多 20 筆）（證據包全收 8 筆）；句子講舊 AI 表「另有第六張／其餘幾張／沒列出／只列前 5 筆」的相對說法已不成立，拿掉相對說法與寫死的張數，句中仍成立的事實（品名、劑型、狀態）保留或照證據包改寫（2026-11-24 第二輪，用戶決定逐句寫紀錄更正）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Revised: wording about the earlier partial table and hard-coded counts",
+   "method": "2026-11-24 第二輪：待查清單逐句對照證據包與資料集原始檔後改寫"
+  },
+  {
+   "id": "in-lic-20261124b-daunorubicin-1",
+   "drug": "daunorubicin",
+   "file": "daunorubicin.md",
+   "action": "correct",
+   "claim": "A sixth licence (61794, Dauneon 20mg Injection, Neon Laboratories Ltd) is also valid. All six licences are for single-ingredient injectable products.",
+   "replacement": "All licences are for single-ingredient injectable products.",
+   "note": "Revised: the sentence referred to the earlier table on this page, which showed only some of the products, and described other products as additional, further, remaining or not shown. The product table under India Market Information now lists every product held in the data, so that relative wording and the hard-coded counts were dropped; current figures are in the Quick Overview and that table.",
+   "finding": "2026-11-24 市場段落換成程式品項表後，表上列出證據包全部紀錄（最多 20 筆）（證據包全收 6 筆）；句子講舊 AI 表「另有第六張／其餘幾張／沒列出／只列前 5 筆」的相對說法已不成立，拿掉相對說法與寫死的張數，句中仍成立的事實（品名、劑型、狀態）保留或照證據包改寫（2026-11-24 第二輪，用戶決定逐句寫紀錄更正）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Revised: wording about the earlier partial table and hard-coded counts",
+   "method": "2026-11-24 第二輪：待查清單逐句對照證據包與資料集原始檔後改寫"
+  },
+  {
+   "id": "in-lic-20261124b-dexketoprofen-1",
+   "drug": "dexketoprofen",
+   "file": "dexketoprofen.md",
+   "action": "correct",
+   "claim": "A sixth licence (108166, Infen Gel, 30 g tube, topical) is also valid. ",
+   "replacement": "",
+   "note": "Revised: the sentence referred to the earlier table on this page, which showed only some of the products, and described other products as additional, further, remaining or not shown. The product table under India Market Information now lists every product held in the data, so that relative wording and the hard-coded counts were dropped; current figures are in the Quick Overview and that table.",
+   "finding": "2026-11-24 市場段落換成程式品項表後，表上列出證據包全部紀錄（最多 20 筆）（證據包全收 6 筆）；句子講舊 AI 表「另有第六張／其餘幾張／沒列出／只列前 5 筆」的相對說法已不成立，拿掉相對說法與寫死的張數，句中仍成立的事實（品名、劑型、狀態）保留或照證據包改寫（2026-11-24 第二輪，用戶決定逐句寫紀錄更正）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Revised: wording about the earlier partial table and hard-coded counts",
+   "method": "2026-11-24 第二輪：待查清單逐句對照證據包與資料集原始檔後改寫",
+   "anchor": "All registrations are currently valid."
+  },
+  {
+   "id": "in-lic-20261124b-eplerenone-1",
+   "drug": "eplerenone",
+   "file": "eplerenone.md",
+   "action": "correct",
+   "claim": "No approved indication text is available in the local records, and some product names suggest co-packaged kits, so this table shows only five of them.",
+   "replacement": "No approved indication text is available in the local records, and some product names suggest co-packaged kits.",
+   "note": "Revised: the sentence referred to the earlier table on this page, which showed only some of the products, and described other products as additional, further, remaining or not shown. The product table under India Market Information now lists every product held in the data, so that relative wording and the hard-coded counts were dropped; current figures are in the Quick Overview and that table.",
+   "finding": "2026-11-24 市場段落換成程式品項表後，表上列出證據包全部紀錄（最多 20 筆）（部分收錄：資料集共 34 筆、證據包存 20 筆）；句子講舊 AI 表「另有第六張／其餘幾張／沒列出／只列前 5 筆」的相對說法已不成立，拿掉相對說法與寫死的張數，句中仍成立的事實（品名、劑型、狀態）保留或照證據包改寫（2026-11-24 第二輪，用戶決定逐句寫紀錄更正）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Revised: wording about the earlier partial table and hard-coded counts",
+   "method": "2026-11-24 第二輪：待查清單逐句對照證據包與資料集原始檔後改寫"
+  },
+  {
+   "id": "in-lic-20261124b-esomeprazole-1",
+   "drug": "esomeprazole",
+   "file": "esomeprazole.md",
+   "action": "correct",
+   "claim": "Only the first 5 are listed here, and approved-indication text was not available for them.",
+   "replacement": "Approved-indication text was not available for them.",
+   "note": "Revised: the sentence referred to the earlier table on this page, which showed only some of the products, and described other products as additional, further, remaining or not shown. The product table under India Market Information now lists every product held in the data, so that relative wording and the hard-coded counts were dropped; current figures are in the Quick Overview and that table.",
+   "finding": "2026-11-24 市場段落換成程式品項表後，表上列出證據包全部紀錄（最多 20 筆）（部分收錄：資料集共 569 筆、證據包存 20 筆）；句子講舊 AI 表「另有第六張／其餘幾張／沒列出／只列前 5 筆」的相對說法已不成立，拿掉相對說法與寫死的張數，句中仍成立的事實（品名、劑型、狀態）保留或照證據包改寫（2026-11-24 第二輪，用戶決定逐句寫紀錄更正）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Revised: wording about the earlier partial table and hard-coded counts",
+   "method": "2026-11-24 第二輪：待查清單逐句對照證據包與資料集原始檔後改寫"
+  },
+  {
+   "id": "in-lic-20261124b-exemestane-1",
+   "drug": "exemestane",
+   "file": "exemestane.md",
+   "action": "correct",
+   "claim": "Two further valid single-ingredient licences (76776 Exetraz, Alkem; 244202 Xmalon, Celon) are not shown. All 7 registrations are valid.",
+   "replacement": "All registrations are valid single-ingredient licences.",
+   "note": "Revised: the sentence referred to the earlier table on this page, which showed only some of the products, and described other products as additional, further, remaining or not shown. The product table under India Market Information now lists every product held in the data, so that relative wording and the hard-coded counts were dropped; current figures are in the Quick Overview and that table.",
+   "finding": "2026-11-24 市場段落換成程式品項表後，表上列出證據包全部紀錄（最多 20 筆）（證據包全收 7 筆）；句子講舊 AI 表「另有第六張／其餘幾張／沒列出／只列前 5 筆」的相對說法已不成立，拿掉相對說法與寫死的張數，句中仍成立的事實（品名、劑型、狀態）保留或照證據包改寫（2026-11-24 第二輪，用戶決定逐句寫紀錄更正）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Revised: wording about the earlier partial table and hard-coded counts",
+   "method": "2026-11-24 第二輪：待查清單逐句對照證據包與資料集原始檔後改寫"
+  },
+  {
+   "id": "in-lic-20261124b-flucloxacillin-1",
+   "drug": "flucloxacillin",
+   "file": "flucloxacillin.md",
+   "action": "correct",
+   "claim": "Two further registrations exist (7 in total): Staphonex 500mg Capsule (200101, strip of 4 capsules) and Stafocid 1G Injection (202440, vial of 1 injection). All 7 are valid single-ingredient products.",
+   "replacement": "All registrations are valid single-ingredient products.",
+   "note": "Revised: the sentence referred to the earlier table on this page, which showed only some of the products, and described other products as additional, further, remaining or not shown. The product table under India Market Information now lists every product held in the data, so that relative wording and the hard-coded counts were dropped; current figures are in the Quick Overview and that table.",
+   "finding": "2026-11-24 市場段落換成程式品項表後，表上列出證據包全部紀錄（最多 20 筆）（證據包全收 7 筆）；句子講舊 AI 表「另有第六張／其餘幾張／沒列出／只列前 5 筆」的相對說法已不成立，拿掉相對說法與寫死的張數，句中仍成立的事實（品名、劑型、狀態）保留或照證據包改寫（2026-11-24 第二輪，用戶決定逐句寫紀錄更正）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Revised: wording about the earlier partial table and hard-coded counts",
+   "method": "2026-11-24 第二輪：待查清單逐句對照證據包與資料集原始檔後改寫"
+  },
+  {
+   "id": "in-lic-20261124b-fludarabine-1",
+   "drug": "fludarabine",
+   "file": "fludarabine.md",
+   "action": "correct",
+   "claim": "Nine valid single-ingredient registrations exist in total. Four more are not listed here: Fludacel, Fludarither, Fludocyte and Lymfuda.",
+   "replacement": "All registrations are valid single-ingredient products, as listed in the table above.",
+   "note": "Revised: the sentence referred to the earlier table on this page, which showed only some of the products, and described other products as additional, further, remaining or not shown. The product table under India Market Information now lists every product held in the data, so that relative wording and the hard-coded counts were dropped; current figures are in the Quick Overview and that table.",
+   "finding": "2026-11-24 市場段落換成程式品項表後，表上列出證據包全部紀錄（最多 20 筆）（證據包全收 9 筆）；句子講舊 AI 表「另有第六張／其餘幾張／沒列出／只列前 5 筆」的相對說法已不成立，拿掉相對說法與寫死的張數，句中仍成立的事實（品名、劑型、狀態）保留或照證據包改寫（2026-11-24 第二輪，用戶決定逐句寫紀錄更正）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Revised: wording about the earlier partial table and hard-coded counts",
+   "method": "2026-11-24 第二輪：待查清單逐句對照證據包與資料集原始檔後改寫"
+  },
+  {
+   "id": "in-lic-20261124b-fluphenazine-1",
+   "drug": "fluphenazine",
+   "file": "fluphenazine.md",
+   "action": "correct",
+   "claim": "The remaining registrations are mostly 25 mg injections, plus Tripnor 0.5 mg/10 mg tablets (licence 216178).",
+   "replacement": "The registrations are mostly 25 mg injections, plus Arkane 2 mg tablets (licence 7771) and Tripnor 0.5 mg/10 mg tablets (licence 216178), a combination with nortriptyline.",
+   "note": "Revised: the sentence referred to the earlier table on this page, which showed only some of the products, and described other products as additional, further, remaining or not shown. The product table under India Market Information now lists every product held in the data, so that relative wording and the hard-coded counts were dropped; current figures are in the Quick Overview and that table.",
+   "finding": "2026-11-24 市場段落換成程式品項表後，表上列出證據包全部紀錄（最多 20 筆）（證據包全收 12 筆）；句子講舊 AI 表「另有第六張／其餘幾張／沒列出／只列前 5 筆」的相對說法已不成立，拿掉相對說法與寫死的張數，句中仍成立的事實（品名、劑型、狀態）保留或照證據包改寫（2026-11-24 第二輪，用戶決定逐句寫紀錄更正）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Revised: wording about the earlier partial table and hard-coded counts",
+   "method": "2026-11-24 第二輪：待查清單逐句對照證據包與資料集原始檔後改寫"
+  },
+  {
+   "id": "in-lic-20261124b-hyaluronidase-1",
+   "drug": "hyaluronidase",
+   "file": "hyaluronidase.md",
+   "action": "correct",
+   "claim": "Two further registrations are Hylorase 1500IU (Biosena Lifescience) and Alldase 1500IU (Uniword Pharma). All registered products are injectables.",
+   "replacement": "All registered products in the table above are injectables.",
+   "note": "Revised: the sentence referred to the earlier table on this page, which showed only some of the products, and described other products as additional, further, remaining or not shown. The product table under India Market Information now lists every product held in the data, so that relative wording and the hard-coded counts were dropped; current figures are in the Quick Overview and that table.",
+   "finding": "2026-11-24 市場段落換成程式品項表後，表上列出證據包全部紀錄（最多 20 筆）（證據包全收 7 筆）；句子講舊 AI 表「另有第六張／其餘幾張／沒列出／只列前 5 筆」的相對說法已不成立，拿掉相對說法與寫死的張數，句中仍成立的事實（品名、劑型、狀態）保留或照證據包改寫（2026-11-24 第二輪，用戶決定逐句寫紀錄更正）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Revised: wording about the earlier partial table and hard-coded counts",
+   "method": "2026-11-24 第二輪：待查清單逐句對照證據包與資料集原始檔後改寫"
+  },
+  {
+   "id": "in-lic-20261124b-indacaterol-1",
+   "drug": "indacaterol",
+   "file": "indacaterol.md",
+   "action": "correct",
+   "claim": " The remaining four are Loftair-L Capsule with Inhaler, Indamet 80 Capsule, Indamet 320 Capsule and Sequadra Inhaler.",
+   "replacement": "",
+   "note": "Revised: the sentence referred to the earlier table on this page, which showed only some of the products, and described other products as additional, further, remaining or not shown. The product table under India Market Information now lists every product held in the data, so that relative wording and the hard-coded counts were dropped; current figures are in the Quick Overview and that table.",
+   "finding": "2026-11-24 市場段落換成程式品項表後，表上列出證據包全部紀錄（最多 20 筆）（證據包全收 9 筆）；句子講舊 AI 表「另有第六張／其餘幾張／沒列出／只列前 5 筆」的相對說法已不成立，拿掉相對說法與寫死的張數，句中仍成立的事實（品名、劑型、狀態）保留或照證據包改寫（2026-11-24 第二輪，用戶決定逐句寫紀錄更正）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Revised: wording about the earlier partial table and hard-coded counts",
+   "method": "2026-11-24 第二輪：待查清單逐句對照證據包與資料集原始檔後改寫",
+   "anchor": "All registrations are valid licences."
+  },
+  {
+   "id": "in-lic-20261124b-iohexol-1",
+   "drug": "iohexol",
+   "file": "iohexol.md",
+   "action": "correct",
+   "claim": "A sixth registration, Omnipaque 300mg Injection (Pfizer Ltd, Registration No. 162140, 10 ml vial), is also valid. All six registrations are valid single-ingredient products in injectable form.",
+   "replacement": "All registrations are valid single-ingredient products in injectable form.",
+   "note": "Revised: the sentence referred to the earlier table on this page, which showed only some of the products, and described other products as additional, further, remaining or not shown. The product table under India Market Information now lists every product held in the data, so that relative wording and the hard-coded counts were dropped; current figures are in the Quick Overview and that table.",
+   "finding": "2026-11-24 市場段落換成程式品項表後，表上列出證據包全部紀錄（最多 20 筆）（證據包全收 6 筆）；句子講舊 AI 表「另有第六張／其餘幾張／沒列出／只列前 5 筆」的相對說法已不成立，拿掉相對說法與寫死的張數，句中仍成立的事實（品名、劑型、狀態）保留或照證據包改寫（2026-11-24 第二輪，用戶決定逐句寫紀錄更正）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Revised: wording about the earlier partial table and hard-coded counts",
+   "method": "2026-11-24 第二輪：待查清單逐句對照證據包與資料集原始檔後改寫"
+  },
+  {
+   "id": "in-lic-20261124b-ipratropium-1",
+   "drug": "ipratropium",
+   "file": "ipratropium.md",
+   "action": "correct",
+   "claim": "There are 8 valid single-ingredient registrations in total and no cancelled ones. Three more are not shown above: 13891 (Aprovent Inhaler, Cipla), 108961 (Ipneb Solution for inhalation, Lupin) and 107821 (Ipravent Respirator Solution, Cipla).",
+   "replacement": "All registrations are valid single-ingredient products and none is cancelled.",
+   "note": "Revised: the sentence referred to the earlier table on this page, which showed only some of the products, and described other products as additional, further, remaining or not shown. The product table under India Market Information now lists every product held in the data, so that relative wording and the hard-coded counts were dropped; current figures are in the Quick Overview and that table.",
+   "finding": "2026-11-24 市場段落換成程式品項表後，表上列出證據包全部紀錄（最多 20 筆）（證據包全收 8 筆）；句子講舊 AI 表「另有第六張／其餘幾張／沒列出／只列前 5 筆」的相對說法已不成立，拿掉相對說法與寫死的張數，句中仍成立的事實（品名、劑型、狀態）保留或照證據包改寫（2026-11-24 第二輪，用戶決定逐句寫紀錄更正）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Revised: wording about the earlier partial table and hard-coded counts",
+   "method": "2026-11-24 第二輪：待查清單逐句對照證據包與資料集原始檔後改寫"
+  },
+  {
+   "id": "in-lic-20261124b-isopropamide-1",
+   "drug": "isopropamide",
+   "file": "isopropamide.md",
+   "action": "correct",
+   "claim": "The remaining registration is Stelbid 2 Tablet (200066). All are oral tablets.",
+   "replacement": "All are oral tablets.",
+   "note": "Revised: the sentence referred to the earlier table on this page, which showed only some of the products, and described other products as additional, further, remaining or not shown. The product table under India Market Information now lists every product held in the data, so that relative wording and the hard-coded counts were dropped; current figures are in the Quick Overview and that table.",
+   "finding": "2026-11-24 市場段落換成程式品項表後，表上列出證據包全部紀錄（最多 20 筆）（證據包全收 6 筆）；句子講舊 AI 表「另有第六張／其餘幾張／沒列出／只列前 5 筆」的相對說法已不成立，拿掉相對說法與寫死的張數，句中仍成立的事實（品名、劑型、狀態）保留或照證據包改寫（2026-11-24 第二輪，用戶決定逐句寫紀錄更正）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Revised: wording about the earlier partial table and hard-coded counts",
+   "method": "2026-11-24 第二輪：待查清單逐句對照證據包與資料集原始檔後改寫"
+  },
+  {
+   "id": "in-lic-20261124b-mephentermine-1",
+   "drug": "mephentermine",
+   "file": "mephentermine.md",
+   "action": "correct",
+   "claim": "A sixth valid single-ingredient registration (216899, Termiva Injection, vial of 10 ml) is also on record. All six registrations are injectable products, and none is cancelled.",
+   "replacement": "All registrations are single-ingredient injectable products, and none is cancelled.",
+   "note": "Revised: the sentence referred to the earlier table on this page, which showed only some of the products, and described other products as additional, further, remaining or not shown. The product table under India Market Information now lists every product held in the data, so that relative wording and the hard-coded counts were dropped; current figures are in the Quick Overview and that table.",
+   "finding": "2026-11-24 市場段落換成程式品項表後，表上列出證據包全部紀錄（最多 20 筆）（證據包全收 6 筆）；句子講舊 AI 表「另有第六張／其餘幾張／沒列出／只列前 5 筆」的相對說法已不成立，拿掉相對說法與寫死的張數，句中仍成立的事實（品名、劑型、狀態）保留或照證據包改寫（2026-11-24 第二輪，用戶決定逐句寫紀錄更正）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Revised: wording about the earlier partial table and hard-coded counts",
+   "method": "2026-11-24 第二輪：待查清單逐句對照證據包與資料集原始檔後改寫"
+  },
+  {
+   "id": "in-lic-20261124b-mexiletine-1",
+   "drug": "mexiletine",
+   "file": "mexiletine.md",
+   "action": "correct",
+   "claim": "A sixth registration (241652, Welhart 50mg Capsule, strip of 10 capsules) is also valid. All six registrations are single-ingredient oral capsules.",
+   "replacement": "All registrations are single-ingredient oral capsules.",
+   "note": "Revised: the sentence referred to the earlier table on this page, which showed only some of the products, and described other products as additional, further, remaining or not shown. The product table under India Market Information now lists every product held in the data, so that relative wording and the hard-coded counts were dropped; current figures are in the Quick Overview and that table.",
+   "finding": "2026-11-24 市場段落換成程式品項表後，表上列出證據包全部紀錄（最多 20 筆）（證據包全收 6 筆）；句子講舊 AI 表「另有第六張／其餘幾張／沒列出／只列前 5 筆」的相對說法已不成立，拿掉相對說法與寫死的張數，句中仍成立的事實（品名、劑型、狀態）保留或照證據包改寫（2026-11-24 第二輪，用戶決定逐句寫紀錄更正）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Revised: wording about the earlier partial table and hard-coded counts",
+   "method": "2026-11-24 第二輪：待查清單逐句對照證據包與資料集原始檔後改寫"
+  },
+  {
+   "id": "in-lic-20261124b-milrinone-1",
+   "drug": "milrinone",
+   "file": "milrinone.md",
+   "action": "correct",
+   "claim": "Eight single-ingredient licences are valid in total (the table lists the first five), with no cancelled licences.",
+   "replacement": "All licences are valid single-ingredient products, with no cancelled licences.",
+   "note": "Revised: the sentence referred to the earlier table on this page, which showed only some of the products, and described other products as additional, further, remaining or not shown. The product table under India Market Information now lists every product held in the data, so that relative wording and the hard-coded counts were dropped; current figures are in the Quick Overview and that table.",
+   "finding": "2026-11-24 市場段落換成程式品項表後，表上列出證據包全部紀錄（最多 20 筆）（證據包全收 8 筆）；句子講舊 AI 表「另有第六張／其餘幾張／沒列出／只列前 5 筆」的相對說法已不成立，拿掉相對說法與寫死的張數，句中仍成立的事實（品名、劑型、狀態）保留或照證據包改寫（2026-11-24 第二輪，用戶決定逐句寫紀錄更正）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Revised: wording about the earlier partial table and hard-coded counts",
+   "method": "2026-11-24 第二輪：待查清單逐句對照證據包與資料集原始檔後改寫"
+  },
+  {
+   "id": "in-lic-20261124b-moclobemide-1",
+   "drug": "moclobemide",
+   "file": "moclobemide.md",
+   "action": "correct",
+   "claim": "Six valid single-ingredient registrations exist in total. The sixth is Trima 300mg Tablet (220789, Intas Pharmaceuticals).",
+   "replacement": "All registrations are valid single-ingredient products, as listed in the table above.",
+   "note": "Revised: the sentence referred to the earlier table on this page, which showed only some of the products, and described other products as additional, further, remaining or not shown. The product table under India Market Information now lists every product held in the data, so that relative wording and the hard-coded counts were dropped; current figures are in the Quick Overview and that table.",
+   "finding": "2026-11-24 市場段落換成程式品項表後，表上列出證據包全部紀錄（最多 20 筆）（證據包全收 6 筆）；句子講舊 AI 表「另有第六張／其餘幾張／沒列出／只列前 5 筆」的相對說法已不成立，拿掉相對說法與寫死的張數，句中仍成立的事實（品名、劑型、狀態）保留或照證據包改寫（2026-11-24 第二輪，用戶決定逐句寫紀錄更正）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Revised: wording about the earlier partial table and hard-coded counts",
+   "method": "2026-11-24 第二輪：待查清單逐句對照證據包與資料集原始檔後改寫"
+  },
+  {
+   "id": "in-lic-20261124b-mupirocin-1",
+   "drug": "mupirocin",
+   "file": "mupirocin.md",
+   "action": "correct",
+   "claim": "The remaining registrations are mostly 2% ointments, plus powder products (Dibact, Tercin WHP).",
+   "replacement": "The registrations held in the data are mostly 2% ointments, plus a cream, a lotion and powder products (Dibact, Tercin WHP).",
+   "note": "Revised: the sentence referred to the earlier table on this page, which showed only some of the products, and described other products as additional, further, remaining or not shown. The product table under India Market Information now lists every product held in the data, so that relative wording and the hard-coded counts were dropped; current figures are in the Quick Overview and that table.",
+   "finding": "2026-11-24 市場段落換成程式品項表後，表上列出證據包全部紀錄（最多 20 筆）（部分收錄：資料集共 230 筆、證據包存 20 筆）；句子講舊 AI 表「另有第六張／其餘幾張／沒列出／只列前 5 筆」的相對說法已不成立，拿掉相對說法與寫死的張數，句中仍成立的事實（品名、劑型、狀態）保留或照證據包改寫（2026-11-24 第二輪，用戶決定逐句寫紀錄更正）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Revised: wording about the earlier partial table and hard-coded counts",
+   "method": "2026-11-24 第二輪：待查清單逐句對照證據包與資料集原始檔後改寫"
+  },
+  {
+   "id": "in-lic-20261124b-nitroglycerin-1",
+   "drug": "nitroglycerin",
+   "file": "nitroglycerin.md",
+   "action": "correct",
+   "claim": "There are 20 valid single-ingredient registrations. The five below are representative; the approved indication text is not recorded for any of them.",
+   "replacement": "The valid single-ingredient registrations held in the data are listed below; the approved indication text is not recorded for any of them.",
+   "note": "Revised: the sentence referred to the earlier table on this page, which showed only some of the products, and described other products as additional, further, remaining or not shown. The product table under India Market Information now lists every product held in the data, so that relative wording and the hard-coded counts were dropped; current figures are in the Quick Overview and that table.",
+   "finding": "2026-11-24 市場段落換成程式品項表後，表上列出證據包全部紀錄（最多 20 筆）（部分收錄：資料集共 219 筆、證據包存 20 筆）；句子講舊 AI 表「另有第六張／其餘幾張／沒列出／只列前 5 筆」的相對說法已不成立，拿掉相對說法與寫死的張數，句中仍成立的事實（品名、劑型、狀態）保留或照證據包改寫（2026-11-24 第二輪，用戶決定逐句寫紀錄更正）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Revised: wording about the earlier partial table and hard-coded counts",
+   "method": "2026-11-24 第二輪：待查清單逐句對照證據包與資料集原始檔後改寫"
+  },
+  {
+   "id": "in-lic-20261124b-oxybutynin-1",
+   "drug": "oxybutynin",
+   "file": "oxybutynin.md",
+   "action": "correct",
+   "claim": "Nine valid single-ingredient registrations exist in total, all oral. The remaining four are Nocturin 5 mg and 2.5 mg (Elder), Oxyspas 5 (Cipla) and Tropan 5 (Sun Pharmaceutical).",
+   "replacement": "All registrations are valid single-ingredient oral products, as listed in the table above.",
+   "note": "Revised: the sentence referred to the earlier table on this page, which showed only some of the products, and described other products as additional, further, remaining or not shown. The product table under India Market Information now lists every product held in the data, so that relative wording and the hard-coded counts were dropped; current figures are in the Quick Overview and that table.",
+   "finding": "2026-11-24 市場段落換成程式品項表後，表上列出證據包全部紀錄（最多 20 筆）（證據包全收 9 筆）；句子講舊 AI 表「另有第六張／其餘幾張／沒列出／只列前 5 筆」的相對說法已不成立，拿掉相對說法與寫死的張數，句中仍成立的事實（品名、劑型、狀態）保留或照證據包改寫（2026-11-24 第二輪，用戶決定逐句寫紀錄更正）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Revised: wording about the earlier partial table and hard-coded counts",
+   "method": "2026-11-24 第二輪：待查清單逐句對照證據包與資料集原始檔後改寫"
+  },
+  {
+   "id": "in-lic-20261124b-paliperidone-1",
+   "drug": "paliperidone",
+   "file": "paliperidone.md",
+   "action": "correct",
+   "claim": "Other registrations include further oral strengths (1.5 mg to 9 mg) and Invega Sustenna 100 mg and 150 mg injections.",
+   "replacement": "The registrations include oral tablets (1.5 mg to 9 mg) and Invega Sustenna 75 mg, 100 mg and 150 mg injections.",
+   "note": "Revised: the sentence referred to the earlier table on this page, which showed only some of the products, and described other products as additional, further, remaining or not shown. The product table under India Market Information now lists every product held in the data, so that relative wording and the hard-coded counts were dropped; current figures are in the Quick Overview and that table.",
+   "finding": "2026-11-24 市場段落換成程式品項表後，表上列出證據包全部紀錄（最多 20 筆）（證據包全收 17 筆）；句子講舊 AI 表「另有第六張／其餘幾張／沒列出／只列前 5 筆」的相對說法已不成立，拿掉相對說法與寫死的張數，句中仍成立的事實（品名、劑型、狀態）保留或照證據包改寫（2026-11-24 第二輪，用戶決定逐句寫紀錄更正）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Revised: wording about the earlier partial table and hard-coded counts",
+   "method": "2026-11-24 第二輪：待查清單逐句對照證據包與資料集原始檔後改寫"
+  },
+  {
+   "id": "in-lic-20261124b-pazopanib-1",
+   "drug": "pazopanib",
+   "file": "pazopanib.md",
+   "action": "correct",
+   "claim": "Two further registrations exist: Pazocam 400mg Tablet (175799) and Pazliz 400 Tablet (178266). All 7 registrations are valid single-ingredient oral tablets.",
+   "replacement": "All registrations are valid single-ingredient oral tablets.",
+   "note": "Revised: the sentence referred to the earlier table on this page, which showed only some of the products, and described other products as additional, further, remaining or not shown. The product table under India Market Information now lists every product held in the data, so that relative wording and the hard-coded counts were dropped; current figures are in the Quick Overview and that table.",
+   "finding": "2026-11-24 市場段落換成程式品項表後，表上列出證據包全部紀錄（最多 20 筆）（證據包全收 7 筆）；句子講舊 AI 表「另有第六張／其餘幾張／沒列出／只列前 5 筆」的相對說法已不成立，拿掉相對說法與寫死的張數，句中仍成立的事實（品名、劑型、狀態）保留或照證據包改寫（2026-11-24 第二輪，用戶決定逐句寫紀錄更正）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Revised: wording about the earlier partial table and hard-coded counts",
+   "method": "2026-11-24 第二輪：待查清單逐句對照證據包與資料集原始檔後改寫"
+  },
+  {
+   "id": "in-lic-20261124b-pentosan_polysulfate-1",
+   "drug": "pentosan_polysulfate",
+   "file": "pentosan_polysulfate.md",
+   "action": "correct",
+   "claim": "All six registrations are single-ingredient oral capsules and all are valid. A sixth registration (36228, Comfora Capsule, bottle of 90 capsules, Swati Spentose Pvt Ltd) is not shown in the table above.",
+   "replacement": "All registrations are single-ingredient oral capsules and all are valid.",
+   "note": "Revised: the sentence referred to the earlier table on this page, which showed only some of the products, and described other products as additional, further, remaining or not shown. The product table under India Market Information now lists every product held in the data, so that relative wording and the hard-coded counts were dropped; current figures are in the Quick Overview and that table.",
+   "finding": "2026-11-24 市場段落換成程式品項表後，表上列出證據包全部紀錄（最多 20 筆）（證據包全收 6 筆）；句子講舊 AI 表「另有第六張／其餘幾張／沒列出／只列前 5 筆」的相對說法已不成立，拿掉相對說法與寫死的張數，句中仍成立的事實（品名、劑型、狀態）保留或照證據包改寫（2026-11-24 第二輪，用戶決定逐句寫紀錄更正）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Revised: wording about the earlier partial table and hard-coded counts",
+   "method": "2026-11-24 第二輪：待查清單逐句對照證據包與資料集原始檔後改寫"
+  },
+  {
+   "id": "in-lic-20261124b-polyethylene_glycol-1",
+   "drug": "polyethylene_glycol",
+   "file": "polyethylene_glycol.md",
+   "action": "correct",
+   "claim": "The other 15 registrations include one further laxative powder (Scilax) and 14 additional eye drops, all in 10 ml presentations.",
+   "replacement": "The registrations held in the data are mostly eye drops in 10 ml presentations, plus oral laxative powders and solutions.",
+   "note": "Revised: the sentence referred to the earlier table on this page, which showed only some of the products, and described other products as additional, further, remaining or not shown. The product table under India Market Information now lists every product held in the data, so that relative wording and the hard-coded counts were dropped; current figures are in the Quick Overview and that table.",
+   "finding": "2026-11-24 市場段落換成程式品項表後，表上列出證據包全部紀錄（最多 20 筆）（部分收錄：資料集共 78 筆、證據包存 20 筆）；句子講舊 AI 表「另有第六張／其餘幾張／沒列出／只列前 5 筆」的相對說法已不成立，拿掉相對說法與寫死的張數，句中仍成立的事實（品名、劑型、狀態）保留或照證據包改寫（2026-11-24 第二輪，用戶決定逐句寫紀錄更正）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Revised: wording about the earlier partial table and hard-coded counts",
+   "method": "2026-11-24 第二輪：待查清單逐句對照證據包與資料集原始檔後改寫"
+  },
+  {
+   "id": "in-lic-20261124b-potassium_iodide-1",
+   "drug": "potassium_iodide",
+   "file": "potassium_iodide.md",
+   "action": "correct",
+   "claim": "Two more eye drop registrations also exist (Cataclear, 35495; Catadoze, 39559), for 7 in total. ",
+   "replacement": "",
+   "note": "Revised: the sentence referred to the earlier table on this page, which showed only some of the products, and described other products as additional, further, remaining or not shown. The product table under India Market Information now lists every product held in the data, so that relative wording and the hard-coded counts were dropped; current figures are in the Quick Overview and that table.",
+   "finding": "2026-11-24 市場段落換成程式品項表後，表上列出證據包全部紀錄（最多 20 筆）（證據包全收 7 筆）；句子講舊 AI 表「另有第六張／其餘幾張／沒列出／只列前 5 筆」的相對說法已不成立，拿掉相對說法與寫死的張數，句中仍成立的事實（品名、劑型、狀態）保留或照證據包改寫（2026-11-24 第二輪，用戶決定逐句寫紀錄更正）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Revised: wording about the earlier partial table and hard-coded counts",
+   "method": "2026-11-24 第二輪：待查清單逐句對照證據包與資料集原始檔後改寫",
+   "anchor": "All are currently valid."
+  },
+  {
+   "id": "in-lic-20261124b-ranitidine-1",
+   "drug": "ranitidine",
+   "file": "ranitidine.md",
+   "action": "correct",
+   "claim": "The data compiled for this report show 20 valid single-ingredient licences and no cancelled ones. The records may be partial. The table lists five main authorizations; approved indication text is not recorded in the local data.",
+   "replacement": "The data compiled for this report show valid licences (one of them, Magnet 150mg/200mg Tablet, combines ranitidine with magaldrate) and no cancelled ones. The records may be partial; approved indication text is not recorded in the local data.",
+   "note": "Revised: the sentence referred to the earlier table on this page, which showed only some of the products, and described other products as additional, further, remaining or not shown. The product table under India Market Information now lists every product held in the data, so that relative wording and the hard-coded counts were dropped; current figures are in the Quick Overview and that table. The sentence also described the products as single-ingredient, but the Indian Medicine Dataset lists a second active ingredient for some of them.",
+   "finding": "2026-11-24 市場段落換成程式品項表後，表上列出證據包全部紀錄（最多 20 筆）（部分收錄：資料集共 288 筆、證據包存 20 筆）；句子講舊 AI 表「另有第六張／其餘幾張／沒列出／只列前 5 筆」的相對說法已不成立，拿掉相對說法與寫死的張數，句中仍成立的事實（品名、劑型、狀態）保留或照證據包改寫；依本站資料集原始檔（data/raw/indian_medicine_data.csv，short_composition2 有值＝複方）證據包 20 筆中複方 1 筆；句子說資料把全部歸為單方，跟資料集不符（證據包成分欄只收 short_composition1）（2026-11-24 第二輪，用戶決定逐句寫紀錄更正）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Revised: wording about the earlier partial table and the single-ingredient claim",
+   "method": "2026-11-24 第二輪：待查清單逐句對照證據包與資料集原始檔後改寫"
+  },
+  {
+   "id": "in-lic-20261124b-safinamide-1",
+   "drug": "safinamide",
+   "file": "safinamide.md",
+   "action": "correct",
+   "claim": "One further registration, 200331 (Safion 50mg Tablet, Intas Pharmaceuticals Ltd), is also valid. All six registrations are single-ingredient oral tablets.",
+   "replacement": "All registrations are single-ingredient oral tablets.",
+   "note": "Revised: the sentence referred to the earlier table on this page, which showed only some of the products, and described other products as additional, further, remaining or not shown. The product table under India Market Information now lists every product held in the data, so that relative wording and the hard-coded counts were dropped; current figures are in the Quick Overview and that table.",
+   "finding": "2026-11-24 市場段落換成程式品項表後，表上列出證據包全部紀錄（最多 20 筆）（證據包全收 6 筆）；句子講舊 AI 表「另有第六張／其餘幾張／沒列出／只列前 5 筆」的相對說法已不成立，拿掉相對說法與寫死的張數，句中仍成立的事實（品名、劑型、狀態）保留或照證據包改寫（2026-11-24 第二輪，用戶決定逐句寫紀錄更正）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Revised: wording about the earlier partial table and hard-coded counts",
+   "method": "2026-11-24 第二輪：待查清單逐句對照證據包與資料集原始檔後改寫"
+  },
+  {
+   "id": "in-lic-20261124b-tobramycin-1",
+   "drug": "tobramycin",
+   "file": "tobramycin.md",
+   "action": "correct",
+   "claim": "The 5 listed below are examples of the 20 valid registrations, covering injectable and ophthalmic forms.",
+   "replacement": "The valid registrations held in the data are listed below; they are mainly injectable and ophthalmic forms.",
+   "note": "Revised: the sentence referred to the earlier table on this page, which showed only some of the products, and described other products as additional, further, remaining or not shown. The product table under India Market Information now lists every product held in the data, so that relative wording and the hard-coded counts were dropped; current figures are in the Quick Overview and that table.",
+   "finding": "2026-11-24 市場段落換成程式品項表後，表上列出證據包全部紀錄（最多 20 筆）（部分收錄：資料集共 279 筆、證據包存 20 筆）；句子講舊 AI 表「另有第六張／其餘幾張／沒列出／只列前 5 筆」的相對說法已不成立，拿掉相對說法與寫死的張數，句中仍成立的事實（品名、劑型、狀態）保留或照證據包改寫（2026-11-24 第二輪，用戶決定逐句寫紀錄更正）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Revised: wording about the earlier partial table and hard-coded counts",
+   "method": "2026-11-24 第二輪：待查清單逐句對照證據包與資料集原始檔後改寫"
+  },
+  {
+   "id": "in-lic-20261124b-topiroxostat-1",
+   "drug": "topiroxostat",
+   "file": "topiroxostat.md",
+   "action": "correct",
+   "claim": "One further registration, Topiroxo 20mg Tablet (215064), is also valid. All 6 registrations are single-ingredient oral products and none is cancelled.",
+   "replacement": "All registrations are single-ingredient oral products and none is cancelled.",
+   "note": "Revised: the sentence referred to the earlier table on this page, which showed only some of the products, and described other products as additional, further, remaining or not shown. The product table under India Market Information now lists every product held in the data, so that relative wording and the hard-coded counts were dropped; current figures are in the Quick Overview and that table.",
+   "finding": "2026-11-24 市場段落換成程式品項表後，表上列出證據包全部紀錄（最多 20 筆）（證據包全收 6 筆）；句子講舊 AI 表「另有第六張／其餘幾張／沒列出／只列前 5 筆」的相對說法已不成立，拿掉相對說法與寫死的張數，句中仍成立的事實（品名、劑型、狀態）保留或照證據包改寫（2026-11-24 第二輪，用戶決定逐句寫紀錄更正）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Revised: wording about the earlier partial table and hard-coded counts",
+   "method": "2026-11-24 第二輪：待查清單逐句對照證據包與資料集原始檔後改寫"
+  },
+  {
+   "id": "in-lic-20261124b-triptorelin-1",
+   "drug": "triptorelin",
+   "file": "triptorelin.md",
+   "action": "correct",
+   "claim": "All licences are for single-ingredient injectable products and are currently valid. A sixth valid licence (Tryplog Injection, Life Medicare & Biotech Pvt Ltd) is also on record.",
+   "replacement": "All licences are for single-ingredient injectable products and are currently valid.",
+   "note": "Revised: the sentence referred to the earlier table on this page, which showed only some of the products, and described other products as additional, further, remaining or not shown. The product table under India Market Information now lists every product held in the data, so that relative wording and the hard-coded counts were dropped; current figures are in the Quick Overview and that table.",
+   "finding": "2026-11-24 市場段落換成程式品項表後，表上列出證據包全部紀錄（最多 20 筆）（證據包全收 6 筆）；句子講舊 AI 表「另有第六張／其餘幾張／沒列出／只列前 5 筆」的相對說法已不成立，拿掉相對說法與寫死的張數，句中仍成立的事實（品名、劑型、狀態）保留或照證據包改寫（2026-11-24 第二輪，用戶決定逐句寫紀錄更正）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Revised: wording about the earlier partial table and hard-coded counts",
+   "method": "2026-11-24 第二輪：待查清單逐句對照證據包與資料集原始檔後改寫"
+  },
+  {
+   "id": "in-lic-20261124b-zolmitriptan-1",
+   "drug": "zolmitriptan",
+   "file": "zolmitriptan.md",
+   "action": "correct",
+   "claim": "A sixth registration, Zolvent Nasal Spray (No. 250377, Chemo Healthcare Pvt Ltd), is also valid. All 6 registrations are single-ingredient products and none has been cancelled.",
+   "replacement": "All registrations are single-ingredient products and none has been cancelled.",
+   "note": "Revised: the sentence referred to the earlier table on this page, which showed only some of the products, and described other products as additional, further, remaining or not shown. The product table under India Market Information now lists every product held in the data, so that relative wording and the hard-coded counts were dropped; current figures are in the Quick Overview and that table.",
+   "finding": "2026-11-24 市場段落換成程式品項表後，表上列出證據包全部紀錄（最多 20 筆）（證據包全收 6 筆）；句子講舊 AI 表「另有第六張／其餘幾張／沒列出／只列前 5 筆」的相對說法已不成立，拿掉相對說法與寫死的張數，句中仍成立的事實（品名、劑型、狀態）保留或照證據包改寫（2026-11-24 第二輪，用戶決定逐句寫紀錄更正）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Revised: wording about the earlier partial table and hard-coded counts",
+   "method": "2026-11-24 第二輪：待查清單逐句對照證據包與資料集原始檔後改寫"
+  },
+  {
+   "id": "in-lic-20261124b-arginine-1",
+   "drug": "arginine",
+   "file": "arginine.md",
+   "action": "correct",
+   "claim": "Arginine is an amino acid marketed in India as a single-ingredient oral product in several forms (sachets, tablets, capsules, powders).",
+   "replacement": "Arginine is an amino acid marketed in India as an oral product in several forms (sachets, tablets, capsules, powders).",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the recorded products are fixed-dose combinations.",
+   "finding": "依本站資料集原始檔（data/raw/indian_medicine_data.csv，short_composition2 有值＝複方）本藥證據包全收 11 筆中複方 8 筆；句子說本藥在印度以單方產品上市，跟資料集不符。照 2026-11-06 用戶決定的做法只刪「單方」字樣，其餘保留（2026-11-24 第二輪寬偵測找到、第一輪偵測沒涵蓋的概述句）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: \"single-ingredient\"",
+   "method": "2026-11-24 第二輪寬偵測（單方說法對照 data/raw 原始資料集，非部分收錄頁）後逐句改寫"
+  },
+  {
+   "id": "in-lic-20261124b-benzoic_acid-1",
+   "drug": "benzoic_acid",
+   "file": "benzoic_acid.md",
+   "action": "correct",
+   "claim": "and it is marketed in India in single-ingredient ointments.",
+   "replacement": "and it is marketed in India in ointments.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the recorded products are fixed-dose combinations.",
+   "finding": "依本站資料集原始檔（data/raw/indian_medicine_data.csv，short_composition2 有值＝複方）本藥證據包全收 3 筆中複方 3 筆；句子說本藥在印度以單方產品上市，跟資料集不符。照 2026-11-06 用戶決定的做法只刪「單方」字樣，其餘保留（2026-11-24 第二輪寬偵測找到、第一輪偵測沒涵蓋的概述句）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: \"single-ingredient\"",
+   "method": "2026-11-24 第二輪寬偵測（單方說法對照 data/raw 原始資料集，非部分收錄頁）後逐句改寫"
+  },
+  {
+   "id": "in-lic-20261124b-captopril-1",
+   "drug": "captopril",
+   "file": "captopril.md",
+   "action": "correct",
+   "claim": "Captopril is an angiotensin-converting enzyme (ACE) inhibitor sold in India as single-ingredient tablets.",
+   "replacement": "Captopril is an angiotensin-converting enzyme (ACE) inhibitor sold in India as tablets.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the recorded products are fixed-dose combinations.",
+   "finding": "依本站資料集原始檔（data/raw/indian_medicine_data.csv，short_composition2 有值＝複方）本藥證據包全收 7 筆中複方 1 筆；句子說本藥在印度以單方產品上市，跟資料集不符。照 2026-11-06 用戶決定的做法只刪「單方」字樣，其餘保留（2026-11-24 第二輪寬偵測找到、第一輪偵測沒涵蓋的概述句）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: \"single-ingredient\"",
+   "method": "2026-11-24 第二輪寬偵測（單方說法對照 data/raw 原始資料集，非部分收錄頁）後逐句改寫"
+  },
+  {
+   "id": "in-lic-20261124b-carisoprodol-1",
+   "drug": "carisoprodol",
+   "file": "carisoprodol.md",
+   "action": "correct",
+   "claim": "Carisoprodol is a centrally acting skeletal muscle relaxant that is marketed in India as single-ingredient tablets.",
+   "replacement": "Carisoprodol is a centrally acting skeletal muscle relaxant that is marketed in India as tablets.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the recorded products are fixed-dose combinations.",
+   "finding": "依本站資料集原始檔（data/raw/indian_medicine_data.csv，short_composition2 有值＝複方）本藥證據包全收 5 筆中複方 1 筆；句子說本藥在印度以單方產品上市，跟資料集不符。照 2026-11-06 用戶決定的做法只刪「單方」字樣，其餘保留（2026-11-24 第二輪寬偵測找到、第一輪偵測沒涵蓋的概述句）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: \"single-ingredient\"",
+   "method": "2026-11-24 第二輪寬偵測（單方說法對照 data/raw 原始資料集，非部分收錄頁）後逐句改寫"
+  },
+  {
+   "id": "in-lic-20261124b-daclatasvir-1",
+   "drug": "daclatasvir",
+   "file": "daclatasvir.md",
+   "action": "correct",
+   "claim": "Daclatasvir is marketed in India as a single-agent oral tablet, with 17 valid registrations from many manufacturers.",
+   "replacement": "Daclatasvir is marketed in India as an oral tablet, with 17 valid registrations from many manufacturers.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the recorded products are fixed-dose combinations.",
+   "finding": "依本站資料集原始檔（data/raw/indian_medicine_data.csv，short_composition2 有值＝複方）本藥證據包全收 17 筆中複方 2 筆；句子說本藥在印度以單方產品上市，跟資料集不符。照 2026-11-06 用戶決定的做法只刪「單方」字樣，其餘保留（2026-11-24 第二輪寬偵測找到、第一輪偵測沒涵蓋的概述句）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: \"single-ingredient\"",
+   "method": "2026-11-24 第二輪寬偵測（單方說法對照 data/raw 原始資料集，非部分收錄頁）後逐句改寫"
+  },
+  {
+   "id": "in-lic-20261124b-diosmin-1",
+   "drug": "diosmin",
+   "file": "diosmin.md",
+   "action": "correct",
+   "claim": "Diosmin is a flavonoid venoactive agent, widely marketed in India as a single-ingredient product for venous conditions.",
+   "replacement": "Diosmin is a flavonoid venoactive agent, widely marketed in India for venous conditions.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the recorded products are fixed-dose combinations.",
+   "finding": "依本站資料集原始檔（data/raw/indian_medicine_data.csv，short_composition2 有值＝複方）本藥證據包全收 17 筆中複方 8 筆；句子說本藥在印度以單方產品上市，跟資料集不符。照 2026-11-06 用戶決定的做法只刪「單方」字樣，其餘保留（2026-11-24 第二輪寬偵測找到、第一輪偵測沒涵蓋的概述句）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: \"single-ingredient\"",
+   "method": "2026-11-24 第二輪寬偵測（單方說法對照 data/raw 原始資料集，非部分收錄頁）後逐句改寫"
+  },
+  {
+   "id": "in-lic-20261124b-nicergoline-1",
+   "drug": "nicergoline",
+   "file": "nicergoline.md",
+   "action": "correct",
+   "claim": "Nicergoline is an ergot-derived vasodilator and alpha-1 adrenergic antagonist marketed in India as single-ingredient tablets.",
+   "replacement": "Nicergoline is an ergot-derived vasodilator and alpha-1 adrenergic antagonist marketed in India as tablets.",
+   "note": "Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the recorded products are fixed-dose combinations.",
+   "finding": "依本站資料集原始檔（data/raw/indian_medicine_data.csv，short_composition2 有值＝複方）本藥證據包全收 5 筆中複方 1 筆；句子說本藥在印度以單方產品上市，跟資料集不符。照 2026-11-06 用戶決定的做法只刪「單方」字樣，其餘保留（2026-11-24 第二輪寬偵測找到、第一輪偵測沒涵蓋的概述句）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: \"single-ingredient\"",
+   "method": "2026-11-24 第二輪寬偵測（單方說法對照 data/raw 原始資料集，非部分收錄頁）後逐句改寫"
+  },
+  {
+   "id": "in-lic-20261124b-pitavastatin-1",
+   "drug": "pitavastatin",
+   "file": "pitavastatin.md",
+   "action": "correct",
+   "claim": "Several products are fixed-dose combinations, so the table below shows only products that appear to be single-ingredient pitavastatin.",
+   "replacement": "Several products are fixed-dose combinations.",
+   "note": "Revised: the sentence described the earlier table on this page, which showed only products that appeared to be single-ingredient. The product table under India Market Information now lists every product held in the data, including the fixed-dose combinations.",
+   "finding": "2026-11-24 市場段落換成程式品項表後，表上列出證據包全部 20 筆（含複方 7 筆，部分收錄），句子說「下表只列看似單方的產品」已不成立，只刪這個子句（2026-11-24 第二輪寬偵測）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Revised: wording about the earlier table",
+   "method": "2026-11-24 第二輪寬偵測後逐句改寫"
+  },
+  {
+   "id": "in-lic-20261124b-chlorzoxazone-2",
+   "drug": "chlorzoxazone",
+   "file": "chlorzoxazone.md",
+   "action": "correct",
+   "claim": "The strengths in several product names (for example 250mg/50mg/325mg) suggest fixed-dose combination products, even though they are classified as single-ingredient in the records.",
+   "replacement": "The strengths in several product names (for example 250mg/50mg/325mg) reflect fixed-dose combination products, and the Indian Medicine Dataset lists further active ingredients for them.",
+   "note": "Revised: the sentence said the data classify these products as single-ingredient, but the Indian Medicine Dataset lists a second active ingredient for several of them (they are fixed-dose combinations).",
+   "finding": "依本站資料集原始檔（data/raw/indian_medicine_data.csv，short_composition2 有值＝複方）證據包存的 20 筆中複方 20 筆；句子說資料把它們歸為單方，跟資料集不符（證據包成分欄只收 short_composition1）；同待查清單 doxofylline 等 5 句的做法（2026-11-24 第二輪寬偵測）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Revised: the single-ingredient classification",
+   "method": "2026-11-24 第二輪寬偵測後逐句改寫"
+  },
+  {
+   "id": "in-lic-20261124b-pregabalin-1",
+   "drug": "pregabalin",
+   "file": "pregabalin.md",
+   "action": "correct",
+   "claim": "Many of the registered products carry \"NT\" or similar names, suggesting fixed combinations with other agents, although they are classified as single-ingredient in the records.",
+   "replacement": "Many of the registered products carry \"NT\" or similar names, and the Indian Medicine Dataset lists a second active ingredient for them (fixed combinations with other agents).",
+   "note": "Revised: the sentence said the data classify these products as single-ingredient, but the Indian Medicine Dataset lists a second active ingredient for several of them (they are fixed-dose combinations).",
+   "finding": "依本站資料集原始檔（data/raw/indian_medicine_data.csv，short_composition2 有值＝複方）證據包存的 20 筆中複方 16 筆；句子說資料把它們歸為單方，跟資料集不符（證據包成分欄只收 short_composition1）；同待查清單 doxofylline 等 5 句的做法（2026-11-24 第二輪寬偵測）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Revised: the single-ingredient classification",
+   "method": "2026-11-24 第二輪寬偵測後逐句改寫"
+  },
+  {
+   "id": "in-lic-20261124b-aripiprazole-1",
+   "drug": "aripiprazole",
+   "file": "aripiprazole.md",
+   "action": "correct",
+   "claim": " Five main registrations are listed.",
+   "replacement": "",
+   "anchor": "The registration records contain no approved indication text.",
+   "note": "Revised: the sentence described the earlier table on this page, which showed only a few products. The product table under India Market Information now lists every product held in the data, so the sentence was removed.",
+   "finding": "2026-11-24 市場段落換成程式品項表後，表上列出證據包全部紀錄（最多 20 筆，含複方與各規格），句子講舊 AI 表只列 5 筆已不成立，刪掉這句（2026-11-24 第二輪寬偵測，第一輪 --migrate 沒認出的說明句）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: wording about the earlier table",
+   "method": "2026-11-24 第二輪寬偵測後逐句改寫"
+  },
+  {
+   "id": "in-lic-20261124b-etodolac-1",
+   "drug": "etodolac",
+   "file": "etodolac.md",
+   "action": "correct",
+   "claim": " Five main plain-etodolac products are shown below.",
+   "replacement": "",
+   "anchor": "The licence records contain no approved-indication text.",
+   "note": "Revised: the sentence described the earlier table on this page, which showed only a few products. The product table under India Market Information now lists every product held in the data, so the sentence was removed.",
+   "finding": "2026-11-24 市場段落換成程式品項表後，表上列出證據包全部紀錄（最多 20 筆，含複方與各規格），句子講舊 AI 表只列 5 筆已不成立，刪掉這句（2026-11-24 第二輪寬偵測，第一輪 --migrate 沒認出的說明句）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: wording about the earlier table",
+   "method": "2026-11-24 第二輪寬偵測後逐句改寫"
+  },
+  {
+   "id": "in-lic-20261124b-ofloxacin-1",
+   "drug": "ofloxacin",
+   "file": "ofloxacin.md",
+   "action": "correct",
+   "claim": " Five representative single-strength ofloxacin products are shown below.",
+   "replacement": "",
+   "anchor": "so no approved indication can be stated from them.",
+   "note": "Revised: the sentence described the earlier table on this page, which showed only a few products. The product table under India Market Information now lists every product held in the data, so the sentence was removed.",
+   "finding": "2026-11-24 市場段落換成程式品項表後，表上列出證據包全部紀錄（最多 20 筆，含複方與各規格），句子講舊 AI 表只列 5 筆已不成立，刪掉這句（2026-11-24 第二輪寬偵測，第一輪 --migrate 沒認出的說明句）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Removed: wording about the earlier table",
+   "method": "2026-11-24 第二輪寬偵測後逐句改寫"
   }
  ]
 }

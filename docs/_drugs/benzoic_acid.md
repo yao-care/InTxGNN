@@ -54,7 +54,13 @@ Benzoic acid is marketed in India in topical ointment products. The TxGNN model 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not currently available for benzoic acid. It is known as a preservative and a metabolic intermediate, and it is marketed in India in single-ingredient ointments.
+Detailed mechanism of action data is not currently available for benzoic acid. It is known as a preservative and a metabolic intermediate, and it is marketed in India in ointments.
+
+<!-- review:begin in-lic-20261124b-benzoic_acid-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "and it is marketed in India in single-ingredient ointments." Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the recorded products are fixed-dose combinations. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124b-benzoic_acid-1 -->
 
 No credible mechanistic link to bronchitis is established. The high TxGNN score is a model-based output only. The two retrieved papers are a review of repaglinide in type 2 diabetes and a study of a soluble epoxide hydrolase inhibitor in smoke-induced chronic obstructive pulmonary disease. Neither studies benzoic acid, so they provide no direct support.
 
@@ -101,6 +107,19 @@ The prediction rests on the model score alone. No clinical trial or publication 
 - Package insert warnings and contraindications from the licence holders
 - Any preclinical or clinical studies that directly test benzoic acid in bronchitis
 - An assessment of a suitable route of administration and formulation
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against the Indian medicine data used by this site (the Indian Medicine Dataset, a third-party compilation of Indian medicine prices). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-24 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

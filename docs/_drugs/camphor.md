@@ -125,7 +125,13 @@ Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub),
 
 <!-- licenses:end -->
 
-The remaining registrations are almost all eye drops or ophthalmic solutions. Only the liniment is a non-ophthalmic product.
+The registrations are almost all eye drops or ophthalmic solutions. Only the liniment is a non-ophthalmic product.
+
+<!-- review:begin in-lic-20261124b-camphor-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "The remaining registrations are almost all eye drops or ophthalmic solutions." Revised: the sentence referred to the earlier table on this page, which showed only some of the products, and described other products as additional, further, remaining or not shown. The product table under India Market Information now lists every product held in the data, so that relative wording and the hard-coded counts were dropped; current figures are in the Quick Overview and that table. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124b-camphor-1 -->
 
 ---
 
@@ -156,11 +162,12 @@ The prediction rests on a computational score with no registered trials and no c
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against the Indian medicine data used by this site (the Indian Medicine Dataset, a third-party compilation of Indian medicine prices). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-24 | Removed: "single-ingredient or combination products" | Corrected (revised 2026-11-24; earlier version kept in the record) | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-24 | Revised: wording about the earlier partial table and hard-coded counts | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 

@@ -104,7 +104,13 @@ Only part of the licence list is held in the data; the list may be incomplete.
 
 <!-- licenses:end -->
 
-All products are oral tablets. The registered product names suggest that some are fixed-dose combinations, although the records classify all of them as single-ingredient.
+All products are oral tablets. The registered product names suggest that some are fixed-dose combinations, and the Indian Medicine Dataset lists a second active ingredient for several of them.
+
+<!-- review:begin in-lic-20261124b-doxofylline-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "The registered product names suggest that some are fixed-dose combinations, although the records classify all of them as single-ingredient." Revised: the sentence said the data classify these products as single-ingredient, but the Indian Medicine Dataset lists a second active ingredient for several of them (they are fixed-dose combinations). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124b-doxofylline-1 -->
 
 ## Safety Considerations
 
@@ -140,6 +146,19 @@ The other nine top-ranked predictions were also reviewed. None has supporting cl
 | 10 | Pulmonary valve disease | 0.9950 | L5 | Structural valve disorder; no rationale |
 
 For heart disease, the available evidence concerns cardiovascular safety. Doxofylline shows fewer cardiostimulant effects than theophylline ([PMID 2781149](https://pubmed.ncbi.nlm.nih.gov/2781149/), [PMID 11268710](https://pubmed.ncbi.nlm.nih.gov/11268710/)). A 1993 randomised, double-blind trial in chronic heart failure with hypoxaemia ([PMID 8088931](https://pubmed.ncbi.nlm.nih.gov/8088931/)) compared methylxanthines in 48 patients. Because it does not establish that doxofylline treats heart disease, it does not support this indication.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against the Indian medicine data used by this site (the Indian Medicine Dataset, a third-party compilation of Indian medicine prices). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-24 | Revised: the single-ingredient classification | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

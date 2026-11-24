@@ -80,7 +80,13 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-Ranitidine is currently marketed in India. The data compiled for this report show 20 valid single-ingredient licences and no cancelled ones. The records may be partial. The table lists five main authorizations; approved indication text is not recorded in the local data.
+Ranitidine is currently marketed in India. The data compiled for this report show valid licences (one of them, Magnet 150mg/200mg Tablet, combines ranitidine with magaldrate) and no cancelled ones. The records may be partial; approved indication text is not recorded in the local data.
+
+<!-- review:begin in-lic-20261124b-ranitidine-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "The data compiled for this report show 20 valid single-ingredient licences and no cancelled ones. The records may be partial. The table lists five main authorizations; approved indication text is not recorded in the local data." Revised: the sentence referred to the earlier table on this page, which showed only some of the products, and described other products as additional, further, remaining or not shown. The product table under India Market Information now lists every product held in the data, so that relative wording and the hard-coded counts were dropped; current figures are in the Quick Overview and that table. The sentence also described the products as single-ingredient, but the Indian Medicine Dataset lists a second active ingredient for some of them. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124b-ranitidine-1 -->
 
 <!-- licenses:begin -->
 
@@ -139,11 +145,12 @@ For warnings and contraindications, please refer to the package insert.
 
 ## Review Log
 
-Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against the Indian medicine data used by this site (the Indian Medicine Dataset, a third-party compilation of Indian medicine prices). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: ranitidine prescribing information, Atland Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fcf27c99-8bd4-41fb-bff8-38fed9de76d9) |
+| 2026-11-24 | Revised: wording about the earlier partial table and the single-ingredient claim | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 

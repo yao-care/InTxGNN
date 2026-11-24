@@ -248,14 +248,14 @@ def log_md(recs):
         elif r.get("status") == WITHDRAWN:
             act = f"Review withdrawn ({r['withdrawn_on']}: {r['withdrawn_note']}; was: {act})"
         rows.append(f"| {r['checked']} | {item} | {act} | {sources_md(r)} |")
-    intro = ("Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). "
+    intro = ("Below is the review log for this page: statements checked against the Indian medicine data used by this site (the Indian Medicine Dataset, a third-party compilation of Indian medicine prices). "
              "Corrections are limited to basic factual statements; "
              "model predictions, evidence levels, and conclusions were not rewritten.")
     if all(r["action"] in ("header_level", "description_level") for r in recs):
         intro = ("Below is the review log for this page; the header evidence level follows the Quick Overview. "
                  "Model predictions, the overview table, and conclusions were not rewritten.")
     elif any(r["action"] == "rereview_result" and r.get("table_updates") for r in recs):
-        intro = ("Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset). Corrections are limited to "
+        intro = ("Below is the review log for this page: statements checked against the Indian medicine data used by this site (the Indian Medicine Dataset, a third-party compilation of Indian medicine prices). Corrections are limited to "
                  "basic factual statements and model prediction text was not rewritten; evidence levels and decisions were changed "
                  "only by a re-review result (downgrade, upgrade, or withdrawal), with the original values listed below.")
     if recs and all(r["action"] in ("mechanism", "header_level", "description_level") for r in recs) and any(r["action"] == "mechanism" for r in recs):

@@ -105,7 +105,13 @@ Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub),
 
 <!-- licenses:end -->
 
-One further registration, Topiroxo 20mg Tablet (215064), is also valid. All 6 registrations are single-ingredient oral products and none is cancelled.
+All registrations are single-ingredient oral products and none is cancelled.
+
+<!-- review:begin in-lic-20261124b-topiroxostat-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "One further registration, Topiroxo 20mg Tablet (215064), is also valid. All 6 registrations are single-ingredient oral products and none is cancelled." Revised: the sentence referred to the earlier table on this page, which showed only some of the products, and described other products as additional, further, remaining or not shown. The product table under India Market Information now lists every product held in the data, so that relative wording and the hard-coded counts were dropped; current figures are in the Quick Overview and that table. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124b-topiroxostat-1 -->
 
 ---
 
@@ -132,6 +138,19 @@ The only supporting evidence is one indirect preclinical study, with no clinical
 - Confirmatory preclinical or clinical studies on whether XOR inhibition protects against exercise-induced AKI in renal hypouricemia
 - A safety assessment of urate lowering and xanthine nephropathy risk in this population
 - Approved indication text for the registered products
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against the Indian medicine data used by this site (the Indian Medicine Dataset, a third-party compilation of Indian medicine prices). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-24 | Revised: wording about the earlier partial table and hard-coded counts | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

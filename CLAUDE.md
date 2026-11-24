@@ -561,3 +561,17 @@ python3 scripts/check_seo_docs.py              # 必須 exit 0
   另寫的寬偵測（單方說法對照 data/raw 原始資料集）找到 41 句說「全部單方／沒有複方」而證據包紀錄其實有複方，36 句以 `in-lic-20261124-*-1` 只刪單方字樣更正，5 句講「資料把它們歸為單方」列待查；
   正文仍講舊表列了哪幾筆（「A sixth licence … is also valid」「… are not shown」等）42 句列待查（source：市場段落換成程式許可證表後…）。checker 全量前後都是 0；gate exit 0。
 - 母目錄 `.claude/license_labels/InTxGNN.json` 只有「Valid」：資料集標停產時程式表會寫「Discontinued」（目前 0 筆），要加 `"Discontinued": "cancelled"`（這次沒改母目錄）。
+
+## 待查清單第二輪：舊表說法與單方說法逐句更正（2026-11-24）
+
+用戶 2026-11-24 第二輪決定（第一輪列進待查的舊錯句逐句寫紀錄）。本站資料是第三方整理的印度藥品價格資料集（Indian Medicine Dataset），不是 CDSCO 許可證，更正文字照這個口徑、不寫死張數（指向概覽表與程式表）。
+- 第一輪列待查的 47 句：42 句講舊 AI 表（「A sixth licence … is also valid」「… are not shown」「Three more are not shown above」「the table lists five examples」），換成全量程式表後相對說法不成立；5 句「資料把它們歸為單方」（doxofylline、metoclopramide、naproxen、pioglitazone、rosuvastatin），資料集 short_composition2 其實有第二成分。
+  45 句以 `in-lic-20261124b-<藥>-1` 改寫（拿掉相對說法與寫死的張數，句中仍成立的品名、劑型、狀態照證據包保留；同句的單方說法跟資料集不符的 benzocaine、chlorzoxazone、ranitidine 一併改；fluphenazine、mupirocin、paliperidone、polyethylene_glycol 的劑型列舉照證據包全部紀錄改寫）；
+  amylmetacresol、dexketoprofen、indacaterol、potassium_iodide 只刪舊表那句（replacement 空、anchor 指向前版紀錄的更正文字），esomeprazole 的 `in-lic-20261124-esomeprazole-1` 同 id 重發（更正文字的「All 20」在部分收錄頁不成立，前版存 history）。
+  bacitracin（眼用 1、其餘軟膏或粉劑）、dapsone（口服 1、其餘 6 張凝膠）查證成立，標 resolved、不改頁。
+- 同日另寫的寬偵測：單方說法 7 句（arginine、benzoic_acid、captopril、carisoprodol、daclatasvir、diosmin、nicergoline，非部分收錄頁的概述句，第一輪偵測沒涵蓋）只刪「single-ingredient」字樣；「classified as single-ingredient in the records」2 句（chlorzoxazone-2、pregabalin）照上面 5 句的做法；舊表說明句 4 句（pitavastatin「table below shows only … single-ingredient」、aripiprazole、etodolac、ofloxacin「Five main/representative … shown below」）刪掉。diatrizoate（meglumine＋sodium diatrizoate，同一成分的兩種鹽）不算複方，不改。
+- 部分收錄頁（證據包存 20 筆、資料集更多）寫「20 valid single-ingredient registrations」之類、而存下的 20 筆有複方的 147 句列進待查（source：部分收錄頁的單方說法跟證據包已存紀錄不符）：資料集全量的單方品項數沒有逐藥核對，「at least 20 single-ingredient」可能成立，要人決定是否照 2026-11-06 做法一律刪字樣。
+- calcitriol 證據包有 Calcirol 600000IU Injection（36119）：資料集原始檔把 cholecalciferol 產品的成分寫成「Calcitriol (600000IU)」（資料集另有 Devita、Osta D3 300000IU／600000IU Injection 同樣錯植，沒存進證據包），程式表照資料集原文；收錄規則沒改，列在上述待查項目的說明。
+- `scripts/apply_drug_reviews.py` 的查核紀錄表說明句原本寫「checked against official Indian medicine data」，改成「the Indian medicine data used by this site (the Indian Medicine Dataset, a third-party compilation of Indian medicine prices)」（129 頁的說明句）。
+- 劑型全稱說法（only／all＋劑型）全量掃公開頁 408 句、依證據包劑型分類比對，標出的 14 句逐句讀過都成立，0 筆更正。市場段落沒有程式表的公開頁 3 頁（chlorpheniramine、docusate、ranolazine）是整頁沒有市場段落，照第一輪規則不加。
+- 驗證：apply --check 0、rewrite_license_counts --check 0、checker 全量前後 0、gate exit 0。

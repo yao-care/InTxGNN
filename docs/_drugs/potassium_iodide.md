@@ -102,13 +102,19 @@ Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub),
 
 <!-- licenses:end -->
 
-Two more eye drop registrations also exist (Cataclear, 35495; Catadoze, 39559), for 7 in total. All are currently valid. The marketed forms are ophthalmic and gum paint, and none is a nasal or oral systemic form, so the predicted nasal indication has no route match among current Indian products.
+All are currently valid. The marketed forms are ophthalmic and gum paint, and none is a nasal or oral systemic form, so the predicted nasal indication has no route match among current Indian products.
 
 <!-- review:begin in-lic-20261106-potassium_iodide-1 -->
 
 > **Review correction (2026-11-24)**: Originally stated: "All are single-ingredient products and all are currently valid." Removed: the number or status of product records stated here did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). The Quick Overview and the product table under India Market Information show the current number of product records. Revised 2026-11-24: the hard-coded number of records and the wording about the old table were dropped; the Quick Overview and the product table under India Market Information show the current figures. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
 
 <!-- review:end in-lic-20261106-potassium_iodide-1 -->
+
+<!-- review:begin in-lic-20261124b-potassium_iodide-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "Two more eye drop registrations also exist (Cataclear, 35495; Catadoze, 39559), for 7 in total." Revised: the sentence referred to the earlier table on this page, which showed only some of the products, and described other products as additional, further, remaining or not shown. The product table under India Market Information now lists every product held in the data, so that relative wording and the hard-coded counts were dropped; current figures are in the Quick Overview and that table. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124b-potassium_iodide-1 -->
 
 ---
 
@@ -141,12 +147,13 @@ The prediction rests on a high model score and a handful of case reports, mostly
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
+Below is the review log for this page: statements checked against the Indian medicine data used by this site (the Indian Medicine Dataset, a third-party compilation of Indian medicine prices). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-24 | Removed: "single-ingredient products and all" | Corrected (revised 2026-11-24; earlier version kept in the record) | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 | 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Potassium Iodide (Saturated) (potassium iodide) prescribing information, Emerald Therapeutics, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0bdf305f-ed4a-49d1-8901-edaed8d67850) |
+| 2026-11-24 | Revised: wording about the earlier partial table and hard-coded counts | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 

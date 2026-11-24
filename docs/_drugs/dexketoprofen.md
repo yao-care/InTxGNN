@@ -115,13 +115,19 @@ Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub),
 
 <!-- licenses:end -->
 
-A sixth licence (108166, Infen Gel, 30 g tube, topical) is also valid. All registrations are currently valid.
+All registrations are currently valid.
 
 <!-- review:begin in-lic-20261106-dexketoprofen-1 -->
 
 > **Review correction (2026-11-24)**: Originally stated: "All 6 registrations are single-ingredient products and currently valid." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Revised 2026-11-24: the hard-coded number of records and the wording about the old table were dropped; the Quick Overview and the product table under India Market Information show the current figures. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
 
 <!-- review:end in-lic-20261106-dexketoprofen-1 -->
+
+<!-- review:begin in-lic-20261124b-dexketoprofen-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "A sixth licence (108166, Infen Gel, 30 g tube, topical) is also valid." Revised: the sentence referred to the earlier table on this page, which showed only some of the products, and described other products as additional, further, remaining or not shown. The product table under India Market Information now lists every product held in the data, so that relative wording and the hard-coded counts were dropped; current figures are in the Quick Overview and that table. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124b-dexketoprofen-1 -->
 
 ---
 
@@ -143,12 +149,13 @@ Several randomized trials, including placebo-controlled studies, and a meta-anal
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
+Below is the review log for this page: statements checked against the Indian medicine data used by this site (the Indian Medicine Dataset, a third-party compilation of Indian medicine prices). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-24 | Removed: "single-ingredient products and" | Corrected (revised 2026-11-24; earlier version kept in the record) | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 | 2026-11-19 | "Currently, detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL75435 (dexketoprofen): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL75435) |
+| 2026-11-24 | Revised: wording about the earlier partial table and hard-coded counts | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 

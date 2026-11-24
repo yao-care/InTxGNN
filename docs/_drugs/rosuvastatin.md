@@ -145,7 +145,13 @@ Only part of the licence list is held in the data; the list may be incomplete.
 
 <!-- licenses:end -->
 
-All 20 registrations are valid. Several products carry rosuvastatin in combination with other agents (for example, the "CV" capsules), although the data classify all 20 as single-ingredient licences.
+All 20 registrations are valid. Several products carry rosuvastatin in combination with other agents (for example, the "CV" capsules), and the Indian Medicine Dataset lists a second active ingredient for them.
+
+<!-- review:begin in-lic-20261124b-rosuvastatin-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "Several products carry rosuvastatin in combination with other agents (for example, the "CV" capsules), although the data classify all 20 as single-ingredient licences." Revised: the sentence said the data classify these products as single-ingredient, but the Indian Medicine Dataset lists a second active ingredient for several of them (they are fixed-dose combinations). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124b-rosuvastatin-1 -->
 
 ---
 
@@ -179,11 +185,12 @@ The package-insert warnings and contraindications for the Indian products have n
 
 ## Review Log
 
-Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against the Indian medicine data used by this site (the Indian Medicine Dataset, a third-party compilation of Indian medicine prices). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Crestor (rosuvastatin) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=325a5d0e-9a72-4015-9fcd-1655fb504cee) |
+| 2026-11-24 | Revised: the single-ingredient classification | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 

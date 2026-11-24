@@ -92,7 +92,13 @@ None of these papers evaluates chlorzoxazone in migraine patients.
 
 ## India Market Information
 
-Twenty valid single-ingredient registrations are on file. The first five are listed below; no approved indication text is recorded for any of them.
+Valid registrations are on file; those held in the data, all of them combination products according to the Indian Medicine Dataset, are listed below, and no approved indication text is recorded for any of them.
+
+<!-- review:begin in-lic-20261124b-chlorzoxazone-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "Twenty valid single-ingredient registrations are on file. The first five are listed below; no approved indication text is recorded for any of them." Revised: the sentence referred to the earlier table on this page, which showed only some of the products, and described other products as additional, further, remaining or not shown. The product table under India Market Information now lists every product held in the data, so that relative wording and the hard-coded counts were dropped; current figures are in the Quick Overview and that table. The sentence also described the products as single-ingredient, but the Indian Medicine Dataset lists a second active ingredient for some of them. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124b-chlorzoxazone-1 -->
 
 <!-- licenses:begin -->
 
@@ -125,7 +131,13 @@ Only part of the licence list is held in the data; the list may be incomplete.
 
 <!-- licenses:end -->
 
-All products are oral tablets. The strengths in several product names (for example 250mg/50mg/325mg) suggest fixed-dose combination products, even though they are classified as single-ingredient in the records.
+All products are oral tablets. The strengths in several product names (for example 250mg/50mg/325mg) reflect fixed-dose combination products, and the Indian Medicine Dataset lists further active ingredients for them.
+
+<!-- review:begin in-lic-20261124b-chlorzoxazone-2 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "The strengths in several product names (for example 250mg/50mg/325mg) suggest fixed-dose combination products, even though they are classified as single-ingredient in the records." Revised: the sentence said the data classify these products as single-ingredient, but the Indian Medicine Dataset lists a second active ingredient for several of them (they are fixed-dose combinations). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124b-chlorzoxazone-2 -->
 
 ---
 
@@ -160,11 +172,13 @@ The prediction rests on a high model score and a single indirect preclinical lin
 
 ## Review Log
 
-Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against the Indian medicine data used by this site (the Indian Medicine Dataset, a third-party compilation of Indian medicine prices). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-19 | "Currently, detailed mechanism of action data is not available from the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: chlorzoxazone prescribing information, Solubiomix](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c3d40a90-6df8-4b44-bc61-d7655c52bacb) |
+| 2026-11-24 | Revised: wording about the earlier partial table and the single-ingredient claim | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-24 | Revised: the single-ingredient classification | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 

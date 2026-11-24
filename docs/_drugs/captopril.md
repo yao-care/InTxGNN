@@ -38,8 +38,14 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 ## One-Sentence Summary
 
-Captopril is an angiotensin-converting enzyme (ACE) inhibitor sold in India as single-ingredient tablets.
+Captopril is an angiotensin-converting enzyme (ACE) inhibitor sold in India as tablets.
 The TxGNN model predicts it may be effective for **malignant hypertensive renal disease**, but the data compiled for this report contain **no clinical trials** and only **1 publication**, a diagnostic case report that does not show therapeutic benefit.
+
+<!-- review:begin in-lic-20261124b-captopril-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "Captopril is an angiotensin-converting enzyme (ACE) inhibitor sold in India as single-ingredient tablets." Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the recorded products are fixed-dose combinations. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124b-captopril-1 -->
 
 ---
 
@@ -126,11 +132,12 @@ The prediction score is high (0.9928), but no clinical trial studies this diseas
 
 ## Review Log
 
-Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against the Indian medicine data used by this site (the Indian Medicine Dataset, a third-party compilation of Indian medicine prices). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: captopril prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ccbffd30-4b21-4522-bdb8-abba8d592017) |
+| 2026-11-24 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 

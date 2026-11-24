@@ -104,13 +104,19 @@ Only part of the licence list is held in the data; the list may be incomplete.
 
 <!-- licenses:end -->
 
-All 20 registrations are valid products, available as oral tablets and injectable vials. Only the first 5 are listed here, and approved-indication text was not available for them.
+All registrations held in the data are valid products, available as oral tablets and injectable vials. Approved-indication text was not available for them.
 
 <!-- review:begin in-lic-20261124-esomeprazole-1 -->
 
-> **Review correction (2026-11-24)**: Originally stated: "All 20 registrations are valid single-ingredient products, available as oral tablets and injectable vials." Removed: it described the products as single-ingredient (or as having no combination products), which does not match the Indian medicine data (the Indian Medicine Dataset): some of the recorded products are fixed-dose combinations. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+> **Review correction (2026-11-24)**: Originally stated: "All 20 registrations are valid single-ingredient products, available as oral tablets and injectable vials." Removed: it described the products as single-ingredient (or as having no combination products), which does not match the Indian medicine data (the Indian Medicine Dataset): some of the recorded products are fixed-dose combinations. Revised 2026-11-24 (second pass): the hard-coded number of records was dropped; the Quick Overview and the product table under India Market Information show the current figures. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
 
 <!-- review:end in-lic-20261124-esomeprazole-1 -->
+
+<!-- review:begin in-lic-20261124b-esomeprazole-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "Only the first 5 are listed here, and approved-indication text was not available for them." Revised: the sentence referred to the earlier table on this page, which showed only some of the products, and described other products as additional, further, remaining or not shown. The product table under India Market Information now lists every product held in the data, so that relative wording and the hard-coded counts were dropped; current figures are in the Quick Overview and that table. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124b-esomeprazole-1 -->
 
 ## Safety Considerations
 
@@ -141,12 +147,13 @@ Note that the same dataset shows far stronger support for a different predicted 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
+Below is the review log for this page: statements checked against the Indian medicine data used by this site (the Indian Medicine Dataset, a third-party compilation of Indian medicine prices). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-20 | "Detailed mechanism data were not included in the data compiled for this report, so this description reflects the well-established class pharmacology of proton pump inhibitors" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt (revised 2026-11-20; earlier version kept in the record) | [DailyMed: Nexium (esomeprazole magnesium) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f4853677-1622-4037-688b-fdf533a11d96) |
-| 2026-11-24 | Removed: the single-ingredient claim | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-24 | Removed: the single-ingredient claim | Corrected (revised 2026-11-24; earlier version kept in the record) | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-24 | Revised: wording about the earlier partial table and hard-coded counts | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 

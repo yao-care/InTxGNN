@@ -111,7 +111,13 @@ Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub),
 
 <!-- licenses:end -->
 
-A sixth registration, Zolvent Nasal Spray (No. 250377, Chemo Healthcare Pvt Ltd), is also valid. All 6 registrations are single-ingredient products and none has been cancelled.
+All registrations are single-ingredient products and none has been cancelled.
+
+<!-- review:begin in-lic-20261124b-zolmitriptan-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "A sixth registration, Zolvent Nasal Spray (No. 250377, Chemo Healthcare Pvt Ltd), is also valid. All 6 registrations are single-ingredient products and none has been cancelled." Revised: the sentence referred to the earlier table on this page, which showed only some of the products, and described other products as additional, further, remaining or not shown. The product table under India Market Information now lists every product held in the data, so that relative wording and the hard-coded counts were dropped; current figures are in the Quick Overview and that table. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124b-zolmitriptan-1 -->
 
 ---
 
@@ -158,11 +164,12 @@ The theoretical vasoconstrictive risk, the established caution about triptans in
 
 ## Review Log
 
-Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against the Indian medicine data used by this site (the Indian Medicine Dataset, a third-party compilation of Indian medicine prices). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-20 | "The data compiled for this report do not include a detailed mechanism-of-action entry, so this description is drawn from the literature" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt (revised 2026-11-20; earlier version kept in the record) | [DailyMed: Zolmiptriptan (zolmitriptan) prescribing information, Glenmark Pharmaceuticals Inc., USA](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a734b368-6008-441c-ab44-5634e46be9a4) |
+| 2026-11-24 | Revised: wording about the earlier partial table and hard-coded counts | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 

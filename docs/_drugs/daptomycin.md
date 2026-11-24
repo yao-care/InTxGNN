@@ -105,7 +105,13 @@ Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub),
 
 <!-- licenses:end -->
 
-Eight valid single-ingredient licences exist in total (the three others are Cubicin by Novartis India, Ivdapt by Fusion Healthcare and Daptojub by Jubilant). All are injectables.
+All licences are valid single-ingredient injectables, including Cubicin (Novartis India), Ivdapt (Fusion Healthcare) and Daptojub (Jubilant).
+
+<!-- review:begin in-lic-20261124b-daptomycin-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "Eight valid single-ingredient licences exist in total (the three others are Cubicin by Novartis India, Ivdapt by Fusion Healthcare and Daptojub by Jubilant). All are injectables." Revised: the sentence referred to the earlier table on this page, which showed only some of the products, and described other products as additional, further, remaining or not shown. The product table under India Market Information now lists every product held in the data, so that relative wording and the hard-coded counts were dropped; current figures are in the Quick Overview and that table. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124b-daptomycin-1 -->
 
 ## Safety Considerations
 
@@ -133,11 +139,12 @@ The osteoarthritis prediction has no clinical trials and no supporting literatur
 
 ## Review Log
 
-Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against the Indian medicine data used by this site (the Indian Medicine Dataset, a third-party compilation of Indian medicine prices). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Dapzura Rt (daptomycin) prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cb1283e1-35b8-425c-b338-d9ac0c7161f8) |
+| 2026-11-24 | Revised: wording about the earlier partial table and hard-coded counts | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 

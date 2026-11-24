@@ -38,8 +38,14 @@ Evidence Level: **L5** | Predicted Indications: **8**
 
 ## One-Sentence Summary
 
-Nicergoline is an ergot-derived vasodilator and alpha-1 adrenergic antagonist marketed in India as single-ingredient tablets. The India license records compiled for this report do not list an approved indication.
+Nicergoline is an ergot-derived vasodilator and alpha-1 adrenergic antagonist marketed in India as tablets. The India license records compiled for this report do not list an approved indication.
 Among the eight predicted indications, only **migraine disorder** has supporting literature (**6 publications, 0 registered trials**, mostly preclinical).
+
+<!-- review:begin in-lic-20261124b-nicergoline-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "Nicergoline is an ergot-derived vasodilator and alpha-1 adrenergic antagonist marketed in India as single-ingredient tablets." Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the recorded products are fixed-dose combinations. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124b-nicergoline-1 -->
 
 ---
 
@@ -143,11 +149,12 @@ Please refer to the package insert for safety information.
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against the Indian medicine data used by this site (the Indian Medicine Dataset, a third-party compilation of Indian medicine prices). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-24 | Removed: "single-ingredient" | Corrected (revised 2026-11-24; earlier version kept in the record) | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-24 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 

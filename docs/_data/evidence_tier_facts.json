@@ -304,8 +304,8 @@
     "i": "plasma cell myeloma",
     "lt": 9,
     "lv": 9,
-    "r": 1,
-    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
+    "r": 2,
+    "rs": "Revised: wording about the earlier partial table and hard-coded counts",
     "x": 0
    },
    {
@@ -392,8 +392,8 @@
     "i": "agoraphobia",
     "lt": 6,
     "lv": 6,
-    "r": 1,
-    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
+    "r": 2,
+    "rs": "Revised: wording about the earlier partial table and hard-coded counts",
     "x": 0
    },
    {
@@ -603,7 +603,7 @@
   "with_current": 89,
   "none_current": 0,
   "without_data": 41,
-  "with_reviews": 74,
+  "with_reviews": 75,
   "rows": [
    {
     "t": "Abatacept",
@@ -678,8 +678,8 @@
     "i": "hepatitis B virus infection",
     "lt": 17,
     "lv": 17,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Removed: \"single-ingredient\"",
     "x": 0
    },
    {
@@ -700,8 +700,8 @@
     "i": "Hodgkins lymphoma",
     "lt": 6,
     "lv": 6,
-    "r": 1,
-    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
+    "r": 2,
+    "rs": "Revised: wording about the earlier partial table and hard-coded counts",
     "x": 0
    },
    {
@@ -854,8 +854,8 @@
     "i": "pulmonary hypertension",
     "lt": 0,
     "lv": 20,
-    "r": 1,
-    "rs": "\"Currently, detailed mechanism of action data is not available in the compiled data\" replaced with a sourced…",
+    "r": 2,
+    "rs": "Revised: wording about the earlier partial table and hard-coded counts",
     "x": 0
    },
    {
@@ -887,8 +887,8 @@
     "i": "liposarcoma",
     "lt": 7,
     "lv": 7,
-    "r": 1,
-    "rs": "\"Detailed mechanism of action data is not available in the compiled data\" replaced with a sourced…",
+    "r": 2,
+    "rs": "Revised: wording about the earlier partial table and hard-coded counts",
     "x": 0
    },
    {
@@ -997,7 +997,7 @@
     "i": "gastroparesis (disease)",
     "lt": 11,
     "lv": 11,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"single-ingredient\"",
     "x": 0
    },
@@ -1437,8 +1437,8 @@
     "i": "nasal cavity disease",
     "lt": 7,
     "lv": 7,
-    "r": 2,
-    "rs": "Removed: \"single-ingredient products and all\"",
+    "r": 3,
+    "rs": "Revised: wording about the earlier partial table and hard-coded counts",
     "x": 0
    },
    {
@@ -1547,8 +1547,8 @@
     "i": "exposure keratitis",
     "lt": 0,
     "lv": 20,
-    "r": 1,
-    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
+    "r": 2,
+    "rs": "Revised: wording about the earlier partial table and hard-coded counts",
     "x": 0
    },
    {
@@ -1603,7 +1603,7 @@
   "with_current": 698,
   "none_current": 0,
   "without_data": 344,
-  "with_reviews": 578,
+  "with_reviews": 584,
   "rows": [
    {
     "t": "Acarbose",
@@ -1843,8 +1843,8 @@
     "i": "gaze palsy, familial horizontal, with progressive scoliosis",
     "lt": 0,
     "lv": 20,
-    "r": 1,
-    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
+    "r": 2,
+    "rs": "Removed: wording about the earlier table",
     "x": 0
    },
    {
@@ -1931,8 +1931,8 @@
     "i": "papillary conjunctivitis",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Revised: wording about the earlier partial table and the single-ingredient claim",
     "x": 0
    },
    {
@@ -1964,8 +1964,8 @@
     "i": "epiglottis neoplasm",
     "lt": 0,
     "lv": 20,
-    "r": 1,
-    "rs": "\"Detailed mechanism-of-action data is not available in the data compiled for this report\" replaced with a…",
+    "r": 2,
+    "rs": "Revised: wording about the earlier partial table and hard-coded counts",
     "x": 0
    },
    {
@@ -2107,8 +2107,8 @@
     "i": "rectum mucinous adenocarcinoma",
     "lt": 0,
     "lv": 20,
-    "r": 1,
-    "rs": "\"Detailed mechanism-of-action data are not currently available\" replaced with a sourced mechanism-of-action…",
+    "r": 2,
+    "rs": "Revised: wording about the earlier partial table and hard-coded counts",
     "x": 0
    },
    {
@@ -2294,8 +2294,8 @@
     "i": "migraine disorder",
     "lt": 0,
     "lv": 20,
-    "r": 1,
-    "rs": "\"Currently, detailed mechanism of action data is not available from the data compiled for this report\"…",
+    "r": 3,
+    "rs": "Revised: the single-ingredient classification",
     "x": 0
    },
    {
@@ -2712,8 +2712,8 @@
     "i": "Pierre Robin syndrome associated with a chromosomal anomaly",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Revised: the single-ingredient classification",
     "x": 0
    },
    {
@@ -2844,8 +2844,8 @@
     "i": "pulmonary hypertension owing to lung disease and/or hypoxia",
     "lt": 0,
     "lv": 20,
-    "r": 2,
-    "rs": "Removed: the single-ingredient claim",
+    "r": 3,
+    "rs": "Revised: wording about the earlier partial table and hard-coded counts",
     "x": 0
    },
    {
@@ -2888,8 +2888,8 @@
     "i": "duodenal obstruction",
     "lt": 0,
     "lv": 20,
-    "r": 2,
-    "rs": "Removed: the single-ingredient claim",
+    "r": 3,
+    "rs": "Revised: wording about the earlier partial table and hard-coded counts",
     "x": 0
    },
    {
@@ -2910,8 +2910,8 @@
     "i": "acromesomelic dysplasia, Hunter-Thompson type",
     "lt": 0,
     "lv": 20,
-    "r": 2,
-    "rs": "Removed: the single-ingredient claim",
+    "r": 3,
+    "rs": "Removed: wording about the earlier table",
     "x": 0
    },
    {
@@ -3999,8 +3999,8 @@
     "i": "gastroduodenitis",
     "lt": 0,
     "lv": 20,
-    "r": 1,
-    "rs": "\"(Detailed mechanism-of-action data were not available in the data compiled for this report; this description…",
+    "r": 2,
+    "rs": "Revised: the single-ingredient classification",
     "x": 0
    },
    {
@@ -4153,8 +4153,8 @@
     "i": "pleural empyema (disease)",
     "lt": 0,
     "lv": 20,
-    "r": 1,
-    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
+    "r": 2,
+    "rs": "Revised: wording about the earlier partial table and hard-coded counts",
     "x": 0
    },
    {
@@ -4197,8 +4197,8 @@
     "i": "brachydactyly-syndactyly syndrome",
     "lt": 0,
     "lv": 20,
-    "r": 1,
-    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
+    "r": 2,
+    "rs": "Revised: the single-ingredient classification",
     "x": 0
    },
    {
@@ -4296,8 +4296,8 @@
     "i": "hyperamylasemia",
     "lt": 0,
     "lv": 20,
-    "r": 2,
-    "rs": "Removed: the single-ingredient claim",
+    "r": 3,
+    "rs": "Removed: wording about the earlier table",
     "x": 0
    },
    {
@@ -4494,8 +4494,8 @@
     "i": "opsismodysplasia",
     "lt": 0,
     "lv": 20,
-    "r": 1,
-    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
+    "r": 2,
+    "rs": "Revised: the single-ingredient classification",
     "x": 0
    },
    {
@@ -4538,8 +4538,8 @@
     "i": "cholesterol-ester transfer protein deficiency",
     "lt": 0,
     "lv": 20,
-    "r": 1,
-    "rs": "\"Detailed mechanism-of-action data is not available in the compiled data\" replaced with a sourced…",
+    "r": 2,
+    "rs": "Revised: wording about the earlier table",
     "x": 0
    },
    {
@@ -4549,8 +4549,8 @@
     "i": "congenital ichthyosiform erythroderma",
     "lt": 0,
     "lv": 20,
-    "r": 1,
-    "rs": "Removed: the single-ingredient claim",
+    "r": 2,
+    "rs": "Revised: wording about the earlier partial table and hard-coded counts",
     "x": 0
    },
    {
@@ -4593,8 +4593,8 @@
     "i": "tendinitis",
     "lt": 0,
     "lv": 20,
-    "r": 3,
-    "rs": "Removed: the single-ingredient claim",
+    "r": 4,
+    "rs": "Revised: the single-ingredient classification",
     "x": 0
    },
    {
@@ -4714,8 +4714,8 @@
     "i": "peptic ulcer perforation",
     "lt": 0,
     "lv": 20,
-    "r": 1,
-    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
+    "r": 2,
+    "rs": "Revised: wording about the earlier partial table and the single-ingredient claim",
     "x": 0
    },
    {
@@ -4802,8 +4802,8 @@
     "i": "cholesterol-ester transfer protein deficiency",
     "lt": 0,
     "lv": 20,
-    "r": 1,
-    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
+    "r": 2,
+    "rs": "Revised: the single-ingredient classification",
     "x": 0
    },
    {
@@ -5429,8 +5429,8 @@
     "i": "migraine disorder",
     "lt": 19,
     "lv": 19,
-    "r": 1,
-    "rs": "Removed: \"single-ingredient or combination products\"",
+    "r": 2,
+    "rs": "Revised: wording about the earlier partial table and hard-coded counts",
     "x": 0
    },
    {
@@ -5605,7 +5605,7 @@
     "i": "amenorrhea (disease)",
     "lt": 17,
     "lv": 17,
-    "r": 2,
+    "r": 3,
     "rs": "Removed: \"single-ingredient\"",
     "x": 0
    },
@@ -5649,8 +5649,8 @@
     "i": "retinal dystrophy with or without extraocular anomalies",
     "lt": 17,
     "lv": 17,
-    "r": 1,
-    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
+    "r": 2,
+    "rs": "Revised: wording about the earlier partial table and hard-coded counts",
     "x": 0
    },
    {
@@ -6067,8 +6067,8 @@
     "i": "retinal dystrophy with or without extraocular anomalies",
     "lt": 12,
     "lv": 12,
-    "r": 2,
-    "rs": "Removed: \"single-ingredient\"",
+    "r": 3,
+    "rs": "Revised: wording about the earlier partial table and hard-coded counts",
     "x": 0
    },
    {
@@ -6408,8 +6408,8 @@
     "i": "nephrogenic syndrome of inappropriate antidiuresis",
     "lt": 9,
     "lv": 9,
-    "r": 1,
-    "rs": "Removed: \"single-ingredient\"",
+    "r": 2,
+    "rs": "Revised: wording about the earlier partial table and hard-coded counts",
     "x": 0
    },
    {
@@ -6430,8 +6430,8 @@
     "i": "restless legs syndrome",
     "lt": 9,
     "lv": 9,
-    "r": 1,
-    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
+    "r": 2,
+    "rs": "Revised: wording about the earlier partial table and hard-coded counts",
     "x": 0
    },
    {
@@ -6562,8 +6562,8 @@
     "i": "osteoarthritis",
     "lt": 8,
     "lv": 8,
-    "r": 1,
-    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
+    "r": 2,
+    "rs": "Revised: wording about the earlier partial table and hard-coded counts",
     "x": 0
    },
    {
@@ -6606,8 +6606,8 @@
     "i": "nasal cavity disease",
     "lt": 8,
     "lv": 8,
-    "r": 1,
-    "rs": "\"Detailed mechanism-of-action data is not available in the data compiled for this report\" replaced with a…",
+    "r": 2,
+    "rs": "Revised: wording about the earlier partial table and hard-coded counts",
     "x": 0
    },
    {
@@ -6628,8 +6628,8 @@
     "i": "alopecia",
     "lt": 8,
     "lv": 8,
-    "r": 1,
-    "rs": "\"Detailed mechanism-of-action data from DrugBank are not available\" replaced with a sourced…",
+    "r": 2,
+    "rs": "Revised: wording about the earlier partial table and hard-coded counts",
     "x": 0
    },
    {
@@ -6738,8 +6738,8 @@
     "i": "malignant hypertensive renal disease",
     "lt": 7,
     "lv": 7,
-    "r": 1,
-    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
+    "r": 2,
+    "rs": "Removed: \"single-ingredient\"",
     "x": 0
    },
    {
@@ -6793,8 +6793,8 @@
     "i": "antithrombin deficiency type 2",
     "lt": 7,
     "lv": 7,
-    "r": 1,
-    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
+    "r": 2,
+    "rs": "Revised: wording about the earlier partial table and hard-coded counts",
     "x": 0
    },
    {
@@ -6804,8 +6804,8 @@
     "i": "conjunctivitis",
     "lt": 7,
     "lv": 7,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Revised: wording about the earlier partial table and hard-coded counts",
     "x": 0
    },
    {
@@ -6826,8 +6826,8 @@
     "i": "esotropia",
     "lt": 7,
     "lv": 7,
-    "r": 1,
-    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
+    "r": 2,
+    "rs": "Revised: wording about the earlier partial table and hard-coded counts",
     "x": 0
    },
    {
@@ -6881,8 +6881,8 @@
     "i": "craniofacial conodysplasia",
     "lt": 6,
     "lv": 6,
-    "r": 1,
-    "rs": "\"Detailed mechanism of action data is not currently available\" replaced with a sourced mechanism-of-action…",
+    "r": 2,
+    "rs": "Revised: wording about the earlier partial table and hard-coded counts",
     "x": 0
    },
    {
@@ -6903,8 +6903,8 @@
     "i": "cauda equina syndrome",
     "lt": 6,
     "lv": 6,
-    "r": 1,
-    "rs": "Removed: \"single-ingredient\"",
+    "r": 2,
+    "rs": "Revised: wording about the earlier partial table and hard-coded counts",
     "x": 0
    },
    {
@@ -6914,8 +6914,8 @@
     "i": "hypertrichosis (disease)",
     "lt": 6,
     "lv": 6,
-    "r": 1,
-    "rs": "\"Currently, detailed mechanism of action data is not available in the compiled records\" replaced with a…",
+    "r": 2,
+    "rs": "Revised: wording about the earlier partial table and hard-coded counts",
     "x": 0
    },
    {
@@ -6936,8 +6936,8 @@
     "i": "tendinitis",
     "lt": 6,
     "lv": 6,
-    "r": 2,
-    "rs": "Removed: \"single-ingredient products and\"",
+    "r": 3,
+    "rs": "Revised: wording about the earlier partial table and hard-coded counts",
     "x": 0
    },
    {
@@ -6958,8 +6958,8 @@
     "i": "insomnia (disease)",
     "lt": 6,
     "lv": 6,
-    "r": 1,
-    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
+    "r": 2,
+    "rs": "Revised: wording about the earlier partial table and hard-coded counts",
     "x": 0
    },
    {
@@ -6969,8 +6969,8 @@
     "i": "gastroduodenitis",
     "lt": 6,
     "lv": 6,
-    "r": 1,
-    "rs": "Removed: \"single-ingredient\"",
+    "r": 2,
+    "rs": "Revised: wording about the earlier partial table and hard-coded counts",
     "x": 2
    },
    {
@@ -6980,8 +6980,8 @@
     "i": "postural orthostatic tachycardia syndrome",
     "lt": 6,
     "lv": 6,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Revised: wording about the earlier partial table and hard-coded counts",
     "x": 4
    },
    {
@@ -6991,8 +6991,8 @@
     "i": "hypertrichosis (disease)",
     "lt": 6,
     "lv": 6,
-    "r": 1,
-    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
+    "r": 2,
+    "rs": "Revised: wording about the earlier partial table and hard-coded counts",
     "x": 0
    },
    {
@@ -7002,8 +7002,8 @@
     "i": "primary release disorder of platelets",
     "lt": 6,
     "lv": 6,
-    "r": 1,
-    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
+    "r": 2,
+    "rs": "Revised: wording about the earlier partial table and hard-coded counts",
     "x": 0
    },
    {
@@ -7024,8 +7024,8 @@
     "i": "Rasmussen subacute encephalitis",
     "lt": 6,
     "lv": 6,
-    "r": 1,
-    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
+    "r": 2,
+    "rs": "Revised: wording about the earlier partial table and hard-coded counts",
     "x": 0
    },
    {
@@ -7035,8 +7035,8 @@
     "i": "hypouricemia, renal",
     "lt": 6,
     "lv": 6,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Revised: wording about the earlier partial table and hard-coded counts",
     "x": 0
    },
    {
@@ -7046,8 +7046,8 @@
     "i": "hypertrichosis (disease)",
     "lt": 6,
     "lv": 6,
-    "r": 1,
-    "rs": "\"Detailed mechanism-of-action data is not available in the data compiled for this report\" replaced with a…",
+    "r": 2,
+    "rs": "Revised: wording about the earlier partial table and hard-coded counts",
     "x": 0
    },
    {
@@ -7057,8 +7057,8 @@
     "i": "atrophoderma vermiculata",
     "lt": 6,
     "lv": 6,
-    "r": 1,
-    "rs": "\"The data compiled for this report do not include a detailed mechanism-of-action entry, so this description…",
+    "r": 2,
+    "rs": "Revised: wording about the earlier partial table and hard-coded counts",
     "x": 0
    },
    {
@@ -7079,8 +7079,8 @@
     "i": "insomnia (disease)",
     "lt": 5,
     "lv": 5,
-    "r": 1,
-    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
+    "r": 2,
+    "rs": "Removed: \"single-ingredient\"",
     "x": 0
    },
    {
@@ -7189,7 +7189,7 @@
     "i": "hypertrichosis (disease)",
     "lt": 5,
     "lv": 5,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"single-ingredient\"",
     "x": 0
    },
@@ -7629,8 +7629,8 @@
     "i": "bronchitis",
     "lt": 3,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Removed: \"single-ingredient\"",
     "x": 0
    },
    {

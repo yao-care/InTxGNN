@@ -82,13 +82,19 @@ Currently no related literature available.
 
 ## India Market Information
 
-Etodolac has 20 valid registrations in India. Several products combine etodolac with other actives such as thiocolchicoside, paracetamol or tramadol. The licence records contain no approved-indication text. Five main plain-etodolac products are shown below.
+Etodolac has 20 valid registrations in India. Several products combine etodolac with other actives such as thiocolchicoside, paracetamol or tramadol. The licence records contain no approved-indication text.
 
 <!-- review:begin in-lic-20261124-etodolac-1 -->
 
 > **Review correction (2026-11-24)**: Originally stated: "Etodolac has 20 valid registrations in India, all single-entity listings." Removed: it described the products as single-ingredient (or as having no combination products), which does not match the Indian medicine data (the Indian Medicine Dataset): some of the recorded products are fixed-dose combinations. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
 
 <!-- review:end in-lic-20261124-etodolac-1 -->
+
+<!-- review:begin in-lic-20261124b-etodolac-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "Five main plain-etodolac products are shown below." Revised: the sentence described the earlier table on this page, which showed only a few products. The product table under India Market Information now lists every product held in the data, so the sentence was removed. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124b-etodolac-1 -->
 
 <!-- licenses:begin -->
 
@@ -158,12 +164,13 @@ The prediction has no clinical trials or publications behind it. The target is a
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
+Below is the review log for this page: statements checked against the Indian medicine data used by this site (the Indian Medicine Dataset, a third-party compilation of Indian medicine prices). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-19 | "Detailed mechanism-of-action data for etodolac is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Etodolac Er (etodolac) prescribing information, Advanced Rx Pharmacy of Tennessee, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=baebdfb2-17f6-9081-e053-2a95a90ab331) |
 | 2026-11-24 | Removed: the single-ingredient claim | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-24 | Removed: wording about the earlier table | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 

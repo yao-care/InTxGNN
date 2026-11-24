@@ -76,13 +76,19 @@ Among the other predictions, **septicemic plague** (TxGNN score 0.9979) is the o
 
 ## India Market Information
 
-At least 20 valid licences are recorded. The list may be partial. No approved-indication text is present in the licence records, so no approved indication can be stated from them. Five representative single-strength ofloxacin products are shown below.
+At least 20 valid licences are recorded. The list may be partial. No approved-indication text is present in the licence records, so no approved indication can be stated from them.
 
 <!-- review:begin in-lic-20261124-ofloxacin-1 -->
 
 > **Review correction (2026-11-24)**: Originally stated: "At least 20 valid licences are recorded, all classified as single-ingredient products." Removed: it described the products as single-ingredient (or as having no combination products), which does not match the Indian medicine data (the Indian Medicine Dataset): some of the recorded products are fixed-dose combinations. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
 
 <!-- review:end in-lic-20261124-ofloxacin-1 -->
+
+<!-- review:begin in-lic-20261124b-ofloxacin-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "Five representative single-strength ofloxacin products are shown below." Revised: the sentence described the earlier table on this page, which showed only a few products. The product table under India Market Information now lists every product held in the data, so the sentence was removed. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124b-ofloxacin-1 -->
 
 <!-- licenses:begin -->
 
@@ -142,12 +148,13 @@ The hyperamylasemia prediction has a high model score but no trials, no literatu
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
+Below is the review log for this page: statements checked against the Indian medicine data used by this site (the Indian Medicine Dataset, a third-party compilation of Indian medicine prices). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-19 | "Currently, detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Ofloxacin Otic (ofloxacin) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=42366170-e536-46a1-9735-d76e5820a9de) |
 | 2026-11-24 | Removed: the single-ingredient claim | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-24 | Removed: wording about the earlier table | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 

@@ -97,7 +97,13 @@ Note: one meta-analysis of aripiprazole or bupropion augmentation (PMID 38669232
 
 ## India Market Information
 
-Twenty valid single-ingredient registrations are on record. The registration records contain no approved indication text. Five main registrations are listed.
+Twenty valid single-ingredient registrations are on record. The registration records contain no approved indication text.
+
+<!-- review:begin in-lic-20261124b-aripiprazole-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "Five main registrations are listed." Revised: the sentence described the earlier table on this page, which showed only a few products. The product table under India Market Information now lists every product held in the data, so the sentence was removed. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124b-aripiprazole-1 -->
 
 <!-- licenses:begin -->
 
@@ -167,11 +173,12 @@ Multiple completed Phase 3 randomized, placebo-controlled trials with over 1,000
 
 ## Review Log
 
-Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against the Indian medicine data used by this site (the Indian Medicine Dataset, a third-party compilation of Indian medicine prices). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Abilify Asimtufii (aripiprazole) prescribing information, Otsuka America Pharmaceutical, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=da4c07fd-1130-4341-bb44-63acfa4162be) |
+| 2026-11-24 | Removed: wording about the earlier table | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 

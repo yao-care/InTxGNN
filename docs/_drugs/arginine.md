@@ -38,7 +38,13 @@ Evidence Level: **L4** | Predicted Indications: **1**
 
 ## One-Sentence Summary
 
-Arginine is an amino acid marketed in India as a single-ingredient oral product in several forms (sachets, tablets, capsules, powders). The TxGNN model predicts it may be useful for **gastroparesis**. However, there are **no registered clinical trials** and the literature consists of **9 publications**, almost all animal or mechanistic studies, so the evidence is early-stage.
+Arginine is an amino acid marketed in India as an oral product in several forms (sachets, tablets, capsules, powders). The TxGNN model predicts it may be useful for **gastroparesis**. However, there are **no registered clinical trials** and the literature consists of **9 publications**, almost all animal or mechanistic studies, so the evidence is early-stage.
+
+<!-- review:begin in-lic-20261124b-arginine-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "Arginine is an amino acid marketed in India as a single-ingredient oral product in several forms (sachets, tablets, capsules, powders)." Removed: it described the products as single-ingredient, which does not match the Indian medicine data (the Indian Medicine Dataset): some of the recorded products are fixed-dose combinations. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124b-arginine-1 -->
 
 ## Quick Overview
 
@@ -145,11 +151,12 @@ The prediction is mechanistically plausible through the arginine–nNOS–nitric
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against the Indian medicine data used by this site (the Indian Medicine Dataset, a third-party compilation of Indian medicine prices). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-24 | Removed: "single-ingredient" | Corrected (revised 2026-11-24; earlier version kept in the record) | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-24 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 

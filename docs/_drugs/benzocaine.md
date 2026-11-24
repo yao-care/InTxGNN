@@ -71,7 +71,13 @@ Currently no related literature available.
 
 ## India Market Information
 
-Records may be partial. The 20 valid single-ingredient licences found are shown below in part (the first 5).
+Records may be partial. The valid licences found are listed in the table below; according to the Indian Medicine Dataset, several of them are combination products.
+
+<!-- review:begin in-lic-20261124b-benzocaine-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "The 20 valid single-ingredient licences found are shown below in part (the first 5)." Revised: the sentence referred to the earlier table on this page, which showed only some of the products, and described other products as additional, further, remaining or not shown. The product table under India Market Information now lists every product held in the data, so that relative wording and the hard-coded counts were dropped; current figures are in the Quick Overview and that table. The sentence also described the products as single-ingredient, but the Indian Medicine Dataset lists a second active ingredient for some of them. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124b-benzocaine-1 -->
 
 <!-- licenses:begin -->
 
@@ -125,6 +131,19 @@ The prediction has a very high model score but no supporting trials or publicati
 - Preclinical or clinical evidence that directly studies papillary conjunctivitis
 - Package insert warnings and contraindications for the marketed products
 - An ocular safety assessment (corneal toxicity, sensitization) and a suitable ophthalmic formulation
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against the Indian medicine data used by this site (the Indian Medicine Dataset, a third-party compilation of Indian medicine prices). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-24 | Revised: wording about the earlier partial table and the single-ingredient claim | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.
