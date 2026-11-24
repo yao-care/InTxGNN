@@ -546,3 +546,18 @@ python3 scripts/check_seo_docs.py              # 必須 exit 0
 例：abacavir「Approved use: Not recorded in the local data」→「In India: 9 listed products (9 not discontinued)」；2026-11-19 改了 417 頁。
 由母目錄 `.claude/drug_meta_description.py --apply --site InTxGNN` 產生（站上複本 `tools/txgnn/.claude/drug_meta_description.py --apply --root .`），改動記在 `docs/_data/description_local_log.json`（pages＝目前句尾與原字樣、entries＝每次改動前後整行，可還原）。快照數字變了重跑會換新數字；`apply_drug_reviews.py`、`build_license_snapshot.py` 結尾會自動 --apply，`check_seo_docs.py` 跑 --check 擋「還是未記載句尾」或「數字跟快照不符」。只改 front matter，lastmod_fix 不算正文改動、last_modified_at 不動。
 同日修：`apply_drug_reviews.py`、`build_license_snapshot.py` 結尾重算 local_facts 的 atexit 掛鉤在結束時取不到 `__file__`（NameError，之前其實沒跑成），改成先算好路徑。
+
+## 市場段落品項表與正文張數改由程式維護（2026-11-24）
+
+用戶 2026-11-24 決定（30 站「許可證張數與狀態不再每週過期」，本站做表＋B）：每週排程只改得到概覽表狀態列／張數列，市場段落 AI 寫的自由格式表（表頭多是「Authorization Number | Product Name | Dosage Form | Approved Indication」，後者全是 Not recorded）與正文寫死的張數會跟每週變的資料集矛盾。本站資料是第三方整理的印度藥品價格資料集（Indian Medicine Dataset，Is_discontinued），不是 CDSCO 許可證，表與句子照這個口徑寫。
+- A. `scripts/sync_license_tables.py`：「## India Market Information」的第一張許可證表換成程式依證據包產生的表「| Dataset ID | Product Name | Pack Size | Status |」（品名、包裝照資料集原文；狀態 Valid／Discontinued；未停產在前、依 ID 數字排序；證據包全部紀錄，最多 20 筆），表下來源句（不寫狀態字），部分紀錄的頁加既有的「Only part of the licence list is held in the data; the list may be incomplete.」；段落沒有表時放段落開頭，沒有段落的頁（5 頁）不加。
+  不放成分欄（證據包 ingredients 只收了 short_composition1，複方第二成分沒收）、不放廠商欄（itraconazole「GRAF Laboratories」會被 checker P5 當成知識圖譜字樣）。
+  前後 `<!-- licenses:begin/end -->`；快照 `snapshots/in_licenses.json.gz` 存 rows／show（program_rows），gate 第 18 項（`src/intxgnn/regulatory/licenses.py`）擋「程式區塊≠快照重算」「市場段落沒有程式區塊」。
+  接進：`scripts/apply_drug_reviews.py`（非 --check）結尾、`scripts/build_license_snapshot.py` 結尾（不給 --ws 時只跑表與 B）、`scripts/license_adapter.py` 的 `sync_tables`（每週排程，--bundles）與 `PAGE_NOTE`（3b 放行程式區塊的非表格行）。
+- B. `scripts/rewrite_license_counts.py`＋`src/intxgnn/regulatory/count_prose.py`（照 CaTxGNN 英文版移植，口徑改成本站：licence／registration／authorization／listing／product＋India／valid／dataset）：依快照事實層改寫句型明確的張數；有保留、講查詢、相對數、劑型或廠商子集、顯示筆數、partial 頁（517 個證據包中 439 頁）不動，單方張數不改（列 single），單複數、0 張、前提句列待查。gate 第 22 項擋「再跑一次會變」。事實層的單方數依資料集 short_composition2 判斷，2026-11-24 對 data/raw 原始 CSV 驗過非 partial 的 464 頁全部一致。
+- 2026-11-24 第一次套用（Release data-20261112-161012）：898 頁換成程式表（公開頁 881、noindex 17；原有表 891 頁、段落裡沒有許可證表的 7 頁補在段落開頭）；`--migrate` 拿掉只講舊表筆數的說明句 428 處與舊的部分紀錄提示行 15 行；改頁的 last_modified_at 改 2026-11-24。
+  B 改寫 0 句（現行事實全部有效、張數句跟事實一致；判斷不了 0 句）。錨在舊表上的查核紀錄 0 筆（不用 superseded）。
+  查核紀錄：53 筆 `in-lic-20261106-*` 更正文字裡寫死的張數與舊表筆數拿掉、同 id 重發（前版存 history；potassium_iodide 前版「All are are」一併修正）；
+  另寫的寬偵測（單方說法對照 data/raw 原始資料集）找到 41 句說「全部單方／沒有複方」而證據包紀錄其實有複方，36 句以 `in-lic-20261124-*-1` 只刪單方字樣更正，5 句講「資料把它們歸為單方」列待查；
+  正文仍講舊表列了哪幾筆（「A sixth licence … is also valid」「… are not shown」等）42 句列待查（source：市場段落換成程式許可證表後…）。checker 全量前後都是 0；gate exit 0。
+- 母目錄 `.claude/license_labels/InTxGNN.json` 只有「Valid」：資料集標停產時程式表會寫「Discontinued」（目前 0 筆），要加 `"Discontinued": "cancelled"`（這次沒改母目錄）。
