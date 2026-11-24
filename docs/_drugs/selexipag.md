@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 767
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 description: "Selexipag: known uses and market status in India; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -72,12 +72,18 @@ The TxGNN deep-learning model produced no candidate indication with a score of 0
 
 ## India Market Information
 
-| Licence | Product | Dosage form | Status |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
 |------|------|------|------|
-| 247714 | Zexipag 400mcg Tablet | strip of 10 tablets | Valid |
-| 200368 | Selepeg 200 Tablet | strip of 10 tablets | Valid |
-| 201099 | Selepeg 400 Tablet | strip of 10 tablets | Valid |
-| 247209 | Zexipag 200mcg Tablet | strip of 10 tablets | Valid |
+| 200368 | Selepeg 200 Tablet | Strip of 10 tablets | Valid |
+| 201099 | Selepeg 400 Tablet | Strip of 10 tablets | Valid |
+| 247209 | Zexipag 200mcg Tablet | Strip of 10 tablets | Valid |
+| 247714 | Zexipag 400mcg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

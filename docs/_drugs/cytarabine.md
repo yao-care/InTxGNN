@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 223
 evidence_level: L4
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cytarabine: predicted new indication Small cell lung carcinoma (evidence level L4). Approved use: Acute lymphoblastic leukemia and acute myeloid leukemia (including se…"
 monitor_inn: "Cytarabine"
 predicted_indications: ["small cell lung carcinoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "pulmonary blastoma", "upper aerodigestive tract neoplasm", "ganglioneuroblastoma (disease)", "vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm", "neuroblastoma"]
@@ -85,13 +85,36 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 12826 | Arasid 500mg Injection (Intas) | Vial, injection | Not stated in records |
-| 35861 | Cytosar 100mg Injection (Pfizer) | Vial of 5 ml, injection | Not stated in records |
-| 44620 | Cytosar 500mg Injection (Pfizer) | Vial, injection | Not stated in records |
-| 39721 | Cytosar 1000mg Injection (Pfizer) | Vial of 10 ml, injection | Not stated in records |
-| 40397 | Cytarine 500mg Injection (Fresenius Kabi) | Vial of 5 ml, injection | Not stated in records |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 3173 | Arasid 100mg Injection | Vial of 1 Injection | Valid |
+| 12617 | Arasid 1000mg Injection | Vial of 10 ml Injection | Valid |
+| 12826 | Arasid 500mg Injection | Vial of 1 Injection | Valid |
+| 35861 | Cytosar 100mg Injection | Vial of 5 ml Injection | Valid |
+| 39721 | Cytosar 1000mg Injection | Vial of 10 ml Injection | Valid |
+| 40397 | Cytarine 500mg Injection | Vial of 5 ml Injection | Valid |
+| 41209 | Cytaneon 100mg Injection | Vial of 1 ml Injection | Valid |
+| 41348 | Cytarine 100mg Injection | Vial of 1 ml Injection | Valid |
+| 44035 | Cytalon 500 Injection | Vial of 1 ml Injection | Valid |
+| 44620 | Cytosar 500mg Injection | Vial of 1 Injection | Valid |
+| 45079 | Cytalon 1000 Injection | Vial of 1 ml Injection | Valid |
+| 46966 | Cytaraside 500mg Injection | Vial of 1 Injection | Valid |
+| 47479 | Cytaneon 1000mg Injection | Vial of 10 ml Injection | Valid |
+| 49824 | Cybin PF 100mg Injection | Vial of 1 ml Injection | Valid |
+| 51436 | Cytowel 500mg Injection | Vial of 1 Injection | Valid |
+| 54491 | Cancyt 100mg Injection | Vial of 1 Powder for Injection | Valid |
+| 54671 | Cybin PF 1000mg Injection | Vial of 10 ml Injection | Valid |
+| 56279 | Cancyt 1000mg Injection | Vial of 1 Powder for Injection | Valid |
+| 166675 | Oncotar 100mg Injection | Vial of 1 ml Injection | Valid |
+| 195544 | Remcyta 500mg Injection | Vial of 1 Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 There are 20 valid single-ingredient registrations in total, all injectable forms.
 

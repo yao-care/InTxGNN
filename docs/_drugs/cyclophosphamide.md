@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Cyclophosphamide"
 predicted_indications: ["vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cyclophosphamide: predicted new indication Vertebral anomalies and variable endocrine and T-cell dysfunction (evidence level L5). In India: at least 20 listed products"
 ---
 
@@ -70,15 +70,38 @@ Currently no related literature available.
 
 ## India Market Information
 
-All 20 licences in the local records are valid single-ingredient products, and the list may be partial. The local records carry no approved-indication text. Main products:
+All 20 licences in the local records are valid single-ingredient products, and the list may be partial. The local records carry no approved-indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 39643 | Cycloxan 200mg Injection | vial of 1 Injection | Not recorded |
-| 47544 | Cyphos 1000mg Injection | vial of 1 Injection | Not recorded |
-| 49209 | Cycram 1000mg Injection | vial of 1 Injection | Not recorded |
-| 72341 | Endoxan Tablet | strip of 10 tablets | Not recorded |
-| 175621 | Phosmid 50mg Tablet | strip of 10 tablets | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 2698 | Adcyclo Tablet | Strip of 10 tablets | Valid |
+| 38426 | Cyphos 500mg Injection | Vial of 1 Injection | Valid |
+| 39643 | Cycloxan 200mg Injection | Vial of 1 Injection | Valid |
+| 43467 | Cydoxan 500mg Injection | Vial of 25 ml Injection | Valid |
+| 43712 | CTX-GLS 500mg Injection | Vial of 1 Injection | Valid |
+| 46417 | Chophos 500mg Injection | Vial of 1 Injection | Valid |
+| 47544 | Cyphos 1000mg Injection | Vial of 1 Injection | Valid |
+| 47673 | CTX-GLS 200mg Injection | Vial of 1 Injection | Valid |
+| 49209 | Cycram 1000mg Injection | Vial of 1 Injection | Valid |
+| 52441 | Cycrame 1000mg Injection | Vial of 1 Powder for Injection | Valid |
+| 53659 | Cycram 500mg Injection | Vial of 1 Injection | Valid |
+| 72341 | Endoxan Tablet | Strip of 10 tablets | Valid |
+| 72747 | Endoxan 1000mg Injection | Vial of 20 ml Injection | Valid |
+| 72948 | Endoxan N 500mg Injection | Vial of 1 Injection | Valid |
+| 75025 | Endoxan 200mg Injection | Vial of 1 Injection | Valid |
+| 154873 | Nuphos 1000mg Injection | Vial of 1 Injection | Valid |
+| 156274 | Nuphos 500mg Injection | Vial of 1 Injection | Valid |
+| 164701 | Oncoxan 1000mg Injection | Vial of 1 Injection | Valid |
+| 175621 | Phosmid 50mg Tablet | Strip of 10 tablets | Valid |
+| 177316 | Phosmid 500mg Injection | Vial of 1 Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

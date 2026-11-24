@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 64
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 description: "Apremilast: known uses and market status in India; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -75,27 +75,33 @@ The TxGNN deep-learning model has no candidate indication for Apremilast with a 
 
 ## India Market Information
 
-| Licence | Product | Dosage form | Status |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
 |------|------|------|------|
-| 7841 | Aplex Kit | packet of 13 tablets | Valid |
-| 5405 | Aprotyl Starter Pack Kit | packet of 13 kit | Valid |
-| 819 | Apraize 10 Tablet | strip of 4 tablets | Valid |
-| 9009 | Aplavia 30mg Tablet | strip of 10 tablets | Valid |
-| 429 | Aprezo 10 Tablet | strip of 4 tablets | Valid |
-| 1143 | Alizap 30mg Tablet | strip of 10 tablets | Valid |
-| 3088 | Aprenext 30mg Tablet | strip of 10 tablets | Valid |
-| 1264 | Apxenta 30mg Tablet | strip of 10 tablets | Valid |
-| 176613 | Pdlast Tablet | strip of 10 tablets | Valid |
-| 5135 | Arthlast Tablet | strip of 10 tablets | Valid |
-| 196 | Aprezo 30mg Tablet | strip of 10 tablets | Valid |
-| 185359 | Riasis 30mg Tablet | strip of 10 tablets | Valid |
-| 1059 | Apraize 20 Tablet | strip of 4 tablets | Valid |
-| 9320 | Aprotyl 30mg Tablet | strip of 10 tablets | Valid |
-| 135583 | Mprila Tablet | strip of 10 tablets | Valid |
-| 580 | Aprezo 20 Tablet | strip of 4 tablets | Valid |
-| 3124 | Apxenta 10 Tablet | strip of 10 tablets | Valid |
-| 667 | Apraize 30 Tablet | strip of 10 tablets | Valid |
-| 3748 | Apremist 30mg Tablet | strip of 10 tablets | Valid |
+| 196 | Aprezo 30mg Tablet | Strip of 10 tablets | Valid |
+| 429 | Aprezo 10 Tablet | Strip of 4 tablets | Valid |
+| 580 | Aprezo 20 Tablet | Strip of 4 tablets | Valid |
+| 667 | Apraize 30 Tablet | Strip of 10 tablets | Valid |
+| 819 | Apraize 10 Tablet | Strip of 4 tablets | Valid |
+| 1059 | Apraize 20 Tablet | Strip of 4 tablets | Valid |
+| 1143 | Alizap 30mg Tablet | Strip of 10 tablets | Valid |
+| 1264 | Apxenta 30mg Tablet | Strip of 10 tablets | Valid |
+| 3088 | Aprenext 30mg Tablet | Strip of 10 tablets | Valid |
+| 3124 | Apxenta 10 Tablet | Strip of 10 tablets | Valid |
+| 3748 | Apremist 30mg Tablet | Strip of 10 tablets | Valid |
+| 5135 | Arthlast Tablet | Strip of 10 tablets | Valid |
+| 5405 | Aprotyl Starter Pack Kit | Packet of 13 kit | Valid |
+| 7841 | Aplex Kit | Packet of 13 tablets | Valid |
+| 9009 | Aplavia 30mg Tablet | Strip of 10 tablets | Valid |
+| 9320 | Aprotyl 30mg Tablet | Strip of 10 tablets | Valid |
+| 135583 | Mprila Tablet | Strip of 10 tablets | Valid |
+| 176613 | Pdlast Tablet | Strip of 10 tablets | Valid |
+| 185359 | Riasis 30mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

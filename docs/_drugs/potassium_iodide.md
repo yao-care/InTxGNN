@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 691
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Potassium Iodide: predicted new indication Nasal cavity disease (evidence level L4). Approved use: Allergic rhinitis, vasomotor rhinitis, pharyngitis, common cold…"
 monitor_inn: "Potassium Iodide"
 predicted_indications: ["nasal cavity disease"]
@@ -86,19 +86,27 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 41548 | Catasoft Eye Drop | Bottle of 10 ml eye drop | Not stated |
-| 180123 | Pyonil Gum Paint | Bottle of 15 ml gum paint | Not stated |
-| 35543 | Catax Eye Drop | Bottle of 10 ml eye drop | Not stated |
-| 37727 | Catobar Eye Drop | Bottle of 10 ml eye drop | Not stated |
-| 35844 | Catafly Eye Drop | Bottle of 10 ml eye drop | Not stated |
+<!-- licenses:begin -->
 
-Two more eye drop registrations also exist (Cataclear, 35495; Catadoze, 39559), for 7 in total. All are are currently valid. The marketed forms are ophthalmic and gum paint, and none is a nasal or oral systemic form, so the predicted nasal indication has no route match among current Indian products.
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 35495 | Cataclear Eye Drop | Bottle of 10 ml Eye Drop | Valid |
+| 35543 | Catax Eye Drop | Bottle of 10 ml Eye Drop | Valid |
+| 35844 | Catafly Eye Drop | Bottle of 10 ml Eye Drop | Valid |
+| 37727 | Catobar Eye Drop | Bottle of 10 ml Eye Drop | Valid |
+| 39559 | Catadoze Eye Drop | Bottle of 10 ml Eye Drop | Valid |
+| 41548 | Catasoft Eye Drop | Bottle of 10 ml Eye Drop | Valid |
+| 180123 | Pyonil Gum Paint | Bottle of 15 ml Gum Paint | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
+
+Two more eye drop registrations also exist (Cataclear, 35495; Catadoze, 39559), for 7 in total. All are currently valid. The marketed forms are ophthalmic and gum paint, and none is a nasal or oral systemic form, so the predicted nasal indication has no route match among current Indian products.
 
 <!-- review:begin in-lic-20261106-potassium_iodide-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "All are single-ingredient products and all are currently valid." Removed: the number or status of product records stated here did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). The data list 7 product records for this drug, 7 current; the Quick Overview and the table under India Market Information show the current figures. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+> **Review correction (2026-11-24)**: Originally stated: "All are single-ingredient products and all are currently valid." Removed: the number or status of product records stated here did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). The data list 7 product records for this drug, 7 current; the Quick Overview and the table under India Market Information show the current figures. Revised 2026-11-24: the hard-coded number of records and the wording about the old table were dropped; the Quick Overview and the product table under India Market Information show the current figures. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
 
 <!-- review:end in-lic-20261106-potassium_iodide-1 -->
 
@@ -137,7 +145,7 @@ Below is the review log for this page: statements checked against official India
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-06 | Removed: "single-ingredient products and all" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-24 | Removed: "single-ingredient products and all" | Corrected (revised 2026-11-24; earlier version kept in the record) | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 | 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Potassium Iodide (Saturated) (potassium iodide) prescribing information, Emerald Therapeutics, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0bdf305f-ed4a-49d1-8901-edaed8d67850) |
 
 <!-- review:end log -->

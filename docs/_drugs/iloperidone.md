@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 424
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Iloperidone"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "congenital disorder of glycosylation with defective fucosylation", "hydranencephaly (disease)", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia 26, X-linked, female-limited", "syndromic myopia", "atypical glycine encephalopathy", "myopia X-linked"]
 description: "Iloperidone: predicted new indication Retinal dystrophy with or without extraocular anomalies (evidence level L5). In India: at least 20 listed products"
@@ -84,13 +84,36 @@ Currently no related clinical trials are registered in the data compiled for thi
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Registration No. 113558 | Ilofast 6mg Tablet (Zydus Cadila) | Strip of 30 tablets | Not stated |
-| Registration No. 112404 | Ilofast 8mg Tablet (Zydus Cadila) | Strip of 30 tablets | Not stated |
-| Registration No. 113599 | Ilobril 8mg Tablet (Torrent Pharmaceuticals Ltd) | Strip of 10 tablets | Not stated |
-| Registration No. 112311 | Iiosure 6mg Tablet (Sun Pharmaceutical Industries Ltd) | Strip of 10 tablets | Not stated |
-| Registration No. 112895 | Ilopride 6mg Tablet (Intas Pharmaceuticals Ltd) | Strip of 10 tablets | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 55703 | Calmperidone 6mg Tablet | Strip of 10 tablets | Valid |
+| 108403 | Ilosure 4 Tablet | Strip of 10 tablets | Valid |
+| 108997 | Ilosure 6mg Tablet | Strip of 10 tablets | Valid |
+| 109433 | Ilosure 2 Tablet | Strip of 10 tablets | Valid |
+| 110870 | Ilopride 4mg Tablet | Strip of 10 tablets | Valid |
+| 111335 | Ilofast 1mg Tablet | Strip of 2 tablets | Valid |
+| 111622 | Ilovator 2 Tablet | Strip of 10 tablets | Valid |
+| 111820 | Iiosure 2mg Tablet | Strip of 10 tablets | Valid |
+| 112039 | Ilopride 1mg Tablet | Strip of 10 tablets | Valid |
+| 112311 | Iiosure 6mg Tablet | Strip of 10 tablets | Valid |
+| 112351 | Ilofast 12mg Tablet | Strip of 30 tablets | Valid |
+| 112404 | Ilofast 8mg Tablet | Strip of 30 tablets | Valid |
+| 112895 | Ilopride 6mg Tablet | Strip of 10 tablets | Valid |
+| 112987 | Ilobril 2mg Tablet | Strip of 2 tablets | Valid |
+| 113098 | Ilovator 1mg Tablet | Strip of 10 tablets | Valid |
+| 113103 | Ilofast 10mg Tablet | Strip of 30 tablets | Valid |
+| 113165 | Ilofast 4mg Tablet | Strip of 2 tablets | Valid |
+| 113443 | Ilobril 4mg Tablet | Strip of 2 tablets | Valid |
+| 113558 | Ilofast 6mg Tablet | Strip of 30 tablets | Valid |
+| 113599 | Ilobril 8mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 There are 20 valid single-ingredient registrations in total. All are oral tablets, and none has approved indication text on record.
 

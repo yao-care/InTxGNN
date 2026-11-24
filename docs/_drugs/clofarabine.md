@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 8
 monitor_inn: "Clofarabine"
 predicted_indications: ["myeloid leukemia", "ganglioneuroblastoma (disease)", "neuroblastoma", "vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm", "blast phase chronic myelogenous leukemia, BCR-ABL1 positive", "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Clofarabine: predicted new indication myeloid leukemia (evidence level L1). In India: 2 listed products (2 not discontinued)"
 ---
 
@@ -96,10 +96,16 @@ The table lists the 10 most relevant of the 20 publications compiled. Most are r
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 87595 | Farabine 20mg Injection | vial of 1 Injection | Not recorded |
-| 43978 | Cfara Injection | vial of 20 ml Injection | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 43978 | Cfara Injection | Vial of 20 ml Injection | Valid |
+| 87595 | Farabine 20mg Injection | Vial of 1 Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

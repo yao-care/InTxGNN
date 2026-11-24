@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 657
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Perampanel"
 predicted_indications: ["beta-ketothiolase deficiency"]
 description: "Perampanel: predicted new indication Beta-ketothiolase deficiency (evidence level L5). In India: at least 20 listed products"
@@ -90,13 +90,36 @@ For status epilepticus, two systematic reviews ([35151187](https://pubmed.ncbi.n
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 84557 | Fycompa 4mg Tablet (Eisai) | Packet of 28 tablets | Not specified |
-| 84771 | Fycompa 4mg Tablet (Eisai) | Strip of 14 tablets | Not specified |
-| 85147 | Fycompa 6mg Tablet (Eisai) | Strip of 14 tablets | Not specified |
-| 715 | Ampanel 4 Tablet (Sun Pharma) | Strip of 10 tablets | Not specified |
-| 174795 | Perepsy 4 Tablet (Cipla) | Strip of 7 tablets | Not specified |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 715 | Ampanel 4 Tablet | Strip of 10 tablets | Valid |
+| 1888 | Ampanel 6 Tablet | Strip of 10 tablets | Valid |
+| 77144 | Exinol 4 Tablet | Strip of 15 tablets | Valid |
+| 84557 | Fycompa 4mg Tablet | Packet of 28 tablets | Valid |
+| 84771 | Fycompa 4mg Tablet | Strip of 14 tablets | Valid |
+| 84847 | Fycompa 2mg Tablet | Strip of 7 tablets | Valid |
+| 85147 | Fycompa 6mg Tablet | Strip of 14 tablets | Valid |
+| 85700 | Fycompa 6mg Tablet | Packet of 28 tablets | Valid |
+| 105263 | Hetram 4mg Tablet | Strip of 10 tablets | Valid |
+| 105902 | Hetram 6mg Tablet | Strip of 10 tablets | Valid |
+| 174234 | Perampa 2mg Tablet | Strip of 10 tablets | Valid |
+| 174406 | Perampa 4mg Tablet | Strip of 10 tablets | Valid |
+| 174763 | Perampil 4mg Tablet | Strip of 15 tablets | Valid |
+| 174795 | Perepsy 4 Tablet | Strip of 7 tablets | Valid |
+| 174840 | Perampil 2mg Tablet | Strip of 7 tablets | Valid |
+| 175997 | Perampil 6mg Tablet | Strip of 15 tablets | Valid |
+| 176080 | Percompa 4mg Tablet | Strip of 10 tablets | Valid |
+| 178265 | Percompa 6mg Tablet | Strip of 10 tablets | Valid |
+| 215561 | Torpanel 2 Tablet | Strip of 10 tablets | Valid |
+| 216856 | Torpanel 6 Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 There are 20 valid single-ingredient registrations in total, from manufacturers including Eisai, Sun Pharma, Cipla, Alkem, Torrent, Intas, Hetero and Linux Laboratories.
 

@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 707
 evidence_level: L2
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Propofol: predicted new indication Migraine disorder (evidence level L2). Approved use: Not stated in the India licence data compiled for this report (propof…"
 monitor_inn: "Propofol"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "Prinzmetal angina", "nephrogenic syndrome of inappropriate antidiuresis", "Tourette syndrome"]
@@ -86,13 +86,36 @@ Other predicted indications are much weaker. Migraine with brainstem aura has on
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Registration No. 136438 | Mct Rof Injection | Vial of 20 ml injection | Not stated |
-| Registration No. 219642 | Troypofol Injection | Vial of 50 ml injection | Not stated |
-| Registration No. 174042 | Propofol 1% Infusion | Bottle of 50 ml infusion | Not stated |
-| Registration No. 176433 | Profol Spiva 10mg Injection | Vial of 50 ml injection | Not stated |
-| Registration No. 194798 | Rapifol 10mg Infusion | Bottle of 50 ml infusion | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 49327 | Critifol Injection | Vial of 10 ml Injection | Valid |
+| 85645 | Fresofol 1% Injection | Vial of 20 ml Injection | Valid |
+| 104743 | Hyprovan 200 Injection | Vial of 20 ml Injection | Valid |
+| 105270 | Hypro Melt 200mg Injection | Vial of 20 ml Injection | Valid |
+| 109227 | Indifol 100 Injection | Vial of 10 ml Injection | Valid |
+| 109648 | Indifol 200 Injection | Vial of 20 ml Injection | Valid |
+| 136438 | Mct Rof Injection | Vial of 20 ml Injection | Valid |
+| 151095 | Neorof 1% Injection | Vial of 20 ml Injection | Valid |
+| 153272 | Neorof 1% Injection | Vial of 10 ml Injection | Valid |
+| 174042 | Propofol 1% Infusion | Bottle of 50 ml Infusion | Valid |
+| 176433 | Profol Spiva 10mg Injection | Vial of 50 ml Injection | Valid |
+| 177108 | Profol 1% Infusion | Bottle of 50 ml Infusion | Valid |
+| 189216 | Rofol 1% Injection | Vial of 20 ml Injection | Valid |
+| 190070 | Rapifol 10mg Injection | Vial of 20 ml Injection | Valid |
+| 194798 | Rapifol 10mg Infusion | Bottle of 50 ml Infusion | Valid |
+| 216862 | Troypofol 10mg Injection | Vial of 20 ml Injection | Valid |
+| 218596 | Troypofol 10mg Injection | Vial of 10 ml Injection | Valid |
+| 219036 | Troypofol-Mct 10mg Injection | Vial of 20 ml Injection | Valid |
+| 219642 | Troypofol Injection | Vial of 50 ml Injection | Valid |
+| 247726 | Zyfol 10mg Injection | Vial of 20 ml Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 These are 5 of 20 valid single-ingredient registrations; all are injectable or infusion forms.
 

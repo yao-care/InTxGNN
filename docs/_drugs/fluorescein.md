@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 364
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Fluorescein: predicted new indication Prinzmetal angina (evidence level L5). Approved use: Not stated in the registration data compiled for this report"
 monitor_inn: "Fluorescein"
 predicted_indications: ["Prinzmetal angina", "antithrombin deficiency type 2", "rheumatoid arthritis", "factor 5 excess with spontaneous thrombosis", "hemoglobinopathy", "heparin cofactor 2 deficiency", "thrombophilia", "hyperthyroidism", "partial deletion of the short arm of chromosome 16", "beta-thalassemia with other manifestations"]
@@ -73,11 +73,17 @@ No publications directly support fluorescein as a treatment for Prinzmetal angin
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 187812 | Retigraph 20% Injection | Vial of 3 ml injection | Not specified |
-| 89133 | Fluore Stain 0.45mg Strip | Packet of 100 ophthalmic solution | Not specified |
-| 88377 | Floure Stain Strip | Packet of 100 ophthalmic solution | Not specified |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 88377 | Floure Stain Strip | Packet of 100 Ophthalmic Solution | Valid |
+| 89133 | Fluore Stain 0.45mg Strip | Packet of 100 Ophthalmic Solution | Valid |
+| 187812 | Retigraph 20% Injection | Vial of 3 ml Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Minoxidil"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "pseudopelade of Brocq", "pulmonary arterial hypertension", "pulmonary arteriovenous malformation (disease)", "pulmonary arterial hypertension associated with congenital heart disease", "primary hereditary glaucoma", "pulmonary arterial hypertension associated with schistosomiasis", "pulmonary arterial hypertension associated with connective tissue disease"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Minoxidil: predicted new indication Hypotrichosis simplex of the scalp (evidence level L5). Approved use: Hypertensive disorder, hypertension and alopecia"
 ---
 
@@ -77,15 +77,38 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-The licence records compiled for this report contain no approved-indication text. The list below shows 5 of at least 20 valid single-ingredient licences, and the full list may be partial.
+The licence records compiled for this report contain no approved-indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 135535 | Mintop Forte 2 Hair Restore Formula | Bottle of 60 ml solution | Not stated in the records |
-| 104773 | Hairz 5 Solution | Bottle of 60 ml solution | Not stated in the records |
-| 126031 | Lonit 10mg Tablet | Strip of 10 tablets | Not stated in the records |
-| 200268 | Staha 5mg Tablet | Strip of 10 tablets | Not stated in the records |
-| 134106 | Minogain 2.5mg Tablet | Bottle of 30 tablets | Not stated in the records |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 15883 | Andromin 2% Solution | Bottle of 100 ml Solution | Valid |
+| 44639 | Ciaga Mincize 5% Solution | Bottle of 60 ml Solution | Valid |
+| 95745 | Grewit 2% Solution | Bottle of 60 ml Solution | Valid |
+| 97423 | Grewit 10% Solution | Bottle of 60 ml Solution | Valid |
+| 104773 | Hairz 5 Solution | Bottle of 60 ml Solution | Valid |
+| 105623 | Hairex 10% Lotion | Bottle of 60 ml Lotion | Valid |
+| 122032 | Lonitab 10 Tablet | Strip of 10 tablets | Valid |
+| 123101 | Lonit 5mg Tablet | Strip of 10 tablets | Valid |
+| 126031 | Lonit 10mg Tablet | Strip of 10 tablets | Valid |
+| 133822 | Morr 10% Solution | Bottle of 60 ml Solution | Valid |
+| 133879 | Morr 2% Solution | Bottle of 60 ml Solution | Valid |
+| 133975 | Morr 7.5% Solution | Bottle of 60 ml Solution | Valid |
+| 134106 | Minogain 2.5mg Tablet | Bottle of 30 tablets | Valid |
+| 135535 | Mintop Forte 2 Hair Restore Formula | Bottle of 60 ml Solution | Valid |
+| 136442 | Mandil Solution | Bottle of 60 ml Solution | Valid |
+| 137688 | Minofast Lotion | Bottle of 60 ml Lotion | Valid |
+| 177694 | Pilomin 2 Topical Solution | Bottle of 60 ml Solution | Valid |
+| 189469 | Regrow 2% Solution | Bottle of 60 ml Solution | Valid |
+| 200268 | Staha 5mg Tablet | Strip of 10 tablets | Valid |
+| 216554 | Topgain 2% Solution | Bottle of 60 ml Solution | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 Both topical (solution, lotion) and oral tablet forms are licensed.
 

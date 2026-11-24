@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 782
 evidence_level: L3
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Sofosbuvir: predicted new indication Hepatitis B virus infection (evidence level L3). Approved use: Chronic hepatitis C virus infection"
 monitor_inn: "Sofosbuvir"
 predicted_indications: ["hepatitis B virus infection", "hepatitis E virus infection", "hepatitis, viral, animal", "hepatitis A virus infection", "Omsk hemorrhagic fever", "chronic hepatitis B virus infection", "Kyasanur forest disease", "HIV infectious disease"]
@@ -104,15 +104,38 @@ Other predicted indications in the analysis, such as hepatitis E, are mechanisti
 
 ## India Market Information
 
-Sofosbuvir has 20 valid single-ingredient registrations in India. Approved-indication text is not recorded for these licences. Five main registrations:
+Sofosbuvir has 20 valid single-ingredient registrations in India. Approved-indication text is not recorded for these licences.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 200970 | Sovaldi 400mg Tablet (Mylan) | Bottle of 28 tablets | Not recorded |
-| 202464 | Sofocure Tablet (Emcure) | Strip of 10 tablets | Not recorded |
-| 103807 | Hepcvel Tablet (Cipla) | Bottle of 28 tablets | Not recorded |
-| 104281 | Hepcinat Tablet (Natco) | Strip of 28 tablets | Not recorded |
-| 185663 | Resof 400mg Tablet (Dr Reddy's) | Strip of 28 tablets | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 46322 | Cimivir 400mg Tablet | Strip of 28 tablets | Valid |
+| 103807 | Hepcvel Tablet | Bottle of 28 tablets | Valid |
+| 104088 | Hepcvir 400mg Tablet | Strip of 28 tablets | Valid |
+| 104281 | Hepcinat Tablet | Strip of 28 tablets | Valid |
+| 105369 | Hepcitaj-SV 400mg/100mg Tablet | Strip of 28 tablets | Valid |
+| 158387 | Novisof 400mg Tablet | Strip of 28 tablets | Valid |
+| 184750 | Resof Total 400mg/100mg Tablet | Bottle of 28 tablets | Valid |
+| 185663 | Resof 400mg Tablet | Strip of 28 tablets | Valid |
+| 200813 | Sovihep 400mg Tablet | Strip of 28 tablets | Valid |
+| 200850 | Sofovir 400mg Tablet | Strip of 7 tablets | Valid |
+| 200970 | Sovaldi 400mg Tablet | Bottle of 28 tablets | Valid |
+| 201130 | Sofocure- v Tablet | Strip of 28 tablets | Valid |
+| 201584 | Sofcivir Tablet | Bottle of 28 tablets | Valid |
+| 202464 | Sofocure Tablet | Strip of 10 tablets | Valid |
+| 209429 | Sofocruz 400mg Tablet | Strip of 28 tablets | Valid |
+| 233460 | Velpanat Tablet | Bottle of 28 tablets | Valid |
+| 233562 | Velasof Tablet | Bottle of 28 tablets | Valid |
+| 234235 | Velakast Tablet | Bottle of 28 tablets | Valid |
+| 235172 | Velpacruz S 400mg/100mg Tablet | Bottle of 28 tablets | Valid |
+| 238375 | Virso Tablet | Bottle of 28 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 All dosage forms are oral tablets.
 

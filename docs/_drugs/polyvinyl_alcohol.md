@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 686
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "Polyvinyl alcohol"
 predicted_indications: ["congenital ichthyosiform erythroderma", "self-healing collodion baby", "lamellar ichthyosis", "bathing suit ichthyosis"]
 description: "Polyvinyl Alcohol: predicted new indication Congenital ichthyosiform erythroderma (evidence level L5). In India: 16 listed products (16 not discontinued)"
@@ -75,21 +75,38 @@ For self-healing collodion baby, the condition resolves on its own, and the safe
 
 ## India Market Information
 
-All 16 licences are for valid products, with none cancelled. The five main ones are listed below. Approved indication text is not recorded in the data compiled for this report.
+All licences are for valid products, with none cancelled. Approved indication text is not recorded in the data compiled for this report.
 
 <!-- review:begin in-lic-20261106-polyvinyl_alcohol-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "All 16 licences are for single-ingredient, valid products, with none cancelled." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+> **Review correction (2026-11-24)**: Originally stated: "All 16 licences are for single-ingredient, valid products, with none cancelled." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Revised 2026-11-24: the hard-coded number of records and the wording about the old table were dropped; the Quick Overview and the product table under India Market Information show the current figures. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
 
 <!-- review:end in-lic-20261106-polyvinyl_alcohol-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 208557 | Stemoist Eye Drop | Bottle of 10 ml eye drop | Not recorded |
-| 218938 | T Plus Eye Drop | Bottle of 5 ml eye drop | Not recorded |
-| 105531 | Hypotears 1%/1% Eye Drop | Packet of 10 ml eye drop | Not recorded |
-| 123568 | Lentisol Eye Drops | Packet of 10 ml ophthalmic solution | Not recorded |
-| 7538 | Aurolube Eye Drop | Bottle of 5 ml eye drop | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 7538 | Aurolube Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 10324 | Adle Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 77932 | Eyedrip Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 81467 | Erisol Eye Drop | Packet of 10 ml Eye Drop | Valid |
+| 90205 | Font Eye Drop | Packet of 10 ml Eye Drop | Valid |
+| 105531 | Hypotears 1%/1% Eye Drop | Packet of 10 ml Eye Drop | Valid |
+| 121876 | Lube Eye Drop | Bottle of 10 ml Eye Drop | Valid |
+| 123568 | Lentisol Eye Drops | Packet of 10 ml Ophthalmic Solution | Valid |
+| 126242 | Lubiview Eye Drop | Bottle of 10 ml Eye Drop | Valid |
+| 164360 | Ocuglow Eye Drop | Bottle of 10 ml Eye Drop | Valid |
+| 169782 | Opth P Eye Drop | Bottle of 10 ml Eye Drop | Valid |
+| 208557 | Stemoist Eye Drop | Bottle of 10 ml Eye Drop | Valid |
+| 218790 | Tear Aid Eye Drop | Bottle of 10 ml Eye Drop | Valid |
+| 218938 | T Plus Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 221860 | Tearpac Eye Drop | Bottle of 10 ml Eye Drop | Valid |
+| 224012 | Tearsaid Eye Drop | Bottle of 10 ml Eye Drop | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 All marketed forms are ophthalmic. No topical skin formulation is registered, so the proposed dermatological use would need a new formulation and route.
 
@@ -128,7 +145,7 @@ Below is the review log for this page: statements checked against official India
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-24 | Removed: "single-ingredient" | Corrected (revised 2026-11-24; earlier version kept in the record) | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 

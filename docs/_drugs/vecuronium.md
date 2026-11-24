@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 885
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Vecuronium: predicted new indication insomnia (disease) (evidence level L5). Approved use: Not stated in the licence records (approved indication text is empty)"
 monitor_inn: "Vecuronium"
 predicted_indications: ["insomnia (disease)", "irritable bowel syndrome"]
@@ -78,15 +78,38 @@ Other top-ranked predictions show the same pattern. These include irritable bowe
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 240575 | Verbo 4mg Injection | Vial of 1 injection | Not stated |
-| 118323 | Kabivec 4mg Injection | Vial of 2 ml injection | Not stated |
-| 202741 | Samvec 4mg Injection | Vial of 2 ml injection | Not stated |
-| 235167 | Vecuron 10mg Injection | Vial of 10 ml injection | Not stated |
-| 236872 | Vecurofix 10 Injection | Vial of 1 injection | Not stated |
+<!-- licenses:begin -->
 
-There are 20 valid single-ingredient registrations in total, all injectable. Only the first five are listed here.
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 30516 | Brufage 10mg Injection | Vial of 1 ml Injection | Valid |
+| 49186 | Cefronium 10 Injection | Vial of 1 Injection | Valid |
+| 89032 | Flexivec 10mg Injection | Vial of 10 ml Injection | Valid |
+| 118323 | Kabivec 4mg Injection | Vial of 2 ml Injection | Valid |
+| 129231 | Lyvec 10mg Injection | Vial of 1 Injection | Valid |
+| 150853 | Neovec 4mg Injection | Vial of 5 ml Injection | Valid |
+| 151167 | Neovec 10mg Injection | Vial of 10 ml Injection | Valid |
+| 202741 | Samvec 4mg Injection | Vial of 2 ml Injection | Valid |
+| 208781 | Supervac 4mg Injection | Vial of 2 ml Injection | Valid |
+| 209573 | Supervac 10mg Injection | Vial of 10 ml Injection | Valid |
+| 224350 | Troyvec 10mg Injection | Vial of 5 ml Injection | Valid |
+| 235167 | Vecuron 10mg Injection | Vial of 10 ml Injection | Valid |
+| 235728 | Vecurofix 4 Injection | Vial of 1 Injection | Valid |
+| 236872 | Vecurofix 10 Injection | Vial of 1 Injection | Valid |
+| 237469 | Veroni 10mg Injection | Vial of 5 ml Injection | Valid |
+| 237616 | Vecubro 4mg Injection | Vial of 1 Injection | Valid |
+| 237825 | Verunium 4mg Injection | Vial of 2 ml Injection | Valid |
+| 239897 | Vercurex 4mg Injection | Vial of 1 Powder for Injection | Valid |
+| 239954 | Verbo 10mg Injection | Vial of 1 Injection | Valid |
+| 240575 | Verbo 4mg Injection | Vial of 1 Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
+
+There are 20 valid single-ingredient registrations in total, all injectable.
 
 ---
 

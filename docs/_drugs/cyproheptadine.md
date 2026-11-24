@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Cyproheptadine"
 predicted_indications: ["nasal cavity disease"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cyproheptadine: predicted new indication nasal cavity disease (evidence level L5). In India: at least 20 listed products"
 ---
 
@@ -73,13 +73,36 @@ Currently no related literature available.
 
 The drug is marketed in India. The data compiled for this report show 20 valid single-ingredient licences and no cancelled ones; this list may be partial. No approved-indication text is recorded for these licences. Dosage forms include syrup, tablets, drops and oral suspension.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 41285 | Ceron Syrup | Bottle of 200 ml syrup | Not recorded |
-| 34969 | Colactin Syrup | Bottle of 200 ml syrup | Not recorded |
-| 118282 | Kardine Syrup | Bottle of 200 ml syrup | Not recorded |
-| 57658 | Cypnid 4mg Tablet | Strip of 10 tablets | Not recorded |
-| 105795 | Hysin 1.5 mg/55 mg Drop | Packet of 30 ml drop | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 3192 | Apicare Syrup | Bottle of 200 ml Syrup | Valid |
+| 16814 | Apiked Syrup | Bottle of 200 ml Syrup | Valid |
+| 34969 | Colactin Syrup | Bottle of 200 ml Syrup | Valid |
+| 41129 | Cymed Syrup | Bottle of 200 ml Syrup | Valid |
+| 41285 | Ceron Syrup | Bottle of 200 ml Syrup | Valid |
+| 44998 | Cypfed Syrup | Bottle of 200 ml Syrup | Valid |
+| 49208 | C-Tiss Syrup | Bottle of 200 ml Syrup | Valid |
+| 49294 | Cyptogood Syrup | Bottle of 200 ml Syrup | Valid |
+| 50425 | Cypjem Syrup | Bottle of 200 ml Syrup | Valid |
+| 57056 | Cyprigen Tablet | Strip of 10 tablets | Valid |
+| 57658 | Cypnid 4mg Tablet | Strip of 10 tablets | Valid |
+| 105795 | Hysin 1.5 mg/55 mg Drop | Packet of 30 ml Drop | Valid |
+| 106367 | Heptazoom T Syrup | Bottle of 200 ml Syrup | Valid |
+| 118282 | Kardine Syrup | Bottle of 200 ml Syrup | Valid |
+| 164497 | Osoliv Syrup | Bottle of 200 ml Syrup | Valid |
+| 167594 | Ocypo T Syrup | Bottle of 200 ml Syrup | Valid |
+| 202906 | Siocyp Syrup | Bottle of 200 ml Syrup | Valid |
+| 223986 | Tsecyp Syrup | Bottle of 200 ml Syrup | Valid |
+| 225110 | Triko Cyp Oral Suspension | Bottle of 200 ml Oral Suspension | Valid |
+| 251226 | Zatrotoz Syrup | Bottle of 200 ml Syrup | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

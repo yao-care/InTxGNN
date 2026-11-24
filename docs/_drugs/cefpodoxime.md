@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "cefpodoxime"
 predicted_indications: ["osteoarthritis", "rheumatoid arthritis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cefpodoxime: predicted new indication Osteoarthritis (evidence level L5). Approved use: Not stated in the licence records compiled for this report"
 ---
 
@@ -80,15 +80,38 @@ Currently no related literature available.
 
 ## India Market Information
 
-At least 20 single-ingredient licences are recorded and all are valid. This list may be partial. The licence records contain no approved-indication text. The five main licences are shown below.
+At least 20 single-ingredient licences are recorded and all are valid. This list may be partial. The licence records contain no approved-indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 247914 | Zerapod 50mg Dry Syrup | Bottle of 30 ml dry syrup | Not stated in licence record |
-| 119398 | Kepdox 200mg Tablet | Strip of 10 tablets | Not stated in licence record |
-| 202512 | Safepodox Dry Syrup | Bottle of 30 ml dry syrup | Not stated in licence record |
-| 32315 | Bellocef 200mg Tablet | Strip of 10 tablets | Not stated in licence record |
-| 212104 | Safydox 100mg Tablet DT | Strip of 10 dispersible tablets | Not stated in licence record |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 3764 | Astepod 200mg Tablet | Strip of 10 tablets | Valid |
+| 17059 | Apodox 100mg Tablet | Strip of 10 tablets | Valid |
+| 32315 | Bellocef 200mg Tablet | Strip of 10 tablets | Valid |
+| 33885 | Blepod CV 200mg/125mg Tablet | Strip of 6 tablets | Valid |
+| 54801 | Ceforit-O Tablet DT | Strip of 10 tablet dt | Valid |
+| 57826 | Cefonox 50mg Dry Syrup | Bottle of 30 ml Dry Syrup | Valid |
+| 71471 | Divojet CV 200mg/125mg Tablet | Strip of 6 tablets | Valid |
+| 71574 | Docpod 50mg Dry Syrup | Bottle of 30 ml Dry Syrup | Valid |
+| 82716 | Evaxpod CV Dry Syrup | Bottle of 30 ml Dry Syrup | Valid |
+| 101712 | Grandcef 100mg Tablet DT | Strip of 10 tablet dt | Valid |
+| 102069 | Grampod 100mg Tablet | Strip of 10 tablets | Valid |
+| 119398 | Kepdox 200mg Tablet | Strip of 10 tablets | Valid |
+| 157642 | Novopod 100mg Dry Syrup | Bottle of 30 ml Dry Syrup | Valid |
+| 202512 | Safepodox Dry Syrup | Bottle of 30 ml Dry Syrup | Valid |
+| 204015 | Seytri O 200mg Tablet | Strip of 10 tablets | Valid |
+| 208343 | Spinxo 100mg Tablet DT | Strip of 10 tablet dt | Valid |
+| 212104 | Safydox 100mg Tablet DT | Strip of 10 tablet dt | Valid |
+| 213897 | Serchpod 200 Tablet DT | Strip of 10 tablet dt | Valid |
+| 229113 | Topod CV 200mg/125mg Tablet | Strip of 6 tablets | Valid |
+| 247914 | Zerapod 50mg Dry Syrup | Bottle of 30 ml Dry Syrup | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ---
 

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 430
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "Indacaterol"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "headache disorder", "trigeminal autonomic cephalalgia", "paratenonitis", "calcific tendinitis", "hypertrichosis (disease)", "bronchial disease", "myositis", "anaphylaxis", "Ambras type hypertrichosis universalis congenita"]
 description: "Indacaterol: predicted new indication Nephrogenic syndrome of inappropriate antidiuresis (evidence level L5). In India: 9 listed products (9 not discontinued)"
@@ -106,19 +106,29 @@ The 10 most relevant of the 22 registered trials are listed below, prioritised b
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 107811 | Indamet 160 Capsule | Bottle of 15 capsules | Not stated |
-| 120933 | Loftair Capsule | Strip of 10 capsules | Not stated |
-| 150680 | Nistami Ecopack | Box of 30 capsules | Not stated |
-| 164416 | Onbrez 300mcg Breezhaler | Packet of 1 kit | Not stated |
-| 163214 | Onbrez 150mcg Breezhaler | Packet of 1 kit | Not stated |
+<!-- licenses:begin -->
 
-All 9 registrations are valid licences. The remaining four are Loftair-L Capsule with Inhaler, Indamet 80 Capsule, Indamet 320 Capsule and Sequadra Inhaler.
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 107811 | Indamet 160 Capsule | Bottle of 15 capsules | Valid |
+| 107965 | Indamet 320 Capsule | Bottle of 15 capsules | Valid |
+| 108589 | Indamet 80 Capsule | Bottle of 15 capsules | Valid |
+| 120933 | Loftair Capsule | Strip of 10 capsules | Valid |
+| 121159 | Loftair-L Capsule with Inhaler | Packet of 1 Kit | Valid |
+| 150680 | Nistami Ecopack | Box of 30 capsules | Valid |
+| 163214 | Onbrez 150mcg Breezhaler | Packet of 1 Kit | Valid |
+| 164416 | Onbrez 300mcg Breezhaler | Packet of 1 Kit | Valid |
+| 200125 | Sequadra Inhaler | Box of 1 Kit | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
+
+All registrations are valid licences. The remaining four are Loftair-L Capsule with Inhaler, Indamet 80 Capsule, Indamet 320 Capsule and Sequadra Inhaler.
 
 <!-- review:begin in-lic-20261106-indacaterol-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "All 9 registrations are valid single-ingredient licences." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+> **Review correction (2026-11-24)**: Originally stated: "All 9 registrations are valid single-ingredient licences." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Revised 2026-11-24: the hard-coded number of records and the wording about the old table were dropped; the Quick Overview and the product table under India Market Information show the current figures. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
 
 <!-- review:end in-lic-20261106-indacaterol-1 -->
 
@@ -156,7 +166,7 @@ Below is the review log for this page: statements checked against official India
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-24 | Removed: "single-ingredient" | Corrected (revised 2026-11-24; earlier version kept in the record) | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 56
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Amorolfine: predicted new indication Drug-induced osteoporosis (evidence level L5). Approved use: Fungal nail infection (onychomycosis)…"
 monitor_inn: "Amorolfine"
 predicted_indications: ["drug-induced osteoporosis", "disease of retroperitoneum", "disease of uterine broad ligament", "lumbar spinal stenosis", "abdominal cystic lymphangioma", "abdominal ectopic pregnancy", "celiac trunk compression syndrome", "lymph node palisaded myofibroblastoma", "sacrum chordoma", "urethral disease"]
@@ -71,15 +71,38 @@ Currently no related literature available.
 
 ## India Market Information
 
-Amorolfine is marketed in India with 20 valid single-ingredient licences, all topical creams. Indication text is not recorded in the licences. Five of the main authorisations:
+Amorolfine is marketed in India with 20 valid single-ingredient licences, all topical creams. Indication text is not recorded in the licences.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 1493 | Amortive Cream (Rockmed Pharma) | Cream, 30 g tube | Not recorded |
-| 121166 | Loceryl Cream (Galderma India) | Cream, 10 g tube | Not recorded |
-| 174253 | Pamoria Cream (Cipla) | Cream, 30 g tube | Not recorded |
-| 84441 | Fintop-AF Cream (Glenmark) | Cream, 30 g tube | Not recorded |
-| 3966 | Amfocin Cream (Ajanta Pharma) | Cream, 50 g tube | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 245 | Amrolstar Cream | Tube of 30 gm Cream | Valid |
+| 902 | Amrfy 0.25% Cream | Tube of 30 gm Cream | Valid |
+| 953 | Amorfine Cream | Tube of 30 gm Cream | Valid |
+| 1317 | Amrosys Cream | Tube of 15 gm Cream | Valid |
+| 1333 | Amoron Cream | Tube of 30 gm Cream | Valid |
+| 1369 | Amrolstar Cream | Tube of 10 gm Cream | Valid |
+| 1381 | Amrolstar Cream | Tube of 50 gm Cream | Valid |
+| 1450 | Alimnator Cream | Tube of 60 gm Cream | Valid |
+| 1493 | Amortive Cream | Tube of 30 gm Cream | Valid |
+| 2127 | Amroltop 0.25% Cream | Tube of 30 gm Cream | Valid |
+| 2436 | Arolson Cream | Tube of 30 gm Cream | Valid |
+| 3966 | Amfocin Cream | Tube of 50 gm Cream | Valid |
+| 4648 | Amortive Cream | Tube of 10 gm Cream | Valid |
+| 11666 | Amrobest Cream | Tube of 15 gm Cream | Valid |
+| 42273 | Candiwel AF 0.25% Cream | Tube of 20 gm Cream | Valid |
+| 84441 | Fintop-AF Cream | Tube of 30 gm Cream | Valid |
+| 121166 | Loceryl Cream | Tube of 10 gm Cream | Valid |
+| 141766 | Mycoban-A Cream | Tube of 15 gm Cream | Valid |
+| 174253 | Pamoria Cream | Tube of 30 gm Cream | Valid |
+| 186525 | Rolofine Cream | Tube of 30 gm Cream | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

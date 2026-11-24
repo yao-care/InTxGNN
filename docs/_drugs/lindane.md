@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 493
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Lindane"
 predicted_indications: ["cervical neuroblastoma", "benign neoplasm of tongue", "epiglottis neoplasm", "odontogenic cyst", "pre-malignant neoplasm", "benign neoplasm of hypopharynx", "schwannoma of jugular foramen", "cystic neoplasm", "benign neoplasm of buccal mucosa", "inner ear neoplasm"]
 description: "Lindane: predicted new indication Cervical neuroblastoma (evidence level L5). In India: at least 20 listed products"
@@ -63,15 +63,44 @@ Lindane also has well-documented neurotoxicity (seizure risk) and carcinogenicit
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 202944 | Scabex S Lotion | Lotion, 100 ml bottle | Not stated in the data |
-| 165108 | Olscab C Lotion | Lotion, 100 ml bottle | Not stated in the data |
-| 207147 | Scabac Lotion | Lotion, 100 ml bottle | Not stated in the data |
-| 131284 | Linscab Lotion | Lotion, 100 ml bottle | Not stated in the data |
-| 96831 | Gamascab 1% Cream | Cream, 15 g tube | Not stated in the data |
+<!-- licenses:begin -->
 
-All 20 registrations are valid single-ingredient products (lotions, creams, solution, liquid and soaps); the table shows the first five.
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 60823 | Descab Lotion | Bottle of 450 ml Lotion | Valid |
+| 79842 | Eskino Liquid | Bottle of 100 ml Liquid | Valid |
+| 95984 | G Scab Lotion | Bottle of 100 ml Lotion | Valid |
+| 96831 | Gamascab 1% Cream | Tube of 15 gm Cream | Valid |
+| 97468 | Gama Soap | Packet of 75 gm Soap | Valid |
+| 99063 | Gamaderm Forte Lotion | Bottle of 100 ml Lotion | Valid |
+| 99359 | Gamin Lotion | Bottle of 100 ml Lotion | Valid |
+| 99610 | Gamabez Soap | Packet of 75 gm Soap | Valid |
+| 104666 | Hexab Lotion | Bottle of 100 ml Lotion | Valid |
+| 125165 | Lupiscab Solution | Bottle of 100 ml Solution | Valid |
+| 131284 | Linscab Lotion | Bottle of 100 ml Lotion | Valid |
+| 155587 | Nit N Mite 1% Cream | Tube of 25 gm Cream | Valid |
+| 165108 | Olscab C Lotion | Bottle of 100 ml Lotion | Valid |
+| 200260 | Scabiped Lotion | Bottle of 500 ml Lotion | Valid |
+| 200828 | Scaboma Soap | Packet of 75 gm Soap | Valid |
+| 201014 | Scabinil Lotion | Bottle of 100 ml Lotion | Valid |
+| 202944 | Scabex S Lotion | Bottle of 100 ml Lotion | Valid |
+| 204447 | Scabcare Lotion | Bottle of 200 ml Lotion | Valid |
+| 207147 | Scabac Lotion | Bottle of 100 ml Lotion | Valid |
+| 230581 | Ultrasone Cream | Tube of 10 gm Cream | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
+
+All 20 registrations are valid products (lotions, creams, solution, liquid and soaps).
+
+<!-- review:begin in-lic-20261124-lindane-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "All 20 registrations are valid single-ingredient products (lotions, creams, solution, liquid and soaps)." Removed: it described the products as single-ingredient (or as having no combination products), which does not match the Indian medicine data (the Indian Medicine Dataset): some of the recorded products are fixed-dose combinations. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124-lindane-1 -->
 
 ## Safety Considerations
 
@@ -98,11 +127,12 @@ The prediction is supported only by a model score (L5), with no clinical trials,
 
 ## Review Log
 
-Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL15891 (lindane): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL15891) |
+| 2026-11-24 | Removed: the single-ingredient claim | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 

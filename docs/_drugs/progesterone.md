@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 705
 evidence_level: L4
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Progesterone"
 predicted_indications: ["breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "blunt duct adenosis of breast", "apocrine adenosis of breast"]
 description: "Progesterone: predicted new indication Breast fibrocystic disease (evidence level L4). In India: at least 20 listed products"
@@ -83,15 +83,38 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-Progesterone is marketed in India. All 20 licence records in the data compiled for this report are valid, and the list may be partial. The licence records do not include approved indication text. The table shows five of them.
+Progesterone is marketed in India. All 20 licence records in the data compiled for this report are valid, and the list may be partial. The licence records do not include approved indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 95693 | Gestmate 200mg Capsule | Strip of 10 capsules | Not stated in the records |
-| 100412 | Gestwel 200 Soft Gelatin Capsule | Strip of 10 soft gelatin capsules | Not stated in the records |
-| 198621 | Rimgest 100 Injection | Ampoule of 2 ml injection | Not stated in the records |
-| 72493 | Endogest 300 SR Tablet (Cipla) | Strip of 10 SR tablets | Not stated in the records |
-| 182704 | Preservgest 200 Soft Gelatin Capsule (Abbott) | Strip of 15 soft gelatin capsules | Not stated in the records |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 23359 | Abogust 100mg Injection | Vial of 1 Injection | Valid |
+| 72493 | Endogest 300 SR Tablet | Strip of 10 tablet sr | Valid |
+| 95693 | Gestmate 200mg Capsule | Strip of 10 capsules | Valid |
+| 98872 | Gynarone 400mg Capsule | Strip of 10 capsules | Valid |
+| 100412 | Gestwel 200 Soft Gelatin Capsule | Strip of 10 soft gelatin capsules | Valid |
+| 105879 | Hald 400 Soft Gelatin Capsule | Strip of 10 soft gelatin capsules | Valid |
+| 117957 | K Preg 200mg Capsule | Strip of 10 capsules | Valid |
+| 120662 | Kastgest 100mg Injection | Vial of 1 Injection | Valid |
+| 121774 | LPS SR 300 Tablet | Strip of 10 tablet sr | Valid |
+| 134593 | Microgest 100mg Softgel Capsule | Strip of 10 capsules | Valid |
+| 147856 | Micpro 50mg Injection | Vial of 1 ml Injection | Valid |
+| 156760 | Natpreg 200mg Capsule | Strip of 10 capsules | Valid |
+| 159261 | Natron 100mg Injection | Vial of 2 ml Injection | Valid |
+| 180696 | Prog-N Injection | Box of 1 Injection | Valid |
+| 182704 | Preservgest 200 Soft Gelatin Capsule | Strip of 15 soft gelatin capsules | Valid |
+| 191510 | RP Gest 200mg Injection | Vial of 1 Injection | Valid |
+| 198621 | Rimgest 100 Injection | Ampoule of 2 ml Injection | Valid |
+| 198704 | Rontis 100mg Capsule | Strip of 10 capsules | Valid |
+| 202618 | Safegest Capsule | Strip of 10 capsules | Valid |
+| 237717 | Vingest 200mg Capsule SR | Strip of 10 capsule sr | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

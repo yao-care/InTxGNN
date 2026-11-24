@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Pitavastatin"
 predicted_indications: ["cholesterol-ester transfer protein deficiency", "HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "feline acquired immunodeficiency syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Pitavastatin: predicted new indication Cholesterol-ester transfer protein deficiency (evidence level L5). Approved use: Familial combined hyperlipidaemia"
 ---
 
@@ -72,13 +72,36 @@ Currently no related literature available.
 
 The compiled data lists at least 20 valid licences for pitavastatin-containing products, and the list may be partial. None of the records include approved-indication text. Several products are fixed-dose combinations, so the table below shows only products that appear to be single-ingredient pitavastatin.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| 126527 | Livastat 4 Tablet | Strip of 10 tablets | Novazen Pharmaceuticals |
-| 174138 | Pivasta 4 Tablet | Strip of 10 tablets | Zydus Cadila |
-| 178717 | Pitava 1mg Tablet | Strip of 10 tablets | Zydus Cadila |
-| 179727 | Ptvs 2mg Tablet | Strip of 10 tablets | Druto Laboratories |
-| 64399 | Diabastat 4 Tablet | Strip of 10 tablets | NYG Pharmaceuticals Pvt Ltd |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 64399 | Diabastat 4 Tablet | Strip of 10 tablets | Valid |
+| 78681 | Ezenon-P4 Tablet | Strip of 10 tablets | Valid |
+| 126527 | Livastat 4 Tablet | Strip of 10 tablets | Valid |
+| 173897 | Pivasta 2 Tablet | Strip of 10 tablets | Valid |
+| 174138 | Pivasta 4 Tablet | Strip of 10 tablets | Valid |
+| 175394 | Pitava 2mg Tablet | Strip of 10 tablets | Valid |
+| 176597 | Pitavamed 4mg Tablet | Strip of 10 tablets | Valid |
+| 177475 | Pitsafe-FB Tablet | Strip of 10 tablets | Valid |
+| 178242 | Ptvs Plus 2mg/10mg Tablet | Strip of 10 tablets | Valid |
+| 178717 | Pitava 1mg Tablet | Strip of 10 tablets | Valid |
+| 178965 | Pitamed-EZ Tablet | Strip of 10 tablets | Valid |
+| 179208 | Pitsafe 4 Tablet | Strip of 10 tablets | Valid |
+| 179529 | Pitamed 4 Tablet | Strip of 10 tablets | Valid |
+| 179662 | Pitsafe-Plus Tablet | Strip of 10 tablets | Valid |
+| 179727 | Ptvs 2mg Tablet | Strip of 10 tablets | Valid |
+| 179844 | Pivastin 2 Tablet | Strip of 10 tablets | Valid |
+| 180569 | Pivasta F 2mg/135mg Capsule DR | Strip of 10 Capsule DR | Valid |
+| 181400 | Pevastin 2mg Tablet | Strip of 10 tablets | Valid |
+| 182234 | Pitezo 2mg Tablet | Strip of 10 tablets | Valid |
+| 237075 | Vytoz-F Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

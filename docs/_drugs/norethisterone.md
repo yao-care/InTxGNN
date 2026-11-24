@@ -3,7 +3,7 @@ layout: default
 title: Norethisterone
 parent: Known Uses Only (No New Predictions)
 nav_order: 607
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 monitor_inn: "Norethisterone"
 description: "Norethisterone: known uses and market status in India; currently no new candidate indication"
 predicted_indications: []
@@ -46,13 +46,36 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Registration No. 78840 | Esnorisa 10 CR Tablet | Strip of 10 CR tablets | Not stated |
-| Registration No. 101061 | Gestodian 5mg Tablet | Strip of 10 tablets | Not stated |
-| Registration No. 133984 | Mendate 10 Tablet CR | Strip of 10 CR tablets | Not stated |
-| Registration No. 156418 | Noriden 5mg Tablet | Strip of 10 tablets | Not stated |
-| Registration No. 187703 | Rethrowel CR 10mg Tablet | Strip of 10 tablets | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 35402 | Canstop NCR 10mg Tablet | Strip of 10 tablets | Valid |
+| 59610 | Dubacare 10mg Tablet CR | Strip of 10 tablet cr | Valid |
+| 65647 | Dubnor 5mg Tablet | Strip of 10 tablets | Valid |
+| 74215 | Ethisone 5mg Tablet | Strip of 10 tablets | Valid |
+| 76818 | Enscrap 10mg Tablet CR | Strip of 10 tablet cr | Valid |
+| 78840 | Esnorisa 10 CR Tablet | Strip of 10 tablet sr | Valid |
+| 101061 | Gestodian 5mg Tablet | Strip of 10 tablets | Valid |
+| 133984 | Mendate 10 Tablet CR | Strip of 10 tablet cr | Valid |
+| 146007 | Mensurone 5mg Tablet | Strip of 10 tablets | Valid |
+| 151168 | N-Ethi 10 Tablet CR | Strip of 10 tablet cr | Valid |
+| 153239 | Norday 10 Tablet CR | Strip of 10 tablet cr | Valid |
+| 155779 | Noster 5mg Tablet | Strip of 10 tablets | Valid |
+| 156160 | None 5mg Tablet | Strip of 10 tablets | Valid |
+| 156418 | Noriden 5mg Tablet | Strip of 10 tablets | Valid |
+| 159500 | Nortibest 5mg Tablet | Strip of 10 tablets | Valid |
+| 170971 | Odister 5mg Tablet | Strip of 10 tablets | Valid |
+| 187703 | Rethrowel CR 10mg Tablet | Strip of 10 tablets | Valid |
+| 207493 | Shenax 5mg Tablet | Strip of 10 tablets | Valid |
+| 231172 | Uninor 10mg Tablet CR | Strip of 10 tablet cr | Valid |
+| 241826 | Widen 5mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 All 20 registrations are valid single-ingredient oral products.
 

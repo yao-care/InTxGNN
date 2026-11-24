@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Fenofibrate"
 predicted_indications: ["cholesterol-ester transfer protein deficiency"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Fenofibrate: predicted new indication Cholesterol-ester transfer protein deficiency (evidence level L5). Approved use: Hypertriglyceridemia and related hyperlipidaemias"
 ---
 
@@ -73,15 +73,38 @@ Currently no clinical trials are registered for this prediction.
 
 ## India Market Information
 
-At least 20 licences were found (the list may be partial). All 20 listed are valid. None of the records include approved-indication text, and the product names suggest they are mostly fixed-dose combinations with a statin, so they should not be taken as describing fenofibrate alone. Five examples:
+At least 20 licences were found (the list may be partial). All 20 listed are valid. None of the records include approved-indication text, and the product names suggest they are mostly fixed-dose combinations with a statin, so they should not be taken as describing fenofibrate alone.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 228618 | Thunor F 75mg/10mg Tablet | Strip of 10 tablets | Not stated in records |
-| 185695 | Rosovas F 160mg/10mg Tablet | Strip of 10 tablets | Not stated in records |
-| 120868 | Lipicard 160 Tablet | Strip of 10 tablets | Not stated in records |
-| 104604 | Hivast F 145mg/10mg Tablet | Strip of 10 tablets | Not stated in records |
-| 85904 | Finabate 145mg Tablet | Strip of 10 tablets | Not stated in records |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 85904 | Finabate 145mg Tablet | Strip of 10 tablets | Valid |
+| 97159 | Glyvas F Tablet | Strip of 10 tablets | Valid |
+| 104604 | Hivast F 145mg/10mg Tablet | Strip of 10 tablets | Valid |
+| 120868 | Lipicard 160 Tablet | Strip of 10 tablets | Valid |
+| 126831 | Lipitrack F 160mg/5mg Tablet | Strip of 10 tablets | Valid |
+| 152827 | Normalip F 5 Tablet | Strip of 10 tablets | Valid |
+| 184300 | Rosuvas F 20 Tablet | Strip of 10 tablets | Valid |
+| 185695 | Rosovas F 160mg/10mg Tablet | Strip of 10 tablets | Valid |
+| 186566 | Rolipitin F Forte 160mg/20mg Tablet | Strip of 10 tablets | Valid |
+| 187501 | Rolistat F 67 mg/5 mg Tablet | Strip of 10 tablets | Valid |
+| 187649 | Rexovas F 10 Tablet | Strip of 10 tablets | Valid |
+| 190620 | Rosucus F 145mg/10mg Tablet | Strip of 15 tablets | Valid |
+| 190696 | Rosudoc F 160mg/10mg Tablet | Strip of 10 tablets | Valid |
+| 195008 | Rosudin F 160mg/10mg Tablet | Strip of 10 tablets | Valid |
+| 195770 | Rotovas FB 160mg/10mg Tablet | Strip of 10 tablets | Valid |
+| 196228 | Rosutab F 145mg/10mg Tablet | Strip of 10 tablets | Valid |
+| 198615 | Rosuyug F 145mg/10mg Tablet | Strip of 10 tablets | Valid |
+| 228618 | Thunor F 75mg/10mg Tablet | Strip of 10 tablets | Valid |
+| 233997 | Valros-F Tablet | Strip of 10 tablets | Valid |
+| 241980 | Wassross F 145mg/10mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

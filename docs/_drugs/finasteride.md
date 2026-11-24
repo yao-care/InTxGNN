@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 354
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Finasteride"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly"]
 description: "Finasteride: predicted new indication Ambras type hypertrichosis universalis congenita (evidence level L5). In India: at least 20 listed products"
@@ -80,15 +80,38 @@ None of these publications directly demonstrates finasteride efficacy in hypertr
 
 ## India Market Information
 
-Finasteride has 20 valid single-ingredient registrations in India, all oral tablets. Approved indication text is not available for these registrations. The main ones are listed below.
+Finasteride has 20 valid single-ingredient registrations in India, all oral tablets. Approved indication text is not available for these registrations.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 84119 | Finast Tablet (Dr Reddy's Laboratories Ltd) | Strip of 30 tablets | Not specified |
-| 85730 | Finabald 5mg Tablet (East West Pharma) | Strip of 10 tablets | Not specified |
-| 87493 | Fistide 5mg Tablet (Samarth Life Sciences Pvt Ltd) | Strip of 10 tablets | Not specified |
-| 86672 | Feelal 1mg Tablet (Synnove Pharmaceuticals Pvt Ltd) | Strip of 10 tablets | Not specified |
-| 88910 | Findil 1mg Tablet (Daksh Pharma Pvt Ltd) | Strip of 10 tablets | Not specified |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 2488 | AGA Tablet | Strip of 10 tablets | Valid |
+| 84119 | Finast Tablet | Strip of 30 tablets | Valid |
+| 84994 | Finap Tablet | Strip of 10 tablets | Valid |
+| 85350 | Finrest 1 Tablet | Strip of 10 tablets | Valid |
+| 85730 | Finabald 5mg Tablet | Strip of 10 tablets | Valid |
+| 85802 | Finsure 1mg Tablet | Strip of 10 tablets | Valid |
+| 86672 | Feelal 1mg Tablet | Strip of 10 tablets | Valid |
+| 86849 | Finahist 1mg Tablet | Strip of 10 tablets | Valid |
+| 87493 | Fistide 5mg Tablet | Strip of 10 tablets | Valid |
+| 87699 | Finstar 1mg Tablet | Strip of 10 tablets | Valid |
+| 88910 | Findil 1mg Tablet | Strip of 10 tablets | Valid |
+| 95103 | Growvita 1 Tablet | Strip of 10 tablets | Valid |
+| 98929 | Gzlfine 1mg Tablet | Strip of 10 tablets | Valid |
+| 104221 | Healpecia 1mg Tablet | Strip of 10 tablets | Valid |
+| 136647 | Mpb 1 Tablet | Strip of 10 tablets | Valid |
+| 175202 | Prohair Tablet | Strip of 10 tablets | Valid |
+| 200502 | Science Of Him Finasteride 1mg Tablet | Strip of 10 tablets | Valid |
+| 201530 | StayHappi Finasteride 1mg Tablet | Strip of 10 tablets | Valid |
+| 218700 | Trifin 1mg Tablet | Strip of 10 tablets | Valid |
+| 220698 | Tricofin Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

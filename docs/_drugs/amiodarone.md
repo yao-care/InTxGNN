@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 52
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Amiodarone"
 predicted_indications: ["catecholaminergic polymorphic ventricular tachycardia", "incessant infant ventricular tachycardia", "obsolete bundle branch block", "rheumatoid arthritis", "brachydactyly-syndactyly syndrome", "heparin cofactor 2 deficiency", "trichotillomania", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "gout"]
 description: "Amiodarone: predicted new indication Catecholaminergic polymorphic ventricular tachycardia (evidence level L5). In India: at least 20 listed products"
@@ -80,15 +80,38 @@ None of the retrieved publications is a controlled study of amiodarone in CPVT. 
 
 ## India Market Information
 
-At least 20 valid licences are recorded; this list may be partial. Main authorisations:
+At least 20 valid licences are recorded; this list may be partial.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 34082 | Cordarone Tablet (Sanofi India Ltd) | Strip of 15 tablets | Not listed |
-| 34160 | Cordarone Injection 3ml (Sanofi India Ltd) | Vial of 3 ml injection | Not listed |
-| 4090 | Amipace 200 Tablet (Lupin Ltd) | Strip of 10 tablets | Not listed |
-| 76178 | Eurythmic 200mg Tablet (Troikaa Pharmaceuticals Ltd) | Strip of 10 tablets | Not listed |
-| 82476 | Eurythmic 150mg Injection (Troikaa Pharmaceuticals Ltd) | Prefilled syringe of 3 ml | Not listed |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 2580 | Amipace 100 Tablet | Strip of 10 tablets | Valid |
+| 4090 | Amipace 200 Tablet | Strip of 10 tablets | Valid |
+| 5092 | Amiodon 100mg Tablet | Strip of 10 tablets | Valid |
+| 5212 | Amiodon 200mg Tablet | Strip of 10 tablets | Valid |
+| 6076 | Amedron 200 Tablet | Strip of 10 tablets | Valid |
+| 6512 | Amidone 100 Tablet | Strip of 10 tablets | Valid |
+| 14038 | Amione 200mg Tablet | Strip of 10 tablets | Valid |
+| 34082 | Cordarone Tablet | Strip of 15 tablets | Valid |
+| 34160 | Cordarone Injection 3ml | Vial of 3 ml Injection | Valid |
+| 43362 | Cardasol 150mg Injection | Vial of 3 ml Injection | Valid |
+| 44056 | Cgdrone 100mg Tablet | Strip of 10 tablets | Valid |
+| 46492 | Cgdrone 200 Tablet | Strip of 10 tablets | Valid |
+| 59039 | Duron 150mg Injection | Vial of 3 ml Injection | Valid |
+| 60088 | Duron 100mg Tablet | Strip of 10 tablets | Valid |
+| 75745 | Eurythmic 150mg Injection | Vial of 3 ml Injection | Valid |
+| 76178 | Eurythmic 200mg Tablet | Strip of 10 tablets | Valid |
+| 82476 | Eurythmic 150mg Injection | Prefilled syringe of 3 ml Injection | Valid |
+| 176859 | Pacebeat 100mg Tablet | Strip of 10 tablets | Valid |
+| 189926 | Ritebeat 100mg Tablet | Strip of 10 tablets | Valid |
+| 215526 | Tachyra 100 Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

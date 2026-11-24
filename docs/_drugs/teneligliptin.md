@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 816
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Teneligliptin: predicted new indication Opsismodysplasia (evidence level L5). Approved use: Type 2 diabetes mellitus"
 monitor_inn: "Teneligliptin"
 predicted_indications: ["opsismodysplasia", "thiamine-responsive dysfunction syndrome", "focal stiff limb syndrome", "classic stiff person syndrome", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy"]
@@ -72,15 +72,38 @@ Currently no related literature available.
 
 ## India Market Information
 
-Teneligliptin is marketed in India as oral single-ingredient tablets. The data compiled for this report show 20 valid registrations and no cancelled ones. The approved indication text is not available for these entries. The five main registrations are listed below.
+Teneligliptin is marketed in India as oral single-ingredient tablets. The data compiled for this report show 20 valid registrations and no cancelled ones. The approved indication text is not available for these entries.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| 220836 | Tenepace Tablet | Strip of 10 tablets | Meyer Organics Pvt Ltd |
-| 221924 | Teniglip 20mg Tablet | Strip of 10 tablets | Biodiscovery Lifesciences Pvt Ltd |
-| 204429 | Supraglip Tablet | Strip of 10 tablets | Oaknet Healthcare Pvt Ltd |
-| 246699 | Zita-Pio Tablet | Strip of 10 tablets | Glenmark Pharmaceuticals Ltd |
-| 215017 | Tendia Tablet | Strip of 15 tablets | Eris Lifesciences Ltd |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 49487 | Coniark 20mg Tablet | Strip of 10 tablets | Valid |
+| 73019 | Eliptin 20mg Tablet | Strip of 10 tablets | Valid |
+| 99158 | Glimform 20mg Tablet | Strip of 10 tablets | Valid |
+| 99180 | Gliptinita 20mg Tablet | Strip of 10 tablets | Valid |
+| 124044 | Lariten 20mg Tablet | Strip of 10 tablets | Valid |
+| 131987 | Lavitenglip 20mg Tablet | Strip of 10 tablets | Valid |
+| 204429 | Supraglip Tablet | Strip of 10 tablets | Valid |
+| 215017 | Tendia Tablet | Strip of 15 tablets | Valid |
+| 218059 | Tenipack 20mg Tablet | Strip of 10 tablets | Valid |
+| 219352 | Tenark 20mg Tablet | Strip of 10 tablets | Valid |
+| 219919 | Tenrite Tablet | Strip of 10 tablets | Valid |
+| 219927 | T-Gliptin Tablet | Strip of 10 tablets | Valid |
+| 220836 | Tenepace Tablet | Strip of 10 tablets | Valid |
+| 220907 | Tenlifine 20mg Tablet | Strip of 10 tablets | Valid |
+| 221924 | Teniglip 20mg Tablet | Strip of 10 tablets | Valid |
+| 222223 | Tenevir Tablet | Strip of 10 tablets | Valid |
+| 222504 | Tenecare 20mg Tablet | Strip of 10 tablets | Valid |
+| 225293 | Tenebliz 20mg Tablet | Strip of 10 tablets | Valid |
+| 228261 | Tenreen 20mg Tablet | Strip of 10 tablets | Valid |
+| 246699 | Zita-Pio Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

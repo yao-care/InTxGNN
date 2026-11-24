@@ -5,7 +5,7 @@ layout: default
 title: Nimotuzumab
 parent: Known Uses Only (No New Predictions)
 nav_order: 597
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 description: "Nimotuzumab: known uses and market status in India; currently no new candidate indication"
 monitor_inn: "Nimotuzumab"
 predicted_indications: []
@@ -48,10 +48,16 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Registration No. 26825 | Biomab 50mg Injection | Vial of 1 injection | Not stated in the available data |
-| Registration No. 26908 | Biomab Egfr Injection 10ml | Packet of 4 injections | Not stated in the available data |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 26825 | Biomab 50mg Injection | Vial of 1 Injection | Valid |
+| 26908 | Biomab Egfr Injection 10ml | Packet of 4 injections | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 Both registrations are valid single-ingredient products from Biocon.
 

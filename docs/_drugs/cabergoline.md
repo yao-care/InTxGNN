@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Cabergoline"
 predicted_indications: ["progeria-short stature-pigmented nevi syndrome", "pituitary cancer", "cerebral palsy, spastic quadriplegic", "glaucoma"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 description: "Cabergoline: predicted new indication progeria-short stature-pigmented nevi syndrome (evidence level L5). In India: at least 20 listed products"
 ---
 
@@ -71,6 +71,37 @@ Currently no related clinical trials registered.
 Currently no related literature available.
 
 ## India Market Information
+
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 32147 | Baicab 0.5mg Tablet | Strip of 4 tablets | Valid |
+| 33955 | Cabgolin 0.5 Tablet | Strip of 4 tablets | Valid |
+| 34018 | Cabgolin 0.25 Tablet | Strip of 4 tablets | Valid |
+| 34328 | CB-Lin Tablet | Strip of 2 tablets | Valid |
+| 34407 | Caberlin 0.25 Tablet | Strip of 4 tablets | Valid |
+| 34668 | CB-Lin 0.25 Tablet | Strip of 2 tablets | Valid |
+| 34676 | Cabliz 0.5 Tablet | Strip of 2 tablets | Valid |
+| 34945 | Camforte 0.5 Tablet | Strip of 2 tablets | Valid |
+| 35793 | Cabercet Tablet | Strip of 2 tablets | Valid |
+| 36862 | Caberlact 0.25mg Tablet | Strip of 2 tablets | Valid |
+| 37029 | Colette 0.25mg Tablet | Strip of 4 tablets | Valid |
+| 39162 | Cabermax 0.5mg Tablet | Strip of 4 tablets | Valid |
+| 40856 | Cabersol 0.5mg Tablet | Strip of 4 tablets | Valid |
+| 42241 | Caberwell Tablet | Strip of 4 tablets | Valid |
+| 42758 | Cabernol 0.5mg Tablet | Strip of 4 tablets | Valid |
+| 46603 | Cabersen 0.5mg Tablet | Strip of 4 tablets | Valid |
+| 47954 | Cabromac 0.5mg Tablet | Strip of 4 tablets | Valid |
+| 95455 | Golin 0.5mg Tablet | Strip of 2 tablets | Valid |
+| 182542 | Parcar 1mg Tablet | Strip of 4 tablets | Valid |
+| 216293 | TTCab Tablet | Strip of 4 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 Cabergoline is marketed in India. Valid licences exist for single-ingredient oral tablets, supplied in strips of 2 or 4 tablets by multiple manufacturers. The licence records may be partial. The local records carry no approved-indication text for these products.
 

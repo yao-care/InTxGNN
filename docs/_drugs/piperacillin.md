@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 675
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Piperacillin: predicted new indication Rheumatoid arthritis (evidence level L5). Approved use: Bacterial infections"
 monitor_inn: "Piperacillin"
 predicted_indications: ["rheumatoid arthritis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "sclerosing cholangitis", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies", "diabetic nephropathy", "WHIM syndrome"]
@@ -82,15 +82,38 @@ None of the retrieved publications tests piperacillin as a treatment for rheumat
 
 ## India Market Information
 
-Piperacillin has 20 valid single-ingredient registrations, all injectable. The licence records compiled for this report contain no approved-indication text. Five representative authorizations:
+Piperacillin has 20 valid single-ingredient registrations, all injectable. The licence records compiled for this report contain no approved-indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Registration No. 70787 | Demtaz 4000mg/500mg Injection | Vial of 1 Injection | Not recorded |
-| Registration No. 209561 | Shipip-T Injection | Vial of 1 Injection | Not recorded |
-| Registration No. 182013 | Piprax-T Injection | Vial of 1 Injection | Not recorded |
-| Registration No. 179168 | Phyton Injection (Wockhardt) | Vial of 1 Injection | Not recorded |
-| Registration No. 190635 | Revotaz 2000mg/250mg Injection (Alkem) | Vial of 10 ml Injection | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 23436 | Adzopip 4000mg/500mg Injection | Vial of 1 Injection | Valid |
+| 31303 | Blutaz 4000mg/500mg Injection | Vial of 1 Injection | Valid |
+| 33240 | Bactaz-P 1.125gm Injection | Vial of 1 Powder for Injection | Valid |
+| 63489 | Depep 4.5 Injection | Vial of 1 Injection | Valid |
+| 70787 | Demtaz 4000mg/500mg Injection | Vial of 1 Injection | Valid |
+| 83119 | Everpip TZ 4000mg/500mg Injection | Vial of 1 Injection | Valid |
+| 115171 | Jemtaz 4.5 Injection | Vial of 1 Injection | Valid |
+| 155090 | Niptaz 4000mg/500mg Injection | Vial of 1 Injection | Valid |
+| 179168 | Phyton Injection | Vial of 1 Injection | Valid |
+| 179645 | Peptum 4.5 Powder for Injection | Vial of 1 Powder for Injection | Valid |
+| 182013 | Piprax-T Injection | Vial of 1 Injection | Valid |
+| 190635 | Revotaz 2000mg/250mg Injection | Vial of 10 ml Injection | Valid |
+| 197227 | Rapip-TZ Injection | Vial of 1 Injection | Valid |
+| 209561 | Shipip-T Injection | Vial of 1 Injection | Valid |
+| 225708 | Tezobact P 1000mg/125mg Injection | Vial of 1 Injection | Valid |
+| 228886 | Tezoclip 4000mg/500mg Injection | Vial of 1 Injection | Valid |
+| 229735 | Tazomic 4000mg/500mg Injection | Vial of 1 Injection | Valid |
+| 229929 | Tazocis P 4000mg/500mg Injection | Vial of 1 Injection | Valid |
+| 232173 | Unipep TZ 2000mg/250mg Injection | Vial of 1 Injection | Valid |
+| 239742 | Viptaz 4000mg/500mg Injection | Vial of 1 Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

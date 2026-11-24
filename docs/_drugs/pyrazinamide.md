@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 713
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Pyrazinamide: predicted new indication Infectious otitis media (evidence level L5). Approved use: Pulmonary tuberculosis, meningeal tuberculosis, tuberculous meningitis"
 monitor_inn: "Pyrazinamide"
 predicted_indications: ["infectious otitis media", "middle ear disease", "otosalpingitis", "chronic otitis media", "suppurative otitis media", "non-suppurative otitis media", "middle ear cholesterol granuloma", "allergic otitis media", "Lyme disease", "infectious otitis interna"]
@@ -92,15 +92,38 @@ No literature was retrieved for infectious otitis media. The table below lists t
 
 ## India Market Information
 
-Pyrazinamide has 20 valid single-ingredient registrations in India. The approved indication text is not recorded in the licence data. Five main registrations are listed below.
+Pyrazinamide has 20 valid single-ingredient registrations in India. The approved indication text is not recorded in the licence data.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 180681 | PYRA 500MG TABLET (Kopran Ltd) | Strip of 10 tablets | Not specified |
-| 12536 | Actizid 750mg Tablet (Overseas Healthcare Pvt Ltd) | Strip of 10 tablets | Not specified |
-| 83965 | Eurozide 750mg Tablet (Euro Biogenics) | Strip of 10 tablets | Not specified |
-| 174379 | P Zide 500 Tablet (Cadila Pharmaceuticals Ltd) | Strip of 10 tablets | Not specified |
-| 136891 | Macrozide 1000 Tablet (Macleods Pharmaceuticals Pvt Ltd) | Strip of 6 tablets | Not specified |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 12536 | Actizid 750mg Tablet | Strip of 10 tablets | Valid |
+| 31564 | Bizen 500mg Tablet | Strip of 10 tablets | Valid |
+| 33318 | Bizen 1000mg Tablet | Strip of 10 tablets | Valid |
+| 83965 | Eurozide 750mg Tablet | Strip of 10 tablets | Valid |
+| 92211 | Fracox 750mg Tablet | Strip of 10 tablets | Valid |
+| 134915 | Macrozide 1500 Tablet | Strip of 6 tablets | Valid |
+| 136891 | Macrozide 1000 Tablet | Strip of 6 tablets | Valid |
+| 143588 | Mzide 500mg Tablet | Strip of 10 tablets | Valid |
+| 172424 | Ocyzina 750mg Tablet | Strip of 10 tablets | Valid |
+| 174379 | P Zide 500 Tablet | Strip of 10 tablets | Valid |
+| 180073 | Pyra 1200mg Tablet | Strip of 10 tablets | Valid |
+| 180681 | PYRA 500MG TABLET | Strip of 10 tablets | Valid |
+| 182706 | Pyranij 500mg Tablet | Strip of 10 tablets | Valid |
+| 189112 | Rifact Z Kid Tablet | Strip of 12 tablets | Valid |
+| 196881 | Rezide 500mg Tablet | Strip of 10 tablets | Valid |
+| 225503 | Toszinamide Forte Tablet | Strip of 10 tablets | Valid |
+| 227785 | Tbzide Tablet | Strip of 10 tablets | Valid |
+| 228175 | Tibizim 750mg Tablet | Strip of 10 tablets | Valid |
+| 249094 | Zypra 750 Tablet | Strip of 10 tablets | Valid |
+| 249770 | Zypyra 500mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 All products are oral tablets.
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Dapoxetine"
 predicted_indications: ["migraine disorder", "dysthymic disorder", "migraine with brainstem aura"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 description: "Dapoxetine: predicted new indication migraine disorder (evidence level L5). In India: at least 20 listed products"
 ---
 
@@ -76,15 +76,38 @@ Neither publication directly studies dapoxetine in migraine disorder.
 
 ## India Market Information
 
-The data list 20 valid single-ingredient licences and none cancelled; the list may be partial. The licence records carry no approved-indication text. Main entries:
+The data list 20 valid single-ingredient licences and none cancelled; the list may be partial. The licence records carry no approved-indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 26353 | Bold Care 30 Tablet | Strip of 4 tablets | Not recorded |
-| 11465 | Amjoy 60mg Tablet | Strip of 4 tablets | Not recorded |
-| 120971 | Long Drive 30mg Tablet | Strip of 4 tablets | Not recorded |
-| 60135 | Duraject 30mg Tablet | Strip of 2 tablets | Not recorded |
-| 58268 | Duralast 30 Tablet | Strip of 4 tablets | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 8925 | Actinex 30mg Tablet | Strip of 4 tablets | Valid |
+| 10875 | Amjoy 30mg Tablet | Strip of 6 tablets | Valid |
+| 11465 | Amjoy 60mg Tablet | Strip of 4 tablets | Valid |
+| 26353 | Bold Care 30 Tablet | Strip of 4 tablets | Valid |
+| 58268 | Duralast 30 Tablet | Strip of 4 tablets | Valid |
+| 58680 | Dejac 30 Tablet | Strip of 4 tablets | Valid |
+| 59888 | Dapoxy 30mg Tablet | Strip of 6 tablets | Valid |
+| 60135 | Duraject 30mg Tablet | Strip of 2 tablets | Valid |
+| 60721 | Dapoxet 30 Tablet | Strip of 4 tablets | Valid |
+| 60886 | Duraject 60mg Tablet | Strip of 2 tablets | Valid |
+| 61737 | Dapnex 30mg Tablet | Strip of 1 Tablet | Valid |
+| 66721 | Deprise 30mg Tablet | Strip of 10 tablets | Valid |
+| 73428 | E Max 30mg Tablet | Strip of 10 tablets | Valid |
+| 75104 | EJ 60 Tablet | Strip of 10 tablets | Valid |
+| 84569 | Funtime 60 D Tablet | Strip of 4 tablets | Valid |
+| 96090 | Grace Drugs & Pharmaceuticals Dapoxetine 30mg Tablet | Strip of 4 tablets | Valid |
+| 120971 | Long Drive 30mg Tablet | Strip of 4 tablets | Valid |
+| 121077 | Long Drive 60mg Tablet | Strip of 4 tablets | Valid |
+| 122876 | Longdep 30 Tablet | Strip of 10 tablets | Valid |
+| 189885 | Ristor Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

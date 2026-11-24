@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 33
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Alfuzosin: predicted new indication Ambras type hypertrichosis universalis congenita (evidence level L5). Approved use: Benign prostatic hyperplasia"
 monitor_inn: "Alfuzosin"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly", "allergic urticaria", "persistent fetal circulation syndrome", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia"]
@@ -71,15 +71,44 @@ Currently no related literature available.
 
 ## India Market Information
 
-All 20 registrations are valid single-ingredient licences. The data compiled for this report does not include approved-indication text. The table lists 5 of them.
+All 20 registrations are valid licences. The data compiled for this report does not include approved-indication text.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| 7778 | Alfuin 10mg Tablet | Strip of 10 tablets | Elio Biocare Lifesciences Pvt Ltd |
-| 232426 | Urofuz 10mg Tablet | Strip of 10 tablets | Curis Lifecare |
-| 4920 | Alfunex 10mg Tablet | Strip of 10 tablets | Nexkem Pharmaceuticals Pvt Ltd |
-| 7592 | Alfuzin 10mg Tablet ER | Strip of 10 extended-release tablets | Astonea Labs Private Limited |
-| 233503 | Velfu Tablet PR | Strip of 7 prolonged-release tablets | Intas Pharmaceuticals Ltd |
+<!-- review:begin in-lic-20261124-alfuzosin-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "All 20 registrations are valid single-ingredient licences." Removed: it described the products as single-ingredient (or as having no combination products), which does not match the Indian medicine data (the Indian Medicine Dataset): some of the recorded products are fixed-dose combinations. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124-alfuzosin-1 -->
+
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 3953 | Alfunol D 10mg/0.5mg Tablet | Strip of 10 tablets | Valid |
+| 4525 | Alfucal 10mg Tablet PR | Strip of 10 Tablet pr | Valid |
+| 4920 | Alfunex 10mg Tablet | Strip of 10 tablets | Valid |
+| 5925 | Alfuzosin-D Tablet ER | Strip of 10 tablet er | Valid |
+| 7592 | Alfuzin 10mg Tablet ER | Strip of 10 tablet er | Valid |
+| 7778 | Alfuin 10mg Tablet | Strip of 10 tablets | Valid |
+| 9242 | Alfupro 10mg Tablet | Strip of 10 tablets | Valid |
+| 10412 | Alfutrol 10mg Tablet | Strip of 1 Tablet | Valid |
+| 11390 | Alfugud-D Tablet | Strip of 10 tablets | Valid |
+| 12347 | Alosin 10mg Tablet ER | Strip of 10 tablet er | Valid |
+| 12571 | Alfunex D 10mg/0.5mg Tablet | Strip of 10 tablets | Valid |
+| 48909 | Cgfloo 10mg Tablet | Strip of 10 tablets | Valid |
+| 81215 | Emzosin D 10mg/0.5mg Tablet | Strip of 10 tablets | Valid |
+| 169019 | Olfura 10mg Tablet PR | Strip of 10 Tablet pr | Valid |
+| 204808 | StayHappi Alfuzosin Hydrochloride+Dutasteride 10mg/0.5mg Tablet SR | Strip of 10 tablet sr | Valid |
+| 207637 | StayHappi Alfuzosin+Dutasteride 10mg/0.5mg Tablet | Strip of 10 tablets | Valid |
+| 208523 | Sterdu L 10 mg/0.5 mg Tablet | Strip of 10 tablets | Valid |
+| 232426 | Urofuz 10mg Tablet | Strip of 10 tablets | Valid |
+| 233503 | Velfu Tablet PR | Strip of 7 Tablet pr | Valid |
+| 248090 | Z Alfu D 10mg/0.5mg Tablet ER | Strip of 10 tablet er | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 All products are oral tablets. Several are fixed-dose combinations with dutasteride (e.g., Sterdu L, Alfunol D, Emzosin D).
 
@@ -110,11 +139,12 @@ The prediction rests on the model score alone (L5). There are no clinical trials
 
 ## Review Log
 
-Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Uroxatral (alfuzosin hcl) prescribing information, Advanz Pharma (US) Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9fc7f119-f36b-44cf-945d-940160f3afe3) |
+| 2026-11-24 | Removed: the single-ingredient claim | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 

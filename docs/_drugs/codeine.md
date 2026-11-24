@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 207
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Codeine: predicted new indication Nasal cavity disease (evidence level L5). Approved use: Allergic rhinitis, vasomotor rhinitis, pharyngitis, common cold…"
 monitor_inn: "Codeine"
 predicted_indications: ["nasal cavity disease", "trigeminal autonomic cephalalgia", "allergic urticaria"]
@@ -91,13 +91,36 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 52843 | Codybex Syrup | Syrup, 100 ml bottle | Not stated in the licence record |
-| 43548 | Codifem Syrup | Syrup, 100 ml bottle | Not stated in the licence record |
-| 129888 | Lecof-C Syrup | Syrup, 100 ml bottle | Not stated in the licence record |
-| 36031 | Codine Sulphate 15mg Tablet | Tablet, strip of 10 | Not stated in the licence record |
-| 34726 | Codeine Phosphate Linctus | Linctus, 60 ml bottle | Not stated in the licence record |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 4433 | Acicod 10mg Tablet | Strip of 10 tablets | Valid |
+| 6003 | Avkof Syrup | Bottle of 100 ml Syrup | Valid |
+| 34726 | Codeine Phosphate Linctus | Bottle of 60 ml Linctus | Valid |
+| 34792 | Codectuss TR Syrup | Bottle of 100 ml Syrup | Valid |
+| 36031 | Codine Sulphate 15mg Tablet | Strip of 10 tablets | Valid |
+| 36673 | Codicon Syrup | Bottle of 100 ml Syrup | Valid |
+| 38088 | Codin T Syrup | Bottle of 100 ml Syrup | Valid |
+| 43379 | Cedo T Syrup | Bottle of 100 ml Syrup | Valid |
+| 43548 | Codifem Syrup | Bottle of 100 ml Syrup | Valid |
+| 44319 | Codisum Syrup | Bottle of 100 ml Syrup | Valid |
+| 45038 | Comore Syrup | Bottle of 100 ml Syrup | Valid |
+| 52843 | Codybex Syrup | Bottle of 100 ml Syrup | Valid |
+| 123412 | Lincotuss 15mg Syrup | Bottle of 120 ml Syrup | Valid |
+| 129888 | Lecof-C Syrup | Bottle of 100 ml Syrup | Valid |
+| 133815 | Magnatuss T Syrup | Bottle of 100 ml Syrup | Valid |
+| 138825 | Montokuf 15mg Syrup | Bottle of 100 ml Syrup | Valid |
+| 139609 | Montokuf Plus 15mg Syrup | Bottle of 100 ml Syrup | Valid |
+| 153891 | Nyquil Syrup | Bottle of 100 ml Syrup | Valid |
+| 186785 | R Codex Syrup | Bottle of 100 ml Syrup | Valid |
+| 241974 | Wallrex T Syrup | Bottle of 100 ml Syrup | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 Twenty single-ingredient licences are currently valid (none cancelled). Most are syrups, with a few tablet and linctus products.
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Nefopam"
 predicted_indications: ["immature cataract", "mature cataract", "craniostenosis cataract", "diabetes mellitus type 2 associated cataract", "tetanic cataract", "cortical cataract", "nuclear senile cataract", "senile cataract", "diabetic cataract", "lumbar spinal stenosis"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Nefopam: predicted new indication Immature cataract (evidence level L5). Approved use: Not stated in the licence records (analgesic drug class)"
 ---
 
@@ -91,17 +91,23 @@ Lumbar spinal stenosis (TxGNN score 0.9997) is the only predicted indication in 
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| 150449 | Nefodol Tablet | Strip of 10 tablets | Medley Pharmaceuticals |
-| 151496 | Nefosar 20mg Injection | Ampoule of 1 ml injection | Abbott |
-| 150485 | Nefosar Tablet | Strip of 10 tablets | Abbott |
+<!-- licenses:begin -->
 
-All three licences are valid products, available in oral and injectable forms. The licence records do not include approved indication text.
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 150449 | Nefodol Tablet | Strip of 10 tablets | Valid |
+| 150485 | Nefosar Tablet | Strip of 10 tablets | Valid |
+| 151496 | Nefosar 20mg Injection | Ampoule of 1 ml Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
+
+All licences are valid products, available in oral and injectable forms. The licence records do not include approved indication text.
 
 <!-- review:begin in-lic-20261106-nefopam-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "All three licences are valid single-ingredient products, available in oral and injectable forms." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+> **Review correction (2026-11-24)**: Originally stated: "All three licences are valid single-ingredient products, available in oral and injectable forms." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Revised 2026-11-24: the hard-coded number of records and the wording about the old table were dropped; the Quick Overview and the product table under India Market Information show the current figures. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
 
 <!-- review:end in-lic-20261106-nefopam-1 -->
 
@@ -137,7 +143,7 @@ Below is the review log for this page: statements checked against official India
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-24 | Removed: "single-ingredient" | Corrected (revised 2026-11-24; earlier version kept in the record) | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 

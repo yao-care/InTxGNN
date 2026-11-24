@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 466
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Labetalol"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia"]
 description: "Labetalol: predicted new indication Malignant hypertensive renal disease (evidence level L5). In India: at least 20 listed products"
@@ -78,13 +78,36 @@ The literature retrieved for the pulmonary hypertension predictions is mostly ab
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 121877 | Lebatens Tablet | Strip of 10 tablets | Not stated |
-| 129476 | Labimeg 20mg Injection | Vial of 4 ml injection | Not stated |
-| 63253 | DavaIndia Labetalol 100mg Tablet | Strip of 10 tablets | Not stated |
-| 175101 | Pregnasafe Tablet | Strip of 10 tablets | Not stated |
-| 121186 | Lablol 100mg Tablet | Strip of 10 tablets | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 6048 | Alpha Dip Tablet | Strip of 10 tablets | Valid |
+| 63253 | DavaIndia Labetalol 100mg Tablet | Strip of 10 tablets | Valid |
+| 74736 | Eubet Tablet | Strip of 10 tablets | Valid |
+| 94468 | Gravidol Tablet | Strip of 10 tablets | Valid |
+| 120858 | Labebet 100mg Tablet | Strip of 10 tablets | Valid |
+| 120876 | Lobet 100mg Tablet | Strip of 10 tablets | Valid |
+| 121186 | Lablol 100mg Tablet | Strip of 10 tablets | Valid |
+| 121628 | Lablol 100mg Injection | Vial of 20 ml Injection | Valid |
+| 121877 | Lebatens Tablet | Strip of 10 tablets | Valid |
+| 122654 | Lablol 20mg Injection | Vial of 4 ml Injection | Valid |
+| 122888 | Labil 20mg Injection | Vial of 4 ml Injection | Valid |
+| 123236 | Labetol Tablet | Strip of 10 tablets | Valid |
+| 124099 | Labetroy 20mg Injection | Vial of 4 ml Injection | Valid |
+| 126998 | Labeta 5mg Injection | Vial of 4 ml Injection | Valid |
+| 129476 | Labimeg 20mg Injection | Vial of 4 ml Injection | Valid |
+| 154058 | Normadate 50mg Tablet | Strip of 10 tablets | Valid |
+| 175101 | Pregnasafe Tablet | Strip of 10 tablets | Valid |
+| 204753 | StayHappi Labetalol 100mg Tablet | Strip of 10 tablets | Valid |
+| 224250 | Tiplab 20mg Injection | Vial of 4 ml Injection | Valid |
+| 251859 | Zybelol 20mg Injection | Vial of 4 ml Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 There are 20 valid single-ingredient registrations in total, covering oral tablets and injectable vials (4 ml and 20 ml).
 

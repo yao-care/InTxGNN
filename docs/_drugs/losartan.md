@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 504
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Losartan"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "Prinzmetal angina", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies"]
 description: "Losartan: predicted new indication Malignant hypertensive renal disease (evidence level L5). In India: at least 20 listed products"
@@ -77,15 +77,38 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 126491 | Lopassium 50mg Tablet | Strip of 10 tablets | Not stated |
-| 133326 | Losawun 25mg Tablet | Strip of 10 tablets | Not stated |
-| 94577 | Giftan-HC Tablet | Strip of 10 tablets | Not stated |
-| 128730 | Losaline H 50mg/12.5mg Tablet | Strip of 10 tablets | Not stated |
-| 1374 | Amlozaar Tablet | Strip of 15 tablets | Not stated |
+<!-- licenses:begin -->
 
-All 20 registrations are currently valid. Only the first 5 are listed here.
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 1374 | Amlozaar Tablet | Strip of 15 tablets | Valid |
+| 5302 | Angilo 50 Tablet | Strip of 10 tablets | Valid |
+| 32327 | Bristan AM Tablet | Strip of 10 tablets | Valid |
+| 74533 | Espin-LT Tablet | Strip of 10 tablets | Valid |
+| 92790 | Felow 25mg Tablet | Strip of 10 tablets | Valid |
+| 94577 | Giftan-HC Tablet | Strip of 10 tablets | Valid |
+| 124849 | Losasun HT Tablet | Strip of 10 tablets | Valid |
+| 126491 | Lopassium 50mg Tablet | Strip of 10 tablets | Valid |
+| 126927 | Losartar 25mg Tablet | Strip of 10 tablets | Valid |
+| 127803 | Losit 50mg Tablet | Strip of 10 tablets | Valid |
+| 128730 | Losaline H 50mg/12.5mg Tablet | Strip of 10 tablets | Valid |
+| 128974 | Losarpen Tablet | Strip of 10 tablets | Valid |
+| 130017 | Losamax 25 Tablet | Strip of 10 tablets | Valid |
+| 130686 | Lpcare 25mg Tablet | Strip of 10 tablets | Valid |
+| 130911 | Loripta 50mg Tablet | Strip of 10 tablets | Valid |
+| 131577 | Losris A 50mg/5mg Tablet | Strip of 10 tablets | Valid |
+| 132727 | Losris H 50mg/12.5mg Tablet | Strip of 10 tablets | Valid |
+| 133326 | Losawun 25mg Tablet | Strip of 10 tablets | Valid |
+| 206074 | Strok Rok 50 mg/12.5 mg Tablet | Strip of 10 tablets | Valid |
+| 238121 | Vilos H 50mg/12.5mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
+
+All 20 registrations are currently valid.
 
 ## Safety Considerations
 

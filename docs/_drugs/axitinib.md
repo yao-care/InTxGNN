@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Axitinib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "angiolipoma", "familial spontaneous pneumothorax"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Axitinib: predicted new indication liposarcoma (evidence level L5). In India: 14 listed products (14 not discontinued)"
 ---
 
@@ -73,15 +73,30 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 187254 | Raxitinib 5mg Tablet | Bottle of 14 tablets | Not recorded |
-| 6767 | Axzyb 1mg Tablet | Bottle of 60 tablets | Not recorded |
-| 6404 | Axpero 1mg Tablet | Strip of 14 tablets | Not recorded |
-| 31138 | Bdaxit 5mg Tablet | Strip of 14 tablets | Not recorded |
-| 18543 | Axinib 1mg Tablet | Strip of 14 tablets | Not recorded |
+<!-- licenses:begin -->
 
-14 valid licences are recorded, all for the single-ingredient drug; the five above are shown as examples.
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 4408 | Axpero 5 Tablet | Strip of 14 tablets | Valid |
+| 5112 | Axzyb Tablet | Bottle of 30 tablets | Valid |
+| 6404 | Axpero 1mg Tablet | Strip of 14 tablets | Valid |
+| 6411 | Axishil 5mg Tablet | Bottle of 14 tablets | Valid |
+| 6767 | Axzyb 1mg Tablet | Bottle of 60 tablets | Valid |
+| 11667 | Axishil 1mg Tablet | Bottle of 14 tablets | Valid |
+| 18543 | Axinib 1mg Tablet | Strip of 14 tablets | Valid |
+| 30222 | Bdaxit 1mg Tablet | Strip of 14 tablets | Valid |
+| 31138 | Bdaxit 5mg Tablet | Strip of 14 tablets | Valid |
+| 110247 | Inlybest 5mg Tablet | Strip of 14 tablets | Valid |
+| 112195 | Inlybest 1mg Tablet | Strip of 14 tablets | Valid |
+| 187254 | Raxitinib 5mg Tablet | Bottle of 14 tablets | Valid |
+| 196848 | Raxitinib 1mg Tablet | Bottle of 14 tablets | Valid |
+| 219599 | Tykinax 5mg Tablet | Bottle of 14 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
+
+14 valid licences are recorded, all for the single-ingredient drug.
 
 ## Cytotoxicity
 

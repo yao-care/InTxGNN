@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Cisapride"
 predicted_indications: ["gastrojejunal ulcer", "peptic ulcer perforation", "gastric ulcer (disease)", "gastroduodenitis"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 description: "Cisapride: predicted new indication gastrojejunal ulcer (evidence level L5). In India: at least 20 listed products"
 ---
 
@@ -82,15 +82,44 @@ None of these publications studies gastrojejunal ulcer directly. They address re
 
 ## India Market Information
 
-Cisapride is marketed in India. Licence records are a partial list: at least 20 licences exist, all single-ingredient and valid. No approved-indication text is recorded in the local data. Main examples:
+Cisapride is marketed in India. Licence records are a partial list: at least 20 licences exist, all valid. No approved-indication text is recorded in the local data.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 232824 | Ulcipride 10mg Tablet | Strip of 10 tablets | Not recorded |
-| 83188 | Expracid 10mg Tablet | Strip of 10 tablets | Not recorded |
-| 47857 | Cisapid 1mg Suspension | Bottle of 60 ml suspension | Not recorded |
-| 178527 | Prepulsid 10mg Tablet | Strip of 10 tablets | Not recorded |
-| 181058 | Peristil 5mg Tablet | Strip of 10 tablets | Not recorded |
+<!-- review:begin in-lic-20261124-cisapride-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "Licence records are a partial list: at least 20 licences exist, all single-ingredient and valid." Removed: it described the products as single-ingredient (or as having no combination products), which does not match the Indian medicine data (the Indian Medicine Dataset): some of the recorded products are fixed-dose combinations. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124-cisapride-1 -->
+
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 16070 | Alzide 10mg Tablet | Strip of 10 tablets | Valid |
+| 37569 | Ciza Mps 10mg/125mg Tablet | Strip of 10 tablets | Valid |
+| 39304 | Cisa MPS 10mg/125mg Tablet | Strip of 10 tablets | Valid |
+| 47857 | Cisapid 1mg Suspension | Bottle of 60 ml Suspension | Valid |
+| 48068 | Cisar 10mg Tablet | Strip of 10 tablets | Valid |
+| 52086 | Ceaseall 5mg Tablet | Strip of 10 tablets | Valid |
+| 54722 | Cisariv 10mg Tablet | Strip of 10 tablets | Valid |
+| 57931 | Cisade 1mg Suspension | Bottle of 30 ml Suspension | Valid |
+| 74561 | Esorid 10mg Tablet | Strip of 10 tablets | Valid |
+| 83188 | Expracid 10mg Tablet | Strip of 10 tablets | Valid |
+| 94815 | Gastro 10mg Tablet | Strip of 10 tablets | Valid |
+| 98674 | Gastropen 10mg Tablet | Strip of 10 tablets | Valid |
+| 146983 | Mogit Mps Tablet | Strip of 10 tablets | Valid |
+| 167115 | Orticid 10mg Tablet | Strip of 10 tablets | Valid |
+| 178527 | Prepulsid 10mg Tablet | Strip of 10 tablets | Valid |
+| 180786 | Peristil 1mg Suspension | Bottle of 60 ml Suspension | Valid |
+| 181058 | Peristil 5mg Tablet | Strip of 10 tablets | Valid |
+| 208354 | Syspride Mps 125mg/10mg Tablet | Strip of 10 tablets | Valid |
+| 213499 | Siprid MPS 10mg/125mg Tablet | Strip of 10 tablets | Valid |
+| 232824 | Ulcipride 10mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -112,6 +141,19 @@ No clinical trial or publication directly studies cisapride in gastrojejunal ulc
 - Detailed mechanism of action data
 - Package insert warnings and contraindications from the Indian licences
 - A cardiac safety and QT monitoring plan, including management of CYP3A4-related interactions
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-24 | Removed: the single-ingredient claim | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

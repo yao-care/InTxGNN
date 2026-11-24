@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 550
 evidence_level: L3
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Midazolam: predicted new indication Insomnia (evidence level L3). Approved use: Anxiety"
 monitor_inn: "Midazolam"
 predicted_indications: ["insomnia (disease)"]
@@ -83,13 +83,36 @@ Oral midazolam has also been studied, and in some countries used, as a hypnotic.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 135368 | Mezolam 5mg Injection | Vial of 5 ml injection | Not specified |
-| 136398 | Medistat 0.5mg Tablet | Strip of 1 tablet | Not specified |
-| 134770 | Midazom 0.5 Nasal Spray | Bottle of 5 ml nasal spray | Not specified |
-| 140031 | Megarest 5mg Injection | Vial of 5 ml injection | Not specified |
-| 133584 | Midacip Nasal Spray | Packet of 5 ml nasal spray | Not specified |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 85112 | Fulsed 1mg Injection | Vial of 10 ml Injection | Valid |
+| 108099 | Insed Plus Atomiser | Bottle of 25 MDI Nasal Spray | Valid |
+| 116871 | Kabizolam 1mg Injection 5ml | Vial of 5 injections | Valid |
+| 133584 | Midacip Nasal Spray | Packet of 5 ml Nasal Spray | Valid |
+| 133892 | Medistat 0.5mg Nasal Spray | Packet of 5 ml Nasal Spray | Valid |
+| 134179 | Midaspray 0.5mg Nasal Spray | Packet of 5 ml Nasal Spray | Valid |
+| 134770 | Midazom 0.5 Nasal Spray | Bottle of 5 ml Nasal Spray | Valid |
+| 135028 | Medzol 1mg Injection | Vial of 5 ml Injection | Valid |
+| 135368 | Mezolam 5mg Injection | Vial of 5 ml Injection | Valid |
+| 135707 | Midaspray | Vial of 5 ml Nasal Spray | Valid |
+| 136398 | Medistat 0.5mg Tablet | Strip of 1 Tablet | Valid |
+| 137339 | Midfast 10mg Injection | Vial of 10 ml Injection | Valid |
+| 139560 | Mezolam 7.5mg Injection | Vial of 5 ml Injection | Valid |
+| 140031 | Megarest 5mg Injection | Vial of 5 ml Injection | Valid |
+| 140488 | Medzol 1mg Injection | Vial of 10 ml Injection | Valid |
+| 141672 | Midzol 10mg Injection | Vial of 10 ml Injection | Valid |
+| 143840 | Midzol 5mg Injection | Vial of 5 ml Injection | Valid |
+| 143841 | Midzee 5mg Injection | Vial of 1 ml Injection | Valid |
+| 144152 | Midabet 1mg Injection | Vial of 1 ml Injection | Valid |
+| 144603 | Megarest 10mg Injection | Vial of 10 ml Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 Twenty valid single-ingredient registrations are listed in total, covering injection, tablet and nasal spray forms.
 

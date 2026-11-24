@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Stanozolol"
 predicted_indications: ["serpinopathy with toxic serpin polymerization", "fetal erythroblastosis", "Peyronie disease", "renal tubular acidosis", "immune-mediated necrotizing myopathy", "antisynthetase syndrome", "complement component C1s deficiency", "focal myositis", "idiopathic eosinophilic myositis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Stanozolol: predicted new indication Serpinopathy with toxic serpin polymerization (evidence level L5). In India: 10 listed products (10 not discontinued)"
 ---
 
@@ -69,15 +69,26 @@ Currently no related literature available.
 
 ## India Market Information
 
-Stanozolol is marketed in India, and all of the single-ingredient licences in the local data are valid. The list below shows five of them. Approved-indication text is not recorded in the local data.
+Stanozolol is marketed in India, and all of the single-ingredient licences in the local data are valid. Approved-indication text is not recorded in the local data.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 217404 | Tanzol 2mg Capsule | Strip of 10 capsules | Not stated in the licence record |
-| 203547 | Stenfil 2mg Tablet | Strip of 10 tablets | Not stated in the licence record |
-| 96382 | Ganzol 2mg Tablet | Strip of 10 tablets | Not stated in the licence record |
-| 201784 | Stazol 50 Injection | Ampoule of 1 ml injection | Not stated in the licence record |
-| 150720 | Neurabol Capsule | Strip of 10 capsules | Not stated in the licence record |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 96382 | Ganzol 2mg Tablet | Strip of 10 tablets | Valid |
+| 133612 | Menabol Tablet | Strip of 20 tablets | Valid |
+| 134969 | Menabol 2mg Tablet | Strip of 10 tablets | Valid |
+| 150720 | Neurabol Capsule | Strip of 10 capsules | Valid |
+| 152285 | Neuro bal 2mg Capsule | Strip of 10 capsules | Valid |
+| 201612 | Stanza 20 Tablet | Strip of 10 tablets | Valid |
+| 201784 | Stazol 50 Injection | Ampoule of 1 ml Injection | Valid |
+| 202402 | Stanosafe 2mg Tablet | Strip of 30 tablets | Valid |
+| 203547 | Stenfil 2mg Tablet | Strip of 10 tablets | Valid |
+| 217404 | Tanzol 2mg Capsule | Strip of 10 capsules | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

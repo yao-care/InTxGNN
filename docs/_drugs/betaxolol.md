@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 107
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 description: "Betaxolol: known uses and market status in India; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -72,11 +72,17 @@ All candidates produced by the TxGNN model for Betaxolol (score ≥ 0.99) that c
 
 ## India Market Information
 
-| Licence | Product | Dosage form | Status |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
 |------|------|------|------|
-| 95232 | Glucoptic Eye Drop | packet of 5 ml Eye Drop | Valid |
-| 29999 | Betapress 0.5% Eye Drop | packet of 5 ml Eye Drop | Valid |
-| 107898 | Iobet Eye Drop | bottle of 5 ml Eye Drop | Valid |
+| 29999 | Betapress 0.5% Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 95232 | Glucoptic Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 107898 | Iobet Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

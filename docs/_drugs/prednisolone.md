@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 696
 evidence_level: L2
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Prednisolone: predicted new indication Alopecia areata (evidence level L2). Approved use: Autoimmune disease"
 monitor_inn: "Prednisolone"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia antibody deficiency", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "prolapse of lacrimal gland"]
@@ -83,13 +83,36 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 152780 | Nisolone 5mg Tablet | Strip of 10 tablets | Not specified in the data |
-| 174223 | Pred 10mg Tablet | Strip of 10 tablets | Not specified in the data |
-| 161855 | Omnacortil 30 Tablet DT | Strip of 10 dispersible tablets | Not specified in the data |
-| 99146 | GB Pred AC Eye Drop | Bottle of 5 ml eye drop | Not specified in the data |
-| 39969 | Ceruclean Drop | Packet of 10 ml drop | Not specified in the data |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 1610 | Acticort 5mg Tablet | Strip of 10 tablets | Valid |
+| 36737 | Cortilone 5mg Tablet | Strip of 10 tablets | Valid |
+| 39969 | Ceruclean Drop | Packet of 10 ml Drop | Valid |
+| 73401 | Emsolone 10mg Tablet | Strip of 20 tablets | Valid |
+| 76870 | Engatt P Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 79884 | Europred 10mg Tablet | Strip of 10 tablets | Valid |
+| 82743 | Emosolin 5mg Tablet | Strip of 10 tablets | Valid |
+| 84948 | Force 10mg Tablet | Strip of 10 tablets | Valid |
+| 99146 | GB Pred AC Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 102940 | Galone 5mg Tablet | Strip of 10 tablets | Valid |
+| 152780 | Nisolone 5mg Tablet | Strip of 10 tablets | Valid |
+| 158068 | Nolone 4mg Tablet | Strip of 10 tablets | Valid |
+| 159357 | Nolone 30mg Tablet | Strip of 10 tablets | Valid |
+| 161855 | Omnacortil 30 Tablet DT | Strip of 10 tablet dt | Valid |
+| 174223 | Pred 10mg Tablet | Strip of 10 tablets | Valid |
+| 177821 | Predicort 5mg Tablet | Strip of 10 tablets | Valid |
+| 180350 | Prednilix 10 Tablet | Strip of 10 tablets | Valid |
+| 181053 | Predgee 5 Tablet | Strip of 10 tablets | Valid |
+| 234493 | Ventocortil 5 Tablet | Strip of 10 tablets | Valid |
+| 243095 | Wysonit 5mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 There are 20 valid single-ingredient licences in total, mostly oral tablets, plus eye and ear/other drops.
 

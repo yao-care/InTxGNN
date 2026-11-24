@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "Atezolizumab"
 predicted_indications: ["uterine ligament adenocarcinoma", "endocervical carcinoma", "adenoid cystic carcinoma of the cervix uteri", "uterine ligament serous adenocarcinoma", "signet ring cell variant cervical mucinous adenocarcinoma", "intestinal variant cervical mucinous adenocarcinoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Atezolizumab: predicted new indication Uterine ligament adenocarcinoma (evidence level L5). Approved use: Transitional cell carcinoma"
 ---
 
@@ -96,10 +96,16 @@ The other predictions (adenoid cystic carcinoma of the cervix uteri, uterine lig
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| 219483 | Tecentriq Injection | Vial of 14 ml injection | Roche Products India Pvt Ltd |
-| 217022 | Tecentriq 1200mg Injection | Vial of 20 ml solution for infusion | Roche Products India Pvt Ltd |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 217022 | Tecentriq 1200mg Injection | Vial of 20 ml Solution for Infusion | Valid |
+| 219483 | Tecentriq Injection | Vial of 14 ml Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 Both licences are valid single-ingredient products. The licence records contain no approved-indication text, so the approved uses cannot be confirmed from the compiled data.
 

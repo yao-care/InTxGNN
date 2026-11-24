@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 239
 evidence_level: L4
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Deferiprone: predicted new indication Hepatic porphyria (evidence level L4). Approved use: Hemosiderosis and beta-thalassemia-related conditions (including hemo…"
 monitor_inn: "Deferiprone"
 predicted_indications: ["hepatic porphyria", "idiopathic copper-associated cirrhosis", "hepatoportal sclerosis", "early-onset familial noncirrhotic portal hypertension", "hepatopulmonary syndrome", "primitive portal vein thrombosis", "pyruvate kinase deficiency of red cells", "pyropoikilocytosis, hereditary"]
@@ -75,10 +75,16 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 116019 | Kelfer 250 Capsule (Cipla Ltd) | Bottle of 50 capsules | Not stated in the data compiled |
-| 115792 | Kelfer 500 Capsule (Cipla Ltd) | Bottle of 50 capsules | Not stated in the data compiled |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 115792 | Kelfer 500 Capsule | Bottle of 50 capsules | Valid |
+| 116019 | Kelfer 250 Capsule | Bottle of 50 capsules | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

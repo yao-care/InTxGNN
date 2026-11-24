@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 528
 evidence_level: L4
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Meropenem"
 predicted_indications: ["bacterial arthritis", "epiglottitis", "laryngitis", "paratyphoid fever", "Lyme disease", "gonococcal urethritis", "Ureaplasma urethritis"]
 description: "Meropenem: predicted new indication Bacterial arthritis (evidence level L4). In India: at least 20 listed products"
@@ -87,15 +87,38 @@ No randomised trials or meta-analyses were found for this indication. The table 
 
 ## India Market Information
 
-Meropenem has 20 valid single-ingredient registrations, all injectable. The table lists five of them.
+Meropenem has 20 valid single-ingredient registrations, all injectable.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| Registration No. 248135 | Zaxter 125mg Injection | Vial of 1 ml injection | Alkem Laboratories Ltd |
-| Registration No. 159280 | Nosopenam 1gm Injection | Vial of 1 injection | Wockhardt Ltd |
-| Registration No. 10767 | Azopen 1000mg Injection | Vial of 1 injection | RPG Life Sciences Ltd |
-| Registration No. 146279 | Meroclass 1000mg Injection | Vial of 1 injection | Impact Healthcare Pvt Ltd |
-| Registration No. 136204 | Merocrit Baby 125mg Injection | Vial of 5 ml injection | Cipla Ltd |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 10767 | Azopen 1000mg Injection | Vial of 1 Injection | Valid |
+| 15800 | Amiot 1gm Injection | Vial of 1 Injection | Valid |
+| 70662 | Denzogram Injection | Vial of 1 Injection | Valid |
+| 135532 | Merobax SB 1.5gm Injection | Vial of 1 Injection | Valid |
+| 136204 | Merocrit Baby 125mg Injection | Vial of 5 ml Injection | Valid |
+| 138304 | Mepen 1000mg Injection | Vial of 1 Injection | Valid |
+| 141640 | Merotiva 500mg Injection | Vial of 1 Injection | Valid |
+| 142528 | Metropen 1000mg Injection | Vial of 1 Injection | Valid |
+| 143399 | Merostal 1gm Injection | Vial of 1 Injection | Valid |
+| 146279 | Meroclass 1000mg Injection | Vial of 1 Injection | Valid |
+| 146453 | Meropemed 500mg Injection | Vial of 1 Injection | Valid |
+| 146725 | Merotrac 1000mg Injection | Vial of 1 Injection | Valid |
+| 148235 | Mepnem 1000mg Injection | Vial of 1 Injection | Valid |
+| 148884 | M P M 1000mg Injection | Vial of 1 Injection | Valid |
+| 149188 | Merotar 250mg Injection | Vial of 1 Injection | Valid |
+| 150183 | Merant 1000mg Injection | Vial of 1 Injection | Valid |
+| 159280 | Nosopenam 1gm Injection | Vial of 1 Injection | Valid |
+| 198308 | Reunipenem 1000mg Injection | Vial of 1 Injection | Valid |
+| 228771 | TI Mero 1000mg Injection | Vial of 1 Injection | Valid |
+| 248135 | Zaxter 125mg Injection | Vial of 1 ml Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

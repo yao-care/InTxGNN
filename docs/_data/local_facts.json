@@ -21,11 +21,11 @@
   "items_current": 2843
  },
  "reviews": {
-  "records": 727,
-  "pages": 693,
-  "public_pages_with_records": 690,
+  "records": 763,
+  "pages": 703,
+  "public_pages_with_records": 700,
   "by_action": {
-   "correct": 60,
+   "correct": 96,
    "mechanism": 667
   }
  },
@@ -111,6 +111,24 @@
  "no_current_more": 0,
  "most_reviewed": [
   {
+   "t": "Pregabalin",
+   "u": "/drugs/pregabalin/",
+   "l": "L5",
+   "lt": 0,
+   "lv": 20,
+   "r": 3,
+   "i": "tendinitis"
+  },
+  {
+   "t": "Alfuzosin",
+   "u": "/drugs/alfuzosin/",
+   "l": "L5",
+   "lt": 0,
+   "lv": 20,
+   "r": 2,
+   "i": "Ambras type hypertrichosis universalis congenita"
+  },
+  {
    "t": "Amiloride",
    "u": "/drugs/amiloride/",
    "l": "L5",
@@ -138,31 +156,13 @@
    "i": "simian immunodeficiency virus infection"
   },
   {
-   "t": "Bacitracin",
-   "u": "/drugs/bacitracin/",
-   "l": "L5",
-   "lt": 11,
-   "lv": 11,
-   "r": 2,
-   "i": "punctate epithelial keratoconjunctivitis"
-  },
-  {
-   "t": "Clioquinol",
-   "u": "/drugs/clioquinol/",
-   "l": "L5",
-   "lt": 5,
-   "lv": 5,
-   "r": 2,
-   "i": "ectothrix infectious disease"
-  },
-  {
-   "t": "Clonidine",
-   "u": "/drugs/clonidine/",
-   "l": "L5",
-   "lt": 20,
+   "t": "Atorvastatin",
+   "u": "/drugs/atorvastatin/",
+   "l": "L2",
+   "lt": 0,
    "lv": 20,
    "r": 2,
-   "i": "faciodigitogenital syndrome"
+   "i": "HIV infectious disease"
   }
  ],
  "example": {
@@ -176,198 +176,198 @@
  },
  "recent_reviews": [
   {
-   "t": "Zinc Acetate",
-   "u": "/drugs/zinc-acetate/",
-   "s": "Removed: \"single-ingredient\"",
-   "d": "2026-11-06"
+   "t": "Trifluoperazine",
+   "u": "/drugs/trifluoperazine/",
+   "s": "Removed: the single-ingredient claim",
+   "d": "2026-11-24"
   },
   {
-   "t": "Vitamin E",
-   "u": "/drugs/vitamin-e/",
-   "s": "Removed: \"single-ingredient\"",
-   "d": "2026-11-06"
+   "t": "Tramadol",
+   "u": "/drugs/tramadol/",
+   "s": "Removed: the single-ingredient claim",
+   "d": "2026-11-24"
   },
   {
-   "t": "Vitamin A",
-   "u": "/drugs/vitamin-a/",
-   "s": "Removed: \"single-ingredient\"",
-   "d": "2026-11-06"
+   "t": "Thiocolchicoside",
+   "u": "/drugs/thiocolchicoside/",
+   "s": "Removed: the single-ingredient claim",
+   "d": "2026-11-24"
   },
   {
-   "t": "Tropicamide",
-   "u": "/drugs/tropicamide/",
-   "s": "Removed: \"single-ingredient\"",
-   "d": "2026-11-06"
+   "t": "Tamsulosin",
+   "u": "/drugs/tamsulosin/",
+   "s": "Removed: the single-ingredient claim",
+   "d": "2026-11-24"
   },
   {
-   "t": "Ticarcillin",
-   "u": "/drugs/ticarcillin/",
-   "s": "Removed: \"single-ingredient\"",
-   "d": "2026-11-06"
+   "t": "Spironolactone",
+   "u": "/drugs/spironolactone/",
+   "s": "Removed: the sentence about the old table that called all products single-ingredient",
+   "d": "2026-11-24"
   },
   {
-   "t": "Tazarotene",
-   "u": "/drugs/tazarotene/",
-   "s": "Removed: \"single-ingredient\"",
-   "d": "2026-11-06"
+   "t": "Risperidone",
+   "u": "/drugs/risperidone/",
+   "s": "Removed: the single-ingredient claim",
+   "d": "2026-11-24"
   },
   {
-   "t": "Stavudine",
-   "u": "/drugs/stavudine/",
-   "s": "Removed: \"single-ingredient\"",
-   "d": "2026-11-06"
+   "t": "Rifampicin",
+   "u": "/drugs/rifampicin/",
+   "s": "Removed: the single-ingredient claim",
+   "d": "2026-11-24"
   },
   {
-   "t": "Sodium Fluoride",
-   "u": "/drugs/sodium-fluoride/",
-   "s": "Removed: \"single-ingredient\"",
-   "d": "2026-11-06"
+   "t": "Propranolol",
+   "u": "/drugs/propranolol/",
+   "s": "Removed: the single-ingredient claim",
+   "d": "2026-11-24"
   },
   {
-   "t": "Silver",
-   "u": "/drugs/silver/",
-   "s": "Removed: \"single-ingredient\"",
-   "d": "2026-11-06"
+   "t": "Pregabalin",
+   "u": "/drugs/pregabalin/",
+   "s": "Removed: the single-ingredient claim",
+   "d": "2026-11-24"
   },
   {
-   "t": "Sacubitril",
-   "u": "/drugs/sacubitril/",
-   "s": "Removed: \"single-ingredient\"",
-   "d": "2026-11-06"
+   "t": "Potassium Nitrate",
+   "u": "/drugs/potassium-nitrate/",
+   "s": "Removed: the single-ingredient claim",
+   "d": "2026-11-24"
   },
   {
-   "t": "Ritonavir",
-   "u": "/drugs/ritonavir/",
-   "s": "Removed: \"single-ingredient\"",
-   "d": "2026-11-06"
+   "t": "Polyethylene Glycol",
+   "u": "/drugs/polyethylene-glycol/",
+   "s": "Removed: the single-ingredient claim",
+   "d": "2026-11-24"
   },
   {
-   "t": "Quinapril",
-   "u": "/drugs/quinapril/",
-   "s": "Removed: \"single-ingredient\"",
-   "d": "2026-11-06"
+   "t": "Phenylpropanolamine",
+   "u": "/drugs/phenylpropanolamine/",
+   "s": "Removed: the single-ingredient claim",
+   "d": "2026-11-24"
   },
   {
-   "t": "Prilocaine",
-   "u": "/drugs/prilocaine/",
-   "s": "Removed: \"single-ingredient\"",
-   "d": "2026-11-06"
+   "t": "Phenylephrine",
+   "u": "/drugs/phenylephrine/",
+   "s": "Removed: the single-ingredient claim",
+   "d": "2026-11-24"
   },
   {
-   "t": "Potassium Iodide",
-   "u": "/drugs/potassium-iodide/",
-   "s": "Removed: \"single-ingredient products and all\"",
-   "d": "2026-11-06"
+   "t": "Ofloxacin",
+   "u": "/drugs/ofloxacin/",
+   "s": "Removed: the single-ingredient claim",
+   "d": "2026-11-24"
   },
   {
-   "t": "Potassium",
-   "u": "/drugs/potassium/",
-   "s": "Removed: \"single-ingredient\"",
-   "d": "2026-11-06"
+   "t": "Naphazoline",
+   "u": "/drugs/naphazoline/",
+   "s": "Removed: the single-ingredient claim",
+   "d": "2026-11-24"
   },
   {
-   "t": "Polyvinyl Alcohol",
-   "u": "/drugs/polyvinyl-alcohol/",
-   "s": "Removed: \"single-ingredient\"",
-   "d": "2026-11-06"
+   "t": "Nadifloxacin",
+   "u": "/drugs/nadifloxacin/",
+   "s": "Removed: the single-ingredient claim",
+   "d": "2026-11-24"
   },
   {
-   "t": "Nicergoline",
-   "u": "/drugs/nicergoline/",
-   "s": "Removed: \"single-ingredient\"",
-   "d": "2026-11-06"
+   "t": "Metronidazole",
+   "u": "/drugs/metronidazole/",
+   "s": "Removed: the single-ingredient claim",
+   "d": "2026-11-24"
   },
   {
-   "t": "Nefopam",
-   "u": "/drugs/nefopam/",
-   "s": "Removed: \"single-ingredient\"",
-   "d": "2026-11-06"
+   "t": "Metoprolol",
+   "u": "/drugs/metoprolol/",
+   "s": "Removed: the single-ingredient claim",
+   "d": "2026-11-24"
   },
   {
-   "t": "Meclizine",
-   "u": "/drugs/meclizine/",
-   "s": "Removed: \"single-ingredient\"",
-   "d": "2026-11-06"
+   "t": "Meloxicam",
+   "u": "/drugs/meloxicam/",
+   "s": "Removed: the single-ingredient claim",
+   "d": "2026-11-24"
   },
   {
-   "t": "Magnesium Citrate",
-   "u": "/drugs/magnesium-citrate/",
-   "s": "Removed: \"single-ingredient ombination or c\"",
-   "d": "2026-11-06"
+   "t": "Loteprednol Etabonate",
+   "u": "/drugs/loteprednol-etabonate/",
+   "s": "Removed: the single-ingredient claim",
+   "d": "2026-11-24"
   },
   {
-   "t": "Ledipasvir",
-   "u": "/drugs/ledipasvir/",
-   "s": "Removed: \"single-ingredient\"",
-   "d": "2026-11-06"
+   "t": "Lindane",
+   "u": "/drugs/lindane/",
+   "s": "Removed: the single-ingredient claim",
+   "d": "2026-11-24"
   },
   {
-   "t": "Isopropamide",
-   "u": "/drugs/isopropamide/",
-   "s": "Removed: \"single-ingredient\"",
-   "d": "2026-11-06"
+   "t": "Levosalbutamol",
+   "u": "/drugs/levosalbutamol/",
+   "s": "Removed: the single-ingredient claim",
+   "d": "2026-11-24"
   },
   {
-   "t": "Insulin Lispro",
-   "u": "/drugs/insulin-lispro/",
-   "s": "Removed: \"single-ingredient products and\"",
-   "d": "2026-11-06"
+   "t": "Levocetirizine",
+   "u": "/drugs/levocetirizine/",
+   "s": "Removed: the single-ingredient claim",
+   "d": "2026-11-24"
   },
   {
-   "t": "Insulin Degludec",
-   "u": "/drugs/insulin-degludec/",
-   "s": "Removed: \"single-ingredient\"",
-   "d": "2026-11-06"
+   "t": "Iron",
+   "u": "/drugs/iron/",
+   "s": "Removed: the single-ingredient claim",
+   "d": "2026-11-24"
   }
  ],
  "recent_licence_reviews": [
   {
-   "t": "Zinc Acetate",
-   "u": "/drugs/zinc-acetate/",
-   "s": "Removed: \"single-ingredient\"",
-   "d": "2026-11-06"
+   "t": "Trifluoperazine",
+   "u": "/drugs/trifluoperazine/",
+   "s": "Removed: the single-ingredient claim",
+   "d": "2026-11-24"
   },
   {
-   "t": "Vitamin E",
-   "u": "/drugs/vitamin-e/",
-   "s": "Removed: \"single-ingredient\"",
-   "d": "2026-11-06"
+   "t": "Tramadol",
+   "u": "/drugs/tramadol/",
+   "s": "Removed: the single-ingredient claim",
+   "d": "2026-11-24"
   },
   {
-   "t": "Vitamin A",
-   "u": "/drugs/vitamin-a/",
-   "s": "Removed: \"single-ingredient\"",
-   "d": "2026-11-06"
+   "t": "Thiocolchicoside",
+   "u": "/drugs/thiocolchicoside/",
+   "s": "Removed: the single-ingredient claim",
+   "d": "2026-11-24"
   },
   {
-   "t": "Tropicamide",
-   "u": "/drugs/tropicamide/",
-   "s": "Removed: \"single-ingredient\"",
-   "d": "2026-11-06"
+   "t": "Tamsulosin",
+   "u": "/drugs/tamsulosin/",
+   "s": "Removed: the single-ingredient claim",
+   "d": "2026-11-24"
   },
   {
-   "t": "Ticarcillin",
-   "u": "/drugs/ticarcillin/",
-   "s": "Removed: \"single-ingredient\"",
-   "d": "2026-11-06"
+   "t": "Spironolactone",
+   "u": "/drugs/spironolactone/",
+   "s": "Removed: the sentence about the old table that called all products single-ingredient",
+   "d": "2026-11-24"
   },
   {
-   "t": "Tazarotene",
-   "u": "/drugs/tazarotene/",
-   "s": "Removed: \"single-ingredient\"",
-   "d": "2026-11-06"
+   "t": "Risperidone",
+   "u": "/drugs/risperidone/",
+   "s": "Removed: the single-ingredient claim",
+   "d": "2026-11-24"
   },
   {
-   "t": "Stavudine",
-   "u": "/drugs/stavudine/",
-   "s": "Removed: \"single-ingredient\"",
-   "d": "2026-11-06"
+   "t": "Rifampicin",
+   "u": "/drugs/rifampicin/",
+   "s": "Removed: the single-ingredient claim",
+   "d": "2026-11-24"
   },
   {
-   "t": "Sodium Fluoride",
-   "u": "/drugs/sodium-fluoride/",
-   "s": "Removed: \"single-ingredient\"",
-   "d": "2026-11-06"
+   "t": "Propranolol",
+   "u": "/drugs/propranolol/",
+   "s": "Removed: the single-ingredient claim",
+   "d": "2026-11-24"
   }
  ],
  "files": {

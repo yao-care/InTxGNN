@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 206
 evidence_level: L2
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Clozapine"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "trichotillomania", "schizophreniform disorder", "bipolar disorder", "major affective disorder", "attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type", "Malan overgrowth syndrome"]
 description: "Clozapine: predicted new indication Manic bipolar affective disorder (evidence level L2). In India: at least 20 listed products"
@@ -83,13 +83,36 @@ A completed Phase 2 double-blind trial and a systematic review and meta-analysis
 
 Clozapine is marketed in India. The data compiled for this report show at least 20 valid single-ingredient registrations, and the list may be partial. Approved indication text is not recorded for any of them.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 82346 | Ericloza 100 Tablet | Strip of 10 tablets | Not specified |
-| 205850 | Sizolam 100mg Tablet | Strip of 10 tablets | Not specified |
-| 1409 | Alkepin Odt 50mg Tablet | Strip of 10 tablets | Not specified |
-| 45310 | Clonex 50mg Tablet | Strip of 10 tablets | Not specified |
-| 193052 | Restopax 50mg Tablet | Strip of 15 tablets | Not specified |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 1409 | Alkepin Odt 50mg Tablet | Strip of 10 tablets | Valid |
+| 37483 | Cipin 100mg Tablet | Strip of 10 tablets | Valid |
+| 39827 | Cizodep 50mg Tablet | Strip of 10 tablets | Valid |
+| 40606 | Cloza 100mg Tablet | Strip of 10 tablets | Valid |
+| 40766 | Cozarik 100mg Tablet | Strip of 10 tablets | Valid |
+| 42502 | Clozteo 100 Tablet | Strip of 10 tablets | Valid |
+| 45310 | Clonex 50mg Tablet | Strip of 10 tablets | Valid |
+| 56260 | Chrozap 50mg Tablet | Strip of 10 tablets | Valid |
+| 82346 | Ericloza 100 Tablet | Strip of 10 tablets | Valid |
+| 123166 | Lozapin 50mg Tablet | Strip of 10 tablets | Valid |
+| 178465 | Psypin 25mg Tablet | Strip of 10 tablets | Valid |
+| 189104 | Restopax 25mg Tablet | Strip of 10 tablets | Valid |
+| 193052 | Restopax 50mg Tablet | Strip of 15 tablets | Valid |
+| 199910 | Sizopin 50 Tablet | Strip of 10 tablets | Valid |
+| 205850 | Sizolam 100mg Tablet | Strip of 10 tablets | Valid |
+| 208387 | Syzodep 100 Tablet | Strip of 10 tablets | Valid |
+| 211138 | Syzodep 200 Tablet | Strip of 10 tablets | Valid |
+| 236994 | Varozap 100mg Tablet | Strip of 10 tablets | Valid |
+| 237016 | Vizonic 100mg Tablet | Strip of 10 tablets | Valid |
+| 237961 | Vizopin 50mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

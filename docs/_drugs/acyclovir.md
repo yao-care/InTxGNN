@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 24
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Acyclovir: predicted new indication Punctate epithelial keratoconjunctivitis (evidence level L5). Approved use: Herpes simplex infection, herpes zoster, chickenpox, herpes labialis…"
 monitor_inn: "Acyclovir"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "common wart", "post-infectious neuralgia", "hepatitis C induced liver cirrhosis", "eosinophilic pustular folliculitis", "sequela of COVID-19", "vulvovaginal candidiasis", "papular urticaria", "disease of orbital region", "epidemic keratoconjunctivitis"]
@@ -114,15 +114,38 @@ Top-ranked indication (punctate epithelial keratoconjunctivitis):
 
 ## India Market Information
 
-Acyclovir has 20 valid single-ingredient registrations, and all of them are marketed. Oral tablets (including dispersible forms) and injectables are available. The licence records contain no approved-indication text. Five main registrations:
+Acyclovir has 20 valid single-ingredient registrations, and all of them are marketed. Oral tablets (including dispersible forms) and injectables are available. The licence records contain no approved-indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 90 | Acivir 400 DT Tablet (Cipla Ltd) | Dispersible tablet, strip of 5 | Not specified in the records |
-| 5358 | Acloveer 400 Tablet (Knoll Pharmaceuticals Ltd) | Tablet, strip of 10 | Not specified in the records |
-| 103927 | Herpex 200mg Tablet (Torrent Pharmaceuticals Ltd) | Tablet, strip of 10 | Not specified in the records |
-| 124530 | Lovir 800mg Tablet (Eli Lilly and Company India Pvt Ltd) | Tablet, strip of 5 | Not specified in the records |
-| 193040 | Riv 500mg Injection (Medilife Health Sciences Pvt Ltd) | Injection, vial | Not specified in the records |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 90 | Acivir 400 DT Tablet | Strip of 5 tablet dt | Valid |
+| 5358 | Acloveer 400 Tablet | Strip of 10 tablets | Valid |
+| 9634 | Atc 800mg Tablet | Strip of 1 Tablet | Valid |
+| 14636 | Asv Vir 200mg Tablet | Strip of 10 tablets | Valid |
+| 15541 | Avir 400mg Tablet DT | Strip of 10 tablet dt | Valid |
+| 15880 | Aciherpin 800mg Tablet | Strip of 5 tablets | Valid |
+| 17473 | Acyclor 200mg Tablet | Strip of 10 tablets | Valid |
+| 19418 | Acicloder 400mg Tablet | Strip of 10 tablets | Valid |
+| 21157 | Acloriv 400mg Tablet DT | Strip of 10 tablet dt | Valid |
+| 55401 | Cyclex 200mg Tablet | Strip of 10 tablets | Valid |
+| 103927 | Herpex 200mg Tablet | Strip of 10 tablets | Valid |
+| 105351 | Herpemed 800mg Tablet | Strip of 10 tablets | Valid |
+| 124530 | Lovir 800mg Tablet | Strip of 5 tablets | Valid |
+| 129961 | Lyrovir 200mg Tablet | Strip of 10 tablets | Valid |
+| 142852 | Manovir 800mg Tablet | Strip of 10 tablets | Valid |
+| 193040 | Riv 500mg Injection | Vial of 1 Injection | Valid |
+| 219122 | Terminate 800mg Tablet | Strip of 10 tablets | Valid |
+| 235329 | Viromax 400mg Tablet | Strip of 10 tablets | Valid |
+| 251792 | Zovidac 200mg Tablet DT | Strip of 10 tablet dt | Valid |
+| 251849 | Zoylex 500mg Injection | Vial of 10 ml Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 An injectable formulation (500 mg vial) is registered, so the intralesional approach used in wart trials relies on diluting an existing vial. This is off-label and no wart-specific product exists.
 

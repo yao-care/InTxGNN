@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 63
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Apomorphine: predicted new indication Top-ranked: polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis (evidence level L5). Approved use: Parkinson disease"
 monitor_inn: "Apomorphine"
 predicted_indications: ["polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "schizophrenia", "myopia X-linked", "atypical glycine encephalopathy", "myopia 26, X-linked, female-limited", "syndromic myopia", "hydranencephaly (disease)"]
@@ -99,10 +99,16 @@ No literature was available for the other nine top-ranked predictions.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 1655 | Apotab 2 Sublingual tablet (Alteus Biogenics Pvt Ltd) | Strip of 10 sublingual tablets | Not stated in the data compiled |
-| 248265 | Zyprima 3mg Tablet (Zydus Cadila) | Strip of 4 sublingual tablets | Not stated in the data compiled |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 1655 | Apotab 2 Sublingual tablet | Strip of 10 Sublingual tablet | Valid |
+| 248265 | Zyprima 3mg Tablet | Strip of 4 Sublingual tablet | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ---
 

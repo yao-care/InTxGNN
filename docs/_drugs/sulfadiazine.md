@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 796
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Sulfadiazine"
 predicted_indications: ["pneumocystosis", "punctate epithelial keratoconjunctivitis"]
 description: "Sulfadiazine: predicted new indication Pneumocystosis (evidence level L5). In India: 16 listed products (16 not discontinued)"
@@ -83,13 +83,30 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 200254 | Salphaz Tablet | Strip of 10 tablets | Not specified |
-| 38277 | Clavora Cream | Tube of 20 gm cream | Not specified |
-| 204669 | Silverine 1% Cream | Tube of 20 gm cream | Not specified |
-| 209656 | Saphrine 1%/0.2% Ointment | Tube of 15 gm ointment | Not specified |
-| 201048 | Silvez Plus 1%/0.2% Cream | Tube of 15 gm cream | Not specified |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 6067 | AG X Cream | Tube of 10 gm Cream | Valid |
+| 9283 | Argedin Cream | Tube of 10 gm Cream | Valid |
+| 14201 | Argisept 1%/0.2% Cream | Tube of 10 gm Cream | Valid |
+| 27486 | Burnheal Plus Ointment | Tube of 20 gm Ointment | Valid |
+| 29192 | Burnosil Ointment | Tube of 25 gm Ointment | Valid |
+| 38277 | Clavora Cream | Tube of 20 gm Cream | Valid |
+| 200254 | Salphaz Tablet | Strip of 10 tablets | Valid |
+| 201048 | Silvez Plus 1%/0.2% Cream | Tube of 15 gm Cream | Valid |
+| 202277 | Silva Cream | Tube of 20 gm Cream | Valid |
+| 204669 | Silverine 1% Cream | Tube of 20 gm Cream | Valid |
+| 208317 | Safoderm 10% Cream | Tube of 15 gm Cream | Valid |
+| 208672 | Silverpin Cream | Tube of 30 gm Cream | Valid |
+| 208782 | Saphrine 1%/0.2% Cream | Tube of 250 gm Cream | Valid |
+| 209656 | Saphrine 1%/0.2% Ointment | Tube of 15 gm Ointment | Valid |
+| 211818 | Silvisyn Cream | Tube of 25 gm Cream | Valid |
+| 241802 | Wbc Cream | Tube of 15 gm Cream | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 Of the 16 valid registrations, 15 are topical creams or ointments. Only Salphaz Tablet is an oral product. Pneumocystosis would require systemic (oral or intravenous) dosing, so the topical products are not relevant to this indication.
 

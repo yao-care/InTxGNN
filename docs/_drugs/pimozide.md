@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 672
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Pimozide: predicted new indication Trichotillomania (evidence level L3). Approved use: Tourette syndrome"
 monitor_inn: "Pimozide"
 predicted_indications: ["trichotillomania", "manic bipolar affective disorder", "insomnia (disease)", "major affective disorder", "attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "Malan overgrowth syndrome", "attention deficit hyperactivity disorder, inattentive type", "agoraphobia", "benign paroxysmal torticollis of infancy"]
@@ -82,15 +82,38 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 182021 | Pimolite 4mg Tablet | Strip of 10 tablets | Not stated |
-| 165606 | Orap 4mg Tablet | Strip of 10 tablets | Not stated |
-| 134766 | Mozep 2 Tablet | Strip of 10 tablets | Not stated |
-| 176959 | Pimide 2mg Tablet | Strip of 10 tablets | Not stated |
-| 163388 | Orap 2mg Tablet | Strip of 10 tablets | Not stated |
+<!-- licenses:begin -->
 
-All 20 licences are valid single-ingredient oral tablets. The five above are a selection.
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 8029 | Atarap 4mg Tablet | Strip of 10 tablets | Valid |
+| 11919 | Arkazid 4mg Tablet | Strip of 10 tablets | Valid |
+| 17798 | Atarap 2mg Tablet | Strip of 10 tablets | Valid |
+| 78042 | Estizide 2mg Tablet | Strip of 10 tablets | Valid |
+| 123183 | Larap 2mg Tablet | Strip of 10 tablets | Valid |
+| 124745 | Larap 4mg Tablet | Strip of 10 tablets | Valid |
+| 134766 | Mozep 2 Tablet | Strip of 10 tablets | Valid |
+| 142314 | Monozide 4mg Tablet | Strip of 10 tablets | Valid |
+| 144377 | Medip 4mg Tablet | Strip of 10 tablets | Valid |
+| 144771 | Monozide 2mg Tablet | Strip of 10 tablets | Valid |
+| 154774 | Neurap 4mg Tablet | Strip of 10 tablets | Valid |
+| 154875 | Neurap 2mg Tablet | Strip of 10 tablets | Valid |
+| 163388 | Orap 2mg Tablet | Strip of 10 tablets | Valid |
+| 165056 | Orap 10mg Tablet | Strip of 10 tablets | Valid |
+| 165606 | Orap 4mg Tablet | Strip of 10 tablets | Valid |
+| 176959 | Pimide 2mg Tablet | Strip of 10 tablets | Valid |
+| 181424 | Pimoz 4mg Tablet | Strip of 10 tablets | Valid |
+| 182021 | Pimolite 4mg Tablet | Strip of 10 tablets | Valid |
+| 186348 | R Zep 2mg Tablet | Strip of 10 tablets | Valid |
+| 188862 | R Zep 4mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
+
+All 20 licences are valid single-ingredient oral tablets.
 
 ## Safety Considerations
 

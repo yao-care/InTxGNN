@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 571
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Moxifloxacin"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "congenital hematological disorder", "hematopoietic and lymphoid system neoplasm"]
 description: "Moxifloxacin: predicted new indication Polyclonal hyperviscosity syndrome (evidence level L5). In India: at least 20 listed products"
@@ -89,15 +89,38 @@ For the closest-to-label alternative (bubonic plague), the following preclinical
 
 ## India Market Information
 
-Moxifloxacin has 20 valid single-ingredient registrations, with no cancelled ones. Approved indication text is not available in the records. Main registrations:
+Moxifloxacin has 20 valid single-ingredient registrations, with no cancelled ones. Approved indication text is not available in the records.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 136016 | Moximac IV 400mg Infusion | 100 ml infusion bottle | Not available |
-| 88744 | Fleximox 400 Tablet | Strip of 10 tablets | Not available |
-| 133597 | Moxiflox Tablet (Cipla) | Strip of 5 tablets | Not available |
-| 209948 | Staxom 400mg Infusion (Sun Pharma) | 250 ml infusion bottle | Not available |
-| 239370 | Vodamox Eye Ointment | 5 g tube | Not available |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 66819 | Dufloxin 400mg Tablet | Strip of 10 tablets | Valid |
+| 88744 | Fleximox 400 Tablet | Strip of 10 tablets | Valid |
+| 118385 | Kwinmox 400mg Tablet | Strip of 5 tablets | Valid |
+| 133597 | Moxiflox Tablet | Strip of 5 tablets | Valid |
+| 133641 | Moxif 400 Tablet | Strip of 5 tablets | Valid |
+| 135779 | Moxiford 400mg Tablet | Strip of 5 tablets | Valid |
+| 136016 | Moximac IV 400mg Infusion | Bottle of 100 ml Infusion | Valid |
+| 137477 | Maxiflox 400mg Tablet | Strip of 5 tablets | Valid |
+| 137659 | Moxitak DM Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 138873 | Moxam Infusion | Bottle of 100 ml Infusion | Valid |
+| 140106 | Moxam 250mg Capsule | Strip of 10 capsules | Valid |
+| 140821 | Moxiocin 400mg Tablet | Strip of 10 tablets | Valid |
+| 142572 | Moxof 400mg Infusion | Bottle of 100 ml Infusion | Valid |
+| 142790 | Melocin 400mg Tablet | Strip of 10 tablets | Valid |
+| 155031 | Navimox 400mg Tablet | Strip of 5 tablets | Valid |
+| 204031 | S Moxy 400mg Tablet | Strip of 10 tablets | Valid |
+| 206291 | Sariflox 400mg Tablet | Strip of 5 tablets | Valid |
+| 209948 | Staxom 400mg Infusion | Bottle of 250 ml Infusion | Valid |
+| 239370 | Vodamox Eye Ointment | Tube of 5 gm Eye Ointment | Valid |
+| 242410 | Wemox 400mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 Available routes: oral (tablets, capsules), injectable (infusion) and ophthalmic (eye drops, eye ointment).
 

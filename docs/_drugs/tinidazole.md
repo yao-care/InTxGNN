@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 837
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Tinidazole: predicted new indication Postmenopausal atrophic vaginitis (evidence level L5). Approved use: Giardiasis, bacterial vaginosis, vaginitis, vulvitis, vulvovaginitis…"
 monitor_inn: "Tinidazole"
 predicted_indications: ["postmenopausal atrophic vaginitis", "ulceration of vulva", "vulvar neoplasm", "breast fibrocystic disease", "AIDS", "blunt duct adenosis of breast", "apocrine adenosis of breast", "AIDS related complex", "congenital human immunodeficiency virus", "benign mammary dysplasia"]
@@ -91,15 +91,38 @@ Literature was retrieved only for the AIDS prediction. It mostly concerns tinida
 
 ## India Market Information
 
-Twenty valid single-ingredient registrations are on record. The approved indication text is not available for any of them. Five main registrations are listed below.
+Twenty valid single-ingredient registrations are on record. The approved indication text is not available for any of them.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| 84533 | Fasigyn 500mg Tablet | Strip of 4 tablets | Pfizer Ltd |
-| 84516 | Fasigyn DS 1000mg Tablet | Strip of 2 tablets | Pfizer Ltd |
-| 222759 | Tinibid DS 1000mg Tablet | Strip of 6 tablets | Sun Pharmaceutical Industries Ltd |
-| 218212 | Tinifas 500mg Tablet | Strip of 10 tablets | Cipla Ltd |
-| 215735 | Tiniba 800mg Infusion | Bottle of 400 ml infusion | Zydus Cadila |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 40497 | Cozit 500mg Tablet | Strip of 10 tablets | Valid |
+| 43598 | Clodaz-V6 Tablet VT | Strip of 6 tablet vt | Valid |
+| 76537 | Enidazol 1000 Tablet | Strip of 2 tablets | Valid |
+| 84516 | Fasigyn DS 1000mg Tablet | Strip of 2 tablets | Valid |
+| 84533 | Fasigyn 500mg Tablet | Strip of 4 tablets | Valid |
+| 128148 | L Cot Kit | Packet of 3 kit | Valid |
+| 151173 | Noraday-TZ NF Tablet | Strip of 10 tablets | Valid |
+| 180787 | Protobid 500mg Tablet | Strip of 10 tablets | Valid |
+| 182713 | Protobid 300mg Tablet | Strip of 10 tablets | Valid |
+| 215151 | Tiniba 300 Tablet | Strip of 10 tablets | Valid |
+| 215735 | Tiniba 800mg Infusion | Bottle of 400 ml Infusion | Valid |
+| 216230 | Tinvista 500 Tablet | Strip of 10 tablets | Valid |
+| 217650 | TZ 500mg Tablet | Strip of 10 tablets | Valid |
+| 218212 | Tinifas 500mg Tablet | Strip of 10 tablets | Valid |
+| 220775 | Tizole 500mg Tablet | Strip of 10 tablets | Valid |
+| 222759 | Tinibid DS 1000mg Tablet | Strip of 6 tablets | Valid |
+| 224629 | Tinidin Infusion | Bottle of 500 ml Infusion | Valid |
+| 224927 | Tizole 300mg Tablet | Strip of 10 tablets | Valid |
+| 225574 | Todaz 300mg Tablet | Strip of 10 tablets | Valid |
+| 227254 | Todaz 500mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 Available forms are oral tablets and intravenous infusions. No vaginal formulation appears in the registration data.
 

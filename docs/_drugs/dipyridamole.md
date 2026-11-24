@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "Dipyridamole"
 predicted_indications: ["sick sinus syndrome 2, autosomal dominant", "sarcoglycanopathy", "Wildervanck syndrome", "macrocephaly, dysmorphic facies, and psychomotor retardation", "lateral sinus thrombosis", "cavernous sinus thrombosis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Dipyridamole: predicted new indication Sick sinus syndrome 2, autosomal dominant (evidence level L5). In India: 6 listed products (6 not discontinued)"
 ---
 
@@ -72,15 +72,22 @@ Currently no related literature available.
 
 ## India Market Information
 
-Six single-ingredient dipyridamole licences are currently valid in India. The main authorizations are:
+Six single-ingredient dipyridamole licences are currently valid in India.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| 111097 | Infartin 60 Tablet | Strip of 30 tablets | Jenburkt Pharmaceuticals Ltd |
-| 220671 | Thrombonil 75mg Tablet | Strip of 10 tablets | Sun Pharmaceutical Industries Ltd |
-| 176522 | Persantin 100mg Tablet | Strip of 10 tablets | German Remedies |
-| 41947 | Cardiwell 75mg Tablet | Strip of 10 tablets | Torrent Pharmaceuticals Ltd |
-| 44912 | Cardiwell 100mg Tablet | Strip of 10 tablets | Torrent Pharmaceuticals Ltd |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 41947 | Cardiwell 75mg Tablet | Strip of 10 tablets | Valid |
+| 44912 | Cardiwell 100mg Tablet | Strip of 10 tablets | Valid |
+| 64959 | Dynacard 100mg Tablet | Strip of 10 tablets | Valid |
+| 111097 | Infartin 60 Tablet | Strip of 30 tablets | Valid |
+| 176522 | Persantin 100mg Tablet | Strip of 10 tablets | Valid |
+| 220671 | Thrombonil 75mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 All listed products are oral tablets.
 

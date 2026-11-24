@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 250
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 description: "Dexchlorpheniramine: known uses and market status in India; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -73,30 +73,36 @@ The TxGNN deep-learning model (score ≥ 0.99) produced candidates for Dexchlorp
 
 ## India Market Information
 
-| Licence | Product | Dosage form | Status |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
 |------|------|------|------|
-| 63240 | Dexer 2mg Tablet | strip of 10 tablets | Valid |
-| 174781 | Polamin 2mg Tablet | strip of 10 tablets | Valid |
-| 59693 | Dexodil 2mg Tablet | strip of 10 tablets | Valid |
-| 64312 | Dexgen 6mg Tablet SR | strip of 10 tablet sr | Valid |
-| 173658 | Polaramine 2mg Tablet | strip of 10 tablets | Valid |
-| 64667 | Diominic 6mg Tablet | strip of 10 tablets | Valid |
-| 60720 | Dex-All SR Tablet | strip of 10 tablet sr | Valid |
-| 2445 | Aldex 6mg Tablet SR | strip of 10 tablet sr | Valid |
-| 37380 | Cortiflam D Tablet | strip of 10 tablets | Valid |
-| 176046 | Polaramine 6mg Tablet | strip of 10 tablets | Valid |
-| 27174 | Biodex 6mg Tablet SR | strip of 10 tablet sr | Valid |
-| 4437 | Atminic 2mg Tablet | strip of 10 tablets | Valid |
-| 64960 | Dexaller 6mg Tablet | strip of 10 tablets | Valid |
-| 63213 | Diowin Tablet | strip of 10 tablets | Valid |
-| 164118 | Oramin 6mg Tablet SR | strip of 10 tablet sr | Valid |
-| 67511 | DPM 2mg Tablet | strip of 10 tablets | Valid |
-| 179452 | Polaramine 2.5mg Tablet | strip of 10 tablets | Valid |
-| 4801 | Alermine 2mg Tablet | strip of 10 tablets | Valid |
-| 64489 | Dexil 2mg Tablet | strip of 10 tablets | Valid |
-| 63430 | Doz 6mg Tablet SR | strip of 10 tablet sr | Valid |
+| 2445 | Aldex 6mg Tablet SR | Strip of 10 tablet sr | Valid |
+| 4437 | Atminic 2mg Tablet | Strip of 10 tablets | Valid |
+| 4801 | Alermine 2mg Tablet | Strip of 10 tablets | Valid |
+| 27174 | Biodex 6mg Tablet SR | Strip of 10 tablet sr | Valid |
+| 37380 | Cortiflam D Tablet | Strip of 10 tablets | Valid |
+| 59693 | Dexodil 2mg Tablet | Strip of 10 tablets | Valid |
+| 60720 | Dex-All SR Tablet | Strip of 10 tablet sr | Valid |
+| 63213 | Diowin Tablet | Strip of 10 tablets | Valid |
+| 63240 | Dexer 2mg Tablet | Strip of 10 tablets | Valid |
+| 63430 | Doz 6mg Tablet SR | Strip of 10 tablet sr | Valid |
+| 64312 | Dexgen 6mg Tablet SR | Strip of 10 tablet sr | Valid |
+| 64489 | Dexil 2mg Tablet | Strip of 10 tablets | Valid |
+| 64667 | Diominic 6mg Tablet | Strip of 10 tablets | Valid |
+| 64960 | Dexaller 6mg Tablet | Strip of 10 tablets | Valid |
+| 67511 | DPM 2mg Tablet | Strip of 10 tablets | Valid |
+| 164118 | Oramin 6mg Tablet SR | Strip of 10 tablet sr | Valid |
+| 173658 | Polaramine 2mg Tablet | Strip of 10 tablets | Valid |
+| 174781 | Polamin 2mg Tablet | Strip of 10 tablets | Valid |
+| 176046 | Polaramine 6mg Tablet | Strip of 10 tablets | Valid |
+| 179452 | Polaramine 2.5mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
 
 Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 822
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Terfenadine"
 predicted_indications: ["nasal cavity disease", "rosacea conjunctivitis"]
 description: "Terfenadine: predicted new indication Nasal cavity disease (evidence level L5). In India: 8 listed products (8 not discontinued)"
@@ -91,15 +91,24 @@ The most relevant publications for allergic urticaria are listed below. All are 
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 224163 | Trexyl 30mg Suspension | Bottle of 60 ml suspension | Not specified |
-| 227829 | Tedin 120mg Tablet | Strip of 10 tablets | Not specified |
-| 224458 | Tefdin 60mg Tablet | Strip of 10 tablets | Not specified |
-| 223058 | Tedin 30mg Syrup | Bottle of 60 ml syrup | Not specified |
-| 222731 | Tofrin 60mg Tablet | Strip of 10 tablets | Not specified |
+<!-- licenses:begin -->
 
-Eight valid single-ingredient registrations exist in total (the table shows the first five). Manufacturers include Sun Pharmaceutical, Gufic Bioscience, Torrent, Cipla and Psycormedies.
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 218740 | Trexyl 60mg Tablet | Strip of 10 tablets | Valid |
+| 222731 | Tofrin 60mg Tablet | Strip of 10 tablets | Valid |
+| 223058 | Tedin 30mg Syrup | Bottle of 60 ml Syrup | Valid |
+| 223459 | Tedin 60mg Tablet | Strip of 10 tablets | Valid |
+| 223916 | Terfed 30mg Syrup | Bottle of 50 ml Syrup | Valid |
+| 224163 | Trexyl 30mg Suspension | Bottle of 60 ml Suspension | Valid |
+| 224458 | Tefdin 60mg Tablet | Strip of 10 tablets | Valid |
+| 227829 | Tedin 120mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
+
+Eight valid single-ingredient registrations exist in total. Manufacturers include Sun Pharmaceutical, Gufic Bioscience, Torrent, Cipla and Psycormedies.
 
 ## Safety Considerations
 

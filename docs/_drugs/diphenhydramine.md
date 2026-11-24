@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Diphenhydramine"
 predicted_indications: ["rosacea conjunctivitis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Diphenhydramine: predicted new indication rosacea conjunctivitis (evidence level L5). In India: at least 20 listed products"
 ---
 
@@ -72,15 +72,38 @@ Currently no related literature available.
 
 ## India Market Information
 
-At least 20 valid single-ingredient licences are recorded, and the list may be partial. Up to 5 are shown below. None carries approved-indication text in the local data.
+At least 20 valid single-ingredient licences are recorded, and the list may be partial. None carries approved-indication text in the local data.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 28971 | Benacof 25mg Soft Gelatin Capsule | Strip of 10 soft gelatin capsules | Not recorded |
-| 145847 | Matdryl Syrup | Bottle of 100 ml syrup | Not recorded |
-| 21615 | Aden-Rex Syrup | Bottle of 100 ml syrup | Not recorded |
-| 154621 | Novadryl 25mg Capsule | Strip of 10 capsules | Not recorded |
-| 115754 | Kuffdryl 25mg Tablet | Strip of 10 tablets | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 3090 | Aldryl Soft Gelatin Capsule | Strip of 10 soft gelatin capsules | Valid |
+| 6446 | A-Rex Syrup | Bottle of 100 ml Syrup | Valid |
+| 21615 | Aden-Rex Syrup | Bottle of 100 ml Syrup | Valid |
+| 28446 | Bedryl 75mg Soft Gelatin Capsule | Strip of 10 soft gelatin capsules | Valid |
+| 28971 | Benacof 25mg Soft Gelatin Capsule | Strip of 10 soft gelatin capsules | Valid |
+| 78957 | Exylin 125mg Tablet DT | Strip of 10 tablet dt | Valid |
+| 115754 | Kuffdryl 25mg Tablet | Strip of 10 tablets | Valid |
+| 115882 | Kuffdryl D 25mg Capsule | Strip of 10 capsules | Valid |
+| 117573 | Koycal Syrup | Bottle of 100 ml Syrup | Valid |
+| 118730 | Kufma CR Syrup | Bottle of 100 ml Syrup | Valid |
+| 135486 | Monodryl Syrup | Bottle of 100 ml Syrup | Valid |
+| 145847 | Matdryl Syrup | Bottle of 100 ml Syrup | Valid |
+| 154621 | Novadryl 25mg Capsule | Strip of 10 capsules | Valid |
+| 170101 | Omituss Syrup Delicious Strawberry | Bottle of 100 ml Syrup | Valid |
+| 205494 | StayHappi Diphenhydramine+Ammonium Chloride+Sodium Citrate 14.08mg/138mg/57.03m… | Bottle of 100 ml Syrup | Valid |
+| 208098 | StayHappi Diphenhydramine 25mg Capsule | Strip of 10 capsules | Valid |
+| 224642 | Toslin Expectorant | Bottle of 50 ml Expectorant | Valid |
+| 241514 | Weldryl Syrup | Bottle of 100 ml Syrup | Valid |
+| 241953 | Windryl Syrup | Bottle of 100 ml Syrup | Valid |
+| 247305 | Zendryl 25mg Capsule | Strip of 10 capsules | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

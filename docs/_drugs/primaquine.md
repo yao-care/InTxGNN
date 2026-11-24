@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 699
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Primaquine"
 predicted_indications: ["myiasis", "wound myiasis", "furuncular myiasis", "creeping myiasis", "toxoplasmosis", "nocardiosis", "pneumocystosis"]
 description: "Primaquine: predicted new indication Myiasis (evidence level L5). In India: at least 20 listed products"
@@ -81,15 +81,38 @@ Currently no related literature available.
 
 ## India Market Information
 
-Primaquine is marketed in India as single-ingredient oral tablets, with 20 valid registrations and none cancelled. Main authorizations:
+Primaquine is marketed in India as single-ingredient oral tablets, with 20 valid registrations and none cancelled.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| 178384 | Primaline 15mg Tablet | Strip of 10 tablets | Unicure India Pvt Ltd |
-| 219666 | Tpquin P 15mg Tablet | Strip of 10 tablets | Taurus Laboratories Pvt Ltd |
-| 179447 | Primacare 7.5mg Tablet | Strip of 10 tablets | Olcare Laboratories |
-| 180931 | Prib DS 15mg Tablet | Strip of 10 tablets | Bennet Pharmaceuticals Limited |
-| 129012 | Leoprime 7.5mg Tablet | Strip of 14 tablets | Leo Pharmaceuticals |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 126740 | Leoprime Forte 7.5mg Tablet | Strip of 14 tablets | Valid |
+| 128074 | Leoprime 7.5mg Tablet | Strip of 10 tablets | Valid |
+| 129012 | Leoprime 7.5mg Tablet | Strip of 14 tablets | Valid |
+| 129949 | Leoprime Kid 7.5mg Tablet | Strip of 14 tablets | Valid |
+| 134078 | Malirid 7.5mg Tablet | Strip of 7 tablets | Valid |
+| 175898 | Pmq Inga 15mg Tablet | Strip of 14 tablets | Valid |
+| 176621 | Primax 15mg Tablet | Strip of 10 tablets | Valid |
+| 177091 | Primalex 7.5mg Tablet | Strip of 10 tablets | Valid |
+| 177282 | Primelife 7.5mg Tablet | Strip of 14 tablets | Valid |
+| 177354 | Pqine 7.5mg Tablet | Strip of 10 tablets | Valid |
+| 178384 | Primaline 15mg Tablet | Strip of 10 tablets | Valid |
+| 178777 | Primal 7.5mg Tablet | Strip of 10 tablets | Valid |
+| 179447 | Primacare 7.5mg Tablet | Strip of 10 tablets | Valid |
+| 179518 | Pmq Inga 2.5mg Tablet | Strip of 10 tablets | Valid |
+| 179831 | Prib 7.5mg Tablet | Strip of 10 tablets | Valid |
+| 180931 | Prib DS 15mg Tablet | Strip of 10 tablets | Valid |
+| 191754 | R C Vax 7.5mg Tablet | Strip of 14 tablets | Valid |
+| 210955 | Sacprim DS 15mg Tablet | Strip of 10 tablets | Valid |
+| 219666 | Tpquin P 15mg Tablet | Strip of 10 tablets | Valid |
+| 225487 | Tpquin 7.5mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ---
 

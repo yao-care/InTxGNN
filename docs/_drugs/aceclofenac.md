@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 16
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Aceclofenac: predicted new indication Brachyolmia-amelogenesis imperfecta syndrome (evidence level L5). Approved use: Rheumatoid arthritis, ankylosing spondylitis, osteoarthritis…"
 monitor_inn: "Aceclofenac"
 predicted_indications: ["brachyolmia-amelogenesis imperfecta syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "hypermobility of coccyx", "Kummell disease"]
@@ -82,15 +82,38 @@ Currently no related literature is available for the top-ranked prediction.
 
 ## India Market Information
 
-Aceclofenac has 20 valid single-ingredient registrations in India. The records contain no approved indication text. Five representative authorizations:
+Aceclofenac has 20 valid single-ingredient registrations in India. The records contain no approved indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Registration No. 76207 | Eenac-SP Tablet | Strip of 10 tablets | Not stated in the compiled records |
-| Registration No. 37081 | Ceknac Plus Tablet | Strip of 10 tablets | Not stated in the compiled records |
-| Registration No. 194444 | Riofenac-P Oral Suspension | Bottle of 60 ml oral suspension | Not stated in the compiled records |
-| Registration No. 106002 | Hilnac-SR Tablet | Strip of 10 sustained-release tablets | Not stated in the compiled records |
-| Registration No. 8938 | Abate 200mg Tablet SR | Strip of 10 sustained-release tablets | Not stated in the compiled records |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 3382 | Asclin P 100 mg/500 mg Tablet | Strip of 10 tablets | Valid |
+| 3717 | Astofen-P Tablet | Strip of 10 tablets | Valid |
+| 4094 | Ace-P Tablet | Strip of 10 tablets | Valid |
+| 4862 | Albiflam SP Tablet | Strip of 10 tablets | Valid |
+| 8938 | Abate 200mg Tablet SR | Strip of 10 tablet sr | Valid |
+| 37081 | Ceknac Plus Tablet | Strip of 10 tablets | Valid |
+| 60715 | Dictat Tablet | Strip of 10 tablets | Valid |
+| 65224 | Decinix-SP Tablet | Strip of 10 tablets | Valid |
+| 70045 | Denfinac-P 50 Oral Suspension | Bottle of 60 ml Oral Suspension | Valid |
+| 70828 | Doltwin 100mg/4mg Tablet | Strip of 10 tablets | Valid |
+| 74959 | Endonac CX Tablet | Strip of 10 tablets | Valid |
+| 76207 | Eenac-SP Tablet | Strip of 10 tablets | Valid |
+| 88286 | Freemol TH 100mg/4mg Tablet | Strip of 10 tablets | Valid |
+| 106002 | Hilnac-SR Tablet | Strip of 10 tablet sr | Valid |
+| 116901 | Kalovac-SP Tablet | Strip of 10 tablets | Valid |
+| 142537 | Mofenac P 100mg/325mg Tablet | Strip of 10 tablets | Valid |
+| 178200 | Parafide Tablet | Strip of 10 tablets | Valid |
+| 182378 | Pyrinac MR 100mg/325mg/250mg Tablet | Strip of 10 tablets | Valid |
+| 194444 | Riofenac-P Oral Suspension | Bottle of 60 ml Oral Suspension | Valid |
+| 233593 | Vetory MX Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 All products are oral (tablets, sustained-release tablets and oral suspension).
 

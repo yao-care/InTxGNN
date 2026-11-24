@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 800
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 description: "Sumatriptan: known uses and market status in India; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -72,30 +72,36 @@ The TxGNN model's candidates for Sumatriptan are all known uses, so there is cur
 
 ## India Market Information
 
-| Licence | Product | Dosage form | Status |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
 |------|------|------|------|
-| 202596 | Sumitrex 6mg Injection | vial of 1 ml Injection | Valid |
-| 204762 | Sumitop 25 Tablet | strip of 10 tablets | Valid |
-| 152094 | Naprowel S 85mg/500mg Tablet | strip of 2 tablets | Valid |
-| 201133 | Somatran N 85mg/500mg Tablet | strip of 4 tablets | Valid |
-| 202285 | Sumalgia 85mg/500mg Tablet | strip of 4 tablets | Valid |
-| 152133 | Naprosuma Tablet | strip of 2 tablets | Valid |
-| 202940 | Sumitop 50 Tablet | strip of 10 tablets | Valid |
-| 201060 | Sumitrex 50mg Tablet | strip of 1 Tablet | Valid |
-| 85481 | Fyn-Head Tablet | strip of 4 tablets | Valid |
-| 217954 | Throbexit Tablet | strip of 4 tablets | Valid |
-| 200991 | Suminat 100 Tablet | strip of 1 Tablet | Valid |
-| 205859 | Sumisun 25mg Tablet | strip of 10 tablets | Valid |
-| 205577 | Sumatan 25mg Tablet | strip of 10 tablets | Valid |
-| 103663 | Headset Tablet | strip of 2 tablets | Valid |
-| 202585 | Suminat Fast 25mg Tablet | strip of 1 Tablet | Valid |
-| 207941 | Sumatan 100mg Tablet | strip of 10 tablets | Valid |
-| 202622 | Sumitrex 25mg Tablet | strip of 1 Tablet | Valid |
-| 151207 | Napros 85mg/500mg Tablet | strip of 10 tablets | Valid |
-| 199927 | Suminat 25 Tablet | strip of 1 Tablet | Valid |
-| 203752 | Sumitrex 100mg Tablet | strip of 1 Tablet | Valid |
+| 85481 | Fyn-Head Tablet | Strip of 4 tablets | Valid |
+| 103663 | Headset Tablet | Strip of 2 tablets | Valid |
+| 151207 | Napros 85mg/500mg Tablet | Strip of 10 tablets | Valid |
+| 152094 | Naprowel S 85mg/500mg Tablet | Strip of 2 tablets | Valid |
+| 152133 | Naprosuma Tablet | Strip of 2 tablets | Valid |
+| 199927 | Suminat 25 Tablet | Strip of 1 Tablet | Valid |
+| 200991 | Suminat 100 Tablet | Strip of 1 Tablet | Valid |
+| 201060 | Sumitrex 50mg Tablet | Strip of 1 Tablet | Valid |
+| 201133 | Somatran N 85mg/500mg Tablet | Strip of 4 tablets | Valid |
+| 202285 | Sumalgia 85mg/500mg Tablet | Strip of 4 tablets | Valid |
+| 202585 | Suminat Fast 25mg Tablet | Strip of 1 Tablet | Valid |
+| 202596 | Sumitrex 6mg Injection | Vial of 1 ml Injection | Valid |
+| 202622 | Sumitrex 25mg Tablet | Strip of 1 Tablet | Valid |
+| 202940 | Sumitop 50 Tablet | Strip of 10 tablets | Valid |
+| 203752 | Sumitrex 100mg Tablet | Strip of 1 Tablet | Valid |
+| 204762 | Sumitop 25 Tablet | Strip of 10 tablets | Valid |
+| 205577 | Sumatan 25mg Tablet | Strip of 10 tablets | Valid |
+| 205859 | Sumisun 25mg Tablet | Strip of 10 tablets | Valid |
+| 207941 | Sumatan 100mg Tablet | Strip of 10 tablets | Valid |
+| 217954 | Throbexit Tablet | Strip of 4 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
 
 Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

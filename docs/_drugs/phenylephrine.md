@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 665
 evidence_level: L4
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Phenylephrine: predicted new indication Nasal cavity disease (evidence level L4). Approved use: Allergic rhinitis, vasomotor rhinitis, pharyngitis, common cold…"
 monitor_inn: "Phenylephrine"
 predicted_indications: ["nasal cavity disease", "trigeminal autonomic cephalalgia"]
@@ -78,15 +78,44 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-All 20 registrations are valid single-ingredient licences. The records contain no approved-indication text. The table lists 5 of them.
+All 20 registrations are valid licences. The records contain no approved-indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 64687 | Dexcare Syrup | Syrup, 100 ml bottle | Not stated in the records |
-| 252407 | Zuricof DX Syrup | Syrup, 60 ml bottle | Not stated in the records |
-| 117227 | Korf D Syrup | Syrup, 100 ml bottle | Not stated in the records |
-| 116618 | Koffrio Tablet DT | Dispersible tablet, strip of 10 | Not stated in the records |
-| 117200 | Kofno-Plus Softgel Capsule | Soft gelatin capsule, strip of 10 | Not stated in the records |
+<!-- review:begin in-lic-20261124-phenylephrine-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "All 20 registrations are valid single-ingredient licences." Removed: it described the products as single-ingredient (or as having no combination products), which does not match the Indian medicine data (the Indian Medicine Dataset): some of the recorded products are fixed-dose combinations. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124-phenylephrine-1 -->
+
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 29480 | Brethex-DM Syrup | Bottle of 60 ml Syrup | Valid |
+| 46090 | Cutcold D 5mg/2mg/10mg Tablet | Strip of 10 tablets | Valid |
+| 46233 | Coximap Syrup | Bottle of 100 ml Syrup | Valid |
+| 61544 | Dextrom Syrup | Bottle of 100 ml Syrup | Valid |
+| 64687 | Dexcare Syrup | Bottle of 100 ml Syrup | Valid |
+| 108854 | Instaryl LS Drop | Packet of 15 ml Drop | Valid |
+| 115968 | Kufril D Junior Syrup | Bottle of 60 ml Syrup | Valid |
+| 116618 | Koffrio Tablet DT | Strip of 10 tablet dt | Valid |
+| 117200 | Kofno-Plus Softgel Capsule | Strip of 10 soft gelatin capsules | Valid |
+| 117227 | Korf D Syrup | Bottle of 100 ml Syrup | Valid |
+| 117773 | Killkuf D Syrup | Bottle of 100 ml Syrup | Valid |
+| 117847 | Kuff D XF Syrup | Bottle of 50 ml Syrup | Valid |
+| 119863 | Kofseizz Syrup | Bottle of 100 ml Syrup | Valid |
+| 130385 | Lotdryl DC Syrup | Bottle of 100 ml Syrup | Valid |
+| 130918 | Locuff DX Syrup | Bottle of 100 ml Syrup | Valid |
+| 203269 | StayHappi Phenylephrine+Chlorpheniramine Maleate+Dextromethorphan Hydrobromide… | Bottle of 100 ml Syrup | Valid |
+| 227344 | Tornax Syrup | Bottle of 60 ml Syrup | Valid |
+| 241483 | Welminic DX Syrup | Bottle of 100 ml Syrup | Valid |
+| 247021 | Zencoff Syrup | Bottle of 100 ml Syrup | Valid |
+| 252407 | Zuricof DX Syrup | Bottle of 60 ml Syrup | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -124,11 +153,12 @@ The predicted indication largely overlaps with phenylephrine's existing nasal de
 
 ## Review Log
 
-Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Biorphen (phenylephrine hydrochloride) prescribing information, Dr. Reddy's Laboratories Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2f715e4e-b269-b935-d2c9-003cb29770be) |
+| 2026-11-24 | Removed: the single-ingredient claim | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 

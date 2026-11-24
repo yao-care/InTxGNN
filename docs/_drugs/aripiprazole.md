@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 69
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Aripiprazole"
 predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "Phelan-McDermid syndrome", "amelocerebrohypohidrotic syndrome", "distal 17p13.3 microdeletion syndrome", "trichotillomania", "Malan overgrowth syndrome", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)"]
 description: "Aripiprazole: predicted new indication Gaze palsy, familial horizontal, with progressive scoliosis (evidence level L5). In India: at least 20 listed products"
@@ -99,13 +99,36 @@ Note: one meta-analysis of aripiprazole or bupropion augmentation (PMID 38669232
 
 Twenty valid single-ingredient registrations are on record. The registration records contain no approved indication text. Five main registrations are listed.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 99889 | G-Pra 10 Tablet (Gamete Pharma) | Strip of 10 tablets | Not stated in the record |
-| 3239 | Arirazo 10mg Tablet (Arinna Lifescience) | Strip of 10 tablets | Not stated in the record |
-| 14939 | Aripaxe 20 Tablet (Lifecare Neuro Products) | Strip of 10 tablets | Not stated in the record |
-| 2729 | Asprito 10 Tablet (Intas Pharmaceuticals) | Strip of 15 tablets | Not stated in the record |
-| 3883 | Aripra 10mg Tablet (Sun Pharmaceutical Industries) | Strip of 10 tablets | Not stated in the record |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 774 | Arifine 2.5 Tablet | Strip of 10 tablets | Valid |
+| 2729 | Asprito 10 Tablet | Strip of 15 tablets | Valid |
+| 3051 | Arip MT 20 Tablet | Strip of 15 tablets | Valid |
+| 3239 | Arirazo 10mg Tablet | Strip of 10 tablets | Valid |
+| 3422 | Ariday 10 Tablet | Strip of 10 tablets | Valid |
+| 3883 | Aripra 10mg Tablet | Strip of 10 tablets | Valid |
+| 4495 | Apiz 10mg Tablet | Strip of 10 tablets | Valid |
+| 7922 | Apiz 15mg Tablet | Strip of 10 tablets | Valid |
+| 8565 | Arzur 15 Tablet | Strip of 10 tablets | Valid |
+| 12846 | Ariza 10mg Tablet | Strip of 10 tablets | Valid |
+| 14174 | Affitor 10mg Tablet | Strip of 10 tablets | Valid |
+| 14939 | Aripaxe 20 Tablet | Strip of 10 tablets | Valid |
+| 15742 | Arirazo 20mg Tablet | Strip of 10 tablets | Valid |
+| 18544 | Aripaso 10mg Tablet | Strip of 10 tablets | Valid |
+| 19915 | Aricalm 20mg Tablet | Strip of 10 tablets | Valid |
+| 23491 | Arisun 20mg Tablet | Strip of 10 tablets | Valid |
+| 77931 | Elrip 15mg Tablet | Strip of 10 tablets | Valid |
+| 99889 | G-Pra 10 Tablet | Strip of 10 tablets | Valid |
+| 153004 | Nulet 15 Tablet | Strip of 10 tablets | Valid |
+| 155368 | Nulet 20mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

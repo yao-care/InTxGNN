@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 507
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Loxapine"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)", "myopia X-linked", "congenital disorder of glycosylation with defective fucosylation", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia 26, X-linked, female-limited", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "syndromic myopia", "atypical glycine encephalopathy"]
 description: "Loxapine: predicted new indication Retinal dystrophy with or without extraocular anomalies (evidence level L5). In India: at least 20 listed products"
@@ -78,13 +78,36 @@ Mania and schizophrenia share psychotic and agitated features that respond to do
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 123711 | Loxapax 10mg Tablet | Strip of 10 tablets | Not stated in the licence record |
-| 128565 | Loxafly 25mg Tablet | Strip of 10 tablets | Not stated in the licence record |
-| 130404 | Loxip 10mg Capsule | Strip of 10 capsules | Not stated in the licence record |
-| 124529 | Loxapac 10mg Capsule (Pfizer Ltd) | Strip of 10 capsules | Not stated in the licence record |
-| 123805 | Loxapax Syrup | Bottle of 60 ml syrup | Not stated in the licence record |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 82495 | Enipaxol 10mg Capsule | Strip of 10 capsules | Valid |
+| 105155 | Halopac 25 Capsule | Strip of 10 capsules | Valid |
+| 123704 | Loxapax 25mg Tablet | Strip of 10 tablets | Valid |
+| 123711 | Loxapax 10mg Tablet | Strip of 10 tablets | Valid |
+| 123805 | Loxapax Syrup | Bottle of 60 ml Syrup | Valid |
+| 124327 | Loxatias 10 Capsule | Strip of 10 capsules | Valid |
+| 124529 | Loxapac 10mg Capsule | Strip of 10 capsules | Valid |
+| 124973 | Loxacalm C Drop | Packet of 30 ml Drop | Valid |
+| 125654 | Loxatias 25 Capsule | Strip of 10 capsules | Valid |
+| 126245 | Loxacalm 25mg Capsule | Strip of 10 capsules | Valid |
+| 126742 | Loxep 25mg Tablet | Strip of 10 tablets | Valid |
+| 127354 | Loxapax 50mg Capsule | Strip of 10 capsules | Valid |
+| 127404 | Loxip 25mg Tablet | Strip of 10 tablets | Valid |
+| 127497 | Loxpin 10mg Capsule | Strip of 10 capsules | Valid |
+| 127794 | Loxpin 25mg Capsule | Strip of 10 capsules | Valid |
+| 128291 | Loxep 10mg Tablet | Strip of 10 tablets | Valid |
+| 128565 | Loxafly 25mg Tablet | Strip of 10 tablets | Valid |
+| 129116 | Loxabol 25mg Capsule | Strip of 10 capsules | Valid |
+| 130370 | Loxabol 10mg Capsule | Strip of 10 capsules | Valid |
+| 130404 | Loxip 10mg Capsule | Strip of 10 capsules | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 A total of 20 single-ingredient licences are valid, in tablet, capsule, syrup and drop forms.
 

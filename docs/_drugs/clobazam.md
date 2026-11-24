@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 196
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Clobazam: predicted new indication Febrile infection-related epilepsy syndrome (evidence level L4). Approved use: Lennox-Gastaut syndrome"
 monitor_inn: "Clobazam"
 predicted_indications: ["febrile infection-related epilepsy syndrome", "perioral myoclonia with absences", "atypical childhood epilepsy with centrotemporal spikes", "photosensitive occipital lobe epilepsy", "cryptogenic late-onset epileptic spasms", "childhood onset epileptic encephalopathy", "benign occipital epilepsy", "early-onset epileptic encephalopathy and intellectual disability due to GRIN2A mutation", "restless legs syndrome", "polymicrogyria with optic nerve hypoplasia"]
@@ -87,15 +87,38 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-Clobazam is marketed in India as a single-ingredient oral tablet (20 valid registrations, none cancelled). The data compiled for this report contain no approved-indication text for these licences. Five representative registrations:
+Clobazam is marketed in India as a single-ingredient oral tablet (20 valid registrations, none cancelled). The data compiled for this report contain no approved-indication text for these licences.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Registration No. 80614 | Ericlob 10 Tablet | Strip of 10 tablets | Not stated |
-| Registration No. 204573 | Sebenz 5mg Tablet | Strip of 10 tablets | Not stated |
-| Registration No. 84073 | Frisium 10mg Tablet | Strip of 15 tablets | Not stated |
-| Registration No. 36105 | Cloba MT 2.5 Tablet MD | Strip of 10 tablets (MD) | Not stated |
-| Registration No. 155298 | Nucloba 5 Tablet DT | Strip of 10 tablets (DT) | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 36105 | Cloba MT 2.5 Tablet MD | Strip of 10 tablet md | Valid |
+| 36361 | Clobium 5mg Tablet | Strip of 10 tablets | Valid |
+| 37010 | Clobator 5mg Tablet | Strip of 10 tablets | Valid |
+| 41456 | C Baz 10mg Tablet | Strip of 10 tablets | Valid |
+| 43941 | Clobazaa 10mg Tablet | Strip of 10 tablets | Valid |
+| 48426 | Clobazed 10mg Tablet | Strip of 10 tablets | Valid |
+| 54520 | Clobaday 5mg Tablet | Strip of 10 tablets | Valid |
+| 73744 | Epiford 10mg Tablet | Strip of 10 tablets | Valid |
+| 75491 | Exazam 10mg Tablet | Strip of 10 tablets | Valid |
+| 80614 | Ericlob 10 Tablet | Strip of 10 tablets | Valid |
+| 84073 | Frisium 10mg Tablet | Strip of 15 tablets | Valid |
+| 97448 | Gabaplus 10mg Tablet | Strip of 10 tablets | Valid |
+| 119383 | Kobazam 20mg Tablet | Strip of 10 tablets | Valid |
+| 121771 | Lobachek 10mg Tablet | Strip of 10 tablets | Valid |
+| 124500 | Lobaz 10mg Tablet | Strip of 10 tablets | Valid |
+| 129302 | Lobaone 5mg Tablet MD | Strip of 10 tablet md | Valid |
+| 155298 | Nucloba 5 Tablet DT | Strip of 10 tablet dt | Valid |
+| 200416 | StayHappi Clobazam 5mg Tablet | Strip of 10 tablets | Valid |
+| 204573 | Sebenz 5mg Tablet | Strip of 10 tablets | Valid |
+| 253157 | Zamovib 10 Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

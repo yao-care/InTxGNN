@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 400
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Golimumab"
 predicted_indications: ["hypermobility of coccyx", "Kummell disease"]
 description: "Golimumab: predicted new indication Hypermobility of coccyx (evidence level L5). In India: 1 listed product (1 not discontinued)"
@@ -79,9 +79,15 @@ The link is still indirect. No study in the compiled data evaluates golimumab in
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Registration No. 214765 | Simponi 50mg Injection (Johnson & Johnson Ltd) | Prefilled syringe of 0.5 ml, injection | Not stated in the registration record |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 214765 | Simponi 50mg Injection | Prefilled syringe of 0.5 ml Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

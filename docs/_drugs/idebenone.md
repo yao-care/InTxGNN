@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 420
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Idebenone: predicted new indication Hepatic porphyria (evidence level L5). Approved use: Leber hereditary optic neuropathy"
 monitor_inn: "Idebenone"
 predicted_indications: ["hepatic porphyria", "hepatopulmonary syndrome", "hepatoportal sclerosis", "early-onset familial noncirrhotic portal hypertension", "primitive portal vein thrombosis", "idiopathic copper-associated cirrhosis", "immune-mediated necrotizing myopathy", "osteogenesis imperfecta-retinopathy-seizures-intellectual disability syndrome", "antisynthetase syndrome", "focal myositis"]
@@ -72,15 +72,23 @@ Currently no related literature available.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 150824 | Norwayz Tablet | Strip of 10 tablets | Not stated |
-| 108004 | IDEBEST 45MG TABLET | Strip of 10 tablets | Not stated |
-| 49528 | Cebrol 45mg Tablet | Strip of 10 tablets | Not stated |
-| 108716 | ID-45 Tablet | Strip of 10 tablets | Not stated |
-| 28067 | Benovat 45mg Tablet | Strip of 10 tablets | Not stated |
+<!-- licenses:begin -->
 
-Seven valid single-ingredient oral registrations exist in total; the five above are shown.
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 28067 | Benovat 45mg Tablet | Strip of 10 tablets | Valid |
+| 49528 | Cebrol 45mg Tablet | Strip of 10 tablets | Valid |
+| 108004 | IDEBEST 45MG TABLET | Strip of 10 tablets | Valid |
+| 108328 | Ideben Tablet | Strip of 10 tablets | Valid |
+| 108716 | ID-45 Tablet | Strip of 10 tablets | Valid |
+| 150824 | Norwayz Tablet | Strip of 10 tablets | Valid |
+| 205615 | Setaxone 45mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
+
+Seven valid single-ingredient oral registrations exist in total.
 
 ## Safety Considerations
 

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 486
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Levodopa: predicted new indication Rasmussen subacute encephalitis (evidence level L5). Approved use: Parkinson disease (and related parkinsonian syndromes)"
 monitor_inn: "Levodopa"
 predicted_indications: ["Rasmussen subacute encephalitis"]
@@ -72,15 +72,38 @@ Currently no related literature available.
 
 ## India Market Information
 
-Levodopa is marketed in India with 20 valid single-ingredient registrations. Approved indication text was not available for any of them. Main registrations:
+Levodopa is marketed in India with 20 valid single-ingredient registrations. Approved indication text was not available for any of them.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| 123290 | LCD 275 Tablet | Strip of 10 tablets | Intas Pharmaceuticals Ltd |
-| 216100 | Tidomet Forte Tablet | Strip of 10 tablets | Torrent Pharmaceuticals Ltd |
-| 201468 | Syndopa Forte Tablet | Strip of 10 tablets | Sun Pharmaceutical Industries Ltd |
-| 32492 | Benspar 100mg/28.5mg Capsule | Strip of 10 capsules | Zydus Cadila |
-| 201135 | Sinemet 250mg/25mg Tablet | Strip of 10 tablets | Chandra Bhagat Pharma Pvt Ltd |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 32492 | Benspar 100mg/28.5mg Capsule | Strip of 10 capsules | Valid |
+| 60824 | Duodopa 100mg/10mg Tablet | Strip of 10 tablets | Valid |
+| 66446 | Duodopa 250mg/25mg Tablet | Strip of 10 tablets | Valid |
+| 73011 | Entacom Plus 100 Tablet | Strip of 10 tablets | Valid |
+| 73455 | Entacom Plus 150 Tablet | Strip of 10 tablets | Valid |
+| 78058 | Elcapon 50 mg/12.5 mg/200 mg Tablet | Strip of 10 tablets | Valid |
+| 121244 | LCD 110 Tablet | Strip of 10 tablets | Valid |
+| 123290 | LCD 275 Tablet | Strip of 10 tablets | Valid |
+| 127398 | Levopa C 250mg/25mg Tablet | Strip of 10 tablets | Valid |
+| 176909 | Pardopa 100mg/25mg Tablet | Strip of 10 tablets | Valid |
+| 199538 | Syndopa Plus Tablet | Strip of 15 tablets | Valid |
+| 199696 | Syndopa 110 Tablet | Strip of 15 tablets | Valid |
+| 200637 | Syncapone 50 Tablet | Strip of 10 tablets | Valid |
+| 201135 | Sinemet 250mg/25mg Tablet | Strip of 10 tablets | Valid |
+| 201468 | Syndopa Forte Tablet | Strip of 10 tablets | Valid |
+| 215048 | Tidomet Plus Tablet | Strip of 10 tablets | Valid |
+| 216044 | Tidomet LS Tablet | Strip of 15 tablets | Valid |
+| 216100 | Tidomet Forte Tablet | Strip of 10 tablets | Valid |
+| 220333 | Tidomet E 100mg/25mg/200mg Tablet | Strip of 10 tablets | Valid |
+| 224655 | Tidomet E 50mg/12.5mg/200mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 All listed forms are oral (tablets and capsules).
 

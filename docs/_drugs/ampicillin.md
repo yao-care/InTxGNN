@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Ampicillin"
 predicted_indications: ["laryngitis", "Ureaplasma urethritis", "chronic rhinosinusitis", "chronic ethmoidal sinusitis", "gingivitis", "paranasal sinus neoplasm (disease)", "bacterial arthritis", "conjunctivitis", "pericoronitis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ampicillin: predicted new indication laryngitis (evidence level L5). In India: at least 20 listed products"
 ---
 
@@ -95,15 +95,38 @@ The publications below are the most relevant retrieved. None studies ampicillin 
 
 ## India Market Information
 
-At least 20 valid single-ingredient licences are recorded, and the list may be partial. Five main examples:
+At least 20 valid single-ingredient licences are recorded, and the list may be partial.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 212580 | Synthocilin 100mg Oral Drops | Bottle of 10 ml oral drops | Not recorded |
-| 137962 | Megapen 125mg/125mg Injection | Vial of 2 ml injection | Not recorded |
-| 186416 | Roscillin 125mg Dry Syrup | Bottle of 30 ml dry syrup | Not recorded |
-| 64016 | Dicillin Forte 500mg Capsule | Strip of 4 capsules | Not recorded |
-| 6942 | Ampilox 250 mg/250 mg Injection | Vial of 1 injection | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 149 | Ampilox Capsule | Strip of 15 capsules | Valid |
+| 3376 | Ampoxin 250mg Injection | Vial of 5 ml Injection | Valid |
+| 6942 | Ampilox 250 mg/250 mg Injection | Vial of 1 Injection | Valid |
+| 18307 | Allclox 125 mg/125 mg Capsule | Strip of 10 capsules | Valid |
+| 28056 | Biocilin 500mg Injection | Vial of 1 Injection | Valid |
+| 64016 | Dicillin Forte 500mg Capsule | Strip of 4 capsules | Valid |
+| 98378 | Gerciclox Kid Tablet | Strip of 10 tablets | Valid |
+| 118507 | KLOXAMP 250MG/250MG CAPSULE | Strip of 10 capsules | Valid |
+| 126706 | Lactoclox 250mg/250mg Capsule | Strip of 10 capsules | Valid |
+| 137962 | Megapen 125mg/125mg Injection | Vial of 2 ml Injection | Valid |
+| 140771 | Magalox DC 250mg/250mg Tablet | Strip of 10 tablets | Valid |
+| 143300 | MPClox L Capsule | Strip of 10 capsules | Valid |
+| 186416 | Roscillin 125mg Dry Syrup | Bottle of 30 ml Dry Syrup | Valid |
+| 202146 | Sultapro 1.5gm Injection | Vial of 1 Injection | Valid |
+| 205417 | Sulbact 1000 mg/500 mg Injection | Vial of 1 ml Injection | Valid |
+| 212580 | Synthocilin 100mg Oral Drops | Bottle of 10 ml Oral Drops | Valid |
+| 212743 | Syncocin 250mg/250mg Capsule | Strip of 10 capsules | Valid |
+| 220902 | T Cillin 250mg Capsule | Strip of 10 capsules | Valid |
+| 224818 | Topclox 250 mg/250 mg Capsule | Strip of 10 capsules | Valid |
+| 250002 | Zyclox 250 mg/250 mg Capsule | Strip of 10 capsules | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ---
 

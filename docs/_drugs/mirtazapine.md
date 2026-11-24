@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 559
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Mirtazapine: predicted new indication Ohdo syndrome and variants (evidence level L5). Approved use: Unipolar depression, endogenous depression, major depressive disorder…"
 monitor_inn: "Mirtazapine"
 predicted_indications: ["Ohdo syndrome and variants", "blepharophimosis - intellectual disability syndrome, Ohdo type", "benign paroxysmal torticollis of infancy"]
@@ -66,15 +66,38 @@ Two other predictions were also generated, and they are equally unsupported:
 
 ## India Market Information
 
-Mirtazapine has 20 valid single-ingredient registrations, all oral tablets (including mouth-dispersible and orally disintegrating forms). The approved indication text is not available for these registrations. Main examples:
+Mirtazapine has 20 valid single-ingredient registrations, all oral tablets (including mouth-dispersible and orally disintegrating forms). The approved indication text is not available for these registrations.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 140043 | Mirfit 15 Tablet (Ryon Pharma) | Strip of 10 tablets | Not specified |
-| 146733 | Mitraford 30 Tablet (Oxpro Pharma) | Strip of 10 tablets | Not specified |
-| 141002 | Mirtadep 15mg Tablet (Torrent Pharmaceuticals) | Strip of 10 tablets | Not specified |
-| 136526 | Mirnite 7.5mg Tablet DT (Intas Pharmaceuticals) | Strip of 10 orally disintegrating tablets | Not specified |
-| 139616 | Mirzat 7.5mg Tablet (Knoll Pharmaceuticals) | Strip of 10 tablets | Not specified |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 49986 | Cuzapine 7.5mg Tablet | Strip of 10 tablets | Valid |
+| 60378 | Deples 7.5mg Tablet | Strip of 10 tablets | Valid |
+| 62497 | Deples 30 Tablet MD | Strip of 10 tablet md | Valid |
+| 79583 | Eriza 7.5 Tablet MD | Strip of 10 tablet md | Valid |
+| 135805 | Mirtee 15mg Tablet | Strip of 10 tablets | Valid |
+| 136526 | Mirnite 7.5mg Tablet DT | Strip of 10 tablet dt | Valid |
+| 136766 | Mirza 15mg Tablet | Strip of 10 tablets | Valid |
+| 138668 | Mirtaj 15mg Tablet | Strip of 10 tablets | Valid |
+| 139616 | Mirzat 7.5mg Tablet | Strip of 10 tablets | Valid |
+| 139717 | Mitamark 7.5mg Tablet | Strip of 10 tablets | Valid |
+| 139816 | Mirtalin 15mg Tablet | Strip of 10 tablets | Valid |
+| 140043 | Mirfit 15 Tablet | Strip of 10 tablets | Valid |
+| 140832 | Mirzap 30 Tablet | Strip of 10 tablets | Valid |
+| 141002 | Mirtadep 15mg Tablet | Strip of 10 tablets | Valid |
+| 142085 | Merty 2.5mg Tablet | Strip of 10 tablets | Valid |
+| 144333 | Mirpine 7.5mg Tablet | Strip of 10 tablets | Valid |
+| 145990 | Metramax 15mg Tablet | Strip of 10 tablets | Valid |
+| 146587 | Mirtacin 15mg Tablet | Strip of 10 tablets | Valid |
+| 146733 | Mitraford 30 Tablet | Strip of 10 tablets | Valid |
+| 217532 | Tetrapine 15 Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

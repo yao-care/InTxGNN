@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Dexlansoprazole"
 predicted_indications: ["gastroduodenitis", "duodenal obstruction", "achlorhydria", "leather-bottle stomach"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Dexlansoprazole: predicted new indication gastroduodenitis (evidence level L5). In India: 11 listed products (11 not discontinued)"
 ---
 
@@ -72,15 +72,27 @@ Currently no related literature available.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 59177 | Dexolan Capsule MR | Strip of 10 capsule MR | Not recorded |
-| 64032 | Dexsofighter 60 Capsule MR | Strip of 10 capsule MR | Not recorded |
-| 58377 | DDR 60 Capsule MR | Strip of 10 capsule MR | Not recorded |
-| 58423 | DDR 30 Capsule MR | Strip of 10 capsule MR | Not recorded |
-| 58342 | Deltone Capsule MR | Strip of 10 capsule MR | Not recorded |
+<!-- licenses:begin -->
 
-All 11 licences are currently valid, and none is cancelled. Only the first five are listed here.
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 58342 | Deltone Capsule MR | Strip of 10 capsule mr | Valid |
+| 58377 | DDR 60 Capsule MR | Strip of 10 capsule mr | Valid |
+| 58423 | DDR 30 Capsule MR | Strip of 10 capsule mr | Valid |
+| 58458 | Deltone 30mg Capsule | Strip of 10 capsules | Valid |
+| 59177 | Dexolan Capsule MR | Strip of 10 capsule mr | Valid |
+| 59750 | Dexolan 30 Capsule MR | Strip of 10 capsule mr | Valid |
+| 61132 | Duabit Capsule MR | Strip of 7 capsule mr | Valid |
+| 64032 | Dexsofighter 60 Capsule MR | Strip of 10 capsule mr | Valid |
+| 122168 | Lanfil DX 60 Capsule MR | Strip of 10 capsule mr | Valid |
+| 124062 | Lantas-DX 60 Capsule MR | Strip of 10 capsule mr | Valid |
+| 124848 | Lantas-DX 30 Capsule MR | Strip of 10 capsule mr | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
+
+All 11 licences are currently valid, and none is cancelled.
 
 ## Safety Considerations
 

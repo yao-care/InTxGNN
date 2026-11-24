@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 824
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Teriparatide: predicted new indication duodenal ulcer (disease) (evidence level L5). Approved use: Postmenopausal osteoporosis / osteoporosis"
 monitor_inn: "Teriparatide"
 predicted_indications: ["duodenal ulcer (disease)", "non-syndromic esophageal malformation", "duodenal obstruction", "duodenogastric reflux", "esophageal disease", "Worth syndrome", "autosomal dominant neovascular inflammatory vitreoretinopathy", "succinyl-CoA:3-ketoacid CoA transferase deficiency", "amenorrhea (disease)"]
@@ -79,15 +79,38 @@ Currently no related literature available.
 
 ## India Market Information
 
-Teriparatide is widely marketed in India, with 20 valid registrations, all single-ingredient injectable products and none cancelled. Approved indication text was not available for these registrations. Five main products are listed below.
+Teriparatide is widely marketed in India, with 20 valid registrations, all single-ingredient injectable products and none cancelled. Approved indication text was not available for these registrations.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| 28520 | Bonspark Injection | Cartridge of 3 ml injection | Integrace Pvt Ltd |
-| 215049 | Tricium PTH Injection | Cartridge of 3 ml injection | Corona Remedies Pvt Ltd |
-| 214816 | Terifrac Injection | Cartridge of 1 injection | Intas Pharmaceuticals Ltd |
-| 161859 | Osteri 750mcg Solution for Injection | Pre-filled pen of 3 ml | Emcure Pharmaceuticals Ltd |
-| 94276 | Gemtide Injection | Pre-filled pen of 2.4 ml | Alkem Laboratories Ltd |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 25827 | Bonmax PTH 750mcg Solution for Injection | Cartridge of 3 ml Solution for Injection | Valid |
+| 26201 | Bonotiode Injection | Penfill of 3 ml Injection | Valid |
+| 26626 | Bonrange-PTH Injection | Cartridge of 3 ml Injection | Valid |
+| 28216 | Bomastren Solution for Injection | Cartridge of 3 ml Solution for Injection | Valid |
+| 28407 | Bonotiode 250mcg/ml Solution for Injection | Cartridge of 1 ml Solution for Injection | Valid |
+| 28520 | Bonspark Injection | Cartridge of 3 ml Injection | Valid |
+| 94276 | Gemtide Injection | Pre-filled pen of 2.4 ml Injection | Valid |
+| 94569 | Gemtide Injection (2.4ml Each) | Box of 3 injections | Valid |
+| 94875 | Gemtide Cartridge | Cartridge of 3 ml Injection | Valid |
+| 161859 | Osteri 750mcg Solution for Injection | Pre-filled pen of 3 ml Solution for Injection | Valid |
+| 162280 | Osteofrac 750mcg Injection | Vial of 3 ml Injection | Valid |
+| 184828 | Rockbon PTH Solution for Injection | Prefilled syringe of 3 ml Solution for Injection | Valid |
+| 214816 | Terifrac Injection | Cartridge of 1 Injection | Valid |
+| 215049 | Tricium PTH Injection | Cartridge of 3 ml Injection | Valid |
+| 215167 | Terifrac Injection (3ml Each) | Box of 3 injections | Valid |
+| 215590 | Terifort 750mcg Solution for Injection | Cartridge of 3 ml Solution for Injection | Valid |
+| 216629 | Tricium PTH TP3 250mcg Injection | Vial of 1 Injection | Valid |
+| 218142 | Tricium PTH RU 250mcg/ml Solution for Injection | Pre-filled pen of 3 ml Solution for Injection | Valid |
+| 246562 | Zotide Injection | Cartridge of 3 ml Injection | Valid |
+| 250958 | Zotiram 750mcg Injection | Vial of 3 ml Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ---
 

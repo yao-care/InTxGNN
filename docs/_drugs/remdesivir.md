@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 733
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Remdesivir: predicted new indication Multiple endocrine neoplasia (evidence level L5). Approved use: Not stated in the Indian licence records compiled for this report"
 monitor_inn: "Remdesivir"
 predicted_indications: ["multiple endocrine neoplasia", "HIV infectious disease", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "homozygous familial hypercholesterolemia"]
@@ -85,13 +85,19 @@ For the HIV-infection prediction, the retrieved publications are almost all abou
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 189883 | Remdiz 100mg Injection (Glenmark Pharmaceuticals Ltd) | Vial of 1 injection | Not stated |
-| 187652 | Remwin 100mg Injection (Sun Pharmaceutical Industries Ltd) | Vial of 1 injection | Not stated |
-| 185844 | Remdac Injection (Zydus Cadila) | Vial of 1 injection | Not stated |
-| 35394 | Cipremi Injection (Cipla Ltd) | Vial of 1 injection | Not stated |
-| 60746 | Desrem Injection (Mylan Pharmaceuticals Pvt Ltd) | Vial of 1 injection | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 35394 | Cipremi Injection | Vial of 1 Injection | Valid |
+| 60746 | Desrem Injection | Vial of 1 Injection | Valid |
+| 185844 | Remdac Injection | Vial of 1 Injection | Valid |
+| 187652 | Remwin 100mg Injection | Vial of 1 Injection | Valid |
+| 189883 | Remdiz 100mg Injection | Vial of 1 Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 All five registrations are valid single-ingredient products, and all are injectables.
 

@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 6
 monitor_inn: "Fluvastatin"
 predicted_indications: ["HIV infectious disease", "cholesterol-ester transfer protein deficiency", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "fibroma of prostate"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Fluvastatin: predicted new indication HIV infectious disease (evidence level L3). Approved use: Arteriosclerosis disorder, atherosclerosis…"
 ---
 
@@ -82,10 +82,16 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 123431 | Lescol XL 80mg Tablet | Strip of 14 tablets | Not stated in the licence record |
-| 85524 | Fluvalip 40mg Tablet | Strip of 10 tablets | Not stated in the licence record |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 85524 | Fluvalip 40mg Tablet | Strip of 10 tablets | Valid |
+| 123431 | Lescol XL 80mg Tablet | Strip of 14 Tablet pr | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 425
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Imatinib"
 predicted_indications: ["heart fibrosarcoma", "fibroblastic neoplasm", "conventional fibrosarcoma", "kidney fibrosarcoma", "low grade fibromyxoid sarcoma", "liposarcoma", "liver fibrosarcoma", "autosomal recessive familial Mediterranean fever", "ovarian myxoid liposarcoma", "familial rhabdoid tumor"]
 description: "Imatinib: predicted new indication Heart fibrosarcoma (evidence level L5). In India: at least 20 listed products"
@@ -107,15 +107,38 @@ No clinical trials are registered for heart fibrosarcoma. The trials below were 
 
 ## India Market Information
 
-Imatinib is marketed in India with 20 valid single-ingredient registrations. The approved indication text is not recorded in the licence data. Five representative registrations:
+Imatinib is marketed in India with 20 valid single-ingredient registrations. The approved indication text is not recorded in the licence data.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 95895 | Glivec 100mg Tablet (Novartis India Ltd) | Strip of 10 tablets | Not recorded |
-| 100962 | Gleevac 100mg Tablet (Novartis India Ltd) | Bottle of 60 tablets | Not recorded |
-| 111302 | Imalek 400mg Tablet (Sun Pharmaceutical Industries Ltd) | Strip of 10 tablets | Not recorded |
-| 108048 | Imatib 100 Tablet (Cipla Ltd) | Strip of 10 tablets | Not recorded |
-| 111040 | Imatinate 400 Capsule (Khandelwal Laboratories Pvt Ltd) | Bottle of 10 capsules | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 38616 | Chemotinib 400mg Tablet | Strip of 10 tablets | Valid |
+| 80605 | Entinib 100mg Tablet | Strip of 10 tablets | Valid |
+| 81694 | Entinib 400mg Tablet | Strip of 10 tablets | Valid |
+| 95895 | Glivec 100mg Tablet | Strip of 10 tablets | Valid |
+| 100962 | Gleevac 100mg Tablet | Bottle of 60 tablets | Valid |
+| 107956 | Imat 400 Tablet | Strip of 10 tablets | Valid |
+| 108048 | Imatib 100 Tablet | Strip of 10 tablets | Valid |
+| 109296 | Imat 100mg Tablet | Strip of 10 tablets | Valid |
+| 109575 | Imatova 400mg Tablet | Strip of 10 tablets | Valid |
+| 111040 | Imatinate 400 Capsule | Bottle of 10 capsules | Valid |
+| 111287 | Imarech Tablet | Strip of 10 tablets | Valid |
+| 111302 | Imalek 400mg Tablet | Strip of 10 tablets | Valid |
+| 111456 | Imatero 100mg Tablet | Strip of 10 tablets | Valid |
+| 111604 | Imatumor 400mg Tablet | Strip of 10 tablets | Valid |
+| 112593 | Imashil 100mg Tablet | Strip of 10 tablets | Valid |
+| 131261 | Leukanib 100mg Tablet | Strip of 10 tablets | Valid |
+| 145618 | Matnib 400mg Tablet | Strip of 10 tablets | Valid |
+| 146343 | Mesylonib 100mg Tablet | Strip of 10 tablets | Valid |
+| 205221 | Stritinib 400mg Tablet | Strip of 10 tablets | Valid |
+| 231785 | Unitinib 400mg Capsule | Strip of 10 capsules | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 All products are oral (tablets or capsules).
 

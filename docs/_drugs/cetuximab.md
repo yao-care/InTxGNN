@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Cetuximab"
 predicted_indications: ["ductal or ductular proliferation", "non-seminomatous lesion", "chondroid hamartoma", "bronchial adenomas/carcinoids childhood", "tumor of testis and paratestis", "odontogenic cyst", "thyroglossal duct cyst", "epiglottis neoplasm", "cystic neoplasm", "pre-malignant neoplasm"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cetuximab: predicted new indication Ductal or ductular proliferation (evidence level L5). Approved use: Colorectal cancer and squamous cell carcinoma, including head and neck"
 ---
 
@@ -100,11 +100,17 @@ None of these publications studies "ductal or ductular proliferation" itself. Th
 
 All three records are single-ingredient products from Merck Ltd, currently valid. The licence records contain no approved-indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 73420 | Erbitux 500mg Infusion | Bottle of 50 ml infusion | Not stated in the licence record |
-| 73829 | Erbitux 100mg Infusion | Bottle of 50 ml infusion | Not stated in the licence record |
-| 74511 | Erbitux 5mg/ml Solution for Infusion | Bottle of 20 ml solution for infusion | Not stated in the licence record |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 73420 | Erbitux 500mg Infusion | Bottle of 50 ml Infusion | Valid |
+| 73829 | Erbitux 100mg Infusion | Bottle of 50 ml Infusion | Valid |
+| 74511 | Erbitux 5mg/ml Solution for Infusion | Bottle of 20 ml Solution for Infusion | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ---
 

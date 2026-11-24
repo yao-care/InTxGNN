@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 606
 evidence_level: L4
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Norepinephrine"
 predicted_indications: ["obstructive lung disease", "respiratory malformation", "Rienhoff syndrome"]
 description: "Norepinephrine: predicted new indication Obstructive lung disease (evidence level L4). In India: at least 20 listed products"
@@ -86,15 +86,38 @@ No randomised trials were found. The most relevant items are reviews and physiol
 
 ## India Market Information
 
-Twenty single-ingredient injectable licences are valid in India, with none cancelled. The approved indication text is blank for all of them. Five examples:
+Twenty single-ingredient injectable licences are valid in India, with none cancelled. The approved indication text is blank for all of them.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 152051 | Norbit Injection | Vial of 2 ml injection | Not stated |
-| 153832 | N-Adrin 4mg Injection | Vial of 2 ml injection | Not stated |
-| 157407 | Nordyx Injection | Ampoule of 2 ml injection | Not stated |
-| 1359 | Adrenor 4mg Injection | Vial of 2 ml injection | Not stated |
-| 150671 | Norad 4mg Injection | Vial of 4 ml injection | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 1359 | Adrenor 4mg Injection | Vial of 2 ml Injection | Valid |
+| 22225 | Alnor 2mg Injection | Ampoule of 2 ml Injection | Valid |
+| 28893 | Bio-Norline Injection | Ampoule of 2 ml Injection | Valid |
+| 75889 | Epinor 4mg Injection | Vial of 2 ml Injection | Valid |
+| 76790 | Ephinor Injection | Ampoule of 2 ml Injection | Valid |
+| 150361 | Norad 2mg Injection | Vial of 2 ml Injection | Valid |
+| 150671 | Norad 4mg Injection | Vial of 4 ml Injection | Valid |
+| 152051 | Norbit Injection | Vial of 2 ml Injection | Valid |
+| 152139 | Noradria 2mg Injection | Vial of 2 ml Injection | Valid |
+| 152539 | Noralin 2mg Injection | Ampoule of 2 ml Injection | Valid |
+| 152657 | Nor Epineph 2mg Injection | Vial of 2 ml Injection | Valid |
+| 152969 | Nor 4mg Injection | Vial of 2 ml Injection | Valid |
+| 153454 | Noradol 4mg Injection | Vial of 1 Injection | Valid |
+| 153832 | N-Adrin 4mg Injection | Vial of 2 ml Injection | Valid |
+| 154943 | Norex 4mg Injection | Ampoule of 2 ml Injection | Valid |
+| 155217 | Norepirin Injection | Vial of 1 Injection | Valid |
+| 156832 | Norshot 2mg Injection | Vial of 2 ml Injection | Valid |
+| 157407 | Nordyx Injection | Ampoule of 2 ml Injection | Valid |
+| 157516 | Norokinde Injection | Ampoule of 2 ml Injection | Valid |
+| 234807 | Veraline 2mg Injection | Ampoule of 2 ml Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 All products are injections; no inhaled or oral forms are registered, which matters for a respiratory indication.
 

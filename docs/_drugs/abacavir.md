@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Abacavir"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Abacavir: predicted new indication feline acquired immunodeficiency syndrome (evidence level L5). In India: 9 listed products (9 not discontinued)"
 ---
 
@@ -84,13 +84,23 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 7370 | A Bec L 600mg/300mg Tablet | Strip of 30 tablets | Not recorded |
-| 108303 | Inbec Tablet | Bottle of 30 tablets | Not recorded |
-| 1957 | Abamune Tablet | Strip of 30 tablets | Not recorded |
-| 236242 | Virol 300mg Tablet | Bottle of 60 tablets | Not recorded |
-| 2296 | Abamune L 600 mg/300 mg Tablet | Strip of 30 tablets | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 1957 | Abamune Tablet | Strip of 30 tablets | Valid |
+| 2296 | Abamune L 600 mg/300 mg Tablet | Strip of 30 tablets | Valid |
+| 3740 | Albavir Tablet | Strip of 30 tablets | Valid |
+| 4975 | A-Bec Tablet | Bottle of 30 tablets | Valid |
+| 6233 | Abalam Tablet | Bottle of 30 tablets | Valid |
+| 6487 | Albavir Tablet | Bottle of 30 tablets | Valid |
+| 7370 | A Bec L 600mg/300mg Tablet | Strip of 30 tablets | Valid |
+| 108303 | Inbec Tablet | Bottle of 30 tablets | Valid |
+| 236242 | Virol 300mg Tablet | Bottle of 60 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ---
 

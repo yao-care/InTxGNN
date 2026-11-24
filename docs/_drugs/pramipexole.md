@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 693
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Pramipexole"
 predicted_indications: ["attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "attention deficit hyperactivity disorder, inattentive type", "specific developmental disorder", "chondromyxoid fibroma", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies", "schizophrenia", "atypical glycine encephalopathy"]
 description: "Pramipexole: predicted new indication Attention deficit-hyperactivity disorder (evidence level L4). In India: at least 20 listed products"
@@ -79,15 +79,38 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-There are 20 valid single-ingredient registrations, all oral tablets. The registration records contain no approved-indication text. Main examples:
+There are 20 valid single-ingredient registrations, all oral tablets. The registration records contain no approved-indication text.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| 174320 | Pramirol SR 0.26 Tablet | Prolonged-release tablet | Intas Pharmaceuticals Ltd |
-| 142322 | Mirapex 3mg Tablet ER | Extended-release tablet | Boehringer Ingelheim |
-| 187963 | Remipex 0.5mg Tablet | Tablet | Torrent Pharmaceuticals Ltd |
-| 174023 | Pramipex ER 0.375 Tablet | Extended-release tablet | Sun Pharmaceutical Industries Ltd |
-| 176515 | Parpex 0.25mg Tablet | Tablet | Zydus Cadila |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 142322 | Mirapex 3mg Tablet ER | Strip of 10 tablet er | Valid |
+| 145959 | Mirator 1mg Tablet | Strip of 10 tablets | Valid |
+| 173867 | Pramipex 0.125 Tablet | Strip of 10 tablets | Valid |
+| 173987 | Pramirol 0.25 Tablet | Strip of 10 tablets | Valid |
+| 174023 | Pramipex ER 0.375 Tablet | Strip of 10 tablet er | Valid |
+| 174193 | Pramirol 0.5 Tablet | Strip of 10 tablets | Valid |
+| 174320 | Pramirol SR 0.26 Tablet | Strip of 10 Tablet pr | Valid |
+| 174919 | Pexopram 0.25mg Tablet | Strip of 10 tablets | Valid |
+| 175702 | Pramirol SR 3.15 Tablet | Strip of 10 tablet sr | Valid |
+| 175778 | Prami 0.5mg Tablet | Strip of 10 tablets | Valid |
+| 176344 | Premizen 0.5 Tablet | Strip of 10 tablets | Valid |
+| 176515 | Parpex 0.25mg Tablet | Strip of 10 tablets | Valid |
+| 178340 | Prexol 1.5mg Tablet SR | Strip of 10 tablet sr | Valid |
+| 178732 | Prami 0.25mg Tablet | Strip of 10 tablets | Valid |
+| 179071 | Plessi 0.5 Tablet | Strip of 10 tablets | Valid |
+| 179428 | Pramipar 0.25mg Tablet | Strip of 10 tablets | Valid |
+| 180322 | Plessi 0.125 Tablet | Strip of 10 tablets | Valid |
+| 181221 | Pramixil 0.25mg Tablet | Strip of 10 tablets | Valid |
+| 187963 | Remipex 0.5mg Tablet | Strip of 10 tablets | Valid |
+| 194526 | Remipex 1.5mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

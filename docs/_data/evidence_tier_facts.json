@@ -172,8 +172,8 @@
     "i": "HIV infectious disease",
     "lt": 0,
     "lv": 20,
-    "r": 1,
-    "rs": "\"Detailed mechanism-of-action data are not available in the data compiled for this report\" replaced with a…",
+    "r": 2,
+    "rs": "Removed: the single-ingredient claim",
     "x": 0
    },
    {
@@ -603,7 +603,7 @@
   "with_current": 89,
   "none_current": 0,
   "without_data": 41,
-  "with_reviews": 73,
+  "with_reviews": 74,
   "rows": [
    {
     "t": "Abatacept",
@@ -645,8 +645,8 @@
     "i": "seborrheic keratosis",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Removed: the single-ingredient claim",
     "x": 0
    },
    {
@@ -1404,8 +1404,8 @@
     "i": "nasal cavity disease",
     "lt": 0,
     "lv": 20,
-    "r": 1,
-    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
+    "r": 2,
+    "rs": "Removed: the single-ingredient claim",
     "x": 0
    },
    {
@@ -1503,8 +1503,8 @@
     "i": "conjunctivitis",
     "lt": 0,
     "lv": 20,
-    "r": 1,
-    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
+    "r": 2,
+    "rs": "Removed: the single-ingredient claim",
     "x": 0
    },
    {
@@ -1603,7 +1603,7 @@
   "with_current": 698,
   "none_current": 0,
   "without_data": 344,
-  "with_reviews": 569,
+  "with_reviews": 578,
   "rows": [
    {
     "t": "Acarbose",
@@ -1700,8 +1700,8 @@
     "i": "Ambras type hypertrichosis universalis congenita",
     "lt": 0,
     "lv": 20,
-    "r": 1,
-    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
+    "r": 2,
+    "rs": "Removed: the single-ingredient claim",
     "x": 0
    },
    {
@@ -2195,8 +2195,8 @@
     "i": "hyperamylasemia",
     "lt": 0,
     "lv": 20,
-    "r": 1,
-    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
+    "r": 2,
+    "rs": "Removed: the single-ingredient claim",
     "x": 0
    },
    {
@@ -2338,8 +2338,8 @@
     "i": "gastrojejunal ulcer",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Removed: the single-ingredient claim",
     "x": 4
    },
    {
@@ -2426,8 +2426,8 @@
     "i": "acne (disease)",
     "lt": 0,
     "lv": 20,
-    "r": 1,
-    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
+    "r": 2,
+    "rs": "Removed: the single-ingredient claim",
     "x": 0
    },
    {
@@ -2602,8 +2602,8 @@
     "i": "hypotrichosis simplex of the scalp",
     "lt": 0,
     "lv": 20,
-    "r": 1,
-    "rs": "\"Detailed mechanism-of-action data for diclofenac is not available in the data compiled for this report\"…",
+    "r": 2,
+    "rs": "Removed: the single-ingredient claim",
     "x": 0
    },
    {
@@ -2844,8 +2844,8 @@
     "i": "pulmonary hypertension owing to lung disease and/or hypoxia",
     "lt": 0,
     "lv": 20,
-    "r": 1,
-    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
+    "r": 2,
+    "rs": "Removed: the single-ingredient claim",
     "x": 0
    },
    {
@@ -2888,8 +2888,8 @@
     "i": "duodenal obstruction",
     "lt": 0,
     "lv": 20,
-    "r": 1,
-    "rs": "\"Detailed mechanism data were not included in the data compiled for this report, so this description reflects…",
+    "r": 2,
+    "rs": "Removed: the single-ingredient claim",
     "x": 0
    },
    {
@@ -2910,8 +2910,8 @@
     "i": "acromesomelic dysplasia, Hunter-Thompson type",
     "lt": 0,
     "lv": 20,
-    "r": 1,
-    "rs": "\"Detailed mechanism-of-action data for etodolac is not available in the data compiled for this report\"…",
+    "r": 2,
+    "rs": "Removed: the single-ingredient claim",
     "x": 0
    },
    {
@@ -3328,8 +3328,8 @@
     "i": "acromesomelic dysplasia, Hunter-Thompson type",
     "lt": 0,
     "lv": 20,
-    "r": 1,
-    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
+    "r": 2,
+    "rs": "Removed: the single-ingredient claim",
     "x": 0
    },
    {
@@ -3361,8 +3361,8 @@
     "i": "diffuse scleroderma",
     "lt": 0,
     "lv": 20,
-    "r": 1,
-    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
+    "r": 2,
+    "rs": "Removed: the single-ingredient claim",
     "x": 0
    },
    {
@@ -3416,8 +3416,8 @@
     "i": "vitamin B12- and folate-independent constitutional megaloblastic anemia",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Removed: the single-ingredient claim",
     "x": 0
    },
    {
@@ -3680,8 +3680,8 @@
     "i": "rheumatoid arthritis",
     "lt": 0,
     "lv": 20,
-    "r": 1,
-    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
+    "r": 2,
+    "rs": "Removed: the single-ingredient claim",
     "x": 0
    },
    {
@@ -3713,8 +3713,8 @@
     "i": "nasal cavity disease",
     "lt": 0,
     "lv": 20,
-    "r": 1,
-    "rs": "Removed: \"Its only registered trial was withdrawn with no participants, so no completed Phase 3 trial…",
+    "r": 2,
+    "rs": "Removed: the single-ingredient claim",
     "x": 9
    },
    {
@@ -3746,8 +3746,8 @@
     "i": "cervical neuroblastoma",
     "lt": 0,
     "lv": 20,
-    "r": 1,
-    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
+    "r": 2,
+    "rs": "Removed: the single-ingredient claim",
     "x": 0
    },
    {
@@ -3823,8 +3823,8 @@
     "i": "serous conjunctivitis except viral",
     "lt": 0,
     "lv": 20,
-    "r": 1,
-    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
+    "r": 2,
+    "rs": "Removed: the single-ingredient claim",
     "x": 0
    },
    {
@@ -3900,8 +3900,8 @@
     "i": "acromesomelic dysplasia, Hunter-Thompson type",
     "lt": 0,
     "lv": 20,
-    "r": 1,
-    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
+    "r": 2,
+    "rs": "Removed: the single-ingredient claim",
     "x": 0
    },
    {
@@ -4021,8 +4021,8 @@
     "i": "malignant hypertensive renal disease",
     "lt": 0,
     "lv": 20,
-    "r": 1,
-    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
+    "r": 2,
+    "rs": "Removed: the single-ingredient claim",
     "x": 0
    },
    {
@@ -4032,8 +4032,8 @@
     "i": "pneumocystosis",
     "lt": 0,
     "lv": 20,
-    "r": 1,
-    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
+    "r": 2,
+    "rs": "Removed: the single-ingredient claim",
     "x": 0
    },
    {
@@ -4164,8 +4164,8 @@
     "i": "malaria",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Removed: the single-ingredient claim",
     "x": 0
    },
    {
@@ -4186,8 +4186,8 @@
     "i": "hypotrichosis simplex of the scalp",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Removed: the single-ingredient claim",
     "x": 0
    },
    {
@@ -4296,8 +4296,8 @@
     "i": "hyperamylasemia",
     "lt": 0,
     "lv": 20,
-    "r": 1,
-    "rs": "\"Currently, detailed mechanism of action data is not available in the compiled data\" replaced with a sourced…",
+    "r": 2,
+    "rs": "Removed: the single-ingredient claim",
     "x": 0
    },
    {
@@ -4472,8 +4472,8 @@
     "i": "nasal cavity disease",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Removed: the single-ingredient claim",
     "x": 0
    },
    {
@@ -4549,8 +4549,8 @@
     "i": "congenital ichthyosiform erythroderma",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Removed: the single-ingredient claim",
     "x": 0
    },
    {
@@ -4571,8 +4571,8 @@
     "i": "meningococcal infection",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Removed: the single-ingredient claim",
     "x": 0
    },
    {
@@ -4593,8 +4593,8 @@
     "i": "tendinitis",
     "lt": 0,
     "lv": 20,
-    "r": 2,
-    "rs": "Removed: \"However, the only Phase 3 trial was withdrawn, adult randomized evidence is lacking, and the trials…",
+    "r": 3,
+    "rs": "Removed: the single-ingredient claim",
     "x": 0
    },
    {
@@ -4648,8 +4648,8 @@
     "i": "distal myopathy, Tateyama type",
     "lt": 0,
     "lv": 20,
-    "r": 1,
-    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
+    "r": 2,
+    "rs": "Removed: the single-ingredient claim",
     "x": 0
    },
    {
@@ -4747,8 +4747,8 @@
     "i": "gaze palsy, familial horizontal, with progressive scoliosis",
     "lt": 0,
     "lv": 20,
-    "r": 1,
-    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
+    "r": 2,
+    "rs": "Removed: the single-ingredient claim",
     "x": 0
    },
    {
@@ -4923,8 +4923,8 @@
     "i": "hypotrichosis simplex of the scalp",
     "lt": 0,
     "lv": 20,
-    "r": 1,
-    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
+    "r": 2,
+    "rs": "Removed: the sentence about the old table that called all products single-ingredient",
     "x": 0
    },
    {
@@ -4989,8 +4989,8 @@
     "i": "Ambras type hypertrichosis universalis congenita",
     "lt": 0,
     "lv": 20,
-    "r": 1,
-    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
+    "r": 2,
+    "rs": "Removed: the single-ingredient claim",
     "x": 0
    },
    {
@@ -5121,8 +5121,8 @@
     "i": "insomnia (disease)",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Removed: the single-ingredient claim",
     "x": 0
    },
    {
@@ -5209,8 +5209,8 @@
     "i": "acromesomelic dysplasia, Hunter-Thompson type",
     "lt": 0,
     "lv": 20,
-    "r": 1,
-    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
+    "r": 2,
+    "rs": "Removed: the single-ingredient claim",
     "x": 0
    },
    {
@@ -5275,8 +5275,8 @@
     "i": "manic bipolar affective disorder",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Removed: the single-ingredient claim",
     "x": 0
    },
    {

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 497
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 monitor_inn: "Lomefloxacin"
 predicted_indications: ["laryngotracheitis", "heart valve disease", "heart conduction disease", "congenital anomaly of ventricular septum", "heart neoplasm", "pericardium disease", "myocardial rupture", "cardiac anomalies-heterotaxy syndrome", "carcinoid heart disease", "heart aneurysm"]
 description: "Lomefloxacin: predicted new indication Laryngotracheitis (evidence level L5). In India: 15 listed products (15 not discontinued)"
@@ -74,13 +74,29 @@ Currently no related literature available.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Registration No. 87421 | Floxaday 400mg Tablet (Sun Pharmaceutical Industries Ltd) | Strip of 6 tablets | Not specified in the records |
-| Registration No. 124626 | Lomef 400mg Tablet (Torrent Pharmaceuticals Ltd) | Strip of 10 tablets | Not specified in the records |
-| Registration No. 130215 | Lomibact 3mg Drop (Sun Pharmaceutical Industries Ltd) | Packet of 5 ml drop | Not specified in the records |
-| Registration No. 130619 | Lom 0.3% Eye Drop (Oscar Remedies Pvt Ltd) | Packet of 5 ml eye drop | Not specified in the records |
-| Registration No. 100528 | Gynalom 400mg Tablet (Wockhardt Ltd) | Strip of 5 tablets | Not specified in the records |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 87421 | Floxaday 400mg Tablet | Strip of 6 tablets | Valid |
+| 92188 | Floxaquin LA 400mg Tablet | Strip of 4 tablets | Valid |
+| 100528 | Gynalom 400mg Tablet | Strip of 5 tablets | Valid |
+| 124626 | Lomef 400mg Tablet | Strip of 10 tablets | Valid |
+| 125913 | Lomin 400mg Tablet | Strip of 10 tablets | Valid |
+| 126983 | Loflox Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 127266 | Lomedon 400mg Tablet | Strip of 5 tablets | Valid |
+| 130215 | Lomibact 3mg Drop | Packet of 5 ml Drop | Valid |
+| 130531 | Lomexel 400mg Tablet | Strip of 10 tablets | Valid |
+| 130619 | Lom 0.3% Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 130631 | Lomegen 400mg Tablet | Strip of 10 tablets | Valid |
+| 211833 | Soloflox 400mg Tablet | Strip of 4 tablets | Valid |
+| 228185 | Taurlom 400mg Tablet | Strip of 10 tablets | Valid |
+| 234724 | Vivo 400mg Tablet | Strip of 10 tablets | Valid |
+| 236811 | Vivo 400mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 All 15 registrations are valid single-ingredient products. Most are 400 mg oral tablets, with additional drop and eye drop formulations.
 

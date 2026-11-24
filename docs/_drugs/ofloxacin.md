@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Ofloxacin"
 predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague", "congenital hematological disorder", "punctate epithelial keratoconjunctivitis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ofloxacin: predicted new indication Hyperamylasemia (evidence level L5). In India: at least 20 listed products"
 ---
 
@@ -76,15 +76,44 @@ Among the other predictions, **septicemic plague** (TxGNN score 0.9979) is the o
 
 ## India Market Information
 
-At least 20 valid licences are recorded, all classified as single-ingredient products. The list may be partial. No approved-indication text is present in the licence records, so no approved indication can be stated from them. Five representative single-strength ofloxacin products are shown below.
+At least 20 valid licences are recorded. The list may be partial. No approved-indication text is present in the licence records, so no approved indication can be stated from them. Five representative single-strength ofloxacin products are shown below.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| 3728 | Aliox 200mg Tablet | Strip of 10 tablets | Allien Pharmaceuticals |
-| 170722 | Oflomus 200mg Tablet | Strip of 10 tablets | Kritikos Care |
-| 169715 | Ofo 200mg Tablet | Strip of 10 tablets | Anglo-French Drugs & Industries Ltd |
-| 87739 | Flozox 200mg Tablet | Strip of 10 tablets | Arovea Lifesciences Pvt Ltd |
-| 164041 | Ole 200mg Tablet | Strip of 10 tablets | S P Pharma |
+<!-- review:begin in-lic-20261124-ofloxacin-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "At least 20 valid licences are recorded, all classified as single-ingredient products." Removed: it described the products as single-ingredient (or as having no combination products), which does not match the Indian medicine data (the Indian Medicine Dataset): some of the recorded products are fixed-dose combinations. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124-ofloxacin-1 -->
+
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 3728 | Aliox 200mg Tablet | Strip of 10 tablets | Valid |
+| 70355 | Dflox 100 Tablet | Strip of 10 tablets | Valid |
+| 86208 | Flavospas D 200 mg/200 mg Tablet | Strip of 10 tablets | Valid |
+| 86858 | Flozoross Tablet | Strip of 10 tablets | Valid |
+| 87245 | Fixit OF Dry Syrup | Bottle of 30 ml Dry Syrup | Valid |
+| 87739 | Flozox 200mg Tablet | Strip of 10 tablets | Valid |
+| 98285 | Geflox 200mg Tablet | Strip of 10 tablets | Valid |
+| 102690 | Glofty 100mg Tablet | Strip of 10 tablets | Valid |
+| 163774 | Ofka OZ Tablet | Strip of 10 tablets | Valid |
+| 164041 | Ole 200mg Tablet | Strip of 10 tablets | Valid |
+| 167906 | OPD-OZ 200mg/500mg Tablet | Strip of 10 tablets | Valid |
+| 168014 | Ofrut OZ 200mg/500mg Tablet | Strip of 10 tablets | Valid |
+| 169715 | Ofo 200mg Tablet | Strip of 10 tablets | Valid |
+| 170722 | Oflomus 200mg Tablet | Strip of 10 tablets | Valid |
+| 171335 | Oflatoz 50mg Oral Suspension | Bottle of 60 ml Oral Suspension | Valid |
+| 171439 | Oflozec OZ Oral Suspension | Bottle of 60 ml Oral Suspension | Valid |
+| 172894 | Oflavid-TZ 200mg/600mg Tablet | Strip of 10 tablets | Valid |
+| 173567 | Ospol OZ 200mg/500mg Tablet | Strip of 10 tablets | Valid |
+| 214574 | Sehflo 200mg Tablet | Strip of 10 tablets | Valid |
+| 247177 | ZO 100mg Tablet DT | Strip of 10 tablet dt | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 Some other listed product names (for example those with "OZ" or two strengths) suggest possible combination products. These should be verified before using their licences to describe single-ingredient ofloxacin.
 
@@ -113,11 +142,12 @@ The hyperamylasemia prediction has a high model score but no trials, no literatu
 
 ## Review Log
 
-Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-19 | "Currently, detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Ofloxacin Otic (ofloxacin) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=42366170-e536-46a1-9735-d76e5820a9de) |
+| 2026-11-24 | Removed: the single-ingredient claim | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 

@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 362
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 description: "Flunarizine: known uses and market status in India; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -72,30 +72,36 @@ The TxGNN deep-learning model (score ≥ 0.99) produced candidates for Flunarizi
 
 ## India Market Information
 
-| Licence | Product | Dosage form | Status |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
 |------|------|------|------|
-| 144126 | Migrawave 5 Tablet | strip of 10 tablets | Valid |
-| 86044 | Flugran 10 Tablet | strip of 10 tablets | Valid |
-| 86306 | Flunarest 5mg Tablet | strip of 10 tablets | Valid |
-| 144549 | Myzine 10mg Tablet | strip of 10 tablets | Valid |
-| 94615 | Grain 10mg Tablet | strip of 10 tablets | Valid |
-| 86225 | Fluriz 10mg Tablet | strip of 10 tablets | Valid |
-| 167609 | Oxigran 5mg Tablet | strip of 10 tablets | Valid |
-| 165532 | Onezine 5mg Tablet | strip of 10 tablets | Valid |
-| 86464 | Fenzy 10 Tablet | strip of 10 tablets | Valid |
-| 237975 | Volzine 5mg Tablet | strip of 10 tablets | Valid |
-| 88593 | Flunamat 5mg Tablet | strip of 10 tablets | Valid |
-| 157543 | Nomigam 10mg Tablet | strip of 10 tablets | Valid |
-| 84209 | Flunarin 5 Tablet | strip of 10 tablets | Valid |
-| 91167 | Flunawyn 5mg Tablet | strip of 10 tablets | Valid |
-| 244404 | Xelium 5mg Tablet | strip of 10 tablets | Valid |
-| 88448 | Flunahist 5mg Tablet | strip of 10 tablets | Valid |
-| 97354 | Grenate 10mg Tablet | strip of 10 tablets | Valid |
-| 106344 | Headzin 10 Tablet | strip of 10 tablets | Valid |
-| 138733 | Migrellium 5 Tablet | strip of 10 tablets | Valid |
-| 136888 | Migrazine 10mg Tablet | strip of 10 tablets | Valid |
+| 84209 | Flunarin 5 Tablet | Strip of 10 tablets | Valid |
+| 86044 | Flugran 10 Tablet | Strip of 10 tablets | Valid |
+| 86225 | Fluriz 10mg Tablet | Strip of 10 tablets | Valid |
+| 86306 | Flunarest 5mg Tablet | Strip of 10 tablets | Valid |
+| 86464 | Fenzy 10 Tablet | Strip of 10 tablets | Valid |
+| 88448 | Flunahist 5mg Tablet | Strip of 10 tablets | Valid |
+| 88593 | Flunamat 5mg Tablet | Strip of 10 tablets | Valid |
+| 91167 | Flunawyn 5mg Tablet | Strip of 10 tablets | Valid |
+| 94615 | Grain 10mg Tablet | Strip of 10 tablets | Valid |
+| 97354 | Grenate 10mg Tablet | Strip of 10 tablets | Valid |
+| 106344 | Headzin 10 Tablet | Strip of 10 tablets | Valid |
+| 136888 | Migrazine 10mg Tablet | Strip of 10 tablets | Valid |
+| 138733 | Migrellium 5 Tablet | Strip of 10 tablets | Valid |
+| 144126 | Migrawave 5 Tablet | Strip of 10 tablets | Valid |
+| 144549 | Myzine 10mg Tablet | Strip of 10 tablets | Valid |
+| 157543 | Nomigam 10mg Tablet | Strip of 10 tablets | Valid |
+| 165532 | Onezine 5mg Tablet | Strip of 10 tablets | Valid |
+| 167609 | Oxigran 5mg Tablet | Strip of 10 tablets | Valid |
+| 237975 | Volzine 5mg Tablet | Strip of 10 tablets | Valid |
+| 244404 | Xelium 5mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
 
 Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

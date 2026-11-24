@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 856
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Trastuzumab"
 predicted_indications: ["malignant cutaneous granular cell skin tumor", "ectomesenchymoma", "human herpesvirus 8-related tumor", "middle ear neuroendocrine tumor", "kidney pelvis sarcomatoid transitional cell carcinoma", "prostatic urethra urothelial carcinoma"]
 description: "Trastuzumab: predicted new indication Malignant cutaneous granular cell skin tumor (evidence level L5). In India: at least 20 listed products"
@@ -105,15 +105,38 @@ Note: NCT00053339, a Phase 3 trial of trastuzumab with or without tamoxifen, was
 
 ## India Market Information
 
-Trastuzumab has 20 valid single-ingredient registrations in India and no cancelled ones. The data compiled for this report did not include approved indication text for any of them. The first five are listed below.
+Trastuzumab has 20 valid single-ingredient registrations in India and no cancelled ones. The data compiled for this report did not include approved indication text for any of them.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 73635 | Eleftha 150mg Injection (Intas) | Vial of 1 injection | Not stated in compiled data |
-| 105738 | Herticad 440mg Injection (Sayre Therapeutics) | Vial of 1 injection | Not stated in compiled data |
-| 217215 | Trumab Injection (Glenmark) | Vial of 1 powder for infusion | Not stated in compiled data |
-| 105410 | Hersima 150mg Injection (Alkem) | Vial of 1 injection | Not stated in compiled data |
-| 164987 | Ontramab 440mg Injection (Celon) | Vial of 1 injection | Not stated in compiled data |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 26760 | Biceltis 440mg Injection | Vial of 1 Injection | Valid |
+| 72705 | Eleftha 440mg Injection | Vial of 1 Injection | Valid |
+| 73635 | Eleftha 150mg Injection | Vial of 1 Injection | Valid |
+| 104052 | Hervycta 440 + Injection | Vial of 1 Injection | Valid |
+| 104210 | Herclon Injection | Vial of 1 Injection | Valid |
+| 104242 | Hertraz 440mg Injection | Vial of 1 Injection | Valid |
+| 104453 | Hersima 440mg Injection | Vial of 1 Injection | Valid |
+| 104664 | Hermab 440mg Injection | Vial of 1 Injection | Valid |
+| 105410 | Hersima 150mg Injection | Vial of 1 Injection | Valid |
+| 105738 | Herticad 440mg Injection | Vial of 1 Injection | Valid |
+| 105891 | Hermab 150mg Injection | Vial of 1 Injection | Valid |
+| 152465 | Neuzumab 440mg Injection | Vial of 20 ml Injection | Valid |
+| 164987 | Ontramab 440mg Injection | Vial of 1 Injection | Valid |
+| 167981 | Ontramab 150mg Injection | Vial of 1 Injection | Valid |
+| 216654 | Trasturel 440mg Injection | Vial of 1 Injection | Valid |
+| 217215 | Trumab Injection | Vial of 1 Powder for infusion | Valid |
+| 218932 | Trazumab 440mg Solution for Infusion | Vial of 1 Solution for Infusion | Valid |
+| 220906 | Trasturel 150mg Injection | Vial of 1 Injection | Valid |
+| 230403 | Ujvira 100mg Injection | Vial of 1 Injection | Valid |
+| 234444 | Vivitra 150mg Injection | Vial of 1 Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ---
 

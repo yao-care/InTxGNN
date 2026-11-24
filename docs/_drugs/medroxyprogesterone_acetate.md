@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 518
 evidence_level: L3
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Medroxyprogesterone acetate"
 predicted_indications: ["breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "blunt duct adenosis of breast", "apocrine adenosis of breast"]
 description: "Medroxyprogesterone Acetate: predicted new indication Breast fibrocystic disease (evidence level L3). In India: at least 20 listed products"
@@ -91,13 +91,36 @@ Currently no related clinical trials registered.
 
 MPA is marketed in India, and all 20 licences found in the local data are valid. The list below may be partial, and approved indication text is not recorded in the local data.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 87837 | Farlutal 5mg Tablet (Pfizer Ltd) | Strip of 10 tablets | Not available |
-| 182098 | Parlutal 2.5mg Tablet (Pfizer Ltd) | Strip of 10 tablets | Not available |
-| 80190 | Empeea 2.5mg Tablet (Pfizer Ltd) | Strip of 10 tablets | Not available |
-| 134176 | Meprate 5mg Tablet (Serum Institute Of India Ltd) | Strip of 10 tablets | Not available |
-| 174374 | Pari Contraceptive Injection (Janani) | Box of 1 injection | Not available |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 50371 | Cromed 10mg Tablet | Strip of 10 tablets | Valid |
+| 60455 | Dubloc 10mg Tablet | Strip of 10 tablets | Valid |
+| 60926 | Depolin 10mg Tablet | Strip of 10 tablets | Valid |
+| 80190 | Empeea 2.5mg Tablet | Strip of 10 tablets | Valid |
+| 87837 | Farlutal 5mg Tablet | Strip of 10 tablets | Valid |
+| 134176 | Meprate 5mg Tablet | Strip of 10 tablets | Valid |
+| 134405 | Maxogest Tablet | Strip of 10 tablets | Valid |
+| 135191 | Medolin 10mg Tablet | Strip of 10 tablets | Valid |
+| 135464 | Medose 10mg Tablet | Strip of 10 tablets | Valid |
+| 136110 | Medveo 10mg Tablet | Strip of 10 tablets | Valid |
+| 137848 | Meprotet 10mg Tablet | Strip of 10 tablets | Valid |
+| 139075 | Medomac 10mg Tablet | Strip of 10 tablets | Valid |
+| 139749 | M-Gest Tablet | Strip of 10 tablets | Valid |
+| 165110 | Orgem 10mg Tablet | Strip of 10 tablets | Valid |
+| 174374 | Pari Contraceptive Injection | Box of 1 Injection | Valid |
+| 177162 | Perlutal-M 10mg Tablet | Strip of 10 tablets | Valid |
+| 178996 | Postreg M 10mg Tablet | Strip of 10 tablets | Valid |
+| 182098 | Parlutal 2.5mg Tablet | Strip of 10 tablets | Valid |
+| 192906 | Regumed 10mg Tablet | Strip of 10 tablets | Valid |
+| 244251 | X-Pro 10mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ---
 

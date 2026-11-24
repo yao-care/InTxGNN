@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 404
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Guaifenesin"
 predicted_indications: ["nasal cavity disease", "faucial diphtheria", "cervical disc degenerative disorder", "papillary conjunctivitis"]
 description: "Guaifenesin: predicted new indication Nasal cavity disease (evidence level L5). In India: at least 20 listed products"
@@ -76,15 +76,38 @@ This is a single review focused on voice users. It offers only indirect support 
 
 ## India Market Information
 
-Guaifenesin has 20 valid single-ingredient registrations in India and none are cancelled. The registration records do not include approved indication text. Five main authorizations are listed below.
+Guaifenesin has 20 valid single-ingredient registrations in India and none are cancelled. The registration records do not include approved indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Registration No. 52663 | Chestorex Tablet | Strip of 10 tablets | Not stated in the registration record |
-| Registration No. 30353 | Bro Surex Syrup | Bottle of 100 ml syrup | Not stated in the registration record |
-| Registration No. 247511 | Z Cof Syrup | Bottle of 100 ml syrup | Not stated in the registration record |
-| Registration No. 176224 | Prodexa Tablet | Strip of 10 tablets | Not stated in the registration record |
-| Registration No. 26008 | Broncorex Expectorant | Bottle of 100 ml syrup | Not stated in the registration record |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 8391 | Asta Q 50mg/1.25mg/4mg Syrup | Bottle of 100 ml Syrup | Valid |
+| 12594 | Alpacoff Syrup | Bottle of 100 ml Syrup | Valid |
+| 26008 | Broncorex Expectorant | Bottle of 100 ml Syrup | Valid |
+| 28269 | Broxyl-AP Syrup | Bottle of 60 ml Syrup | Valid |
+| 30353 | Bro Surex Syrup | Bottle of 100 ml Syrup | Valid |
+| 35090 | Coscoril Syrup | Bottle of 100 ml Syrup | Valid |
+| 37455 | Coughex Tablet | Strip of 15 tablets | Valid |
+| 42361 | Cofrest BM Syrup | Bottle of 100 ml Syrup | Valid |
+| 46005 | Cecoril Syrup | Bottle of 100 ml Syrup | Valid |
+| 46411 | Cinkof Syrup | Bottle of 100 ml Syrup | Valid |
+| 50220 | Crf D Tablet | Strip of 10 tablets | Valid |
+| 51526 | Carion X 50 mg/1.25 mg/4 mg Syrup | Bottle of 100 ml Syrup | Valid |
+| 52663 | Chestorex Tablet | Strip of 10 tablets | Valid |
+| 74196 | Expal Tablet | Strip of 10 tablets | Valid |
+| 75826 | Ex-Dmr Tablet | Strip of 10 tablets | Valid |
+| 115883 | Kuftive 100mg/8mg/2mg/10mg Tablet | Strip of 10 tablets | Valid |
+| 157533 | Nextup Plus 100mg/10mg/2mg Capsule | Strip of 10 capsules | Valid |
+| 176224 | Prodexa Tablet | Strip of 10 tablets | Valid |
+| 220493 | Tusril Syrup | Bottle of 110 ml Syrup | Valid |
+| 247511 | Z Cof Syrup | Bottle of 100 ml Syrup | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 Available forms include tablets, capsules and syrups.
 

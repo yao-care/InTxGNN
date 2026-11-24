@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 28
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Adenosine: predicted new indication Obsolete bundle branch block (evidence level L5). Approved use: Ventricular tachycardia"
 monitor_inn: "Adenosine"
 predicted_indications: ["obsolete bundle branch block"]
@@ -82,13 +82,25 @@ No literature was found for the top prediction (obsolete bundle branch block). T
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 10712 | Adnet 3mg Injection | Vial of 2 ml injection | Not stated in licence record |
-| 9204 | Adenoject 30mg Injection | Vial of 10 ml injection | Not stated in licence record |
-| 179740 | Psvt 6mg Injection | Vial of 2 ml injection | Not stated in licence record |
-| 3304 | Adenoz 6mg Injection | Vial of 2 ml injection | Not stated in licence record |
-| 2071 | Adenocor 6mg Injection | Vial of 2 ml injection | Not stated in licence record |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 476 | Adenosine 3mg Injection | Vial of 2 ml Injection | Valid |
+| 1413 | Adneon 6mg Injection | Vial of 2 ml Injection | Valid |
+| 2071 | Adenocor 6mg Injection | Vial of 2 ml Injection | Valid |
+| 3304 | Adenoz 6mg Injection | Vial of 2 ml Injection | Valid |
+| 4212 | Adenoject 3mg Injection | Vial of 2 ml Injection | Valid |
+| 4305 | Adenoject 6mg Injection | Vial of 2 ml Injection | Valid |
+| 8333 | Adenocor 3mg Injection | Vial of 2 ml Injection | Valid |
+| 9204 | Adenoject 30mg Injection | Vial of 10 ml Injection | Valid |
+| 10712 | Adnet 3mg Injection | Vial of 2 ml Injection | Valid |
+| 35813 | Carnosin Injection | Ampoule of 2 ml Injection | Valid |
+| 179740 | Psvt 6mg Injection | Vial of 2 ml Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 Eleven valid single-ingredient licences are registered in total. All are injectable products (2 ml vials, a 10 ml vial and a 2 ml ampoule).
 

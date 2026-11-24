@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 631
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Oxymetazoline: predicted new indication Nasal cavity disease (evidence level L5). Approved use: Pharyngitis, common cold"
 monitor_inn: "Oxymetazoline"
 predicted_indications: ["nasal cavity disease", "headache disorder"]
@@ -96,15 +96,38 @@ Evidence for the headache-disorder prediction is listed here separately:
 
 ## India Market Information
 
-Twenty valid single-ingredient registrations are listed. The approved indication text is not available for any of them. Five main registrations:
+Twenty valid single-ingredient registrations are listed. The approved indication text is not available for any of them.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 39513 | Clinovin 0.5mg Nasal Drops | Nasal drops (10 ml bottle) | Not available |
-| 42548 | Cinus 0.5mg Nasal Drops | Nasal drops (10 ml) | Not available |
-| 155813 | Nosivak 0.05% Nasal Spray | Nasal spray (10 ml bottle) | Not available |
-| 164353 | Optolin Eye Drop | Eye drop (5 ml bottle) | Not available |
-| 134810 | Maxtra-O Nasal Spray | Nasal solution (10 ml bottle) | Not available |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 27507 | Blockfree 0.05% Nasal Spray | Pump bottle of 10 ml Nasal Spray | Valid |
+| 39513 | Clinovin 0.5mg Nasal Drops | Bottle of 10 ml Nasal Drops | Valid |
+| 42548 | Cinus 0.5mg Nasal Drops | Packet of 10 ml Nasal Drops | Valid |
+| 75475 | Ecnoz Nasal Spray | Bottle of 10 ml Nasal Solution | Valid |
+| 134810 | Maxtra-O Nasal Spray | Bottle of 10 ml Nasal Solution | Valid |
+| 140925 | Medinoze Junior 0.025% Nasal Drops | Bottle of 10 ml Nasal Drops | Valid |
+| 142105 | Medinoze 0.05% Nasal Spray | Bottle of 10 ml Nasal Spray | Valid |
+| 153704 | Nosvin Mini 0.01% Nasal Drops | Bottle of 10 ml Nasal Drops | Valid |
+| 155813 | Nosivak 0.05% Nasal Spray | Bottle of 10 ml Nasal Spray | Valid |
+| 162206 | Oxydrops Adult 0.05% Nasal Drops | Bottle of 10 ml Nasal Drops | Valid |
+| 162804 | Oxydrops Infant 0.01% Nasal Drops | Bottle of 10 ml Nasal Drops | Valid |
+| 163640 | Oxymist Adult 0.05% Nasal Spray | Bottle of 10 ml Nasal Spray | Valid |
+| 163983 | Oxeon P 0.025% Nasal Drops | Bottle of 10 ml Nasal Drops | Valid |
+| 164353 | Optolin Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 164668 | Oxyinoz Infant 0.01% Nasal Drops | Bottle of 10 ml Nasal Drops | Valid |
+| 164831 | Oxyinoz Paed 0.025% Nasal Drops | Bottle of 10 ml Nasal Drops | Valid |
+| 170106 | Oxyrest 0.05% Nasal Drops | Bottle of 10 ml Nasal Drops | Valid |
+| 189424 | Rinolife Mini Nasal Drops | Bottle of 10 ml Nasal Drops | Valid |
+| 220962 | Tencol Nasal Spray/Drop | Bottle of 10 ml Nasal Solution | Valid |
+| 245818 | Ymetlo Nasal Drops | Bottle of 10 ml Nasal Drops | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 Strengths range from 0.01% (infant) and 0.025% (paediatric) to 0.05% (adult). Most products are nasal drops or sprays, and one is an eye drop.
 

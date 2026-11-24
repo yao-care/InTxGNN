@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 747
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Rivaroxaban: predicted new indication Rheumatoid arthritis (evidence level L5). Approved use: Not available"
 monitor_inn: "Rivaroxaban"
 predicted_indications: ["rheumatoid arthritis", "gout", "HIV infectious disease", "brachydactyly-syndactyly syndrome"]
@@ -87,15 +87,38 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 185549 | Rivoxamac 15mg Tablet | Strip of 10 tablets | Not stated |
-| 185361 | Rivared 15mg Tablet | Strip of 10 tablets | Not stated |
-| 243926 | Xarelto 20mg Tablet | Box of 98 tablets | Not stated |
-| 155933 | Nanotril 10mg Tablet | Strip of 10 tablets | Not stated |
-| 185545 | Rivalto 20mg Tablet | Strip of 14 tablets | Not stated |
+<!-- licenses:begin -->
 
-The data list 20 valid single-ingredient registrations in total; the five above are shown as examples.
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 8026 | Aana 2.5mg Tablet | Strip of 10 tablets | Valid |
+| 73223 | Exafib 20mg Tablet | Strip of 14 tablets | Valid |
+| 84459 | Flovas 10 Tablet | Strip of 14 tablets | Valid |
+| 108701 | Ifaxa 10mg Tablet | Strip of 15 tablets | Valid |
+| 155933 | Nanotril 10mg Tablet | Strip of 10 tablets | Valid |
+| 184510 | Ricosprin 2.5 Tablet | Strip of 15 tablets | Valid |
+| 185038 | Rivared 20mg Tablet | Strip of 10 tablets | Valid |
+| 185068 | Rivared 2.5mg Tablet | Strip of 10 tablets | Valid |
+| 185361 | Rivared 15mg Tablet | Strip of 10 tablets | Valid |
+| 185505 | Rivaxon 10mg Tablet | Strip of 7 tablets | Valid |
+| 185545 | Rivalto 20mg Tablet | Strip of 14 tablets | Valid |
+| 185549 | Rivoxamac 15mg Tablet | Strip of 10 tablets | Valid |
+| 185614 | Ricosprin 15 Tablet | Strip of 15 tablets | Valid |
+| 186238 | Rivalto 2.5mg Tablet | Strip of 14 tablets | Valid |
+| 186643 | Rivatop 15mg Tablet | Strip of 14 tablets | Valid |
+| 187074 | Rivaxab 10 Tablet | Strip of 14 tablets | Valid |
+| 230762 | Unclot 15 Tablet | Strip of 10 tablets | Valid |
+| 243926 | Xarelto 20mg Tablet | Box of 98 tablets | Valid |
+| 244514 | Xarocad 20mg Tablet | Strip of 14 tablets | Valid |
+| 250306 | Zeroclot 20mg Tablet | Strip of 15 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
+
+The data list 20 valid single-ingredient registrations in total.
 
 ---
 

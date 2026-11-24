@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 908
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Zinc sulfate"
 predicted_indications: ["pharyngitis", "nasal cavity disease", "acute laryngopharyngitis", "congenital prothrombin deficiency"]
 description: "Zinc Sulfate: predicted new indication Pharyngitis (evidence level L5). In India: 5 listed products (5 not discontinued)"
@@ -73,13 +73,19 @@ The link is only partly transferable, however. The available data concern postop
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 246414 | Zynwin Tablet | Strip of 10 tablets | Not recorded |
-| 247901 | Zia 20 Tablet DT | Strip of 10 dispersible tablets | Not recorded |
-| 249010 | Zia 200 Tablet | Strip of 10 tablets | Not recorded |
-| 246829 | Zincolak Capsule | Strip of 10 capsules | Not recorded |
-| 248768 | Zod-Plus Oral Drops | Bottle of 30 ml oral drops | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 246414 | Zynwin Tablet | Strip of 10 tablets | Valid |
+| 246829 | Zincolak Capsule | Strip of 10 capsules | Valid |
+| 247901 | Zia 20 Tablet DT | Strip of 10 tablet dt | Valid |
+| 248768 | Zod-Plus Oral Drops | Bottle of 30 ml Oral Drops | Valid |
+| 249010 | Zia 200 Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

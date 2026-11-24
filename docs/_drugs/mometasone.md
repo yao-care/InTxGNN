@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 566
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Mometasone: predicted new indication Primary cutaneous T-cell lymphoma (evidence level L5). Approved use: Not stated in the Indian licence data. Reference pharmacology describ…"
 monitor_inn: "Mometasone"
 predicted_indications: ["primary cutaneous T-cell lymphoma"]
@@ -75,15 +75,38 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-Twenty valid single-ingredient licences are registered; the five main ones are listed below. Approved indication text is not provided in the licence records.
+Twenty valid single-ingredient licences are registered. Approved indication text is not provided in the licence records.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 108133 | Isomet-M Nasal Spray | 100 MDI nasal spray | Not stated |
-| 1872 | Aquamet Nasal Spray | 12 ml bottle, nasal spray | Not stated |
-| 72468 | Elocon Cream | 10 g tube, cream | Not stated |
-| 137979 | Midsone 0.1% Cream | 15 g tube, cream | Not stated |
-| 48801 | Clearoid 0.1% Gel | 10 g tube, gel | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 1872 | Aquamet Nasal Spray | Bottle of 12 ml Nasal Spray | Valid |
+| 46503 | Cratisone 0.1% Cream | Tube of 20 gm Cream | Valid |
+| 48801 | Clearoid 0.1% Gel | Tube of 10 gm Gel | Valid |
+| 72468 | Elocon Cream | Tube of 10 gm Cream | Valid |
+| 72770 | Elocon Cream | Tube of 30 gm Cream | Valid |
+| 75999 | Eduvet Cream | Tube of 10 gm Cream | Valid |
+| 108133 | Isomet-M Nasal Spray | Packet of 100 MDI Nasal Spray | Valid |
+| 133590 | Metatop Nasal Spray | Bottle of 120 MDI Nasal Spray | Valid |
+| 134349 | Megaspray Spray | Packet of 10 ml Nasal Spray | Valid |
+| 134596 | Momefit Nasal Spray | Bottle of 10 ml Nasal Spray | Valid |
+| 134640 | Motesol Cream | Tube of 10 gm Cream | Valid |
+| 135417 | Momet Ointment | Tube of 5 gm Ointment | Valid |
+| 137751 | Momsy Nasal Spray | Bottle of 10 ml Nasal Spray | Valid |
+| 137979 | Midsone 0.1% Cream | Tube of 15 gm Cream | Valid |
+| 142950 | Mmc Cream | Tube of 10 gm Cream | Valid |
+| 142959 | Momefur 0.1% Cream | Tube of 15 gm Cream | Valid |
+| 150632 | Nazomac-M Nasal Spray | Bottle of 12 ml Nasal Spray | Valid |
+| 190907 | Rhomentum Cream | Tube of 5 gm Cream | Valid |
+| 206811 | Salsone Cream | Tube of 5 gm Cream | Valid |
+| 218098 | Tamomist Nasal Spray | Bottle of 10 ml Nasal Spray | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 The 20 licences cover nasal sprays, creams, an ointment and a gel. The topical forms are relevant to a skin-directed use in cutaneous lymphoma.
 

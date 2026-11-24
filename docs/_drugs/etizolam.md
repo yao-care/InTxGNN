@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 329
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Etizolam: predicted new indication Insomnia (evidence level L4). Approved use: Anxiety"
 monitor_inn: "Etizolam"
 predicted_indications: ["insomnia (disease)"]
@@ -86,15 +86,38 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-Etizolam has 20 valid single-ingredient registrations in India and none cancelled. The approved indication text is not available for these products. Five representative registrations:
+Etizolam has 20 valid single-ingredient registrations in India and none cancelled. The approved indication text is not available for these products.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 72556 | Etirest 0.5 Tablet (Sun Pharmaceutical Industries Ltd) | Strip of 10 tablets | Not specified |
-| 72371 | Etizola Beta 0.5 Tablet (Macleods Pharmaceuticals Pvt Ltd) | Strip of 10 tablets | Not specified |
-| 250188 | Zolamed 0.5mg Tablet (Medirin Pharmaceuticals Pvt Ltd) | Strip of 10 tablets | Not specified |
-| 247939 | Zolavil 0.5mg Tablet MD (Viltis Pharma Private Limited) | Strip of 10 tablets MD | Not specified |
-| 109969 | Inxity 0.5mg Tablet (Archicare Limited) | Strip of 10 tablets | Not specified |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 21454 | Awedde-Plus Tablet | Strip of 10 tablets | Valid |
+| 72371 | Etizola Beta 0.5 Tablet | Strip of 10 tablets | Valid |
+| 72556 | Etirest 0.5 Tablet | Strip of 10 tablets | Valid |
+| 72985 | Ezolent Plus Tablet | Strip of 10 tablets | Valid |
+| 73678 | Elm 0.25mg Tablet | Strip of 10 tablets | Valid |
+| 73853 | Etizoram 0.5mg Tablet | Strip of 10 tablets | Valid |
+| 74871 | Etinap Plus Tablet | Strip of 10 tablets | Valid |
+| 77867 | Etivar 0.25mg Tablet | Strip of 10 tablets | Valid |
+| 79406 | Etizene 0.5mg Tablet | Strip of 10 tablets | Valid |
+| 80701 | Ezm 0.5mg Tablet | Strip of 10 tablets | Valid |
+| 80844 | Ezyser 0.25mg Tablet MD | Strip of 10 tablet md | Valid |
+| 80984 | Etawa-MD 0.5 Tablet | Strip of 10 tablet md | Valid |
+| 81770 | Etijab 0.5mg Tablet | Strip of 10 tablets | Valid |
+| 82193 | Exilam Beta Tablet | Strip of 10 tablets | Valid |
+| 83799 | Eprow 0.25mg Tablet | Strip of 10 tablets | Valid |
+| 84013 | Etiphen 0.5mg Tablet | Strip of 10 tablets | Valid |
+| 109969 | Inxity 0.5mg Tablet | Strip of 10 tablets | Valid |
+| 209537 | Solfresh Pro 0.5mg/20mg Tablet | Strip of 10 tablets | Valid |
+| 247939 | Zolavil 0.5mg Tablet MD | Strip of 10 tablet md | Valid |
+| 250188 | Zolamed 0.5mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ---
 

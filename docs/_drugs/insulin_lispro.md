@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 439
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Insulin Lispro: predicted new indication Autoimmune oophoritis (evidence level L5). Approved use: Type 2 diabetes mellitus (also type 1 diabetes mellitus and diabetic…"
 monitor_inn: "Insulin lispro"
 predicted_indications: ["autoimmune oophoritis", "thiamine-responsive dysfunction syndrome", "classic stiff person syndrome", "focal stiff limb syndrome", "opsismodysplasia", "drug-induced localized lipodystrophy", "pancreatic agenesis", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy"]
@@ -77,21 +77,36 @@ For the rank 7 prediction, pancreatic agenesis, one general review is available.
 
 ## India Market Information
 
-The approved indication text is not recorded for these registrations. Five of the 14 valid registrations are listed below.
+The approved indication text is not recorded for these registrations.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 103754 | Humalog 100IU/ml Kwikpen (Eli Lilly and Company India) | Disposable pen of 3 ml solution for injection | Not specified |
-| 103700 | Humalog 100IU/ml Solution for Injection (Eli Lilly and Company India) | Cartridge of 3 ml solution for injection | Not specified |
-| 104016 | Humalog 200IU/ml Kwikpen (Eli Lilly and Company India) | Pre-filled pen of 3 ml solution for injection | Not specified |
-| 73299 | Eglucent Rapid 100IU/ml Kwikpen (Lupin) | Pre-filled pen of 3 ml solution for injection | Not specified |
-| 103706 | Humalog Mix 25 100IU/ml Cartridge (Eli Lilly and Company India) | Cartridge of 3 ml injection | Not specified |
+<!-- licenses:begin -->
 
-All 14 registrations are currently valid. They are injectable only (cartridges and pens), in solution and premixed suspension forms.
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 72446 | Eglucent Mix 25 100IU/ml Suspension for Injection | Cartridge of 3 ml Suspension for Injection | Valid |
+| 72485 | Eglucent Rapid 100IU/ml Solution for Injection | Cartridge of 3 ml Solution for Injection | Valid |
+| 72518 | Eglucent Mix 50 100IU/ml Suspension for Injection | Cartridge of 3 ml Suspension for Injection | Valid |
+| 72628 | Eglucent Mix 25 Kwikpen 100IU/ml | Pre-filled pen of 1 Suspension for Injection | Valid |
+| 73299 | Eglucent Rapid 100IU/ml Kwikpen | Pre-filled pen of 3 ml Solution for Injection | Valid |
+| 73707 | Eglucent Mix 50 Kwikpen 100IU/ml | Disposable pen of 1 Suspension for Injection | Valid |
+| 74410 | Eglucent Kwikpen | Pre-filled pen of 1 Solution for Injection | Valid |
+| 103700 | Humalog 100IU/ml Solution for Injection | Cartridge of 3 ml Solution for Injection | Valid |
+| 103706 | Humalog Mix 25 100IU/ml Cartridge | Cartridge of 3 ml Injection | Valid |
+| 103745 | Humalog Mix 50 100IU/ml Cartridge | Cartridge of 3 ml Suspension for Injection | Valid |
+| 103754 | Humalog 100IU/ml Kwikpen | Disposable pen of 3 ml Solution for Injection | Valid |
+| 103763 | Humalog Mix 25 Kwikpen 100IU/ml | Disposable pen of 3 ml Suspension for Injection | Valid |
+| 103774 | Humalog Mix 50 Kwikpen 100IU/ml | Pre-filled pen of 3 ml Suspension for Injection | Valid |
+| 104016 | Humalog 200IU/ml Kwikpen | Pre-filled pen of 3 ml Solution for Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
+
+All registrations are currently valid. They are injectable only (cartridges and pens), in solution and premixed suspension forms.
 
 <!-- review:begin in-lic-20261106-insulin_lispro-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "All 14 registrations are single-ingredient products and currently valid." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+> **Review correction (2026-11-24)**: Originally stated: "All 14 registrations are single-ingredient products and currently valid." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Revised 2026-11-24: the hard-coded number of records and the wording about the old table were dropped; the Quick Overview and the product table under India Market Information show the current figures. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
 
 <!-- review:end in-lic-20261106-insulin_lispro-1 -->
 
@@ -124,7 +139,7 @@ Below is the review log for this page: statements checked against official India
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-06 | Removed: "single-ingredient products and" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-24 | Removed: "single-ingredient products and" | Corrected (revised 2026-11-24; earlier version kept in the record) | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 | 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Admelog (insulin lispro) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=12ec9e3f-e2ac-43a1-b334-8b6538cf2bb0) |
 
 <!-- review:end log -->

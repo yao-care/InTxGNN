@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "Theophylline"
 predicted_indications: ["thrombotic disease", "nasal cavity disease", "laryngotracheitis", "tracheal disease", "pharyngitis", "acute laryngopharyngitis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Theophylline: predicted new indication Thrombotic disease (evidence level L5). Approved use: Asthma"
 ---
 
@@ -77,15 +77,38 @@ No retrieved publication studies theophylline for thrombotic disease. The items 
 
 ## India Market Information
 
-The approval records contain no indication text. At least 20 single-ingredient registrations are valid, and the list may be partial. The main ones are:
+The approval records contain no indication text. At least 20 single-ingredient registrations are valid, and the list may be partial.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 221818 | Theobid 600mg Tablet | Strip of 10 tablets | Not stated in the records |
-| 222065 | TR Phyllin 250mg Capsule | Strip of 10 capsules | Not stated in the records |
-| 230300 | Unicontin-E 600 Tablet CR | Strip of 10 controlled-release tablets | Not stated in the records |
-| 64646 | Duralyn 400mg Capsule CR | Strip of 10 controlled-release capsules | Not stated in the records |
-| 171945 | Onimar 300mg Tablet CR | Strip of 10 controlled-release tablets | Not stated in the records |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 6854 | Ambro PD Syrup | Bottle of 100 ml Syrup | Valid |
+| 13551 | Ambrolax-PD Syrup | Bottle of 60 ml Syrup | Valid |
+| 14575 | Azofen T 200 mg/1 mg Tablet | Strip of 10 tablets | Valid |
+| 64646 | Duralyn 400mg Capsule CR | Strip of 10 capsule cr | Valid |
+| 128790 | Lungfyl Tablet | Strip of 10 tablets | Valid |
+| 150742 | New Theo-Asthalin Syrup | Bottle of 100 ml Syrup | Valid |
+| 158596 | New Asthelite 50 mg/1.25 mg Syrup | Bottle of 100 ml Syrup | Valid |
+| 163600 | Onimar 400mg Tablet CR | Strip of 10 tablet cr | Valid |
+| 164773 | Onimar 400mg Tablet | Strip of 10 tablets | Valid |
+| 171945 | Onimar 300mg Tablet CR | Strip of 10 tablet cr | Valid |
+| 210279 | Sivoxol Tablet | Strip of 10 tablets | Valid |
+| 211971 | Sulbex Syrup | Bottle of 100 ml Syrup | Valid |
+| 221818 | Theobid 600mg Tablet | Strip of 10 tablets | Valid |
+| 222065 | TR Phyllin 250mg Capsule | Strip of 10 capsules | Valid |
+| 224037 | Tglo 200mg Tablet | Strip of 10 tablets | Valid |
+| 226648 | Theoresp Plus 600mg Tablet | Strip of 10 tablets | Valid |
+| 230300 | Unicontin-E 600 Tablet CR | Strip of 10 tablet cr | Valid |
+| 232029 | Uniresp 400mg Tablet | Strip of 10 tablets | Valid |
+| 232125 | Uniresp 300mg Tablet | Strip of 10 tablets | Valid |
+| 245166 | X-Ant-SR Tablet | Strip of 10 tablet sr | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

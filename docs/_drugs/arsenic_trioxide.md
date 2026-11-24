@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 71
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Arsenic Trioxide: predicted new indication unclassified myelodysplastic syndrome (evidence level L5). Approved use: Acute promyelocytic leukemia (also myelomonocytic leukemia and AML wi…"
 monitor_inn: "Arsenic trioxide"
 predicted_indications: ["unclassified myelodysplastic syndrome", "refractory cytopenia of childhood", "severe congenital hypochromic anemia with ringed sideroblasts", "aregenerative anemia", "partial deletion of the long arm of chromosome 5", "myelodysplastic syndrome", "Ewing sarcoma", "dermatofibrosarcoma protuberans", "liposarcoma", "ovarian myxoid liposarcoma"]
@@ -110,11 +110,17 @@ A Phase 3 trial of decitabine plus arsenic trioxide (NCT03377725) was withdrawn 
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Registration No. 2440 | Arsenox 10mg Injection (Intas Pharmaceuticals Ltd) | Vial of 10 ml injection | Not specified in the compiled data |
-| Registration No. 9023 | Arsitri 10mg Injection (Neon Laboratories Ltd) | Vial of 10 ml injection | Not specified in the compiled data |
-| Registration No. 8883 | Arsikem 10mg Injection (Alkem Laboratories Ltd) | Vial of 1 injection | Not specified in the compiled data |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 2440 | Arsenox 10mg Injection | Vial of 10 ml Injection | Valid |
+| 8883 | Arsikem 10mg Injection | Vial of 1 Injection | Valid |
+| 9023 | Arsitri 10mg Injection | Vial of 10 ml Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ---
 

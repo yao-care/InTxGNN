@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 377
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Folic Acid: predicted new indication Biotin metabolic disease (evidence level L5). Approved use: Vitamin deficiency disorder"
 monitor_inn: "Folic acid"
 predicted_indications: ["biotin metabolic disease"]
@@ -95,15 +95,38 @@ No randomized trials or studies directly testing folic acid in biotin metabolic 
 
 ## India Market Information
 
-Folic acid has 20 valid single-ingredient licences in India, none cancelled. The approved indication text is blank in the data compiled for this report. Five main authorizations are listed below.
+Folic acid has 20 valid single-ingredient licences in India, none cancelled. The approved indication text is blank in the data compiled for this report.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 86303 | Folimet 5mg Tablet | Strip of 10 tablets | Not specified |
-| 85641 | Folistat 5mg Tablet | Strip of 10 tablets | Not specified |
-| 84545 | Folicel Tablet | Strip of 30 tablets | Not specified |
-| 84717 | Folistar Soft Gelatin Capsule | Strip of 10 soft gelatin capsules | Not specified |
-| 231606 | Unifol 15 mcg/500 mcg Injection | Vial of 10 ml | Not specified |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 10389 | Amyvit Plus Injection | Vial of 1 Injection | Valid |
+| 13723 | Alfolic 5mg Tablet | Strip of 10 tablets | Valid |
+| 34296 | CB12 Injection | Vial of 2 ml Injection | Valid |
+| 41384 | Coba C Injection | Vial of 1 Injection | Valid |
+| 84545 | Folicel Tablet | Strip of 30 tablets | Valid |
+| 84717 | Folistar Soft Gelatin Capsule | Strip of 10 soft gelatin capsules | Valid |
+| 85345 | Folcin 2 Injection | Ampoule of 1 ml Injection | Valid |
+| 85641 | Folistat 5mg Tablet | Strip of 10 tablets | Valid |
+| 86303 | Folimet 5mg Tablet | Strip of 10 tablets | Valid |
+| 90193 | Folifred Tablet | Strip of 10 tablets | Valid |
+| 137564 | Mecolight C Injection | Vial of 1 Injection | Valid |
+| 151649 | Neurorex AMP Injection | Box of 1 Injection | Valid |
+| 186909 | Rifol 5mg Tablet | Strip of 10 tablets | Valid |
+| 187297 | Rolifol-Dha Softgel Capsule | Strip of 15 soft gelatin capsules | Valid |
+| 222153 | Tradnerv C Injection | Vial of 1 Injection | Valid |
+| 230412 | Ultrafolin Tablet | Strip of 10 tablets | Valid |
+| 231156 | UPF 5mg Tablet | Strip of 10 tablets | Valid |
+| 231606 | Unifol 15 mcg/500 mcg Injection | Vial of 10 ml Injection | Valid |
+| 234510 | Vufol 5mg Tablet | Strip of 10 tablets | Valid |
+| 235066 | Vegecob-C Injection | Vial of 1 Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 Both oral (tablets, soft gelatin capsules) and injectable forms are marketed.
 

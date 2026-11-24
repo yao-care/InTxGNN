@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Diclofenac"
 predicted_indications: ["hypotrichosis simplex of the scalp", "acromesomelic dysplasia, Hunter-Thompson type", "pseudoachondroplasia", "brachyolmia", "brachyolmia-amelogenesis imperfecta syndrome", "congenital hypotrichosis milia", "myosclerosis", "diffuse alopecia areata", "juvenile idiopathic arthritis", "WHIM syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Diclofenac: predicted new indication hypotrichosis simplex of the scalp (evidence level L5). In India: at least 20 listed products"
 ---
 
@@ -69,7 +69,44 @@ Currently no related literature available.
 
 ## India Market Information
 
-Diclofenac is marketed in India. The data compiled for this report show that all recorded licences are valid single-ingredient products, in oral tablet, sustained-release tablet and injectable forms. This list may be partial, and the licence records carry no approved-indication text.
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 11660 | Abidic Tablet | Strip of 10 tablets | Valid |
+| 56185 | Curifen AQ 75mg Injection | Vial of 1 ml Injection | Valid |
+| 60815 | Datio Plus 50mg/325mg/10mg Tablet | Strip of 10 tablets | Valid |
+| 62118 | D-Sera 50mg/10mg Tablet | Strip of 10 tablets | Valid |
+| 63095 | Depinac P 50mg/325mg Tablet | Strip of 10 tablets | Valid |
+| 63471 | Dipanac-MR Tablet | Strip of 10 tablets | Valid |
+| 67633 | Dclodoz SP 50mg/325mg/10mg Tablet | Strip of 10 tablets | Valid |
+| 67752 | Difmol P 50mg/325mg Tablet | Strip of 10 tablets | Valid |
+| 69978 | Diclovol 75mg Injection | Vial of 1 ml Injection | Valid |
+| 70116 | Dicloden AQ 75mg Injection | Vial of 1 ml Injection | Valid |
+| 70260 | Diclowik S 50mg/10mg Tablet | Strip of 10 tablets | Valid |
+| 70356 | Dykiz SP 50mg/325mg/15mg Tablet | Strip of 10 tablets | Valid |
+| 70831 | Defnac S 50mg/10mg Tablet | Strip of 10 tablets | Valid |
+| 71886 | Decmed 75mg Injection | Vial of 1 ml Injection | Valid |
+| 72090 | Dicpar S 50mg/10mg Tablet | Strip of 10 tablets | Valid |
+| 105142 | Hidase DP 50mg/325mg/10mg Tablet | Strip of 10 tablets | Valid |
+| 112044 | Ipain 75mg Tablet SR | Strip of 10 tablet sr | Valid |
+| 144615 | Midagesic TN Tablet | Strip of 10 tablets | Valid |
+| 156080 | Nudiclo Plus 100mg/325mg Tablet | Strip of 6 tablets | Valid |
+| 242380 | Wiser DK 50 mg/10 mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
+
+Diclofenac is marketed in India. The data compiled for this report show that all recorded licences are valid products, in oral tablet, sustained-release tablet and injectable forms. This list may be partial, and the licence records carry no approved-indication text.
+
+<!-- review:begin in-lic-20261124-diclofenac-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "The data compiled for this report show that all recorded licences are valid single-ingredient products, in oral tablet, sustained-release tablet and injectable forms." Removed: it described the products as single-ingredient (or as having no combination products), which does not match the Indian medicine data (the Indian Medicine Dataset): some of the recorded products are fixed-dose combinations. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124-diclofenac-1 -->
 
 ## Safety Considerations
 
@@ -94,11 +131,12 @@ The prediction has no supporting trials or literature and no plausible mechanism
 
 ## Review Log
 
-Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-19 | "Detailed mechanism-of-action data for diclofenac is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Diclofenac Sodium Delayed Release (diclofenac sodium) prescribing information, Preferred Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bc99e6af-7050-4653-a681-5b252305a970) |
+| 2026-11-24 | Removed: the single-ingredient claim | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 

@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 568
 evidence_level: L2
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Montelukast"
 predicted_indications: ["bronchitis", "atopic eczema"]
 description: "Montelukast: predicted new indication Bronchitis (evidence level L2). In India: at least 20 listed products"
@@ -95,15 +95,38 @@ The 10 most relevant trials (of 17 identified) are listed below.
 
 ## India Market Information
 
-There are 20 valid single-ingredient registrations. The records contain no approved-indication text. Five main authorisations are listed below.
+There are 20 valid single-ingredient registrations. The records contain no approved-indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Registration No. 215692 | Telekast 4 Chewable Tablet (Lupin Ltd) | Strip of 10 chewable tablets | Not recorded |
-| Registration No. 143469 | Montelast 5mg Tablet (Cadila Pharmaceuticals Ltd) | Strip of 10 tablets | Not recorded |
-| Registration No. 146623 | Monteshil 5mg Orally Disintegrating Strip (Shilpa Medicare Ltd) | Box of 10 disintegrating strips | Not recorded |
-| Registration No. 190091 | Remont 4mg Tablet DT (Richfield India Pharmaceuticals Pvt Ltd) | Strip of 10 dispersible tablets | Not recorded |
-| Registration No. 237498 | Vrikast 10mg Tablet (Vrinda Life) | Strip of 10 tablets | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 6852 | Acegold Total 10mg/5mg/200mg Tablet PR | Strip of 10 Tablet pr | Valid |
+| 7055 | Alikast FX 10mg/120mg Tablet | Strip of 10 tablets | Valid |
+| 9568 | Allefine FX 10mg/120mg Tablet | Strip of 10 tablets | Valid |
+| 38532 | Corfex-M Tablet | Strip of 10 tablets | Valid |
+| 69129 | Dotfix M 4mg/10mg Tablet | Strip of 10 tablets | Valid |
+| 85778 | Ffd-Mont Tablet | Strip of 10 tablets | Valid |
+| 86516 | F Din M 10mg/120mg Tablet | Strip of 10 tablets | Valid |
+| 88608 | Fexair M 10mg/120mg Tablet | Strip of 10 tablets | Valid |
+| 91497 | Fexoreg M 10mg/120mg Tablet | Strip of 10 tablets | Valid |
+| 92228 | Fexomust-M Tablet | Strip of 10 tablets | Valid |
+| 135273 | Montecas FX 10mg/120mg Tablet | Strip of 10 tablets | Valid |
+| 141289 | Montimed-FX Tablet | Strip of 10 tablets | Valid |
+| 142587 | Mexocast 10mg Tablet | Strip of 10 tablets | Valid |
+| 143469 | Montelast 5mg Tablet | Strip of 10 tablets | Valid |
+| 146623 | Monteshil 5mg Orally Disintegrating Strip | Box of 10 disintegrating strips | Valid |
+| 148239 | Mocast Forte 10mg/5mg/200mg Tablet | Strip of 10 tablets | Valid |
+| 190091 | Remont 4mg Tablet DT | Strip of 10 tablet dt | Valid |
+| 206739 | Shmon-FX Oral Suspension Orange | Bottle of 60 ml Oral Suspension | Valid |
+| 215692 | Telekast 4 Chewable Tablet | Strip of 10 Chewable Tablets | Valid |
+| 237498 | Vrikast 10mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 Many other registrations are fixed-dose combinations containing fexofenadine (for example Fexoreg M and Montecas FX) or other combinations. Oral suspension and prolonged-release tablet forms are also registered.
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Gemifloxacin"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague", "congenital hematological disorder", "endomyometritis"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 description: "Gemifloxacin: predicted new indication Polyclonal hyperviscosity syndrome (evidence level L5). Approved use: Bacterial pneumonia"
 ---
 
@@ -74,15 +74,38 @@ Currently no related literature available.
 
 ## India Market Information
 
-Gemifloxacin is marketed in India as a single-ingredient product. Twenty licences are listed, and the list may be partial. No approved indication text is available in the licence records. Five main licences are shown below.
+Gemifloxacin is marketed in India as a single-ingredient product. Twenty licences are listed, and the list may be partial. No approved indication text is available in the licence records.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| 31898 | Biogem 200mg Injection | Vial of 1 injection | United Biotech Pvt Ltd |
-| 32541 | Biogem 1000mg Injection | Vial of 1 injection | United Biotech Pvt Ltd |
-| 102277 | Gametop 320mg Tablet | Strip of 10 tablets | Solitaire Pharmacia Pvt Ltd |
-| 94597 | G-Cin Tablet | Strip of 5 tablets | Lupin Ltd |
-| 29736 | Biogem 320mg Tablet | Strip of 5 tablets | Biochem Pharmaceutical Industries |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 29736 | Biogem 320mg Tablet | Strip of 5 tablets | Valid |
+| 31898 | Biogem 200mg Injection | Vial of 1 Injection | Valid |
+| 32541 | Biogem 1000mg Injection | Vial of 1 Injection | Valid |
+| 90079 | Floxigem 320mg Tablet | Strip of 5 tablets | Valid |
+| 94597 | G-Cin Tablet | Strip of 5 tablets | Valid |
+| 96274 | Gemicef 320 Tablet | Strip of 5 tablets | Valid |
+| 97730 | Graptor 320mg Tablet | Strip of 5 tablets | Valid |
+| 98012 | Gemvis 320 Tablet | Strip of 5 tablets | Valid |
+| 99000 | Gemif 320mg Tablet | Strip of 5 tablets | Valid |
+| 99606 | Gemidac 320mg Tablet | Strip of 5 tablets | Valid |
+| 99851 | Gemicol 320mg Tablet | Strip of 10 tablets | Valid |
+| 100026 | Gex 320mg Tablet | Strip of 10 tablets | Valid |
+| 100769 | Gemimac 320mg Tablet | Strip of 5 tablets | Valid |
+| 101131 | Gemibid 320mg Tablet | Strip of 5 tablets | Valid |
+| 101208 | Geminex 320mg Tablet | Strip of 5 tablets | Valid |
+| 101579 | Gamiflox 320mg Tablet | Strip of 5 tablets | Valid |
+| 101908 | Gemiwel 320mg Tablet | Strip of 10 tablets | Valid |
+| 102277 | Gametop 320mg Tablet | Strip of 10 tablets | Valid |
+| 120086 | Kinocin 320mg Tablet | Strip of 4 tablets | Valid |
+| 183792 | Quinhext 320mg Tablet | Strip of 5 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

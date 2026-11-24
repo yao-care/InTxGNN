@@ -3,7 +3,7 @@ layout: default
 title: Triclofos
 parent: Known Uses Only (No New Predictions)
 nav_order: 863
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 monitor_inn: "Triclofos"
 description: "Triclofos: known uses and market status in India; currently no new candidate indication"
 predicted_indications: []
@@ -48,15 +48,34 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## India Market Information
 
-Triclofos is marketed in India with 18 valid single-ingredient registrations. Indication text is blank on all of them. Five examples:
+Triclofos is marketed in India with 18 valid single-ingredient registrations. Indication text is blank on all of them.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 174194 | Pedicalm Oral Solution | Oral solution, 30 ml bottle | Not stated |
-| 174456 | Pedirest Syrup | Syrup, 30 ml bottle | Not stated |
-| 223755 | Tricloslep Drop | Drop, 15 ml packet | Not stated |
-| 173611 | Pedicloryl Oral Solution | Oral solution, 30 ml bottle | Not stated |
-| 227201 | Trolis 500mg Oral Suspension | Oral suspension, 30 ml bottle | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 85566 | Fosped Oral Solution | Bottle of 30 ml Oral Solution | Valid |
+| 89110 | Foskid 500mg/5ml Syrup | Bottle of 30 ml Syrup | Valid |
+| 151890 | Nucloryl 500mg/5ml Syrup | Bottle of 30 ml Syrup | Valid |
+| 154954 | Napkid 500mg/5ml Syrup | Bottle of 30 ml Syrup | Valid |
+| 173611 | Pedicloryl Oral Solution | Bottle of 30 ml Oral Solution | Valid |
+| 174194 | Pedicalm Oral Solution | Bottle of 30 ml Oral Solution | Valid |
+| 174456 | Pedirest Syrup | Bottle of 30 ml Syrup | Valid |
+| 200214 | Slep 500mg/5ml Syrup | Bottle of 30 ml Syrup | Valid |
+| 200710 | Slep 100mg Drop | Packet of 15 ml Drop | Valid |
+| 201621 | Silence 500mg/5ml Syrup | Bottle of 30 ml Syrup | Valid |
+| 201741 | Sliporil 500mg Syrup | Bottle of 30 ml Syrup | Valid |
+| 208258 | Silentol 500mg Syrup | Bottle of 30 ml Syrup | Valid |
+| 219821 | Triclomor Syrup | Bottle of 30 ml Syrup | Valid |
+| 221211 | Triclofast 500mg/5ml Syrup | Bottle of 30 ml Syrup | Valid |
+| 221917 | Triclocalm Syrup | Bottle of 30 ml Syrup | Valid |
+| 223755 | Tricloslep Drop | Packet of 15 ml Drop | Valid |
+| 225479 | Tricloslep Syrup | Bottle of 30 ml Syrup | Valid |
+| 227201 | Trolis 500mg Oral Suspension | Bottle of 30 ml Oral Suspension | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ---
 

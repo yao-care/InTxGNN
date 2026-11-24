@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 615
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Olanzapine"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia"]
 description: "Olanzapine: predicted new indication Benign paroxysmal torticollis of infancy (evidence level L5). In India: at least 20 listed products"
@@ -75,15 +75,38 @@ Currently no related literature available.
 
 ## India Market Information
 
-Twenty valid single-ingredient registrations are on record (no cancelled licences). The approved indication text is blank in the data compiled for this report. Five representative registrations:
+Twenty valid single-ingredient registrations are on record (no cancelled licences). The approved indication text is blank in the data compiled for this report.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 167725 | Olafast 20mg Tablet (Jagsam Pharma) | Strip of 10 tablets | Not stated |
-| 168855 | Olace 20mg Tablet (La Pharmaceuticals) | Strip of 10 tablets | Not stated |
-| 115118 | Jpine 5mg Tablet (Jpee Drugs) | Strip of 10 tablets | Not stated |
-| 167659 | Oliza Pet 10mg Tablet (Intas Pharmaceuticals Ltd) | Strip of 30 tablets | Not stated |
-| 128536 | Lanopin 10mg Tablet MD (Molekule India Pvt Ltd) | Strip of 10 tablets (MD) | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 90970 | Fonola 15mg Tablet | Strip of 10 tablets | Valid |
+| 97824 | Genericart Olanzapine 5mg Tablet | Strip of 10 tablets | Valid |
+| 115118 | Jpine 5mg Tablet | Strip of 10 tablets | Valid |
+| 118576 | Kolzep 20mg Tablet | Strip of 10 tablets | Valid |
+| 118871 | Kola 20mg Tablet | Strip of 10 tablets | Valid |
+| 128536 | Lanopin 10mg Tablet MD | Strip of 10 tablet md | Valid |
+| 129948 | Lanopin 5mg Tablet | Strip of 10 tablets | Valid |
+| 134781 | Meltolan 10 Tablet | Strip of 10 tablets | Valid |
+| 161840 | Oliza 2.5 Tablet | Strip of 10 tablets | Valid |
+| 162819 | Olzic 2.5mg Tablet | Strip of 10 tablets | Valid |
+| 163977 | Olipar-MD 5 Tablet | Strip of 10 tablet md | Valid |
+| 165570 | Olet 15mg Tablet | Strip of 10 tablets | Valid |
+| 167659 | Oliza Pet 10mg Tablet | Strip of 30 tablets | Valid |
+| 167725 | Olafast 20mg Tablet | Strip of 10 tablets | Valid |
+| 168855 | Olace 20mg Tablet | Strip of 10 tablets | Valid |
+| 171744 | Ozatex 7.5mg Tablet | Strip of 10 tablets | Valid |
+| 204515 | Spanza 5 Tablet | Strip of 10 tablets | Valid |
+| 208361 | Sizlin 10 Tablet MD | Strip of 10 tablet md | Valid |
+| 244857 | Xolan 20mg Tablet | Strip of 10 tablets | Valid |
+| 252593 | Zoplon 5mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 All registered products are oral tablets.
 

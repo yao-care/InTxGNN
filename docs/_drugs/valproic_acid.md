@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 879
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Valproic acid"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia"]
 description: "Valproic Acid: predicted new indication Trigeminal nerve neoplasm (evidence level L5). In India: at least 20 listed products"
@@ -91,15 +91,38 @@ No publication directly studies visual epilepsy; the evidence is indirect.
 
 ## India Market Information
 
-The data compiled for this report list 20 valid single-ingredient registrations. No approved indication text is recorded for any of them. Five examples:
+The data compiled for this report list 20 valid single-ingredient registrations. No approved indication text is recorded for any of them.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 188649 | Raival 500mg Tablet ER | Extended-release tablet | Not recorded |
-| 38619 | Convulex 500mg Tablet ER | Extended-release tablet | Not recorded |
-| 109837 | Ivalp 750mg Tablet XR | Extended-release tablet | Not recorded |
-| 205534 | Soval 500mg Tablet | Tablet | Not recorded |
-| 235102 | Valcot 500mg Tablet CR | Controlled-release tablet | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 5061 | Alporate 500mg Tablet | Strip of 10 tablets | Valid |
+| 5068 | Alporate 200mg Tablet | Strip of 10 tablets | Valid |
+| 6533 | Alporate 300mg Tablet | Strip of 10 tablets | Valid |
+| 38619 | Convulex 500mg Tablet ER | Strip of 10 tablet er | Valid |
+| 62690 | Diovat XR 250mg Tablet | Strip of 10 tablet xr | Valid |
+| 62972 | Disoval 500mg Tablet ER | Strip of 6 tablet er | Valid |
+| 63369 | Divazen 250mg Tablet | Strip of 10 tablets | Valid |
+| 64512 | Disoval 250mg Tablet ER | Strip of 10 tablet er | Valid |
+| 67329 | Doncorate 500mg Tablet ER | Strip of 10 tablet er | Valid |
+| 77445 | Epsoval 300mg Tablet XR | Strip of 10 tablet xr | Valid |
+| 79553 | Epsoval 200mg Tablet | Strip of 10 tablets | Valid |
+| 97259 | Glarikot ER 500 Tablet | Strip of 10 tablet er | Valid |
+| 109837 | Ivalp 750mg Tablet XR | Strip of 10 tablet xr | Valid |
+| 111244 | Ivalp 125mg Tablet | Strip of 10 tablets | Valid |
+| 188649 | Raival 500mg Tablet ER | Strip of 10 tablet er | Valid |
+| 202659 | Soval 200mg Tablet | Strip of 10 tablets | Valid |
+| 205534 | Soval 500mg Tablet | Strip of 10 tablets | Valid |
+| 235102 | Valcot 500mg Tablet CR | Strip of 10 tablet cr | Valid |
+| 235274 | Valcot 300mg Tablet CR | Strip of 10 tablet cr | Valid |
+| 242527 | Welcorate 250mg Tablet ER | Strip of 10 tablet er | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 All available forms are oral tablets (standard, ER, XR and CR).
 

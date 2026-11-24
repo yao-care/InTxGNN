@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 379
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Fosaprepitant: predicted new indication Nephrogenic syndrome of inappropriate antidiuresis (evidence level L5). Approved use: Not stated in the data compiled for this report"
 monitor_inn: "Fosaprepitant"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "pneumocystosis", "leprosy", "Cryptococcal meningitis", "multiple endocrine neoplasia", "intracranial abscess", "retinitis", "Plasmodium falciparum malaria", "echinococcus granulosus infectious disease", "hyperargininemia"]
@@ -68,15 +68,31 @@ Currently no related literature available for the top-ranked prediction (NSIAD).
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| 88628 | Fosapp Injection | Vial of 1 injection | Celon Laboratories Ltd |
-| 73877 | Emend 150mg Injection | Vial of 1 injection | MSD Pharmaceuticals Pvt Ltd |
-| 79825 | ES Pitant 150mg Injection | Vial of 1 injection | Esperer Bioresearch Pvt Ltd |
-| 86155 | Fosa 150mg Injection | Vial of 1 injection | Mylan Pharmaceuticals Pvt Ltd |
-| 6281 | Amitant-IV Injection | Vial of 1 injection | Aureate Healthcare Pvt Ltd |
+<!-- licenses:begin -->
 
-Fifteen valid single-ingredient licences are registered in total; the five above are shown. All are injectable products. Approved indication text is not available for any licence.
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 6281 | Amitant-IV Injection | Vial of 1 Injection | Valid |
+| 8168 | Aprifast IV Injection | Vial of 1 Injection | Valid |
+| 12804 | Apregen 150mg Injection | Vial of 1 Injection | Valid |
+| 17640 | Artepitant 150mg Injection | Vial of 1 Injection | Valid |
+| 73877 | Emend 150mg Injection | Vial of 1 Injection | Valid |
+| 75173 | Emetant-IV Injection | Vial of 1 Injection | Valid |
+| 79825 | ES Pitant 150mg Injection | Vial of 1 Injection | Valid |
+| 84981 | Fosup Injection | Vial of 1 Injection | Valid |
+| 86155 | Fosa 150mg Injection | Vial of 1 Injection | Valid |
+| 86223 | Fosaran 150mg Injection | Vial of 1 ml Injection | Valid |
+| 86484 | Fosaport 150mg Injection | Vial of 1 Injection | Valid |
+| 86585 | FOSapretero Injection | Vial of 1 Injection | Valid |
+| 87292 | Fospritant 150mg Injection | Vial of 1 Injection | Valid |
+| 88628 | Fosapp Injection | Vial of 1 Injection | Valid |
+| 89524 | Fosalon 150mg Injection | Vial of 1 ml Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
+
+Fifteen valid single-ingredient licences are registered in total. All are injectable products. Approved indication text is not available for any licence.
 
 ## Safety Considerations
 

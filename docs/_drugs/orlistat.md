@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 622
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Orlistat: predicted new indication Hypervitaminosis (evidence level L5). Approved use: Obesity disorder, monogenic obesity"
 monitor_inn: "Orlistat"
 predicted_indications: ["hypervitaminosis"]
@@ -85,15 +85,38 @@ Currently no related literature available.
 
 ## India Market Information
 
-Twenty valid single-ingredient registrations exist in India. Five are listed below. All are oral forms, and no approved-indication text is recorded for them.
+Twenty valid single-ingredient registrations exist in India. All are oral forms, and no approved-indication text is recorded for them.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| 87617 | Finostat 60mg Capsule | Strip of 10 capsules | Cubit Healthcare |
-| 108993 | Ishape 60mg Capsule | Strip of 10 capsules | Primus Pharmaceuticals |
-| 108568 | Ishape 120mg Capsule | Strip of 10 capsules | Primus Pharmaceuticals |
-| 232244 | Ultislim 120mg Tablet | Strip of 10 tablets | Akumentis Healthcare Ltd |
-| 167365 | Orli-Misia 120mg Tablet | Strip of 10 tablets | Concord Drugs Ltd |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 61936 | DavaIndia Orlistat 120mg Capsule | Strip of 10 capsules | Valid |
+| 87617 | Finostat 60mg Capsule | Strip of 10 capsules | Valid |
+| 108568 | Ishape 120mg Capsule | Strip of 10 capsules | Valid |
+| 108993 | Ishape 60mg Capsule | Strip of 10 capsules | Valid |
+| 122100 | Lipophage 60 Capsule | Strip of 10 capsules | Valid |
+| 162165 | Obelit Capsule | Strip of 10 capsules | Valid |
+| 162202 | Orlica Capsule | Strip of 10 capsules | Valid |
+| 162436 | Orlean 60 Capsule | Strip of 10 capsules | Valid |
+| 163046 | Orlimax Capsule | Strip of 10 capsules | Valid |
+| 163108 | Obeset 60 Capsule | Strip of 10 capsules | Valid |
+| 163118 | Orlica 60 Capsule | Strip of 10 capsules | Valid |
+| 163604 | Obiara 120 Capsule | Strip of 10 capsules | Valid |
+| 164801 | Orlimax Capsule | Strip of 10 capsules | Valid |
+| 164802 | Obizar 120mg Tablet | Strip of 10 tablets | Valid |
+| 167365 | Orli-Misia 120mg Tablet | Strip of 10 tablets | Valid |
+| 196277 | Redufat 27mg Tablet | Strip of 10 tablets | Valid |
+| 207901 | Sibbidex OR 120mg Capsule | Strip of 10 capsules | Valid |
+| 209095 | Slimris 120mg Tablet | Strip of 10 tablets | Valid |
+| 232244 | Ultislim 120mg Tablet | Strip of 10 tablets | Valid |
+| 241601 | Wolslim 120mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ---
 

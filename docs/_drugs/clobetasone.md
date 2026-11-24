@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 198
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Clobetasone: predicted new indication Primary cutaneous T-cell lymphoma (evidence level L5). Approved use: Not specified in the available licence data"
 monitor_inn: "Clobetasone"
 predicted_indications: ["primary cutaneous T-cell lymphoma", "Sezary syndrome", "primary cutaneous B-cell lymphoma", "granulomatous slack skin disease", "Crohn's colitis", "adrenocortical insufficiency", "primary cutaneous T-cell non-Hodgkin lymphoma", "nephrotic syndrome", "cystic teratoma", "spinal cord dermoid cyst"]
@@ -72,15 +72,38 @@ Currently no related literature available.
 
 ## India Market Information
 
-Clobetasone is marketed in India as single-ingredient licences (20 valid, none cancelled), all in topical forms. The approved indication text is not recorded for any of the licences. The first five are listed below.
+Clobetasone is marketed in India as single-ingredient licences (20 valid, none cancelled), all in topical forms. The approved indication text is not recorded for any of the licences.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 136517 | Miclogenta Cream | Tube of 5 gm cream | Not specified |
-| 150645 | Nadoxin-C Cream | Tube of 10 gm cream | Not specified |
-| 27677 | Butesone Cream | Tube of 15 gm cream | Not specified |
-| 44302 | Clodis GM Cream | Tube of 15 gm cream | Not specified |
-| 36746 | Clomed M Cream | Tube of 10 gm cream | Not specified |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 27011 | Butesone-M Cream | Tube of 15 gm Cream | Valid |
+| 27677 | Butesone Cream | Tube of 15 gm Cream | Valid |
+| 36370 | Clobetagen M Cream | Tube of 15 gm Cream | Valid |
+| 36746 | Clomed M Cream | Tube of 10 gm Cream | Valid |
+| 37807 | Clogem Cream | Tube of 15 gm Cream | Valid |
+| 43041 | Cloby Ointment | Tube of 15 gm Ointment | Valid |
+| 44170 | Clotech GMZ Cream | Tube of 15 gm Cream | Valid |
+| 44302 | Clodis GM Cream | Tube of 15 gm Cream | Valid |
+| 46633 | Clonus-GMZ Cream | Tube of 15 gm Cream | Valid |
+| 47021 | Closar GM Cream | Tube of 10 gm Cream | Valid |
+| 72327 | Eumosone-M Cream | Tube of 15 gm Cream | Valid |
+| 104078 | Hinate G Cream | Tube of 30 gm Cream | Valid |
+| 121742 | Lozee M Cream | Tube of 15 gm Cream | Valid |
+| 122550 | Lozee Cream | Tube of 15 gm Cream | Valid |
+| 136517 | Miclogenta Cream | Tube of 5 gm Cream | Valid |
+| 142134 | Miclogenta Cream | Tube of 10 gm Cream | Valid |
+| 150645 | Nadoxin-C Cream | Tube of 10 gm Cream | Valid |
+| 167822 | Obet G Cream | Tube of 10 gm Cream | Valid |
+| 174749 | Paedisone 0.05% Cream | Tube of 15 gm Cream | Valid |
+| 217984 | Topisone G Cream | Tube of 15 gm Cream | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

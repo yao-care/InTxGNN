@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Clidinium"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "gastroduodenitis", "myasthenia gravis with thymus hyperplasia", "myasthenia, limb-girdle, autoimmune", "neonatal myasthenia gravis", "autoimmune disease of peripheral nervous system", "disease of receptor activity", "large intestine disease"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 description: "Clidinium: predicted new indication cauda equina syndrome (evidence level L5). In India: at least 20 listed products"
 ---
 
@@ -82,15 +82,38 @@ Currently no related literature available.
 
 ## India Market Information
 
-The data compiled for this report show 20 valid licences, and this list may be partial. The licence records carry no approved-indication text. All listed products are oral tablets. The first five are shown below.
+The data compiled for this report show 20 valid licences, and this list may be partial. The licence records carry no approved-indication text. All listed products are oral tablets.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 208220 | StayHappi Clidinium+Chlordiazepoxide+Dicyclomine 2.5mg/5mg/10mg Tablet | Strip of 10 tablets | Not recorded |
-| 11104 | Avidip 2.5mg/5mg/10mg Tablet | Strip of 10 tablets | Not recorded |
-| 38061 | Coldax 2.5mg/5mg/10mg Tablet | Strip of 10 tablets | Not recorded |
-| 39483 | Calm Spas Tablet | Strip of 10 tablets | Not recorded |
-| 247490 | Zibra 2.5 mg/5 mg/10 mg Tablet | Strip of 10 tablets | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 11104 | Avidip 2.5mg/5mg/10mg Tablet | Strip of 10 tablets | Valid |
+| 35759 | Cibiriv Tablet | Strip of 10 tablets | Valid |
+| 38061 | Coldax 2.5mg/5mg/10mg Tablet | Strip of 10 tablets | Valid |
+| 39483 | Calm Spas Tablet | Strip of 10 tablets | Valid |
+| 43601 | Chlosan Forte 2.5mg/5mg/10mg Tablet | Strip of 10 tablets | Valid |
+| 46448 | Clibtab D 2.5mg/5mg/10mg Tablet | Strip of 10 tablets | Valid |
+| 46752 | Clipoxt 2.5mg/5mg/10mg Tablet | Strip of 10 tablets | Valid |
+| 86687 | Famish Tablet | Strip of 10 tablets | Valid |
+| 94491 | Gutrex D 2.5mg/5mg/10mg Tablet | Strip of 10 tablets | Valid |
+| 102134 | Gesispas AC 2.5mg/5mg/10mg Tablet | Strip of 10 tablets | Valid |
+| 124838 | Lipox Plus Tablet | Strip of 10 tablets | Valid |
+| 152510 | Noribs Tablet | Strip of 10 tablets | Valid |
+| 159452 | Nedee 2.5mg/5mg/10mg Tablet | Strip of 10 tablets | Valid |
+| 167483 | Orlidox-D Tablet | Strip of 10 tablets | Valid |
+| 179708 | Pylonorm Tablet | Strip of 10 tablets | Valid |
+| 201867 | Spasburg-D Tablet | Strip of 10 tablets | Valid |
+| 202677 | Surex D Tablet | Strip of 30 tablets | Valid |
+| 208220 | StayHappi Clidinium+Chlordiazepoxide+Dicyclomine 2.5mg/5mg/10mg Tablet | Strip of 10 tablets | Valid |
+| 241051 | Vepoxid CD 2.5mg/5mg/10mg Tablet | Strip of 10 tablets | Valid |
+| 247490 | Zibra 2.5 mg/5 mg/10 mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ---
 

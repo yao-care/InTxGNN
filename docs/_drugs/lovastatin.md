@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Lovastatin"
 predicted_indications: ["cholesterol-ester transfer protein deficiency"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Lovastatin: predicted new indication Cholesterol-ester transfer protein deficiency (evidence level L5). Approved use: Hyperlipidemia and related lipid disorders"
 ---
 
@@ -73,15 +73,38 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-At least 20 single-ingredient lovastatin licences are recorded, and the list may be partial. No approved indication text is available in these records. Five main entries:
+At least 20 single-ingredient lovastatin licences are recorded, and the list may be partial. No approved indication text is available in these records.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Registration No. 123364 | Lovex 10mg Tablet (Lupin Ltd) | Strip of 10 tablets | Not stated in the records |
-| Registration No. 126892 | Lovacard 20mg Tablet (Cipla Ltd) | Strip of 10 tablets | Not stated in the records |
-| Registration No. 14707 | Aztatin 20mg Tablet (Sun Pharmaceutical Industries Ltd) | Strip of 10 tablets | Not stated in the records |
-| Registration No. 128055 | Lotin 20mg Tablet (Intas Pharmaceuticals Ltd) | Strip of 10 tablets | Not stated in the records |
-| Registration No. 186548 | Rovacor 20mg Tablet (Ranbaxy Laboratories Ltd) | Strip of 10 tablets | Not stated in the records |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 5962 | Aztatin 10mg Tablet | Strip of 10 tablets | Valid |
+| 14707 | Aztatin 20mg Tablet | Strip of 10 tablets | Valid |
+| 83011 | Elstin 10mg Tablet | Strip of 10 tablets | Valid |
+| 121807 | Lipistat 10mg Tablet | Strip of 10 tablets | Valid |
+| 123364 | Lovex 10mg Tablet | Strip of 10 tablets | Valid |
+| 124976 | Lochol 20mg Tablet | Strip of 10 tablets | Valid |
+| 125084 | Lipistat 20mg Tablet | Strip of 10 tablets | Valid |
+| 125462 | Lotin 10mg Tablet | Strip of 10 tablets | Valid |
+| 126578 | Lova 10mg Tablet | Strip of 10 tablets | Valid |
+| 126892 | Lovacard 20mg Tablet | Strip of 10 tablets | Valid |
+| 127498 | Lovex 20mg Tablet | Strip of 10 tablets | Valid |
+| 128055 | Lotin 20mg Tablet | Strip of 10 tablets | Valid |
+| 128354 | Lovastrol 20mg Tablet | Strip of 10 tablets | Valid |
+| 128400 | Lestric 10mg Tablet | Strip of 10 tablets | Valid |
+| 130294 | Lovadac 10mg Tablet | Strip of 10 tablets | Valid |
+| 130886 | Lova 20mg Tablet | Strip of 10 tablets | Valid |
+| 186548 | Rovacor 20mg Tablet | Strip of 10 tablets | Valid |
+| 189889 | Rovacor 10mg Tablet | Strip of 10 tablets | Valid |
+| 199865 | Statin 10mg Tablet | Strip of 10 tablets | Valid |
+| 200936 | Statin 20mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

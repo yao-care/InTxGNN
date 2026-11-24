@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 323
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Esomeprazole"
 predicted_indications: ["duodenal obstruction"]
 description: "Esomeprazole: predicted new indication Duodenal obstruction (evidence level L5). In India: at least 20 listed products"
@@ -73,15 +73,44 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| 80975 | Esomo 40mg Injection | Vial of 1 injection | Ambreyo Lifesciences |
-| 78836 | Esmoden 40 Tablet | Strip of 10 tablets | Welgenic Pharma |
-| 79460 | Esoloc 40mg Tablet | Strip of 10 tablets | Meritus Life Care Pvt Ltd |
-| 83656 | Esvelo 40mg Tablet | Strip of 10 tablets | Shreeyam Healthcare |
-| 74291 | Esmoleaf 40 Tablet | Strip of 10 tablets | Fujin Kami Pharmaceutico |
+<!-- licenses:begin -->
 
-All 20 registrations are valid single-ingredient products, available as oral tablets and injectable vials. Only the first 5 are listed here, and approved-indication text was not available for them.
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 73350 | Esiloc 20 Tablet | Strip of 10 tablets | Valid |
+| 73979 | Esokem 20mg Tablet | Strip of 15 tablets | Valid |
+| 74291 | Esmoleaf 40 Tablet | Strip of 10 tablets | Valid |
+| 75579 | Esmodity 40mg Tablet | Strip of 10 tablets | Valid |
+| 75833 | Esopen 20mg Tablet | Strip of 10 tablets | Valid |
+| 75838 | Esolib 40mg Tablet | Strip of 15 tablets | Valid |
+| 76756 | Eztop 40mg Tablet | Strip of 10 tablets | Valid |
+| 78836 | Esmoden 40 Tablet | Strip of 10 tablets | Valid |
+| 79460 | Esoloc 40mg Tablet | Strip of 10 tablets | Valid |
+| 80061 | Eslis IT 40mg/150mg Tablet | Strip of 10 tablets | Valid |
+| 80357 | Eszomed 40 Injection | Vial of 1 Injection | Valid |
+| 80975 | Esomo 40mg Injection | Vial of 1 Injection | Valid |
+| 82856 | Esoriv 20mg Tablet | Strip of 10 tablets | Valid |
+| 83177 | Esodoc 40mg Tablet | Strip of 10 tablets | Valid |
+| 83633 | Esuzole 40 Injection | Vial of 1 Injection | Valid |
+| 83656 | Esvelo 40mg Tablet | Strip of 10 tablets | Valid |
+| 141782 | Mezon 40mg Injection | Vial of 1 Injection | Valid |
+| 163852 | Opec 20mg Tablet | Strip of 10 tablets | Valid |
+| 188640 | Raciper 40mg Tablet | Strip of 10 tablets | Valid |
+| 252052 | Zpl Injection | Vial of 1 Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
+
+All 20 registrations are valid products, available as oral tablets and injectable vials. Only the first 5 are listed here, and approved-indication text was not available for them.
+
+<!-- review:begin in-lic-20261124-esomeprazole-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "All 20 registrations are valid single-ingredient products, available as oral tablets and injectable vials." Removed: it described the products as single-ingredient (or as having no combination products), which does not match the Indian medicine data (the Indian Medicine Dataset): some of the recorded products are fixed-dose combinations. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124-esomeprazole-1 -->
 
 ## Safety Considerations
 
@@ -112,11 +141,12 @@ Note that the same dataset shows far stronger support for a different predicted 
 
 ## Review Log
 
-Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-20 | "Detailed mechanism data were not included in the data compiled for this report, so this description reflects the well-established class pharmacology of proton pump inhibitors" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt (revised 2026-11-20; earlier version kept in the record) | [DailyMed: Nexium (esomeprazole magnesium) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f4853677-1622-4037-688b-fdf533a11d96) |
+| 2026-11-24 | Removed: the single-ingredient claim | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 

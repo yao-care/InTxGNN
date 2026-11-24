@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 423
 evidence_level: L2
 indication_count: 1
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-24
 monitor_inn: "Ilaprazole"
 predicted_indications: ["gastroduodenitis"]
 description: "Ilaprazole: predicted new indication Gastroduodenitis (evidence level L2). In India: at least 20 listed products"
@@ -82,15 +82,38 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-At least 20 single-ingredient licences are currently valid, and none are cancelled. The list below shows five of them and may be partial.
+At least 20 single-ingredient licences are currently valid, and none are cancelled.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| 108413 | Iladif 10mg Tablet | Strip of 10 tablets | Overseas Healthcare Pvt Ltd |
-| 15005 | Ambila 10mg Tablet | Strip of 10 tablets | Ambience Pharma |
-| 107991 | Iladac 10 Tablet | Strip of 10 tablets | Zydus Cadila |
-| 108021 | Ilapro 10 Tablet | Strip of 10 tablets | Ajanta Pharma Ltd |
-| 110365 | Ilabest 10mg Tablet | Strip of 10 tablets | Lupin Ltd |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 1884 | Adiza Tablet | Strip of 10 tablets | Valid |
+| 15005 | Ambila 10mg Tablet | Strip of 10 tablets | Valid |
+| 107991 | Iladac 10 Tablet | Strip of 10 tablets | Valid |
+| 108021 | Ilapro 10 Tablet | Strip of 10 tablets | Valid |
+| 108413 | Iladif 10mg Tablet | Strip of 10 tablets | Valid |
+| 108906 | Ila 5 10mg Tablet | Strip of 10 tablets | Valid |
+| 109373 | Ilaraz 20 Tablet | Strip of 10 tablets | Valid |
+| 109749 | Ilaset 10mg Tablet | Strip of 10 tablets | Valid |
+| 110365 | Ilabest 10mg Tablet | Strip of 10 tablets | Valid |
+| 110453 | Ilantra 10mg Tablet | Strip of 10 tablets | Valid |
+| 110717 | Ilatap 10mg Tablet | Strip of 10 tablets | Valid |
+| 111028 | Ilazine 10mg Tablet | Strip of 10 tablets | Valid |
+| 111161 | Ilahil 10mg Tablet | Strip of 10 tablets | Valid |
+| 111653 | Ilamax 10 Tablet | Strip of 10 tablets | Valid |
+| 111695 | Ilatuf 10 Tablet | Strip of 10 tablets | Valid |
+| 112102 | Ilabus 10mg Tablet | Strip of 10 tablets | Valid |
+| 112167 | Ilanew 10mg Tablet | Strip of 10 tablets | Valid |
+| 112995 | Ilafos 10mg Tablet | Strip of 10 tablets | Valid |
+| 113202 | Ilabest 5mg Tablet | Strip of 10 tablets | Valid |
+| 113269 | Illameg 10mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 All listed products are oral tablets.
 

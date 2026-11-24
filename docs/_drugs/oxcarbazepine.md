@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 628
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Oxcarbazepine"
 predicted_indications: ["restless legs syndrome"]
 description: "Oxcarbazepine: predicted new indication Restless legs syndrome (evidence level L4). In India: at least 20 listed products"
@@ -95,15 +95,38 @@ No literature directly studies oxcarbazepine in visual epilepsy. The items below
 
 ## India Market Information
 
-Oxcarbazepine is marketed in India as single-ingredient tablets, with 20 valid registrations and none cancelled. Approved indication text is not available for these registrations. Five main registrations are shown below.
+Oxcarbazepine is marketed in India as single-ingredient tablets, with 20 valid registrations and none cancelled. Approved indication text is not available for these registrations.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| 168011 | Oxnig 600mg Tablet SR | Strip of 10 sustained-release tablets | Snig Pharmaceuticals Pvt Ltd |
-| 233930 | Vinlep 450 Tablet | Strip of 10 tablets | Sanofi India Ltd |
-| 27743 | Boxital 300mg Tablet | Strip of 10 tablets | Sanity Pharma |
-| 50654 | Carbamac 600mg Tablet | Strip of 10 tablets | Macleods Pharmaceuticals Pvt Ltd |
-| 163996 | Oxepin 600mg Tablet | Strip of 10 tablets | Icon Life Sciences |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 27743 | Boxital 300mg Tablet | Strip of 10 tablets | Valid |
+| 50654 | Carbamac 600mg Tablet | Strip of 10 tablets | Valid |
+| 62681 | DavaIndia Oxcarbazepine 300mg Tablet | Strip of 10 tablets | Valid |
+| 82903 | Exep 150mg Tablet | Strip of 10 tablets | Valid |
+| 97252 | Genericart Oxcarbazepine 450mg Tablet | Strip of 10 tablets | Valid |
+| 102637 | Graox 150mg Tablet | Strip of 10 tablets | Valid |
+| 163185 | Oxylep 300mg Tablet | Strip of 10 tablets | Valid |
+| 163638 | Oxbizep 300mg Tablet | Strip of 10 tablets | Valid |
+| 163996 | Oxepin 600mg Tablet | Strip of 10 tablets | Valid |
+| 165583 | Oxcarpine 300mg Tablet | Strip of 10 tablets | Valid |
+| 166034 | Oxcure 300 Tablet | Strip of 10 tablets | Valid |
+| 166472 | Oxycbaz 300 Tablet | Strip of 10 tablets | Valid |
+| 166921 | Oxcarbarex 150mg Tablet | Strip of 10 tablets | Valid |
+| 167566 | Oxyrise OD 600mg Tablet | Strip of 10 tablets | Valid |
+| 167591 | Oxilep OD 150mg Tablet | Strip of 10 tablets | Valid |
+| 168011 | Oxnig 600mg Tablet SR | Strip of 10 tablet sr | Valid |
+| 168171 | Oxyrise OD 300mg Tablet | Strip of 10 tablets | Valid |
+| 204963 | SUOX 300MG TABLET | Strip of 20 tablets | Valid |
+| 233930 | Vinlep 450 Tablet | Strip of 10 tablets | Valid |
+| 244139 | Xbaren 600mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Aztreonam"
 predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "Ureaplasma urethritis", "gonococcal urethritis", "blood group incompatibility", "premalignant hematological system disease", "epiglottitis", "monoclonal gammopathy", "xanthogranulomatous pyelonephritis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Aztreonam: predicted new indication hyperamylasemia (evidence level L5). In India: at least 20 listed products"
 ---
 
@@ -83,13 +83,36 @@ Currently no related literature available.
 
 Twenty single-ingredient aztreonam injection licences are currently valid. The list is based on partial records and may not be complete. Approved indication text is not recorded for these licences.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 12233 | Azinox 500mg Injection | vial of 1 Injection | Not recorded |
-| 7051 | Azotum 2gm Injection | vial of 1 Injection | Not recorded |
-| 1376 | Azom 1gm Injection | vial of 1 Injection | Not recorded |
-| 36994 | Cromobact Injection | vial of 1 Injection | Not recorded |
-| 7396 | Aztrone 2gm Injection | vial of 1 Injection | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 1376 | Azom 1gm Injection | Vial of 1 Injection | Valid |
+| 2019 | Azenam 500mg Injection | Vial of 10 ml Injection | Valid |
+| 2575 | Aztreo 1gm Injection | Vial of 1 Injection | Valid |
+| 7051 | Azotum 2gm Injection | Vial of 1 Injection | Valid |
+| 7396 | Aztrone 2gm Injection | Vial of 1 Injection | Valid |
+| 8995 | Aztreospey 1G Injection | Vial of 1 Injection | Valid |
+| 12233 | Azinox 500mg Injection | Vial of 1 Injection | Valid |
+| 12284 | Azactum 1gm Injection | Vial of 1 Injection | Valid |
+| 12783 | Azactum 2gm Injection | Vial of 1 Injection | Valid |
+| 22051 | Azxure 500mg Injection | Vial of 1 Injection | Valid |
+| 36994 | Cromobact Injection | Vial of 1 Injection | Valid |
+| 72165 | Deonam 1000mg Injection | Vial of 1 Injection | Valid |
+| 130685 | Limonam 1gm Injection | Vial of 1 Injection | Valid |
+| 145988 | Manvit 2gm Injection | Vial of 1 Injection | Valid |
+| 146675 | Manvit 1gm Injection | Vial of 1 Injection | Valid |
+| 158742 | Nexnam 1000mg Injection | Vial of 1 Injection | Valid |
+| 195306 | Reobet 1000mg Injection | Vial of 1 Injection | Valid |
+| 212343 | Sconam 500mg Injection | Vial of 1 Injection | Valid |
+| 229538 | Trunamz 1000mg Injection | Vial of 1 Injection | Valid |
+| 249447 | Zonam 500mg Injection | Vial of 1 Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ---
 

@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 360
 evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Fludarabine: predicted new indication Plasma cell myeloma (evidence level L2). Approved use: Not available in the data compiled for this report"
 monitor_inn: "Fludarabine"
 predicted_indications: ["plasma cell myeloma", "hyperthyroidism", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "indolent plasma cell myeloma", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "brain small vessel disease 1 with or without ocular anomalies", "myelodysplastic syndrome", "unclassified myelodysplastic syndrome", "partial deletion of the long arm of chromosome 5", "diabetic nephropathy"]
@@ -105,13 +105,23 @@ The data include 30 registered trials. The table lists the 10 most relevant ones
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 89209 | Fludara 10mg Tablet | Strip of 20 tablets | Not available |
-| 86414 | Fludara 50mg Injection | Vial of 1 injection | Not available |
-| 158531 | Naprobin 50mg Injection | Vial of 1 injection | Not available |
-| 89766 | Fludabine 10mg Tablet | Strip of 5 tablets | Not available |
-| 90441 | Fludaphos 50mg Injection | Vial of 1 injection | Not available |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 86213 | Fludacel 50mg Injection | Vial of 1 Injection | Valid |
+| 86414 | Fludara 50mg Injection | Vial of 1 Injection | Valid |
+| 86956 | Fludocyte 50mg Injection | Vial of 2 ml Injection | Valid |
+| 89209 | Fludara 10mg Tablet | Strip of 20 tablets | Valid |
+| 89766 | Fludabine 10mg Tablet | Strip of 5 tablets | Valid |
+| 90441 | Fludaphos 50mg Injection | Vial of 1 Injection | Valid |
+| 90514 | Fludarither 50 Injection | Vial of 1 Injection | Valid |
+| 132235 | Lymfuda 10mg Tablet | Strip of 5 tablets | Valid |
+| 158531 | Naprobin 50mg Injection | Vial of 1 Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 Nine valid single-ingredient registrations exist in total. Four more are not listed here: Fludacel, Fludarither, Fludocyte and Lymfuda.
 

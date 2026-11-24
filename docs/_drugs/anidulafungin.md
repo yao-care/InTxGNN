@@ -5,7 +5,7 @@ layout: default
 title: Anidulafungin
 parent: Known Uses Only (No New Predictions)
 nav_order: 61
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 description: "Anidulafungin: known uses and market status in India; currently no new candidate indication"
 monitor_inn: "Anidulafungin"
 predicted_indications: []
@@ -48,15 +48,28 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 3077 | Anidulan Injection (Mylan Pharmaceuticals) | Vial of 1 Injection | Indication text not listed |
-| 39084 | Canidula Injection (Gufic Bioscience) | Vial of 1 Injection | Indication text not listed |
-| 62776 | Dulaedge 100mg Injection (Abbott) | Vial of 1 Injection | Indication text not listed |
-| 72925 | Eraxis 100mg Injection (Pfizer) | Vial of 1 Injection | Indication text not listed |
-| 75267 | Endfung 100mg Injection (Glenmark) | Vial of 1 Injection | Indication text not listed |
+<!-- licenses:begin -->
 
-Twelve single-ingredient injectable registrations are valid, and none are cancelled. Only the five main ones are shown here.
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 2470 | Andulfa 100mg Injection | Vial of 1 Injection | Valid |
+| 3077 | Anidulan Injection | Vial of 1 Injection | Valid |
+| 12034 | Andulanaac 50 Injection | Vial of 1 Injection | Valid |
+| 15129 | Andulgin 100mg Injection | Vial of 1 Injection | Valid |
+| 17583 | Andulanaac 100 Injection | Vial of 1 Injection | Valid |
+| 39084 | Canidula Injection | Vial of 1 Injection | Valid |
+| 62776 | Dulaedge 100mg Injection | Vial of 1 Injection | Valid |
+| 62963 | Dulafix 100mg Injection | Vial of 1 Injection | Valid |
+| 64757 | Dulazar 100mg Injection | Vial of 1 Injection | Valid |
+| 64938 | Dulavin Injection | Vial of 1 Powder for Injection | Valid |
+| 72925 | Eraxis 100mg Injection | Vial of 1 Injection | Valid |
+| 75267 | Endfung 100mg Injection | Vial of 1 Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
+
+Twelve single-ingredient injectable registrations are valid, and none are cancelled.
 
 ## Safety Considerations
 

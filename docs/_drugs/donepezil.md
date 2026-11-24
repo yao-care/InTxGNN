@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Donepezil"
 predicted_indications: ["psychogenic movement disorders", "chronic tic disorder", "primary orthostatic tremor", "benign shuddering attacks", "extrapyramidal and movement disease", "tremor-nystagmus-duodenal ulcer syndrome", "benign paroxysmal tonic upgaze of childhood with ataxia", "lingual-facial-buccal dyskinesia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Donepezil: predicted new indication psychogenic movement disorders (evidence level L5). In India: at least 20 listed products"
 ---
 
@@ -82,13 +82,36 @@ Currently no related literature available.
 
 Donepezil has 20 valid single-ingredient licences in the data compiled for this report, and none are cancelled. The records may be partial. None of the licence records carry approved-indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 66691 | Donix 5mg Tablet | Strip of 10 tablets | Not recorded |
-| 9809 | Alzidoc 5mg Tablet | Strip of 10 tablets | Not recorded |
-| 63228 | Dorent 5mg Tablet | Strip of 10 tablets | Not recorded |
-| 61548 | Donetaz ODS 5 Orally Disintegrating Strip | Strip of 1 disintegrating strip | Not recorded |
-| 59883 | Donep-SR 23 Tablet | Strip of 10 tablets (SR) | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 1162 | Alzil M Forte Tablet | Strip of 10 tablets | Valid |
+| 9809 | Alzidoc 5mg Tablet | Strip of 10 tablets | Valid |
+| 59883 | Donep -SR 23 Tablet | Strip of 10 tablet sr | Valid |
+| 60096 | Donibiz 5 Tablet | Strip of 10 tablets | Valid |
+| 61015 | Donasure Plus 5mg/5mg Tablet | Strip of 10 tablets | Valid |
+| 61236 | Depzil 5mg Tablet | Strip of 10 tablets | Valid |
+| 61548 | Donetaz ODS 5 Orally Disintegrating Strip | Strip of 1 Disintegrating Strip | Valid |
+| 62171 | Dnp 10mg Tablet | Strip of 10 tablets | Valid |
+| 62852 | Denjil-Plus Tablet | Strip of 10 tablets | Valid |
+| 63228 | Dorent 5mg Tablet | Strip of 10 tablets | Valid |
+| 63612 | Donemax 5mg Tablet | Strip of 10 tablets | Valid |
+| 65652 | Dozare M 5mg/10mg Tablet | Strip of 10 tablets | Valid |
+| 65707 | Dopay 5 Tablet | Strip of 10 tablets | Valid |
+| 66483 | Dozare 5mg Tablet | Strip of 10 tablets | Valid |
+| 66691 | Donix 5mg Tablet | Strip of 10 tablets | Valid |
+| 68765 | Demezil M 5mg/10mg Tablet | Strip of 10 tablets | Valid |
+| 123641 | Lapezil 10 Tablet | Strip of 10 tablets | Valid |
+| 139103 | Memancad D Tablet | Strip of 10 tablets | Valid |
+| 193708 | Ronil 5mg Tablet | Strip of 10 tablets | Valid |
+| 208840 | Sanezil 5mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ---
 

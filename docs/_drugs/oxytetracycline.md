@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 634
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Oxytetracycline: predicted new indication Chronic rhinosinusitis (evidence level L5). Approved use: Bacterial infections (e.g., urinary tract infection, bronchitis…"
 monitor_inn: "Oxytetracycline"
 predicted_indications: ["chronic rhinosinusitis", "chronic ethmoidal sinusitis", "paranasal sinus neoplasm (disease)", "punctate epithelial keratoconjunctivitis", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "otitis externa"]
@@ -81,15 +81,38 @@ Currently no related literature available.
 
 ## India Market Information
 
-Oxytetracycline has 20 valid single-ingredient registrations in India and none cancelled. Dosage forms include capsules, tablets, oral solution, syrup, and injectable or infusion products. The license records do not include approved indication text. Five main registrations are listed below.
+Oxytetracycline has 20 valid single-ingredient registrations in India and none cancelled. Dosage forms include capsules, tablets, oral solution, syrup, and injectable or infusion products. The license records do not include approved indication text.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| 221265 | T M 250mg Capsule | Strip of 4 capsules | Pfizer Ltd |
-| 216151 | Terramycin SF Capsule | Strip of 10 capsules | Pfizer Ltd |
-| 216058 | Terramycin MD Injection | Vial of 10 ml injection | Pfizer Ltd |
-| 163153 | Oxytetracycline AF Tablet | Strip of 4 tablets | Pfizer Ltd |
-| 228563 | Tetracon 50mg Syrup | Bottle of 100 ml syrup | Western Remedies |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 15753 | Alpaoxy 50mg Injection | Vial of 30 ml Injection | Valid |
+| 78925 | Ecomycin 1gm Injection | Vial of 1 Injection | Valid |
+| 161938 | Oxy 500mg Capsule | Strip of 4 capsules | Valid |
+| 162862 | Otc Injection | Vial of 30 ml Injection | Valid |
+| 163036 | Oxyteracin Injection | Vial of 30 ml Injection | Valid |
+| 163153 | Oxytetracycline AF Tablet | Strip of 4 tablets | Valid |
+| 163193 | Oxy Dihydrate LA Injection | Vial of 30 ml Injection | Valid |
+| 163919 | Oxytetra Injection | Vial of 30 ml Injection | Valid |
+| 165916 | Oxytetracin 50mg Infusion | Bottle of 100 ml Infusion | Valid |
+| 166510 | Oticycline 250mg Capsule | Strip of 10 capsules | Valid |
+| 166778 | Oticycline 500mg Capsule | Strip of 10 capsules | Valid |
+| 166988 | Oxy Dihydrate LA Infusion | Bottle of 50 ml Infusion | Valid |
+| 167010 | Oxytetracyline Oral Solution | Bottle of 60 ml Oral Solution | Valid |
+| 169808 | Oxytetra Wock 50mg Liquid | Bottle of 100 ml Liquid | Valid |
+| 216058 | Terramycin MD Injection | Vial of 10 ml Injection | Valid |
+| 216151 | Terramycin SF Capsule | Strip of 10 capsules | Valid |
+| 219074 | TM 500mg Capsule | Strip of 10 capsules | Valid |
+| 220984 | T M SF Capsule | Strip of 10 capsules | Valid |
+| 221265 | T M 250mg Capsule | Strip of 4 capsules | Valid |
+| 228563 | Tetracon 50mg Syrup | Bottle of 100 ml Syrup | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ---
 

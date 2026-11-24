@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 740
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Rifaximin"
 predicted_indications: ["oral candidiasis", "commissural lip fistula", "osteoradionecrosis of the mandible", "oral leukoedema", "burning mouth syndrome", "candidiasis"]
 description: "Rifaximin: predicted new indication Oral candidiasis (evidence level L5). In India: at least 20 listed products"
@@ -73,15 +73,38 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-The registrations below are 5 of 20 valid single-ingredient products. All are oral tablets. The data compiled for this report contains no approved indication text for any of them.
+All are oral tablets. The data compiled for this report contains no approved indication text for any of them.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 192547 | Rifanid 400mg Tablet (Nidus Pharma Pvt Ltd) | Strip of 10 tablets | Not available |
-| 185439 | Rifarex 400mg Tablet (Tas Med India Pvt Ltd) | Strip of 10 tablets | Not available |
-| 185961 | Rifaset 550 Tablet (Macleods Pharmaceuticals Pvt Ltd) | Strip of 10 tablets | Not available |
-| 184595 | Rifakem 550 Tablet (Alkem Laboratories Ltd) | Strip of 10 tablets | Not available |
-| 184191 | Rcifax 400 Tablet (Lupin Ltd) | Strip of 10 tablets | Not available |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 87988 | Freximin M 200mg/400mg Tablet | Strip of 10 tablets | Valid |
+| 151880 | Nordys 550mg Tablet | Strip of 10 tablets | Valid |
+| 184191 | Rcifax 400 Tablet | Strip of 10 tablets | Valid |
+| 184595 | Rifakem 550 Tablet | Strip of 10 tablets | Valid |
+| 185439 | Rifarex 400mg Tablet | Strip of 10 tablets | Valid |
+| 185961 | Rifaset 550 Tablet | Strip of 10 tablets | Valid |
+| 185993 | Rifabiz 200 Tablet | Strip of 10 tablets | Valid |
+| 186286 | Rifagi 400mg Tablet | Strip of 10 tablets | Valid |
+| 187844 | Rifafrnd 400mg Tablet | Strip of 10 tablets | Valid |
+| 188092 | Rexinim 400 Tablet | Strip of 10 tablets | Valid |
+| 188373 | Riface 400mg Tablet | Strip of 10 tablets | Valid |
+| 188905 | Rifafix 550mg Tablet | Strip of 10 tablets | Valid |
+| 190172 | Rifagod 400mg Tablet | Strip of 10 tablets | Valid |
+| 190688 | Rifatouch 200mg Tablet | Strip of 10 tablets | Valid |
+| 191055 | Rifintra 400mg Tablet | Strip of 10 tablets | Valid |
+| 191975 | Rifasat 200mg Tablet | Strip of 10 tablets | Valid |
+| 192547 | Rifanid 400mg Tablet | Strip of 10 tablets | Valid |
+| 192686 | Rifawar 400mg Tablet | Strip of 10 tablets | Valid |
+| 193587 | Rifinim 200mg Tablet | Strip of 10 tablets | Valid |
+| 197363 | Rifaxent 200mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

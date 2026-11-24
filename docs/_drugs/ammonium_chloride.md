@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Ammonium chloride"
 predicted_indications: ["nasal cavity disease"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 description: "Ammonium Chloride: predicted new indication Nasal cavity disease (evidence level L5). Approved use: Pharyngitis, common cold, nasopharyngitis"
 ---
 
@@ -80,15 +80,38 @@ Currently no related literature available.
 
 ## India Market Information
 
-At least 20 single-ingredient licences are valid; the list below shows 5 of them and may be partial. The licence records contain no approved indication text.
+At least 20 single-ingredient licences are valid. The licence records contain no approved indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 152200 | Nocof Syrup | Syrup, 100 ml bottle | Not stated in the records |
-| 249589 | Zumcof DX Syrup | Syrup, 100 ml bottle | Not stated in the records |
-| 35576 | Cofdex Plus Syrup Sweet Orange | Syrup, 100 ml bottle | Not stated in the records |
-| 29960 | Becodryl Syrup | Syrup, 60 ml bottle | Not stated in the records |
-| 193386 | Redax Syrup | Syrup, 100 ml bottle | Not stated in the records |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 7659 | Ambitus Syrup | Bottle of 100 ml Syrup | Valid |
+| 12881 | Adyl Expectorant | Bottle of 110 ml Expectorant | Valid |
+| 14380 | Azadryl Syrup | Bottle of 100 ml Syrup | Valid |
+| 29960 | Becodryl Syrup | Bottle of 60 ml Syrup | Valid |
+| 35576 | Cofdex Plus Syrup Sweet Orange | Bottle of 100 ml Syrup | Valid |
+| 36696 | Cofrest Syrup | Bottle of 100 ml Syrup | Valid |
+| 38677 | Coupress N Syrup | Bottle of 50 ml Syrup | Valid |
+| 105768 | Histanil BM Syrup | Bottle of 100 ml Syrup | Valid |
+| 105897 | HL Dex Syrup | Bottle of 100 ml Syrup | Valid |
+| 106938 | Henadryl Syrup | Bottle of 100 ml Syrup | Valid |
+| 117683 | Kospin Syrup | Bottle of 100 ml Syrup | Valid |
+| 152200 | Nocof Syrup | Bottle of 100 ml Syrup | Valid |
+| 186868 | Resporex Syrup | Bottle of 60 ml Syrup | Valid |
+| 193386 | Redax Syrup | Bottle of 100 ml Syrup | Valid |
+| 194726 | Respigil DM Syrup | Bottle of 100 ml Syrup | Valid |
+| 207868 | Seekof Syrup | Bottle of 100 ml Syrup | Valid |
+| 210394 | Sardex Syrup | Bottle of 100 ml Syrup | Valid |
+| 212407 | Sonidril DMR Syrup | Bottle of 100 ml Syrup | Valid |
+| 241241 | Vizcof-Lite Syrup | Bottle of 100 ml Syrup | Valid |
+| 249589 | Zumcof DX Syrup | Bottle of 100 ml Syrup | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ---
 

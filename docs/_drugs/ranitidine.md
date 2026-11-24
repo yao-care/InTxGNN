@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 726
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Ranitidine"
 predicted_indications: ["peptic ulcer perforation", "duodenal obstruction", "gastroduodenitis", "Smouldering systemic mastocytosis", "abnormality of glucagon secretion", "lymphoadenopathic mastocytosis with eosinophilia"]
 description: "Ranitidine: predicted new indication Peptic ulcer perforation (evidence level L5). In India: at least 20 listed products"
@@ -82,13 +82,36 @@ Currently no related clinical trials registered.
 
 Ranitidine is currently marketed in India. The data compiled for this report show 20 valid single-ingredient licences and no cancelled ones. The records may be partial. The table lists five main authorizations; approved indication text is not recorded in the local data.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 185026 | Rantid 150mg Tablet (Gracure Pharmaceuticals) | Strip of 10 tablets | Not listed |
-| 185430 | R-Loc 50mg Injection 2ml (Zydus Cadila) | Packet of 14 injections | Not listed |
-| 193730 | Reltac 300mg Tablet (Relish Pharmaceuticals) | Strip of 10 tablets | Not listed |
-| 18467 | Ancid 150mg Syrup (Angeas Healthcare) | Bottle of 170 ml syrup | Not listed |
-| 184342 | Rantidine 150mg Tablet (Cipla) | Strip of 10 tablets | Not listed |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 18467 | Ancid 150mg Syrup | Bottle of 170 ml Syrup | Valid |
+| 96621 | Glentac 300mg Tablet | Strip of 30 tablets | Valid |
+| 110584 | Intac 150mg Tablet | Strip of 10 tablets | Valid |
+| 135008 | Magnet 150mg/200mg Tablet | Strip of 10 tablets | Valid |
+| 184342 | Rantidine 150mg Tablet | Strip of 10 tablets | Valid |
+| 185026 | Rantid 150mg Tablet | Strip of 10 tablets | Valid |
+| 185119 | Ranitin 300 Tablet | Strip of 10 tablets | Valid |
+| 185430 | R-Loc 50mg Injection 2ml | Packet of 14 injections | Valid |
+| 185680 | Ranitac 150mg Tablet | Strip of 10 tablets | Valid |
+| 185702 | Ranitin 50mg Injection | Vial of 2 ml Injection | Valid |
+| 185893 | Ranial 150mg Tablet | Strip of 10 tablets | Valid |
+| 187093 | Raniday Tablet | Strip of 10 tablets | Valid |
+| 188440 | Ranitin 300 Tablet | Strip of 20 tablets | Valid |
+| 188604 | Ranicool 150mg Tablet | Strip of 10 tablets | Valid |
+| 192532 | Rantime 25mg Injection | Vial of 2 ml Injection | Valid |
+| 193730 | Reltac 300mg Tablet | Strip of 10 tablets | Valid |
+| 197034 | Ranisac 150mg Tablet | Strip of 10 tablets | Valid |
+| 197336 | Raninett 25mg Injection | Vial of 2 ml Injection | Valid |
+| 198948 | Ranimac 25mg Injection | Vial of 30 ml Injection | Valid |
+| 221308 | Tinadin 150mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

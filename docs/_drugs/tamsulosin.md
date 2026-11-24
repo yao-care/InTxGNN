@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 806
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Tamsulosin: predicted new indication Ambras type hypertrichosis universalis congenita (evidence level L5). Approved use: Benign prostatic hyperplasia"
 monitor_inn: "Tamsulosin"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "migraine with brainstem aura"]
@@ -84,15 +84,44 @@ For the ninth-ranked prediction (alopecia), two publications were retrieved, but
 
 ## India Market Information
 
-The 20 registrations are all valid single-ingredient licences. Five main ones are listed below; the approved indication text is not available in the compiled data.
+The 20 registrations are all valid licences. Five main ones are listed below; the approved indication text is not available in the compiled data.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 224386 | Tamsugrap Tablet | Strip of 10 tablets | Not specified |
-| 233227 | Veltam 0.4 Tablet MR | Strip of 15 modified-release tablets | Not specified |
-| 230204 | Urimax 0.4 Capsule MR | Strip of 20 modified-release capsules | Not specified |
-| 128535 | Losin 0.4mg Tablet | Strip of 10 tablets | Not specified |
-| 96101 | Geriflo-D Tablet SR | Bottle of 15 sustained-release tablets | Not specified |
+<!-- review:begin in-lic-20261124-tamsulosin-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "The 20 registrations are all valid single-ingredient licences." Removed: it described the products as single-ingredient (or as having no combination products), which does not match the Indian medicine data (the Indian Medicine Dataset): some of the recorded products are fixed-dose combinations. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124-tamsulosin-1 -->
+
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 28336 | Betalosin D 0.4mg/0.5mg Tablet MR | Strip of 10 tablet mr | Valid |
+| 36864 | Consistam 0.4mg Tablet | Strip of 10 tablets | Valid |
+| 95986 | Gotam 0.4mg Tablet | Strip of 10 tablets | Valid |
+| 96101 | Geriflo-D Tablet SR | Bottle of 15 tablet sr | Valid |
+| 115166 | Jotam 0.4mg Tablet | Strip of 10 tablets | Valid |
+| 128535 | Losin 0.4mg Tablet | Strip of 10 tablets | Valid |
+| 205727 | Sin 0.4mg Tablet | Strip of 10 tablets | Valid |
+| 216140 | Tamzest Plus Tablet MR | Strip of 10 tablet mr | Valid |
+| 219918 | Tamworth 0.4mg Tablet | Strip of 10 tablets | Valid |
+| 220673 | Tamseal F 0.4mg/5mg Tablet | Strip of 10 tablets | Valid |
+| 220783 | Tivaflo 0.4mg Tablet MR | Strip of 10 tablet mr | Valid |
+| 224386 | Tamsugrap Tablet | Strip of 10 tablets | Valid |
+| 224676 | Temsuride Tablet | Strip of 10 tablets | Valid |
+| 227319 | Tamsurna D 0.4mg/0.5mg Tablet | Strip of 10 tablets | Valid |
+| 230204 | Urimax 0.4 Capsule MR | Strip of 20 capsule mr | Valid |
+| 232240 | Urolusin 0.4mg Tablet | Strip of 10 tablets | Valid |
+| 232606 | Urolusin D 0.4mg/0.5mg Tablet | Strip of 10 tablets | Valid |
+| 233227 | Veltam 0.4 Tablet MR | Strip of 15 tablet mr | Valid |
+| 233270 | Veltam-F Tablet MR | Strip of 15 tablet mr | Valid |
+| 236184 | Veldus T 0.4mg/0.5mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 All available dosage forms are oral.
 
@@ -121,11 +150,12 @@ The prediction score is very high, but there are no clinical trials, no supporti
 
 ## Review Log
 
-Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: tamsulosin hydrochloride prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f6b6aeab-bedd-4254-8811-4f65cf8a351f) |
+| 2026-11-24 | Removed: the single-ingredient claim | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 

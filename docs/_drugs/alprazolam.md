@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 2
 monitor_inn: "Alprazolam"
 predicted_indications: ["insomnia (disease)", "benign paroxysmal torticollis of infancy"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Alprazolam: predicted new indication Insomnia (disease) (evidence level L3). In India: at least 20 listed products"
 ---
 
@@ -81,15 +81,38 @@ The retrieved publications are mostly indirect. The only study that directly inv
 
 ## India Market Information
 
-Alprazolam is marketed in India, with 20 valid single-ingredient licences in the data compiled for this report (the list may be partial). The licence records carry no approved-indication text. Main licences:
+Alprazolam is marketed in India, with 20 valid single-ingredient licences in the data compiled for this report (the list may be partial). The licence records carry no approved-indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 83548 | Eurolam 1mg Tablet SR | Strip of 10 SR tablets | Not recorded |
-| 176351 | Prazolam 0.25mg Tablet | Strip of 10 tablets | Not recorded |
-| 7607 | Alpaz 0.25mg Tablet | Strip of 10 tablets | Not recorded |
-| 14252 | Aenzo 0.25mg Tablet | Strip of 10 tablets | Not recorded |
-| 181366 | Procalm 1mg Tablet | Strip of 10 tablets | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 2347 | Antax 0.5mg Tablet | Strip of 10 tablets | Valid |
+| 4114 | ALZOLAM FORTE 0.5MG/50MG TABLET | Strip of 10 tablets | Valid |
+| 7607 | Alpaz 0.25mg Tablet | Strip of 10 tablets | Valid |
+| 11483 | Alp X 0.5mg Tablet | Strip of 10 tablets | Valid |
+| 12782 | Azo-F 0.25mg/20mg Tablet | Strip of 10 tablets | Valid |
+| 14252 | Aenzo 0.25mg Tablet | Strip of 10 tablets | Valid |
+| 68113 | Depsolam 0.25 mg/25 mg Tablet | Strip of 10 tablets | Valid |
+| 83548 | Eurolam 1mg Tablet SR | Strip of 10 tablet sr | Valid |
+| 87060 | F & A Forte SR Tablet | Strip of 10 tablets | Valid |
+| 105332 | Hipzol-Plus Tablet | Strip of 10 tablets | Valid |
+| 176351 | Prazolam 0.25mg Tablet | Strip of 10 tablets | Valid |
+| 181366 | Procalm 1mg Tablet | Strip of 10 tablets | Valid |
+| 183175 | Q-Rest 0.25mg Tablet | Strip of 10 tablets | Valid |
+| 183575 | Quicam 0.25mg Tablet | Strip of 10 tablets | Valid |
+| 187488 | Rezolam 0.5mg Tablet | Strip of 10 tablets | Valid |
+| 196901 | Radipose Plus 0.25mg/25mg Tablet | Strip of 10 tablets | Valid |
+| 219751 | Tensfree 0.5mg Tablet | Strip of 10 tablets | Valid |
+| 248680 | Zepro 0.25mg/10mg Tablet | Strip of 10 tablets | Valid |
+| 249935 | Zolpam 0.25mg Tablet | Strip of 10 tablets | Valid |
+| 250887 | Zopral 1mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Fluoxetine"
 predicted_indications: ["paranoid personality disorder", "schizotypal personality disorder", "histrionic personality disorder (disease)", "schizoid personality disorder", "benign paroxysmal torticollis of infancy", "manic bipolar affective disorder", "phobic disorder", "Ohdo syndrome and variants"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Fluoxetine: predicted new indication Paranoid personality disorder (evidence level L5). Approved use: Relations recorded in the knowledge graph: anxiety disorder…"
 ---
 
@@ -96,15 +96,38 @@ Currently no related clinical trials registered for paranoid personality disorde
 
 ## India Market Information
 
-At least 20 single-ingredient fluoxetine licences are recorded, and the list may be partial. The licence records contain no approved indication text. Up to 5 are shown below.
+At least 20 single-ingredient fluoxetine licences are recorded, and the list may be partial. The licence records contain no approved indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 69745 | Depcure 20mg Capsule | Strip of 10 capsules | Not stated in the records |
-| 88510 | Fluget 20mg Tablet | Strip of 10 tablets | Not stated in the records |
-| 62428 | Depzac 20mg Capsule (Cipla Ltd) | Strip of 10 capsules | Not stated in the records |
-| 87032 | Fluz OD Tablet | Strip of 1 tablet | Not stated in the records |
-| 152127 | Nodep 20mg Capsule | Strip of 10 capsules | Not stated in the records |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 62428 | Depzac 20mg Capsule | Strip of 10 capsules | Valid |
+| 69745 | Depcure 20mg Capsule | Strip of 10 capsules | Valid |
+| 84978 | Fluty 20mg Capsule | Strip of 10 capsules | Valid |
+| 85126 | Fluoxet 40 Tablet | Strip of 10 tablets | Valid |
+| 86064 | Fluxirix 20mg Tablet | Strip of 10 tablets | Valid |
+| 86903 | Fluxin 20mg Capsule | Strip of 10 capsules | Valid |
+| 87032 | Fluz OD Tablet | Strip of 1 Tablet | Valid |
+| 87302 | Fluoxee 20mg Capsule | Strip of 10 capsules | Valid |
+| 88130 | Flutop 60mg Tablet | Strip of 10 tablets | Valid |
+| 88270 | Foxtine 20 Capsule | Strip of 10 capsules | Valid |
+| 88510 | Fluget 20mg Tablet | Strip of 10 tablets | Valid |
+| 91505 | Floxy 20mg Capsule | Strip of 10 capsules | Valid |
+| 99921 | Griloc 20mg Capsule | Strip of 10 capsules | Valid |
+| 146347 | M-Olan Plus Tablet | Strip of 10 tablets | Valid |
+| 152127 | Nodep 20mg Capsule | Strip of 10 capsules | Valid |
+| 169642 | Olee Forte 20mg/10mg Tablet | Strip of 10 tablets | Valid |
+| 173209 | Oladott-Forte 20mg/10mg Tablet | Strip of 10 tablets | Valid |
+| 218731 | Trizac 20mg Capsule | Strip of 10 capsules | Valid |
+| 236852 | Vibodep 20 Capsule | Strip of 10 capsules | Valid |
+| 245024 | Xentip 10mg Capsule | Strip of 10 capsules | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ---
 

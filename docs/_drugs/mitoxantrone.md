@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 562
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Mitoxantrone: predicted new indication Upper aerodigestive tract neoplasm (evidence level L5). Approved use: Acute myeloid leukemia and related myeloid leukemias"
 monitor_inn: "Mitoxantrone"
 predicted_indications: ["upper aerodigestive tract neoplasm", "small cell lung carcinoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "pulmonary blastoma", "head and neck cancer", "bladder exstrophy-epispadias-cloacal exstrophy complex"]
@@ -92,12 +92,18 @@ No clinical trials are registered for the top-ranked prediction. The trials belo
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 144939 | Mitozan 2mg Injection | Vial of 10 ml injection | Not listed |
-| 210594 | Scleroxil 2mg Injection | Vial of 10 ml injection | Not listed |
-| 155772 | Netalem 2mg Injection | Vial of 10 ml injection | Not listed |
-| 152457 | Nitrol 20mg Injection | Vial of 10 ml injection | Not listed |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 144939 | Mitozan 2mg Injection | Vial of 10 ml Injection | Valid |
+| 152457 | Nitrol 20mg Injection | Vial of 10 ml Injection | Valid |
+| 155772 | Netalem 2mg Injection | Vial of 10 ml Injection | Valid |
+| 210594 | Scleroxil 2mg Injection | Vial of 10 ml Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 All four registrations are valid single-ingredient injectable products.
 

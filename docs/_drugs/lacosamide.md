@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 467
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Lacosamide"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "trichotillomania", "nephrogenic syndrome of inappropriate antidiuresis", "migraine disorder", "insomnia (disease)", "migraine with brainstem aura", "myofascial pain syndrome", "obsessive-compulsive disorder", "papillary conjunctivitis"]
 description: "Lacosamide: predicted new indication Manic bipolar affective disorder (evidence level L5). In India: at least 20 listed products"
@@ -85,13 +85,36 @@ Clinical support is real but limited. Published human results come mainly from o
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 126251 | Lacove 150mg Tablet | Strip of 10 tablets | Not stated |
-| 250388 | Zolaco 200mg Tablet | Strip of 10 tablets | Not stated |
-| 121572 | Lacoxa 100mg Tablet | Strip of 10 tablets | Not stated |
-| 123738 | Laconext 10mg Injection | Vial of 20 ml injection | Not stated |
-| 208370 | Seizgard 150mg Tablet | Strip of 10 tablets | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 79197 | Emsilac 100mg Tablet | Strip of 10 tablets | Valid |
+| 113992 | Joseiz 100 Tablet | Strip of 10 tablets | Valid |
+| 121284 | Lacotide 100mg Tablet | Strip of 10 tablets | Valid |
+| 121572 | Lacoxa 100mg Tablet | Strip of 10 tablets | Valid |
+| 121874 | Lacotide 50 Tablet | Strip of 10 tablets | Valid |
+| 121975 | Lacopsy 50mg Tablet | Strip of 10 tablets | Valid |
+| 122111 | Lacotide 200mg Tablet | Strip of 10 tablets | Valid |
+| 122167 | Lacove 100mg Tablet | Strip of 10 tablets | Valid |
+| 122182 | Lacopsy 200mg Injection | Vial of 20 ml Injection | Valid |
+| 123122 | Lacobris 100mg Tablet | Strip of 10 tablets | Valid |
+| 123738 | Laconext 10mg Injection | Vial of 20 ml Injection | Valid |
+| 124135 | Lacasa 200mg Tablet | Strip of 10 tablets | Valid |
+| 124949 | Lacove 200mg Tablet | Strip of 10 tablets | Valid |
+| 125011 | Lacoptal 200mg Tablet | Strip of 10 tablets | Valid |
+| 125047 | Lacoxa 10mg Injection | Vial of 20 ml Injection | Valid |
+| 126251 | Lacove 150mg Tablet | Strip of 10 tablets | Valid |
+| 128084 | Licotar 50 Tablet | Strip of 10 tablets | Valid |
+| 128218 | Locasa 200mg Tablet | Strip of 10 tablets | Valid |
+| 208370 | Seizgard 150mg Tablet | Strip of 10 tablets | Valid |
+| 250388 | Zolaco 200mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 Twenty valid single-ingredient registrations are on record, in oral tablet and injectable forms.
 

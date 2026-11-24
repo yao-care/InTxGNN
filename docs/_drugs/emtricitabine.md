@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Emtricitabine"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Emtricitabine: predicted new indication Simian immunodeficiency virus infection (evidence level L5). Approved use: HIV infection and AIDS"
 ---
 
@@ -97,15 +97,38 @@ Most listed studies are macaque or other animal studies, and none is a human RCT
 
 ## India Market Information
 
-At least 20 valid single-ingredient registrations were found, and the list may be partial. The records compiled for this report contain no approved-indication text, so indications are not shown. The five below are examples.
+At least 20 valid single-ingredient registrations were found, and the list may be partial. The records compiled for this report contain no approved-indication text, so indications are not shown.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Registration No. 80332 | Emfovir Tablet | Bottle of 30 tablets | Not stated in the records |
-| Registration No. 216754 | Tafero EM Tablet | Strip of 30 tablets | Not stated in the records |
-| Registration No. 215299 | Tenvir-EM Tablet | Strip of 30 tablets | Not stated in the records |
-| Registration No. 227746 | Timeovir-EM Tablet | Bottle of 30 tablets | Not stated in the records |
-| Registration No. 224996 | Tofocom 200 mg/300 mg Tablet | Strip of 30 tablets | Not stated in the records |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 80332 | Emfovir Tablet | Bottle of 30 tablets | Valid |
+| 86059 | Forstavir-EM Tablet | Strip of 30 tablets | Valid |
+| 87325 | Forstavir 200 mg/300 mg/600 mg Tablet | Strip of 30 tablets | Valid |
+| 149641 | Myvajra Tablet | Bottle of 30 tablets | Valid |
+| 187224 | Ricovir EM 200 mg/300 mg Tablet | Strip of 30 tablets | Valid |
+| 215299 | Tenvir-EM Tablet | Strip of 30 tablets | Valid |
+| 215917 | Trustiva Tablet | Bottle of 30 tablets | Valid |
+| 216228 | Tenof EM Tablet | Strip of 30 tablets | Valid |
+| 216555 | Tavin EM Tablet | Strip of 30 tablets | Valid |
+| 216634 | Teevir Tablet | Bottle of 30 tablets | Valid |
+| 216754 | Tafero EM Tablet | Strip of 30 tablets | Valid |
+| 217279 | Tafmune-EM 10 Tablet | Bottle of 30 tablets | Valid |
+| 223481 | Teefavir Tablet | Bottle of 30 tablets | Valid |
+| 223644 | Tofoday 200 mg/300 mg/600 mg Tablet | Strip of 30 tablets | Valid |
+| 223651 | Tentide EM Tablet | Strip of 30 tablets | Valid |
+| 224996 | Tofocom 200 mg/300 mg Tablet | Strip of 30 tablets | Valid |
+| 227746 | Timeovir-EM Tablet | Bottle of 30 tablets | Valid |
+| 230186 | Trilavir E Tablet | Bottle of 30 tablets | Valid |
+| 234231 | Vonavir Tablet | Bottle of 30 tablets | Valid |
+| 237368 | Virotrenz Tablet | Strip of 30 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Amiloride"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "chronic pulmonary heart disease"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Amiloride: predicted new indication malignant hypertensive renal disease (evidence level L5). In India: 4 listed products (4 not discontinued)"
 ---
 
@@ -72,20 +72,26 @@ Currently no related literature available.
 
 ## India Market Information
 
-Four valid licences are recorded. The approved indication text is not recorded in the local data.
+All recorded licences are valid. The approved indication text is not recorded in the local data.
 
 <!-- review:begin in-lic-20261106-amiloride-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "Four valid single-ingredient licences are recorded." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+> **Review correction (2026-11-24)**: Originally stated: "Four valid single-ingredient licences are recorded." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Revised 2026-11-24: the hard-coded number of records and the wording about the old table were dropped; the Quick Overview and the product table under India Market Information show the current figures. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
 
 <!-- review:end in-lic-20261106-amiloride-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| 11714 | Amiur H Forte 5mg/50mg Tablet | Strip of 10 tablets | East West Pharma |
-| 26232 | Biduret -L Tablet | Strip of 10 tablets | Oaknet Healthcare Pvt Ltd |
-| 3897 | Amiur 5mg Tablet | Strip of 10 tablets | East West Pharma |
-| 4158 | Amiur H 2.5mg/25mg Tablet | Strip of 10 tablets | East West Pharma |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 3897 | Amiur 5mg Tablet | Strip of 10 tablets | Valid |
+| 4158 | Amiur H 2.5mg/25mg Tablet | Strip of 10 tablets | Valid |
+| 11714 | Amiur H Forte 5mg/50mg Tablet | Strip of 10 tablets | Valid |
+| 26232 | Biduret -L Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -120,7 +126,7 @@ Below is the review log for this page: statements checked against official India
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-24 | Removed: "single-ingredient" | Corrected (revised 2026-11-24; earlier version kept in the record) | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 | 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: amiloride hydrochloride prescribing information, Kesin Pharma Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5eedadbd-9be9-b920-e063-6394a90afa68) |
 
 <!-- review:end log -->

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 735
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Reteplase"
 predicted_indications: ["congenital coronary artery anomaly", "coronary stenosis", "heparin cofactor 2 deficiency", "partial deletion of the short arm of chromosome 16", "beta-thalassemia with other manifestations", "antithrombin deficiency type 2", "hemolytic anemia due to glucophosphate isomerase deficiency"]
 description: "Reteplase: predicted new indication Congenital coronary artery anomaly (evidence level L5). In India: 4 listed products (4 not discontinued)"
@@ -95,12 +95,18 @@ Related literature for other predicted indications (not for posterolateral MI) i
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 185024 | Retefast 18mg Injection (Cipla Ltd) | Vial of 10 ml injection | Not stated in the data compiled |
-| 236830 | Vascium 18mg Injection (Emcure Pharmaceuticals Ltd) | Vial of 1 injection | Not stated in the data compiled |
-| 184768 | Retefuse 18mg Injection (Lupin Ltd) | Packet of 1 injection | Not stated in the data compiled |
-| 186122 | Retefast Kit (Cipla Ltd) | Box of 1 injection | Not stated in the data compiled |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 184768 | Retefuse 18mg Injection | Packet of 1 Injection | Valid |
+| 185024 | Retefast 18mg Injection | Vial of 10 ml Injection | Valid |
+| 186122 | Retefast Kit | Box of 1 Injection | Valid |
+| 236830 | Vascium 18mg Injection | Vial of 1 Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 All four registrations are valid single-ingredient injectable products.
 

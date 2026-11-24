@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 549
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Miconazole"
 predicted_indications: ["acne (disease)"]
 description: "Miconazole: predicted new indication Acne (disease) (evidence level L4). In India: at least 20 listed products"
@@ -75,15 +75,38 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-At least 20 single-ingredient miconazole licences are recorded, all valid, and the list may be partial. The main ones are:
+At least 20 single-ingredient miconazole licences are recorded, all valid, and the list may be partial.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 150934 | Nadibact Plus Cream (Cipla Ltd) | Cream, 10 gm tube | Not available |
-| 147881 | Mesotar NM Cream (Terma Medicare India Pvt Ltd) | Cream, 10 gm tube | Not available |
-| 139460 | Micon Ointment (Mepro Pharmaceuticals) | Ointment, 15 gm tube | Not available |
-| 35001 | Candifem Vaginal Tablet (Meyer Organics Pvt Ltd) | Vaginal tablet, strip of 6 | Not available |
-| 36823 | Candistat Cream (Merck Ltd) | Cream, 15 gm tube | Not available |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 28433 | Bactimax Cream | Tube of 15 gm Cream | Valid |
+| 35001 | Candifem Vaginal Tablet | Strip of 6 tablet vt | Valid |
+| 36823 | Candistat Cream | Tube of 15 gm Cream | Valid |
+| 46485 | Canticid 2% Vaginal gel | Tube of 20 gm Vaginal gel | Valid |
+| 76923 | Emplus-V Gel | Tube of 30 gm Vaginal gel | Valid |
+| 84896 | Fungitop Cream | Tube of 15 gm Cream | Valid |
+| 85279 | Fungiguard Cream | Tube of 30 gm Cream | Valid |
+| 136636 | M C Gel | Tube of 30 gm Gel | Valid |
+| 137342 | Miconaz 2% Gel | Tube of 30 gm Gel | Valid |
+| 137695 | Micogerm Ointment | Tube of 15 gm Ointment | Valid |
+| 139460 | Micon Ointment | Tube of 15 gm Ointment | Valid |
+| 140091 | Monozole 2% Cream | Tube of 30 gm Cream | Valid |
+| 143340 | Micolon CR Cream | Tube of 15 gm Cream | Valid |
+| 144010 | Micoap 2% Ointment | Tube of 15 gm Ointment | Valid |
+| 147881 | Mesotar NM Cream | Tube of 10 gm Cream | Valid |
+| 150562 | Nadimix Cream | Tube of 7.5 gm Cream | Valid |
+| 150934 | Nadibact Plus Cream | Tube of 10 gm Cream | Valid |
+| 152567 | Nadifa M2 Cream | Tube of 7.5 gm Cream | Valid |
+| 155935 | Nadimin-M Cream | Tube of 10 gm Cream | Valid |
+| 246521 | Zole Skin Ointment | Tube of 15 gm Ointment | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

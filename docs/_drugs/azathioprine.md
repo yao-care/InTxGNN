@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 84
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Azathioprine: predicted new indication Colobomatous microphthalmia-rhizomelic dysplasia syndrome (evidence level L5). Approved use: Rheumatoid arthritis"
 monitor_inn: "Azathioprine"
 predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "WHIM syndrome", "granulomatous disease, chronic, autosomal recessive, 5", "osteoarthritis", "granulomatous disease with defect in neutrophil chemotaxis", "acromesomelic dysplasia, Hunter-Thompson type"]
@@ -70,15 +70,38 @@ Currently no related literature available.
 
 ## India Market Information
 
-Azathioprine is marketed in India as single-ingredient oral tablets, with 20 valid registrations and none cancelled. The registrations listed in the compiled data carry no approved-indication text. Five of them are shown below.
+Azathioprine is marketed in India as single-ingredient oral tablets, with 20 valid registrations and none cancelled. The registrations listed in the compiled data carry no approved-indication text.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| 11651 | Azatoz 50mg Tablet | Strip of 10 tablets | Cytoz Pharmaceuticals |
-| 7004 | Azawan Tablet | Strip of 10 tablets | Rowan Bioceuticals Pvt Ltd |
-| 3093 | Aprin 50mg Tablet | Strip of 10 tablets | Aegis Pharmaceuticals |
-| 11695 | Azoalfa 50 Tablet | Strip of 10 tablets | Alniche Life Sciences Pvt Ltd |
-| 234855 | Vaprin Tablet | Strip of 10 tablets | Zydus Cadila |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 279 | AZR Tablet | Strip of 10 tablets | Valid |
+| 1325 | ATZ 50 Tablet | Strip of 10 tablets | Valid |
+| 2607 | Azaprin Tablet | Strip of 10 tablets | Valid |
+| 3093 | Aprin 50mg Tablet | Strip of 10 tablets | Valid |
+| 7004 | Azawan Tablet | Strip of 10 tablets | Valid |
+| 7576 | Azathiol 50mg Tablet | Strip of 10 tablets | Valid |
+| 7807 | Autorin 50mg Tablet | Strip of 10 tablets | Valid |
+| 7920 | Aparin 50mg Tablet | Strip of 10 tablets | Valid |
+| 8835 | Azoth 50 Tablet | Strip of 10 tablets | Valid |
+| 10265 | A Pin 50mg Tablet | Strip of 10 tablets | Valid |
+| 11651 | Azatoz 50mg Tablet | Strip of 10 tablets | Valid |
+| 11695 | Azoalfa 50 Tablet | Strip of 10 tablets | Valid |
+| 108077 | Imoprine Tablet | Strip of 10 tablets | Valid |
+| 109067 | Immugo Tablet | Strip of 10 tablets | Valid |
+| 130224 | Lazorin 50mg Tablet | Strip of 10 tablets | Valid |
+| 155572 | Neoprine 50mg Tablet | Strip of 10 tablets | Valid |
+| 180576 | Priorg 50mg Tablet | Strip of 10 tablets | Valid |
+| 217432 | Thiopress Tablet | Strip of 10 tablets | Valid |
+| 220374 | Transimune 50mg Tablet | Strip of 10 tablets | Valid |
+| 234855 | Vaprin Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

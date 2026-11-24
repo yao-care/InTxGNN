@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Cimetidine"
 predicted_indications: ["peptic ulcer perforation", "duodenal obstruction", "acne (disease)", "abnormality of glucagon secretion"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cimetidine: predicted new indication peptic ulcer perforation (evidence level L5). In India: 8 listed products (8 not discontinued)"
 ---
 
@@ -81,13 +81,22 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 231297 | Ulciban 400mg Tablet | Strip of 10 tablets | Not recorded |
-| 223407 | Tagasec 200mg Tablet | Strip of 10 tablets | Not recorded |
-| 43394 | Cimetiget 200mg Tablet | Strip of 10 tablets | Not recorded |
-| 155392 | Neotid 400mg Tablet | Strip of 10 tablets | Not recorded |
-| 39684 | Cimetiget 400mg Tablet | Strip of 10 tablets | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 39565 | C Met 400mg Tablet | Strip of 10 tablets | Valid |
+| 39684 | Cimetiget 400mg Tablet | Strip of 10 tablets | Valid |
+| 42593 | Cimetin 200mg Tablet | Strip of 10 tablets | Valid |
+| 43394 | Cimetiget 200mg Tablet | Strip of 10 tablets | Valid |
+| 155392 | Neotid 400mg Tablet | Strip of 10 tablets | Valid |
+| 223407 | Tagasec 200mg Tablet | Strip of 10 tablets | Valid |
+| 231297 | Ulciban 400mg Tablet | Strip of 10 tablets | Valid |
+| 231300 | Ulciban 200mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 910
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Zolmitriptan"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis"]
 description: "Zolmitriptan: predicted new indication Atrophoderma vermiculata (evidence level L5). In India: 6 listed products (6 not discontinued)"
@@ -96,13 +96,20 @@ None of the publications below studies migraine with brainstem aura directly. Th
 
 The approved indication text is not available for these registrations.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| 247965 | Zolitas ODS 5 Strip | Strip of 1 disintegrating strip | Intas Pharmaceuticals Ltd |
-| 247573 | Zolitas ODS 2.5 Strip | Strip of 1 disintegrating strip | Intas Pharmaceuticals Ltd |
-| 246606 | Zolmist Nasal Spray | Bottle of 7 MDI nasal spray | Cipla Ltd |
-| 248233 | Zolpax Nasal Spray | Packet of 5 ml nasal spray | Alteus Biogenics Pvt Ltd |
-| 248664 | Zolmit 2.5mg Capsule | Strip of 10 capsules | Admit Pharmaceuticals Pvt Ltd |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 246606 | Zolmist Nasal Spray | Bottle of 7 MDI Nasal Spray | Valid |
+| 247573 | Zolitas ODS 2.5 Strip | Strip of 1 Disintegrating Strip | Valid |
+| 247965 | Zolitas ODS 5 Strip | Strip of 1 Disintegrating Strip | Valid |
+| 248233 | Zolpax Nasal Spray | Packet of 5 ml Nasal Spray | Valid |
+| 248664 | Zolmit 2.5mg Capsule | Strip of 10 capsules | Valid |
+| 250377 | Zolvent Nasal Spray | Pump bottle of 7 MDI Nasal Spray | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 A sixth registration, Zolvent Nasal Spray (No. 250377, Chemo Healthcare Pvt Ltd), is also valid. All 6 registrations are single-ingredient products and none has been cancelled.
 

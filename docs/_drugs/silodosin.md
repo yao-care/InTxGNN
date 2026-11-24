@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 772
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Silodosin: predicted new indication Ambras type hypertrichosis universalis congenita (evidence level L5). Approved use: Benign prostatic hyperplasia"
 monitor_inn: "Silodosin"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly"]
@@ -90,15 +90,38 @@ Currently no related literature available.
 
 ## India Market Information
 
-Silodosin is marketed in India with 20 valid single-ingredient registrations. Five representative authorizations are listed below. The data compiled for this report contain no approved indication text for any of them.
+Silodosin is marketed in India with 20 valid single-ingredient registrations. The data compiled for this report contain no approved indication text for any of them.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| 27632 | Bphlo S 8mg Tablet | Strip of 10 tablets | Renauxe Pharma India Pvt Ltd |
-| 133606 | Maxvoid 8 Tablet | Strip of 15 tablets | Alkem Laboratories Ltd |
-| 62363 | DavaIndia Silodosin 4mg Capsule | Strip of 10 capsules | Davaindia Generic Pharmacy |
-| 202928 | Silotag 8mg Capsule | Strip of 10 capsules | Jaiwik Biotech |
-| 173631 | Prostagard-D8 Capsule | Strip of 10 capsules | Aristo Pharmaceuticals Pvt Ltd |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 9531 | Aldosin D 8mg/0.5mg Capsule | Strip of 10 capsules | Valid |
+| 27632 | Bphlo S 8mg Tablet | Strip of 10 tablets | Valid |
+| 62363 | DavaIndia Silodosin 4mg Capsule | Strip of 10 capsules | Valid |
+| 89969 | Fasture 8mg Tablet | Strip of 10 tablets | Valid |
+| 133606 | Maxvoid 8 Tablet | Strip of 15 tablets | Valid |
+| 173631 | Prostagard-D8 Capsule | Strip of 10 capsules | Valid |
+| 200471 | Silotrif-D 8 Capsule Combipack | Box of 20 capsule combipack | Valid |
+| 200639 | Silosam 8 Tablet | Strip of 15 tablets | Valid |
+| 200760 | Silozem Capsule | Strip of 10 capsules | Valid |
+| 200776 | Sildoease-8D Capsule | Strip of 10 capsules | Valid |
+| 200935 | Sildoo-D4 Capsule Combipack | Box of 20 capsule combipack | Valid |
+| 201682 | Silorun D 8mg/0.5mg Capsule | Strip of 10 capsules | Valid |
+| 202062 | Silotag-SF Tablet | Strip of 10 tablets | Valid |
+| 202928 | Silotag 8mg Capsule | Strip of 10 capsules | Valid |
+| 203044 | Silolyst 8mg Tablet | Strip of 10 tablets | Valid |
+| 204696 | Siloron-D Capsule | Strip of 10 capsules | Valid |
+| 204899 | Siliostru 8mg Capsule | Strip of 10 capsules | Valid |
+| 205459 | Silodyx D 8mg/0.5mg Tablet | Strip of 10 tablets | Valid |
+| 205508 | Siloren 8mg Capsule | Strip of 10 capsules | Valid |
+| 207412 | Silodural D 8mg/0.5mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 All available forms are oral (tablets and capsules). Several products are combinations packaged with a second agent (for example, the 8mg/0.5mg products and the combipacks).
 

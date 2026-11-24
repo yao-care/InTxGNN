@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 894
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "Vitamin A"
 predicted_indications: ["congenital prothrombin deficiency", "biotin metabolic disease", "non-syndromic esophageal malformation", "injury", "cell proliferation disorder", "florid cemento-osseous dysplasia", "segmental odontomaxillary dysplasia", "perinatal disease", "disease by subcellular system affected", "radiation or chemically induced disorder"]
 description: "Vitamin A: predicted new indication Congenital prothrombin deficiency (evidence level L5). In India: 8 listed products (8 not discontinued)"
@@ -108,19 +108,28 @@ No publications were found for congenital prothrombin deficiency. Key publicatio
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 133468 | M.V.I. Injection | Ampoule of 10 ml injection | Not stated |
-| 122794 | Lycobold Capsule | Strip of 10 capsules | Not stated |
-| 218506 | Tilvit Injection | Vial of 10 ml injection | Not stated |
-| 233452 | Vitamin A 100000IU Syrup | Bottle of 50 ml syrup | Not stated |
-| 144556 | Multiband Injection | Vial of 10 ml injection | Not stated |
+<!-- licenses:begin -->
 
-Eight valid registrations exist in total (injection, capsule, syrup, and chewable tablet forms).
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 73 | Aquasol A Capsule | Bottle of 30 capsules | Valid |
+| 122794 | Lycobold Capsule | Strip of 10 capsules | Valid |
+| 133468 | M.V.I. Injection | Ampoule of 10 ml Injection | Valid |
+| 136508 | Multizac Injection | Vial of 10 ml Injection | Valid |
+| 144556 | Multiband Injection | Vial of 10 ml Injection | Valid |
+| 218506 | Tilvit Injection | Vial of 10 ml Injection | Valid |
+| 233242 | Vitamin A Chewable Tablet | Strip of 10 Chewable Tablets | Valid |
+| 233452 | Vitamin A 100000IU Syrup | Bottle of 50 ml Syrup | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
+
+All registrations are valid (injection, capsule, syrup, and chewable tablet forms).
 
 <!-- review:begin in-lic-20261106-vitamin_a-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "Eight valid single-ingredient registrations exist in total (injection, capsule, syrup, and chewable tablet forms)." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+> **Review correction (2026-11-24)**: Originally stated: "Eight valid single-ingredient registrations exist in total (injection, capsule, syrup, and chewable tablet forms)." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Revised 2026-11-24: the hard-coded number of records and the wording about the old table were dropped; the Quick Overview and the product table under India Market Information show the current figures. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
 
 <!-- review:end in-lic-20261106-vitamin_a-1 -->
 
@@ -161,7 +170,7 @@ Below is the review log for this page: statements checked against official India
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-24 | Removed: "single-ingredient" | Corrected (revised 2026-11-24; earlier version kept in the record) | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 

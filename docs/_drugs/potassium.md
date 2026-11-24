@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 688
 evidence_level: L1
 indication_count: 5
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Potassium: predicted new indication Hypertensive disorder (evidence level L1). Approved use: Not stated in the Indian licence records compiled for this report"
 monitor_inn: "Potassium"
 predicted_indications: ["hypertensive disorder", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant renovascular hypertension", "malignant hypertensive renal disease"]
@@ -104,17 +104,23 @@ Further registered trials (for example NCT00949884, NCT01216878, NCT05947448 and
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 136906 | Mpot B6 Oral Solution Natural Mango Sugar Free | Bottle of 200 ml oral solution | Not stated |
-| 94750 | Gushout Tablet | Strip of 10 tablets | Not stated |
-| 150897 | Noculi Tablet | Strip of 10 tablets | Not stated |
+<!-- licenses:begin -->
 
-All three are valid registrations.
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 94750 | Gushout Tablet | Strip of 10 tablets | Valid |
+| 136906 | Mpot B6 Oral Solution Natural Mango Sugar Free | Bottle of 200 ml Oral Solution | Valid |
+| 150897 | Noculi Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
+
+All are valid registrations.
 
 <!-- review:begin in-lic-20261106-potassium-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "All three are valid single-ingredient registrations." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+> **Review correction (2026-11-24)**: Originally stated: "All three are valid single-ingredient registrations." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Revised 2026-11-24: the hard-coded number of records and the wording about the old table were dropped; the Quick Overview and the product table under India Market Information show the current figures. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
 
 <!-- review:end in-lic-20261106-potassium-1 -->
 
@@ -149,7 +155,7 @@ Below is the review log for this page: statements checked against official India
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-24 | Removed: "single-ingredient" | Corrected (revised 2026-11-24; earlier version kept in the record) | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 

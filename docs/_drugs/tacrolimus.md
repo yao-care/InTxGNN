@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 802
 evidence_level: L2
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Tacrolimus: predicted new indication Seborrheic dermatitis (evidence level L2). Approved use: Atopic eczema / atopic dermatitis"
 monitor_inn: "Tacrolimus"
 predicted_indications: ["seborrheic dermatitis", "parapsoriasis"]
@@ -88,13 +88,36 @@ Note on the evidence level: the completed Phase 3 trial supports the topical oin
 
 The approved indication text is not recorded for these licences. The 20 valid single-ingredient licences are mostly oral capsules, plus one ointment (Tames Forte) and one prolonged-release capsule (Advagraf).
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 221068 | Tames Forte Ointment (Ampra Pharmaceuticals) | Tube of 10 gm ointment | Not recorded |
-| 2091 | Advagraf 1mg Capsule PR (Astellas Pharma) | Strip of 10 prolonged-release capsules | Not recorded |
-| 219172 | Takfa 0.25 Capsule (Intas Pharmaceuticals) | Strip of 10 capsules | Not recorded |
-| 220926 | Tacrolim 1mg Capsule (Dr Reddy's Laboratories) | Strip of 10 capsules | Not recorded |
-| 190385 | Rengraf 0.5mg Capsule (Abbott) | Strip of 10 capsules | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 2091 | Advagraf 1mg Capsule PR | Strip of 10 capsule pr | Valid |
+| 43949 | Citac 1mg Capsule | Strip of 10 capsules | Valid |
+| 44617 | Crolimus 0.5mg Capsule | Strip of 10 capsules | Valid |
+| 158985 | Nefgraf 2mg Capsule | Strip of 10 capsules | Valid |
+| 168194 | Olmis 1mg Capsule | Strip of 10 capsules | Valid |
+| 172166 | Olmis 0.5mg Capsule | Strip of 10 capsules | Valid |
+| 190385 | Rengraf 0.5mg Capsule | Strip of 10 capsules | Valid |
+| 216640 | Tacsant 0.5mg Capsule | Strip of 10 capsules | Valid |
+| 216750 | Tacrograf 0.25 Capsule | Strip of 10 capsules | Valid |
+| 219172 | Takfa 0.25 Capsule | Strip of 10 capsules | Valid |
+| 220926 | Tacrolim 1mg Capsule | Strip of 10 capsules | Valid |
+| 221068 | Tames Forte Ointment | Tube of 10 gm Ointment | Valid |
+| 224410 | Tacromus 5mg Capsule | Strip of 10 capsules | Valid |
+| 224807 | Tacren 0.5 Capsule | Strip of 10 capsules | Valid |
+| 224971 | Tacroriv 1mg Capsule | Strip of 10 capsules | Valid |
+| 225148 | Tacimun 1mg Capsule | Strip of 10 capsules | Valid |
+| 227244 | Tacroten 0.5mg Capsule | Strip of 10 capsules | Valid |
+| 228055 | Tacromist 1mg Capsule | Strip of 10 capsules | Valid |
+| 229470 | Tacrotaj 5mg Capsule | Strip of 10 capsules | Valid |
+| 233947 | Vingraf 2mg Capsule | Strip of 10 capsules | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 Only one topical product (Tames Forte Ointment) is registered, and the other registrations are oral capsules. The predicted indication relies on topical use, so the topical supply and its approved labelling need to be confirmed.
 

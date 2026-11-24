@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 398
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 description: "Glycine: predicted new indication Nasal cavity disease (evidence level L5). Approved use: Allergic rhinitis, vasomotor rhinitis, pharyngitis, common cold…"
 monitor_inn: "Glycine"
 predicted_indications: ["nasal cavity disease"]
@@ -58,7 +58,6 @@ Currently, detailed mechanism of action data is not available. Based on known in
 
 "Nasal cavity disease" is a broad category that overlaps heavily with the existing indications (allergic rhinitis, rhinitis, nasopharyngitis). The high score is therefore likely the model extrapolating within the same disease family rather than identifying a genuinely new use. The predicted indication is not a clear repurposing opportunity.
 
-
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
@@ -74,10 +73,16 @@ Currently, detailed mechanism of action data is not available. Based on known in
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Registration No. 50734 | Country Life Glycine 500mg Tablet | Jar of 100 tablets (oral) | Not specified |
-| Registration No. 95288 | Glycine Irrigation 1.5% Infusion | Bottle of 3000 ml infusion | Not specified |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 50734 | Country Life Glycine 500mg Tablet | Jar of 100 tablets | Valid |
+| 95288 | Glycine Irrigation 1.5% Infusion | Bottle of 3000 ml Infusion | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

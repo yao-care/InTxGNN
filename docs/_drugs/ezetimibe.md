@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 336
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Ezetimibe"
 predicted_indications: ["cholesterol-ester transfer protein deficiency"]
 description: "Ezetimibe: predicted new indication Cholesterol-ester transfer protein deficiency (evidence level L5). In India: at least 20 listed products"
@@ -102,15 +102,38 @@ Most of these studies concern other lipid-lowering agents in which ezetimibe is 
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 73458 | Ezechol 10mg Tablet | Strip of 10 tablets | Not available |
-| 76024 | Ezibloc 10mg Tablet | Strip of 10 tablets | Not available |
-| 73905 | Ezitrol 10mg Tablet | Strip of 10 tablets | Not available |
-| 75189 | Ezedoc 5mg Tablet | Strip of 10 tablets | Not available |
-| 78059 | Ezee Fresh Capsule | Strip of 10 capsules | Not available |
+<!-- licenses:begin -->
 
-There are 20 valid single-ingredient registrations in total, all oral (tablets, plus one capsule product). The five above are examples.
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 72353 | Ezedoc 10 Tablet | Strip of 10 tablets | Valid |
+| 72585 | Ezetib 10mg Tablet | Strip of 10 tablets | Valid |
+| 73284 | Ezetimide 10mg Tablet | Strip of 10 tablets | Valid |
+| 73458 | Ezechol 10mg Tablet | Strip of 10 tablets | Valid |
+| 73905 | Ezitrol 10mg Tablet | Strip of 10 tablets | Valid |
+| 75189 | Ezedoc 5mg Tablet | Strip of 10 tablets | Valid |
+| 75342 | Ezentib 10 Tablet | Strip of 10 tablets | Valid |
+| 75383 | Ezee 10mg Tablet | Strip of 10 tablets | Valid |
+| 75507 | Etimibe 10mg Tablet | Strip of 10 tablets | Valid |
+| 75580 | Ezlip 10mg Tablet | Strip of 10 tablets | Valid |
+| 76024 | Ezibloc 10mg Tablet | Strip of 10 tablets | Valid |
+| 77216 | Ezta 10mg Tablet | Strip of 10 tablets | Valid |
+| 77577 | Ezzitry 10mg Tablet | Strip of 10 tablets | Valid |
+| 78059 | Ezee Fresh Capsule | Strip of 10 capsules | Valid |
+| 134773 | Mibe 10mg Tablet | Strip of 10 tablets | Valid |
+| 247215 | Zeteze 10mg Tablet | Strip of 10 tablets | Valid |
+| 248002 | Zetiheal 10mg Tablet | Strip of 10 tablets | Valid |
+| 248699 | Zetimax 10mg Tablet | Strip of 10 tablets | Valid |
+| 249491 | Zetica 10mg Tablet | Strip of 10 tablets | Valid |
+| 249787 | Zeticure 10 Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
+
+There are 20 valid single-ingredient registrations in total, all oral (tablets, plus one capsule product).
 
 ## Safety Considerations
 

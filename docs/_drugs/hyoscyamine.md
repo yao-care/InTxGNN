@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 417
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Hyoscyamine: predicted new indication Gastroduodenitis (evidence level L5). Approved use: Peptic ulcer disease"
 monitor_inn: "Hyoscyamine"
 predicted_indications: ["gastroduodenitis"]
@@ -74,12 +74,18 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Registration No. 103902 | Hyocimax-S Injection 1ml | Packet of 10 injections | Not stated |
-| Registration No. 26567 | Biospan 10mg Tablet | Strip of 10 tablets | Not stated |
-| Registration No. 103672 | Hyocimax-S Tablet | Strip of 10 disintegrating strips | Not stated |
-| Registration No. 75136 | Eupep Syrup | Bottle of 200 ml syrup | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 26567 | Biospan 10mg Tablet | Strip of 10 tablets | Valid |
+| 75136 | Eupep Syrup | Bottle of 200 ml Syrup | Valid |
+| 103672 | Hyocimax-S Tablet | Strip of 10 disintegrating strips | Valid |
+| 103902 | Hyocimax-S Injection 1ml | Packet of 10 injections | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

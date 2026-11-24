@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 151
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Caspofungin: predicted new indication Gastrin secretion abnormality (evidence level L5). Approved use: Esophageal candidiasis"
 monitor_inn: "Caspofungin"
 predicted_indications: ["gastrin secretion abnormality"]
@@ -70,15 +70,38 @@ Currently no related literature available.
 
 ## India Market Information
 
-Caspofungin has 20 valid single-ingredient registrations in India, all injectable vials. The five below are examples. The approved indication text is not listed for these registrations.
+Caspofungin has 20 valid single-ingredient registrations in India, all injectable vials. The approved indication text is not listed for these registrations.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| 112805 | Ibicasp 50mg Injection | Vial of 1 injection | Indiabulls Pharmaceutical Ltd |
-| 29267 | Brufungin 50 Injection | Vial of 1 injection | Brawn Laboratories Ltd |
-| 52244 | Caspercid 50mg Injection | Vial of 1 injection | Sanofi India Ltd |
-| 44817 | Casfungen 50mg Injection | Vial of 1 injection | Chandra Bhagat Pharma Pvt Ltd |
-| 106113 | Hospicasp 70mg Injection | Vial of 1 injection | Alkem Laboratories Ltd |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 9575 | Asponet 50 Injection | Vial of 1 Injection | Valid |
+| 10850 | Auxicasp 50mg Injection | Vial of 1 Injection | Valid |
+| 28901 | Brufungin 70 Injection | Vial of 1 Injection | Valid |
+| 29267 | Brufungin 50 Injection | Vial of 1 Injection | Valid |
+| 35740 | Caspogin 50mg Injection | Vial of 10 ml Injection | Valid |
+| 42065 | Casogyn 50mg Injection | Vial of 1 Injection | Valid |
+| 43914 | Capsain 50mg Injection | Vial of 10 ml Injection | Valid |
+| 44159 | Casporan 50mg Injection | Vial of 1 Injection | Valid |
+| 44817 | Casfungen 50mg Injection | Vial of 1 Injection | Valid |
+| 45540 | Casfungen 70mg Injection | Vial of 1 Injection | Valid |
+| 45947 | Capsain 70mg Injection | Vial of 10 ml Injection | Valid |
+| 47817 | Casjol 50 Injection | Vial of 1 Injection | Valid |
+| 47846 | Cancigin 70mg Injection | Vial of 1 ml Injection | Valid |
+| 49545 | Casporan 70mg Injection | Vial of 1 Injection | Valid |
+| 50491 | Capofin 70mg Injection | Vial of 1 Injection | Valid |
+| 52244 | Caspercid 50mg Injection | Vial of 1 Injection | Valid |
+| 93203 | Fungicaspin 70mg Injection | Vial of 1 Injection | Valid |
+| 106113 | Hospicasp 70mg Injection | Vial of 1 Injection | Valid |
+| 106141 | Hospicasp 50mg Injection | Vial of 1 Injection | Valid |
+| 112805 | Ibicasp 50mg Injection | Vial of 1 Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

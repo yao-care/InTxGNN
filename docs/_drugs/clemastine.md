@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Clemastine"
 predicted_indications: ["nasal cavity disease", "recalcitrant atopic dermatitis", "IgE responsiveness, atopic"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Clemastine: predicted new indication nasal cavity disease (evidence level L5). In India: 3 listed products (3 not discontinued)"
 ---
 
@@ -69,11 +69,17 @@ Currently no related literature available.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 221649 | Taregyl 0.5mg Syrup | Bottle of 30 ml syrup | Not recorded |
-| 220627 | Tavegyl Children Syrup | Bottle of 60 ml syrup | Not recorded |
-| 219496 | Taregyl 1mg Tablet | Strip of 10 tablets | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 219496 | Taregyl 1mg Tablet | Strip of 10 tablets | Valid |
+| 220627 | Tavegyl Children Syrup | Bottle of 60 ml Syrup | Valid |
+| 221649 | Taregyl 0.5mg Syrup | Bottle of 30 ml Syrup | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 All three authorizations are single-ingredient products from Novartis India Ltd and are currently valid.
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Desonide"
 predicted_indications: ["polyp of vocal cord", "polyp of middle ear", "polyp of external auditory canal", "polyp of frontal sinus", "polyp of ureter", "polyp of vulva", "fibroepithelial polyp", "neoplastic polyp", "epulis", "uterine polyp"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Desonide: predicted new indication polyp of vocal cord (evidence level L5). In India: at least 20 listed products"
 ---
 
@@ -71,15 +71,38 @@ Currently no related literature available.
 
 ## India Market Information
 
-The local data list 20 valid single-ingredient licences, and the list may be partial. Main examples:
+The local data list 20 valid single-ingredient licences, and the list may be partial.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 60479 | Desonate 0.05% Lotion | Bottle of 30 ml lotion | Not recorded |
-| 61577 | Decare Cream | Tube of 20 gm cream | Not recorded |
-| 61019 | Desoft 0.05% Cream | Tube of 10 gm cream | Not recorded |
-| 61695 | Desomag Cream | Tube of 15 gm cream | Not recorded |
-| 61939 | Desograce 0.05% Cream | Tube of 20 gm cream | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 549 | Atonide Cream | Tube of 20 gm Cream | Valid |
+| 58317 | Desowen Cream | Tube of 10 gm Cream | Valid |
+| 58804 | Dosetil Cream | Tube of 15 gm Cream | Valid |
+| 58986 | Desosoft Lotion | Bottle of 30 ml Lotion | Valid |
+| 60124 | Desotec Cream | Tube of 10 gm Cream | Valid |
+| 60235 | Desova Cream | Tube of 15 gm Cream | Valid |
+| 60447 | Desowen 0.05% Cream | Tube of 10 gm Cream | Valid |
+| 60479 | Desonate 0.05% Lotion | Bottle of 30 ml Lotion | Valid |
+| 60826 | Desomod Cream | Tube of 10 gm Cream | Valid |
+| 61019 | Desoft 0.05% Cream | Tube of 10 gm Cream | Valid |
+| 61400 | Desowill 0.05% Lotion | Bottle of 30 ml Lotion | Valid |
+| 61577 | Decare Cream | Tube of 20 gm Cream | Valid |
+| 61659 | Desoft 0.05% Lotion | Bottle of 30 ml Lotion | Valid |
+| 61695 | Desomag Cream | Tube of 15 gm Cream | Valid |
+| 61939 | Desograce 0.05% Cream | Tube of 20 gm Cream | Valid |
+| 61957 | Desoheal 0.05% Cream | Tube of 15 gm Cream | Valid |
+| 63028 | Decare Lotion | Bottle of 30 ml Lotion | Valid |
+| 64009 | Desolite 0.05% Cream | Tube of 20 gm Cream | Valid |
+| 203909 | Sysonide Cream | Tube of 10 gm Cream | Valid |
+| 218238 | Trisonide Cream | Tube of 15 gm Cream | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 536
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Methoxsalen: predicted new indication Localized pagetoid reticulosis (evidence level L5). Approved use: Primary cutaneous T-cell lymphoma (including non-Hodgkin type)"
 monitor_inn: "Methoxsalen"
 predicted_indications: ["localized pagetoid reticulosis", "neoplasm of mature B-cells", "small intestinal Burkitt lymphoma", "thyroid gland mucosa-associated lymphoid tissue lymphoma", "small intestinal mucosa-associated lymphoid tissue lymphoma", "breast mucosa-associated lymphoid tissue lymphoma", "tonsillar lymphoma", "vulvar inverted follicular keratosis"]
@@ -78,15 +78,38 @@ No literature was found for localized pagetoid reticulosis. For the related seco
 
 ## India Market Information
 
-Twenty valid single-ingredient registrations exist. The data compiled for this report contains no approved indication text for any of them. The main authorizations are:
+Twenty valid single-ingredient registrations exist. The data compiled for this report contains no approved indication text for any of them.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 138256 | Macsoralen Lotion | Bottle of 15 ml solution | Not available |
-| 201942 | Salen Capsule | Strip of 10 capsules | Not available |
-| 147728 | Misvic 10mg Tablet | Strip of 10 tablets | Not available |
-| 139157 | Maxlen 10mg Tablet | Strip of 20 tablets | Not available |
-| 133618 | Melanocyl Tablet | Strip of 40 tablets | Not available |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 28456 | Brexlene 10mg Tablet | Strip of 10 tablets | Valid |
+| 100985 | Geonocyl 10mg Tablet | Strip of 10 tablets | Valid |
+| 116106 | Kuvagold 20mg Tablet | Strip of 10 tablets | Valid |
+| 116698 | Kuvagold 10mg Tablet | Strip of 10 tablets | Valid |
+| 117230 | Kuvadex 10mg Tablet | Strip of 10 tablets | Valid |
+| 133618 | Melanocyl Tablet | Strip of 40 tablets | Valid |
+| 138256 | Macsoralen Lotion | Bottle of 15 ml Solution | Valid |
+| 139089 | Methofine 20mg Tablet | Strip of 10 tablets | Valid |
+| 139157 | Maxlen 10mg Tablet | Strip of 20 tablets | Valid |
+| 140142 | Methocard 10mg Tablet | Strip of 10 tablets | Valid |
+| 140610 | Macsorlen X 10mg Tablet | Strip of 10 tablets | Valid |
+| 141441 | Medlen 10mg Tablet | Strip of 10 tablets | Valid |
+| 142062 | Mcyl Tablet | Strip of 10 tablets | Valid |
+| 142966 | Methofine 10mg Tablet | Strip of 10 tablets | Valid |
+| 144478 | Melozar 10mg Tablet | Strip of 10 tablets | Valid |
+| 146758 | Meton 20mg Tablet | Strip of 10 tablets | Valid |
+| 147728 | Misvic 10mg Tablet | Strip of 10 tablets | Valid |
+| 201942 | Salen Capsule | Strip of 10 capsules | Valid |
+| 234683 | Vitilen 10mg Tablet | Strip of 10 tablets | Valid |
+| 237043 | Vitinic 10mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

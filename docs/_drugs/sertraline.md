@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "Sertraline"
 predicted_indications: ["histrionic personality disorder (disease)", "schizoid personality disorder", "paranoid personality disorder", "schizotypal personality disorder", "benign paroxysmal torticollis of infancy", "dependent personality disorder", "narcissistic personality disorder"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Sertraline: predicted new indication Histrionic personality disorder (disease) (evidence level L5). In India: at least 20 listed products"
 ---
 
@@ -78,15 +78,38 @@ Currently no related literature available.
 
 ## India Market Information
 
-At least 20 single-ingredient sertraline registrations were found, and the list may be partial. The five below are examples. The records do not include approved-indication text.
+At least 20 single-ingredient sertraline registrations were found, and the list may be partial. The records do not include approved-indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Registration No. 205564 | Setradox 50mg Tablet | Strip of 10 tablets | Not stated in the records |
-| Registration No. 74165 | Elesert 25 Tablet | Strip of 10 tablets | Not stated in the records |
-| Registration No. 58529 | Daxid 25mg Tablet (Pfizer Ltd) | Strip of 15 tablets | Not stated in the records |
-| Registration No. 200878 | Serlin 50mg Tablet (Zydus Cadila) | Strip of 10 tablets | Not stated in the records |
-| Registration No. 206513 | Sertane 100mg Tablet | Strip of 10 tablets | Not stated in the records |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 39363 | Cnsert 25mg Tablet | Strip of 10 tablets | Valid |
+| 58529 | Daxid 25mg Tablet | Strip of 15 tablets | Valid |
+| 65442 | Dazline 50mg Tablet | Strip of 10 tablets | Valid |
+| 73952 | Elesert 12.5 Tablet | Strip of 10 tablets | Valid |
+| 74165 | Elesert 25 Tablet | Strip of 10 tablets | Valid |
+| 125561 | Linta 50mg Tablet | Strip of 10 tablets | Valid |
+| 186793 | Rollosert 100 Tablet | Strip of 10 tablets | Valid |
+| 200878 | Serlin 50mg Tablet | Strip of 10 tablets | Valid |
+| 201032 | Sermind 100 Tablet | Strip of 10 tablets | Valid |
+| 201671 | Setmax 100 Tablet | Strip of 10 tablets | Valid |
+| 202048 | Serocare 50 Tablet | Strip of 10 tablets | Valid |
+| 202180 | Setral 25mg Tablet | Strip of 10 tablets | Valid |
+| 203515 | Sertanex 50mg Tablet | Strip of 10 tablets | Valid |
+| 203578 | Senta 25mg Tablet | Strip of 10 tablets | Valid |
+| 205342 | Serdos 50 Tablet | Strip of 10 tablets | Valid |
+| 205564 | Setradox 50mg Tablet | Strip of 10 tablets | Valid |
+| 206513 | Sertane 100mg Tablet | Strip of 10 tablets | Valid |
+| 210377 | Sertapox 100mg Tablet | Strip of 10 tablets | Valid |
+| 226204 | Tras 50mg Tablet | Strip of 10 tablets | Valid |
+| 249466 | Zedtraline 50mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ---
 

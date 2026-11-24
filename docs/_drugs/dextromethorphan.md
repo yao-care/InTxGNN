@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Dextromethorphan"
 predicted_indications: ["nasal cavity disease", "faucial diphtheria", "trigeminal autonomic cephalalgia", "cervical disc degenerative disorder", "allergic urticaria"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Dextromethorphan: predicted new indication nasal cavity disease (evidence level L5). In India: at least 20 listed products"
 ---
 
@@ -69,15 +69,36 @@ Currently no related literature available.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 203717 | Stopper SF Syrup | Bottle of 100 ml syrup | Not recorded |
-| 40361 | Corituss Syrup | Bottle of 100 ml syrup | Not recorded |
-| 46599 | Cozia Tablet | Strip of 10 tablets | Not recorded |
-| 73684 | Endkuf SF Syrup | Bottle of 100 ml syrup | Not recorded |
-| 94831 | Glycodin Syrup | Bottle of 100 ml syrup | Not recorded |
+<!-- licenses:begin -->
 
-These are 5 of at least 20 valid single-ingredient registrations; the record may be partial.
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 26256 | Bro Cofdex Plus Syrup | Bottle of 100 ml Syrup | Valid |
+| 40361 | Corituss Syrup | Bottle of 100 ml Syrup | Valid |
+| 46599 | Cozia Tablet | Strip of 10 tablets | Valid |
+| 58356 | DMR 30mg Tablet | Strip of 10 tablets | Valid |
+| 59260 | Deroxy P Syrup | Bottle of 100 ml Syrup | Valid |
+| 59937 | DMR 10mg Tablet | Strip of 10 tablets | Valid |
+| 63178 | Dexpro Syrup | Bottle of 100 ml Syrup | Valid |
+| 65055 | Dezex 5mg Tablet | Strip of 10 tablets | Valid |
+| 73684 | Endkuf SF Syrup | Bottle of 100 ml Syrup | Valid |
+| 94831 | Glycodin Syrup | Bottle of 100 ml Syrup | Valid |
+| 116047 | Kofrid D Syrup | Bottle of 100 ml Syrup | Valid |
+| 146035 | Medkuff 15mg/5mg Tablet | Strip of 10 tablets | Valid |
+| 156721 | Novamine P Syrup | Bottle of 60 ml Syrup | Valid |
+| 200456 | Sudin D Syrup | Bottle of 100 ml Syrup | Valid |
+| 203717 | Stopper SF Syrup | Bottle of 100 ml Syrup | Valid |
+| 219856 | Terp D Syrup | Bottle of 100 ml Syrup | Valid |
+| 225580 | Tixy Soft 10 mg/100 mg Capsule | Strip of 4 capsules | Valid |
+| 225601 | Trigenic-CS Syrup | Bottle of 60 ml Syrup | Valid |
+| 244962 | Xing Cuf Syrup | Bottle of 100 ml Syrup | Valid |
+| 252722 | Zealtus Syrup | Bottle of 100 ml Syrup | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

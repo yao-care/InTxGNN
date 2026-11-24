@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 89
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Baclofen: predicted new indication Attention deficit-hyperactivity disorder (evidence level L5). Approved use: Not stated in the licence records (baclofen is generally known as a s…"
 monitor_inn: "Baclofen"
 predicted_indications: ["attention deficit-hyperactivity disorder", "nicotine dependence"]
@@ -79,15 +79,38 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-Baclofen has 20 valid single-ingredient registrations, all oral (tablets, extended-release tablets and capsules). The records list no approved indication text. Five main authorizations:
+Baclofen has 20 valid single-ingredient registrations, all oral (tablets, extended-release tablets and capsules). The records list no approved indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 31310 | Batlin 10mg Tablet | Tablet (strip of 10) | Not stated in the licence record |
-| 149617 | Mesifen 20mg Tablet XL | Extended-release tablet (strip of 10) | Not stated in the licence record |
-| 122003 | Liofen 40mg Capsule XL | Extended-release capsule (strip of 10) | Not stated in the licence record |
-| 30634 | Baclonip 10mg Tablet | Tablet (strip of 10) | Not stated in the licence record |
-| 44208 | Chinofen 10mg Tablet | Tablet (strip of 3) | Not stated in the licence record |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 25755 | Baclof 10 Tablet | Strip of 10 tablets | Valid |
+| 26328 | Baclof 25 Tablet | Strip of 10 tablets | Valid |
+| 27143 | Baclodol 10mg Tablet | Strip of 10 tablets | Valid |
+| 27781 | Bac 10mg Tablet | Strip of 10 tablets | Valid |
+| 28545 | Baclovin 10mg Tablet | Strip of 10 tablets | Valid |
+| 28675 | Baclan 10mg Tablet | Strip of 10 tablets | Valid |
+| 29136 | Baclofit SR 30 Capsule | Strip of 10 capsule er | Valid |
+| 30029 | B Fen 20mg Tablet ER | Strip of 10 tablet er | Valid |
+| 30031 | Bolofen 5mg Tablet | Strip of 10 tablets | Valid |
+| 30634 | Baclonip 10mg Tablet | Strip of 10 tablets | Valid |
+| 31310 | Batlin 10mg Tablet | Strip of 10 tablets | Valid |
+| 33380 | Bacloril 10mg Tablet | Strip of 10 tablets | Valid |
+| 44208 | Chinofen 10mg Tablet | Strip of 3 tablets | Valid |
+| 56634 | Cenbaclo 10mg Tablet | Strip of 10 tablets | Valid |
+| 120997 | Liofen XL 20 Capsule | Strip of 10 capsule er | Valid |
+| 122003 | Liofen 40mg Capsule XL | Strip of 10 capsule xl | Valid |
+| 124028 | Liofast 10mg Tablet | Strip of 10 tablets | Valid |
+| 126810 | Lobaset-XL 20 Tablet PR | Strip of 10 Tablet pr | Valid |
+| 149617 | Mesifen 20mg Tablet XL | Strip of 10 tablet xl | Valid |
+| 202533 | Superfen-BL Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

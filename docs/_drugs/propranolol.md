@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 708
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Propranolol"
 predicted_indications: ["distal myopathy, Tateyama type", "congenital myopathy with excess of thin filaments", "chondroma", "cirrhotic cardiomyopathy"]
 description: "Propranolol: predicted new indication Distal myopathy, Tateyama type (evidence level L5). In India: at least 20 listed products"
@@ -106,15 +106,44 @@ Most of the cardiomyopathy literature concerns hypertrophic cardiomyopathy, whic
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 68981 | DavaIndia Propranolol 40mg Tablet | Strip of 10 tablets | Not stated in the licence record |
-| 164232 | Oslol 10 Tablet | Strip of 10 tablets | Not stated in the licence record |
-| 39327 | Capinol LA 40mg Tablet | Strip of 10 tablets | Not stated in the licence record |
-| 175129 | Provanol SR 60 Tablet | Strip of 10 sustained-release tablets | Not stated in the licence record |
-| 25747 | Betacap TR 40 Capsule | Strip of 10 prolonged-release capsules | Not stated in the licence record |
+<!-- licenses:begin -->
 
-All 20 registrations are valid single-ingredient products; none are cancelled. Some are fixed combinations or low-dose variants, as their names suggest (for example Megcool F, Flunorm P and Zeflurin Plus). All are oral formulations.
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 25747 | Betacap TR 40 Capsule | Strip of 10 capsule pr | Valid |
+| 25802 | Betacap 20 Tablet | Strip of 10 tablets | Valid |
+| 27459 | Betasag 20mg Tablet | Strip of 10 tablets | Valid |
+| 29801 | Betabris LA 40mg Tablet ER | Strip of 10 tablet er | Valid |
+| 39327 | Capinol LA 40mg Tablet | Strip of 10 tablets | Valid |
+| 48271 | Cenopran 40mg Tablet SR | Strip of 10 tablet sr | Valid |
+| 68981 | DavaIndia Propranolol 40mg Tablet | Strip of 10 tablets | Valid |
+| 87006 | Flunorm P 20mg/10mg Tablet | Strip of 15 tablets | Valid |
+| 137726 | Migradon-F Tablet SR | Strip of 10 tablet sr | Valid |
+| 148270 | Megcool F 40mg/10mg Tablet | Strip of 10 tablets | Valid |
+| 151074 | Norten 20mg Tablet | Strip of 10 tablets | Valid |
+| 157530 | Nigrain Lite Tablet SR | Strip of 10 tablet sr | Valid |
+| 164232 | Oslol 10 Tablet | Strip of 10 tablets | Valid |
+| 174779 | Pronol 10mg Tablet | Strip of 15 tablets | Valid |
+| 175129 | Provanol SR 60 Tablet | Strip of 10 tablet sr | Valid |
+| 177437 | Pilol 40mg Tablet | Strip of 10 tablets | Valid |
+| 177647 | Pop 20mg Tablet | Strip of 10 tablets | Valid |
+| 238409 | Vasbor 20mg Tablet SR | Strip of 10 tablet sr | Valid |
+| 241869 | Walbeta LA 40mg Tablet | Strip of 10 tablets | Valid |
+| 253006 | Zeflurin Plus 40mg/10mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
+
+All 20 registrations are valid products; none are cancelled. Some are fixed combinations or low-dose variants, as their names suggest (for example Megcool F, Flunorm P and Zeflurin Plus). All are oral formulations.
+
+<!-- review:begin in-lic-20261124-propranolol-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "All 20 registrations are valid single-ingredient products; none are cancelled." Removed: it described the products as single-ingredient (or as having no combination products), which does not match the Indian medicine data (the Indian Medicine Dataset): some of the recorded products are fixed-dose combinations. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124-propranolol-1 -->
 
 ---
 
@@ -154,11 +183,12 @@ The top prediction, distal myopathy of the Tateyama type, rests on a model score
 
 ## Review Log
 
-Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Inderal Xl (propranolol hydrochloride) prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ac196ff5-9215-402b-bc57-69aa87f8bade) |
+| 2026-11-24 | Removed: the single-ingredient claim | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 

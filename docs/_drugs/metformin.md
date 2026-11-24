@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Metformin"
 predicted_indications: ["classic stiff person syndrome", "focal stiff limb syndrome", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Metformin: predicted new indication Classic stiff person syndrome (evidence level L5). Approved use: Type 2 diabetes mellitus"
 ---
 
@@ -80,15 +80,38 @@ Currently no related literature available.
 
 ## India Market Information
 
-At least 20 valid licences are recorded for metformin-containing products, and the list may be partial. None of the licence records includes approved indication text. Up to 5 are shown below.
+At least 20 valid licences are recorded for metformin-containing products, and the list may be partial. None of the licence records includes approved indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 195976 | Ramyglyn M 500mg/20mg Tablet | Strip of 10 tablets | Not stated in the licence record |
-| 94183 | Galvus Met 50mg/500mg Tablet | Strip of 15 tablets | Not stated in the licence record |
-| 75709 | Endoformin 1000mg Tablet SR | Strip of 10 sustained-release tablets | Not stated in the licence record |
-| 226264 | Tenlivas M 1000mg/20mg Tablet ER | Strip of 10 extended-release tablets | Not stated in the licence record |
-| 81184 | Efiglin-M 1000 Tablet SR | Strip of 15 sustained-release tablets | Not stated in the licence record |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 33584 | Bigovas 1000mg Tablet SR | Strip of 10 tablet sr | Valid |
+| 75709 | Endoformin 1000mg Tablet SR | Strip of 10 tablet sr | Valid |
+| 79356 | Evog-M 500mg/0.3mg Tablet | Strip of 10 tablets | Valid |
+| 81184 | Efiglin-M 1000 Tablet SR | Strip of 15 tablet sr | Valid |
+| 94183 | Galvus Met 50mg/500mg Tablet | Strip of 15 tablets | Valid |
+| 100079 | Glucomate 1000mg Tablet XR | Strip of 10 tablet xr | Valid |
+| 148204 | Metforise 1000mg Tablet | Strip of 10 tablets | Valid |
+| 148444 | Mendformin 1000 SR Tablet | Strip of 10 tablet sr | Valid |
+| 195976 | Ramyglyn M 500mg/20mg Tablet | Strip of 10 tablets | Valid |
+| 197393 | Roftem 1000mg Tablet SR | Strip of 10 tablet sr | Valid |
+| 206950 | Susmet 1000mg Tablet SR | Strip of 10 tablet sr | Valid |
+| 208046 | Stenglip M 500mg/20mg Tablet | Strip of 10 tablets | Valid |
+| 210077 | StayHappi Metformin 500mg Tablet | Strip of 10 tablets | Valid |
+| 215983 | Torglip M SR 500 Tablet | Strip of 10 tablet sr | Valid |
+| 218703 | Tendium-M Tablet PR | Strip of 10 Tablet pr | Valid |
+| 226264 | Tenlivas M 1000mg/20mg Tablet ER | Strip of 10 tablet er | Valid |
+| 226928 | Tegnem M 500mg/20mg Tablet SR | Strip of 10 tablet sr | Valid |
+| 238167 | Volimet 500mg/0.2mg Tablet | Strip of 10 tablets | Valid |
+| 238479 | Vilcon-M 500 Tablet SR | Strip of 10 tablet sr | Valid |
+| 238529 | Vildasung M 850mg/50mg Tablet | Strip of 15 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 All listed forms are oral.
 

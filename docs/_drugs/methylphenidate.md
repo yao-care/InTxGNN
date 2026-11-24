@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 540
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Methylphenidate: predicted new indication Faciodigitogenital syndrome (evidence level L5). Approved use: Attention deficit hyperactivity disorder (ADHD), narcolepsy"
 monitor_inn: "Methylphenidate"
 predicted_indications: ["faciodigitogenital syndrome", "chondromyxoid fibroma", "specific developmental disorder", "dysthymic disorder"]
@@ -106,15 +106,38 @@ Literature for dysthymic disorder (indirect):
 
 ## India Market Information
 
-Methylphenidate has 20 valid single-ingredient registrations in India (no combination products, none cancelled). The data compiled for this report contain no approved-indication text for these licenses. The main ones are:
+Methylphenidate has 20 valid single-ingredient registrations in India (no combination products, none cancelled). The data compiled for this report contain no approved-indication text for these licenses.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| 36204 | Concerta 36mg Tablet | Strip of 30 tablets | Johnson & Johnson Ltd |
-| 34666 | Concerta 18mg Tablet | Strip of 30 tablets | Johnson & Johnson Ltd |
-| 37145 | Concerta 54mg Tablet | Strip of 30 tablets | Johnson & Johnson Ltd |
-| 107767 | Inspiral 10mg Tablet SR | Strip of 10 tablets SR | Ipca Laboratories Ltd |
-| 881 | Addwize OD 18mg Tablet | Strip of 10 tablets | Sun Pharmaceutical Industries Ltd |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 298 | Addwize 10mg Tablet | Strip of 10 tablets | Valid |
+| 881 | Addwize OD 18mg Tablet | Strip of 10 tablets | Valid |
+| 34666 | Concerta 18mg Tablet | Strip of 30 tablets | Valid |
+| 36204 | Concerta 36mg Tablet | Strip of 30 tablets | Valid |
+| 37145 | Concerta 54mg Tablet | Strip of 30 tablets | Valid |
+| 44422 | Clifpred 4mg Tablet | Strip of 10 tablets | Valid |
+| 107767 | Inspiral 10mg Tablet SR | Strip of 10 tablet sr | Valid |
+| 107816 | Inspiral 5mg Tablet | Strip of 10 tablets | Valid |
+| 107921 | Inspiral 20mg Tablet | Strip of 10 tablets | Valid |
+| 107928 | Inspiral 20mg Tablet SR | Strip of 10 tablet sr | Valid |
+| 134294 | Meth OD 10mg Tablet | Strip of 10 tablets | Valid |
+| 134580 | Mdet 5mg Tablet | Strip of 10 tablets | Valid |
+| 135211 | Mdet 10mg Tablet SR | Strip of 10 tablet sr | Valid |
+| 135277 | Mdet 10mg Tablet | Strip of 10 tablets | Valid |
+| 135592 | Meth OD 20mg Tablet | Strip of 10 tablets | Valid |
+| 149776 | Methmild 20mg Tablet SR | Strip of 10 tablet sr | Valid |
+| 187110 | Ritazral Hynidate 5mg Tablet | Strip of 10 tablets | Valid |
+| 188123 | Ritazral Hynidate 10mg Tablet | Strip of 10 tablets | Valid |
+| 193700 | Ritazral Hynidate 10mg Tablet ER | Strip of 10 tablet er | Valid |
+| 195586 | Ritazral Hynidate 20mg Tablet ER | Strip of 10 tablet er | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 All forms are oral tablets (immediate-release, sustained-release and extended-release).
 

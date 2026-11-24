@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 238
 evidence_level: L4
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Deferasirox: predicted new indication HIV infectious disease (evidence level L4). Approved use: Beta-thalassemia and related hemoglobinopathies (hereditary persisten…"
 monitor_inn: "Deferasirox"
 predicted_indications: ["HIV infectious disease", "chronic hepatitis C virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "dermatofibrosarcoma protuberans"]
@@ -85,15 +85,32 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-Approved indication text is not available in the licence records compiled for this report. Five of the 16 valid registrations (all single-ingredient products) are listed below.
+Approved indication text is not available in the licence records compiled for this report.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Registration No. 165829 | Oleptiss 90mg Tablet DT | Strip of 10 dispersible tablets | Not available |
-| Registration No. 61741 | Desifer 100 Tablet | Strip of 6 tablets | Not available |
-| Registration No. 58643 | Desirox 500 Tablet | Bottle of 30 tablets | Not available |
-| Registration No. 62683 | Defrijet FCT 180 Tablet | Strip of 10 tablets | Not available |
-| Registration No. 1251 | Asunra 400mg Tablet | Strip of 6 tablets | Not available |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 1251 | Asunra 400mg Tablet | Strip of 6 tablets | Valid |
+| 3952 | Asunra 100mg Tablet | Strip of 6 tablets | Valid |
+| 58643 | Desirox 500 Tablet | Bottle of 30 tablets | Valid |
+| 58940 | Defrijet 500 Tablet | Strip of 10 tablets | Valid |
+| 59331 | Desirox 250mg Tablet | Strip of 30 tablets | Valid |
+| 59785 | Desifer 400 Tablet | Strip of 6 tablets | Valid |
+| 61741 | Desifer 100 Tablet | Strip of 6 tablets | Valid |
+| 62683 | Defrijet FCT 180 Tablet | Strip of 10 tablets | Valid |
+| 64188 | Deferglob 500mg Tablet | Strip of 10 tablets | Valid |
+| 67615 | Deferataj 500mg Tablet DT | Strip of 10 tablet dt | Valid |
+| 67919 | Deferataj 125mg Tablet DT | Strip of 10 tablet dt | Valid |
+| 68678 | Deferglob 250mg Tablet | Strip of 10 tablets | Valid |
+| 71385 | Deferataj 250mg Tablet DT | Strip of 10 tablet dt | Valid |
+| 163552 | Oleptiss 360mg Tablet DT | Strip of 10 tablet dt | Valid |
+| 165829 | Oleptiss 90mg Tablet DT | Strip of 10 tablet dt | Valid |
+| 169184 | Oleptiss 180mg Tablet DT | Strip of 10 tablet dt | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 All dosage forms are oral.
 

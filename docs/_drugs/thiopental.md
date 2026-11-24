@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 831
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 monitor_inn: "Thiopental"
 predicted_indications: ["trichotillomania", "Prinzmetal angina", "migraine disorder", "Tourette syndrome", "migraine with brainstem aura", "obsolete bundle branch block", "substance abuse/dependence", "nephrogenic syndrome of inappropriate antidiuresis"]
 description: "Thiopental: predicted new indication Trichotillomania (evidence level L5). In India: 12 listed products (12 not discontinued)"
@@ -73,7 +73,6 @@ Currently no related clinical trials registered.
 
 Currently no related literature available for trichotillomania.
 
-
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
 | [8223422](https://pubmed.ncbi.nlm.nih.gov/8223422/) | 1993 | Cohort | Epilepsy Research | Thiopental test in 103 epilepsy surgery patients, using EEG beta activity and interictal spiking to localise dysfunction |
@@ -83,15 +82,28 @@ Currently no related literature available for trichotillomania.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 110258 | Intraval Sodium Injection | Vial of 1 Injection | Not specified |
-| 223869 | Thioz 500mg Infusion | Bottle of 1 Infusion | Not specified |
-| 226180 | Thioz 1gm Injection | Vial of 1 Injection | Not specified |
-| 111797 | Ithiofast Injection | Vial of 1 Injection | Not specified |
-| 220518 | Thipen 500mg Injection | Vial of 1 Injection | Not specified |
+<!-- licenses:begin -->
 
-All 12 registrations are valid single-ingredient injectable or infusion products. The five listed here are the main examples.
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 15634 | Anesthal 500mg Injection | Vial of 5 ml Injection | Valid |
+| 17255 | Anesthal 1gm Injection | Vial of 20 ml Injection | Valid |
+| 110258 | Intraval Sodium Injection | Vial of 1 Injection | Valid |
+| 111797 | Ithiofast Injection | Vial of 1 Injection | Valid |
+| 175466 | Pentothal Injection | Vial of 2 ml Injection | Valid |
+| 216103 | Thiopental 500mg Injection | Vial of 1 Injection | Valid |
+| 219251 | Thiopental 1gm Injection | Vial of 1 Injection | Valid |
+| 220518 | Thipen 500mg Injection | Vial of 1 Injection | Valid |
+| 223869 | Thioz 500mg Infusion | Bottle of 1 Infusion | Valid |
+| 223873 | Thipen 1gm Injection | Vial of 1 Injection | Valid |
+| 225837 | Thiotal 500mg Injection | Vial of 3 ml Injection | Valid |
+| 226180 | Thioz 1gm Injection | Vial of 1 Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
+
+All 12 registrations are valid single-ingredient injectable or infusion products.
 
 ## Safety Considerations
 

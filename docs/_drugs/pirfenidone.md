@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 678
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Pirfenidone"
 predicted_indications: ["extracutaneous mastocytoma", "dermatofibrosarcoma protuberans", "aggressive systemic mastocytosis", "heart fibrosarcoma", "conventional fibrosarcoma", "autosomal recessive familial Mediterranean fever", "kidney fibrosarcoma", "hepatic infarction", "fibroblastic neoplasm", "low grade fibromyxoid sarcoma"]
 description: "Pirfenidone: predicted new indication Extracutaneous mastocytoma (evidence level L5). In India: at least 20 listed products"
@@ -93,15 +93,38 @@ For context, the only predicted indication in the data with any literature is ra
 
 ## India Market Information
 
-Pirfenidone is marketed in India as single-ingredient oral tablets (20 valid registrations, none cancelled). Approved indication text is not available for these registrations. Five of the main authorizations are shown below:
+Pirfenidone is marketed in India as single-ingredient oral tablets (20 valid registrations, none cancelled). Approved indication text is not available for these registrations.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| 173786 | Pirfenex Tablet | Strip of 15 tablets | Cipla Ltd |
-| 84944 | Fibrodone 400mg Tablet | Strip of 10 tablets | Lupin Ltd |
-| 178901 | Pirfetab 267 Tablet | Strip of 10 tablets | Zydus Cadila |
-| 174682 | Pirfact 801 Tablet | Strip of 10 tablets | Sun Pharmaceutical Industries Ltd |
-| 175189 | Pulmofib 801mg Tablet | Strip of 10 tablets | MSN Laboratories |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 84656 | Fibrodone 801mg Tablet | Strip of 10 tablets | Valid |
+| 84944 | Fibrodone 400mg Tablet | Strip of 10 tablets | Valid |
+| 173786 | Pirfenex Tablet | Strip of 15 tablets | Valid |
+| 173885 | Pirfenex 600mg Tablet | Strip of 15 tablets | Valid |
+| 173927 | Pirfenex 400mg Tablet | Strip of 15 tablets | Valid |
+| 174618 | Pulmofib 200mg Tablet | Strip of 10 tablets | Valid |
+| 174638 | Pirfetab Tablet | Strip of 10 tablets | Valid |
+| 174682 | Pirfact 801 Tablet | Strip of 10 tablets | Valid |
+| 174925 | Pirfemac 200mg Tablet | Strip of 10 tablets | Valid |
+| 174938 | Pirfemac 400 Tablet | Strip of 10 tablets | Valid |
+| 175189 | Pulmofib 801mg Tablet | Strip of 10 tablets | Valid |
+| 175353 | Pirfetab 801mg Tablet | Strip of 10 tablets | Valid |
+| 176763 | Pulmofib 267mg Tablet | Strip of 10 tablets | Valid |
+| 177813 | Pirfeheal 200mg Tablet | Strip of 10 tablets | Valid |
+| 178901 | Pirfetab 267 Tablet | Strip of 10 tablets | Valid |
+| 181340 | Pirmax 200 Tablet | Strip of 10 tablets | Valid |
+| 181855 | Pirfedo 200mg Tablet | Strip of 10 tablets | Valid |
+| 181983 | Pirfib 400 Tablet | Strip of 10 tablets | Valid |
+| 182060 | Pfend 200mg Tablet | Strip of 15 tablets | Valid |
+| 203667 | Spiropirf Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ---
 

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 762
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Salicylic acid"
 predicted_indications: ["papillary conjunctivitis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "rosacea conjunctivitis", "acromesomelic dysplasia, Hunter-Thompson type", "pseudoachondroplasia", "myosclerosis", "brachyolmia"]
 description: "Salicylic Acid: predicted new indication Papillary conjunctivitis (evidence level L5). In India: at least 20 listed products"
@@ -82,15 +82,38 @@ Currently no related literature available.
 
 ## India Market Information
 
-There are 20 valid single-ingredient registrations and no cancelled ones. The main five are listed below. Approved indication text is not recorded in the licence data.
+There are 20 valid single-ingredient registrations and no cancelled ones. Approved indication text is not recorded in the licence data.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 89442 | Furr 20% Vitamin C Skin Face Serum | Serum, 30 ml bottle | Not recorded |
-| 88999 | Furr 2% Salicylic Anti Acne Face Serum | Serum, 30 ml bottle | Not recorded |
-| 234301 | Vedasol 30mg Gel (Cipla Ltd) | Gel, 60 g tube | Not recorded |
-| 31996 | Benzosil Ointment | Ointment, 25 g tube | Not recorded |
-| 201510 | SA 20 Ointment | Ointment, 25 g tube | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 23440 | Antichy Ointment | Tube of 15 gm Ointment | Valid |
+| 31996 | Benzosil Ointment | Tube of 25 gm Ointment | Valid |
+| 59379 | Dersol 6% Ointment | Tube of 25 gm Ointment | Valid |
+| 60595 | Dersol 3% Ointment | Tube of 25 gm Ointment | Valid |
+| 72627 | Epiwart Solution | Bottle of 15 ml Solution | Valid |
+| 77026 | Eremis 2% Face Wash | Tube of 60 ml Face Wash | Valid |
+| 88999 | Furr FURR 2% Salicylic Anti Acne Face Serum | Bottle of 30 ml Serum | Valid |
+| 89442 | Furr 20% Vitamin C Skin Face Serum | Bottle of 30 ml Serum | Valid |
+| 99205 | Galenus Salizoic DS Ointment | Tube of 30 gm Ointment | Valid |
+| 118043 | Kerosalic Foaming Face Wash | Pump bottle of 100 ml Face Wash | Valid |
+| 137547 | Minoz S Face Wash pH 5.5 | Bottle of 50 ml Face Wash | Valid |
+| 200305 | Salicure Ointment | Tube of 30 gm Ointment | Valid |
+| 200334 | SLC Face Wash | Tube of 50 gm Face Wash | Valid |
+| 200983 | Saliderm Ointment | Tube of 20 gm Ointment | Valid |
+| 201510 | SA 20 Ointment | Tube of 25 gm Ointment | Valid |
+| 201818 | Salilac SF Ointment | Tube of 20 gm Ointment | Valid |
+| 202401 | Saliderm CL Face Wash | Tube of 60 gm Face Wash | Valid |
+| 202495 | Siliryl Ointment | Tube of 25 gm Ointment | Valid |
+| 204837 | Salisis 6% Ointment | Tube of 15 gm Ointment | Valid |
+| 234301 | Vedasol 30mg Gel | Tube of 60 gm Gel | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ---
 

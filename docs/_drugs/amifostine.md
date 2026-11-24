@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 47
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Amifostine: predicted new indication Hypertensive disorder (evidence level L4). Approved use: Not stated in the available licence records (the drug is known as a c…"
 monitor_inn: "Amifostine"
 drugbank_id: DB01143
@@ -97,13 +97,22 @@ None of these studies tested amifostine as a treatment for hypertension.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 13570 | Amiget 500mg Injection | Vial of 5 ml injection | Not stated |
-| 14477 | Amiphos 500mg Injection | Vial of 1 injection | Not stated |
-| 145409 | M-Fost 500mg Injection | Vial of 1 injection | Not stated |
-| 157917 | Natfost 500mg Injection | Vial of 1 injection | Not stated |
-| 54035 | Chemophos 500mg Injection | Vial of 1 injection | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 13570 | Amiget 500mg Injection | Vial of 5 ml Injection | Valid |
+| 14477 | Amiphos 500mg Injection | Vial of 1 Injection | Valid |
+| 45421 | Cytofos 500mg Injection | Vial of 1 Injection | Valid |
+| 54035 | Chemophos 500mg Injection | Vial of 1 Injection | Valid |
+| 80029 | Ethyol 500mg Injection | Vial of 1 ml Injection | Valid |
+| 81946 | Ethyfos 500mg Injection | Vial of 1 Injection | Valid |
+| 145409 | M-Fost 500mg Injection | Vial of 1 Injection | Valid |
+| 157917 | Natfost 500mg Injection | Vial of 1 Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 There are 8 valid single-ingredient registrations in total, all injectables.
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Almotriptan"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Almotriptan: predicted new indication atrophoderma vermiculata (evidence level L5). In India: 6 listed products (6 not discontinued)"
 ---
 
@@ -70,15 +70,22 @@ Currently no related literature available.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 1265 | Almotan 6.25 Tablet | Strip of 4 tablets | Not recorded |
-| 17044 | Almigra 6.25mg Tablet | Strip of 4 tablets | Not recorded |
-| 5657 | Almogril 12.5mg Tablet | Strip of 10 tablets | Not recorded |
-| 9291 | Amlotan 6.25mg Tablet | Strip of 4 tablets | Not recorded |
-| 8436 | Almogril 6.25mg Tablet | Strip of 10 tablets | Not recorded |
+<!-- licenses:begin -->
 
-All six registered single-ingredient licences are valid; the table lists the first five.
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 1265 | Almotan 6.25 Tablet | Strip of 4 tablets | Valid |
+| 1638 | Almotan 12.5 Tablet | Strip of 4 tablets | Valid |
+| 5657 | Almogril 12.5mg Tablet | Strip of 10 tablets | Valid |
+| 8436 | Almogril 6.25mg Tablet | Strip of 10 tablets | Valid |
+| 9291 | Amlotan 6.25mg Tablet | Strip of 4 tablets | Valid |
+| 17044 | Almigra 6.25mg Tablet | Strip of 4 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
+
+All six registered single-ingredient licences are valid.
 
 ## Safety Considerations
 

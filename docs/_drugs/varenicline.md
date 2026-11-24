@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 883
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 description: "Varenicline: predicted new indication Migraine disorder (evidence level L5). Approved use: Not stated in the data compiled for this report"
 monitor_inn: "Varenicline"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "congenital hypotrichosis milia", "hypotrichosis simplex of the scalp", "diffuse alopecia areata", "alopecia", "open-angle glaucoma", "primary hereditary glaucoma", "headache disorder", "pulmonary hypertension"]
@@ -72,9 +72,15 @@ Related headache searches also returned smoking-cessation studies. None evaluate
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 150993 | Nocrav 1mg Tablet (Lyf Healthcare) | Strip of 10 tablets | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 150993 | Nocrav 1mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

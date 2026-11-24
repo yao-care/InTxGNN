@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Dactinomycin"
 predicted_indications: ["relapsing-remitting multiple sclerosis", "liver sarcoma", "upper aerodigestive tract neoplasm", "head and neck cancer"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Dactinomycin: predicted new indication relapsing-remitting multiple sclerosis (evidence level L5). In India: 6 listed products (6 not discontinued)"
 ---
 
@@ -80,13 +80,20 @@ Currently no related literature available.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 223232 | Tinowel 0.5mg Injection | vial of 1 Injection | Not recorded |
-| 65406 | Dactinoget 0.5mg Injection | vial of 1 Powder for Injection | Not recorded |
-| 3963 | Actinocin 0.5mg Injection | vial of 1 Injection | Not recorded |
-| 43141 | Cosmegen 0.5mg Injection | vial of 1 ml Injection | Not recorded |
-| 67103 | Dacmozen 0.5mg Injection | vial of 2 ml Injection | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 3963 | Actinocin 0.5mg Injection | Vial of 1 Injection | Valid |
+| 43141 | Cosmegen 0.5mg Injection | Vial of 1 ml Injection | Valid |
+| 65406 | Dactinoget 0.5mg Injection | Vial of 1 Powder for Injection | Valid |
+| 67103 | Dacmozen 0.5mg Injection | Vial of 2 ml Injection | Valid |
+| 69105 | Dactino 0.5mg Injection | Vial of 1 Injection | Valid |
+| 223232 | Tinowel 0.5mg Injection | Vial of 1 Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ---
 

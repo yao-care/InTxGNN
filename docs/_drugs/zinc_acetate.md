@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 904
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Zinc acetate"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "bronchitis", "diabetic retinopathy", "acrodermatitis chronica atrophicans", "neonatal dermatomyositis", "acne keloid", "hydroa vacciniforme, familial", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "amyopathic dermatomyositis", "urinary tract infection (disease)"]
 description: "Zinc Acetate: predicted new indication Severe nonproliferative diabetic retinopathy (evidence level L5). In India: 8 listed products (8 not discontinued)"
@@ -72,19 +72,28 @@ Currently no related literature available.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 47176 | Coverdoz 50mg/100mg/12mg Kit | Kit (box of 1) | Not stated in the records |
-| 246747 | Ziverdo Kit | Kit (box of 1) | Not stated in the records |
-| 247671 | Zincovec 50 Tablet | Tablet (strip of 10) | Not stated in the records |
-| 105716 | HI ZN Syrup | Syrup (60 ml bottle) | Not stated in the records |
-| 248054 | Zia Syrup | Syrup (100 ml bottle) | Not stated in the records |
+<!-- licenses:begin -->
 
-All 8 registrations are valid products, and none is cancelled. Only the first 5 are shown above.
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 6636 | Actozinc Syrup | Bottle of 100 ml Oral Solution | Valid |
+| 47176 | Coverdoz 50mg/100mg/12mg Kit | Box of 1 Kit | Valid |
+| 105716 | HI ZN Syrup | Bottle of 60 ml Syrup | Valid |
+| 109846 | Imuzinc Syrup | Bottle of 100 ml Syrup | Valid |
+| 246747 | Ziverdo Kit | Box of 1 Kit | Valid |
+| 247671 | Zincovec 50 Tablet | Strip of 10 tablets | Valid |
+| 248054 | Zia Syrup | Bottle of 100 ml Syrup | Valid |
+| 250704 | Zia Syrup | Bottle of 50 ml Syrup | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
+
+All registrations are valid products, and none is cancelled.
 
 <!-- review:begin in-lic-20261106-zinc_acetate-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "All 8 registrations are valid single-ingredient products, and none is cancelled." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+> **Review correction (2026-11-24)**: Originally stated: "All 8 registrations are valid single-ingredient products, and none is cancelled." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Revised 2026-11-24: the hard-coded number of records and the wording about the old table were dropped; the Quick Overview and the product table under India Market Information show the current figures. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
 
 <!-- review:end in-lic-20261106-zinc_acetate-1 -->
 
@@ -125,7 +134,7 @@ Below is the review log for this page: statements checked against official India
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-24 | Removed: "single-ingredient" | Corrected (revised 2026-11-24; earlier version kept in the record) | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 | 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: zinc sulfate prescribing information, Camber Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=49698d00-f44b-4b1f-ae34-6b9067911757) |
 
 <!-- review:end log -->

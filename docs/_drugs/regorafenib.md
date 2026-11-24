@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 732
 evidence_level: L2
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Regorafenib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "clear cell renal carcinoma", "renal cell carcinoma associated with neuroblastoma", "renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions", "unclassified renal cell carcinoma", "childhood kidney cell carcinoma", "vulva sarcoma"]
 description: "Regorafenib: predicted new indication Liposarcoma (evidence level L2). In India: 2 listed products (2 not discontinued)"
@@ -78,10 +78,16 @@ The randomized Phase 2 REGOSARC trial showed benefit in non-adipocytic soft tiss
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 152519 | Nublexa Tablet (Bayer Zydus Pharma Pvt Ltd) | Strip of 28 tablets | Not recorded |
-| 185007 | Regonat Tablet (Natco Pharma Ltd) | Bottle of 28 tablets | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 152519 | Nublexa Tablet | Strip of 28 tablets | Valid |
+| 185007 | Regonat Tablet | Bottle of 28 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

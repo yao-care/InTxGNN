@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 171
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Chlordiazepoxide: predicted new indication Insomnia (disease) (evidence level L5). Approved use: Anxiety, alcohol withdrawal, peptic ulcer disease…"
 monitor_inn: "Chlordiazepoxide"
 predicted_indications: ["insomnia (disease)", "cauda equina syndrome", "obsolete neurogenic bladder (disease)", "attention deficit hyperactivity disorder, inattentive type", "specific developmental disorder", "sleep disorder, initiating and maintaining sleep", "antidepressant type abuse", "hallucinogen abuse", "barbiturate abuse", "myofascial pain syndrome"]
@@ -87,15 +87,38 @@ Indirect evidence from the related prediction "sleep disorder, initiating and ma
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 48889 | Cinipox 5mg/2.5mg Tablet | Strip of 10 tablets | Not specified |
-| 74519 | Ebrium 10mg Tablet | Strip of 10 tablets | Not specified |
-| 72340 | Equirex Tablet | Strip of 10 tablets | Not specified |
-| 47480 | Cdprex 10mg Tablet | Strip of 10 tablets | Not specified |
-| 204193 | Sledge 5mg/2.5mg Tablet | Strip of 10 tablets | Not specified |
+<!-- licenses:begin -->
 
-In total, 20 valid single-ingredient oral tablet registrations were found; the five above are shown as examples.
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 5006 | Anxisern 10 mg/1 mg Tablet | Strip of 10 tablets | Valid |
+| 10439 | Aborax Tablet | Strip of 10 tablets | Valid |
+| 40899 | Cloxide 25mg Tablet | Strip of 10 tablets | Valid |
+| 47480 | Cdprex 10mg Tablet | Strip of 10 tablets | Valid |
+| 48889 | Cinipox 5mg/2.5mg Tablet | Strip of 10 tablets | Valid |
+| 72340 | Equirex Tablet | Strip of 10 tablets | Valid |
+| 72537 | Equilibrium 10mg Tablet | Strip of 10 tablets | Valid |
+| 74519 | Ebrium 10mg Tablet | Strip of 10 tablets | Valid |
+| 74546 | Equicalm 10mg/1mg Tablet | Strip of 10 tablets | Valid |
+| 77601 | Elspas Tablet | Strip of 10 tablets | Valid |
+| 81492 | Excloten 10mg/1mg Tablet | Strip of 10 tablets | Valid |
+| 84508 | Fit 10 mg/1 mg Tablet | Strip of 10 tablets | Valid |
+| 152403 | Normozin 10mg/1mg Tablet | Strip of 10 tablets | Valid |
+| 176539 | Peaceoxide 10mg Tablet | Strip of 10 tablets | Valid |
+| 181891 | Poxid 10mg Tablet | Strip of 10 tablets | Valid |
+| 185232 | Relicalm CD Tablet | Strip of 10 tablets | Valid |
+| 204193 | Sledge 5mg/2.5mg Tablet | Strip of 10 tablets | Valid |
+| 217478 | Terox 10 mg/1 mg Tablet | Strip of 10 tablets | Valid |
+| 227812 | Trinadep 10mg/1mg Tablet | Strip of 10 tablets | Valid |
+| 248516 | Zosar 10mg/1mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
+
+In total, 20 valid single-ingredient oral tablet registrations were found.
 
 ## Safety Considerations
 

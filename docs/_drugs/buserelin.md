@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 124
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Buserelin: predicted new indication hypertrichosis (evidence level L5). Approved use: Prostate cancer"
 monitor_inn: "Buserelin"
 predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality"]
@@ -81,13 +81,20 @@ Currently no clinical trials are registered for this prediction.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 27449 | Busarlin 0.5mg Injection | Vial of 1 ml injection | Not stated |
-| 207368 | Supradopin 0.5mg Injection | Vial of 1 ml injection | Not stated |
-| 31391 | Busag 5mg Injection | Vial of 1 injection | Not stated |
-| 28043 | Busarlin 7mg Injection | Vial of 7 ml injection | Not stated |
-| 31264 | Busag 0.5mg Injection | Vial of 1 injection | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 27449 | Busarlin 0.5mg Injection | Vial of 1 ml Injection | Valid |
+| 28043 | Busarlin 7mg Injection | Vial of 7 ml Injection | Valid |
+| 31264 | Busag 0.5mg Injection | Vial of 1 Injection | Valid |
+| 31391 | Busag 5mg Injection | Vial of 1 Injection | Valid |
+| 94767 | Gynarich Injection | Vial of 2.5 ml Injection | Valid |
+| 207368 | Supradopin 0.5mg Injection | Vial of 1 ml Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 A sixth licence (94767, Gynarich Injection, vial of 2.5 ml) is also valid. All six are single-ingredient injectables from Intas Pharmaceuticals, Serum Institute of India, and Zydus Cadila.
 

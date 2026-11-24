@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 529
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Mesalazine"
 predicted_indications: ["congenital hypotrichosis with juvenile macular dystrophy", "osteoarthritis", "rheumatoid arthritis", "seborrheic keratosis", "vulvar inverted follicular keratosis", "pseudoachondroplasia"]
 description: "Mesalazine: predicted new indication Congenital hypotrichosis with juvenile macular dystrophy (evidence level L5). In India: at least 20 listed products"
@@ -83,15 +83,38 @@ Currently no related literature available for the top-ranked prediction.
 
 ## India Market Information
 
-All 20 registrations are valid single-ingredient products. The licence records contain no approved indication text. The five main authorizations are listed below.
+All 20 registrations are valid single-ingredient products. The licence records contain no approved indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 184427 | Rowasa 1gm Pellets (Abbott) | Packet of 1 gm pellets | Not stated in records |
-| 133634 | Mesacol Tablet DR (Sun Pharmaceutical) | Strip of 15 delayed-release tablets | Not stated in records |
-| 174418 | Pentasa 1gm Enema (Ferring) | Bottle of 100 ml enema | Not stated in records |
-| 174017 | Pentasa 2gm Prolonged Release Granules (Ferring) | Sachet of 2 gm granules | Not stated in records |
-| 133780 | Mesacol Suppository (Sun Pharmaceutical) | Strip of 5 suppositories | Not stated in records |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 36786 | Cosala OD 1200mg Tablet | Strip of 10 tablets | Valid |
+| 44537 | Cosala 400mg Tablet | Strip of 10 tablets | Valid |
+| 47043 | Cosala 800mg Tablet | Strip of 10 tablets | Valid |
+| 85602 | Fibrimin-OD Tablet | Strip of 10 Tablet pr | Valid |
+| 133634 | Mesacol Tablet DR | Strip of 15 Tablet DR | Valid |
+| 133780 | Mesacol Suppository | Strip of 5 suppositories | Valid |
+| 134043 | Mesacol 1g Suppository | Strip of 5 suppositories | Valid |
+| 134861 | Mesahenz 800 Tablet | Strip of 10 tablets | Valid |
+| 134957 | Mosart-OD Tablet | Strip of 10 tablets | Valid |
+| 136546 | Mesadac 1200mg Tablet PR | Strip of 10 Tablet pr | Valid |
+| 138392 | Mosart 2gm Sachet | Packet of 1 Sachet | Valid |
+| 143133 | Mesanur 1200mg Tablet PR | Strip of 10 Tablet pr | Valid |
+| 143614 | Meslataj 1gm Pellets | Bottle of 1 Pellets | Valid |
+| 143994 | Meslacare 400mg Tablet | Strip of 10 tablets | Valid |
+| 145641 | Mesloc 1200 Tablet DR | Strip of 10 Tablet DR | Valid |
+| 174017 | Pentasa 2gm Prolonged Release Granules | Sachet of 2 gm Granules | Valid |
+| 174418 | Pentasa 1gm Enema | Bottle of 100 ml Enema | Valid |
+| 181727 | Pantesa Tablet | Strip of 10 tablets | Valid |
+| 184427 | Rowasa 1gm Pellets | Packet of 1 gm Pellets | Valid |
+| 185116 | Rowasa 500mg Pellets | Sachet of 1 Granules | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 Available forms include oral tablets, granules and pellets, enemas and suppositories.
 

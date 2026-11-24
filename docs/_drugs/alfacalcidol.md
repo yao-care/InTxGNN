@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Alfacalcidol"
 predicted_indications: ["craniofacial conodysplasia", "acromesomelic dysplasia, Campailla Martinelli type", "renal tubular acidosis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Alfacalcidol: predicted new indication Craniofacial conodysplasia (evidence level L5). Approved use: Hyperparathyroidism, osteitis fibrosa, hypoparathyroidism…"
 ---
 
@@ -81,13 +81,20 @@ In these reports alfacalcidol was used together with alkali therapy and other tr
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 2235 | Alphadol-C Soft Gelatin Capsule | Strip of 10 soft gelatin capsules | Not stated in the licence record |
-| 1308 | Alphadol 0.5mcg Soft Gelatin Capsule | Strip of 10 soft gelatin capsules | Not stated in the licence record |
-| 328 | Alphadol 0.25mcg Capsule | Strip of 10 soft gelatin capsules | Not stated in the licence record |
-| 2489 | Alphadol 1mcg Soft Gelatin Capsule | Strip of 10 soft gelatin capsules | Not stated in the licence record |
-| 64293 | Decalcid 0.25mcg Tablet | Strip of 10 tablets | Not stated in the licence record |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 328 | Alphadol 0.25mcg Capsule | Strip of 10 soft gelatin capsules | Valid |
+| 1308 | Alphadol 0.5mcg Soft Gelatin Capsule | Strip of 10 soft gelatin capsules | Valid |
+| 2235 | Alphadol-C Soft Gelatin Capsule | Strip of 10 soft gelatin capsules | Valid |
+| 2489 | Alphadol 1mcg Soft Gelatin Capsule | Strip of 10 soft gelatin capsules | Valid |
+| 64293 | Decalcid 0.25mcg Tablet | Strip of 10 tablets | Valid |
+| 235436 | Vitalpha Soft Gelatin Capsule | Strip of 10 soft gelatin capsules | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 A sixth licence (235436, Vitalpha Soft Gelatin Capsule) is also valid. All six are oral single-ingredient products.
 

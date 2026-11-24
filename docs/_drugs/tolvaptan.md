@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 847
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Tolvaptan"
 predicted_indications: ["renal-hepatic-pancreatic dysplasia", "karyomegalic interstitial nephritis", "thoracic malformation", "Joubert syndrome with renal defect", "adult familial nephronophthisis-spastic quadriparesia syndrome", "Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature"]
 description: "Tolvaptan: predicted new indication Renal-hepatic-pancreatic dysplasia (evidence level L5). In India: at least 20 listed products"
@@ -80,13 +80,36 @@ Currently no related clinical trials registered for this specific predicted indi
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Registration No. 233664 | Vaptan 15mg Tablet (Steadfast Medishield) | Strip of 7 tablets | Not specified |
-| Registration No. 221905 | Tolsama 30mg Tablet (MSN Laboratories) | Strip of 4 tablets | Not specified |
-| Registration No. 201963 | Shiokem 15mg Tablet (Alkem Laboratories) | Strip of 4 tablets | Not specified |
-| Registration No. 150758 | Natrise 30 Tablet (Sun Pharmaceutical) | Strip of 4 tablets | Not specified |
-| Registration No. 185349 | Resodim 30 Tablet (Lupin) | Strip of 4 tablets | Not specified |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 81676 | Eptoent 30mg Tablet | Strip of 4 tablets | Valid |
+| 103676 | Hyponat-O 15 Tablet | Strip of 10 tablets | Valid |
+| 150758 | Natrise 30 Tablet | Strip of 4 tablets | Valid |
+| 152009 | Natremia 15mg Tablet | Strip of 4 tablets | Valid |
+| 184252 | Resodim 15 Tablet | Strip of 4 tablets | Valid |
+| 185349 | Resodim 30 Tablet | Strip of 4 tablets | Valid |
+| 201963 | Shiokem 15mg Tablet | Strip of 4 tablets | Valid |
+| 207759 | Shiokem 30mg Tablet | Strip of 4 tablets | Valid |
+| 214833 | Tolvat 15 Tablet | Strip of 4 tablets | Valid |
+| 215587 | Tolvasca 15 Tablet | Strip of 4 tablets | Valid |
+| 215679 | Tolsama 15 Tablet | Strip of 4 tablets | Valid |
+| 216392 | Tvaptan 15 Tablet | Strip of 4 tablets | Valid |
+| 220790 | Tvaptan 30 Tablet | Strip of 4 tablets | Valid |
+| 221580 | Tolvact 30 Tablet | Strip of 4 tablets | Valid |
+| 221905 | Tolsama 30mg Tablet | Strip of 4 tablets | Valid |
+| 225107 | Tolvagen 30mg Tablet | Strip of 4 tablets | Valid |
+| 226005 | Tolvad 30mg Tablet | Strip of 4 tablets | Valid |
+| 233664 | Vaptan 15mg Tablet | Strip of 7 tablets | Valid |
+| 233850 | Vaptan Tablet | Strip of 10 tablets | Valid |
+| 237340 | Vaptin 15mg Tablet | Strip of 4 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 A total of 20 valid single-ingredient registrations exist, all oral tablets.
 

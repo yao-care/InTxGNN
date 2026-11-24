@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 505
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Loteprednol etabonate"
 predicted_indications: ["serous conjunctivitis except viral", "parasitic conjunctivitis", "chronic follicular conjunctivitis", "conjunctival folliculosis", "pseudomembranous conjunctivitis", "Angelucci syndrome", "acute hemorrhagic conjunctivitis", "acute contagious conjunctivitis", "otitis externa"]
 description: "Loteprednol Etabonate: predicted new indication Serous conjunctivitis except viral (evidence level L5). In India: at least 20 listed products"
@@ -91,15 +91,44 @@ One paper was found for a lower-ranked prediction, pseudomembranous conjunctivit
 
 ## India Market Information
 
-There are 20 valid single-ingredient registrations, with no combination products and none cancelled. The records contain no approved indication text. The main authorizations are:
+There are 20 valid registrations, none cancelled. The records contain no approved indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 138185 | Moxicon LP Eye Drop | 5 ml ophthalmic suspension | Not recorded |
-| 138580 | Mflotas-LP Eye Drop BKC Free | 5 ml ophthalmic suspension | Not recorded |
-| 123327 | Lotefix Eye Drop | 5 ml eye drop | Not recorded |
-| 121466 | Lotel Eye Ointment | 5 g eye ointment | Not recorded |
-| 121080 | Lotepred T Eye Drop | 5 ml ophthalmic solution | Not recorded |
+<!-- review:begin in-lic-20261124-loteprednol_etabonate-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "There are 20 valid single-ingredient registrations, with no combination products and none cancelled." Removed: it described the products as single-ingredient (or as having no combination products), which does not match the Indian medicine data (the Indian Medicine Dataset): some of the recorded products are fixed-dose combinations. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124-loteprednol_etabonate-1 -->
+
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 121080 | Lotepred T Eye Drop | Packet of 5 ml Ophthalmic Solution | Valid |
+| 121466 | Lotel Eye Ointment | Tube of 5 gm Eye Ointment | Valid |
+| 122142 | Lot Eye Drop | Bottle of 5 ml Opthalmic Suspension | Valid |
+| 122317 | Lorinol Eye Drops | Packet of 5 ml Opthalmic Suspension | Valid |
+| 123327 | Lotefix Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 123923 | Lotemed Eye Drop | Bottle of 5 ml Opthalmic Suspension | Valid |
+| 124792 | Lotefort 0.5% Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 133667 | Mahaflox-LP Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 134547 | Moxiblu LX Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 135257 | Moxicon LP Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 136099 | Moxinix LP Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 137148 | Moxiford L Eye Drop | Bottle of 5 ml Ophthalmic Solution | Valid |
+| 138185 | Moxicon LP Eye Drop | Bottle of 5 ml Opthalmic Suspension | Valid |
+| 138580 | Mflotas-LP Eye Drop BKC Free | Bottle of 5 ml Opthalmic Suspension | Valid |
+| 138907 | Moxizest L Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 141897 | Meflotas LP Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 142106 | Moxijn LP Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 145181 | Moxicare LP Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 238265 | Vetob-LP Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 248282 | Zetamox-L Eye Drop | Bottle of 5 ml Ophthalmic Solution | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -128,11 +157,12 @@ The prediction score is high (0.9969), and the drug is already widely marketed i
 
 ## Review Log
 
-Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Lotemax Sm (loteprednol etabonate) prescribing information, Bausch & Lomb Incorporated](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6f9477b5-699f-4d3b-b9a6-0cc238266237) |
+| 2026-11-24 | Removed: the single-ingredient claim | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 

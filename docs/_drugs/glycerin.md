@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 397
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 monitor_inn: "Glycerin"
 predicted_indications: ["cauda equina syndrome", "open-angle glaucoma", "primary hereditary glaucoma", "alopecia", "congenital hypotrichosis milia", "irritable bowel syndrome", "hypotrichosis simplex of the scalp", "diffuse alopecia areata", "migraine disorder", "migraine with brainstem aura"]
 description: "Glycerin: predicted new indication Cauda equina syndrome (evidence level L5). In India: at least 20 listed products"
@@ -84,15 +84,38 @@ No literature is available for cauda equina syndrome. The table below lists the 
 
 ## India Market Information
 
-Glycerin has 20 valid single-ingredient registrations, all injectable or infusion products. Approved indication text is not recorded for these registrations. The five main ones are listed below.
+Glycerin has 20 valid single-ingredient registrations, all injectable or infusion products. Approved indication text is not recorded for these registrations.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 154076 | Newtol 100ml Infusion | Bottle of 100 ml infusion | Not specified |
-| 144415 | Megtil 10gm/10gm Infusion | Bottle of 100 ml infusion | Not specified |
-| 38730 | Chemitol Injection | Bottle of 100 ml injection | Not specified |
-| 99961 | Glycerim 10gm/10gm Infusion | Bottle of 100 ml infusion | Not specified |
-| 98270 | Grapitol G 10mg/10mg Infusion | Vial of 100 ml infusion | Not specified |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 38730 | Chemitol Injection | Bottle of 100 ml Injection | Valid |
+| 95021 | Glitol Injection | Bottle of 100 ml Infusion | Valid |
+| 98270 | Grapitol G 10mg/10mg Infusion | Vial of 100 ml Infusion | Valid |
+| 99961 | Glycerim 10gm/10gm Infusion | Bottle of 100 ml Infusion | Valid |
+| 100533 | Glygest 10gm/10gm Infusion | Bottle of 100 ml Infusion | Valid |
+| 138627 | Metcerin Injection | Bottle of 100 ml Infusion | Valid |
+| 141062 | Meniden-I.V. Infusion | Bottle of 100 ml Injection | Valid |
+| 142769 | Manidrop-G Infusion | Bottle of 100 ml Infusion | Valid |
+| 144415 | Megtil 10gm/10gm Infusion | Bottle of 100 ml Infusion | Valid |
+| 147338 | Montinom-G 10gm/10gm Infusion | Bottle of 100 ml Infusion | Valid |
+| 148357 | Myoseize Infusion | Bottle of 100 ml Infusion | Valid |
+| 148495 | Menylox 10gm/10gm Infusion | Bottle of 100 ml Infusion | Valid |
+| 154076 | Newtol 100ml Infusion | Bottle of 100 ml Infusion | Valid |
+| 171404 | Olintol Infusion | Bottle of 100 ml Infusion | Valid |
+| 182815 | Penitol-G Infusion | Bottle of 100 ml Infusion | Valid |
+| 189100 | Retol G 10gm/10gm Injection | Vial of 1 Injection | Valid |
+| 193728 | Revatol G 10gm/10gm Infusion | Bottle of 100 ml Infusion | Valid |
+| 203437 | Saitol Infusion | Bottle of 100 ml Infusion | Valid |
+| 214524 | Siptol-G 10gm/10gm Infusion | Bottle of 100 ml Infusion | Valid |
+| 250184 | Zemisol Infusion | Bottle of 100 ml Infusion | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

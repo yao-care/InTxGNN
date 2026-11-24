@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 703
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Prochlorperazine: predicted new indication Retinal dystrophy with or without extraocular anomalies (evidence level L5). Approved use: Schizophrenia"
 monitor_inn: "Prochlorperazine"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)", "congenital disorder of glycosylation with defective fucosylation", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "syndromic myopia", "myopia 26, X-linked, female-limited", "atypical glycine encephalopathy", "manic bipolar affective disorder"]
@@ -84,15 +84,38 @@ No literature is available for the top-ranked prediction (retinal dystrophy). Th
 
 ## India Market Information
 
-There are 20 valid single-ingredient licences, all oral tablets and none cancelled. The licence records contain no approved-indication text. Main authorisations:
+There are 20 valid single-ingredient licences, all oral tablets and none cancelled. The licence records contain no approved-indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 176671 | Prochlor 5mg Tablet (Hema Laboratories) | Strip of 10 tablets | Not stated |
-| 199519 | Stemetil MD Tablet (Abbott) | Strip of 15 MD tablets | Not stated |
-| 241810 | Westel 5mg Tablet (Key West Medicines) | Strip of 10 tablets | Not stated |
-| 233491 | Vometil 5mg Tablet MD (Cipla) | Strip of 10 MD tablets | Not stated |
-| 322 | Acuvert Tablet (Abbott) | Strip of 9 tablets | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 322 | Acuvert Tablet | Strip of 9 tablets | Valid |
+| 28858 | Bemetil 5mg Tablet | Strip of 10 tablets | Valid |
+| 67863 | DavaIndia Prochlorperazine 5mg Tablet | Strip of 10 tablets | Valid |
+| 96806 | Geometil 5mg Tablet | Strip of 10 tablets | Valid |
+| 134988 | Maxtil 5mg Tablet | Strip of 10 tablets | Valid |
+| 138548 | Maxin 5mg Tablet | Strip of 10 tablets | Valid |
+| 152709 | Nurotil 5mg Tablet | Strip of 10 tablets | Valid |
+| 152846 | Navtil 5mg Tablet | Strip of 10 tablets | Valid |
+| 176671 | Prochlor 5mg Tablet | Strip of 10 tablets | Valid |
+| 177681 | Pharmazin 5mg Tablet | Strip of 10 tablets | Valid |
+| 177865 | Prochlor 5mg Tablet MD | Strip of 10 tablet md | Valid |
+| 182488 | Prolep 5mg Tablet | Strip of 10 tablets | Valid |
+| 182685 | Prozine 5mg Tablet | Strip of 10 tablets | Valid |
+| 185183 | Resvom-MD Tablet | Strip of 10 tablet md | Valid |
+| 199519 | Stemetil MD Tablet | Strip of 15 tablet md | Valid |
+| 201985 | Staz 5mg Tablet MD | Strip of 10 tablet md | Valid |
+| 219337 | Tremiz 5mg Tablet MD | Strip of 10 tablet md | Valid |
+| 233491 | Vometil 5mg Tablet MD | Strip of 10 tablet md | Valid |
+| 235635 | Vertiscan 5mg Tablet MD | Strip of 10 tablet md | Valid |
+| 241810 | Westel 5mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

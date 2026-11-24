@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Conjugated estrogens"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis", "rheumatoid arthritis", "heparin cofactor 2 deficiency", "Prinzmetal angina", "hemoglobinopathy", "thrombophilia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Conjugated Estrogens: predicted new indication migraine disorder (evidence level L5). In India: 8 listed products (8 not discontinued)"
 ---
 
@@ -80,13 +80,22 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 173733 | Premarin Vaginal Cream | tube of 14 gm Vaginal Cream | Not recorded in the local data |
-| 173715 | Premarin Tablet | strip of 28 tablets | Not recorded in the local data |
-| 40919 | Conjya 0.625mg Tablet | strip of 28 tablets | Not recorded in the local data |
-| 40355 | Cornil Tablet | strip of 21 tablets | Not recorded in the local data |
-| 36260 | Conjugase Tablet | strip of 28 tablets | Not recorded in the local data |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 36260 | Conjugase Tablet | Strip of 28 tablets | Valid |
+| 39105 | Conjumed 5 Tablet | Strip of 28 tablets | Valid |
+| 40355 | Cornil Tablet | Strip of 21 tablets | Valid |
+| 40919 | Conjya 0.625mg Tablet | Strip of 28 tablets | Valid |
+| 48300 | Conjya 1.25mg Tablet | Strip of 28 tablets | Valid |
+| 173715 | Premarin Tablet | Strip of 28 tablets | Valid |
+| 173733 | Premarin Vaginal Cream | Tube of 14 gm Vaginal Cream | Valid |
+| 174124 | Premarin 0.3mg Tablet | Strip of 28 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

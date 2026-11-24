@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 307
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Enoxaparin: predicted new indication Thrombophilia due to protein C deficiency, autosomal recessive (evidence level L5). Approved use: Pulmonary embolism, disseminated intravascular coagulation…"
 monitor_inn: "Enoxaparin"
 predicted_indications: ["thrombophilia due to protein C deficiency, autosomal recessive"]
@@ -72,15 +72,38 @@ Currently no related literature available.
 
 ## India Market Information
 
-Enoxaparin has 20 valid single-ingredient registrations and no cancelled ones. Approved indication text is not recorded for any of them. The first five are listed below.
+Enoxaparin has 20 valid single-ingredient registrations and no cancelled ones. Approved indication text is not recorded for any of them.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 74006 | Encoxel 40 Injection | Prefilled syringe, 0.4 ml injection | Not recorded |
-| 188112 | Renoxa 60mg Injection | Vial, 1 ml injection | Not recorded |
-| 80787 | Enoxijet 60 Injection | Prefilled syringe, 0.6 ml injection | Not recorded |
-| 138259 | Macparin 60mg Injection | Vial, 0.6 ml injection | Not recorded |
-| 191232 | RB 40mg Injection | Vial, 1 injection | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 34697 | Corparin 40 Injection | Packet of 0.4 ml Prefilled Syringe | Valid |
+| 39133 | Coguperin 40mg Injection | Prefilled syringe of 0.4 ml Injection | Valid |
+| 74006 | Encoxel 40 Injection | Prefilled syringe of 0.4 ml Injection | Valid |
+| 74359 | Exhep 20 Injection | Prefilled syringe of 0.2 ml Injection | Valid |
+| 80787 | Enoxijet 60 Injection | Prefilled syringe of 0.6 ml Injection | Valid |
+| 81120 | Enoxaviz 60 Injection | Prefilled syringe of 0.6 ml Injection | Valid |
+| 81782 | Enoxacot 40mg Injection | Prefilled syringe of 1 Injection | Valid |
+| 90001 | Flohep 20mg Injection | Prefilled syringe of 1 Injection | Valid |
+| 91304 | Faciloc 80 Injection | Vial of 1 ml Prefilled Syringe | Valid |
+| 106050 | H Parin 60mg Injection | Vial of 0.6 ml Injection | Valid |
+| 123286 | Lomorin NX 40mg Injection | Vial of 0.4 ml Injection | Valid |
+| 124345 | Lomonox 60mg Injection | Vial of 0.2 ml Injection | Valid |
+| 127089 | Lomorin NX 20mg Injection | Prefilled syringe of 1 ml Injection | Valid |
+| 138259 | Macparin 60mg Injection | Vial of 0.6 ml Injection | Valid |
+| 138565 | Minihep 40mg Injection | Prefilled syringe of 0.4 ml Injection | Valid |
+| 148103 | Medoparin 40 Injection | Packet of 0.4 ml Prefilled Syringe | Valid |
+| 188112 | Renoxa 60mg Injection | Vial of 1 ml Injection | Valid |
+| 191232 | RB 40mg Injection | Vial of 1 Injection | Valid |
+| 238088 | Venoxtaj 40mg Injection | Prefilled syringe of 0.4 ml Injection | Valid |
+| 244829 | Xaparin 40mg Injection | Vial of 0.4 ml Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

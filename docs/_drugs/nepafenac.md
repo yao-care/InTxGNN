@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 587
 evidence_level: L1
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Nepafenac: predicted new indication Eye disease (evidence level L1). Approved use: Not stated in the Indian licence records. Based on the supporting lit…"
 monitor_inn: "Nepafenac"
 predicted_indications: ["eye disease", "optic papillitis", "hypotrichosis simplex of the scalp", "seborrheic keratosis", "von Hippel anomaly", "congenital hypotrichosis milia", "mcpherson robertson cammarano syndrome", "lagophthalmos", "vulvar inverted follicular keratosis", "vitreous detachment"]
@@ -108,15 +108,38 @@ The 10 most relevant trials are listed (graded A/B first, then larger completed 
 
 ## India Market Information
 
-The compiled data list 20 valid single-ingredient registrations. Five are shown below. The licence records do not include approved-indication text.
+The compiled data list 20 valid single-ingredient registrations. The licence records do not include approved-indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 154180 | Nepanix Eye Drop (Phoenix Pharmaceuticals) | Ophthalmic suspension, 5 ml bottle | Not stated in the records |
-| 150465 | Nepalact-Z Sterile Eye Drops (Sun Pharmaceutical Industries) | Ophthalmic suspension, 5 ml bottle | Not stated in the records |
-| 503 | Amplinak Ophthalmic Suspension (Allergan India) | Ophthalmic suspension, 5 ml bottle | Not stated in the records |
-| 150962 | Nepastar OD Eye Drop (Mankind Pharma) | Eye drop, 3 ml bottle | Not stated in the records |
-| 2876 | Avanep Eye Drop (Alembic Pharmaceuticals) | Eye drop, 5 ml packet | Not stated in the records |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 503 | Amplinak Opthalmic Suspension | Bottle of 5 ml Opthalmic Suspension | Valid |
+| 2876 | Avanep Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 74720 | Esnac Eye Drop | Bottle of 5 ml Opthalmic Suspension | Valid |
+| 134022 | Micronac PF Eye Drop | Bottle of 5 ml Opthalmic Suspension | Valid |
+| 150465 | Nepalact-Z Sterile Eye Drops | Bottle of 5 ml Opthalmic Suspension | Valid |
+| 150962 | Nepastar OD Eye Drop | Bottle of 3 ml Eye Drop | Valid |
+| 151586 | Nepacent Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 151959 | Nepatak Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 152275 | Neparin 0.1% Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 152376 | Nepatret 0.1% Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 153332 | Nefaq Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 153341 | Nepakine Eye Drop | Bottle of 5 ml Opthalmic Suspension | Valid |
+| 153386 | Nepanova 0.1% Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 153414 | Nepagesic 0.1% Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 153921 | Nepalook Eye Drop | Bottle of 5 ml Opthalmic Suspension | Valid |
+| 154180 | Nepanix Eye Drop | Bottle of 5 ml Opthalmic Suspension | Valid |
+| 154940 | Nepsic 0.1% Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 155548 | Nypha CS 1% Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 186151 | Retinep Eye Drop | Bottle of 5 ml Opthalmic Suspension | Valid |
+| 201474 | Sensonac Eye Drops | Bottle of 5 ml Opthalmic Suspension | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ---
 

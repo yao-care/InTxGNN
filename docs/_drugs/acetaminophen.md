@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 18
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 description: "Acetaminophen: known uses and market status in India; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -72,30 +72,36 @@ The TxGNN deep-learning model (score ≥ 0.99) produced candidate indications fo
 
 ## India Market Information
 
-| Licence | Product | Dosage form | Status |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
 |------|------|------|------|
-| 150248 | Myospaz Tablet | strip of 10 tablets | Valid |
-| 35707 | Capagin Tablet | strip of 10 tablets | Valid |
-| 205519 | Solmol 500 Tablet | strip of 10 tablets | Valid |
-| 39882 | Curadol 650 Tablet | strip of 10 tablets | Valid |
-| 2075 | A Mol 650mg Tablet | strip of 10 tablets | Valid |
-| 176026 | Pamol 650mg Tablet | strip of 10 tablets | Valid |
-| 86262 | Febrinil P 250 mg/2.5 mg Syrup | bottle of 60 ml Syrup | Valid |
-| 1663 | Aeknil Injection | vial of 15 ml Injection | Valid |
-| 12677 | Aipara 650mg Tablet | strip of 10 tablets | Valid |
-| 150768 | Neomol 170 Anal Suppository | packet of 5 suppositories | Valid |
-| 210731 | Smopara 650mg Tablet | strip of 10 tablets | Valid |
-| 221774 | Terizine Plus Tablet | strip of 10 tablets | Valid |
-| 180619 | Pararite 650mg Tablet | strip of 10 tablets | Valid |
-| 177793 | Pro Kid Syrup | bottle of 60 ml Syrup | Valid |
-| 250650 | Zuby Kid Drop | packet of 15 ml Drop | Valid |
-| 181886 | Pecomol 500mg/5mg Tablet | strip of 10 tablets | Valid |
-| 69710 | Dotopar 650mg Tablet | strip of 10 tablets | Valid |
-| 9607 | Antimol 500 Tablet | strip of 10 tablets | Valid |
-| 160472 | Nettmol 250mg Oral Suspension | bottle of 60 ml Oral Suspension | Valid |
-| 207713 | Soparin Kid  125mg Tablet DT | strip of 10 tablet dt | Valid |
+| 1663 | Aeknil Injection | Vial of 15 ml Injection | Valid |
+| 2075 | A Mol 650mg Tablet | Strip of 10 tablets | Valid |
+| 9607 | Antimol 500 Tablet | Strip of 10 tablets | Valid |
+| 12677 | Aipara 650mg Tablet | Strip of 10 tablets | Valid |
+| 35707 | Capagin Tablet | Strip of 10 tablets | Valid |
+| 39882 | Curadol 650 Tablet | Strip of 10 tablets | Valid |
+| 69710 | Dotopar 650mg Tablet | Strip of 10 tablets | Valid |
+| 86262 | Febrinil P 250 mg/2.5 mg Syrup | Bottle of 60 ml Syrup | Valid |
+| 150248 | Myospaz Tablet | Strip of 10 tablets | Valid |
+| 150768 | Neomol 170 Anal Suppository | Packet of 5 suppositories | Valid |
+| 160472 | Nettmol 250mg Oral Suspension | Bottle of 60 ml Oral Suspension | Valid |
+| 176026 | Pamol 650mg Tablet | Strip of 10 tablets | Valid |
+| 177793 | Pro Kid Syrup | Bottle of 60 ml Syrup | Valid |
+| 180619 | Pararite 650mg Tablet | Strip of 10 tablets | Valid |
+| 181886 | Pecomol 500mg/5mg Tablet | Strip of 10 tablets | Valid |
+| 205519 | Solmol 500 Tablet | Strip of 10 tablets | Valid |
+| 207713 | Soparin Kid 125mg Tablet DT | Strip of 10 tablet dt | Valid |
+| 210731 | Smopara 650mg Tablet | Strip of 10 tablets | Valid |
+| 221774 | Terizine Plus Tablet | Strip of 10 tablets | Valid |
+| 250650 | Zuby Kid Drop | Packet of 15 ml Drop | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
 
 Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

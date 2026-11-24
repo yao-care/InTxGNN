@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 637
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Palbociclib: predicted new indication Hyperthyroidism (evidence level L5). Approved use: Not stated in the registration data compiled for this report"
 monitor_inn: "Palbociclib"
 predicted_indications: ["hyperthyroidism", "rheumatoid arthritis", "thrombotic disease", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta"]
@@ -60,11 +60,17 @@ No plausible link between CDK4/6 inhibition and excess thyroid hormone productio
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 181013 | Primcyv 75mg Capsule (Dr Reddy's Laboratories Ltd) | Bottle of 21 capsules | Not stated |
-| 178599 | Primcyv 125mg Capsule (Dr Reddy's Laboratories Ltd) | Bottle of 21 capsules | Not stated |
-| 180824 | Primcyv 100mg Capsule (Dr Reddy's Laboratories Ltd) | Bottle of 21 capsules | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 178599 | Primcyv 125mg Capsule | Bottle of 21 capsules | Valid |
+| 180824 | Primcyv 100mg Capsule | Bottle of 21 capsules | Valid |
+| 181013 | Primcyv 75mg Capsule | Bottle of 21 capsules | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 All three registrations are valid single-ingredient oral products. There are no cancelled registrations.
 

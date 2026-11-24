@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 406
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Haloperidol"
 predicted_indications: ["congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia 26, X-linked, female-limited", "syndromic myopia", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "atypical glycine encephalopathy"]
 description: "Haloperidol: predicted new indication Congenital disorder of glycosylation with defective fucosylation (evidence level L5). In India: at least 20 listed products"
@@ -70,15 +70,38 @@ Currently no related literature available.
 
 ## India Market Information
 
-Haloperidol has 20 valid single-ingredient registrations in India, all oral tablets. The records compiled for this report do not include approved indication text. The five listed below are examples.
+Haloperidol has 20 valid single-ingredient registrations in India, all oral tablets. The records compiled for this report do not include approved indication text.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| 105789 | Halodias DT 0.25 Tablet | Strip of 10 dispersible tablets | Matias Healthcare Pvt Ltd |
-| 106385 | Halodyl 1.5mg Tablet | Strip of 10 tablets | Tas Med India Pvt Ltd |
-| 70174 | Dolcin 1.5mg Tablet | Strip of 10 tablets | Cinerea Biotech Pvt Ltd |
-| 142809 | Mindwel 5mg Tablet | Strip of 10 tablets | Ajanta Pharma Ltd |
-| 104792 | Hexidol Plus 5 mg/2 mg Tablet | Strip of 10 tablets | Torrent Pharmaceuticals Ltd |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 2760 | Agidol Plus 1.5mg Tablet | Strip of 10 tablets | Valid |
+| 13755 | Agidol 3 Tablet | Strip of 10 tablets | Valid |
+| 30375 | Bondol 5mg Tablet | Strip of 10 tablets | Valid |
+| 30750 | Benzydol 5 mg/2 mg Tablet | Strip of 10 tablets | Valid |
+| 70174 | Dolcin 1.5mg Tablet | Strip of 10 tablets | Valid |
+| 104792 | Hexidol Plus 5 mg/2 mg Tablet | Strip of 10 tablets | Valid |
+| 104799 | Halo 10mg Tablet | Strip of 10 tablets | Valid |
+| 104898 | Hypnodol 5mg Tablet | Strip of 10 tablets | Valid |
+| 105789 | Halodias DT 0.25 Tablet | Strip of 10 tablet dt | Valid |
+| 106385 | Halodyl 1.5mg Tablet | Strip of 10 tablets | Valid |
+| 106480 | Helinase 1.5mg Tablet | Strip of 10 tablets | Valid |
+| 106516 | Halopace 5mg Tablet | Strip of 10 tablets | Valid |
+| 106941 | Halpido 5 Tablet | Strip of 10 tablets | Valid |
+| 140751 | Mindol Plus 5mg/2mg Tablet | Strip of 10 tablets | Valid |
+| 142809 | Mindwel 5mg Tablet | Strip of 10 tablets | Valid |
+| 142907 | Mindol 5mg Tablet | Strip of 10 tablets | Valid |
+| 217511 | Talendol 0.25mg Tablet | Strip of 10 tablets | Valid |
+| 219523 | Typidol 5mg Tablet | Strip of 10 tablets | Valid |
+| 224993 | Trikonace 0.25mg Tablet | Strip of 10 tablets | Valid |
+| 242596 | Worin 10mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

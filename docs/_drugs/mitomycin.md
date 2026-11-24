@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "Mitomycin"
 predicted_indications: ["osteoclastic giant cell tumor of pancreas", "solid pseudopapillary carcinoma of pancreas", "pancreatic carcinoma with mixed differentiation", "mixed ductal-endocrine carcinoma of pancreas", "undifferentiated pancreatic carcinoma", "pancreatic intraductal papillary-mucinous neoplasm", "pancreatic acinar cell cystadenocarcinoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Mitomycin: predicted new indication Osteoclastic giant cell tumor of pancreas (evidence level L5). In India: 16 listed products (16 not discontinued)"
 ---
 
@@ -71,15 +71,32 @@ Some other pancreatic tumour terms in the prediction list have only indirect pap
 
 ## India Market Information
 
-There are 16 valid single-ingredient registrations, all injections. The records contain no approved-indication text. The main ones are listed below.
+There are 16 valid single-ingredient registrations, all injections. The records contain no approved-indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 135815 | Mitomycin 10mg Injection (Biochem Pharmaceutical Industries) | Vial of 1 injection | Not stated in the records |
-| 168193 | Oncocin 10mg Injection (Chandra Bhagat Pharma) | Vial of 1 injection | Not stated in the records |
-| 135703 | Mitomycin C 2mg Injection (Biochem Pharmaceutical Industries) | Vial of 2 ml injection | Not stated in the records |
-| 138509 | Mito 10mg Injection (Neon Laboratories) | Vial of 1 injection | Not stated in the records |
-| 140054 | Mitocin 10mg Injection (Cadila Pharmaceuticals) | Vial of 1 injection | Not stated in the records |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 49707 | Citomycin 2mg Injection | Vial of 1 Injection | Valid |
+| 126302 | Lyomit 10mg Injection | Vial of 1 Injection | Valid |
+| 134700 | Mitomycin C 40mg Injection | Vial of 1 Injection | Valid |
+| 134842 | Mitomycin C 10mg Injection | Vial of 10 ml Injection | Valid |
+| 135703 | Mitomycin C 2mg Injection | Vial of 2 ml Injection | Valid |
+| 135810 | Mitomycin 40mg Injection | Vial of 1 Injection | Valid |
+| 135815 | Mitomycin 10mg Injection | Vial of 1 Injection | Valid |
+| 138509 | Mito 10mg Injection | Vial of 1 Injection | Valid |
+| 139435 | Mitomycin 2 Injection | Vial of 1 Injection | Valid |
+| 140054 | Mitocin 10mg Injection | Vial of 1 Injection | Valid |
+| 142920 | Mito 2mg Injection | Vial of 1 Injection | Valid |
+| 145541 | Mitodus 10mg Injection | Vial of 1 Injection | Valid |
+| 168193 | Oncocin 10mg Injection | Vial of 1 Injection | Valid |
+| 169619 | Oncocin 2mg Injection | Vial of 1 Injection | Valid |
+| 238035 | Vesimycin 10mg Injection | Vial of 1 Injection | Valid |
+| 238739 | Vesimycin 2mg Injection | Vial of 1 Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

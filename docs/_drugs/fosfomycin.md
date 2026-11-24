@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Fosfomycin"
 predicted_indications: ["uterine inflammatory disease", "xanthogranulomatous pyelonephritis", "epiglottitis", "urogenital tuberculosis", "laryngitis", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "pyelitis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Fosfomycin: predicted new indication Uterine inflammatory disease (evidence level L5). Approved use: Urinary tract infection"
 ---
 
@@ -85,15 +85,38 @@ The two trials are general paediatric pharmacokinetic studies. The one publicati
 
 ## India Market Information
 
-At least 20 valid single-ingredient licences are listed, and the list may be partial. The licence records contain no approved-indication text. Five examples:
+At least 20 valid single-ingredient licences are listed, and the list may be partial. The licence records contain no approved-indication text.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| 84854 | Fosforal 3gm Granules | Sachet of 8 gm granules | Macleods Pharmaceuticals Pvt Ltd |
-| 86272 | Fosvaith 4g Injection | Vial of 1 injection | Advaith Life Sciences Pvt Ltd |
-| 133747 | Myfos Powder | Sachet of 8 gm powder | Sun Pharmaceutical Industries Ltd |
-| 249132 | Zan-Fos Injection | Vial of 1 injection | Suzan Pharma |
-| 85326 | Fosfolife Sachet | Sachet of 8 gm powder | LifeSurge BioSciences Pvt Ltd |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 35372 | Crifos 4gm Injection | Vial of 1 ml Injection | Valid |
+| 37228 | Caremycin Sachet | Sachet of 8 gm Powder | Valid |
+| 72829 | Erafos 3gm Granules | Sachet of 8 gm Granules | Valid |
+| 84363 | Fosfoe Powder Delicious Mango | Sachet of 8 gm Powder | Valid |
+| 84394 | Fosfotas 4gm Injection | Vial of 1 Injection | Valid |
+| 84854 | Fosforal 3gm Granules | Sachet of 8 gm Granules | Valid |
+| 85326 | Fosfolife Sachet | Sachet of 8 gm Powder | Valid |
+| 86017 | Fosfocin 4gm Injection | Vial of 1 Injection | Valid |
+| 86272 | Fosvaith 4g Injection | Vial of 1 Injection | Valid |
+| 86521 | Fludafos 4gm Injection | Vial of 1 Injection | Valid |
+| 89792 | Fosfosharp 4gm Injection | Vial of 1 Injection | Valid |
+| 92067 | Fosfowok 4gm Injection | Vial of 1 Injection | Valid |
+| 108370 | Icufos O Powder Vanilla | Sachet of 8 gm Powder | Valid |
+| 109523 | Icufos 4gm Injection | Vial of 1 Injection | Valid |
+| 111124 | Ibifosp 4gm Injection | Vial of 1 Injection | Valid |
+| 133747 | Myfos Powder | Sachet of 8 gm Powder | Valid |
+| 137989 | Murinact 4gm Injection | Vial of 1 Injection | Valid |
+| 230557 | UT Sure 3gm Powder | Sachet of 8 gm Powder | Valid |
+| 230637 | Utifly Sachet | Sachet of 8 gm Powder | Valid |
+| 249132 | Zan-Fos Injection | Vial of 1 Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ---
 

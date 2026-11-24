@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 232
 evidence_level: L1
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Dapsone: predicted new indication Pneumocystosis (evidence level L1). Approved use: Dermatitis herpetiformis, acne, leprosy"
 monitor_inn: "Dapsone"
 predicted_indications: ["pneumocystosis"]
@@ -92,13 +92,21 @@ The clinical picture is also consistent. A review of dapsone notes its use for P
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 58400 | Dapsone Tablet (Glaxo SmithKline Pharmaceuticals Ltd) | Tablet, bottle of 1000 | Not stated in registration data |
-| 176343 | Pustulex Gel (Amwill Healthcare) | Gel, 20 g tube | Not stated in registration data |
-| 792 | Acnedap Plus Gel (Cipla Ltd) | Gel, 15 g tube | Not stated in registration data |
-| 64701 | Dapsib Gel (Indiabulls Pharmaceutical Ltd) | Gel, 15 g tube | Not stated in registration data |
-| 1408 | Acnewar Plus Gel (Akumentis Healthcare Ltd) | Gel, 15 g tube | Not stated in registration data |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 379 | Acnedap Gel | Tube of 15 gm Gel | Valid |
+| 792 | Acnedap Plus Gel | Tube of 15 gm Gel | Valid |
+| 1057 | Acnewar Gel | Tube of 15 gm Gel | Valid |
+| 1408 | Acnewar Plus Gel | Tube of 15 gm Gel | Valid |
+| 58400 | Dapsone Tablet | Bottle of 1000 tablets | Valid |
+| 64701 | Dapsib Gel | Tube of 15 gm Gel | Valid |
+| 176343 | Pustulex Gel | Tube of 20 gm Gel | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 Only one of the 7 valid registrations is an oral product (the tablet). The other six are topical gels, which are not suitable for treating or preventing PCP.
 

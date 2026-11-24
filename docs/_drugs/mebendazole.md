@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 516
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Mebendazole"
 predicted_indications: ["acne (disease)"]
 description: "Mebendazole: predicted new indication Acne (disease) (evidence level L5). In India: at least 20 listed products"
@@ -81,15 +81,38 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-There are 20 valid single-ingredient registrations. Five are listed below. The registration data supplied no approved-indication text.
+There are 20 valid single-ingredient registrations. The registration data supplied no approved-indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 193683 | Raid Suspension | Suspension, bottle of 10 ml | Not specified in registration data |
-| 136436 | Min Min 100mg Tablet | Tablet, strip of 10 | Not specified in registration data |
-| 136932 | Mebenth 100mg Tablet | Tablet, strip of 6 | Not specified in registration data |
-| 202362 | Sta 500mg Tablet | Tablet, strip of 1 | Not specified in registration data |
-| 134860 | Mebex 500mg Tablet | Tablet, strip of 1 (Cipla Ltd) | Not specified in registration data |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 18317 | Acavom 100mg Tablet | Strip of 6 tablets | Valid |
+| 60290 | D Worm Tablet | Strip of 1 Tablet | Valid |
+| 78136 | Emzol 100mg Suspension | Bottle of 30 ml Suspension | Valid |
+| 105930 | H R T 100mg Tablet | Strip of 10 tablets | Valid |
+| 123391 | Levasol M 100 mg/150 mg Tablet | Strip of 1 Tablet | Valid |
+| 124960 | Levasol M Syrup | Bottle of 10 ml Syrup | Valid |
+| 134860 | Mebex 500mg Tablet | Strip of 1 Tablet | Valid |
+| 136436 | Min Min 100mg Tablet | Strip of 10 tablets | Valid |
+| 136932 | Mebenth 100mg Tablet | Strip of 6 tablets | Valid |
+| 137205 | Mabel 100mg Tablet | Strip of 6 tablets | Valid |
+| 138278 | Mebidex 100mg Tablet | Strip of 6 tablets | Valid |
+| 140115 | Mex 100mg Tablet | Strip of 10 tablets | Valid |
+| 153261 | Nuzole 100mg Tablet | Strip of 6 tablets | Valid |
+| 185356 | Raid 100mg/150mg Tablet | Strip of 1 Tablet | Valid |
+| 193683 | Raid Suspension | Bottle of 10 ml Suspension | Valid |
+| 202221 | StayHappi Mebendazole 100mg Tablet | Strip of 6 tablets | Valid |
+| 202362 | Sta 500mg Tablet | Strip of 1 Tablet | Valid |
+| 206648 | Sandin 100mg Tablet | Strip of 6 tablets | Valid |
+| 241478 | Wormin 100mg Tablet | Strip of 6 tablets | Valid |
+| 242781 | W Ban Suspension | Bottle of 30 ml Suspension | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ---
 

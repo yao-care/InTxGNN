@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 825
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Terlipressin"
 predicted_indications: ["open-angle glaucoma", "primary hereditary glaucoma", "pulmonary hypertension", "kyphoscoliotic heart disease", "esotropia", "glaucoma 1, open angle", "headache disorder"]
 description: "Terlipressin: predicted new indication Open-angle glaucoma (evidence level L5). In India: at least 20 listed products"
@@ -82,15 +82,38 @@ Publications relevant to pulmonary hypertension:
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 82500 | Erlipress 1mg Injection | Vial of 10 ml injection | Not stated |
-| 183301 | Qupressin 1mg Injection | Vial of 10 ml injection | Not stated |
-| 223046 | Terlibax 1mg Injection | Vial of 1 injection | Not stated |
-| 229294 | Terlicon Injection | Ampoule of 10 ml injection | Not stated |
-| 218807 | Thinwes 1mg Injection | Vial of 10 ml injection | Not stated |
+<!-- licenses:begin -->
 
-There are 20 valid single-ingredient licences in total, all injectable. Only the first five are shown.
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 13648 | Astwin 1mg Injection | Vial of 10 ml Injection | Valid |
+| 19304 | Acupressin 1mg Injection | Vial of 10 ml Injection | Valid |
+| 21541 | Allpress 1mg Injection | Vial of 1 Injection | Valid |
+| 82500 | Erlipress 1mg Injection | Vial of 10 ml Injection | Valid |
+| 96771 | GI-Pres Injection | Ampoule of 10 ml Injection | Valid |
+| 112030 | Interli 1mg Injection | Vial of 1 Injection | Valid |
+| 126603 | L-Loc Injection | Vial of 10 ml Injection | Valid |
+| 180808 | Presster 1mg Injection | Vial of 10 ml Injection | Valid |
+| 183301 | Qupressin 1mg Injection | Vial of 10 ml Injection | Valid |
+| 185888 | Retolon Injection | Ampoule of 10 ml Injection | Valid |
+| 218689 | T Press 1mg Injection | Vial of 10 ml Injection | Valid |
+| 218807 | Thinwes 1mg Injection | Vial of 10 ml Injection | Valid |
+| 219332 | Terli Force 0.1mg Injection | Vial of 10 ml Injection | Valid |
+| 220078 | Tersin Injection | Vial of 10 ml Injection | Valid |
+| 223046 | Terlibax 1mg Injection | Vial of 1 Injection | Valid |
+| 223298 | Terlinex Injection | Ampoule of 10 ml Injection | Valid |
+| 223841 | Tarlen 1mg Injection | Vial of 10 ml Injection | Valid |
+| 224101 | Terliful 1mg Injection | Vial of 10 ml Injection | Valid |
+| 226520 | Terliwin Injection | Vial of 1 Injection | Valid |
+| 229294 | Terlicon Injection | Ampoule of 10 ml Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
+
+There are 20 valid single-ingredient licences in total, all injectable.
 
 ## Safety Considerations
 

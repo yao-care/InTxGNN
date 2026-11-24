@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 808
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Tazarotene"
 predicted_indications: ["seborrheic dermatitis", "seborrheic keratosis", "vulvar inverted follicular keratosis"]
 description: "Tazarotene: predicted new indication Seborrheic dermatitis (evidence level L5). In India: 12 listed products (12 not discontinued)"
@@ -83,19 +83,32 @@ For reference, the literature found for the second-ranked prediction (seborrheic
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 217875 | Texara Forte Cream | Tube of 15 gm cream | Not stated |
-| 222490 | Tazotop Cream | Tube of 15 gm cream | Not stated |
-| 123853 | La Tez 0.1% Cream | Tube of 15 gm cream | Not stated |
-| 217368 | Texara Gel | Tube of 15 gm gel | Not stated |
-| 220266 | Tazotop Forte Cream | Tube of 15 gm cream | Not stated |
+<!-- licenses:begin -->
 
-There are 12 valid registrations in total, all topical creams or gels.
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 12212 | A Ret TZ Gel | Tube of 15 gm Gel | Valid |
+| 123853 | La Tez 0.1% Cream | Tube of 15 gm Cream | Valid |
+| 125163 | La Tez 0.05% Gel | Tube of 15 gm Gel | Valid |
+| 134406 | Momate T Cream | Tube of 15 gm Cream | Valid |
+| 215085 | Tazret Gel | Tube of 20 gm Gel | Valid |
+| 215396 | Tazret Forte Cream | Tube of 20 gm Cream | Valid |
+| 217368 | Texara Gel | Tube of 15 gm Gel | Valid |
+| 217875 | Texara Forte Cream | Tube of 15 gm Cream | Valid |
+| 220266 | Tazotop Forte Cream | Tube of 15 gm Cream | Valid |
+| 222490 | Tazotop Cream | Tube of 15 gm Cream | Valid |
+| 249219 | Zorotene Forte Gel | Tube of 15 gm Gel | Valid |
+| 250582 | Zorotene 0.05% Cream | Tube of 15 gm Cream | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
+
+All registrations are valid topical creams or gels.
 
 <!-- review:begin in-lic-20261106-tazarotene-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "There are 12 valid single-ingredient registrations in total, all topical creams or gels." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+> **Review correction (2026-11-24)**: Originally stated: "There are 12 valid single-ingredient registrations in total, all topical creams or gels." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Revised 2026-11-24: the hard-coded number of records and the wording about the old table were dropped; the Quick Overview and the product table under India Market Information show the current figures. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
 
 <!-- review:end in-lic-20261106-tazarotene-1 -->
 
@@ -128,7 +141,7 @@ Below is the review log for this page: statements checked against official India
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-24 | Removed: "single-ingredient" | Corrected (revised 2026-11-24; earlier version kept in the record) | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 | 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Tazorac (tazarotene) prescribing information, Almirall, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4e4e4b81-420e-4492-8a74-80b692a80057) |
 
 <!-- review:end log -->

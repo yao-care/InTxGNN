@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Beta carotene"
 predicted_indications: ["acne (disease)", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "diabetic cataract", "nuclear senile cataract", "cortical cataract", "diabetes mellitus type 2 associated cataract", "immature cataract", "mature cataract", "craniostenosis cataract"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Beta Carotene: predicted new indication acne (disease) (evidence level L5). In India: 2 listed products (2 not discontinued)"
 ---
 
@@ -90,16 +90,22 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 197872 | Resumer Pro Softgel Capsule | Bottle of 60 soft gelatin capsules | Not recorded |
-| 98656 | Glowishma Softgel Capsule | Strip of 10 soft gelatin capsules | Not recorded |
+<!-- licenses:begin -->
 
-Both licences are valid products (oral).
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 98656 | Glowishma Softgel Capsule | Strip of 10 soft gelatin capsules | Valid |
+| 197872 | Resumer Pro Softgel Capsule | Bottle of 60 soft gelatin capsules | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
+
+All licences are valid products (oral).
 
 <!-- review:begin in-lic-20261106-beta_carotene-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "Both licences are valid single-ingredient products (oral)." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+> **Review correction (2026-11-24)**: Originally stated: "Both licences are valid single-ingredient products (oral)." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Revised 2026-11-24: the hard-coded number of records and the wording about the old table were dropped; the Quick Overview and the product table under India Market Information show the current figures. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
 
 <!-- review:end in-lic-20261106-beta_carotene-1 -->
 
@@ -133,7 +139,7 @@ Below is the review log for this page: statements checked against official India
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-24 | Removed: "single-ingredient" | Corrected (revised 2026-11-24; earlier version kept in the record) | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 

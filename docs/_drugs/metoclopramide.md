@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 542
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Metoclopramide"
 predicted_indications: ["gastroduodenitis", "peptic ulcer perforation"]
 description: "Metoclopramide: predicted new indication Gastroduodenitis (evidence level L5). In India: at least 20 listed products"
@@ -103,15 +103,38 @@ Most of the retrieved literature consists of general reviews of gastric motility
 
 ## India Market Information
 
-Metoclopramide is currently marketed in India with 20 valid single-ingredient registrations. The approved-indication text was not available for these products. Main registrations:
+Metoclopramide is currently marketed in India with 20 valid single-ingredient registrations. The approved-indication text was not available for these products.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 233434 | Vominorm 10mg Tablet (Cipla Ltd) | Strip of 10 tablets | Not specified |
-| 135132 | Maxeron 10mg Tablet (Wallace Pharmaceuticals) | Strip of 10 tablets | Not specified |
-| 139888 | Metaclop 5mg Injection (Ind Swift Laboratories) | Vial of 2 ml injection | Not specified |
-| 184313 | Reglan Injection (Oaknet Healthcare) | Ampoule of 2 ml injection | Not specified |
-| 139849 | Maxeron 5mg Syrup (Wallace Pharmaceuticals) | Bottle of 30 ml syrup | Not specified |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 3350 | Almet 10mg Tablet | Strip of 10 tablets | Valid |
+| 37753 | Copar 5mg/500mg Tablet | Strip of 10 tablets | Valid |
+| 38843 | Clopram 25mg Tablet | Strip of 10 tablets | Valid |
+| 45042 | Cepar 5mg/500mg Tablet | Strip of 10 tablets | Valid |
+| 135132 | Maxeron 10mg Tablet | Strip of 10 tablets | Valid |
+| 135370 | Metaclopramide Injection | Vial of 2 ml Injection | Valid |
+| 137031 | Metopar Suspension | Bottle of 60 ml Suspension | Valid |
+| 138500 | Maxeron Mps 5 mg/125 mg Tablet | Strip of 10 tablets | Valid |
+| 139849 | Maxeron 5mg Syrup | Bottle of 30 ml Syrup | Valid |
+| 139888 | Metaclop 5mg Injection | Vial of 2 ml Injection | Valid |
+| 141262 | Molmet 5mg/500mg Tablet | Strip of 10 tablets | Valid |
+| 144318 | Megatech Syrup | Bottle of 200 ml Syrup | Valid |
+| 144531 | Metocan P 5mg/500mg Tablet | Strip of 10 tablets | Valid |
+| 144698 | Migrosh 5mg/500mg Tablet | Strip of 10 tablets | Valid |
+| 152137 | Nutec Plus Tablet | Strip of 10 tablets | Valid |
+| 153142 | Norper Tablet | Strip of 10 tablets | Valid |
+| 173690 | Paramet Tablet | Strip of 10 tablets | Valid |
+| 184313 | Reglan Injection | Ampoule of 2 ml Injection | Valid |
+| 189931 | Reg MPS Tablet | Strip of 10 tablets | Valid |
+| 233434 | Vominorm 10mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 Available forms include tablets, injections, syrups and a suspension. Several registrations are fixed-dose products, such as 5 mg/500 mg tablets, though the compiled data classify all as single-ingredient.
 

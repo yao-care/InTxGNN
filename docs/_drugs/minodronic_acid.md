@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 557
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Minodronic acid"
 predicted_indications: ["pseudo-von Willebrand disease", "primary release disorder of platelets", "Glanzmann thrombasthenia", "severe nonproliferative diabetic retinopathy", "bone Paget disease", "fetal and neonatal alloimmune thrombocytopenia", "juvenile Paget disease"]
 description: "Minodronic Acid: predicted new indication Pseudo-von Willebrand disease (evidence level L5). In India: 2 listed products (2 not discontinued)"
@@ -80,10 +80,16 @@ Severe nonproliferative diabetic retinopathy might have an indirect link through
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 143849 | Minodrone Capsule | Strip of 1 capsule | Not stated in the data compiled for this report |
-| 146747 | Minoshine-M Soft Gelatin Capsule | Strip of 1 soft gelatin capsule | Not stated in the data compiled for this report |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 143849 | Minodrone Capsule | Strip of 1 Capsule | Valid |
+| 146747 | Minoshine-M Soft Gelatin Capsule | Strip of 1 Soft Gelatin Capsule | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 Both products are single-ingredient oral formulations from Pharmanova India Drugs Pvt Ltd, and both licences are currently valid.
 

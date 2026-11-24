@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 812
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Telmisartan"
 predicted_indications: ["Prinzmetal angina", "brain stem infarction", "ABri amyloidosis", "cerebral artery occlusion", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "intracerebral hemorrhage", "Braddock syndrome"]
 description: "Telmisartan: predicted new indication Prinzmetal angina (evidence level L5). In India: at least 20 listed products"
@@ -81,15 +81,38 @@ Currently no related literature available.
 
 ## India Market Information
 
-Twenty valid registrations were found, all with valid status. The five below are examples. The licence records contain no approved-indication text.
+Twenty valid registrations were found, all with valid status. The licence records contain no approved-indication text.
 
-| Authorization Number | Product Name | Dosage Form |
-|---------|------|------|
-| 226234 | Temcar 40mg Tablet | Strip of 10 tablets |
-| 227759 | Teloris 40mg Tablet | Strip of 10 tablets |
-| 129212 | Lintel-CT 80 Tablet | Strip of 10 tablets |
-| 201139 | Stamlo-T 80 Tablet | Strip of 10 tablets |
-| 216483 | Tetan Beta 50 Tablet ER | Strip of 15 extended-release tablets |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 29986 | Bpgo H 40mg/12.5mg Tablet | Strip of 10 tablets | Valid |
+| 129212 | Lintel-CT 80 Tablet | Strip of 10 tablets | Valid |
+| 138835 | Metocap Tel 50 Tablet | Strip of 10 tablets | Valid |
+| 182832 | Peritel 40 Tablet | Strip of 10 tablets | Valid |
+| 197631 | Rapisart-H Tablet | Strip of 10 tablets | Valid |
+| 201139 | Stamlo-T 80 Tablet | Strip of 10 tablets | Valid |
+| 215249 | Telplus Trio 40mg/10mg/6.25mg Tablet | Strip of 10 tablets | Valid |
+| 215633 | Telsartan-CT 40 Tablet | Strip of 10 tablets | Valid |
+| 216483 | Tetan Beta 50 Tablet ER | Strip of 15 tablet er | Valid |
+| 217181 | Temmy Plus 40 mg/5 mg Tablet | Strip of 10 tablets | Valid |
+| 220313 | Teltop H 40mg/12.5mg Tablet | Strip of 10 tablets | Valid |
+| 221559 | Temy 40 AM Tablet | Strip of 10 tablets | Valid |
+| 222905 | Telmaxx H 40mg/12.5mg Tablet | Strip of 10 tablets | Valid |
+| 222920 | Telgo-AH Tablet | Strip of 10 tablets | Valid |
+| 223347 | Telindia CH 40mg/12.5mg Tablet | Strip of 10 tablets | Valid |
+| 226234 | Temcar 40mg Tablet | Strip of 10 tablets | Valid |
+| 227250 | Telmivas 3mg Tablet | Strip of 10 tablets | Valid |
+| 227759 | Teloris 40mg Tablet | Strip of 10 tablets | Valid |
+| 232777 | Ukotel-A Tablet | Strip of 10 tablets | Valid |
+| 245760 | Xeltelm CH 40mg/12.5mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ---
 

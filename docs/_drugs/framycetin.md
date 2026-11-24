@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 383
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 description: "Framycetin: predicted new indication Sclerosing cholangitis (evidence level L5). Approved use: Not stated in the available license records (marketed as topical crea…"
 monitor_inn: "Framycetin"
 predicted_indications: ["sclerosing cholangitis", "urinary tract infection (disease)", "congenital prothrombin deficiency", "Ureaplasma urethritis", "gonococcal urethritis", "uterine inflammatory disease", "xanthogranulomatous pyelonephritis"]
@@ -73,13 +73,19 @@ The proposed link to sclerosing cholangitis is the gut-liver axis. Primary scler
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 203335 | Sofraderm Cream (Torque Pharmaceuticals) | Cream, 15 g tube | Not stated |
-| 201125 | Sofra Tuffle Bandage (Sanofi India) | Bandage, 1 per packet | Not stated |
-| 199532 | Soframycin 1% Skin Cream (Encube Ethicals) | Cream, 30 g tube | Not stated |
-| 199593 | Soframycin 1% Skin Cream (Encube Ethicals) | Cream, 100 g tube | Not stated |
-| 200712 | Sofracen 1% Cream (Universal Lab) | Cream, 15 g tube | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 199532 | Soframycin 1% Skin Cream | Tube of 30 gm Cream | Valid |
+| 199593 | Soframycin 1% Skin Cream | Tube of 100 gm Cream | Valid |
+| 200712 | Sofracen 1% Cream | Tube of 15 gm Cream | Valid |
+| 201125 | Sofra Tuffle Bandage | Packet of 1 Bandage | Valid |
+| 203335 | Sofraderm Cream | Tube of 15 gm Cream | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 All five registrations are valid single-ingredient products, and all are topical or dressing formats.
 

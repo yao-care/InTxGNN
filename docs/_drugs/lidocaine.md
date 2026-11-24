@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Lidocaine"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "papillary conjunctivitis", "rosacea conjunctivitis", "exposure keratitis", "atopic conjunctivitis", "conjunctival disorder", "nephrotic syndrome", "non-human animal disease", "tinea corporis", "sporadic idiopathic steroid-resistant nephrotic syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Lidocaine: predicted new indication Punctate epithelial keratoconjunctivitis (evidence level L5). Approved use: Relations recorded in the knowledge graph (not label-confirmed approv…"
 ---
 
@@ -72,15 +72,38 @@ Currently no related literature available for punctate epithelial keratoconjunct
 
 ## India Market Information
 
-At least 20 single-ingredient lidocaine licences are valid in India; the list below shows 5 and may be partial. None of the records include approved indication text.
+At least 20 single-ingredient lidocaine licences are valid in India. None of the records include approved indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Registration No. 125383 | Lidofix 2% Injection | Vial of 30 ml injection | Not stated in the records |
-| Registration No. 127832 | Lignocip 2% Injection | Vial of 30 ml injection | Not stated in the records |
-| Registration No. 121665 | Lignox 2% Gel | Tube of 30 gm gel | Not stated in the records |
-| Registration No. 203383 | Skore Not Out Lidocaine Topical Spray | Bottle of 12 gm spray | Not stated in the records |
-| Registration No. 162965 | Oculan 1% Injection | Vial of 1 ml injection | Not stated in the records |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 8623 | Avicaine Oral Topical Solution | Bottle of 100 ml Solution | Valid |
+| 28932 | Biocaine 2% Injection | Vial of 30 ml Injection | Valid |
+| 109472 | Ilidotrans Transdermal Patch | Box of 2 transdermal patches | Valid |
+| 121665 | Lignox 2% Gel | Tube of 30 gm Gel | Valid |
+| 121721 | Lignox 2 % A Injection | Vial of 30 ml Injection | Valid |
+| 122515 | Lignox 2% Injection | Vial of 30 ml Injection | Valid |
+| 122746 | Lignox+adrenline Injection | Vial of 30 ml Injection | Valid |
+| 125383 | Lidofix 2% Injection | Vial of 30 ml Injection | Valid |
+| 126646 | Lignotross Injection | Vial of 1 Injection | Valid |
+| 127832 | Lignocip 2% Injection | Vial of 30 ml Injection | Valid |
+| 129868 | Lcaine Injection | Vial of 30 ml Injection | Valid |
+| 131281 | Leecaine 2% Injection | Vial of 30 ml Injection | Valid |
+| 131323 | Lignorain 2% Injection | Vial of 30 ml Injection | Valid |
+| 162965 | Oculan 1% Injection | Vial of 1 ml Injection | Valid |
+| 163480 | Oculan 1% Injection | Ampoule of 2 ml Injection | Valid |
+| 203383 | Skore Not Out Lidocaine Topical Spray | Bottle of 12 gm Spray | Valid |
+| 218772 | Themicaine AD 2%/0.005mg Injection | Vial of 30 ml Injection | Valid |
+| 244086 | Xylo 2% Injection | Vial of 30 ml Injection | Valid |
+| 244166 | Xylocaine 5% Injection | Vial of 2 ml Injection | Valid |
+| 249369 | Zylo Injection | Vial of 30 ml Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 Available forms include injections, gel, spray, oral topical solution and transdermal patch.
 

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 252
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Dexketoprofen: predicted new indication Tendinitis (evidence level L5). Approved use: Not specified in the data compiled for this report"
 monitor_inn: "Dexketoprofen"
 predicted_indications: ["tendinitis", "fibromyalgia", "myositis fibrosa", "idiopathic granulomatous myositis", "rheumatoid arthritis", "migraine disorder", "headache disorder", "migraine with brainstem aura", "exostosis", "congenital hypotrichosis milia"]
@@ -100,19 +100,26 @@ The same trial set also supports a broader "headache disorder" prediction, but t
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 66672 | Deket-P 25mg/325mg Tablet | Strip of 10 tablets | Not stated |
-| 180872 | Puron 50mg Injection | Vial of 2 ml injection | Not stated |
-| 108262 | Infen 25 Tablet | Strip of 10 tablets | Not stated |
-| 109815 | Infen 50mg Injection | Vial of 2 ml injection | Not stated |
-| 107911 | Infen P Tablet | Strip of 10 tablets | Not stated |
+<!-- licenses:begin -->
 
-A sixth licence (108166, Infen Gel, 30 g tube, topical) is also valid. All 6 registrations are currently valid.
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 66672 | Deket-P 25mg/325mg Tablet | Strip of 10 tablets | Valid |
+| 107911 | Infen P Tablet | Strip of 10 tablets | Valid |
+| 108166 | Infen Gel | Tube of 30 gm Gel | Valid |
+| 108262 | Infen 25 Tablet | Strip of 10 tablets | Valid |
+| 109815 | Infen 50mg Injection | Vial of 2 ml Injection | Valid |
+| 180872 | Puron 50mg Injection | Vial of 2 ml Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
+
+A sixth licence (108166, Infen Gel, 30 g tube, topical) is also valid. All registrations are currently valid.
 
 <!-- review:begin in-lic-20261106-dexketoprofen-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "All 6 registrations are single-ingredient products and currently valid." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+> **Review correction (2026-11-24)**: Originally stated: "All 6 registrations are single-ingredient products and currently valid." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Revised 2026-11-24: the hard-coded number of records and the wording about the old table were dropped; the Quick Overview and the product table under India Market Information show the current figures. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
 
 <!-- review:end in-lic-20261106-dexketoprofen-1 -->
 
@@ -140,7 +147,7 @@ Below is the review log for this page: statements checked against official India
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-06 | Removed: "single-ingredient products and" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-24 | Removed: "single-ingredient products and" | Corrected (revised 2026-11-24; earlier version kept in the record) | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 | 2026-11-19 | "Currently, detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL75435 (dexketoprofen): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL75435) |
 
 <!-- review:end log -->

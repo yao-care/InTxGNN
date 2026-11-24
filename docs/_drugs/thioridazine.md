@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Thioridazine"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "trichotillomania", "nephrogenic syndrome of inappropriate antidiuresis", "major affective disorder", "bipolar disorder", "obsessive-compulsive disorder", "attention deficit-hyperactivity disorder", "schizoid personality disorder", "schizotypal personality disorder"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Thioridazine: predicted new indication Manic bipolar affective disorder (evidence level L5). Approved use: Not stated in the India licence records compiled for this report"
 ---
 
@@ -93,15 +93,38 @@ Currently no related clinical trials registered for manic bipolar affective diso
 
 ## India Market Information
 
-Authorisation records in the data compiled for this report are all single-ingredient oral tablets with a valid status. The records contain no approved-indication text. The list below shows 5 of at least 20 registrations; the full list may be partial.
+Authorisation records in the data compiled for this report are all single-ingredient oral tablets with a valid status. The records contain no approved-indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 228060 | Thiozid 50mg Tablet | Strip of 10 tablets | Not stated |
-| 220834 | Thioridazine 10mg Tablet (Novartis India Ltd) | Strip of 10 tablets | Not stated |
-| 225150 | Tensaril 100mg Tablet | Strip of 10 tablets | Not stated |
-| 63261 | Delnil 25 Tablet | Strip of 10 tablets | Not stated |
-| 208595 | Shiril 25mg Tablet | Strip of 10 tablets | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 29184 | Biorid 25 Tablet | Strip of 10 tablets | Valid |
+| 63261 | Delnil 25 Tablet | Strip of 10 tablets | Valid |
+| 140443 | Melozine 25mg Tablet | Strip of 10 tablets | Valid |
+| 141697 | Multizine 100mg Tablet | Strip of 10 tablets | Valid |
+| 168041 | Orida 50mg Tablet | Strip of 10 tablets | Valid |
+| 194617 | Repoise 25mg Tablet | Strip of 10 tablets | Valid |
+| 207855 | Sycoril 25mg Tablet | Strip of 10 tablets | Valid |
+| 208595 | Shiril 25mg Tablet | Strip of 10 tablets | Valid |
+| 219173 | Thiorin 50mg Tablet | Strip of 10 tablets | Valid |
+| 220834 | Thioridazine 10mg Tablet | Strip of 10 tablets | Valid |
+| 224357 | Thiolite 25mg Tablet | Strip of 10 tablets | Valid |
+| 225150 | Tensaril 100mg Tablet | Strip of 10 tablets | Valid |
+| 225906 | Thiozine 100mg Tablet | Strip of 10 tablets | Valid |
+| 226186 | Thiorus 50mg Tablet | Strip of 10 tablets | Valid |
+| 227994 | T Zine 25mg Tablet | Strip of 10 tablets | Valid |
+| 228060 | Thiozid 50mg Tablet | Strip of 10 tablets | Valid |
+| 229091 | Thiovator 100mg Tablet | Strip of 10 tablets | Valid |
+| 231988 | Udazine 50mg Tablet | Strip of 10 tablets | Valid |
+| 232600 | Udazine 25mg Tablet | Strip of 10 tablets | Valid |
+| 249303 | Zina 50mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ---
 

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 845
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Tolmetin"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "rheumatoid nodulosis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "WHIM syndrome"]
 description: "Tolmetin: predicted new indication Acromesomelic dysplasia, Hunter-Thompson type (evidence level L5). In India: 2 listed products (2 not discontinued)"
@@ -68,10 +68,16 @@ Other top-ranked predictions show a similar pattern:
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 13895 | Amtoril 600mg Tablet (Macleods Pharmaceuticals Pvt Ltd) | Oral, strip of 6 tablets | Not stated in the available data |
-| 249942 | Zextra 600mg Tablet (Dr Reddy's Laboratories Ltd) | Oral, strip of 10 tablets | Not stated in the available data |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 13895 | Amtoril 600mg Tablet | Strip of 6 tablets | Valid |
+| 249942 | Zextra 600mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

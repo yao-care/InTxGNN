@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 501
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 description: "Lorcaserin: predicted new indication Hypervitaminosis (evidence level L5). Approved use: Obesity disorder"
 monitor_inn: "Lorcaserin"
 predicted_indications: ["hypervitaminosis", "proximal 16p11.2 microdeletion syndrome", "obsolete hypertelorism (disease)", "frontorhiny"]
@@ -65,9 +65,15 @@ Lorcaserin was also withdrawn from the US market in 2020 because of a cancer-ris
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Registration No. 2724 | Alfence Tablet (Sun Pharmaceutical Industries Ltd) | Strip of 10 tablets (oral) | Not stated in the license record |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 2724 | Alfence Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

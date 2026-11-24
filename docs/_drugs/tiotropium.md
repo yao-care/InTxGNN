@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 839
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Tiotropium"
 predicted_indications: ["respiratory malformation", "Rienhoff syndrome", "hyperlucent lung", "tracheal stenosis"]
 description: "Tiotropium: predicted new indication Respiratory malformation (evidence level L5). In India: at least 20 listed products"
@@ -86,15 +86,38 @@ None of these publications directly studies tiotropium in respiratory malformati
 
 ## India Market Information
 
-Tiotropium is marketed in India as a single-ingredient product, and all licences in the compiled data are valid. The list below may be partial, and the approved indication text is not recorded in the local data. Five main authorizations are shown.
+Tiotropium is marketed in India as a single-ingredient product, and all licences in the compiled data are valid. The list below may be partial, and the approved indication text is not recorded in the local data.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 2361 | Aerotrop 18mcg Rotacap (Macleods) | Packet of 15 rotacaps | Not stated in the records |
-| 215127 | Tiova Rotacap (Cipla) | Bottle of 30 rotacaps | Not stated in the records |
-| 215189 | Tiate Transhaler (Lupin) | Packet of 180 MDI Transhaler | Not stated in the records |
-| 216396 | Tiomist CFC Free 9mcg Inhaler (Zydus Cadila) | Packet of 120 MDI Inhaler | Not stated in the records |
-| 206247 | Solbihale T Redicaps (Dr Reddy's) | Packet of 30 redicaps | Not stated in the records |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 1735 | Aerotrop Inhalation | Strip of 15 capsules | Valid |
+| 2361 | Aerotrop 18mcg Rotacap | Packet of 15 rotacaps | Valid |
+| 3767 | Aerotrop 9mcg Inhaler | Packet of 1 Inhaler | Valid |
+| 5075 | Alveotio 9 Inhaler | Bottle of 120 MDI Inhaler | Valid |
+| 44457 | Cogvgard Inhaler | Box of 120 MDI Inhaler | Valid |
+| 68375 | Divitrop 18mcg Inhaler | Packet of 120 MDI Inhaler | Valid |
+| 69294 | Divitrop 9mcg Divicap | Packet of 15 capsules | Valid |
+| 181908 | Pulmotrop Axacap | Bottle of 15 capsules | Valid |
+| 183059 | Quikhale T 18mcg Capsule | Strip of 30 capsules | Valid |
+| 206247 | Solbihale T Redicaps | Packet of 30 redicaps | Valid |
+| 214862 | Tiova Inhaler | Packet of 200 MDI Inhaler | Valid |
+| 215127 | Tiova Rotacap | Bottle of 30 rotacaps | Valid |
+| 215189 | Tiate Transhaler | Packet of 180 MDI Transhaler | Valid |
+| 215654 | Tiova Synchrobreathe Inhaler | Bottle of 120 MDI Inhaler | Valid |
+| 216396 | Tiomist CFC Free 9mcg Inhaler | Packet of 120 MDI Inhaler | Valid |
+| 216460 | Tiate 9mcg Transcaps | Bottle of 15 transcaps | Valid |
+| 216792 | Tiomist Respicap | Strip of 15 respicaps | Valid |
+| 217355 | Tiovert Inhaler | Packet of 200 MDI Inhaler | Valid |
+| 220903 | Theehale Inhaler | Packet of 120 MDI Inhaler | Valid |
+| 221156 | Tioprl Dpicaps | Bottle of 30 capsules | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

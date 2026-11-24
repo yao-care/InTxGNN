@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 114
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Blonanserin: predicted new indication Retinal dystrophy with or without extraocular anomalies (evidence level L5). Approved use: Schizophrenia"
 monitor_inn: "Blonanserin"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "congenital disorder of glycosylation with defective fucosylation", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "hydranencephaly (disease)", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "syndromic myopia", "myopia X-linked", "atypical glycine encephalopathy", "myopia 26, X-linked, female-limited"]
@@ -64,15 +64,34 @@ Other top-ranked predictions are similarly unsupported. They include congenital 
 
 ## India Market Information
 
-18 valid single-ingredient registrations were found, all oral tablets. None of the records include approved indication text. The main authorizations are listed below.
+18 valid single-ingredient registrations were found, all oral tablets. None of the records include approved indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 32559 | Blonet 2mg Tablet (Shatayushi Healthcare) | Strip of 10 tablets | Not stated |
-| 72896 | Elicia 4 Tablet (Zydus Cadila) | Strip of 10 tablets | Not stated |
-| 73328 | Elicia 8 Tablet (Zydus Cadila) | Strip of 10 tablets | Not stated |
-| 26704 | Blonitas 8 Tablet (Intas Pharmaceuticals) | Strip of 10 tablets | Not stated |
-| 33159 | Blosana 4 Tablet (Ryon Pharma) | Strip of 10 tablets | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 26327 | Blonitas 4 Tablet | Strip of 10 tablets | Valid |
+| 26476 | Blonitas 2 Tablet | Strip of 10 tablets | Valid |
+| 26704 | Blonitas 8 Tablet | Strip of 10 tablets | Valid |
+| 27088 | Bolan 8mg Tablet | Strip of 10 tablets | Valid |
+| 29288 | Blonaser 2 Tablet | Strip of 10 tablets | Valid |
+| 29355 | Blosern 8mg Tablet | Strip of 10 tablets | Valid |
+| 29360 | Blosern 4mg Tablet | Strip of 10 tablets | Valid |
+| 29421 | Blonaser 4 Tablet | Strip of 10 tablets | Valid |
+| 30166 | Blonaser 8 Tablet | Strip of 10 tablets | Valid |
+| 30235 | Blosern 2mg Tablet | Strip of 10 tablets | Valid |
+| 31574 | Blosana 8mg Tablet | Strip of 10 tablets | Valid |
+| 32559 | Blonet 2mg Tablet | Strip of 10 tablets | Valid |
+| 33159 | Blosana 4 Tablet | Strip of 10 tablets | Valid |
+| 33273 | Blonet 3mg Tablet | Strip of 10 tablets | Valid |
+| 33503 | Blosana 2 Tablet | Strip of 10 tablets | Valid |
+| 72896 | Elicia 4 Tablet | Strip of 10 tablets | Valid |
+| 73328 | Elicia 8 Tablet | Strip of 10 tablets | Valid |
+| 74856 | Elicia 2 Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

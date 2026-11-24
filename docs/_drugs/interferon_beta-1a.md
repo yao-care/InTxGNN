@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 440
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 description: "Interferon Beta-1A: known uses and market status in India; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -72,12 +72,18 @@ The TxGNN deep-learning model (score ≥ 0.99) produced candidates for Interfero
 
 ## India Market Information
 
-| Licence | Product | Dosage form | Status |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
 |------|------|------|------|
-| 28723 | Betaferon 250mcg Injection | vial of 1 Injection | Valid |
-| 188174 | Rebif 44mcg Injection | vial of 1 Injection | Valid |
-| 3047 | AVONEX 30 MCG INJECTION | vial of 1 Injection | Valid |
-| 187471 | Relibeta Injection | prefilled syringe of 0.5 ml Injection | Valid |
+| 3047 | AVONEX 30 MCG INJECTION | Vial of 1 Injection | Valid |
+| 28723 | Betaferon 250mcg Injection | Vial of 1 Injection | Valid |
+| 187471 | Relibeta Injection | Prefilled syringe of 0.5 ml Injection | Valid |
+| 188174 | Rebif 44mcg Injection | Vial of 1 Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

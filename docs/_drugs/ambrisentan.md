@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Ambrisentan"
 predicted_indications: ["pulmonary arteriovenous malformation (disease)", "malformation syndrome with odontal and/or periodontal component", "hypotrichosis simplex of the scalp", "hypertrichosis (disease)", "syndrome with a Dandy-Walker malformation as major feature"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ambrisentan: predicted new indication pulmonary arteriovenous malformation (disease) (evidence level L5). In India: 10 listed products (10 not discontinued)"
 ---
 
@@ -74,13 +74,24 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 72527 | Endobloc T Combipack | Packet of 20 tablets | Not recorded |
-| 247591 | Zambri 5mg Tablet | Strip of 10 tablets | Not recorded |
-| 611 | Ambrican 5 Tablet | Strip of 10 tablets | Not recorded |
-| 249050 | Zambri 10mg Tablet | Strip of 10 tablets | Not recorded |
-| 109448 | Ibitan 5mg Tablet | Strip of 10 tablets | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 611 | Ambrican 5 Tablet | Strip of 10 tablets | Valid |
+| 72527 | Endobloc T Combipack | Packet of 20 tablets | Valid |
+| 72576 | Endobloc 5 Tablet | Strip of 10 tablets | Valid |
+| 72906 | Endobloc 10 Tablet | Strip of 10 tablets | Valid |
+| 109448 | Ibitan 5mg Tablet | Strip of 10 tablets | Valid |
+| 173868 | Pulmonext Kit | Strip of 20 tablets | Valid |
+| 173968 | Pulmonext 5 Tablet | Strip of 10 tablets | Valid |
+| 174524 | Pulmonext 10 Tablet | Strip of 10 tablets | Valid |
+| 247591 | Zambri 5mg Tablet | Strip of 10 tablets | Valid |
+| 249050 | Zambri 10mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

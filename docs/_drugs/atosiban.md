@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 81
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Atosiban"
 predicted_indications: ["primary hereditary glaucoma", "open-angle glaucoma", "congenital hypotrichosis milia", "alopecia", "hypotrichosis simplex of the scalp", "vascular disease", "diffuse alopecia areata", "arterial thoracic outlet syndrome", "venous thoracic outlet syndrome", "visceral calciphylaxis"]
 description: "Atosiban: predicted new indication Primary hereditary glaucoma (evidence level L5). In India: 2 listed products (2 not discontinued)"
@@ -71,10 +71,16 @@ Currently no related literature available for primary hereditary glaucoma.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 216021 | Tosiban 37.5mg Injection (Zuventus Healthcare Ltd) | Vial of 5 ml injection | Not stated in licence record |
-| 216817 | Tosiban 6.75mg Injection (Zuventus Healthcare Ltd) | Vial of 0.9 ml solution for injection | Not stated in licence record |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 216021 | Tosiban 37.5mg Injection | Vial of 5 ml Injection | Valid |
+| 216817 | Tosiban 6.75mg Injection | Vial of 0.9 ml Solution for Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

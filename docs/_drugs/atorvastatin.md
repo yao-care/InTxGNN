@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 4
 monitor_inn: "Atorvastatin"
 predicted_indications: ["HIV infectious disease", "brain stem infarction", "cholesterol-ester transfer protein deficiency", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Atorvastatin: predicted new indication HIV infectious disease (evidence level L2). In India: at least 20 listed products"
 ---
 
@@ -102,15 +102,44 @@ The strongest rationale is therefore cardiovascular and metabolic risk reduction
 
 ## India Market Information
 
-Atorvastatin is marketed in India, and all recorded single-ingredient licences are valid. The approved indication text is not recorded in the local data. The table lists 5 examples, and the local records may be partial.
+Atorvastatin is marketed in India, and all recorded licences are valid. The approved indication text is not recorded in the local data.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 10042 | Astat 20mg Tablet | Strip of 10 tablets | Not recorded |
-| 12750 | Atorway 10mg Tablet | Strip of 10 tablets | Not recorded |
-| 122781 | Lipivas 20mg Tablet | Strip of 10 tablets | Not recorded |
-| 153630 | Nigtor 10mg Tablet | Strip of 10 tablets | Not recorded |
-| 225165 | Trava 20mg Tablet | Strip of 14 tablets | Not recorded |
+<!-- review:begin in-lic-20261124-atorvastatin-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "Atorvastatin is marketed in India, and all recorded single-ingredient licences are valid." Removed: it described the products as single-ingredient (or as having no combination products), which does not match the Indian medicine data (the Indian Medicine Dataset): some of the recorded products are fixed-dose combinations. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124-atorvastatin-1 -->
+
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 155 | Atorlip-F Tablet | Strip of 15 tablets | Valid |
+| 5395 | Atmont 20mg Tablet | Strip of 10 tablets | Valid |
+| 7450 | Atstat 20mg Tablet | Strip of 10 tablets | Valid |
+| 9805 | Atmont 10mg Tablet | Strip of 10 tablets | Valid |
+| 10042 | Astat 20mg Tablet | Strip of 10 tablets | Valid |
+| 11408 | Azerva E Tablet | Strip of 10 tablets | Valid |
+| 12412 | Atocan 10mg Tablet | Strip of 10 tablets | Valid |
+| 12750 | Atorway 10mg Tablet | Strip of 10 tablets | Valid |
+| 14918 | Amator 10 Tablet | Strip of 10 tablets | Valid |
+| 18133 | Atorford 20 Tablet | Strip of 10 tablets | Valid |
+| 60865 | Dispitor 10 Tablet | Strip of 10 tablets | Valid |
+| 64113 | Durastat 20mg Tablet | Strip of 10 tablets | Valid |
+| 80743 | Eze Ram Tablet | Strip of 10 tablets | Valid |
+| 122781 | Lipivas 20mg Tablet | Strip of 10 tablets | Valid |
+| 131349 | Lipinoy 40mg Tablet | Strip of 10 tablets | Valid |
+| 153630 | Nigtor 10mg Tablet | Strip of 10 tablets | Valid |
+| 161782 | Ozovas-F Tablet | Strip of 10 tablets | Valid |
+| 178645 | Pileca 10 Tablet | Strip of 10 tablets | Valid |
+| 225165 | Trava 20mg Tablet | Strip of 14 tablets | Valid |
+| 249085 | Zuritorva 40mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ---
 
@@ -143,11 +172,12 @@ Atorvastatin is widely marketed, and several controlled studies in HIV exist (a 
 
 ## Review Log
 
-Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-19 | "Detailed mechanism-of-action data are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Lipitor (atorvastatin calcium) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a60cc18b-0631-4cf0-b021-9f52224ece65) |
+| 2026-11-24 | Removed: the single-ingredient claim | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 

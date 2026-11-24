@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 422
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Ifosfamide"
 predicted_indications: ["female breast carcinoma", "unclassified myelodysplastic syndrome", "partial deletion of the long arm of chromosome 5", "refractory cytopenia of childhood", "severe congenital hypochromic anemia with ringed sideroblasts", "aregenerative anemia", "rhabdomyosarcoma (disease)", "myelodysplastic syndrome", "monocytic leukemia", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
 description: "Ifosfamide: predicted new indication Female breast carcinoma (evidence level L5)."
@@ -102,15 +102,31 @@ Several limitations apply:
 
 ## India Market Information
 
-There are 15 valid single-ingredient registrations, all injectable. The 5 main ones are listed below. Approved indication text is not recorded in the registration data.
+There are 15 valid single-ingredient registrations, all injectable. Approved indication text is not recorded in the registration data.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| 104310 | Holoxan 1gm Injection | Vial, injection | Zydus Cadila |
-| 110220 | Ifos 1gm Injection | Vial, injection | Cipla Ltd |
-| 111208 | Ipamide 2gm Injection | Vial, injection | Fresenius Kabi India Pvt Ltd |
-| 209864 | Soloxan with Mesna 2gm Injection | Vial, injection | Vhb Life Sciences Inc |
-| 87255 | Fosfa 2gm Injection | Vial, injection | Getwell Oncology Pvt Ltd |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 37422 | Celofos 1gm Injection | Vial of 1 ml Injection | Valid |
+| 41611 | Celofos 2gm Injection | Vial of 1 ml Injection | Valid |
+| 87255 | Fosfa 2gm Injection | Vial of 1 Injection | Valid |
+| 87681 | Fosfa 1gm Injection | Vial of 1 Injection | Valid |
+| 104310 | Holoxan 1gm Injection | Vial of 1 Injection | Valid |
+| 105878 | Holoxan 500mg Injection | Vial of 1 Injection | Valid |
+| 109524 | Ipoget 1gm Injection | Vial of 1 Powder for Injection | Valid |
+| 110220 | Ifos 1gm Injection | Vial of 1 Injection | Valid |
+| 110222 | Ifoneon 1gm Injection | Vial of 1 Injection | Valid |
+| 110588 | Ifopar 2gm Injection | Vial of 1 Injection | Valid |
+| 111081 | Isoxan 1gm Injection | Vial of 1 Injection | Valid |
+| 111208 | Ipamide 2gm Injection | Vial of 1 Injection | Valid |
+| 111483 | Ipoget 2gm Injection | Vial of 1 Injection | Valid |
+| 111858 | Ifopar 1gm Injection | Vial of 1 Injection | Valid |
+| 209864 | Soloxan with Mesna 2gm Injection | Vial of 1 Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ---
 

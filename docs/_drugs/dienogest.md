@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 265
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Dienogest: predicted new indication Amenorrhea (evidence level L5). Approved use: Not stated in the licence data (literature points to endometriosis)"
 monitor_inn: "Dienogest"
 predicted_indications: ["amenorrhea (disease)", "primary ovarian failure", "breast fibrocystic disease", "isolated growth hormone deficiency", "symptomatic form of fragile X syndrome in female carrier", "blepharophimosis-epicanthus inversus-ptosis", "hypogonadotropic hypogonadism with or without anosmia", "partial trisomy/tetrasomy of the short arm of chromosome 5", "blepharophimosis-epicanthus inversus-ptosis due to 3q23 rearrangement syndrome", "partial trisomy/tetrasomy of the short arm of chromosome 18"]
@@ -92,15 +92,38 @@ For the secondary candidate, breast fibrocystic disease, one publication is avai
 
 ## India Market Information
 
-Twenty valid single-ingredient licences are registered. The approved indication text is not provided for any of them. Five representative authorizations:
+Twenty valid single-ingredient licences are registered. The approved indication text is not provided for any of them.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 68916 | Dienoziv 2 Tablet (Salveo Lifecare) | Strip of 10 tablets | Not specified |
-| 58753 | Dinofirst Tablet (Akumentis Healthcare Ltd) | Strip of 14 tablets | Not specified |
-| 34961 | Cipgest 2mg Tablet (Cipla Ltd) | Strip of 10 tablets | Not specified |
-| 215772 | Terozesta 2mg Tablet (Mankind Pharma Ltd) | Strip of 10 tablets | Not specified |
-| 112503 | Ibinest Soft Gelatin Capsule (Indiabulls Pharmaceutical Ltd) | Strip of 10 soft gelatin capsules | Not specified |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 34961 | Cipgest 2mg Tablet | Strip of 10 tablets | Valid |
+| 49017 | Cystease 2mg Tablet | Strip of 14 tablets | Valid |
+| 58753 | Dinofirst Tablet | Strip of 14 tablets | Valid |
+| 60612 | Dinovas Tablet | Strip of 10 tablets | Valid |
+| 60671 | Dinosafe Tablet | Strip of 10 tablets | Valid |
+| 61055 | DNG 2mg Tablet | Strip of 15 tablets | Valid |
+| 61246 | Dinopil 2mg Tablet | Strip of 10 tablets | Valid |
+| 64741 | Dinokem Tablet | Strip of 10 tablets | Valid |
+| 65448 | Dinowise 2mg Tablet | Strip of 10 tablets | Valid |
+| 68916 | Dienoziv 2 Tablet | Strip of 10 tablets | Valid |
+| 71904 | D Num 2mg Tablet | Strip of 10 tablets | Valid |
+| 72431 | Endoreg Tablet | Strip of 14 tablets | Valid |
+| 73346 | Endofit Tablet | Strip of 10 tablets | Valid |
+| 73437 | Endobye Tablet | Strip of 10 tablets | Valid |
+| 74382 | Endofree Tablet | Strip of 10 tablets | Valid |
+| 112503 | Ibinest Soft Gelatin Capsule | Strip of 10 soft gelatin capsules | Valid |
+| 178959 | Primogest 2mg Tablet | Strip of 10 tablets | Valid |
+| 215772 | Terozesta 2mg Tablet | Strip of 10 tablets | Valid |
+| 230497 | Uvazest 2mg Tablet | Strip of 10 tablets | Valid |
+| 244874 | Xenodieno 2mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 All products are oral.
 

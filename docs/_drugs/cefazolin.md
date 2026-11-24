@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Cefazolin"
 predicted_indications: ["infectious otitis media", "bronchitis", "middle ear disease", "chronic otitis media", "suppurative otitis media", "otosalpingitis", "non-suppurative otitis media", "allergic otitis media"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cefazolin: predicted new indication infectious otitis media (evidence level L5). In India: at least 20 listed products"
 ---
 
@@ -75,13 +75,36 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 169724 | Ozolin 500mg Injection | Vial of 1 powder for injection | — |
-| 14583 | Alcizon 250mg Injection | Vial of 1 injection | — |
-| 45152 | Cefadin 1000mg Injection | Vial of 1 injection | — |
-| 168602 | Ozolin 1000mg Injection | Vial of 1 powder for injection | — |
-| 172737 | Ozolin 250mg Injection | Vial of 1 powder for injection | — |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 7910 | Azolin 500mg Injection | Vial of 1 Injection | Valid |
+| 8264 | Ancef XP 1.125gm Injection | Vial of 1 Injection | Valid |
+| 8334 | Ancef XP 281.25mg Injection | Vial of 1 Injection | Valid |
+| 10451 | Alcizon 1gm Injection | Vial of 1 Injection | Valid |
+| 13081 | Alcizon 500mg Injection | Vial of 1 Injection | Valid |
+| 14583 | Alcizon 250mg Injection | Vial of 1 Injection | Valid |
+| 19263 | Ancef XP 140.625mg Injection | Vial of 1 Injection | Valid |
+| 32660 | Bizo 500mg Injection | Vial of 1 Injection | Valid |
+| 44638 | Cezolin 500mg Injection | Vial of 1 Injection | Valid |
+| 45152 | Cefadin 1000mg Injection | Vial of 1 Injection | Valid |
+| 49682 | Cezolin 250mg Injection | Vial of 1 Injection | Valid |
+| 151913 | Nostof 1gm Injection | Vial of 1 Injection | Valid |
+| 153715 | Nostof 250mg Injection | Vial of 1 Injection | Valid |
+| 156194 | Negcin 1gm Injection | Vial of 1 Injection | Valid |
+| 168602 | Ozolin 1000mg Injection | Vial of 1 Powder for Injection | Valid |
+| 169724 | Ozolin 500mg Injection | Vial of 1 Powder for Injection | Valid |
+| 172737 | Ozolin 250mg Injection | Vial of 1 Powder for Injection | Valid |
+| 185235 | Reflin 1gm Injection | Vial of 5 ml Injection | Valid |
+| 205773 | Sefazol 1000mg Injection | Vial of 1 Injection | Valid |
+| 208611 | Sefazol 500mg Injection | Vial of 1 Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 The local data show 20 valid single-ingredient licences and no cancelled ones. The list above is partial, and the records may be incomplete.
 

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 865
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Trihexyphenidyl: predicted new indication Attention deficit-hyperactivity disorder (evidence level L5). Approved use: Parkinson disease (and related parkinsonian disorders, dystonia…"
 monitor_inn: "Trihexyphenidyl"
 predicted_indications: ["attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "attention deficit hyperactivity disorder, inattentive type", "Rasmussen subacute encephalitis", "PLA2G6-associated neurodegeneration", "congenital disorder of glycosylation with defective fucosylation", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "retinal dystrophy with or without extraocular anomalies", "myelitis", "Charcot-Marie-Tooth disease, demyelinating, type 1G"]
@@ -85,15 +85,38 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-Twenty valid single-ingredient registrations are listed; the approved indication text is not available for any of them. The main authorizations are:
+Twenty valid single-ingredient registrations are listed; the approved indication text is not available for any of them.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 239880 | Vihexy 2mg Tablet | Strip of 10 tablets | Not specified |
-| 105078 | Hexinal 2mg Tablet | Strip of 10 tablets | Not specified |
-| 238881 | Vacitane 5mg Tablet | Strip of 10 tablets | Not specified |
-| 174426 | Parkinta 2mg Tablet | Strip of 10 tablets | Not specified |
-| 89607 | Flyper 5mg Tablet | Strip of 30 tablets | Not specified |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 54391 | Cerhexy 2mg Tablet | Strip of 20 tablets | Valid |
+| 65495 | D Park 2mg Tablet | Strip of 10 tablets | Valid |
+| 73957 | Eps 2 Tablet | Strip of 10 tablets | Valid |
+| 89607 | Flyper 5mg Tablet | Strip of 30 tablets | Valid |
+| 104970 | Hexymelt 2mg Tablet MD | Strip of 10 tablet md | Valid |
+| 105078 | Hexinal 2mg Tablet | Strip of 10 tablets | Valid |
+| 105867 | Hexyriv 2mg Tablet | Strip of 10 tablets | Valid |
+| 138008 | Movahexy 5 Tablet | Strip of 10 tablets | Valid |
+| 139118 | Multizine H 2 mg/25 mg/5 mg Tablet | Strip of 10 tablets | Valid |
+| 143652 | Manohexy 2mg Tablet | Strip of 10 tablets | Valid |
+| 174426 | Parkinta 2mg Tablet | Strip of 10 tablets | Valid |
+| 175048 | Parkin Tablet | Strip of 15 tablets | Valid |
+| 190325 | Rini 5mg Tablet | Strip of 10 tablets | Valid |
+| 217654 | Tris Tablet | Strip of 10 tablets | Valid |
+| 217677 | Try Tablet | Strip of 10 tablets | Valid |
+| 218176 | Tri EX 2mg Tablet | Strip of 10 tablets | Valid |
+| 221815 | Tryhp 5 Tablet | Strip of 10 tablets | Valid |
+| 223117 | Trixytin 5mg Tablet | Strip of 10 tablets | Valid |
+| 238881 | Vacitane 5mg Tablet | Strip of 10 tablets | Valid |
+| 239880 | Vihexy 2mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 All products are oral tablets.
 

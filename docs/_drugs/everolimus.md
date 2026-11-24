@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 333
 evidence_level: L2
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Everolimus"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "dermatofibrosarcoma protuberans", "parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "embryonal extrahepatic bile duct rhabdomyosarcoma", "rhabdomyosarcoma (disease)", "prostate embryonal rhabdomyosarcoma"]
 description: "Everolimus: predicted new indication Liposarcoma (evidence level L2). In India: at least 20 listed products"
@@ -101,15 +101,38 @@ This rationale is plausible but so far rests on a single-arm Phase 2 trial with 
 
 ## India Market Information
 
-There are 20 valid single-ingredient registrations, all oral tablets. Approved indication text is not available for any of them. Five main registrations:
+There are 20 valid single-ingredient registrations, all oral tablets. Approved indication text is not available for any of them.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| 2482 | Afinitor 5mg Tablet | Strip of 10 tablets | Novartis India Ltd |
-| 2691 | Afinitor 10mg Tablet | Strip of 10 tablets | Novartis India Ltd |
-| 75522 | Everotas 5mg Tablet | Strip of 10 tablets | Intas Pharmaceuticals Ltd |
-| 35415 | Certican 0.25mg Tablet | Strip of 10 tablets | Novartis India Ltd |
-| 237017 | Volantis 5mg Tablet | Strip of 10 tablets | Dr Reddy's Laboratories Ltd |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 2482 | Afinitor 5mg Tablet | Strip of 10 tablets | Valid |
+| 2691 | Afinitor 10mg Tablet | Strip of 10 tablets | Valid |
+| 34896 | Certican 0.5 Tablet | Strip of 10 tablets | Valid |
+| 35415 | Certican 0.25mg Tablet | Strip of 10 tablets | Valid |
+| 74392 | Evermil 10 Tablet | Strip of 10 tablets | Valid |
+| 74724 | Evergraf 0.25mg Tablet | Strip of 10 tablets | Valid |
+| 75522 | Everotas 5mg Tablet | Strip of 10 tablets | Valid |
+| 77452 | Everbliss 5mg Tablet | Strip of 10 tablets | Valid |
+| 78060 | Evelimus 5mg Tablet | Strip of 10 tablets | Valid |
+| 78205 | Everotas 10mg Tablet | Strip of 10 tablets | Valid |
+| 78356 | Everomus 5 Tablet | Strip of 10 tablets | Valid |
+| 123782 | Lanolimus 0.5mg Tablet | Strip of 10 tablets | Valid |
+| 128090 | Lanolimus 0.25mg Tablet | Strip of 10 tablets | Valid |
+| 185223 | Rolimus 5 Tablet | Strip of 10 tablets | Valid |
+| 185224 | Rolimus 10 Tablet | Strip of 10 tablets | Valid |
+| 190293 | Rapact 10mg Tablet | Strip of 10 tablets | Valid |
+| 192640 | Rapact 5mg Tablet | Strip of 10 tablets | Valid |
+| 237017 | Volantis 5mg Tablet | Strip of 10 tablets | Valid |
+| 238001 | Volantis 10mg Tablet | Strip of 10 tablets | Valid |
+| 244740 | Xolimus 10 Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 Other marketed brands include Evelimus, Xolimus, Everomus, Rapact, Rolimus, Evermil, Everbliss, Evergraf and Lanolimus. Strengths range from 0.25 mg to 10 mg.
 

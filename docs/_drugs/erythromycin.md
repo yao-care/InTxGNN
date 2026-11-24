@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 321
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Erythromycin"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "exposure keratitis", "lymphogranuloma venereum", "necrotizing ulcerative gingivitis"]
 description: "Erythromycin: predicted new indication Punctate epithelial keratoconjunctivitis (evidence level L5). In India: at least 20 listed products"
@@ -74,15 +74,38 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-At least 20 licences are recorded, all valid, and the list may be partial. Five main licences:
+At least 20 licences are recorded, all valid, and the list may be partial.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 78989 | Erythrocin Granules (Pfizer Ltd) | Granules, sachet of 30 ml | Not stated in licence record |
-| 80278 | Erythrox 250mg Tablet (Medicraft Group) | Tablet, strip of 10 | Not stated in licence record |
-| 79299 | Eromed 125mg Suspension (Comed Chemicals Ltd) | Suspension, bottle of 60 ml | Not stated in licence record |
-| 5250 | Acnebenz Gel (A. Menarini India Pvt Ltd) | Topical gel, tube of 60 g | Not stated in licence record |
-| 79419 | Erylent Gel (Talent Healthcare) | Topical gel, tube of 20 g | Not stated in licence record |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 5250 | Acnebenz Gel | Tube of 60 gm Gel | Valid |
+| 11034 | Arthrox 500mg Tablet | Strip of 10 tablets | Valid |
+| 11692 | Arthrox 250mg Tablet | Strip of 10 tablets | Valid |
+| 21528 | Althraled 250mg Tablet | Strip of 10 tablets | Valid |
+| 23465 | Avithrocin 250mg Tablet | Strip of 10 tablets | Valid |
+| 50640 | Cythrocin 500mg Tablet | Strip of 10 tablets | Valid |
+| 75344 | Erocin 100mg Tablet | Strip of 10 tablets | Valid |
+| 76594 | Ethril 250mg Tablet | Strip of 10 tablets | Valid |
+| 77113 | E Mycin 100mg Suspension | Bottle of 60 ml Suspension | Valid |
+| 77292 | Eroate 500mg Tablet | Strip of 10 tablets | Valid |
+| 78989 | Erythrocin Granules | Sachet of 30 ml Granules | Valid |
+| 79299 | Eromed 125mg Suspension | Bottle of 60 ml Suspension | Valid |
+| 79419 | Erylent Gel | Tube of 20 gm Gel | Valid |
+| 80278 | Erythrox 250mg Tablet | Strip of 10 tablets | Valid |
+| 81362 | Ertomac 500mg Tablet | Strip of 10 tablets | Valid |
+| 82127 | Erocyn 250mg Tablet | Strip of 10 tablets | Valid |
+| 82826 | Elithron 250mg Tablet | Strip of 10 tablets | Valid |
+| 83454 | Erygin 250mg Tablet | Strip of 10 tablets | Valid |
+| 183429 | Q Mycin 125mg Tablet | Strip of 10 tablets | Valid |
+| 212734 | Suzithrocin 125mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 Available forms include oral tablets, granules and suspensions, and topical gels. No ophthalmic form appears among the recorded licences.
 

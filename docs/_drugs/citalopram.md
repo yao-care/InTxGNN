@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 187
 evidence_level: L2
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Citalopram"
 predicted_indications: ["obsessive-compulsive disorder", "histrionic personality disorder (disease)", "schizotypal personality disorder", "schizoid personality disorder", "paranoid personality disorder"]
 description: "Citalopram: predicted new indication Obsessive-compulsive disorder (evidence level L2). In India: at least 20 listed products"
@@ -100,13 +100,36 @@ One caution: the larger trials listed below support the SSRI class and combined 
 
 Citalopram has 20 valid single-ingredient registrations in India (the list may be partial). Approved indication text is not recorded for these licences.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 51897 | Citadelm 20mg Tablet | Strip of 10 tablets | Not specified |
-| 46198 | Cytop 20mg Tablet | Strip of 10 tablets | Not specified |
-| 42439 | Cita 40mg Tablet | Strip of 10 tablets | Not specified |
-| 41468 | C Pram 5mg Tablet | Strip of 10 tablets | Not specified |
-| 49382 | Citosys 10mg Tablet | Strip of 10 tablets | Not specified |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 40172 | Citola 40mg Tablet | Strip of 10 tablets | Valid |
+| 41421 | Citox 20mg Tablet | Strip of 10 tablets | Valid |
+| 41468 | C Pram 5mg Tablet | Strip of 10 tablets | Valid |
+| 42439 | Cita 40mg Tablet | Strip of 10 tablets | Valid |
+| 43132 | Citoshant 40mg Tablet | Strip of 10 tablets | Valid |
+| 43710 | C-Talo 20mg Tablet | Strip of 10 tablets | Valid |
+| 45177 | Celimine 10mg Tablet | Strip of 10 tablets | Valid |
+| 46198 | Cytop 20mg Tablet | Strip of 10 tablets | Valid |
+| 46563 | Citalomine 10 Tablet | Strip of 10 tablets | Valid |
+| 47291 | C-Talo 10mg Tablet | Strip of 10 tablets | Valid |
+| 49382 | Citosys 10mg Tablet | Strip of 10 tablets | Valid |
+| 49560 | Citara 40mg Tablet | Strip of 10 tablets | Valid |
+| 51897 | Citadelm 20mg Tablet | Strip of 10 tablets | Valid |
+| 53573 | Citoshant 10mg Tablet | Strip of 10 tablets | Valid |
+| 54407 | Ciprexa 10mg Tablet | Strip of 10 tablets | Valid |
+| 55108 | Citarip 10mg Tablet | Strip of 10 tablets | Valid |
+| 182446 | Pratric 10mg Tablet | Strip of 10 tablets | Valid |
+| 234876 | Vocita 10mg Tablet | Strip of 10 tablets | Valid |
+| 238027 | Vocita 20mg Tablet | Strip of 10 tablets | Valid |
+| 239672 | Vocita 40mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ---
 

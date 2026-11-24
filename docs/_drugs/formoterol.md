@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 378
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Formoterol"
 predicted_indications: ["respiratory malformation", "Rienhoff syndrome"]
 description: "Formoterol: predicted new indication Respiratory malformation (evidence level L5). In India: at least 20 listed products"
@@ -82,15 +82,38 @@ None of the retrieved publications directly studies respiratory malformation. Th
 
 ## India Market Information
 
-At least 20 valid single-ingredient licences were found, and the list may be partial. A selection of five:
+At least 20 valid single-ingredient licences were found, and the list may be partial.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| Registration No. 176746 | Pulmofor B 200 Inhaler | Bottle of 120 MDI inhaler | AXA Parenterals Ltd |
-| Registration No. 3183 | Airwin-BF 200 Capsule | Bottle of 30 capsules | Ultimate Healthcare |
-| Registration No. 199689 | Symbicort 160mcg/4.5mcg Turbuhaler | Packet of 60 MDI inhaler | AstraZeneca |
-| Registration No. 61813 | Duova Rotacap | Packet of 20 rotacaps | Cipla Ltd |
-| Registration No. 84129 | Formoflo 250 Transhaler | Packet of 120 MDI Transhaler | Lupin Ltd |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 3183 | Airwin-BF 200 Capsule | Bottle of 30 capsules | Valid |
+| 10114 | Airwin-BF 400 Inhaler | Bottle of 120 MDI Inhaler | Valid |
+| 29498 | Budevin F 6mcg/400mcg Inhaler | Box of 120 MDI Inhaler | Valid |
+| 29967 | Budirik 200 Capsule | Bottle of 30 capsules | Valid |
+| 41789 | Combihale FF 100 DPI Capsule | Bottle of 30 capsules | Valid |
+| 61813 | Duova Rotacap | Packet of 20 rotacaps | Valid |
+| 84129 | Formoflo 250 Transhaler | Packet of 120 MDI Transhaler | Valid |
+| 84424 | Formoflo Forte Transcaps | Bottle of 30 transcaps | Valid |
+| 84701 | Fluticort F 250 Inhaler | Packet of 120 MDI Inhaler | Valid |
+| 84807 | Fomtide 400 CFC Free Inhaler | Packet of 120 MDI Inhaler | Valid |
+| 85742 | Fabhale 200 Capsule | Bottle of 30 capsules | Valid |
+| 87347 | Flutidin F 6mcg/250mcg Divicap | Strip of 30 capsules | Valid |
+| 87423 | Formonide 200 Novocart | Packet of 100 MDI Novocart | Valid |
+| 95920 | Glycoprl-F Dpicaps | Bottle of 30 capsules | Valid |
+| 176746 | Pulmofor B 200 Inhaler | Bottle of 120 MDI Inhaler | Valid |
+| 199689 | Symbicort 160mcg/4.5mcg Turbuhaler | Packet of 60 MDI Inhaler | Valid |
+| 216849 | Tiomate Hfa 6mcg/9mcg Inhaler | Packet of 1 Inhaler | Valid |
+| 221330 | Tioform Hfa 6mcg/9mcg Inhaler | Packet of 120 MDI Inhaler | Valid |
+| 230532 | Unipuff FB 6mcg/200mcg Capsule | Bottle of 30 capsules | Valid |
+| 241736 | Winkast F Inhaler | Packet of 120 MDI Inhaler | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

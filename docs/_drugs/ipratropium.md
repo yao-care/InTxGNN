@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 444
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Ipratropium"
 predicted_indications: ["nasal cavity disease", "pharyngitis", "acute laryngopharyngitis", "respiratory malformation", "papillary conjunctivitis", "Rienhoff syndrome", "tracheal disease", "anaphylaxis", "food-dependent exercise-induced anaphylaxis"]
 description: "Ipratropium: predicted new indication Nasal cavity disease (evidence level L5). In India: 8 listed products (8 not discontinued)"
@@ -108,13 +108,22 @@ Several other registered trials were withdrawn or terminated with 0–3 particip
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 110430 | Ipramist 250mcg Inhaler (Zydus Cadila) | Packet of 200 MDI inhaler | Not stated |
-| 107746 | Ipravent Respules 2ml (Cipla) | Strip of 5 respules | Not stated |
-| 107959 | Ipravent Rotacaps (Cipla) | Packet of 30 capsules (for inhalation) | Not stated |
-| 109544 | Ipratop 200mcg Inhaler (AstraZeneca) | Packet of 1 inhaler | Not stated |
-| 109655 | Ipramist 250mcg Solution for inhalation (Zydus Cadila) | Bottle of 15 ml solution for inhalation | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 13891 | Aprovent Inhaler | Packet of 1 Inhaler | Valid |
+| 107746 | Ipravent Respules 2ml | Strip of 5 respules | Valid |
+| 107821 | Ipravent Respirator Solution | Bottle of 15 ml Respules | Valid |
+| 107959 | Ipravent Rotacaps | Packet of 30 capsules | Valid |
+| 108961 | Ipneb Solution for inhalation | Bottle of 15 ml Solution for inhalation | Valid |
+| 109544 | Ipratop 200mcg Inhaler | Packet of 1 Inhaler | Valid |
+| 109655 | Ipramist 250mcg Solution for inhalation | Bottle of 15 ml Solution for inhalation | Valid |
+| 110430 | Ipramist 250mcg Inhaler | Packet of 200 MDI Inhaler | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 There are 8 valid single-ingredient registrations in total and no cancelled ones. Three more are not shown above: 13891 (Aprovent Inhaler, Cipla), 108961 (Ipneb Solution for inhalation, Lupin) and 107821 (Ipravent Respirator Solution, Cipla).
 

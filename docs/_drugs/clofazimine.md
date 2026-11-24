@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 200
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Clofazimine: predicted new indication Pneumocystosis (evidence level L5). Approved use: Pyoderma gangrenosum, leprosy, multibacillary leprosy"
 monitor_inn: "Clofazimine"
 predicted_indications: ["pneumocystosis", "malaria", "gastrin secretion abnormality"]
@@ -86,15 +86,27 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 123980 | Lepromine 50mg Capsule | Strip of 10 capsules | Not listed |
-| 88207 | Fazim 50mg Capsule | Strip of 10 capsules | Not listed |
-| 40009 | Clofros 50mg Capsule | Strip of 10 capsules | Not listed |
-| 86739 | Feza 50 Capsule | Strip of 10 capsules | Not listed |
-| 40922 | Clofozine 50mg Capsule | Box of 100 capsules | Not listed |
+<!-- licenses:begin -->
 
-There are 11 valid single-ingredient registrations in total, all oral capsules. The five shown are the main ones.
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 34999 | Clofozine 100mg Capsule | Box of 100 capsules | Valid |
+| 39679 | Clofros 100mg Capsule | Strip of 10 capsules | Valid |
+| 40009 | Clofros 50mg Capsule | Strip of 10 capsules | Valid |
+| 40922 | Clofozine 50mg Capsule | Box of 100 capsules | Valid |
+| 43576 | Clofaz 100mg Soft Gelatin Capsule | Strip of 10 soft gelatin capsules | Valid |
+| 44281 | Clofaz 50mg Capsule | Strip of 10 capsules | Valid |
+| 86739 | Feza 50 Capsule | Strip of 10 capsules | Valid |
+| 88207 | Fazim 50mg Capsule | Strip of 10 capsules | Valid |
+| 103777 | Hansepran 100 Capsule | Strip of 10 capsules | Valid |
+| 123980 | Lepromine 50mg Capsule | Strip of 10 capsules | Valid |
+| 126401 | Lepromine 100mg Capsule | Strip of 10 capsules | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
+
+There are 11 valid single-ingredient registrations in total, all oral capsules.
 
 ---
 

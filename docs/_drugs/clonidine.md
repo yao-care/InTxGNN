@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Clonidine"
 predicted_indications: ["faciodigitogenital syndrome", "specific developmental disorder", "chondromyxoid fibroma", "trichotillomania", "Tourette syndrome", "obesity disorder", "hypervitaminosis", "proximal 16p11.2 microdeletion syndrome", "migraine disorder", "manic bipolar affective disorder"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Clonidine: predicted new indication faciodigitogenital syndrome (evidence level L5). In India: 20 listed products (20 not discontinued)"
 ---
 
@@ -70,21 +70,42 @@ Currently no related literature available.
 
 ## India Market Information
 
-Clonidine is marketed in India. All 20 records are valid. The data compiled for this report carry no approved-indication text for these records. The main ones are listed below.
+Clonidine is marketed in India. All records are valid. The data compiled for this report carry no approved-indication text for these records.
 
 <!-- review:begin in-lic-20261106-clonidine-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "All 20 records are valid, and all are single-ingredient products." Removed: the number or status of product records stated here did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). The data list 20 product records for this drug, 20 current; the Quick Overview and the table under India Market Information show the current figures. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+> **Review correction (2026-11-24)**: Originally stated: "All 20 records are valid, and all are single-ingredient products." Removed: the number or status of product records stated here did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). The data list 20 product records for this drug, 20 current; the Quick Overview and the table under India Market Information show the current figures. Revised 2026-11-24: the hard-coded number of records and the wording about the old table were dropped; the Quick Overview and the product table under India Market Information show the current figures. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
 
 <!-- review:end in-lic-20261106-clonidine-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 612 | Arkamin H Tablet | Strip of 10 tablets | Not recorded |
-| 37962 | Cata-Dict 0.1 Tablet | Strip of 10 tablets | Not recorded |
-| 36402 | Catapres 150mcg Tablet | Bottle of 100 tablets | Not recorded |
-| 1751 | Arkapres 150 Tablet | Strip of 10 tablets | Not recorded |
-| 34732 | Cloneon Injection | Vial of 1 ml injection | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 16 | Arkamin Tablet | Strip of 30 tablets | Valid |
+| 612 | Arkamin H Tablet | Strip of 10 tablets | Valid |
+| 1219 | Arkapres 100 Tablet | Strip of 10 tablets | Valid |
+| 1751 | Arkapres 150 Tablet | Strip of 10 tablets | Valid |
+| 2881 | Albamine 100mcg Tablet | Strip of 10 tablets | Valid |
+| 4971 | Albamine 150mcg Tablet | Strip of 10 tablets | Valid |
+| 34732 | Cloneon Injection | Vial of 1 ml Injection | Valid |
+| 36402 | Catapres 150mcg Tablet | Bottle of 100 tablets | Valid |
+| 36535 | Clodict 100mcg Tablet | Strip of 10 tablets | Valid |
+| 36995 | Clonithem 100 Tablet | Strip of 30 tablets | Valid |
+| 37236 | Cloud 100mcg Tablet | Strip of 10 tablets | Valid |
+| 37962 | Cata-Dict 0.1 Tablet | Strip of 10 tablets | Valid |
+| 40585 | Closidin 100mcg Tablet | Strip of 10 tablets | Valid |
+| 40934 | Clonizole 100 Tablet | Strip of 30 tablets | Valid |
+| 45835 | Clonidoc 100 Tablet | Strip of 10 tablets | Valid |
+| 66976 | Dictcalm 100mcg Tablet | Strip of 10 tablets | Valid |
+| 76986 | Ericlon Tablet | Strip of 10 tablets | Valid |
+| 151303 | Nefropres C 150mcg Tablet | Strip of 10 tablets | Valid |
+| 152003 | Nefropres 100mcg Tablet | Strip of 10 tablets | Valid |
+| 154768 | Neodine Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -112,7 +133,7 @@ Below is the review log for this page: statements checked against official India
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-06 | Removed: "and all are single-ingredient products" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-24 | Removed: "and all are single-ingredient products" | Corrected (revised 2026-11-24; earlier version kept in the record) | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 | 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Qlonilik (clonidine hydrochloride) prescribing information, CMP Pharma, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=826de1dc-378e-4c90-86d1-e33f7a4248cd) |
 
 <!-- review:end log -->

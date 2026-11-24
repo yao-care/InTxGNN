@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 569
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Morphine"
 predicted_indications: ["myofascial pain syndrome", "manic bipolar affective disorder", "Tourette syndrome", "restless legs syndrome", "attention deficit hyperactivity disorder, inattentive type", "migraine disorder", "trichotillomania", "methemoglobinemia", "migraine with brainstem aura", "specific developmental disorder"]
 description: "Morphine: predicted new indication Myofascial pain syndrome (evidence level L5). In India: 15 listed products (15 not discontinued)"
@@ -79,15 +79,31 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-Morphine is marketed in India, and all 15 licences in the local records are valid. The records carry no approved indication text. Five representative licences:
+Morphine is marketed in India, and all 15 licences in the local records are valid. The records carry no approved indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Registration No. 135738 | Morcontin 30mg Tablet CR | Strip of 10 controlled-release tablets | Not recorded |
-| Registration No. 134780 | Morcontin 10mg Tablet | Strip of 10 tablets | Not recorded |
-| Registration No. 233823 | Vermor 10 Injection | Ampoule of 1 ml injection | Not recorded |
-| Registration No. 60882 | Duramor 30mg Tablet | Strip of 10 tablets | Not recorded |
-| Registration No. 118182 | Koxma Tag Syrup | Bottle of 100 ml syrup | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 60525 | DURAMOR 10MG TABLET | Strip of 10 tablets | Valid |
+| 60882 | Duramor 30mg Tablet | Strip of 10 tablets | Valid |
+| 118182 | Koxma Tag Syrup | Bottle of 100 ml Syrup | Valid |
+| 134780 | Morcontin 10mg Tablet | Strip of 10 tablets | Valid |
+| 134950 | Morphitroy 10mg Tablet | Strip of 10 tablets | Valid |
+| 135029 | Morcon Tablet | Strip of 10 tablets | Valid |
+| 135738 | Morcontin 30mg Tablet CR | Strip of 10 tablet cr | Valid |
+| 184878 | Rumorf 30mg Tablet | Strip of 10 tablets | Valid |
+| 203046 | San Morf 10mg Tablet | Strip of 10 tablets | Valid |
+| 203619 | San Morf 30mg Tablet | Strip of 10 tablets | Valid |
+| 233348 | Vermor 10mg Tablet | Strip of 10 tablets | Valid |
+| 233823 | Vermor 10 Injection | Ampoule of 1 ml Injection | Valid |
+| 234061 | Vermor 30mg Tablet | Strip of 10 tablets | Valid |
+| 234825 | Vermor 20mg Tablet | Strip of 10 tablets | Valid |
+| 235088 | Vermor 60mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

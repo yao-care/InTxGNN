@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 609
 evidence_level: L2
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Nortriptyline"
 predicted_indications: ["attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type"]
 description: "Nortriptyline: predicted new indication Attention deficit-hyperactivity disorder (evidence level L2). In India: at least 20 listed products"
@@ -85,15 +85,38 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 158104 | Norhap 25mg Tablet | Strip of 10 tablets | Not stated in the data |
-| 151869 | Nordep 25mg Tablet | Strip of 10 tablets | Not stated in the data |
-| 229119 | Tyval 75mg Tablet | Strip of 10 tablets | Not stated in the data |
-| 158368 | Notrima 25mg Tablet | Strip of 10 tablets | Not stated in the data |
-| 232875 | Unotrip 15mg Tablet | Strip of 10 tablets | Not stated in the data |
+<!-- licenses:begin -->
 
-There are 20 valid single-ingredient licences in total (all oral tablets); the five main ones are shown.
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 51636 | Cyclinor 25mg Tablet | Strip of 10 tablets | Valid |
+| 60157 | Depival 25mg Tablet | Strip of 10 tablets | Valid |
+| 150966 | Nortin 25mg Tablet | Strip of 10 tablets | Valid |
+| 151169 | Nortrip 10mg Tablet | Strip of 10 tablets | Valid |
+| 151869 | Nordep 25mg Tablet | Strip of 10 tablets | Valid |
+| 152197 | Nortrip 75mg Tablet | Strip of 10 tablets | Valid |
+| 152321 | Nortimer 75mg Tablet | Strip of 10 tablets | Valid |
+| 152507 | Norsun 25mg Tablet | Strip of 10 tablets | Valid |
+| 153794 | Nortrip 50mg Tablet | Strip of 10 tablets | Valid |
+| 154077 | Nortyline 25 Tablet | Strip of 10 tablets | Valid |
+| 155696 | Noraus 25 Tablet | Strip of 10 tablets | Valid |
+| 158104 | Norhap 25mg Tablet | Strip of 10 tablets | Valid |
+| 158368 | Notrima 25mg Tablet | Strip of 10 tablets | Valid |
+| 199608 | Sensival 25 Tablet | Strip of 10 tablets | Valid |
+| 201993 | Sensaril 25mg Tablet | Strip of 10 tablets | Valid |
+| 207079 | Secmin 50 Tablet | Strip of 10 tablets | Valid |
+| 212620 | Secmin 75 Tablet | Strip of 10 tablets | Valid |
+| 224974 | Tyval 50 Tablet | Strip of 10 tablets | Valid |
+| 229119 | Tyval 75mg Tablet | Strip of 10 tablets | Valid |
+| 232875 | Unotrip 15mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
+
+There are 20 valid single-ingredient licences in total (all oral tablets).
 
 ## Safety Considerations
 

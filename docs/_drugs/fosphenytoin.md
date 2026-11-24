@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 382
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Fosphenytoin: predicted new indication Conjunctivitis (evidence level L5). Approved use: Epilepsy"
 monitor_inn: "Fosphenytoin"
 predicted_indications: ["conjunctivitis", "nephrogenic syndrome of inappropriate antidiuresis", "Tourette syndrome", "manic bipolar affective disorder", "myositis fibrosa", "idiopathic granulomatous myositis", "fibromyalgia"]
@@ -103,15 +103,26 @@ No literature is available for conjunctivitis. The only publication identified a
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 86034 | Fosolin 750mg Injection (Zydus Cadila) | Vial of 10 ml injection | Not specified |
-| 87299 | Fosphen 75mg Injection (Intas Pharmaceuticals Ltd) | Vial of 10 ml injection | Not specified |
-| 85048 | Fosphen 150mg Injection (Intas Pharmaceuticals Ltd) | Vial of 2 ml injection | Not specified |
-| 88578 | Fosentin 75mg Injection (Sun Pharmaceutical Industries Ltd) | Vial of 2 ml injection | Not specified |
-| 84397 | Fosolin 75mg Injection (Zydus Cadila) | Vial of 2 ml injection | Not specified |
+<!-- licenses:begin -->
 
-Ten valid single-ingredient registrations are on record; the five above are shown. All products are injectables.
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 84397 | Fosolin 75mg Injection | Vial of 2 ml Injection | Valid |
+| 84468 | Fosolin 150mg Injection | Vial of 2 ml Injection | Valid |
+| 85048 | Fosphen 150mg Injection | Vial of 2 ml Injection | Valid |
+| 86034 | Fosolin 750mg Injection | Vial of 10 ml Injection | Valid |
+| 87299 | Fosphen 75mg Injection | Vial of 10 ml Injection | Valid |
+| 88578 | Fosentin 75mg Injection | Vial of 2 ml Injection | Valid |
+| 88923 | Fosentin 10mg Injection | Vial of 10 ml Injection | Valid |
+| 148349 | Milorgen 75mg/ml Injection | Vial of 2 ml Injection | Valid |
+| 148755 | Milorgen 75mg/ml Injection | Vial of 10 ml Injection | Valid |
+| 151590 | Neofost 75mg Injection | Vial of 2 ml Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
+
+Ten valid single-ingredient registrations are on record. All products are injectables.
 
 ---
 

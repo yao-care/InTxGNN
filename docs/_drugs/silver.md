@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 773
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "Silver"
 predicted_indications: ["bone Paget disease"]
 description: "Silver: predicted new indication Bone Paget disease (evidence level L5). In India: 9 listed products (9 not discontinued)"
@@ -90,19 +90,29 @@ None of these studies tests silver as a treatment.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 230608 | Unosil 550 Antimicrobial Wound and Burn Gel | Gel, 15 g tube | Not stated |
-| 199930 | Silvacure Plus Cream | Cream, 15 g tube | Not stated |
-| 200609 | Silverstream Liquid | Liquid, 100 ml bottle | Not stated |
-| 231127 | Unosil Antimicrobial Wound and Burn Spray | Solution, 50 ml pump bottle | Not stated |
-| 231323 | Unosil 550 Antimicrobial Wound and Burn Gel | Gel, 200 g jar | Not stated |
+<!-- licenses:begin -->
 
-There are 9 valid registrations in total; the table lists the first 5.
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 26669 | Burnosept Plus Cream | Tube of 15 gm Cream | Valid |
+| 199930 | Silvacure Plus Cream | Tube of 15 gm Cream | Valid |
+| 200609 | Silverstream Liquid | Bottle of 100 ml Liquid | Valid |
+| 202657 | Silverstream Liquid | Bottle of 250 ml Liquid | Valid |
+| 230608 | Unosil 550 Antimicrobial Wound and Burn Gel | Tube of 15 gm Gel | Valid |
+| 230841 | Unosil Antimicrobial Wound and Burn Spray | Bottle of 100 ml Solution | Valid |
+| 231089 | Unosil 550 Antimicrobial Wound and Burn Gel | Tube of 50 gm Gel | Valid |
+| 231127 | Unosil Antimicrobial Wound and Burn Spray | Pump bottle of 50 ml Solution | Valid |
+| 231323 | Unosil 550 Antimicrobial Wound and Burn Gel | Jar of 200 gm Gel | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
+
+All registrations are valid.
 
 <!-- review:begin in-lic-20261106-silver-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "There are 9 valid single-ingredient registrations in total; the table lists the first 5." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+> **Review correction (2026-11-24)**: Originally stated: "There are 9 valid single-ingredient registrations in total; the table lists the first 5." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Revised 2026-11-24: the hard-coded number of records and the wording about the old table were dropped; the Quick Overview and the product table under India Market Information show the current figures. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
 
 <!-- review:end in-lic-20261106-silver-1 -->
 
@@ -139,7 +149,7 @@ Below is the review log for this page: statements checked against official India
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-24 | Removed: "single-ingredient" | Corrected (revised 2026-11-24; earlier version kept in the record) | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 

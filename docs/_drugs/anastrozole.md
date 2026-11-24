@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Anastrozole"
 predicted_indications: ["neuroblastoma", "vertebral anomalies and variable endocrine and T-cell dysfunction", "ganglioneuroblastoma (disease)", "retroperitoneal neoplasm", "monocytic leukemia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Anastrozole: predicted new indication neuroblastoma (evidence level L5). In India: at least 20 listed products"
 ---
 
@@ -68,13 +68,36 @@ Currently no related literature available.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 201544 | Stazonex Tablet | strip of 10 tablets | Not recorded |
-| 14122 | Altrol 1mg Tablet | strip of 14 tablets | Not recorded |
-| 78860 | Egsure 1mg Tablet | strip of 5 tablets | Not recorded |
-| 6826 | Atraz 1mg Tablet | strip of 10 tablets | Not recorded |
-| 224544 | Trazocad 1mg Tablet | strip of 10 tablets | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 1309 | Arimidex 1mg Tablet | Box of 28 tablets | Valid |
+| 2085 | ANAZOL 1 MG TABLET | Strip of 10 tablets | Valid |
+| 5298 | Anaday Tablet | Strip of 10 tablets | Valid |
+| 6826 | Atraz 1mg Tablet | Strip of 10 tablets | Valid |
+| 7698 | Anastronat 1mg Tablet | Strip of 30 tablets | Valid |
+| 8228 | Aritoz Tablet | Strip of 14 tablets | Valid |
+| 8823 | Astronex 1mg Tablet | Strip of 5 tablets | Valid |
+| 9858 | Avantaz Tablet | Strip of 14 tablets | Valid |
+| 10268 | Anastar 1mg Tablet | Strip of 1 Tablet | Valid |
+| 11427 | Alstar 1mg Tablet | Strip of 10 tablets | Valid |
+| 14122 | Altrol 1mg Tablet | Strip of 14 tablets | Valid |
+| 17086 | Anaglob 1mg Tablet | Strip of 14 tablets | Valid |
+| 17094 | Anastrocare 1mg Tablet | Strip of 10 tablets | Valid |
+| 28349 | Brestozol Tablet | Strip of 10 tablets | Valid |
+| 73489 | Elinal Tablet | Strip of 10 tablets | Valid |
+| 78860 | Egsure 1mg Tablet | Strip of 5 tablets | Valid |
+| 85047 | Femitraz Tablet | Strip of 10 tablets | Valid |
+| 129672 | Lilmantro 1mg Tablet | Strip of 10 tablets | Valid |
+| 201544 | Stazonex Tablet | Strip of 10 tablets | Valid |
+| 224544 | Trazocad 1mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 The list shows 5 of the licences compiled for this report and may be partial. All the licences listed are valid single-ingredient products.
 

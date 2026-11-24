@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 197
 evidence_level: L3
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Clobetasol: predicted new indication Primary cutaneous T-cell lymphoma (evidence level L3). Approved use: Not stated in the available India licence data"
 monitor_inn: "Clobetasol"
 predicted_indications: ["primary cutaneous T-cell lymphoma"]
@@ -81,15 +81,38 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 122219 | Lobesol Cream | Tube of 15 gm cream | Not stated |
-| 34940 | Clobet Cream | Tube of 15 gm cream | Not stated |
-| 39089 | Clobaderm Ointment | Tube of 10 gm ointment | Not stated |
-| 27807 | Becomed gm Cream | Tube of 10 gm cream | Not stated |
-| 35937 | Clonext Cream | Tube of 30 gm cream | Not stated |
+<!-- licenses:begin -->
 
-There are 20 valid single-ingredient registrations in total; the table shows the first five. All are topical products (cream, ointment, lotion).
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 27807 | Becomed gm Cream | Tube of 10 gm Cream | Valid |
+| 32247 | Bactiderm gm Cream | Tube of 15 gm Cream | Valid |
+| 34940 | Clobet Cream | Tube of 15 gm Cream | Valid |
+| 34970 | Clofresh GM Cream | Tube of 40 gm Cream | Valid |
+| 35937 | Clonext Cream | Tube of 30 gm Cream | Valid |
+| 36066 | Clopinate gm Cream | Tube of 15 gm Cream | Valid |
+| 36426 | Clobesol gm Cream | Tube of 10 gm Cream | Valid |
+| 38081 | Corci NM Cream | Tube of 15 gm Cream | Valid |
+| 38134 | Clopan Cream | Tube of 30 gm Cream | Valid |
+| 39089 | Clobaderm Ointment | Tube of 10 gm Ointment | Valid |
+| 48119 | Cbs 0.05% Cream | Tube of 15 gm Cream | Valid |
+| 52230 | Corsa Cream | Tube of 30 gm Cream | Valid |
+| 60521 | Dermzex-GM Cream | Tube of 15 gm Cream | Valid |
+| 122219 | Lobesol Cream | Tube of 15 gm Cream | Valid |
+| 135114 | Maxel G Cream | Tube of 30 gm Cream | Valid |
+| 178306 | Prosivate S Ointment | Tube of 20 gm Ointment | Valid |
+| 202378 | Supersal Lotion | Bottle of 30 ml Lotion | Valid |
+| 205461 | Sal P Ointment | Tube of 15 gm Ointment | Valid |
+| 223045 | Trifec Cream | Tube of 10 gm Cream | Valid |
+| 248203 | Zincort G Cream | Tube of 15 gm Cream | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
+
+There are 20 valid single-ingredient registrations in total. All are topical products (cream, ointment, lotion).
 
 ## Safety Considerations
 

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 73
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ascorbic Acid: predicted new indication Non-syndromic esophageal malformation (evidence level L5). Approved use: Ascorbic acid deficiency"
 monitor_inn: "Ascorbic acid"
 predicted_indications: ["non-syndromic esophageal malformation", "esophageal disease", "congenital prothrombin deficiency", "injury", "biotin metabolic disease", "perinatal disease", "florid cemento-osseous dysplasia", "segmental odontomaxillary dysplasia", "disease by subcellular system affected"]
@@ -79,15 +79,38 @@ Currently no related literature available.
 
 ## India Market Information
 
-Ascorbic acid is widely marketed in India as a single-ingredient product. There are 20 valid registrations, none cancelled. Dosage forms include injections, chewable tablets and oral drops. The data compiled for this report do not include approved indication text. The five main authorizations are listed below.
+Ascorbic acid is widely marketed in India as a single-ingredient product. There are 20 valid registrations, none cancelled. Dosage forms include injections, chewable tablets and oral drops. The data compiled for this report do not include approved indication text.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| Registration No. 246648 | Zascor Chewable Tablet Lemon & Honey Sugar Free | Chewable tablet (strip of 15) | Franco-Indian Pharmaceuticals Pvt Ltd |
-| Registration No. 242077 | W-Vit-Plus Injection Combipack | Injection (box of 1) | Woriox Pharma Private Limited |
-| Registration No. 246805 | Zincee Chewable Tablet | Chewable tablet (strip of 20) | Zydus Healthcare Limited |
-| Registration No. 203069 | Scornix Injection | Injection (vial of 6 ml) | Nixi Laboratories Private Limited |
-| Registration No. 24614 | Ascorcee 1500mg Injection | Injection (vial of 1) | Scotmed Care Pvt Ltd |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 2484 | Aquasol C Oral Drops | Bottle of 30 ml Oral Drops | Valid |
+| 4921 | Ascovit C 1500mg Injection | Vial of 6 ml Injection | Valid |
+| 6754 | Ascovar Injection | Vial of 6 ml Injection | Valid |
+| 9616 | Ascochew Chewable Tablet Orange | Strip of 10 Chewable Tablets | Valid |
+| 24614 | Ascorcee 1500mg Injection | Vial of 1 Injection | Valid |
+| 35742 | CZ 360 Chewable Tablet Orange | Strip of 15 Chewable Tablets | Valid |
+| 45702 | Cefedge-C Injection | Vial of 6 ml Injection | Valid |
+| 110331 | Inlime-CZ Chewable Tablet Orange | Bottle of 30 Chewable Tablets | Valid |
+| 124072 | Limcor Chewable Tablet Orange | Bottle of 30 Chewable Tablets | Valid |
+| 163740 | Ovit-Cee Injection | Vial of 6 ml Injection | Valid |
+| 166156 | Oxistox 12 Injection | Box of 2 injections | Valid |
+| 193832 | Ross Vee C 500mg Injection | Vial of 1 Injection | Valid |
+| 200650 | Scorbix 1.5gm Injection | Vial of 3 ml Injection | Valid |
+| 201798 | Scorbia-XT Injection | Box of 1 Injection | Valid |
+| 203069 | Scornix Injection | Vial of 6 ml Injection | Valid |
+| 233351 | Vitamin C Injection | Vial of 1.5 ml Injection | Valid |
+| 242077 | W-Vit-Plus Injection Combipack | Box of 1 Injection | Valid |
+| 246648 | Zascor Chewable Tablet Lemon & Honey Sugar Free | Strip of 15 Chewable Tablets | Valid |
+| 246805 | Zincee Chewable Tablet | Strip of 20 Chewable Tablets | Valid |
+| 247785 | Zu-C Injection | Ampoule of 5 ml Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ---
 

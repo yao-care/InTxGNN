@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 687
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Posaconazole: predicted new indication Pneumocystosis (evidence level L5). Approved use: Fungal infections (chromomycosis, coccidioidomycosis, aspergillosis…"
 monitor_inn: "Posaconazole"
 predicted_indications: ["pneumocystosis"]
@@ -91,15 +91,34 @@ None of these publications shows that posaconazole is effective for Pneumocystis
 
 ## India Market Information
 
-Posaconazole has 18 valid single-ingredient registrations in India, with no cancelled licences. Oral tablets, oral suspensions, and injections are available. The records contain no approved indication text. Five of the main registrations are listed below.
+Posaconazole has 18 valid single-ingredient registrations in India, with no cancelled licences. Oral tablets, oral suspensions, and injections are available. The records contain no approved indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 151535 | Noxafil Oral Suspension (MSD) | Bottle of 105 ml oral suspension | Not stated in the records |
-| 176865 | Poshope Injection (Abbott) | Vial of 16.7 ml injection | Not stated in the records |
-| 174772 | Posatral Tablet (Mylan) | Strip of 10 tablets | Not stated in the records |
-| 176503 | Posahit 100mg Tablet (Sun Pharma) | Strip of 10 tablets | Not stated in the records |
-| 175459 | Posaforce 100mg Tablet (Mankind) | Strip of 10 tablets | Not stated in the records |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 35714 | Candipoz-GR Tablet | Strip of 10 tablets | Valid |
+| 142488 | Mycos-P Oral Suspension | Bottle of 105 ml Oral Suspension | Valid |
+| 151535 | Noxafil Oral Suspension | Bottle of 105 ml Oral Suspension | Valid |
+| 174086 | Picasa-GR Tablet | Strip of 10 tablets | Valid |
+| 174772 | Posatral Tablet | Strip of 10 tablets | Valid |
+| 175285 | Picasa 40mg Oral Suspension | Bottle of 105 ml Oral Suspension | Valid |
+| 175459 | Posaforce 100mg Tablet | Strip of 10 tablets | Valid |
+| 176277 | Picasa 300mg Injection | Vial of 16.7 ml Injection | Valid |
+| 176313 | Posoxil GR 100mg Tablet | Bottle of 10 tablets | Valid |
+| 176382 | Poscosafe Tablet | Strip of 10 tablets | Valid |
+| 176503 | Posahit 100mg Tablet | Strip of 10 tablets | Valid |
+| 176865 | Poshope Injection | Vial of 16.7 ml Injection | Valid |
+| 177140 | Poscosafe Oral Suspension | Bottle of 105 ml Oral Suspension | Valid |
+| 177512 | Posatral 300mg Injection | Vial of 16.7 ml Injection | Valid |
+| 177939 | Poshope Oral Suspension | Bottle of 105 ml Oral Suspension | Valid |
+| 178598 | Posanat 300mg Injection | Vial of 1 Injection | Valid |
+| 180092 | Posahit 300mg Injection | Vial of 16.7 ml Injection | Valid |
+| 180989 | Posalup Injection | Vial of 16.7 ml Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ---
 

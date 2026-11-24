@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 287
 evidence_level: L4
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Doxazosin"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura"]
 description: "Doxazosin: predicted new indication Migraine disorder (evidence level L4). In India: 8 listed products (8 not discontinued)"
@@ -87,15 +87,24 @@ This is a very small, uncontrolled report and cannot establish efficacy.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 59845 | Doxacard 4 Tablet (Cipla Ltd) | Strip of 10 tablets | Not stated in records |
-| 64626 | Doxapress 2mg Tablet (Micro Labs Ltd) | Strip of 10 tablets | Not stated in records |
-| 217969 | Tendura Tablet (Adeka India Private Limited) | Strip of 10 tablets | Not stated in records |
-| 66014 | Doxapress 1mg Tablet (Micro Labs Ltd) | Strip of 10 tablets | Not stated in records |
-| 61421 | Duracard 2mg Tablet (Sun Pharmaceutical Industries Ltd) | Strip of 10 tablets | Not stated in records |
+<!-- licenses:begin -->
 
-Eight valid single-ingredient registrations exist in total, all oral tablets, with none cancelled. The table lists five of them.
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 59845 | Doxacard 4 Tablet | Strip of 10 tablets | Valid |
+| 60620 | Doxacard 2 Tablet | Strip of 10 tablets | Valid |
+| 61252 | Doxacard 1 Tablet | Strip of 10 tablets | Valid |
+| 61421 | Duracard 2mg Tablet | Strip of 10 tablets | Valid |
+| 64626 | Doxapress 2mg Tablet | Strip of 10 tablets | Valid |
+| 64744 | Duracard 4mg Tablet | Strip of 10 tablets | Valid |
+| 66014 | Doxapress 1mg Tablet | Strip of 10 tablets | Valid |
+| 217969 | Tendura Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
+
+Eight valid single-ingredient registrations exist in total, all oral tablets, with none cancelled.
 
 ---
 

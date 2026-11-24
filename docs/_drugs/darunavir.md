@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Darunavir"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Darunavir: predicted new indication Feline acquired immunodeficiency syndrome (evidence level L5). Approved use: HIV infectious disease"
 ---
 
@@ -98,21 +98,30 @@ The supplied abstracts are truncated, so whether darunavir is part of these regi
 
 ## India Market Information
 
-At least the following authorisations are recorded (8 licences, all valid, none cancelled). The licence records contain no approved-indication text.
+All recorded authorisations are valid, and none are cancelled. The licence records contain no approved-indication text.
 
 <!-- review:begin in-lic-20261106-darunavir-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "At least the following authorisations are recorded (8 single-ingredient licences, all valid, none cancelled)." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+> **Review correction (2026-11-24)**: Originally stated: "At least the following authorisations are recorded (8 single-ingredient licences, all valid, none cancelled)." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Revised 2026-11-24: the hard-coded number of records and the wording about the old table were dropped; the Quick Overview and the product table under India Market Information show the current figures. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
 
 <!-- review:end in-lic-20261106-darunavir-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Registration No. 63782 | Danavir 600 Tablet | Bottle of 60 tablets | Not stated in licence record |
-| Registration No. 66955 | Danavir 300mg Tablet | Bottle of 30 tablets | Not stated in licence record |
-| Registration No. 236379 | Virem 600mg Tablet | Bottle of 60 tablets | Not stated in licence record |
-| Registration No. 238628 | Virem 300mg Tablet | Bottle of 120 tablets | Not stated in licence record |
-| Registration No. 59933 | Daruvir 600mg Tablet | Bottle of 60 tablets | Not stated in licence record |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 59933 | Daruvir 600mg Tablet | Bottle of 60 tablets | Valid |
+| 61245 | Durart-R 450 Tablet | Bottle of 60 tablets | Valid |
+| 63166 | Daruvir 600 R Tablet | Bottle of 60 tablets | Valid |
+| 63782 | Danavir 600 Tablet | Bottle of 60 tablets | Valid |
+| 64510 | Daruvir 800 R Tablet | Bottle of 30 tablets | Valid |
+| 66955 | Danavir 300mg Tablet | Bottle of 30 tablets | Valid |
+| 236379 | Virem 600mg Tablet | Bottle of 60 tablets | Valid |
+| 238628 | Virem 300mg Tablet | Bottle of 120 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 All products are oral tablets.
 
@@ -155,7 +164,7 @@ Below is the review log for this page: statements checked against official India
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-24 | Removed: "single-ingredient" | Corrected (revised 2026-11-24; earlier version kept in the record) | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 | 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Prezista (darunavir) prescribing information, Janssen Products LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=814301f9-c990-46a5-b481-2879a521a16f) |
 
 <!-- review:end log -->

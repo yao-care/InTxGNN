@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Adalimumab"
 predicted_indications: ["hypermobility of coccyx", "Kummell disease", "vertebral disease"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Adalimumab: predicted new indication hypermobility of coccyx (evidence level L5). In India: 15 listed products (15 not discontinued)"
 ---
 
@@ -70,15 +70,31 @@ Currently no related literature available for hypermobility of coccyx.
 
 ## India Market Information
 
-Adalimumab is marketed in India under 15 valid single-ingredient licences, all injectable (vials and prefilled syringes). The licence records carry no indication text. The main authorisations are listed below.
+Adalimumab is marketed in India under 15 valid single-ingredient licences, all injectable (vials and prefilled syringes). The licence records carry no indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 2395 | Adalirel 40mg Injection (Reliance Life Sciences) | Vial of 1 injection | Not recorded |
-| 8950 | Adalirel 20mg Injection (Reliance Life Sciences) | Vial of 0.4 ml injection | Not recorded |
-| 10487 | Amab Injection (Dr Reddy's Laboratories Ltd) | Prefilled syringe of 0.8 ml injection | Not recorded |
-| 36414 | Cipleumab 40mg Injection (Cipla Ltd) | Prefilled syringe of 0.8 ml injection | Not recorded |
-| 72488 | Exemptia 40mg/0.8ml Injection (Zydus Cadila) | Prefilled syringe of 1 injection | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 839 | Adalipca 40mg Injection | Vial of 1 Injection | Valid |
+| 962 | Adfrar Injection | Prefilled syringe of 1 Injection | Valid |
+| 1845 | Adlumab 40mg Injection | Vial of 0.8 ml Injection | Valid |
+| 2395 | Adalirel 40mg Injection | Vial of 1 Injection | Valid |
+| 4182 | Adalimac 40mg Injection | Prefilled syringe of 0.8 ml Injection | Valid |
+| 5948 | Admira 40mg/0.8ml Injection | Vial of 1 Injection | Valid |
+| 8950 | Adalirel 20mg Injection | Vial of 0.4 ml Injection | Valid |
+| 10487 | Amab Injection | Prefilled syringe of 0.8 ml Injection | Valid |
+| 36414 | Cipleumab 40mg Injection | Prefilled syringe of 0.8 ml Injection | Valid |
+| 72488 | Exemptia 40mg/0.8ml Injection | Prefilled syringe of 1 Injection | Valid |
+| 74060 | Exemptia 20mg/0.4ml Injection | Prefilled syringe of 1 ml Injection | Valid |
+| 76391 | Envira 40mg Injection | Vial of 0.8 ml Injection | Valid |
+| 134542 | Mabura 40mg Injection | Vial of 1 ml Injection | Valid |
+| 136100 | Mabvinra 40mg Injection | Vial of 1 Injection | Valid |
+| 174104 | Plamumab 40mg Injection | Vial of 1 Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

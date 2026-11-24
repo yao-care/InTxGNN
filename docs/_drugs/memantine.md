@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 523
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Memantine: predicted new indication Pulmonary hypertension (evidence level L5). Approved use: Not stated in the India registration data compiled for this report"
 monitor_inn: "Memantine"
 predicted_indications: ["pulmonary hypertension", "migraine disorder", "kyphoscoliotic heart disease", "migraine with brainstem aura"]
@@ -114,15 +114,38 @@ No clinical trials were registered for the top-ranked indication, pulmonary hype
 
 ## India Market Information
 
-Memantine has 20 valid single-ingredient registrations in India, all oral tablets. The approved indication text is not stated in the registration data. The main registrations are listed below.
+Memantine has 20 valid single-ingredient registrations in India, all oral tablets. The approved indication text is not stated in the registration data.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 121855 | Larentine 5 Tablet (La Renon Healthcare) | Strip of 10 tablets | Not stated |
-| 140383 | Mentagen 10mg Tablet (Cellgen Biopharma) | Strip of 10 tablets | Not stated |
-| 138971 | Memantal 5mg Tablet (East West Pharma) | Strip of 10 tablets | Not stated |
-| 63272 | Demenzil 10mg Tablet (Alkem Laboratories) | Strip of 10 tablets | Not stated |
-| 66929 | Dmentin 5mg Tablet MD (Micro Labs) | Strip of 10 tablets (MD) | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 116 | Admenta 5 Tablet | Strip of 10 tablets | Valid |
+| 234 | Admenta 10 Tablet | Strip of 10 tablets | Valid |
+| 4122 | Almantin 5mg Tablet | Strip of 10 tablets | Valid |
+| 13141 | Atmen 10mg Tablet | Strip of 10 tablets | Valid |
+| 47541 | Cormatin 5mg Tablet | Strip of 10 tablets | Valid |
+| 62758 | DavaIndia Memantine 10mg Tablet | Strip of 10 tablets | Valid |
+| 63272 | Demenzil 10mg Tablet | Strip of 10 tablets | Valid |
+| 63553 | DavaIndia Memantine 5mg Tablet | Strip of 10 tablets | Valid |
+| 66929 | Dmentin 5mg Tablet MD | Strip of 10 tablet md | Valid |
+| 121855 | Larentine 5 Tablet | Strip of 10 tablets | Valid |
+| 122291 | Larentine 10 Tablet | Strip of 10 tablets | Valid |
+| 135602 | Mentra 10mg Tablet | Strip of 10 tablets | Valid |
+| 136309 | Meman 10mg Tablet | Strip of 10 tablets | Valid |
+| 138971 | Memantal 5mg Tablet | Strip of 10 tablets | Valid |
+| 139166 | Mentagen 5mg Tablet | Strip of 10 tablets | Valid |
+| 139230 | Mentadem 10mg Tablet | Strip of 10 tablets | Valid |
+| 140383 | Mentagen 10mg Tablet | Strip of 10 tablets | Valid |
+| 141959 | Menata 10 Tablet | Strip of 10 tablets | Valid |
+| 142296 | Menata 5 Tablet | Strip of 10 tablets | Valid |
+| 201020 | Senex 5 Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

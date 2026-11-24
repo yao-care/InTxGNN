@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 254
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Dexmedetomidine: predicted new indication Nephrogenic syndrome of inappropriate antidiuresis (evidence level L5). Approved use: Not stated in the licence data (injectable dexmedetomidine is general…"
 monitor_inn: "Dexmedetomidine"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "migraine disorder", "migraine with brainstem aura", "headache disorder", "trigeminal autonomic cephalalgia"]
@@ -89,13 +89,30 @@ For context, the main publications for the headache disorder prediction:
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 58943 | Dextomid 50mcg Injection | Vial of 1 ml injection | Not stated |
-| 69363 | Dexglan 100mcg Injection | Vial of 2 ml injection | Not stated |
-| 59924 | Dextomid 200mcg Injection | Vial of 2 ml injection | Not stated |
-| 244099 | Xamdex 100mcg Injection | Vial of 2 ml injection | Not stated |
-| 146844 | Medetofix 100 Injection | Ampoule of 1 ml injection | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 6557 | Alphadex 100mcg Injection | Vial of 1 ml Injection | Valid |
+| 58943 | Dextomid 50mcg Injection | Vial of 1 ml Injection | Valid |
+| 59360 | Dexem 100mcg Injection | Vial of 2 ml Injection | Valid |
+| 59924 | Dextomid 200mcg Injection | Vial of 2 ml Injection | Valid |
+| 60842 | Dexit 100mcg Injection | Vial of 1 ml Injection | Valid |
+| 61673 | Dexem 50mcg Injection | Vial of 1 ml Injection | Valid |
+| 62608 | Dexit 50mcg Injection | Vial of 0.5 ml Injection | Valid |
+| 63442 | Dexmedine Injection | Vial of 0.5 ml Injection | Valid |
+| 64365 | Dexmedine 200mcg Injection | Vial of 2 ml Injection | Valid |
+| 65573 | Dexem 100mcg Injection | Vial of 1 ml Injection | Valid |
+| 69363 | Dexglan 100mcg Injection | Vial of 2 ml Injection | Valid |
+| 140562 | Medetofix 200 Injection | Vial of 2 ml Injection | Valid |
+| 144285 | Medetofix 50 50mcg | Ampoule of 0.5 ml Injection | Valid |
+| 146844 | Medetofix 100 Injection | Ampoule of 1 ml Injection | Valid |
+| 244099 | Xamdex 100mcg Injection | Vial of 2 ml Injection | Valid |
+| 244587 | Xamdex 50mcg Injection | Vial of 0.5 ml Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 There are 16 valid single-ingredient registrations in total, all injectable.
 

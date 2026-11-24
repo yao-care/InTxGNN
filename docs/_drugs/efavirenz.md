@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Efavirenz"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Efavirenz: predicted new indication Feline acquired immunodeficiency syndrome (evidence level L5). Approved use: HIV infectious disease, AIDS"
 ---
 
@@ -76,15 +76,31 @@ Related literature on simian immunodeficiency virus (SIV) models was also retrie
 
 ## India Market Information
 
-Efavirenz is marketed in India. All 15 licences are single-ingredient products, and none of the records contain approved-indication text. The five main ones are listed below.
+Efavirenz is marketed in India. All 15 licences are single-ingredient products, and none of the records contain approved-indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 77516 | Efavir 200mg Tablet (Cipla Ltd) | Bottle of 60 tablets | Not stated in the record |
-| 76025 | Efamat 600mg Tablet (Mylan Pharmaceuticals Pvt Ltd) | Strip of 30 tablets | Not stated in the record |
-| 73774 | Efavir 200mg Capsule (Cipla Ltd) | Strip of 30 capsules | Not stated in the record |
-| 81571 | Evirenz 200mg Tablet (Alkem Laboratories Ltd) | Strip of 10 tablets | Not stated in the record |
-| 81471 | Effahope 600mg Tablet (Macleods Pharmaceuticals Pvt Ltd) | Strip of 30 tablets | Not stated in the record |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 73279 | Efavir 600 Tablet | Bottle of 30 tablets | Valid |
+| 73774 | Efavir 200mg Capsule | Strip of 30 capsules | Valid |
+| 75401 | Estiva 600 Capsule | Strip of 30 capsules | Valid |
+| 76025 | Efamat 600mg Tablet | Strip of 30 tablets | Valid |
+| 77133 | Efcure 600mg Tablet | Strip of 30 tablets | Valid |
+| 77516 | Efavir 200mg Tablet | Bottle of 60 tablets | Valid |
+| 78724 | Efarenz 600 Tablet | Bottle of 30 tablets | Valid |
+| 79155 | Efferven 600mg Tablet | Strip of 30 tablets | Valid |
+| 79253 | Efcure 200mg Tablet | Strip of 30 tablets | Valid |
+| 80758 | Evirenz 600mg Tablet | Strip of 30 tablets | Valid |
+| 81471 | Effahope 600mg Tablet | Strip of 30 tablets | Valid |
+| 81571 | Evirenz 200mg Tablet | Strip of 10 tablets | Valid |
+| 83003 | Efferven 200mg Capsule | Strip of 10 capsules | Valid |
+| 193479 | Revenz 600mg Tablet | Strip of 10 tablets | Valid |
+| 236026 | Viranz 600mg Capsule | Strip of 30 capsules | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

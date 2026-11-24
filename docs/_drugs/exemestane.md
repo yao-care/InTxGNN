@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 335
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Exemestane: predicted new indication Antithrombin deficiency type 2 (evidence level L5). Approved use: Not available in the registration data compiled for this report"
 monitor_inn: "Exemestane"
 predicted_indications: ["antithrombin deficiency type 2", "amenorrhea (disease)", "factor 5 excess with spontaneous thrombosis", "heparin cofactor 2 deficiency", "thrombophilia", "migraine disorder", "migraine with brainstem aura"]
@@ -86,13 +86,21 @@ For the second-ranked prediction (amenorrhea), five indirect publications were r
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 243847 | Xtane Tablet (Natco Pharma Ltd) | Bottle of 30 tablets | Not specified |
-| 16628 | Aromasin 25mg Tablet (Pfizer Ltd) | Strip of 15 tablets | Not specified |
-| 244021 | Xemasin 25mg Tablet (Zee Laboratories) | Strip of 10 tablets | Not specified |
-| 74595 | Exeget 25mg Tablet (GLS Pharma Ltd.) | Strip of 10 tablets | Not specified |
-| 75614 | Exmasin 25mg Tablet (Sun Pharmaceutical Industries Ltd) | Strip of 5 tablets | Not specified |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 16628 | Aromasin 25mg Tablet | Strip of 15 tablets | Valid |
+| 74595 | Exeget 25mg Tablet | Strip of 10 tablets | Valid |
+| 75614 | Exmasin 25mg Tablet | Strip of 5 tablets | Valid |
+| 76776 | Exetraz 25mg Tablet | Strip of 10 tablets | Valid |
+| 243847 | Xtane Tablet | Bottle of 30 tablets | Valid |
+| 244021 | Xemasin 25mg Tablet | Strip of 10 tablets | Valid |
+| 244202 | Xmalon 25mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 Two further valid single-ingredient licences (76776 Exetraz, Alkem; 244202 Xmalon, Celon) are not shown. All 7 registrations are valid.
 

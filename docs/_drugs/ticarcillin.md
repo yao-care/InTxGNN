@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 836
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Ticarcillin: predicted new indication Lymph node palisaded myofibroblastoma (evidence level L5). Approved use: Bacterial infections (urinary tract infection, bacterial pneumonia…"
 monitor_inn: "Ticarcillin"
 predicted_indications: ["lymph node palisaded myofibroblastoma", "abdominal cystic lymphangioma", "abdominal ectopic pregnancy", "celiac trunk compression syndrome", "sacrum chordoma", "disease of retroperitoneum", "urethral disease", "disease of uterine broad ligament", "disease of peritoneum", "pelvic varices"]
@@ -90,21 +90,37 @@ None of these are randomized controlled trials. Some are indirect (for example, 
 
 ## India Market Information
 
-Fifteen valid registrations were found. Approved indication text was not available for any of them. The five main ones are listed below.
+All registrations found are valid. Approved indication text was not available for any of them.
 
 <!-- review:begin in-lic-20261106-ticarcillin-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "Fifteen valid single-ingredient registrations were found." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+> **Review correction (2026-11-24)**: Originally stated: "Fifteen valid single-ingredient registrations were found." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Revised 2026-11-24: the hard-coded number of records and the wording about the old table were dropped; the Quick Overview and the product table under India Market Information show the current figures. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
 
 <!-- review:end in-lic-20261106-ticarcillin-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 228363 | Ticwise 3000mg/100mg Injection | Vial of 1 injection | Not available |
-| 216070 | Ticarnic 3.1 Injection | Vial of 1 injection | Not available |
-| 224103 | Ticar C 3000mg/100mg Injection | Vial of 1 injection | Not available |
-| 217640 | Timentin 3.1 Injection (GlaxoSmithKline) | Vial of 1 injection | Not available |
-| 222573 | Timcyn 3000 mg/100 mg Injection | Vial of 1 injection | Not available |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 37168 | Clatiplus 3000mg/100mg Injection | Vial of 1 ml Injection | Valid |
+| 216070 | Ticarnic 3.1 Injection | Vial of 1 Injection | Valid |
+| 217640 | Timentin 3.1 Injection | Vial of 1 Injection | Valid |
+| 218423 | Ticarnate 3.1gm Injection | Vial of 1 Injection | Valid |
+| 218958 | Ticpot 3000mg/100mg Injection | Vial of 1 Injection | Valid |
+| 219678 | Ticarset 3000mg/100mg Injection | Vial of 1 Injection | Valid |
+| 222573 | Timcyn 3000 mg/100 mg Injection | Vial of 1 Injection | Valid |
+| 224103 | Ticar C 3000mg/100mg Injection | Vial of 1 Injection | Valid |
+| 224301 | Ticarvib Injection | Vial of 1 Injection | Valid |
+| 225723 | Ticonate 3.1g Injection | Vial of 1 Injection | Valid |
+| 226583 | Ticalclav 3000mg/100mg Injection | Vial of 1 Powder for Injection | Valid |
+| 227854 | Tico Meg CV 300mg/100mg Injection | Vial of 1 Injection | Valid |
+| 227934 | Ticarnip 3000mg/1000mg Injection | Vial of 1 Injection | Valid |
+| 228363 | Ticwise 3000mg/100mg Injection | Vial of 1 Injection | Valid |
+| 245913 | Yestic 3.1g Injection | Vial of 1 Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 All products are injectables.
 
@@ -143,7 +159,7 @@ Below is the review log for this page: statements checked against official India
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-24 | Removed: "single-ingredient" | Corrected (revised 2026-11-24; earlier version kept in the record) | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 

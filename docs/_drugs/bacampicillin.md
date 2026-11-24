@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 87
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 description: "Bacampicillin: predicted new indication Epiglottitis (evidence level L5). Approved use: Urinary tract infection, gonorrhea, pharyngitis…"
 monitor_inn: "Bacampicillin"
 predicted_indications: ["epiglottitis", "abdominal ectopic pregnancy", "abdominal cystic lymphangioma", "celiac trunk compression syndrome", "lymph node palisaded myofibroblastoma", "sacrum chordoma", "disease of retroperitoneum", "disease of uterine broad ligament", "urethral disease", "disease of peritoneum"]
@@ -78,9 +78,15 @@ No literature is available for epiglottitis. The only publication among the top 
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Registration No. 177972 | Penglobe 200mg Tablet (AstraZeneca) | Strip of 6 tablets (oral) | Not specified |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 177972 | Penglobe 200mg Tablet | Strip of 6 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

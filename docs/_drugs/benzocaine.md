@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Benzocaine"
 predicted_indications: ["papillary conjunctivitis"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 description: "Benzocaine: predicted new indication papillary conjunctivitis (evidence level L5). In India: at least 20 listed products"
 ---
 
@@ -73,13 +73,36 @@ Currently no related literature available.
 
 Records may be partial. The 20 valid single-ingredient licences found are shown below in part (the first 5).
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 78462 | Exwax Ear Drop | Ear drop, packet of 10 ml | Not recorded |
-| 220125 | T Jel 7.50% Gel | Dental gel, tube of 10 gm | Not recorded |
-| 162503 | Otoclean Ear Drop | Ear drop, packet of 10 ml | Not recorded |
-| 241610 | Waxoff Ear Drop | Ear drop, packet of 10 ml | Not recorded |
-| 163763 | Omnisoothe 10mg Lozenges | Lozenge, strip of 8 | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 34616 | Curewax Ear Drop | Packet of 10 ml Ear Drop | Valid |
+| 59547 | Dizolwax Ear Drop | Packet of 10 ml Ear Drop | Valid |
+| 60803 | Dava Wax Ear Drop | Bottle of 10 ml Ear Drop | Valid |
+| 73113 | E-Wax Ear Drop | Bottle of 10 ml Ear Drop | Valid |
+| 78462 | Exwax Ear Drop | Packet of 10 ml Ear Drop | Valid |
+| 108225 | IG-Wax Ear Drop | Bottle of 10 ear drops | Valid |
+| 117049 | Kira-Neo Ear Drop | Bottle of 5 ml Ear Drop | Valid |
+| 151721 | Nugel Mps Syrup | Bottle of 170 ml Syrup | Valid |
+| 162503 | Otoclean Ear Drop | Packet of 10 ml Ear Drop | Valid |
+| 163763 | Omnisoothe 10mg Lozenges | Strip of 8 lozenges | Valid |
+| 164224 | Oriwax Ear Drop | Packet of 10 ml Ear Drop | Valid |
+| 187216 | Remowax Ear Drop | Bottle of 10 ml Ear Drop | Valid |
+| 220125 | T Jel 7.50% Gel | Tube of 10 gm Dental Gel | Valid |
+| 233886 | Vovax Ear Drop | Packet of 10 ml Ear Drop | Valid |
+| 241433 | Wax-Off Ear Drop | Bottle of 10 ml Ear Drop | Valid |
+| 241476 | Waxrid Ear Drop | Packet of 10 ml Ear Drop | Valid |
+| 241566 | Waxactin Ear Drop | Bottle of 10 ml Ear Drop | Valid |
+| 241610 | Waxoff Ear Drop | Packet of 10 ml Ear Drop | Valid |
+| 242070 | Waxotec Ear Drop | Bottle of 10 ml Ear Drop | Valid |
+| 242184 | Waxap Ear Drop | Bottle of 10 ml Ear Drop | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

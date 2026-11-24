@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 236
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Daunorubicin: predicted new indication Hodgkins lymphoma (evidence level L3). Approved use: Acute lymphoblastic leukemia and acute myeloid leukemia (and related…"
 monitor_inn: "Daunorubicin"
 predicted_indications: ["Hodgkins lymphoma", "vertebral anomalies and variable endocrine and T-cell dysfunction", "ganglioneuroblastoma (disease)", "neuroblastoma", "ALK-positive large B-cell lymphoma", "adenosarcoma", "retroperitoneal neoplasm", "small cell lung carcinoma", "primary pulmonary lymphoma", "pulmonary blastoma"]
@@ -96,13 +96,20 @@ Most of this literature concerns non-Hodgkin lymphoma or general anthracycline u
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 60654 | Daunomycin 20mg Injection (Pfizer Ltd) | Vial of 10 ml injection | Not stated |
-| 59802 | Daunotec 20mg Injection (Cipla Ltd) | Vial of 4 ml injection | Not stated |
-| 63524 | Daunorubitec Injection (United Biotech Pvt Ltd) | Vial of 1 injection | Not stated |
-| 67377 | Daunocin 20mg Injection (Miracalus Pharma Pvt Ltd) | Vial of 1 powder for injection | Not stated |
-| 66182 | Daunocin 20mg Injection (Vhb Life Sciences Inc) | Vial of 2 ml injection | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 59802 | Daunotec 20mg Injection | Vial of 4 ml Injection | Valid |
+| 60654 | Daunomycin 20mg Injection | Vial of 10 ml Injection | Valid |
+| 61794 | Dauneon 20mg Injection | Vial of 1 ml Injection | Valid |
+| 63524 | Daunorubitec Injection | Vial of 1 Injection | Valid |
+| 66182 | Daunocin 20mg Injection | Vial of 2 ml Injection | Valid |
+| 67377 | Daunocin 20mg Injection | Vial of 1 Powder for Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 A sixth licence (61794, Dauneon 20mg Injection, Neon Laboratories Ltd) is also valid. All six licences are for single-ingredient injectable products.
 

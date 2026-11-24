@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 489
 evidence_level: L2
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Levonorgestrel"
 predicted_indications: ["acne (disease)", "Worth syndrome", "autosomal dominant neovascular inflammatory vitreoretinopathy", "apocrine adenosis of breast", "blunt duct adenosis of breast"]
 description: "Levonorgestrel: predicted new indication Acne (disease) (evidence level L2). In India: at least 20 listed products"
@@ -80,15 +80,38 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-The data compiled for this report list 20 valid single-ingredient registrations, and the list may be partial. The main ones are below.
+The data compiled for this report list 20 valid single-ingredient registrations, and the list may be partial.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Registration No. 134050 | Mirena Intrauterine Delivery System | packet of 1 Unit | Not available |
-| Registration No. 74055 | Eloira Hormonal Intrauterine system | box of 1 Intrauterine system | Not available |
-| Registration No. 86115 | Freedom 28 Tablet | strip of 28 tablets | Not available |
-| Registration No. 108804 | Idoz 1.5mg Tablet | strip of 1 Tablet | Not available |
-| Registration No. 175668 | Pronta 72 Emergency Contraceptive Tablet | strip of 1 Tablet | Not available |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 73120 | Evening Pill Emergency Contraceptive Pill | Strip of 1 Tablet | Valid |
+| 74055 | Eloira Hormonal Intrauterine system | Box of 1 Intrauterine system | Valid |
+| 75261 | Eve Pill 1.5mg Tablet | Strip of 1 Tablet | Valid |
+| 78188 | EC Kare 1.5mg Tablet | Strip of 1 Tablet | Valid |
+| 86115 | Freedom 28 Tablet | Strip of 28 tablets | Valid |
+| 100752 | Getsure 1.5mg Tablet | Strip of 1 Tablet | Valid |
+| 107854 | IGP's No Issue 72 Tablet | Strip of 1 Tablet | Valid |
+| 108804 | Idoz 1.5mg Tablet | Strip of 1 Tablet | Valid |
+| 123065 | Leedoz 72 Tablet | Strip of 1 Tablet | Valid |
+| 124695 | Levodiva Device | Packet of 1 Unit | Valid |
+| 126084 | Leepill 1.5mg Tablet | Strip of 1 Tablet | Valid |
+| 134050 | Mirena Intrauterine Delivery System | Packet of 1 Unit | Valid |
+| 135545 | Morning Pill 1.5mg Tablet | Strip of 1 Tablet | Valid |
+| 151121 | Nowill 1.5mg Tablet | Strip of 1 Tablet | Valid |
+| 155619 | Nofear 72 1.5mg Tablet | Strip of 1 Tablet | Valid |
+| 175668 | Pronta 72 Emergency Contraceptive Tablet | Strip of 1 Tablet | Valid |
+| 190387 | Restrikt 1.5mg Tablet | Strip of 1 Tablet | Valid |
+| 201989 | StayHappi Levonorgestrel 1.5mg Tablet | Strip of 1 Tablet | Valid |
+| 204624 | She 72 1.5mg Tablet | Strip of 1 Tablet | Valid |
+| 216663 | Trust Tablet | Strip of 28 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

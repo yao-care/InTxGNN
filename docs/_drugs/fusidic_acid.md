@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 385
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Fusidic acid"
 predicted_indications: ["exposure keratitis", "non-human animal disease", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "parasitic eyelid infestation"]
 description: "Fusidic Acid: predicted new indication Exposure keratitis (evidence level L5). In India: at least 20 listed products"
@@ -81,15 +81,38 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-Product indication text is not recorded on the licences. All 20 registrations are valid single-ingredient products, and the main ones are listed below.
+Product indication text is not recorded on the licences.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Registration No. 88191 | Fusy Cream | Cream (5 g tube) | Not recorded |
-| Registration No. 85771 | Fusidox 20mg Cream | Cream (5 g tube) | Not recorded |
-| Registration No. 87795 | Fusilife Cream | Cream (10 g tube) | Not recorded |
-| Registration No. 209057 | Safoban Ointment | Ointment (10 g tube) | Not recorded |
-| Registration No. 85644 | Fusi Ointment | Ointment (5 g tube) | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 39809 | Cudic 20mg Cream | Tube of 10 gm Cream | Valid |
+| 65606 | Dicfu 20mg Cream | Tube of 10 gm Cream | Valid |
+| 84105 | Fudic Cream | Tube of 10 gm Cream | Valid |
+| 84253 | Fusiwal Cream | Tube of 5 gm Cream | Valid |
+| 85040 | Fuzi Cream | Tube of 10 gm Cream | Valid |
+| 85333 | Fexit Cream | Tube of 10 gm Cream | Valid |
+| 85644 | Fusi Ointment | Tube of 5 gm Ointment | Valid |
+| 85771 | Fusidox 20mg Cream | Tube of 5 gm Cream | Valid |
+| 85884 | Fusic Cream | Tube of 10 gm Cream | Valid |
+| 86122 | Fubact Cream | Tube of 10 gm Cream | Valid |
+| 86130 | Fucid 2% Cream | Tube of 5 gm Cream | Valid |
+| 86224 | Fusipan B Cream | Tube of 10 gm Cream | Valid |
+| 87660 | Fudine Cream | Tube of 5 gm Cream | Valid |
+| 87795 | Fusilife Cream | Tube of 10 gm Cream | Valid |
+| 88191 | Fusy Cream | Tube of 5 gm Cream | Valid |
+| 88895 | Fusidox 20mg Cream | Tube of 7.5 gm Cream | Valid |
+| 88906 | Fusivic Cream | Tube of 10 gm Cream | Valid |
+| 165148 | Optimix Cream | Tube of 10 gm Cream | Valid |
+| 204470 | Sofibet 2% Cream | Tube of 10 gm Cream | Valid |
+| 209057 | Safoban Ointment | Tube of 10 gm Ointment | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 All registered products are topical creams or ointments; no oral or ophthalmic forms are registered.
 

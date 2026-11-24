@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 805
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Tamoxifen: predicted new indication Mammary Paget disease (evidence level L5). Approved use: Female breast carcinoma (invasive ductal breast carcinoma…"
 monitor_inn: "Tamoxifen"
 predicted_indications: ["mammary Paget disease", "Ehrlich tumor carcinoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
@@ -82,13 +82,36 @@ Mammary Paget disease is usually associated with underlying ductal carcinoma in 
 
 The data compiled for this report list 20 valid single-ingredient oral tablet registrations (strips of 10 tablets, 10 mg and 20 mg strengths). Approved indication text is not available for any of them.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 46661 | Canogen 20mg Tablet | Strip of 10 tablets | Not stated |
-| 214870 | Tamodex 20mg Tablet | Strip of 10 tablets | Not stated |
-| 166053 | Oncotam 20mg Tablet | Strip of 10 tablets | Not stated |
-| 42515 | Camofen 20mg Tablet | Strip of 10 tablets | Not stated |
-| 163786 | Oncomox 10mg Tablet | Strip of 10 tablets | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 42515 | Camofen 20mg Tablet | Strip of 10 tablets | Valid |
+| 44232 | Camofen 10mg Tablet | Strip of 10 tablets | Valid |
+| 46415 | Cytofen 10mg Tablet | Strip of 10 tablets | Valid |
+| 46661 | Canogen 20mg Tablet | Strip of 10 tablets | Valid |
+| 73651 | Entax 20mg Tablet | Strip of 10 tablets | Valid |
+| 74923 | Entax 10mg Tablet | Strip of 10 tablets | Valid |
+| 78923 | Eldtam 10mg Tablet | Strip of 10 tablets | Valid |
+| 79844 | Eldtam 20mg Tablet | Strip of 10 tablets | Valid |
+| 136177 | Moxifen 20mg Tablet | Strip of 10 tablets | Valid |
+| 156249 | Neotam 10mg Tablet | Strip of 10 tablets | Valid |
+| 163786 | Oncomox 10mg Tablet | Strip of 10 tablets | Valid |
+| 166053 | Oncotam 20mg Tablet | Strip of 10 tablets | Valid |
+| 166904 | Oncotam 10mg Tablet | Strip of 10 tablets | Valid |
+| 214870 | Tamodex 20mg Tablet | Strip of 10 tablets | Valid |
+| 215201 | Tamodex 10mg Tablet | Strip of 10 tablets | Valid |
+| 218852 | Tamoxol 20 Tablet | Strip of 10 tablets | Valid |
+| 222125 | Tamglob 20mg Tablet | Strip of 10 tablets | Valid |
+| 223791 | Tamglob 10mg Tablet | Strip of 10 tablets | Valid |
+| 235225 | Valodex 20mg Tablet | Strip of 10 tablets | Valid |
+| 244782 | Xifen 20mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 82
 evidence_level: L4
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Atropine: predicted new indication Migraine disorder (evidence level L4). Approved use: Not stated in the licence data"
 monitor_inn: "Atropine"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura"]
@@ -83,15 +83,38 @@ Currently no related clinical trials are registered.
 
 ## India Market Information
 
-Approved indication text is not provided in the licence records. Twenty valid single-ingredient registrations are on file; the main ones are listed below.
+Approved indication text is not provided in the licence records. Twenty valid single-ingredient registrations are on file.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 8345 | Atronex 0.6mg Injection | Vial of 1 ml injection | Not stated |
-| 138128 | Malano 0.6mg Injection | Vial of 1 ml injection | Not stated |
-| 1268 | Atropin Injection | Vial of 1 ml injection | Not stated |
-| 181670 | Pino Cort Eye Drop | Packet of 5 ml eye drop | Not stated |
-| 5858 | Atropin Infusion | Bottle of 100 ml infusion | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 1268 | Atropin Injection | Vial of 1 ml Injection | Valid |
+| 1340 | Atp 0.6mg Injection | Vial of 1 ml Injection | Valid |
+| 3563 | Atro Injection | Vial of 1 ml Injection | Valid |
+| 5249 | Atronir Injection | Vial of 1 ml Injection | Valid |
+| 5533 | Atrowok 0.6mg Injection | Vial of 1 ml Injection | Valid |
+| 5858 | Atropin Infusion | Bottle of 100 ml Infusion | Valid |
+| 6575 | Atropa 0.6mg Injection | Vial of 1 ml Injection | Valid |
+| 7040 | Adc Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 8345 | Atronex 0.6mg Injection | Vial of 1 ml Injection | Valid |
+| 9692 | Atover 0.6mg Injection | Vial of 1 ml Injection | Valid |
+| 12294 | Atrapar 0.6mg Injection | Vial of 10 ml Injection | Valid |
+| 27804 | Balagin 0.25mg/10mg/250mg Tablet | Strip of 10 tablets | Valid |
+| 67263 | Dexapin 1%/0.10% Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 120895 | Lomofen Tablet | Strip of 20 tablets | Valid |
+| 138128 | Malano 0.6mg Injection | Vial of 1 ml Injection | Valid |
+| 142024 | Malano 0.3mg Injection | Vial of 2 ml Injection | Valid |
+| 181670 | Pino Cort Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 215321 | Tropine 0.6mg Injection | Packet of 10 injections | Valid |
+| 218189 | Troyatro 0.6mg Injection | Vial of 1 ml Injection | Valid |
+| 247770 | Zolfen Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

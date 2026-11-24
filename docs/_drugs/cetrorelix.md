@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 167
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cetrorelix: predicted new indication hypertrichosis (evidence level L5). Approved use: Inhibition of premature LH surges in women undergoing controlled ovar…"
 monitor_inn: "Cetrorelix"
 predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "persistent fetal circulation syndrome", "familial isolated trichomegaly", "familial male-limited precocious puberty", "aromatase excess syndrome", "centra precocious puberty 1"]
@@ -71,15 +71,32 @@ Currently no related literature available.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 236604 | Vestova 0.25mg Injection (Alkem Laboratories) | Vial of 2 ml injection | Not stated in the licence record |
-| 35079 | Cetrolix 0.25mg Injection (Intas Pharmaceuticals) | Vial of 1 injection | Not stated in the licence record |
-| 163165 | Ovucet 0.25mg Injection (Zydus Cadila) | Vial of 1 injection | Not stated in the licence record |
-| 96301 | Gonapress 0.25mg Injection (Ferring Pharmaceuticals) | Vial of 1 injection | Not stated in the licence record |
-| 34799 | Cetrotide 0.25mg Injection (Merck Ltd) | Vial of 1 injection | Not stated in the licence record |
+<!-- licenses:begin -->
 
-All 16 registrations are valid single-ingredient injectable products; the five above are shown as representative examples.
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 1632 | Asporelix 0.25mg Injection | Vial of 1 Injection | Valid |
+| 34799 | Cetrotide 0.25mg Injection | Vial of 1 Injection | Valid |
+| 35079 | Cetrolix 0.25mg Injection | Vial of 1 Injection | Valid |
+| 35891 | Ciscure 0.25mg Injection | Vial of 2 ml Injection | Valid |
+| 36933 | Cetnosurge 0.25mg Injection | Vial of 1 Injection | Valid |
+| 39403 | Cetrocare 0.25mg Injection | Vial of 1 ml Injection | Valid |
+| 41231 | Cetide 0.25mg Injection | Vial of 1 Injection | Valid |
+| 43523 | Cetronext 0.25mg Injection | Vial of 1 Injection | Valid |
+| 46480 | Cetrosar 0.25mg Injection | Vial of 1 ml Injection | Valid |
+| 55541 | Creart 0.25mg Injection | Vial of 1 Injection | Valid |
+| 73533 | Eurelix 0.25mg Injection | Vial of 1 Injection | Valid |
+| 96301 | Gonapress 0.25mg Injection | Vial of 1 Injection | Valid |
+| 163165 | Ovucet 0.25mg Injection | Vial of 1 Injection | Valid |
+| 201587 | Sanrox 0.25mg Injection | Vial of 1 ml Injection | Valid |
+| 202640 | Setrosil 0.25mg Injection | Vial of 1 Injection | Valid |
+| 236604 | Vestova 0.25mg Injection | Vial of 2 ml Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
+
+All 16 registrations are valid single-ingredient injectable products.
 
 ## Safety Considerations
 

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 490
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "Levosalbutamol"
 predicted_indications: ["nasal cavity disease", "pharyngitis", "acute laryngopharyngitis", "bronchitis", "anorectal stricture", "proctitis", "anal polyp", "tracheal disease", "allergic urticaria"]
 description: "Levosalbutamol: predicted new indication Nasal cavity disease (evidence level L5). In India: at least 20 listed products"
@@ -68,15 +68,44 @@ Currently no related literature available.
 
 ## India Market Information
 
-Levosalbutamol is marketed in India. All 20 licences in the compiled data are valid and are single-ingredient products. The list may be partial. Approved-indication text is not recorded for these licences. Five main authorisations:
+Levosalbutamol is marketed in India. All 20 licences in the compiled data are valid. The list may be partial. Approved-indication text is not recorded for these licences.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 121411 | Levolin Synchrobreathe Inhaler (Cipla Ltd) | Box of 120 MDI inhaler | Not listed |
-| 120835 | Levolin 50mcg Inhaler (Cipla Ltd) | Packet of 200 MDI inhaler | Not listed |
-| 199887 | Salbair 50mcg Transhaler (Lupin Ltd) | Packet of 250 MDI Transhaler | Not listed |
-| 151733 | Nebulair Respules 2ml (Dr Reddy's Laboratories Ltd) | Strip of 7 respules | Not listed |
-| 224595 | Tiecuf L Syrup (Indica Biolife Sciences) | Bottle of 100 ml syrup | Not listed |
+<!-- review:begin in-lic-20261124-levosalbutamol-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "All 20 licences in the compiled data are valid and are single-ingredient products." Removed: it described the products as single-ingredient (or as having no combination products), which does not match the Indian medicine data (the Indian Medicine Dataset): some of the recorded products are fixed-dose combinations. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124-levosalbutamol-1 -->
+
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 15206 | Afrodyl LS Syrup | Bottle of 100 ml Syrup | Valid |
+| 29336 | Bronchosoft-LS Syrup | Bottle of 100 ml Syrup | Valid |
+| 34218 | Cheston LS Syrup Sugar Free | Bottle of 100 ml Syrup | Valid |
+| 35516 | Cuflift-LS Junior Syrup | Bottle of 60 ml Syrup | Valid |
+| 37704 | Cuflift-LS Oral Drops | Bottle of 15 ml Oral Drops | Valid |
+| 47089 | Cufflect-LS Syrup | Bottle of 60 ml Syrup | Valid |
+| 71049 | Damkof LS Syrup | Bottle of 100 ml Syrup | Valid |
+| 107744 | Iprazest Respules | Packet of 5 respules | Valid |
+| 108648 | Ipsal L Respules 2.5ml | Packet of 5 respules | Valid |
+| 120835 | Levolin 50mcg Inhaler | Packet of 200 MDI Inhaler | Valid |
+| 121411 | Levolin Synchrobreathe Inhaler | Box of 120 MDI Inhaler | Valid |
+| 127870 | Levomol 1.25mg Respules 2.5ml | Packet of 5 respules | Valid |
+| 128414 | Levair I Transhaler | Packet of 200 MDI Transhaler | Valid |
+| 139592 | Mybro-IL Respules (2.5ml Each) | Box of 5 respules | Valid |
+| 151733 | Nebulair Respules 2ml | Strip of 7 respules | Valid |
+| 179925 | Pneumapra-L Respules (2.5ml Each) | Box of 5 respules | Valid |
+| 199887 | Salbair 50mcg Transhaler | Packet of 250 MDI Transhaler | Valid |
+| 200276 | Salbair-B Transhaler | Packet of 200 MDI Transhaler | Valid |
+| 224595 | Tiecuf L Syrup | Bottle of 100 ml Syrup | Valid |
+| 225092 | Throkuf LS Syrup | Bottle of 100 ml Syrup | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -106,6 +135,7 @@ Below is the review log for this page: statements checked against official India
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "Its only registered trial was withdrawn with no participants, so no completed Phase 3 trial confirms it" | No longer present after the report was regenerated (2026-11-12: the report was regenerated in 2026-11 and no longer contains this statement; was: Corrected) | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-24 | Removed: the single-ingredient claim | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 

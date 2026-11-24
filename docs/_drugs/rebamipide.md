@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 730
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 description: "Rebamipide: known uses and market status in India; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -75,17 +75,23 @@ The TxGNN model has no candidate with a score of 0.99 or higher for Rebamipide, 
 
 ## India Market Information
 
-| Licence | Product | Dosage form | Status |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
 |------|------|------|------|
-| 185346 | Rebator 100mg Tablet | strip of 10 tablets | Valid |
-| 187266 | Rebam 100mg Tablet | strip of 10 tablets | Valid |
-| 134965 | Mucogen 100mg Tablet | strip of 10 tablets | Valid |
-| 184145 | Rebagen Tablet | strip of 10 tablets | Valid |
-| 184375 | Rebagen-Otic Capsule | strip of 10 capsules | Valid |
-| 85290 | Finetears Eye Drop | bottle of 10 ml Eye Drop | Valid |
-| 186847 | Rebacer Eye Drop | bottle of 10 ml Eye Drop | Valid |
-| 75168 | Eyesec Eye Drop | bottle of 10 ml Eye Drop | Valid |
-| 190024 | Rebasoothe Eye Drop | packet of 10 ml Eye Drop | Valid |
+| 75168 | Eyesec Eye Drop | Bottle of 10 ml Eye Drop | Valid |
+| 85290 | Finetears Eye Drop | Bottle of 10 ml Eye Drop | Valid |
+| 134965 | Mucogen 100mg Tablet | Strip of 10 tablets | Valid |
+| 184145 | Rebagen Tablet | Strip of 10 tablets | Valid |
+| 184375 | Rebagen-Otic Capsule | Strip of 10 capsules | Valid |
+| 185346 | Rebator 100mg Tablet | Strip of 10 tablets | Valid |
+| 186847 | Rebacer Eye Drop | Bottle of 10 ml Eye Drop | Valid |
+| 187266 | Rebam 100mg Tablet | Strip of 10 tablets | Valid |
+| 190024 | Rebasoothe Eye Drop | Packet of 10 ml Eye Drop | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

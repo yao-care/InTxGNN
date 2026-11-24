@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Calcium acetate"
 predicted_indications: ["calcium-alkali syndrome", "primary bone dysplasia with defective bone mineralization"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 description: "Calcium Acetate: predicted new indication calcium-alkali syndrome (evidence level L5). In India: 4 listed products (4 not discontinued)"
 ---
 
@@ -72,12 +72,18 @@ Currently no related literature available.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 87055 | Foswin Tablet | Strip of 10 tablets | Not recorded |
-| 247046 | Zerofos DS Tablet | Strip of 10 tablets | Not recorded |
-| 203034 | Specium Tablet | Strip of 10 tablets | Not recorded |
-| 175196 | Phosnier 667 Tablet | Strip of 10 tablets | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 87055 | Foswin Tablet | Strip of 10 tablets | Valid |
+| 175196 | Phosnier 667 Tablet | Strip of 10 tablets | Valid |
+| 203034 | Specium Tablet | Strip of 10 tablets | Valid |
+| 247046 | Zerofos DS Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 All four licences are valid single-ingredient oral products.
 

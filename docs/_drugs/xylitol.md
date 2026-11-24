@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 899
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 description: "Xylitol: predicted new indication Meningococcal infection (evidence level L5). Approved use: Not stated in the licence records"
 monitor_inn: "Xylitol"
 drugbank_id: DB11195
@@ -72,10 +72,16 @@ Currently no related literature available.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 241987 | Wysliva Tablet | Strip of 10 tablets | Not stated |
-| 201656 | Salitol Tablet | Bottle of 60 tablets | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 201656 | Salitol Tablet | Bottle of 60 tablets | Valid |
+| 241987 | Wysliva Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 Both products are single-ingredient oral tablets with valid status.
 

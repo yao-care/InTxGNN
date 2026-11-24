@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 245
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Desogestrel: predicted new indication Amenorrhea (evidence level L5). Approved use: Not stated in the registration records (desogestrel is known as a con…"
 monitor_inn: "Desogestrel"
 predicted_indications: ["amenorrhea (disease)", "blunt duct adenosis of breast", "apocrine adenosis of breast", "acne (disease)", "fat necrosis of breast", "breast abscess", "lactation disease", "breast adenosis", "primary ovarian failure", "symptomatic form of fragile X syndrome in female carrier"]
@@ -93,11 +93,17 @@ There are important caveats. The supporting evidence is for combined oral contra
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 86437 | Femfolin 50mg Capsule (Lupin Ltd) | Strip of 10 capsules | Not stated |
-| 34232 | Cerazette Tablet (Organon (India) Ltd) | Strip of 28 tablets | Not stated |
-| 86642 | Famylette Tablet (Mylan Pharmaceuticals Pvt Ltd) | Packet of 28 tablets | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 34232 | Cerazette Tablet | Strip of 28 tablets | Valid |
+| 86437 | Femfolin 50mg Capsule | Strip of 10 capsules | Valid |
+| 86642 | Famylette Tablet | Packet of 28 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ---
 

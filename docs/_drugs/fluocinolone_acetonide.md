@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Fluocinolone acetonide"
 predicted_indications: ["lichen planus pemphigoides"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Fluocinolone Acetonide: predicted new indication Lichen planus pemphigoides (evidence level L5). In India: at least 20 listed products"
 ---
 
@@ -73,13 +73,36 @@ Currently no related literature available.
 
 Marketed products containing fluocinolone acetonide as a single ingredient include the following. At least 20 valid licences were found, and this list may be partial.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 217232 | Three Derm Cream | Cream, tube of 5 gm | Not stated in the records |
-| 86160 | Fluocin-MF Cream | Cream, tube of 15 gm | Not stated in the records |
-| 43834 | Candi Cream | Cream, tube of 15 gm | Not stated in the records |
-| 59932 | Dermolam Cream | Cream, tube of 15 gm | Not stated in the records |
-| 231826 | Ultiderm CS Ointment | Ointment, tube of 50 gm | Not stated in the records |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 11573 | Almizol F Cream | Tube of 15 gm Cream | Valid |
+| 38288 | Candi Plus Cream | Tube of 10 gm Cream | Valid |
+| 43834 | Candi Cream | Tube of 15 gm Cream | Valid |
+| 59932 | Dermolam Cream | Tube of 15 gm Cream | Valid |
+| 63215 | Dermozyme Cream | Tube of 10 gm Cream | Valid |
+| 84284 | Flucort Skin Lotion | Bottle of 30 ml Solution | Valid |
+| 84908 | Fungitop F Ointment | Tube of 15 gm Ointment | Valid |
+| 86160 | Fluocin-MF Cream | Tube of 15 gm Cream | Valid |
+| 86621 | Fungarin F Cream | Tube of 15 gm Cream | Valid |
+| 87466 | Fluderm 0.025% Cream | Tube of 50 gm Cream | Valid |
+| 134103 | Micogel F Ointment | Tube of 15 gm Ointment | Valid |
+| 139206 | Miconit F Cream | Tube of 15 gm Cream | Valid |
+| 141773 | Micosil-FC Cream | Tube of 15 gm Cream | Valid |
+| 146358 | Micowok FC Cream | Tube of 15 gm Cream | Valid |
+| 167398 | Omniderm Cream | Tube of 5 gm Cream | Valid |
+| 217232 | Three Derm Cream | Tube of 5 gm Cream | Valid |
+| 231586 | Ultiderm CS Lotion | Bottle of 50 ml Lotion | Valid |
+| 231826 | Ultiderm CS Ointment | Tube of 50 gm Ointment | Valid |
+| 246626 | Zole-F Lotion | Bottle of 15 ml Lotion | Valid |
+| 248334 | Zolive F Lotion | Bottle of 15 ml Lotion | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

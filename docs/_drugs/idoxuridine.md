@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 421
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Idoxuridine: predicted new indication Vulvovaginal candidiasis (evidence level L5). Approved use: Herpes simplex virus keratitis"
 monitor_inn: "Idoxuridine"
 predicted_indications: ["vulvovaginal candidiasis", "vaginitis (disease)", "trichomonal vulvovaginitis", "vulvitis", "herpetic vulvovaginitis", "vaginal discharge", "bacterial vaginosis", "leukoplakia of vagina", "vulvovaginitis", "postmenopausal atrophic vaginitis"]
@@ -78,9 +78,15 @@ No literature was retrieved for vulvovaginal candidiasis. The literature below w
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Registration No. 186442 | Ridinox 0.1% Eye Drop (Bell Pharma Pvt Ltd) | Packet of 10 ml eye drop | Not specified in the data compiled for this report |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 186442 | Ridinox 0.1% Eye Drop | Packet of 10 ml Eye Drop | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 The only marketed form is an ophthalmic eye drop. A formulation suitable for vaginal or vulvar use has not been identified, and route compatibility for the predicted indications has not been assessed.
 

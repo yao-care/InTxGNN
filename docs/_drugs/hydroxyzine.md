@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 416
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Hydroxyzine"
 predicted_indications: ["rosacea conjunctivitis"]
 description: "Hydroxyzine: predicted new indication Rosacea conjunctivitis (evidence level L5). In India: at least 20 listed products"
@@ -97,15 +97,38 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-Twenty single-ingredient licences are valid and none are cancelled. The records contain no approved-indication text. The first five are listed below.
+Twenty single-ingredient licences are valid and none are cancelled. The records contain no approved-indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 104657 | Hdz 25 Tablet | Strip of 10 tablets | Not stated |
-| 245911 | Yzin 10 Tablet | Strip of 10 tablets | Not stated |
-| 104653 | Hyzox 25 Tablet | Strip of 10 tablets | Not stated |
-| 105234 | Hizone 25mg Tablet | Strip of 10 tablets | Not stated |
-| 104187 | Hilerin 10mg Tablet | Strip of 10 tablets | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 1747 | Antic 25mg Tablet | Strip of 10 tablets | Valid |
+| 3057 | A Rex 25mg Tablet | Strip of 10 tablets | Valid |
+| 10248 | Azon 6mg Drop | Packet of 15 ml Drop | Valid |
+| 20321 | Algicant 25mg Tablet | Strip of 15 tablets | Valid |
+| 27360 | Biozine 10mg Tablet | Strip of 10 tablets | Valid |
+| 40275 | Conitrex 25mg Tablet | Strip of 15 tablets | Valid |
+| 42961 | Conee 10mg Tablet | Strip of 10 tablets | Valid |
+| 63528 | Droxitch 25mg Tablet | Strip of 15 tablets | Valid |
+| 104187 | Hilerin 10mg Tablet | Strip of 10 tablets | Valid |
+| 104324 | Hydra 25mg Tablet | Strip of 10 tablets | Valid |
+| 104653 | Hyzox 25 Tablet | Strip of 10 tablets | Valid |
+| 104657 | Hdz 25 Tablet | Strip of 10 tablets | Valid |
+| 105234 | Hizone 25mg Tablet | Strip of 10 tablets | Valid |
+| 163039 | Oxepic 25mg Tablet | Strip of 10 tablets | Valid |
+| 175351 | Prulex 25mg Tablet | Strip of 10 tablets | Valid |
+| 182747 | Pruclam 10mg Tablet | Strip of 10 tablets | Valid |
+| 190948 | Roxizide 25mg Tablet | Strip of 10 tablets | Valid |
+| 231021 | Urtizen 10mg Tablet | Strip of 10 tablets | Valid |
+| 245911 | Yzin 10 Tablet | Strip of 10 tablets | Valid |
+| 247994 | Zitadrox 25 Tablet | Strip of 15 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 Other presentations include 15-tablet strips and a 15 ml oral drop (Azon 6mg Drop).
 

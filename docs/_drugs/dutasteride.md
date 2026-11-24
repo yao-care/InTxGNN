@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 295
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Dutasteride: predicted new indication Ambras type hypertrichosis universalis congenita (evidence level L5). Approved use: Benign prostatic hyperplasia"
 monitor_inn: "Dutasteride"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "migraine with brainstem aura", "familial isolated trichomegaly"]
@@ -76,15 +76,38 @@ No literature is available for the lead prediction (Ambras type hypertrichosis u
 
 ## India Market Information
 
-The data compiled for this report show 20 valid single-ingredient registrations, with no combination products and no cancelled licences. Approved indication text is not available for any of them. The main ones are listed below.
+The data compiled for this report show 20 valid single-ingredient registrations, with no combination products and no cancelled licences. Approved indication text is not available for any of them.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| 63850 | Dutabact 0.5mg Tablet | Strip of 10 tablets | Ikon Remedies Pvt Ltd |
-| 63574 | Deetor 0.5mg Tablet | Strip of 10 tablets | Johnlee Pharmaceuticals Pvt Ltd |
-| 59391 | Dute 0.5mg Tablet | Strip of 10 tablets | Tetramed Biotek Pvt Ltd |
-| 97762 | Genericart Dutasteride 0.5mg Tablet | Strip of 10 tablets | Swast Aushadhi Seva Generic Medicine Store |
-| 27111 | Bioduta 0.5mg Tablet | Strip of 10 tablets | Bios Lab |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 3523 | AGA-DT Tablet | Strip of 10 tablet dt | Valid |
+| 27111 | Bioduta 0.5mg Tablet | Strip of 10 tablets | Valid |
+| 58690 | Dutacet 0.5mg Tablet | Strip of 10 tablets | Valid |
+| 59391 | Dute 0.5mg Tablet | Strip of 10 tablets | Valid |
+| 59675 | Dutanol 0.5mg Tablet | Strip of 10 tablets | Valid |
+| 60728 | Dutaheal 0.5mg Tablet | Strip of 10 tablets | Valid |
+| 60974 | Dutastic 0.5mg Tablet | Strip of 10 tablets | Valid |
+| 61111 | Dutasaf 0.5mg Tablet | Strip of 10 tablets | Valid |
+| 62096 | Dutabest 0.5mg Tablet | Strip of 10 tablets | Valid |
+| 63545 | Dutadense Tablet | Strip of 10 tablets | Valid |
+| 63574 | Deetor 0.5mg Tablet | Strip of 10 tablets | Valid |
+| 63591 | Dutatoz 0.5mg Tablet | Strip of 10 tablets | Valid |
+| 63850 | Dutabact 0.5mg Tablet | Strip of 10 tablets | Valid |
+| 65089 | Dutastay 0.5mg Tablet | Strip of 10 tablets | Valid |
+| 65758 | Dutalix 0.5mg Tablet | Strip of 10 tablets | Valid |
+| 66243 | Dustel 0.5mg Tablet | Strip of 10 tablets | Valid |
+| 67705 | Dutadex Tablet | Strip of 10 tablets | Valid |
+| 81345 | Eurotam D 0.50mg Tablet | Strip of 10 tablets | Valid |
+| 97762 | Genericart Dutasteride 0.5mg Tablet | Strip of 10 tablets | Valid |
+| 154035 | Nduta 0.5mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 All products are oral formulations (tablets, plus one dispersible tablet, AGA-DT).
 

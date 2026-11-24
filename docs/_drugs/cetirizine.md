@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Cetirizine"
 predicted_indications: ["nasal cavity disease", "rosacea conjunctivitis", "recalcitrant atopic dermatitis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cetirizine: predicted new indication nasal cavity disease (evidence level L5). In India: at least 20 listed products"
 ---
 
@@ -78,15 +78,38 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-The data list at least 20 valid single-ingredient licences, and the list may be partial. No approved-indication text is recorded for these licences. Main examples:
+The data list at least 20 valid single-ingredient licences, and the list may be partial. No approved-indication text is recorded for these licences.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 12883 | Acrecet 10mg Tablet | Strip of 10 tablets | Not recorded |
-| 205627 | Stencold Syrup | Bottle of 30 ml syrup | Not recorded |
-| 116914 | Kolcare Tablet | Strip of 10 tablets | Not recorded |
-| 51370 | Cetrish 10mg Tablet | Strip of 10 tablets | Not recorded |
-| 52831 | Cetnir Syrup | Bottle of 60 ml syrup | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 12883 | Acrecet 10mg Tablet | Strip of 10 tablets | Valid |
+| 29352 | B Cet 10mg Tablet | Strip of 10 tablets | Valid |
+| 37543 | Cetcip Cold 5mg Tablet | Strip of 10 tablets | Valid |
+| 37732 | Ce 10mg Tablet | Strip of 10 tablets | Valid |
+| 39401 | Cozymin Vapocaps Capsule | Strip of 10 capsules | Valid |
+| 47523 | Conicet 10mg Tablet | Strip of 10 tablets | Valid |
+| 47774 | Ceter 10mg Tablet DT | Strip of 10 tablet dt | Valid |
+| 49794 | Cetinof Syrup | Bottle of 60 ml Syrup | Valid |
+| 50088 | Cetrinat 10mg Tablet | Strip of 10 tablets | Valid |
+| 50813 | Cetrimark 10mg Tablet | Strip of 10 tablets | Valid |
+| 51283 | Ciszine 10mg Tablet | Strip of 10 tablets | Valid |
+| 51370 | Cetrish 10mg Tablet | Strip of 10 tablets | Valid |
+| 52831 | Cetnir Syrup | Bottle of 60 ml Syrup | Valid |
+| 116914 | Kolcare Tablet | Strip of 10 tablets | Valid |
+| 140303 | Mcet 10mg Tablet | Strip of 10 tablets | Valid |
+| 158949 | No-Aller 10mg Tablet | Strip of 10 tablets | Valid |
+| 178553 | Pcp Forte 5mg/325mg/5mg Tablet | Strip of 10 tablets | Valid |
+| 205627 | Stencold Syrup | Bottle of 30 ml Syrup | Valid |
+| 221204 | Trizine P 5mg/325mg/10mg Tablet | Strip of 10 tablets | Valid |
+| 225306 | Trig AR Syrup | Bottle of 100 ml Syrup | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

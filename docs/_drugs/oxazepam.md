@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 627
 evidence_level: L3
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Oxazepam"
 predicted_indications: ["insomnia (disease)"]
 description: "Oxazepam: predicted new indication Insomnia (disease) (evidence level L3). In India: 15 listed products (15 not discontinued)"
@@ -82,13 +82,29 @@ Two further retrieved papers (an agomelatine case report and a paroxetine panic 
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 248667 | Zaxpam 15mg Tablet (Intas Pharmaceuticals Ltd) | Strip of 10 tablets | Not stated in the available records |
-| 200873 | Serepax 15mg Tablet (Pfizer Ltd) | Strip of 10 tablets | Not stated in the available records |
-| 202070 | Serepax 30mg Tablet (Pfizer Ltd) | Strip of 10 tablets | Not stated in the available records |
-| 1847 | Anxozap 30 Tablet (Sun Pharmaceutical Industries Ltd) | Strip of 10 tablets | Not stated in the available records |
-| 10342 | Azenap 30mg Tablet (Consern Pharma Limited) | Strip of 10 tablets | Not stated in the available records |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 1065 | Anxozap 15 Tablet | Strip of 10 tablets | Valid |
+| 1847 | Anxozap 30 Tablet | Strip of 10 tablets | Valid |
+| 6769 | Azenap 10 Tablet | Strip of 10 tablets | Valid |
+| 10342 | Azenap 30mg Tablet | Strip of 10 tablets | Valid |
+| 12962 | Azenap 15mg Tablet | Strip of 10 tablets | Valid |
+| 31610 | Boxa 15mg Tablet | Strip of 10 tablets | Valid |
+| 200873 | Serepax 15mg Tablet | Strip of 10 tablets | Valid |
+| 202070 | Serepax 30mg Tablet | Strip of 10 tablets | Valid |
+| 221998 | Talirest 10mg Tablet | Strip of 10 tablets | Valid |
+| 223902 | Trorter 10 Tablet | Strip of 10 tablets | Valid |
+| 226340 | Trorter 15mg Tablet | Strip of 10 tablets | Valid |
+| 227496 | Trorter 30mg Tablet | Strip of 10 tablets | Valid |
+| 248266 | Zaxpam 10mg Tablet | Strip of 10 tablets | Valid |
+| 248667 | Zaxpam 15mg Tablet | Strip of 10 tablets | Valid |
+| 249757 | Zaxpam 30mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 All 15 registrations are valid single-ingredient oral tablets; none are cancelled.
 

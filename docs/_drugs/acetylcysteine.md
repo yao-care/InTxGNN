@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 10
 monitor_inn: "Acetylcysteine"
 predicted_indications: ["thrombotic disease", "closed-angle glaucoma", "nasal cavity disease", "dry eye syndrome", "pharyngitis", "acute laryngopharyngitis", "tracheal disease", "transient ischemic attack (disease)", "laryngotracheitis", "angle-closure glaucoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Acetylcysteine: predicted new indication Thrombotic disease (evidence level L2). In India: at least 20 listed products"
 ---
 
@@ -90,15 +90,38 @@ The evidence is strongest for the TMA/TTP subset. It should not be extrapolated 
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 234623 | Vexanac 600 Tablet | strip of 10 tablets | Not recorded |
-| 134850 | Mucyst 600mg Tablet | strip of 10 tablets | Not recorded |
-| 87042 | Fluimucil Eff 600mg Tablet | strip of 6 tablets | Not recorded |
-| 151932 | Nacomac 600mg Effervescent Tablet | strip of 10 effervescent tablets | Not recorded |
-| 153551 | Nacel 1000mg Injection | vial of 5 ml injection | Not recorded |
+<!-- licenses:begin -->
 
-The data lists 20 valid single-ingredient licences, and the records may be partial. Only the first five are shown. Dosage forms are oral tablets and injectables.
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 7554 | Acybronk Tablet | Strip of 10 tablets | Valid |
+| 41444 | Coenac 400 Solution | Ampoule of 2 ml Injection | Valid |
+| 73522 | Efetil Tablet | Strip of 10 tablets | Valid |
+| 84091 | Fluimucil 600mg Tablet | Strip of 10 tablets | Valid |
+| 87042 | Fluimucil Eff 600mg Tablet | Strip of 6 tablets | Valid |
+| 133862 | Mucomelt A Tablet | Strip of 10 tablets | Valid |
+| 134237 | Mucyst Injection | Vial of 2 ml Injection | Valid |
+| 134850 | Mucyst 600mg Tablet | Strip of 10 tablets | Valid |
+| 134951 | Manotab 600mg Tablet | Strip of 10 tablets | Valid |
+| 138607 | Mucolix 600mg Tablet | Strip of 10 tablets | Valid |
+| 140255 | Mucosys 1000mg Injection | Vial of 5 ml Injection | Valid |
+| 141361 | Mucomeg AM 300mg/60mg Tablet | Strip of 10 tablets | Valid |
+| 142381 | Mucoscan Injection | Ampoule of 2 ml Injection | Valid |
+| 151932 | Nacomac 600mg Effervescent Tablet | Strip of 10 Effervescent Tablet | Valid |
+| 153350 | Nacniva Tablet | Strip of 10 tablets | Valid |
+| 153551 | Nacel 1000mg Injection | Vial of 5 ml Injection | Valid |
+| 156069 | Nacyres Injection | Vial of 5 ml Injection | Valid |
+| 162138 | Ovanac Tablet | Strip of 10 tablets | Valid |
+| 162443 | Oxitres Tablet | Strip of 10 tablets | Valid |
+| 234623 | Vexanac 600 Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
+
+The data lists 20 valid single-ingredient licences, and the records may be partial. Dosage forms are oral tablets and injectables.
 
 ## Safety Considerations
 

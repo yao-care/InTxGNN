@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Digoxin"
 predicted_indications: ["Prinzmetal angina", "duodenal obstruction", "duodenal ulcer (disease)", "duodenogastric reflux", "hypoalphalipoproteinemia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Digoxin: predicted new indication Prinzmetal angina (evidence level L5). In India: 19 listed products (19 not discontinued)"
 ---
 
@@ -72,15 +72,35 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-Digoxin is marketed in India. All 19 single-ingredient licences in the data compiled for this report are valid, and none are cancelled. No approved indication text is recorded for them. Main authorizations:
+Digoxin is marketed in India. All 19 single-ingredient licences in the data compiled for this report are valid, and none are cancelled. No approved indication text is recorded for them.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 38328 | Cardioxin 0.25mg Tablet | Strip of 10 tablets | Not recorded |
-| 120831 | Lanoxin Tablet | Strip of 10 tablets | Not recorded |
-| 59517 | Digon Tablet | Strip of 10 tablets | Not recorded |
-| 62540 | Dixin 3mg Syrup | Bottle of 60 ml syrup | Not recorded |
-| 59678 | Dixin 0.25mg Injection | Vial of 2 injections | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 37032 | Cardisip Syrup | Bottle of 60 ml Syrup | Valid |
+| 38328 | Cardioxin 0.25mg Tablet | Strip of 10 tablets | Valid |
+| 41427 | Cardin 0.25mg Tablet | Strip of 10 tablets | Valid |
+| 49374 | Caxin 0.25mg Tablet | Strip of 10 tablets | Valid |
+| 53829 | Canrythm 0.25mg Tablet | Strip of 10 tablets | Valid |
+| 58939 | Dixin Tablet | Strip of 10 tablets | Valid |
+| 58992 | Dixin Paed Oral Solution | Bottle of 60 ml Oral Solution | Valid |
+| 59517 | Digon Tablet | Strip of 10 tablets | Valid |
+| 59678 | Dixin 0.25mg Injection | Vial of 2 injections | Valid |
+| 61425 | Digoxin 50mcg/ml Elixir | Bottle of 30 elixirs | Valid |
+| 62540 | Dixin 3mg Syrup | Bottle of 60 ml Syrup | Valid |
+| 63149 | Digitran 0.25mg Tablet | Strip of 10 tablets | Valid |
+| 63576 | Digover 0.25mg Tablet | Strip of 10 tablets | Valid |
+| 99846 | Geoxin 0.25mg Tablet | Strip of 10 tablets | Valid |
+| 101580 | Geoxin 0.5mg Injection | Vial of 2 ml Injection | Valid |
+| 120831 | Lanoxin Tablet | Strip of 10 tablets | Valid |
+| 123301 | Lanoxin Syrup | Bottle of 30 ml Syrup | Valid |
+| 125131 | Lidoxin 0.25mg Tablet | Strip of 10 tablets | Valid |
+| 204387 | Sangoxin 0.25mg Tablet | Strip of 14 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 Available forms include tablets, syrup, elixir, oral solution and injection.
 

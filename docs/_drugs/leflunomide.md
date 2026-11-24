@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 475
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Leflunomide"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
 description: "Leflunomide: predicted new indication Brachydactyly-syndactyly syndrome (evidence level L5). In India: at least 20 listed products"
@@ -66,15 +66,38 @@ A second prediction, colobomatous microphthalmia-rhizomelic dysplasia syndrome (
 
 ## India Market Information
 
-Leflunomide is widely marketed in India as a single-ingredient oral tablet. There are 20 valid registrations and none cancelled. Approved indication text is not available for any of them. The main registrations are listed below.
+Leflunomide is widely marketed in India as a single-ingredient oral tablet. There are 20 valid registrations and none cancelled. Approved indication text is not available for any of them.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 124048 | Lefnol 20mg Tablet (Cista Medicorp) | Strip of 10 tablets | Not available |
-| 36008 | Cleft 20 Tablet (Sun Pharmaceutical Industries Ltd) | Strip of 10 tablets | Not available |
-| 131085 | Leflodol 100mg Tablet (TNT Lifesciences) | Strip of 10 tablets | Not available |
-| 125008 | Lefnol 10mg Tablet (Cista Medicorp) | Strip of 10 tablets | Not available |
-| 125771 | Lefno 5mg Tablet (Ipca Laboratories Ltd) | Strip of 10 tablets | Not available |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 18018 | Albumide 10mg Tablet | Strip of 10 tablets | Valid |
+| 36008 | Cleft 20 Tablet | Strip of 10 tablets | Valid |
+| 59648 | DM Lef 10mg Tablet | Strip of 10 tablets | Valid |
+| 67246 | DavaIndia Leflunomide 10mg Tablet | Strip of 10 tablets | Valid |
+| 101102 | Gatolef 10mg Tablet | Strip of 10 tablets | Valid |
+| 110466 | Immulef 20 Tablet | Strip of 10 tablets | Valid |
+| 122183 | Lefuma 10mg Tablet | Strip of 10 tablets | Valid |
+| 124036 | Lefron 10 Tablet | Strip of 10 tablets | Valid |
+| 124048 | Lefnol 20mg Tablet | Strip of 10 tablets | Valid |
+| 124705 | Leflu 20mg Tablet | Strip of 10 tablets | Valid |
+| 125008 | Lefnol 10mg Tablet | Strip of 10 tablets | Valid |
+| 125771 | Lefno 5mg Tablet | Strip of 10 tablets | Valid |
+| 126680 | Leflunova 20mg Tablet | Strip of 10 tablets | Valid |
+| 127131 | Lefumax 20mg Tablet | Strip of 10 tablets | Valid |
+| 127594 | Lefmed 10mg Tablet | Strip of 10 tablets | Valid |
+| 129188 | Lefunid 10mg Tablet | Strip of 10 tablets | Valid |
+| 129264 | Lefunid 20mg Tablet | Strip of 10 tablets | Valid |
+| 130117 | Lefde 20mg Tablet | Strip of 10 tablets | Valid |
+| 131085 | Leflodol 100mg Tablet | Strip of 10 tablets | Valid |
+| 131549 | Lefrhum 20 Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

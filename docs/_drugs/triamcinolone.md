@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 861
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Triamcinolone: predicted new indication Alopecia mucinosa (evidence level L5). Approved use: Autoimmune disease, adrenocortical insufficiency…"
 monitor_inn: "Triamcinolone"
 predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo"]
@@ -85,15 +85,38 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-Triamcinolone has 20 valid single-ingredient registrations and none cancelled. The approved indication text is blank in the records. Five main registrations are listed below.
+Triamcinolone has 20 valid single-ingredient registrations and none cancelled. The approved indication text is blank in the records.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 116709 | Kenatroy 40mg Injection (Troikaa Pharmaceuticals) | Vial of 1 ml injection | Not stated |
-| 118970 | Kencort 16mg Tablet (Kenn Pharmaceuticals) | Strip of 10 tablets | Not stated |
-| 108521 | Injicort 40mg Injection (Zydus Healthcare) | Vial of 1 injection | Not stated |
-| 122892 | Lupicort 40mg Injection (Lupin) | Vial of 1 ml injection | Not stated |
-| 8152 | Amecort 4mg Tablet (Ikon Remedies) | Strip of 10 tablets | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 8152 | Amecort 4mg Tablet | Strip of 10 tablets | Valid |
+| 19744 | Azlone 40mg Injection | Vial of 1 ml Injection | Valid |
+| 42085 | Comcort 10mg Injection | Vial of 1 ml Injection | Valid |
+| 46421 | Cilon 40mg Injection | Vial of 1 ml Injection | Valid |
+| 88458 | FM Cort 40mg Injection | Vial of 1 ml Injection | Valid |
+| 108521 | Injicort 40mg Injection | Vial of 1 Injection | Valid |
+| 114968 | Jiyocort 40mg Injection | Vial of 1 Injection | Valid |
+| 116709 | Kenatroy 40mg Injection | Vial of 1 ml Injection | Valid |
+| 118588 | Ken Plus 40mg Injection | Vial of 1 Injection | Valid |
+| 118970 | Kencort 16mg Tablet | Strip of 10 tablets | Valid |
+| 118986 | Krilone 40 Injection | Vial of 1 ml Injection | Valid |
+| 119732 | Kenaprez 40mg Injection | Vial of 1 ml Injection | Valid |
+| 122892 | Lupicort 40mg Injection | Vial of 1 ml Injection | Valid |
+| 137990 | Mericort 40mg Injection | Vial of 1 Injection | Valid |
+| 223235 | Trimci 40mg Injection | Vial of 1 ml Injection | Valid |
+| 224067 | Troeit 40mg Injection | Vial of 1 Injection | Valid |
+| 226840 | Triad 40mg Injection | Vial of 1 ml Injection | Valid |
+| 227010 | Trinum 40mg Injection | Vial of 1 Injection | Valid |
+| 227288 | Triam Pro 40mg Injection | Vial of 1 ml Injection | Valid |
+| 228959 | Tremcure 40mg Injection | Vial of 1 ml Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 Available forms include injectable (vials) and oral (tablets).
 

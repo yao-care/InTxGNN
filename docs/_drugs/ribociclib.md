@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 737
 evidence_level: L4
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ribociclib: predicted new indication Myeloid leukemia (evidence level L4). Approved use: Not stated in the data compiled for this report"
 monitor_inn: "Ribociclib"
 predicted_indications: ["myeloid leukemia", "thrombocytopenia", "marcothrombocytopenia with mitral valve insufficiency", "hereditary thrombocytopenia with normal platelets"]
@@ -75,9 +75,15 @@ Another publication retrieved for this indication (PMID 41641105, a vulvar adeno
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Registration No. 115741 | Kryxana 200mg Tablet (Novartis India Ltd) | Strip of 21 tablets | Not stated in the license record |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 115741 | Kryxana 200mg Tablet | Strip of 21 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

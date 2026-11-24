@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Artemether"
 predicted_indications: ["acquired angioedema", "angioedema", "hereditary angioedema", "nephrogenic syndrome of inappropriate antidiuresis", "acute contagious conjunctivitis", "scleroderma (disease)", "conjunctivitis", "renin-angiotensin-aldosterone system-blocker-induced angioedema"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Artemether: predicted new indication acquired angioedema (evidence level L5). In India: at least 20 listed products"
 ---
 
@@ -70,15 +70,38 @@ Currently no related literature available.
 
 ## India Market Information
 
-At least 20 valid single-ingredient licences are recorded, and the list may be partial. None of the records carry approved-indication text. Examples:
+At least 20 valid single-ingredient licences are recorded, and the list may be partial. None of the records carry approved-indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 188232 | Rezatrin 80 mg/480 mg Tablet | Strip of 6 tablets | Not recorded |
-| 231992 | Ufither L 80mg/480mg Tablet | Strip of 6 tablets | Not recorded |
-| 157460 | Numal Forte Oral Suspension | Bottle of 30 ml oral suspension | Not recorded |
-| 190805 | Rezart M 80mg Injection | Vial of 1 ml injection | Not recorded |
-| 41355 | Coartrin 20 mg/120 mg Tablet | Strip of 8 tablets | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 13128 | Aartimet L Dry Syrup | Bottle of 30 ml Dry Syrup | Valid |
+| 13423 | Acuther L 80mg/480mg Tablet | Strip of 10 tablets | Valid |
+| 13720 | Arsumet L 80mg/480mg Tablet | Strip of 6 tablets | Valid |
+| 18533 | Artmon L 80mg/480mg Tablet | Strip of 6 tablets | Valid |
+| 20569 | Artson 80mg/480mg Tablet | Strip of 6 tablets | Valid |
+| 24902 | Artisafe L 40 mg/240 mg Tablet DT | Strip of 6 tablet dt | Valid |
+| 25433 | Arteq LF 80 mg/480 mg Tablet | Strip of 6 tablets | Valid |
+| 41355 | Coartrin 20 mg/120 mg Tablet | Strip of 8 tablets | Valid |
+| 43001 | Chinther 20 mg/120 mg Tablet | Strip of 8 tablets | Valid |
+| 90323 | Falcihit-LF 80mg/480mg Tablet | Strip of 6 tablets | Valid |
+| 101327 | Gnate L Syrup | Bottle of 30 ml Syrup | Valid |
+| 157460 | Numal Forte Oral Suspension | Bottle of 30 ml Oral Suspension | Valid |
+| 169010 | Orther 40 Injection | Ampoule of 1 Injection | Valid |
+| 188232 | Rezatrin 80 mg/480 mg Tablet | Strip of 6 tablets | Valid |
+| 190805 | Rezart M 80mg Injection | Vial of 1 ml Injection | Valid |
+| 194797 | Rmether 40mg Capsule | Strip of 6 capsules | Valid |
+| 195682 | Rezart M 40mg Capsule | Strip of 6 capsules | Valid |
+| 210591 | Sviz LF 40 mg/240 mg Dry Syrup | Bottle of 30 ml Dry Syrup | Valid |
+| 210998 | Santher Kid Dry Syrup | Bottle of 30 ml Dry Syrup | Valid |
+| 231992 | Ufither L 80mg/480mg Tablet | Strip of 6 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

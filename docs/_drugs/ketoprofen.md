@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 463
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Ketoprofen"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "pseudoachondroplasia", "WHIM syndrome", "juvenile arthritis due to defect in LACC1"]
 description: "Ketoprofen: predicted new indication Acromesomelic dysplasia, Hunter-Thompson type (evidence level L5). In India: at least 20 listed products"
@@ -66,13 +66,36 @@ Several lower-ranked predictions are more coherent with ketoprofen's pharmacolog
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 164666 | Ostofen 50mg Capsule | Strip of 10 capsules | Not stated |
-| 115867 | Ketopatch 30mg Transdermal Patch | Packet of 1 transdermal patch | Not stated |
-| 116005 | Ketofen 100mg Tablet | Strip of 10 tablets | Not stated |
-| 236233 | Vofane 5mg Injection | Vial of 10 ml injection | Not stated |
-| 121924 | Lupiflex 8 Tablet | Strip of 10 tablets | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 108219 | Infen Plaster | Packet of 3 transdermal patches | Valid |
+| 109215 | Infen MR 25mg/4mg Tablet | Strip of 10 tablets | Valid |
+| 115737 | Ketoplast Plaster | Packet of 7 transdermal patches | Valid |
+| 115862 | Ketoplast Plus Plaster | Packet of 7 transdermal patches | Valid |
+| 115867 | Ketopatch 30mg Transdermal Patch | Packet of 1 Transdermal Patch | Valid |
+| 116005 | Ketofen 100mg Tablet | Strip of 10 tablets | Valid |
+| 116293 | Ketoflex 100mg/4mg Tablet | Strip of 10 tablets | Valid |
+| 116695 | Ketofen 50mg Tablet | Strip of 10 tablets | Valid |
+| 117451 | Ketolice Tablet | Strip of 10 tablets | Valid |
+| 117561 | Ketoskip Tablet | Strip of 10 tablets | Valid |
+| 117563 | Ketomex TH 50mg/4mg Tablet | Strip of 10 tablets | Valid |
+| 117623 | Ketomex 50mg Tablet | Strip of 10 tablets | Valid |
+| 118239 | Ketonid MR 50mg/4mg Tablet | Strip of 10 tablets | Valid |
+| 121320 | Lupiflex 4 Tablet | Strip of 10 tablets | Valid |
+| 121924 | Lupiflex 8 Tablet | Strip of 10 tablets | Valid |
+| 164666 | Ostofen 50mg Capsule | Strip of 10 capsules | Valid |
+| 191216 | Redufen 50mg Tablet | Strip of 10 tablets | Valid |
+| 192710 | Redufen 100mg Tablet | Strip of 10 tablets | Valid |
+| 204471 | Spifen MR 50mg/4mg Tablet | Strip of 10 tablets | Valid |
+| 236233 | Vofane 5mg Injection | Vial of 10 ml Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 A total of 20 valid single-ingredient registrations exist. Formulations include oral capsules and tablets, transdermal patches and plasters, and an injection.
 

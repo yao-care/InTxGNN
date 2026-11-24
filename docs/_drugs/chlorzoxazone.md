@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 178
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Chlorzoxazone: predicted new indication Migraine disorder (evidence level L5). Approved use: Not stated in the Indian license records (chlorzoxazone is generally…"
 monitor_inn: "Chlorzoxazone"
 predicted_indications: ["migraine disorder", "nephrogenic syndrome of inappropriate antidiuresis", "migraine with brainstem aura", "pulmonary hypertension", "atrophoderma vermiculata", "ulerythema ophryogenesis", "kyphoscoliotic heart disease", "rheumatoid arthritis"]
@@ -94,13 +94,36 @@ None of these papers evaluates chlorzoxazone in migraine patients.
 
 Twenty valid single-ingredient registrations are on file. The first five are listed below; no approved indication text is recorded for any of them.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 65210 | Dicron-MR Tablet | Strip of 10 tablets | Not recorded |
-| 71722 | Difquick MR 250mg/50mg/325mg Tablet | Strip of 10 tablets | Not recorded |
-| 204842 | Stalogesic Forte 250mg/50mg/325mg Tablet | Strip of 10 tablets | Not recorded |
-| 70543 | Demofen MR 250mg/50mg/325mg Tablet | Strip of 10 tablets | Not recorded |
-| 111667 | Inflacure MR 500mg/50mg/500mg Tablet | Strip of 10 tablets | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 4553 | Apgesic-S Tablet | Strip of 10 tablets | Valid |
+| 65207 | Diproze MR 250mg/50mg/325mg Tablet | Strip of 10 tablets | Valid |
+| 65210 | Dicron-MR Tablet | Strip of 10 tablets | Valid |
+| 65830 | Dolozer MR Tablet | Strip of 10 tablets | Valid |
+| 66101 | Declan MR 250mg/50mg/325mg Tablet | Strip of 10 tablets | Valid |
+| 70543 | Demofen MR 250mg/50mg/325mg Tablet | Strip of 10 tablets | Valid |
+| 71722 | Difquick MR 250mg/50mg/325mg Tablet | Strip of 10 tablets | Valid |
+| 71790 | Dictus MR 250mg/50mg/325mg Tablet | Strip of 10 tablets | Valid |
+| 83094 | Egiflam Tablet MR | Strip of 10 tablet mr | Valid |
+| 92767 | Fibonac-MR Tablet | Strip of 10 tablets | Valid |
+| 110686 | Inac MR 250mg/50mg/325mg Tablet | Strip of 10 tablets | Valid |
+| 111667 | Inflacure MR 500mg/50mg/500mg Tablet | Strip of 10 tablets | Valid |
+| 112112 | Integ MR Tablet | Strip of 10 tablets | Valid |
+| 126199 | Ligesic-MR Tablet | Strip of 10 tablets | Valid |
+| 138714 | Moufen-MR Tablet | Strip of 10 tablets | Valid |
+| 160557 | Nobspas-MR Tablet | Strip of 10 tablets | Valid |
+| 204842 | Stalogesic Forte 250mg/50mg/325mg Tablet | Strip of 10 tablets | Valid |
+| 206196 | Seralin MR 250mg/50mg/325mg Tablet | Strip of 10 tablets | Valid |
+| 210702 | Surginac Forte Tablet | Strip of 10 tablets | Valid |
+| 222195 | Teflam Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 All products are oral tablets. The strengths in several product names (for example 250mg/50mg/325mg) suggest fixed-dose combination products, even though they are classified as single-ingredient in the records.
 

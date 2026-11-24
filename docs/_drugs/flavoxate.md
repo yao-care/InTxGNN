@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 355
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Flavoxate: predicted new indication Top-ranked: attention deficit hyperactivity disorder, inattentive type (evidence level L5). Approved use: Not stated in the India license data (the drug is used for urinary ur…"
 monitor_inn: "Flavoxate"
 predicted_indications: ["attention deficit hyperactivity disorder, inattentive type", "irritable bowel syndrome", "specific developmental disorder", "attention deficit-hyperactivity disorder", "cauda equina syndrome", "obsolete neurogenic bladder (disease)", "gastroduodenitis", "peptic ulcer disease"]
@@ -75,15 +75,38 @@ According to the Clinical Pharmacology section of the US FDA-approved prescribin
 
 ## India Market Information
 
-Twenty valid single-ingredient registrations exist, all as oral tablets (strip of 10 tablets). The license data contains no approved indication text. The first five are listed below.
+Twenty valid single-ingredient registrations exist, all as oral tablets (strip of 10 tablets). The license data contains no approved indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 88147 | Flavistrong 200 Tablet | Strip of 10 tablets | Not stated |
-| 210103 | Solvoid Tablet | Strip of 10 tablets | Not stated |
-| 93896 | Flyvo 200mg Tablet | Strip of 10 tablets | Not stated |
-| 231735 | Urific 200mg Tablet | Strip of 10 tablets | Not stated |
-| 167505 | Oriflav 200 Tablet | Strip of 10 tablets | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 49734 | Coraflav 200mg Tablet | Strip of 10 tablets | Valid |
+| 63485 | Doxiflav 200mg Tablet | Strip of 10 tablets | Valid |
+| 86340 | Flax 200mg Tablet | Strip of 10 tablets | Valid |
+| 87724 | Flavozest 200mg Tablet | Strip of 10 tablets | Valid |
+| 88147 | Flavistrong 200 Tablet | Strip of 10 tablets | Valid |
+| 89048 | Flavovib 200 Tablet | Strip of 10 tablets | Valid |
+| 90954 | Flavonox 200mg Tablet | Strip of 10 tablets | Valid |
+| 93896 | Flyvo 200mg Tablet | Strip of 10 tablets | Valid |
+| 167505 | Oriflav 200 Tablet | Strip of 10 tablets | Valid |
+| 185502 | Relaxuro Tablet | Strip of 10 tablets | Valid |
+| 210103 | Solvoid Tablet | Strip of 10 tablets | Valid |
+| 230506 | Uro Spas 200mg Tablet | Strip of 10 tablets | Valid |
+| 230651 | Uriliv Tablet | Strip of 10 tablets | Valid |
+| 230678 | Urely 200mg Tablet | Strip of 10 tablets | Valid |
+| 230755 | Uritex 200mg Tablet | Strip of 10 tablets | Valid |
+| 231209 | Urigesic 200mg Tablet | Strip of 10 tablets | Valid |
+| 231348 | Urobase 200mg Tablet | Strip of 10 tablets | Valid |
+| 231410 | Utigesic 200mg Tablet | Strip of 10 tablets | Valid |
+| 231735 | Urific 200mg Tablet | Strip of 10 tablets | Valid |
+| 244306 | X Flav 200mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ---
 

@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 858
 evidence_level: L2
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Trazodone"
 predicted_indications: ["obsessive-compulsive disorder", "schizoid personality disorder", "histrionic personality disorder (disease)", "schizotypal personality disorder", "paranoid personality disorder", "benign paroxysmal torticollis of infancy", "agoraphobia", "phobic disorder", "Ohdo syndrome and variants"]
 description: "Trazodone: predicted new indication Obsessive-compulsive disorder (evidence level L2). In India: at least 20 listed products"
@@ -95,15 +95,38 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-Trazodone is marketed in India with 20 valid single-ingredient registrations, all oral tablets. The registration records contain no approved-indication text. Main registrations:
+Trazodone is marketed in India with 20 valid single-ingredient registrations, all oral tablets. The registration records contain no approved-indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 215832 | Trazonil 100 Tablet (Intas Pharmaceuticals Ltd) | Strip of 10 tablets | Not stated in record |
-| 215401 | Trazonil 25 Tablet (Intas Pharmaceuticals Ltd) | Strip of 10 tablets | Not stated in record |
-| 217748 | Trazalon 25mg Tablet (Sun Pharmaceutical Industries Ltd) | Strip of 10 tablets | Not stated in record |
-| 218099 | Tazodac 50mg Tablet (Zydus Cadila) | Strip of 10 tablets | Not stated in record |
-| 221733 | Trazodep 25mg Tablet (Torrent Pharmaceuticals Ltd) | Strip of 10 tablets | Not stated in record |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 100326 | Gigatraz 50mg Tablet | Strip of 10 tablets | Valid |
+| 188110 | Razocon 50mg Tablet | Strip of 10 tablets | Valid |
+| 189379 | Razocon 25 Tablet | Strip of 10 tablets | Valid |
+| 191044 | Razocon 100mg Tablet | Strip of 10 tablets | Valid |
+| 215401 | Trazonil 25 Tablet | Strip of 10 tablets | Valid |
+| 215588 | Trazalon 50 Tablet | Strip of 10 tablets | Valid |
+| 215832 | Trazonil 100 Tablet | Strip of 10 tablets | Valid |
+| 216819 | Traze 50 Tablet | Strip of 10 tablets | Valid |
+| 217607 | Traze Tablet | Strip of 10 tablets | Valid |
+| 217748 | Trazalon 25mg Tablet | Strip of 10 tablets | Valid |
+| 218099 | Tazodac 50mg Tablet | Strip of 10 tablets | Valid |
+| 218261 | Tripax 25 Tablet | Strip of 10 tablets | Valid |
+| 218420 | Tripax 25 Tablet | Strip of 15 tablets | Valid |
+| 219656 | Trazaril 25mg Tablet | Strip of 10 tablets | Valid |
+| 221733 | Trazodep 25mg Tablet | Strip of 10 tablets | Valid |
+| 223173 | Trazaril 100mg Tablet | Strip of 10 tablets | Valid |
+| 224495 | Trazolite 25mg Tablet | Strip of 10 tablets | Valid |
+| 247217 | Zed 100mg Tablet | Strip of 10 tablets | Valid |
+| 248494 | Zonil 50mg Tablet | Strip of 10 tablets | Valid |
+| 249214 | Zed 25mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ---
 

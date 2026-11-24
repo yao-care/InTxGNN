@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 224
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 description: "D-Glucose: known uses and market status in India; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -72,30 +72,36 @@ The TxGNN deep-learning model has no candidate indication with a score of 0.99 o
 
 ## India Market Information
 
-| Licence | Product | Dosage form | Status |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
 |------|------|------|------|
-| 59318 | D5 Infusion | bottle of 500 ml Infusion | Valid |
-| 72872 | Electrolyte P  Infusion | bottle of 500 ml Infusion | Valid |
-| 125493 | Leclyte G PL Infusion | bottle of 500 ml Infusion | Valid |
-| 123383 | Leclyte P Infusion | bottle of 500 ml Infusion | Valid |
-| 100816 | Grelyte Infusion | bottle of 500 ml Infusion | Valid |
-| 153763 | Nirlife Dextrose Injection | bottle of 500 ml Injection | Valid |
-| 7268 | Aculife 25% Infusion | bottle of 100 ml Infusion | Valid |
-| 110113 | Infutec DNS Infusion | bottle of 500 ml Infusion | Valid |
-| 202189 | Sodium Chloride Infusion | bottle of 500 ml Infusion | Valid |
-| 62263 | Dex 25% Infusion | bottle of 100 ml Infusion | Valid |
-| 73212 | Electrolyte M 5% Infusion | bottle of 500 ml Infusion | Valid |
-| 67858 | D 5% Infusion | bottle of 500 ml Infusion | Valid |
-| 58660 | Dns Infusion | bottle of 500 ml Infusion | Valid |
-| 155043 | Nirlife DNS Infusion | bottle of 500 ml Infusion | Valid |
-| 59285 | Dextrose 5% Infusion | bottle of 500 ml Infusion | Valid |
-| 58821 | Dns  Infusion | bottle of 1000 ml Infusion | Valid |
-| 185836 | Rallidex Infusion | bottle of 500 ml Infusion | Valid |
-| 58586 | Dextrose 25% Infusion | bottle of 100 ml Infusion | Valid |
-| 59116 | D 10% Infusion | bottle of 500 ml Infusion | Valid |
-| 59140 | D5 IV Injection | vial of 500 ml Injection | Valid |
+| 7268 | Aculife 25% Infusion | Bottle of 100 ml Infusion | Valid |
+| 58586 | Dextrose 25% Infusion | Bottle of 100 ml Infusion | Valid |
+| 58660 | Dns Infusion | Bottle of 500 ml Infusion | Valid |
+| 58821 | Dns Infusion | Bottle of 1000 ml Infusion | Valid |
+| 59116 | D 10% Infusion | Bottle of 500 ml Infusion | Valid |
+| 59140 | D5 IV Injection | Vial of 500 ml Injection | Valid |
+| 59285 | Dextrose 5% Infusion | Bottle of 500 ml Infusion | Valid |
+| 59318 | D5 Infusion | Bottle of 500 ml Infusion | Valid |
+| 62263 | Dex 25% Infusion | Bottle of 100 ml Infusion | Valid |
+| 67858 | D 5% Infusion | Bottle of 500 ml Infusion | Valid |
+| 72872 | Electrolyte P Infusion | Bottle of 500 ml Infusion | Valid |
+| 73212 | Electrolyte M 5% Infusion | Bottle of 500 ml Infusion | Valid |
+| 100816 | Grelyte Infusion | Bottle of 500 ml Infusion | Valid |
+| 110113 | Infutec DNS Infusion | Bottle of 500 ml Infusion | Valid |
+| 123383 | Leclyte P Infusion | Bottle of 500 ml Infusion | Valid |
+| 125493 | Leclyte G PL Infusion | Bottle of 500 ml Infusion | Valid |
+| 153763 | Nirlife Dextrose Injection | Bottle of 500 ml Injection | Valid |
+| 155043 | Nirlife DNS Infusion | Bottle of 500 ml Infusion | Valid |
+| 185836 | Rallidex Infusion | Bottle of 500 ml Infusion | Valid |
+| 202189 | Sodium Chloride Infusion | Bottle of 500 ml Infusion | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
 
 Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

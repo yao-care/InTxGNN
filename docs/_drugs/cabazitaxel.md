@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 127
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cabazitaxel: predicted new indication Female breast carcinoma (evidence level L5). Approved use: Not stated in the available data"
 monitor_inn: "Cabazitaxel"
 predicted_indications: ["female breast carcinoma", "sickle cell-hemoglobin c disease syndrome", "sickle cell-hemoglobin d disease syndrome", "sickle cell-beta-thalassemia disease syndrome", "hereditary persistence of fetal hemoglobin-sickle cell disease syndrome", "sickle cell-hemoglobin E disease syndrome", "HIV infectious disease", "hyperthyroidism", "neuroblastoma", "rheumatoid arthritis"]
@@ -86,15 +86,25 @@ Listed in priority order (clinical studies first, then reviews, then preclinical
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 17021 | Arbaz 60mg Injection | Vial of 1.5 ml injection | Not stated |
-| 52984 | Cabocyta 60mg Injection | Vial of 1.5 ml injection | Not stated |
-| 250150 | Z-Texel Injection | Vial of 1.5 ml powder for injection | Not stated |
-| 48705 | Cabazirix 60mg Injection | Vial of 1 injection | Not stated |
-| 42803 | Cabaxan Injection | Vial of 1.5 ml injection | Not stated |
+<!-- licenses:begin -->
 
-Nine valid single-ingredient registrations exist in total; the five above are shown.
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 17021 | Arbaz 60mg Injection | Vial of 1.5 ml Injection | Valid |
+| 42803 | Cabaxan Injection | Vial of 1.5 ml Injection | Valid |
+| 44045 | Cazat Injection | Vial of 1.5 ml Injection | Valid |
+| 48705 | Cabazirix 60mg Injection | Vial of 1 Injection | Valid |
+| 52984 | Cabocyta 60mg Injection | Vial of 1.5 ml Injection | Valid |
+| 114237 | Jevtana Injection | Vial of 1.5 ml Injection | Valid |
+| 116548 | Kabanat Injection | Vial of 1.5 ml Injection | Valid |
+| 181297 | Procabazi 60mg/ml Injection | Vial of 1.5 ml Injection | Valid |
+| 250150 | Z-Texel Injection | Vial of 1.5 ml Powder for Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
+
+Nine valid single-ingredient registrations exist in total.
 
 ## Cytotoxicity
 

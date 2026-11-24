@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Cefditoren"
 predicted_indications: ["rheumatoid arthritis"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 description: "Cefditoren: predicted new indication Rheumatoid arthritis (evidence level L5). Approved use: Not stated in the licence records compiled for this report (approved…"
 ---
 
@@ -69,13 +69,19 @@ Currently no related literature available.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 246583 | Zostum O 100mg Dry Syrup | Bottle of 30 ml dry syrup | Not stated |
-| 38267 | Cefdicare 200mg Tablet | Strip of 10 tablets | Not stated |
-| 37725 | Ceftorin 200mg Tablet | Strip of 6 tablets | Not stated |
-| 246413 | Zostum-O 200mg Tablet | Strip of 10 tablets | Not stated |
-| 247093 | Zostum-O 50mg Tablet DT | Strip of 10 dispersible tablets | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 37725 | Ceftorin 200mg Tablet | Strip of 6 tablets | Valid |
+| 38267 | Cefdicare 200mg Tablet | Strip of 10 tablets | Valid |
+| 246413 | Zostum-O 200mg Tablet | Strip of 10 tablets | Valid |
+| 246583 | Zostum O 100mg Dry Syrup | Bottle of 30 ml Dry Syrup | Valid |
+| 247093 | Zostum-O 50mg Tablet DT | Strip of 10 tablet dt | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

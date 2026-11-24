@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 698
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Prilocaine"
 predicted_indications: ["papillary conjunctivitis", "manic bipolar affective disorder", "bronchitis", "migraine disorder", "neuralgia", "migraine with brainstem aura", "atopic eczema", "allergic asthma", "rhinitis", "rosacea conjunctivitis"]
 description: "Prilocaine: predicted new indication Papillary conjunctivitis (evidence level L5). In India: 19 listed products (19 not discontinued)"
@@ -100,21 +100,41 @@ Evidence for migraine disorder (rank 4) is also thin. One N/A-phase topical anal
 
 ## India Market Information
 
-All 19 registrations are valid products, mainly topical creams, gels and an ointment. No approved indication text is recorded for any of them. A selection of the main authorisations:
+All registrations are valid products, mainly topical creams, gels and an ointment. No approved indication text is recorded for any of them.
 
 <!-- review:begin in-lic-20261106-prilocaine-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "All 19 registrations are valid single-ingredient products, mainly topical creams, gels and an ointment." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+> **Review correction (2026-11-24)**: Originally stated: "All 19 registrations are valid single-ingredient products, mainly topical creams, gels and an ointment." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Revised 2026-11-24: the hard-coded number of records and the wording about the old table were dropped; the Quick Overview and the product table under India Market Information show the current figures. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
 
 <!-- review:end in-lic-20261106-prilocaine-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 174279 | Prilox Cream (Neon Laboratories) | Cream, 5 g tube | Not recorded |
-| 245124 | Xynova P Cream (Troikaa) | Cream, 5 g tube | Not recorded |
-| 244144 | Xynova P Gel (Troikaa) | Gel, 30 g tube | Not recorded |
-| 58540 | Dolocaine Cream (Cadila) | Cream, 5 g tube | Not recorded |
-| 73043 | Emlap Gel (Dr Reddy's) | Gel, 30 g tube | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 3616 | Asthesia Cream | Tube of 30 gm Cream | Valid |
+| 4380 | Asthesia Cream | Tube of 5 gm Cream | Valid |
+| 58540 | Dolocaine Cream | Tube of 5 gm Cream | Valid |
+| 59866 | Dolocaine Cream | Tube of 30 gm Cream | Valid |
+| 73043 | Emlap Gel | Tube of 30 gm Gel | Valid |
+| 74692 | Epilido Cream | Tube of 10 gm Cream | Valid |
+| 150567 | Numbex Cream | Tube of 10 gm Cream | Valid |
+| 150896 | Numbex Cream | Jar of 50 gm Cream | Valid |
+| 151152 | Numbex Cream | Tube of 30 gm Cream | Valid |
+| 173855 | Prilox Cream | Tube of 30 gm Cream | Valid |
+| 174279 | Prilox Cream | Tube of 5 gm Cream | Valid |
+| 175175 | Prilido Cream | Tube of 5 gm Cream | Valid |
+| 189031 | RE Nopain Cream | Tube of 30 gm Cream | Valid |
+| 215166 | Toplap Gel | Tube of 30 gm Gel | Valid |
+| 215483 | Toplap Gel | Tube of 10 gm Gel | Valid |
+| 243866 | Xylap Cream | Tube of 30 gm Cream | Valid |
+| 244144 | Xynova P Gel | Tube of 30 gm Gel | Valid |
+| 244328 | Xyloplus Ointment | Tube of 15 gm Ointment | Valid |
+| 245124 | Xynova P Cream | Tube of 5 gm Cream | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ---
 
@@ -160,7 +180,7 @@ Below is the review log for this page: statements checked against official India
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-24 | Removed: "single-ingredient" | Corrected (revised 2026-11-24; earlier version kept in the record) | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 | 2026-11-19 | "Currently, detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Citanest Plain (prilocaine hydrochloride) prescribing information, Dentsply Pharmaceutical Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=db23a56f-1e41-4843-9220-1b2e3059db41) |
 
 <!-- review:end log -->

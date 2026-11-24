@@ -8,7 +8,7 @@ indication_count: 9
 monitor_inn: "Seratrodast"
 drugbank_id: DB06739
 predicted_indications: ["migraine disorder", "pulmonary hypertension", "rheumatoid arthritis", "migraine with brainstem aura", "kyphoscoliotic heart disease", "brachydactyly-syndactyly syndrome", "leprosy", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "atrophoderma vermiculata"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Seratrodast: predicted new indication Migraine disorder (evidence level L5). In India: 3 listed products (3 not discontinued)"
 ---
 
@@ -94,11 +94,17 @@ For the second-ranked prediction, pulmonary hypertension, one indirect item exis
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Registration No. 200144 | Seretra 80 Tablet (Zuventus Healthcare Ltd) | Strip of 10 tablets | Not stated in the licence record |
-| Registration No. 202314 | Seradair 80mg Tablet (Fourrts India Laboratories Pvt Ltd) | Strip of 10 tablets | Not stated in the licence record |
-| Registration No. 1874 | Alatro Tablet (Lupin Ltd) | Strip of 10 tablets | Not stated in the licence record |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 1874 | Alatro Tablet | Strip of 10 tablets | Valid |
+| 200144 | Seretra 80 Tablet | Strip of 10 tablets | Valid |
+| 202314 | Seradair 80mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 All three licences are valid single-ingredient products, and all are for oral use.
 

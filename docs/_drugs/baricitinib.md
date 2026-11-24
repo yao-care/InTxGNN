@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 91
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Baricitinib: predicted new indication Colobomatous microphthalmia-rhizomelic dysplasia syndrome (evidence level L5). Approved use: Rheumatoid arthritis"
 monitor_inn: "Baricitinib"
 predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome"]
@@ -72,13 +72,24 @@ Currently no related literature available.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 26846 | Barinat 1 Tablet (Natco Pharma) | Bottle of 14 tablets | Not specified in available data |
-| 25844 | Barinat 4 Tablet (Natco Pharma) | Bottle of 14 tablets | Not specified in available data |
-| 26323 | Barilup 4mg Tablet (Lupin) | Bottle of 14 tablets | Not specified in available data |
-| 161925 | Olumiant 4mg Tablet (Eli Lilly India) | Strip of 7 tablets | Not specified in available data |
-| 163438 | Olumiant 2mg Tablet (Eli Lilly India) | Strip of 7 tablets | Not specified in available data |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 25844 | Barinat 4 Tablet | Bottle of 14 tablets | Valid |
+| 26100 | Barikind 4 Tablet | Bottle of 10 tablets | Valid |
+| 26170 | Barikind 4 Tablet | Bottle of 14 tablets | Valid |
+| 26278 | Barijak Tablet | Bottle of 14 tablets | Valid |
+| 26323 | Barilup 4mg Tablet | Bottle of 14 tablets | Valid |
+| 26820 | Baricax 4mg Tablet | Bottle of 14 tablets | Valid |
+| 26846 | Barinat 1 Tablet | Bottle of 14 tablets | Valid |
+| 27513 | Barilup 2mg Tablet | Bottle of 14 tablets | Valid |
+| 161925 | Olumiant 4mg Tablet | Strip of 7 tablets | Valid |
+| 163438 | Olumiant 2mg Tablet | Strip of 7 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 There are 10 valid single-ingredient registrations in total, all oral tablets.
 

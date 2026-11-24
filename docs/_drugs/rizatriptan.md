@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 749
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Rizatriptan"
 predicted_indications: ["atrophoderma vermiculata"]
 description: "Rizatriptan: predicted new indication Atrophoderma vermiculata (evidence level L5). In India: at least 20 listed products"
@@ -84,15 +84,38 @@ The literature below is drawn from the broader migraine population. Reviews and 
 
 ## India Market Information
 
-Showing 5 of 20 valid registrations. All are single-ingredient products. The approved indication text was not available in the registration data.
+All are single-ingredient products. The approved indication text was not available in the registration data.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| 141907 | Migsun 5mg Tablet | Strip of 4 tablets | Sunrise Remedies Pvt Ltd |
-| 186973 | Ritza 5mg Tablet | Strip of 6 tablets | Natco Pharma Ltd |
-| 184687 | Rizora 10 Tablet | Strip of 4 tablets | Intas Pharmaceuticals Ltd |
-| 188477 | Rizamelt 5 Disintegrating Strip | Packet of 5 disintegrating strips | Arinna Lifescience Pvt Ltd |
-| 184240 | Rizact 10 Tablet | Strip of 4 tablets | Cipla Ltd |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 32867 | Benzaryd 5mg Tablet MD | Strip of 10 tablet md | Valid |
+| 136452 | Maxtan 10 Tablet | Strip of 10 tablets | Valid |
+| 139469 | Maxtan 5 Tablet | Strip of 10 tablets | Valid |
+| 141907 | Migsun 5mg Tablet | Strip of 4 tablets | Valid |
+| 145364 | Manoriz 5mg Tablet | Strip of 4 tablets | Valid |
+| 184240 | Rizact 10 Tablet | Strip of 4 tablets | Valid |
+| 184383 | Rizact 5 Tablet | Strip of 4 tablets | Valid |
+| 184505 | Rizanet 10 Oral Disintegrating Strip | Packet of 1 Disintegrating Strip | Valid |
+| 184687 | Rizora 10 Tablet | Strip of 4 tablets | Valid |
+| 185052 | Rizora 5 Tablet | Strip of 4 tablets | Valid |
+| 186973 | Ritza 5mg Tablet | Strip of 6 tablets | Valid |
+| 187057 | Rizamelt 5mg Tablet | Strip of 10 tablets | Valid |
+| 187598 | Rizaxus 10mg Tablet | Strip of 4 tablets | Valid |
+| 187611 | Rizora ODS 10 Disintegrating Strip | Strip of 1 Disintegrating Strip | Valid |
+| 188422 | Rizora ODS 5 Disintegrating Strip | Strip of 1 Disintegrating Strip | Valid |
+| 188477 | Rizamelt 5 Disintegrating Strip | Packet of 5 disintegrating strips | Valid |
+| 189518 | Rizatop 10mg Tablet | Strip of 10 tablets | Valid |
+| 191696 | Riztran 5mg Tablet | Strip of 10 tablets | Valid |
+| 191721 | Riztran 10 MD Tablet Orange | Strip of 4 tablet md | Valid |
+| 192040 | Riztran 5 MD Tablet Orange | Strip of 4 tablet md | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

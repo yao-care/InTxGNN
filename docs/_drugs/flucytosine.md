@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 359
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Flucytosine: predicted new indication Bone Paget disease (evidence level L5). Approved use: Not available"
 monitor_inn: "Flucytosine"
 drugbank_id: DB01099
@@ -63,12 +63,18 @@ One speculative possibility is that 5-FU-derived antimetabolite effects could af
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 40974 | Cytoflu 500mg Tablet (Jolly Healthcare) | Bottle of 50 tablets | Not stated |
-| 36269 | Cytorx 500mg Tablet (Cipla Ltd) | Strip of 10 tablets | Not stated |
-| 36184 | Cytoflu 500mg Tablet (Jolly Healthcare) | Bottle of 100 tablets | Not stated |
-| 36263 | Cytoflu 500mg Tablet (Jolly Healthcare) | Strip of 10 tablets | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 36184 | Cytoflu 500mg Tablet | Bottle of 100 tablets | Valid |
+| 36263 | Cytoflu 500mg Tablet | Strip of 10 tablets | Valid |
+| 36269 | Cytorx 500mg Tablet | Strip of 10 tablets | Valid |
+| 40974 | Cytoflu 500mg Tablet | Bottle of 50 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

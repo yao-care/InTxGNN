@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 184
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Ciprofloxacin"
 predicted_indications: ["diffuse scleroderma", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "punctate epithelial keratoconjunctivitis", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy"]
 description: "Ciprofloxacin: predicted new indication Diffuse scleroderma (evidence level L5). In India: at least 20 listed products"
@@ -85,15 +85,38 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-Ciprofloxacin has 20 valid single-ingredient registrations in India and none are cancelled. Dosage forms are oral tablets (strips of 10 or 15) and an intravenous infusion (100 ml bottle). Approved-indication text was not recorded for these licences. Five main authorizations:
+Ciprofloxacin has 20 valid single-ingredient registrations in India and none are cancelled. Dosage forms are oral tablets (strips of 10 or 15) and an intravenous infusion (100 ml bottle). Approved-indication text was not recorded for these licences.
 
-| Authorization Number | Product Name | Dosage Form |
-|---------|------|------|
-| 78463 | Euflox 500mg Tablet | Strip of 15 tablets |
-| 3838 | Acebid SP Tablet | Strip of 10 tablets |
-| 46934 | Cipti 250mg/300mg Tablet | Strip of 10 tablets |
-| 52255 | CIPDOSE 200MG INFUSION | Bottle of 100 ml infusion |
-| 85551 | Floxip OZ 500mg/500mg Tablet (Abbott) | Strip of 10 tablets |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 3838 | Acebid SP Tablet | Strip of 10 tablets | Valid |
+| 40524 | Cipocin 500mg Tablet | Strip of 10 tablets | Valid |
+| 42551 | Ciprotop-TZ 500mg/600mg Tablet | Strip of 10 tablets | Valid |
+| 43438 | Ciprotin 500mg/600mg Tablet | Strip of 10 tablets | Valid |
+| 45599 | Cipet 500mg Tablet | Strip of 10 tablets | Valid |
+| 46934 | Cipti 250mg/300mg Tablet | Strip of 10 tablets | Valid |
+| 47854 | Cipronij TZ 500 mg/600 mg Tablet | Strip of 10 tablets | Valid |
+| 50790 | Ciproplus 500mg Tablet | Strip of 10 tablets | Valid |
+| 52255 | CIPDOSE 200MG INFUSION | Bottle of 100 ml Infusion | Valid |
+| 52995 | Cipzy 250mg Tablet | Strip of 10 tablets | Valid |
+| 54971 | Ciprolintz 500mg/600mg Tablet | Strip of 10 tablets | Valid |
+| 57063 | Ciptrix 500mg Tablet | Strip of 10 tablets | Valid |
+| 57640 | Ciptech 500mg Tablet | Strip of 10 tablets | Valid |
+| 78463 | Euflox 500mg Tablet | Strip of 15 tablets | Valid |
+| 85551 | Floxip OZ 500mg/500mg Tablet | Strip of 10 tablets | Valid |
+| 168758 | Oracip 250mg Tablet | Strip of 10 tablets | Valid |
+| 183103 | Quinocip 500mg Tablet | Strip of 10 tablets | Valid |
+| 183947 | Quinbid 250mg Tablet | Strip of 10 tablets | Valid |
+| 205863 | Silexf 500mg Tablet | Strip of 10 tablets | Valid |
+| 243502 | Welcip 500mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ---
 

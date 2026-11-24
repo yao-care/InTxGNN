@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 327
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 monitor_inn: "Ethambutol"
 predicted_indications: ["epiglottitis", "laryngitis", "meningococcal infection", "peritonitis", "infectious otitis media"]
 description: "Ethambutol: predicted new indication Epiglottitis (evidence level L5). In India: at least 20 listed products"
@@ -74,15 +74,38 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-Ethambutol is marketed in India as single-ingredient oral tablets. The data compiled for this report contain no approved indication text for these registrations. The main registrations are listed below (5 of 20).
+Ethambutol is marketed in India as single-ingredient oral tablets. The data compiled for this report contain no approved indication text for these registrations.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| 209270 | Sunibutol 800mg Tablet | Strip of 10 tablets | Sunij Pharma Pvt Ltd |
-| 212836 | Sunibutol 600mg Tablet | Strip of 10 tablets | Sunij Pharma Pvt Ltd |
-| 82483 | EBL 800mg Tablet | Strip of 10 tablets | Acron Pharmaceuticals |
-| 35618 | Combutol 200 Tablet | Strip of 10 tablets | Lupin Ltd |
-| 56636 | CAVIBUTOL 200MG TABLET | Strip of 10 tablets | Wockhardt Ltd |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 11877 | Anibutol 1000mg Tablet | Strip of 10 tablets | Valid |
+| 31445 | Bitol 800mg Tablet | Strip of 10 tablets | Valid |
+| 35618 | Combutol 200 Tablet | Strip of 10 tablets | Valid |
+| 45085 | Concox 800mg Tablet | Strip of 10 tablets | Valid |
+| 51353 | Cure E 800mg Tablet | Strip of 10 tablets | Valid |
+| 56571 | Cibutol 800mg Tablet | Strip of 10 tablets | Valid |
+| 56636 | CAVIBUTOL 200MG TABLET | Strip of 10 tablets | Valid |
+| 81854 | Etham 800mg Tablet | Strip of 10 tablets | Valid |
+| 82483 | EBL 800mg Tablet | Strip of 10 tablets | Valid |
+| 83450 | ETHRIK 800MG TABLET | Strip of 10 tablets | Valid |
+| 117576 | Koxi 600mg Tablet | Strip of 10 tablets | Valid |
+| 134972 | Mycobutol 1000 Tablet | Strip of 10 tablets | Valid |
+| 144766 | Mycostat 1000mg Tablet | Strip of 10 tablets | Valid |
+| 148214 | Marcobutol 800mg Tablet | Strip of 10 tablets | Valid |
+| 149161 | Monobutol 800mg Tablet | Strip of 10 tablets | Valid |
+| 209270 | Sunibutol 800mg Tablet | Strip of 10 tablets | Valid |
+| 212836 | Sunibutol 600mg Tablet | Strip of 10 tablets | Valid |
+| 229351 | Taurcox 800mg Tablet | Strip of 10 tablets | Valid |
+| 230113 | Thamit 800mg Tablet | Strip of 10 tablets | Valid |
+| 232450 | Ulticox 800mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

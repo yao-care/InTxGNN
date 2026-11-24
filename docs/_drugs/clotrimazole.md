@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 205
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Clotrimazole"
 predicted_indications: ["acne (disease)", "postmenopausal atrophic vaginitis"]
 description: "Clotrimazole: predicted new indication Acne (disease) (evidence level L5). In India: at least 20 listed products"
@@ -85,15 +85,44 @@ Currently no related literature available.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form |
-|---------|------|------|
-| Registration No. 47293 | Curitop Dusting Powder | Dusting powder (100 g bottle) |
-| Registration No. 109411 | Itchnil Cream | Cream (20 g tube) |
-| Registration No. 110404 | Itchgo Cream | Cream (15 g tube) |
-| Registration No. 41401 | Canazole Mouth Wash | Mouth wash (15 ml) |
-| Registration No. 50197 | Canfem 100mg Tablet VT | Vaginal tablet (strip of 6) |
+<!-- licenses:begin -->
 
-All 20 licences listed in the local data are valid single-ingredient products. The list may be partial, so only the main authorizations are shown here.
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 35702 | Cloral Lozenges Sugar Free | Strip of 10 lozenges | Valid |
+| 36686 | Clocip Tablet VT | Packet of 6 tablet vt | Valid |
+| 38953 | Comit 20mg/100mg/500mg Tablet VT | Strip of 6 tablet vt | Valid |
+| 41401 | Canazole Mouth Wash | Bottle of 15 ml Mouth Wash | Valid |
+| 42289 | Clovag 100mg Tablet | Strip of 6 tablets | Valid |
+| 42807 | Can V6 Tablet | Strip of 6 tablets | Valid |
+| 45658 | Canditas Dusting Powder | Packet of 75 gm Dusting Powder | Valid |
+| 47293 | Curitop Dusting Powder | Bottle of 100 gm Dusting Powder | Valid |
+| 48125 | Clozol V 100mg Tablet | Strip of 6 tablets | Valid |
+| 50197 | Canfem 100mg Tablet VT | Strip of 6 tablet vt | Valid |
+| 51194 | Candicul 100mg Tablet VT | Packet of 6 tablet vt | Valid |
+| 67900 | Decand V6 100mg Tablet VT | Strip of 6 tablet vt | Valid |
+| 87684 | Fungi Drop | Packet of 10 ml Drop | Valid |
+| 95666 | Gynotab Tablet VT | Packet of 6 tablet vt | Valid |
+| 109411 | Itchnil Cream | Tube of 20 gm Cream | Valid |
+| 110404 | Itchgo Cream | Tube of 15 gm Cream | Valid |
+| 137563 | Monil V Vaginal Pessary | Packet of 4 pessaries | Valid |
+| 145299 | Mycocid Mouth Wash | Bottle of 15 ml Mouth Wash | Valid |
+| 162477 | Oraloz 10mg Lozenges | Strip of 10 lozenges | Valid |
+| 163340 | Orecure F Ear Drop | Packet of 10 ml Ear Drop | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
+
+All 20 licences listed in the local data are valid products. The list may be partial.
+
+<!-- review:begin in-lic-20261124-clotrimazole-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "All 20 licences listed in the local data are valid single-ingredient products." Removed: it described the products as single-ingredient (or as having no combination products), which does not match the Indian medicine data (the Indian Medicine Dataset): some of the recorded products are fixed-dose combinations. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124-clotrimazole-1 -->
 
 ---
 
@@ -122,11 +151,12 @@ The only related trial tested a three-drug combination, is suspended and has no 
 
 ## Review Log
 
-Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: clotrimazole prescribing information, Rising Pharma Holdings, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=980736aa-751a-4642-ab85-a309435fd02f) |
+| 2026-11-24 | Removed: the single-ingredient claim | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 

@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 474
 evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ledipasvir: predicted new indication Hepatitis B virus infection (evidence level L2). Approved use: Chronic hepatitis C virus infection (hepatitis C virus infection)"
 monitor_inn: "Ledipasvir"
 predicted_indications: ["hepatitis B virus infection", "hepatitis E virus infection", "hepatitis, viral, animal", "hepatitis A virus infection", "Omsk hemorrhagic fever", "Kyasanur forest disease", "chronic hepatitis B virus infection", "HIV infectious disease", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome"]
@@ -89,19 +89,34 @@ Some clinical signals exist. A Phase 2 open-label study of ledipasvir/sofosbuvir
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 209193 | Sofokem L 90mg/400mg Tablet (Alkem Laboratories) | Strip of 28 tablets | Not specified |
-| 186367 | Reclaim-L Tablet (Lupin) | Bottle of 28 tablets | Not specified |
-| 104176 | Hepcvir L 90mg/400mg Tablet (Cipla) | Strip of 28 tablets | Not specified |
-| 104373 | Hepcinat-LP Tablet (Natco Pharma) | Strip of 28 tablets | Not specified |
-| 125977 | Ledihep Tablet (Zydus Cadila) | Strip of 28 tablets | Not specified |
+<!-- licenses:begin -->
 
-Fourteen valid registrations are listed in total; all are oral tablets. The first five are shown here.
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 49807 | Cimivir-L Tablet | Bottle of 28 tablets | Valid |
+| 104176 | Hepcvir L 90mg/400mg Tablet | Strip of 28 tablets | Valid |
+| 104373 | Hepcinat-LP Tablet | Strip of 28 tablets | Valid |
+| 122809 | Ledifos 90mg/400mg Tablet | Strip of 28 tablets | Valid |
+| 125977 | Ledihep Tablet | Strip of 28 tablets | Valid |
+| 126288 | Ledviclear 90mg/400mg Tablet | Strip of 28 tablets | Valid |
+| 137864 | Myhep Lvir Tablet | Bottle of 28 tablets | Valid |
+| 186367 | Reclaim-L Tablet | Bottle of 28 tablets | Valid |
+| 188140 | Resof-L Tablet | Strip of 28 tablets | Valid |
+| 204647 | Sofab LP Tablet | Strip of 28 tablets | Valid |
+| 205373 | Sofocure L 90mg/400mg Tablet | Strip of 28 tablets | Valid |
+| 209193 | Sofokem L 90mg/400mg Tablet | Strip of 28 tablets | Valid |
+| 213797 | Sofocruz LP Tablet | Strip of 28 tablets | Valid |
+| 237917 | Virpas Tablet | Bottle of 28 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
+
+All registrations are valid, and all are oral tablets.
 
 <!-- review:begin in-lic-20261106-ledipasvir-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "Fourteen valid single-ingredient registrations are listed in total; all are oral tablets." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+> **Review correction (2026-11-24)**: Originally stated: "Fourteen valid single-ingredient registrations are listed in total; all are oral tablets." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Revised 2026-11-24: the hard-coded number of records and the wording about the old table were dropped; the Quick Overview and the product table under India Market Information show the current figures. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
 
 <!-- review:end in-lic-20261106-ledipasvir-1 -->
 
@@ -138,7 +153,7 @@ Below is the review log for this page: statements checked against official India
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-24 | Removed: "single-ingredient" | Corrected (revised 2026-11-24; earlier version kept in the record) | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 | 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL2374220 (ledipasvir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2374220) |
 
 <!-- review:end log -->

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 244
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Desmopressin: predicted new indication Congenital prothrombin deficiency (evidence level L5). Approved use: Hereditary von Willebrand disease (also von Willebrand disease…"
 monitor_inn: "Desmopressin"
 predicted_indications: ["congenital prothrombin deficiency", "inherited thrombophilia", "Glanzmann thrombasthenia", "primary release disorder of platelets", "Scott syndrome", "flood factor deficiency"]
@@ -104,13 +104,24 @@ Currently no related clinical trials registered for any of the ten predicted ind
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 59569 | Dpressin 0.1mg Tablet (United Biotech) | Strip of 10 tablets | Not stated |
-| 133549 | Minirin 0.1mg Tablet (Ferring) | Bottle of 15 tablets | Not stated |
-| 134712 | Minirin Melt 120mcg Tablet (Ferring) | Strip of 10 tablets | Not stated |
-| 133878 | Minirin Nasal Spray (Ferring) | 2.5 ml nasal spray | Not stated |
-| 59224 | Dpressin Nasal Spray (United Biotech) | 5 ml nasal spray | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 59224 | Dpressin Nasal Spray | Packet of 5 ml Nasal Spray | Valid |
+| 59569 | Dpressin 0.1mg Tablet | Strip of 10 tablets | Valid |
+| 59946 | D Void Tablet | Strip of 10 tablets | Valid |
+| 63544 | Dessin Nasal Spray | Pump bottle of 5 ml Nasal Spray | Valid |
+| 133549 | Minirin 0.1mg Tablet | Bottle of 15 tablets | Valid |
+| 133872 | Minirin Melt 60mcg Tablet MD | Strip of 10 tablet md | Valid |
+| 133878 | Minirin Nasal Spray | Packet of 2.5 ml Nasal Spray | Valid |
+| 133960 | Minirin 0.2mg Tablet | Strip of 30 tablets | Valid |
+| 134712 | Minirin Melt 120mcg Tablet | Strip of 10 tablets | Valid |
+| 136924 | Minirin Melt 0.1mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 Ten valid single-ingredient registrations are on record in total, covering oral tablets (including melt/orally disintegrating forms) and nasal sprays. Approved indication text was not available for any of them.
 

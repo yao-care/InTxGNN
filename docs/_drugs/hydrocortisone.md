@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 412
 evidence_level: L2
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Hydrocortisone"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo"]
 description: "Hydrocortisone: predicted new indication Alopecia areata (evidence level L2). In India: at least 20 listed products"
@@ -89,15 +89,38 @@ There is an important caveat. Hydrocortisone is a low-potency steroid. In the on
 
 ## India Market Information
 
-At least 20 valid single-ingredient licences are recorded, and the list below may be partial. The licence records contain no approved-indication text.
+At least 20 valid single-ingredient licences are recorded. The licence records contain no approved-indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 113711 | Irap 100mg Injection | Vial of 1 injection | Not stated |
-| 52816 | Criticort Injection | Vial of 1 injection | Not stated |
-| 174259 | Primacort 200mg Injection | Vial of 5 ml injection | Not stated |
-| 103759 | Hisone 5 Tablet | Strip of 10 tablets | Not stated |
-| 104991 | HC-Cort 20 Tablet | Strip of 10 tablets | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 22600 | Aicort 100mg Injection | Vial of 1 Injection | Valid |
+| 27240 | Biosone 100mg Injection | Vial of 1 Injection | Valid |
+| 29950 | Blucort 100mg Injection | Vial of 1 Injection | Valid |
+| 41364 | Cortem 100mg Injection | Vial of 1 Injection | Valid |
+| 43285 | Cortis H 100mg Injection | Vial of 2 ml Injection | Valid |
+| 49207 | Cardol 100mg Injection | Vial of 1 Powder for Injection | Valid |
+| 52324 | Cortiscan 100 Injection | Vial of 1 Injection | Valid |
+| 52574 | Cucort 100mg Injection | Vial of 1 Injection | Valid |
+| 52816 | Criticort Injection | Vial of 1 Injection | Valid |
+| 53836 | Cortisym 200mg Injection | Vial of 1 Injection | Valid |
+| 78967 | Efocort Injection | Vial of 1 Injection | Valid |
+| 103732 | Hydrocortisone Sodium 100mg Injection | Vial of 1 Injection | Valid |
+| 103759 | Hisone 5 Tablet | Strip of 10 tablets | Valid |
+| 104991 | HC-Cort 20 Tablet | Strip of 10 tablets | Valid |
+| 106868 | Hyacan 100mg Injection | Vial of 1 Injection | Valid |
+| 113711 | Irap 100mg Injection | Vial of 1 Injection | Valid |
+| 150125 | Metcorlin 200mg Injection | Vial of 1 Injection | Valid |
+| 157503 | Ncort 100 Injection | Vial of 1 Injection | Valid |
+| 174259 | Primacort 200mg Injection | Vial of 5 ml Injection | Valid |
+| 189357 | Recort 100 Injection | Vial of 1 Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 Available forms are injectable (vials) and oral (tablets). No topical product is listed, whereas the supporting trial used a topical cream.
 

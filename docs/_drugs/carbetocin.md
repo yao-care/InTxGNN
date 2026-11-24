@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Carbetocin"
 predicted_indications: ["isotretinoin-like syndrome", "Goodman syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Carbetocin: predicted new indication isotretinoin-like syndrome (evidence level L5). In India: 4 listed products (4 not discontinued)"
 ---
 
@@ -69,12 +69,18 @@ Currently no related literature available.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 35607 | Cinomac 100mcg Injection | vial of 1 ml Injection | Not recorded |
-| 73959 | Ecbosure 100mcg Injection | vial of 1 Injection | Not recorded |
-| 184721 | Riligol Injection | vial of 1 ml Injection | Not recorded |
-| 34497 | Caritec Solution for Injection | vial of 1 ml Solution for Injection | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 34497 | Caritec Solution for Injection | Vial of 1 ml Solution for Injection | Valid |
+| 35607 | Cinomac 100mcg Injection | Vial of 1 ml Injection | Valid |
+| 73959 | Ecbosure 100mcg Injection | Vial of 1 Injection | Valid |
+| 184721 | Riligol Injection | Vial of 1 ml Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

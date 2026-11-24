@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 219
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cycloserine: predicted new indication Irritable bowel syndrome (evidence level L5). Approved use: Pulmonary tuberculosis"
 monitor_inn: "Cycloserine"
 predicted_indications: ["irritable bowel syndrome", "acne (disease)", "gastroparesis (disease)", "conjunctivitis", "insomnia (disease)", "pharyngitis", "nasal cavity disease"]
@@ -72,15 +72,26 @@ Currently no related literature available for irritable bowel syndrome.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 35423 | Coxerin Capsule (Macleods) | Strip of 10 capsules | Not stated |
-| 38907 | Cyclotec 250mg Capsule (United Biotech) | Strip of 10 capsules | Not stated |
-| 39619 | Cyclorine Capsule (Lupin) | Strip of 6 capsules | Not stated |
-| 142498 | MD Serine 250mg Tablet (Maneesh) | Strip of 4 tablets | Not stated |
-| 142006 | Mycotuf C 250mg Tablet (Cadila) | Strip of 10 tablets | Not stated |
+<!-- licenses:begin -->
 
-All 10 registrations are valid single-ingredient oral products; the table lists 5 of them.
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 35423 | Coxerin Capsule | Strip of 10 capsules | Valid |
+| 35765 | Cyclorin Capsule | Strip of 6 capsules | Valid |
+| 38907 | Cyclotec 250mg Capsule | Strip of 10 capsules | Valid |
+| 39619 | Cyclorine Capsule | Strip of 6 capsules | Valid |
+| 45795 | CYCLOKOX 250MG CAPSULE | Strip of 10 capsules | Valid |
+| 47910 | Cyserin 250mg Capsule | Strip of 10 capsules | Valid |
+| 141144 | Myser 250mg Capsule | Strip of 10 capsules | Valid |
+| 142006 | Mycotuf C 250mg Tablet | Strip of 10 tablets | Valid |
+| 142498 | MD Serine 250mg Tablet | Strip of 4 tablets | Valid |
+| 158000 | Novaserine 250mg Capsule | Strip of 6 capsules | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
+
+All 10 registrations are valid single-ingredient oral products.
 
 ## Safety Considerations
 

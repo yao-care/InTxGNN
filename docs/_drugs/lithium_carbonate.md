@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 495
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Lithium carbonate"
 predicted_indications: ["pseudoachondroplasia", "acromesomelic dysplasia, Hunter-Thompson type", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia", "myosclerosis", "brachyolmia-amelogenesis imperfecta syndrome", "brachydactyly-syndactyly syndrome", "Behr syndrome", "WHIM syndrome", "combined immunodeficiency due to moesin deficiency"]
 description: "Lithium Carbonate: predicted new indication Pseudoachondroplasia (evidence level L5). In India: at least 20 listed products"
@@ -73,15 +73,38 @@ For reference, the only publication found among the top ten predictions is a gen
 
 ## India Market Information
 
-Showing 5 of 20 valid single-ingredient registrations. All are oral tablets, including immediate-release, SR, XR and CR forms. Approved indication text was not available in the licence records.
+All are oral tablets, including immediate-release, SR, XR and CR forms. Approved indication text was not available in the licence records.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 53664 | Cthium 300mg Tablet | Strip of 10 tablets | Not stated in licence record |
-| 49084 | Carbolith 400mg Tablet | Strip of 10 tablets | Not stated in licence record |
-| 245817 | Yalithim 400mg Tablet XR | Strip of 10 tablet XR | Not stated in licence record |
-| 125707 | Lithowel 450mg Tablet CR | Strip of 10 tablet CR | Not stated in licence record |
-| 121118 | Licab XL Tablet | Strip of 10 tablet PR | Not stated in licence record |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 20950 | A Lith 300mg Tablet | Strip of 10 tablets | Valid |
+| 45205 | Cylith 300mg Tablet | Strip of 10 tablets | Valid |
+| 49084 | Carbolith 400mg Tablet | Strip of 10 tablets | Valid |
+| 53664 | Cthium 300mg Tablet | Strip of 10 tablets | Valid |
+| 61148 | Deblith 400mg Tablet SR | Strip of 10 tablet sr | Valid |
+| 77550 | Elcab 300mg Tablet | Strip of 10 tablets | Valid |
+| 121118 | Licab XL Tablet | Strip of 10 Tablet pr | Valid |
+| 122437 | Lithex 300mg Tablet | Strip of 10 tablets | Valid |
+| 124852 | Lalithium 400mg Tablet XR | Strip of 10 tablet xr | Valid |
+| 125438 | Lithotablet 400mg Tablet SR | Strip of 10 tablet sr | Valid |
+| 125707 | Lithowel 450mg Tablet CR | Strip of 10 tablet cr | Valid |
+| 126074 | LQ 400mg Tablet SR | Strip of 10 tablet sr | Valid |
+| 126119 | Lc 400mg Tablet | Strip of 10 tablets | Valid |
+| 126918 | Lc 300mg Tablet | Strip of 10 tablets | Valid |
+| 127236 | Lithomed 300mg Tablet SR | Strip of 10 tablet sr | Valid |
+| 129364 | Lithopik 300mg Tablet | Strip of 10 tablets | Valid |
+| 136356 | Monolith 400mg Tablet SR | Strip of 10 tablet sr | Valid |
+| 138211 | Manicarb 300mg Tablet SR | Strip of 10 tablet sr | Valid |
+| 245817 | Yalithim 400mg Tablet XR | Strip of 10 tablet xr | Valid |
+| 252373 | Zolith 250mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

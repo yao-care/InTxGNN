@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Fluorouracil"
 predicted_indications: ["botryoid-type embryonal rhabdomyosarcoma of the vagina", "rhabdomyosarcoma (disease)", "parameningeal embryonal rhabdomyosarcoma", "embryonal extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "liver sarcoma", "hereditary persistence of fetal hemoglobin-sickle cell disease syndrome", "sickle cell-beta-thalassemia disease syndrome", "sickle cell-hemoglobin E disease syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Fluorouracil: predicted new indication Botryoid-type embryonal rhabdomyosarcoma of the vagina (evidence level L5). In India: at least 20 listed products"
 ---
 
@@ -87,15 +87,38 @@ None of these studies directly tests fluorouracil in rhabdomyosarcoma. They are 
 
 ## India Market Information
 
-At least 20 single-ingredient injectable fluorouracil approvals are listed, and the list may be partial. The licence records contain no approved-indication text. The five main entries are:
+At least 20 single-ingredient injectable fluorouracil approvals are listed, and the list may be partial. The licence records contain no approved-indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 91285 | Fivoflu 250mg Injection | Vial of 5 ml injection | Not stated in the record |
-| 90158 | Fivotop 500 Injection | Ampoule of 10 ml injection | Not stated in the record |
-| 85231 | Fluracil 500mg Injection | Vial of 10 ml injection | Not stated in the record |
-| 91059 | Flocil 250mg Injection | Vial of 5 ml injection | Not stated in the record |
-| 87925 | Fivocil 500mg Injection | Vial of 5 ml injection | Not stated in the record |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 45199 | Chemoflura 500mg Injection | Vial of 1 Injection | Valid |
+| 47496 | Chemoflura 250mg Injection | Vial of 1 Injection | Valid |
+| 85231 | Fluracil 500mg Injection | Vial of 10 ml Injection | Valid |
+| 86502 | Fluracil 250mg Injection | Vial of 5 ml Injection | Valid |
+| 87480 | Florac 500mg Injection | Vial of 10 ml Injection | Valid |
+| 87925 | Fivocil 500mg Injection | Vial of 5 ml Injection | Valid |
+| 89042 | Florac 250mg Injection | Vial of 5 ml Injection | Valid |
+| 89593 | Flocil 500mg Injection | Vial of 10 ml Injection | Valid |
+| 89599 | Fludin 500mg Injection | Vial of 10 ml Injection | Valid |
+| 90013 | Fivocil 250mg Injection | Vial of 5 ml Injection | Valid |
+| 90158 | Fivotop 500 Injection | Ampoule of 10 ml Injection | Valid |
+| 90261 | Fludin 250mg Injection | Vial of 5 ml Injection | Valid |
+| 90744 | Fluonco 500mg Injection | Vial of 10 ml Injection | Valid |
+| 90960 | Fivoflu 500mg Injection | Vial of 10 ml Injection | Valid |
+| 91041 | Fluonco 250mg Injection | Vial of 10 ml Injection | Valid |
+| 91059 | Flocil 250mg Injection | Vial of 5 ml Injection | Valid |
+| 91285 | Fivoflu 250mg Injection | Vial of 5 ml Injection | Valid |
+| 92869 | Fivotop 250 Injection | Ampoule of 5 ml Injection | Valid |
+| 118388 | Kucil 500mg Injection | Vial of 10 ml Injection | Valid |
+| 167157 | Oncoflour 250mg Injection | Vial of 5 ml Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 All listed products are injections. Whether this route suits rhabdomyosarcoma has not been assessed.
 

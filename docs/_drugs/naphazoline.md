@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 578
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Naphazoline: predicted new indication Hypotrichosis simplex of the scalp (evidence level L5). Approved use: Temporary relief of eye redness (vasoconstrictor eye drop). The licen…"
 monitor_inn: "Naphazoline"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "primary hereditary glaucoma", "hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "open-angle glaucoma", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature"]
@@ -79,15 +79,44 @@ Currently no related clinical trials are registered for hypotrichosis simplex of
 
 ## India Market Information
 
-Naphazoline has 20 valid single-ingredient registrations and no combination or cancelled registrations. All are ophthalmic products. The records contain no approved indication text. The five main authorizations are:
+Naphazoline has 20 valid registrations and no cancelled registrations. All are ophthalmic products. The records contain no approved indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 164326 | Opti Zee Eye Drop | Packet of 10 ml eye drop | Not stated |
-| 151757 | Nefcoz Eye Drop | Bottle of 10 ml eye drop | Not stated |
-| 162589 | Optizee Plus Eye Drop | Packet of 10 ml eye drop | Not stated |
-| 156983 | Nizoline Z Eye Drop | Packet of 5 ml eye drop | Not stated |
-| 137052 | Mil Eye Drop | Packet of 10 ml eye drop | Not stated |
+<!-- review:begin in-lic-20261124-naphazoline-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "Naphazoline has 20 valid single-ingredient registrations and no combination or cancelled registrations." Removed: it described the products as single-ingredient (or as having no combination products), which does not match the Indian medicine data (the Indian Medicine Dataset): some of the recorded products are fixed-dose combinations. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124-naphazoline-1 -->
+
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 85690 | Frinzy Plus Eye Drop | Packet of 10 ml Eye Drop | Valid |
+| 109468 | Ilin MC Eye Drop | Packet of 10 ml Eye Drop | Valid |
+| 109918 | Ilin Eye Drop | Packet of 10 ml Eye Drop | Valid |
+| 123377 | Life OK Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 137052 | Mil Eye Drop | Packet of 10 ml Eye Drop | Valid |
+| 141538 | Microsol Eye Drop | Packet of 10 ml Eye Drop | Valid |
+| 141671 | Medikul Eye Drop | Packet of 10 ml Eye Drop | Valid |
+| 142759 | Medikul C Eye Drop | Packet of 10 ml Eye Drop | Valid |
+| 151757 | Nefcoz Eye Drop | Bottle of 10 ml Eye Drop | Valid |
+| 152122 | Nazol Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 152409 | Nezolin Eye Drop | Bottle of 10 ml Eye Drop | Valid |
+| 154253 | Naphace Eye Drop | Packet of 10 ml Eye Drop | Valid |
+| 156983 | Nizoline Z Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 162589 | Optizee Plus Eye Drop | Packet of 10 ml Eye Drop | Valid |
+| 164326 | Opti Zee Eye Drop | Packet of 10 ml Eye Drop | Valid |
+| 165472 | Ocucel A Eye Drop | Packet of 10 ml Eye Drop | Valid |
+| 191011 | Red Rid Plus Eye Drop | Packet of 10 ml Eye Drop | Valid |
+| 193349 | Reecool Eye Drop | Packet of 10 ml Eye Drop | Valid |
+| 233961 | V-Kul Sterile Eye Drops | Packet of 10 ml Ophthalmic Solution | Valid |
+| 250653 | Zicon Eye Drop | Packet of 5 ml Eye Drop | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -115,6 +144,19 @@ The prediction rests only on a model score, with no clinical trials or literatur
 - Preclinical or mechanistic evidence that an alpha-adrenergic agonist can affect hair follicle biology
 - Route compatibility assessment, since only ophthalmic products are marketed and any scalp use would need a new formulation
 - If the project is redirected, a targeted literature search on alpha-agonists and intraocular pressure, with attention to the angle-closure risk
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-24 | Removed: the single-ingredient claim | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

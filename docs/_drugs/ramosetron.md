@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 723
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 description: "Ramosetron: predicted new indication Insomnia (evidence level L5). Approved use: Not listed in the Indian license records compiled for this report"
 monitor_inn: "Ramosetron"
 drugbank_id: DB09290
@@ -65,11 +65,17 @@ The second-ranked prediction, **migraine disorder** (score 0.9906), rests on sim
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 150936 | Nozia Tablet | Strip of 2 tablets | Not specified |
-| 107757 | Ibset Tablet | Strip of 15 tablets | Not specified |
-| 151215 | Nozia Injection | Vial of 2 ml injection | Not specified |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 107757 | Ibset Tablet | Strip of 15 tablets | Valid |
+| 150936 | Nozia Tablet | Strip of 2 tablets | Valid |
+| 151215 | Nozia Injection | Vial of 2 ml Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 All three are single-ingredient products from Zydus Cadila and are currently valid.
 

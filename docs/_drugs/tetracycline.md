@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 827
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Tetracycline"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "chronic ethmoidal sinusitis", "chronic rhinosinusitis", "paranasal sinus neoplasm (disease)"]
 description: "Tetracycline: predicted new indication Punctate epithelial keratoconjunctivitis (evidence level L5). In India: at least 20 listed products"
@@ -76,13 +76,36 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 216002 | Tetralab 250mg Capsule | Strip of 10 capsules | Not stated |
-| 20540 | Arcycline 250mg Capsule | Strip of 10 capsules | Not stated |
-| 192020 | Rancycline 250mg Capsule (Sun Pharmaceutical) | Strip of 10 capsules | Not stated |
-| 217158 | Tetra A 250mg Tablet | Strip of 10 tablets | Not stated |
-| 153483 | Nicocycline 500mg Capsule (Abbott) | Strip of 10 capsules | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 20540 | Arcycline 250mg Capsule | Strip of 10 capsules | Valid |
+| 45225 | Cadicycline 250mg Capsule | Strip of 10 capsules | Valid |
+| 46647 | Caten 250mg Capsule | Strip of 10 capsules | Valid |
+| 48221 | Cypacycline 250mg Capsule | Strip of 10 capsules | Valid |
+| 83691 | Econocycline 250mg Capsule | Strip of 10 capsules | Valid |
+| 111280 | Ingacycline 250mg Capsule | Strip of 10 capsules | Valid |
+| 139791 | M Cycline 500mg Capsule | Strip of 10 capsules | Valid |
+| 153483 | Nicocycline 500mg Capsule | Strip of 10 capsules | Valid |
+| 183753 | Quadric 250mg Capsule | Strip of 10 capsules | Valid |
+| 192020 | Rancycline 250mg Capsule | Strip of 10 capsules | Valid |
+| 203934 | Subamycin 250mg Capsule | Strip of 10 capsules | Valid |
+| 216002 | Tetralab 250mg Capsule | Strip of 10 capsules | Valid |
+| 217158 | Tetra A 250mg Tablet | Strip of 10 tablets | Valid |
+| 219790 | Terapal 250mg Capsule | Strip of 10 capsules | Valid |
+| 220009 | Tetra Tos 500mg Tablet | Strip of 10 tablets | Valid |
+| 221650 | Tetralid 250mg Capsule | Strip of 10 capsules | Valid |
+| 221920 | Tetramax 500 Capsule | Strip of 10 capsules | Valid |
+| 222858 | Tetlin 500mg Capsule | Strip of 10 capsules | Valid |
+| 224850 | Tetrapex 500mg Capsule | Strip of 10 capsules | Valid |
+| 228357 | Tetrasung 250mg Capsule | Strip of 10 capsules | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 There are 20 valid single-ingredient registrations in total. All are oral capsules or tablets. No ophthalmic formulation appears in the data compiled for this report.
 

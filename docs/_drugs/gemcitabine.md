@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 388
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Gemcitabine"
 predicted_indications: ["rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "endometrial mixed adenocarcinoma", "villoglandular endometrial endometrioid adenocarcinoma", "endometrial mucinous adenocarcinoma", "cervical mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "secretory uterine corpus endometrioid adenocarcinoma"]
 description: "Gemcitabine: predicted new indication Rectum mucinous adenocarcinoma (evidence level L5). In India: at least 20 listed products"
@@ -93,15 +93,38 @@ The data include 36 trials. The 10 most relevant are listed below.
 
 ## India Market Information
 
-All 20 registrations are valid single-ingredient injectable products. The five below are examples. The records contain no approved-indication text.
+All 20 registrations are valid single-ingredient injectable products. The records contain no approved-indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 99309 | Gemcitapar 200mg Injection | Vial of 1 injection | Not stated in the records |
-| 16075 | Abingem 1000mg Injection | Vial of 1 powder for injection | Not stated in the records |
-| 98788 | Gemciglan 1gm Injection | Vial of 1 injection | Not stated in the records |
-| 98818 | Gembine 1000mg Injection | Vial of 1 injection | Not stated in the records |
-| 38121 | Cytogem 1000mg Injection | Vial of 1 injection | Not stated in the records |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 11364 | Abingem 200mg Injection | Vial of 1 Powder for Injection | Valid |
+| 16075 | Abingem 1000mg Injection | Vial of 1 Powder for Injection | Valid |
+| 38121 | Cytogem 1000mg Injection | Vial of 1 Injection | Valid |
+| 49004 | Chemobine 1gm Injection | Vial of 1 Injection | Valid |
+| 53954 | Citabol 200mg Injection | Vial of 1 Injection | Valid |
+| 95814 | Gemchem 1000mg Injection | Vial of 1 Injection | Valid |
+| 95826 | Gembin 1gm Injection | Vial of 1 Injection | Valid |
+| 96899 | GEMTAZ 200 MG INJECTION | Vial of 1 Injection | Valid |
+| 97953 | Gemitrate 1000mg Injection | Vial of 1 Injection | Valid |
+| 98472 | Gempower 1000 Injection | Vial of 1 Injection | Valid |
+| 98788 | Gemciglan 1gm Injection | Vial of 1 Injection | Valid |
+| 98818 | Gembine 1000mg Injection | Vial of 1 Injection | Valid |
+| 98949 | Gemcit 200mg Injection | Vial of 1 Injection | Valid |
+| 99309 | Gemcitapar 200mg Injection | Vial of 1 Injection | Valid |
+| 99588 | Gemitrate 200mg Injection | Vial of 1 Injection | Valid |
+| 100720 | Gemsar 1000mg Injection | Vial of 1 Injection | Valid |
+| 101326 | Gemcetabibe 200mg Injection | Vial of 1 Injection | Valid |
+| 101833 | Gemacta 200mg Injection | Vial of 1 Injection | Valid |
+| 103334 | Gemcit 1gm Injection | Vial of 1 Injection | Valid |
+| 212082 | Shancyte 1gm Injection | Vial of 50 ml Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

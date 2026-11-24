@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 437
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Insulin Glargine: predicted new indication Autoimmune oophoritis (evidence level L5). Approved use: Type 2 diabetes mellitus"
 monitor_inn: "Insulin glargine"
 predicted_indications: ["autoimmune oophoritis", "thiamine-responsive dysfunction syndrome", "classic stiff person syndrome", "focal stiff limb syndrome", "opsismodysplasia", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy"]
@@ -73,13 +73,36 @@ Currently no related literature available for autoimmune oophoritis.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 120850 | Lantus 100IU/ml Solution for Injection | Vial of 10 ml solution for injection | Not specified |
-| 94480 | Glaritus 100IU/ml Injection | Vial of 10 ml injection | Not specified |
-| 214942 | Toujeo 300U/ml Cartridge (1.5 ml each) | Packet of 3 cartridges | Not specified |
-| 25967 | Basalog One 100IU/ml Injection | Pre-filled pen of 3 ml injection | Not specified |
-| 25951 | Basaglar 100IU/ml Kwikpen | Pre-filled pen of 3 ml solution for injection | Not specified |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 25809 | Basalog 100IU/ml Injection | Vial of 3 ml Injection | Valid |
+| 25822 | Basalog 100IU/ml Refill Cartridge | Cartridge of 3 ml Solution for Injection | Valid |
+| 25823 | Basaglar 100 Units/ml Cartridge | Cartridge of 3 ml Solution for Injection | Valid |
+| 25853 | Basugine 100IU/ml Injection | Cartridge of 3 ml Injection | Valid |
+| 25921 | Basalog 100IU/ml Injection | Vial of 5 ml Injection | Valid |
+| 25951 | Basaglar 100IU/ml Kwikpen | Pre-filled pen of 3 ml Solution for Injection | Valid |
+| 25967 | Basalog One 100IU/ml Injection | Pre-filled pen of 3 ml Injection | Valid |
+| 26513 | Basalog 100IU/ml Refill Cartridge | Packet of 3 Solution for Injection | Valid |
+| 27806 | Basalog 100IU/ml Injection | Prefilled syringe of 3 ml Injection | Valid |
+| 94394 | Glaritus 100IU/ml Injection 3ml | Packet of 3 cartriges | Valid |
+| 94480 | Glaritus 100IU/ml Injection | Vial of 10 ml Injection | Valid |
+| 94852 | Glaritus Dispopen 2 | Pre-filled pen of 3 ml Injection | Valid |
+| 95221 | Glarzen 100IU/ml Dispopen 2 | Pre-filled pen of 3 ml Injection | Valid |
+| 95282 | Glaritus 100IU/ml Dispopen | Packet of 3 ml Injection | Valid |
+| 95528 | Glaritus 100IU/ml Injection | Cartridge of 3 ml Injection | Valid |
+| 96782 | Glaritus 40IU/ml Injection | Vial of 10 ml Injection | Valid |
+| 120805 | Lantus 100IU/ml Solution for Injection | Cartridge of 3 ml Solution for Injection | Valid |
+| 120850 | Lantus 100IU/ml Solution for Injection | Vial of 10 ml Solution for Injection | Valid |
+| 214830 | Toujeo 300 U/mL Solostar | Pre-filled pen of 1 Solution for Injection | Valid |
+| 214942 | Toujeo 300U/ml Cartridge (1.5ml Each) | Packet of 3 cartriges | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 There are 20 valid single-ingredient registrations in total, held by Sanofi India, Wockhardt, Biocon, Lupin and Cipla. All are injectable presentations (vials, cartridges, pre-filled pens and syringes).
 

@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 322
 evidence_level: L2
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Eslicarbazepine: predicted new indication Migraine disorder (evidence level L2). Approved use: Not stated in the Indian licence data compiled for this report (eslic…"
 monitor_inn: "Eslicarbazepine"
 drugbank_id: DB14575
@@ -86,13 +86,23 @@ None of the publications below tests eslicarbazepine for migraine outcomes. The 
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 246993 | Zefretol 400 Tablet (Sun Pharmaceutical) | Strip of 10 tablets | Not stated |
-| 73750 | Eslizen 800mg Tablet (Intas) | Strip of 10 tablets | Not stated |
-| 87442 | Flugesic 800mg Tablet (Lupin) | Strip of 10 tablets | Not stated |
-| 81203 | Eslify 200mg Tablet (Torrent) | Strip of 10 tablets | Not stated |
-| 80251 | Eslify 800 Tablet (Torrent) | Strip of 10 tablets | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 72741 | Eslizen 400mg Tablet | Strip of 10 tablets | Valid |
+| 73185 | Eslizen 600mg Tablet | Strip of 10 tablets | Valid |
+| 73750 | Eslizen 800mg Tablet | Strip of 10 tablets | Valid |
+| 80243 | Eslistar 800mg Tablet | Strip of 10 tablets | Valid |
+| 80251 | Eslify 800 Tablet | Strip of 10 tablets | Valid |
+| 81203 | Eslify 200mg Tablet | Strip of 10 tablets | Valid |
+| 87442 | Flugesic 800mg Tablet | Strip of 10 tablets | Valid |
+| 246993 | Zefretol 400 Tablet | Strip of 10 tablets | Valid |
+| 247744 | Zefretol 800 Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 There are 9 valid single-ingredient registrations in total, all oral tablets.
 

@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 13
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 description: "Abemaciclib: known uses and market status in India; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -72,12 +72,18 @@ The TxGNN model has no candidate with a score of 0.99 or higher for Abemaciclib,
 
 ## India Market Information
 
-| Licence | Product | Dosage form | Status |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
 |------|------|------|------|
-| 187040 | Ramiven 200mg Tablet | strip of 14 tablets | Valid |
-| 187031 | Ramiven 100mg Tablet | strip of 7 tablets | Valid |
-| 190816 | Ramiven 200mg Tablet | strip of 7 tablets | Valid |
-| 184868 | Ramiven 150mg Tablet | strip of 7 tablets | Valid |
+| 184868 | Ramiven 150mg Tablet | Strip of 7 tablets | Valid |
+| 187031 | Ramiven 100mg Tablet | Strip of 7 tablets | Valid |
+| 187040 | Ramiven 200mg Tablet | Strip of 14 tablets | Valid |
+| 190816 | Ramiven 200mg Tablet | Strip of 7 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

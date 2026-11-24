@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 817
 evidence_level: L4
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Tenofovir Alafenamide: predicted new indication Simian immunodeficiency virus infection (evidence level L4). Approved use: HIV infectious disease"
 monitor_inn: "Tenofovir alafenamide"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
@@ -83,15 +83,25 @@ All studies below are preclinical (animal or animal-model studies); no human tri
 
 ## India Market Information
 
-Nine valid single-ingredient registrations are listed. The approved indication text is not available for any of them. Five main authorizations:
+Nine valid single-ingredient registrations are listed. The approved indication text is not available for any of them.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 215021 | Tenvir-AF Tablet (Cipla Ltd) | Bottle of 30 tablets | Not available |
-| 215460 | Tentide AF 25mg Tablet (Sun Pharmaceutical Industries Ltd) | Bottle of 30 tablets | Not available |
-| 215129 | Tafnat Tablet (Natco Pharma Ltd) | Bottle of 30 tablets | Not available |
-| 74276 | Emtaf-B Tablet (Emcure Pharmaceuticals Ltd) | Bottle of 30 tablets | Not available |
-| 217734 | Tafsure Tablet (Aprazer Healthcare Pvt Ltd) | Bottle of 30 tablets | Not available |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 58809 | Durataf 25mg Tablet | Bottle of 30 tablets | Valid |
+| 74276 | Emtaf-B Tablet | Bottle of 30 tablets | Valid |
+| 103785 | Hepbest Tablet | Bottle of 30 tablets | Valid |
+| 215021 | Tenvir-AF Tablet | Bottle of 30 tablets | Valid |
+| 215129 | Tafnat Tablet | Bottle of 30 tablets | Valid |
+| 215386 | Tenohep AF Tablet | Bottle of 30 tablets | Valid |
+| 215460 | Tentide AF 25mg Tablet | Bottle of 30 tablets | Valid |
+| 215885 | Tafero Tablet | Bottle of 30 tablets | Valid |
+| 217734 | Tafsure Tablet | Bottle of 30 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

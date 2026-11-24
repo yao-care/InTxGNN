@@ -5,7 +5,7 @@ layout: default
 title: Ferrous Bisglycinate
 parent: Known Uses Only (No New Predictions)
 nav_order: 349
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Ferrous Bisglycinate: known uses and market status in India; currently no new candidate indication"
 monitor_inn: "Ferrous bisglycinate"
 predicted_indications: []
@@ -48,19 +48,26 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 84828 | Fenton-PR Tablet | Strip of 10 tablets | Not stated |
-| 85861 | Ferro-Svp Tablet | Strip of 10 tablets | Not stated |
-| 6753 | Albuvit-Fe Tablet | Strip of 10 tablets | Not stated |
-| 26774 | Bisred Tablet | Strip of 10 tablets | Not stated |
-| 200366 | Sayfer XT Tablet | Strip of 10 tablets | Not stated |
+<!-- licenses:begin -->
 
-Six valid licenses are registered in total (a sixth product, Hbqte-XT Tablet, license 104189, comes in strips of 15 tablets). All are oral tablets.
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 6753 | Albuvit-Fe Tablet | Strip of 10 tablets | Valid |
+| 26774 | Bisred Tablet | Strip of 10 tablets | Valid |
+| 84828 | Fenton-PR Tablet | Strip of 10 tablets | Valid |
+| 85861 | Ferro-Svp Tablet | Strip of 10 tablets | Valid |
+| 104189 | Hbqte-XT Tablet | Strip of 15 tablets | Valid |
+| 200366 | Sayfer XT Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
+
+All registered licenses are valid; one product, Hbqte-XT Tablet (license 104189), comes in strips of 15 tablets. All are oral tablets.
 
 <!-- review:begin in-lic-20261106-ferrous_bisglycinate-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "Six valid single-ingredient licenses are registered in total (a sixth product, Hbqte-XT Tablet, license 104189, comes in strips of 15 tablets)." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+> **Review correction (2026-11-24)**: Originally stated: "Six valid single-ingredient licenses are registered in total (a sixth product, Hbqte-XT Tablet, license 104189, comes in strips of 15 tablets)." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Revised 2026-11-24: the hard-coded number of records and the wording about the old table were dropped; the Quick Overview and the product table under India Market Information show the current figures. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
 
 <!-- review:end in-lic-20261106-ferrous_bisglycinate-1 -->
 
@@ -76,7 +83,7 @@ Below is the review log for this page: statements checked against official India
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-24 | Removed: "single-ingredient" | Corrected (revised 2026-11-24; earlier version kept in the record) | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 

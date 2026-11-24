@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 7
 monitor_inn: "Docetaxel"
 predicted_indications: ["Ewing sarcoma", "primary pulmonary lymphoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "pulmonary blastoma", "rhabdomyosarcoma (disease)", "embryonal extrahepatic bile duct rhabdomyosarcoma", "parameningeal embryonal rhabdomyosarcoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Docetaxel: predicted new indication Ewing sarcoma (evidence level L2). In India: at least 20 listed products"
 ---
 
@@ -100,13 +100,36 @@ An important caveat is that the studies mostly involve combination regimens in m
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 44244 | Chemodoc 80mg Injection | Vial of 2 ml injection | – |
-| 251423 | Zenotere 20mg Injection | Vial of 1 ml injection | – |
-| 22823 | Axidoxel 120 Injection | Vial of 3 ml injection | – |
-| 63494 | Docetere 80mg Injection | Vial of 2 ml injection | – |
-| 64150 | Docet 20mg Injection | Vial of 1 injection | – |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 22823 | Axidoxel 120 Injection | Vial of 3 ml Injection | Valid |
+| 23431 | Apidry 20mg Injection | Vial of 0.5 ml Injection | Valid |
+| 31866 | Benzoxel 80 Injection | Vial of 1 Injection | Valid |
+| 44244 | Chemodoc 80mg Injection | Vial of 2 ml Injection | Valid |
+| 45080 | Celtere 80mg Injection | Vial of 1 Injection | Valid |
+| 62872 | Docax 80mg Injection | Vial of 1 Injection | Valid |
+| 63494 | Docetere 80mg Injection | Vial of 2 ml Injection | Valid |
+| 64150 | Docet 20mg Injection | Vial of 1 Injection | Valid |
+| 64722 | Daxotel 20mg Injection | Vial of 1 ml Injection | Valid |
+| 66865 | Dtaxane 80mg Injection | Vial of 1 Injection | Valid |
+| 67211 | Doceright 120mg Injection | Vial of 3 ml Injection | Valid |
+| 68919 | Docemaps 120mg Injection | Vial of 1 Injection | Valid |
+| 69182 | Docetrust 80 Injection | Vial of 2 ml Injection | Valid |
+| 69371 | Docitin 20mg Injection | Vial of 1 Injection | Valid |
+| 216596 | Taxotere 80mg Injection | Vial of 2 ml Injection | Valid |
+| 225375 | Tubitere 120mg Injection | Vial of 1 Injection | Valid |
+| 229310 | Taxedol 20mg Injection | Vial of 1 ml Injection | Valid |
+| 248988 | Zenotere 120mg Injection | Vial of 1 Injection | Valid |
+| 251423 | Zenotere 20mg Injection | Vial of 1 ml Injection | Valid |
+| 252024 | Zenotere 80mg Injection | Vial of 1 Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 At least 20 valid single-ingredient licences are recorded, and the list may be partial.
 

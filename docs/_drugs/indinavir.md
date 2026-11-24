@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 431
 evidence_level: L4
 indication_count: 5
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 description: "Indinavir: predicted new indication Simian immunodeficiency virus infection (evidence level L4). Approved use: HIV infection / AIDS"
 monitor_inn: "Indinavir"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "fibroma of prostate"]
@@ -89,10 +89,16 @@ For reference, the following trials relate to HIV-related predictions and are po
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 112511 | Indease 400mg Capsule (Alkem Laboratories Ltd) | Strip of 10 capsules | Not stated in the data compiled |
-| 238636 | Virodin 400mg Tablet (Sun Pharmaceutical Industries Ltd) | Strip of 10 tablets | Not stated in the data compiled |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 112511 | Indease 400mg Capsule | Strip of 10 capsules | Valid |
+| 238636 | Virodin 400mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

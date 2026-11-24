@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Duloxetine"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "obsessive-compulsive disorder", "paranoid personality disorder", "histrionic personality disorder (disease)", "schizoid personality disorder", "schizotypal personality disorder", "Ohdo syndrome and variants", "ligneous conjunctivitis", "blepharophimosis - intellectual disability syndrome, Ohdo type"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Duloxetine: predicted new indication benign paroxysmal torticollis of infancy (evidence level L5). In India: at least 20 listed products"
 ---
 
@@ -70,15 +70,38 @@ Currently no related literature available.
 
 ## India Market Information
 
-At least 20 valid single-ingredient licences are recorded, and the list may be partial. Main examples:
+At least 20 valid single-ingredient licences are recorded, and the list may be partial.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 59906 | Dulox 30mg Tablet | Strip of 10 tablets | Not recorded |
-| 64661 | Diligo 20 Tablet | Strip of 10 tablets | Not recorded |
-| 59350 | Dt 20mg Tablet | Strip of 10 tablets | Not recorded |
-| 58877 | Duvanta NP 20 Tablet | Strip of 10 tablets | Not recorded |
-| 64218 | Dulotix 20mg Tablet | Strip of 10 tablets | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 58877 | Duvanta NP 20 Tablet | Strip of 10 tablets | Valid |
+| 59065 | Duloxin 20 Tablet | Strip of 10 tablets | Valid |
+| 59350 | Dt 20mg Tablet | Strip of 10 tablets | Valid |
+| 59906 | Dulox 30mg Tablet | Strip of 10 tablets | Valid |
+| 62138 | Dtn 20mg Tablet | Strip of 10 tablets | Valid |
+| 63444 | Dulet 30mg Tablet DR | Strip of 10 Tablet DR | Valid |
+| 63482 | Dulosys 20 Tablet | Strip of 10 tablets | Valid |
+| 63981 | DXT 40 Tablet | Strip of 10 tablets | Valid |
+| 64218 | Dulotix 20mg Tablet | Strip of 10 tablets | Valid |
+| 64416 | Dutexol 20mg Tablet | Strip of 10 tablets | Valid |
+| 64661 | Diligo 20 Tablet | Strip of 10 tablets | Valid |
+| 65191 | Dulovib 30mg Tablet | Strip of 10 tablets | Valid |
+| 65927 | Duloxmine 30mg Tablet | Strip of 10 tablets | Valid |
+| 66306 | Duloren 40mg Tablet | Strip of 10 tablets | Valid |
+| 67092 | Dulohox 20mg Tablet | Strip of 10 tablets | Valid |
+| 68686 | Dulx 20mg Tablet | Strip of 10 tablets | Valid |
+| 199855 | Symbal 30 Tablet | Strip of 10 tablets | Valid |
+| 202890 | Sogeval M 20mg/750mcg Tablet | Strip of 10 tablets | Valid |
+| 206010 | Sylonex 60mg Tablet | Strip of 10 tablets | Valid |
+| 251146 | Zidane 40mg Capsule | Strip of 10 capsules | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

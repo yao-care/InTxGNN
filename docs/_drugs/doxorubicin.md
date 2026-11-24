@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 8
 monitor_inn: "Doxorubicin"
 predicted_indications: ["Ewing sarcoma", "well-differentiated fetal adenocarcinoma of the lung", "primary pulmonary lymphoma", "pulmonary blastoma", "monocytic leukemia", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "parameningeal embryonal rhabdomyosarcoma", "rhabdomyosarcoma (disease)"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Doxorubicin: predicted new indication Ewing sarcoma (evidence level L1). In India: at least 20 listed products"
 ---
 
@@ -96,15 +96,38 @@ Most of these trials test doxorubicin as part of a multi-drug regimen, so they s
 
 ## India Market Information
 
-At least 20 valid single-ingredient doxorubicin injection registrations are recorded, and the list may be partial. Approved indication text is not recorded in the local data. Main examples:
+At least 20 valid single-ingredient doxorubicin injection registrations are recorded, and the list may be partial. Approved indication text is not recorded in the local data.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 67375 | Doxobin 50mg Injection | Vial of 25 ml injection | Not recorded |
-| 65986 | Doxulip 20mg Injection | Vial injection | Not recorded |
-| 173138 | Oncodria 50mg Injection | Vial injection | Not recorded |
-| 178247 | Pegadria 50mg Injection | Vial of 25 ml injection | Not recorded |
-| 168557 | Oncodox 20mg Injection | Vial injection | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 16528 | Adronex RD 50mg Injection | Vial of 1 Injection | Valid |
+| 17268 | Advadox 20mg Injection | Vial of 1 Injection | Valid |
+| 64519 | Duxocin 10mg Injection | Vial of 10 ml Injection | Valid |
+| 65986 | Doxulip 20mg Injection | Vial of 1 Injection | Valid |
+| 67375 | Doxobin 50mg Injection | Vial of 25 ml Injection | Valid |
+| 68707 | Doxopar 50mg Injection | Vial of 1 Injection | Valid |
+| 69079 | Doxorub 10mg Injection | Vial of 1 Injection | Valid |
+| 69506 | Dobixin 10mg Injection | Vial of 1 Injection | Valid |
+| 69836 | Doxobin 10mg Injection | Vial of 5 ml Injection | Valid |
+| 70076 | Dobixin 50mg Injection | Vial of 1 Injection | Valid |
+| 70164 | Doxopar 10mg Injection | Vial of 1 Injection | Valid |
+| 70436 | Doxotar 50mg Injection | Vial of 25 ml Injection | Valid |
+| 71423 | Dobicin 10mg Injection | Vial of 1 Injection | Valid |
+| 71931 | Doxolem 10mg Injection | Vial of 1 Injection | Valid |
+| 131843 | Lipopeg 20mg Injection | Vial of 10 ml Injection | Valid |
+| 168557 | Oncodox 20mg Injection | Vial of 1 Injection | Valid |
+| 173138 | Oncodria 50mg Injection | Vial of 1 Injection | Valid |
+| 177901 | Pegadria 20mg Injection | Vial of 1 Injection | Valid |
+| 178247 | Pegadria 50mg Injection | Vial of 25 ml Injection | Valid |
+| 180363 | Peg-Adrim 50mg Injection | Vial of 25 ml Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

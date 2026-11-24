@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 787
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Spironolactone"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia"]
 description: "Spironolactone: predicted new indication Hypotrichosis simplex of the scalp (evidence level L5). In India: at least 20 listed products"
@@ -66,15 +66,44 @@ The high score comes from the TxGNN model (deep learning) and may reflect simila
 
 ## India Market Information
 
-Showing 5 of 20 valid registrations (all single-ingredient category, oral tablets). No approved indication text is recorded for any of them.
+No approved indication text is recorded for any of them.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| 58437 | Dytor Plus 20 Tablet | Strip of 15 tablets | Cipla Ltd |
-| 217643 | Tortone 25mg/10mg Tablet | Strip of 10 tablets | Shrrishti Health Care Products Pvt Ltd |
-| 220463 | Tor Plus 50mg/20mg Tablet | Strip of 10 tablets | Intas Pharmaceuticals Ltd |
-| 3903 | Aldactone Plus 50mg/10mg Tablet | Strip of 10 tablets | RPG Life Sciences Ltd |
-| 201693 | Spirix 25mg Tablet | Strip of 10 tablets | Psychocare Health Pvt Ltd |
+<!-- review:begin in-lic-20261124-spironolactone-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "Showing 5 of 20 valid registrations (all single-ingredient category, oral tablets). No approved indication text is recorded for any of them." Removed: it described the products as single-ingredient (or as having no combination products), which does not match the Indian medicine data (the Indian Medicine Dataset): some of the recorded products are fixed-dose combinations. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124-spironolactone-1 -->
+
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 3903 | Aldactone Plus 50mg/10mg Tablet | Strip of 10 tablets | Valid |
+| 58437 | Dytor Plus 20 Tablet | Strip of 15 tablets | Valid |
+| 201005 | Semitor Plus 50mg/20mg Tablet | Strip of 15 tablets | Valid |
+| 201693 | Spirix 25mg Tablet | Strip of 10 tablets | Valid |
+| 203695 | Silectone 25 Tablet | Strip of 10 tablets | Valid |
+| 204333 | Spironot 25 Tablet | Strip of 10 tablets | Valid |
+| 208836 | Spirom T 50mg/10mg Tablet | Strip of 10 tablets | Valid |
+| 211631 | StayHappi Spironolactone+Torasemide 50mg/20mg Tablet | Strip of 10 tablets | Valid |
+| 215041 | Torsid Plus 10/50 Tablet | Strip of 10 tablets | Valid |
+| 215296 | Torsinex Plus Tablet | Strip of 10 tablets | Valid |
+| 216550 | Tormax Plus LS 25mg/10mg Tablet | Strip of 10 tablets | Valid |
+| 216674 | Tores Plus Tablet | Strip of 10 tablets | Valid |
+| 217643 | Tortone 25mg/10mg Tablet | Strip of 10 tablets | Valid |
+| 218118 | Torzest Plus 50mg/10mg Tablet | Strip of 10 tablets | Valid |
+| 218949 | Toriflow S 50mg/10mg Tablet | Strip of 10 tablets | Valid |
+| 219026 | Tornova Plus 50mg/10mg Tablet | Strip of 10 tablets | Valid |
+| 219349 | Tormax Plus 50mg/5mg Tablet | Strip of 10 tablets | Valid |
+| 220463 | Tor Plus 50mg/20mg Tablet | Strip of 10 tablets | Valid |
+| 220833 | Torsinex Forte Tablet | Strip of 10 tablets | Valid |
+| 227247 | Ticomide S 50mg/20mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -105,11 +134,12 @@ The prediction is supported only by a high model score, with no clinical trials 
 
 ## Review Log
 
-Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Aldactone (spironolactone) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0fed2822-3a03-4b64-9857-c682fcd462bc) |
+| 2026-11-24 | Removed: the sentence about the old table that called all products single-ingredient | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 

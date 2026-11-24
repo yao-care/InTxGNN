@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 570
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Mosapride: predicted new indication Insomnia (evidence level L5). Approved use: Not stated in the licence records. Pharmacology data describe use for…"
 monitor_inn: "Mosapride"
 drugbank_id: DB11675
@@ -73,15 +73,38 @@ Currently no related literature available.
 
 ## India Market Information
 
-Mosapride has 20 valid single-ingredient registrations in India, and none are cancelled. The licence records contain no approved indication text. Five representative authorisations are listed below.
+Mosapride has 20 valid single-ingredient registrations in India, and none are cancelled. The licence records contain no approved indication text.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| 133728 | Moza 5 Tablet | Strip of 10 tablets | Intas Pharmaceuticals Ltd |
-| 116482 | Kinetix 5mg Tablet | Strip of 10 tablets | Lupin Ltd |
-| 146225 | Mozax 2.5mg Tablet | Strip of 10 tablets | Sun Pharmaceutical Industries Ltd |
-| 145288 | Movaride 2.5mg Tablet | Strip of 10 tablets | Dr Reddy's Laboratories Ltd |
-| 141041 | Mosapid 5mg Tablet | Strip of 10 tablets | Cipla Ltd |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 114773 | Jasopride 10mg Tablet | Strip of 10 tablets | Valid |
+| 116482 | Kinetix 5mg Tablet | Strip of 10 tablets | Valid |
+| 133728 | Moza 5 Tablet | Strip of 10 tablets | Valid |
+| 134053 | Moza MPS Chewable Tablet | Strip of 10 Chewable Tablets | Valid |
+| 134398 | Mosiba Kid Tablet | Strip of 10 tablets | Valid |
+| 141041 | Mosapid 5mg Tablet | Strip of 10 tablets | Valid |
+| 141084 | M Pride Mps 10mg/125mg Tablet | Strip of 10 tablets | Valid |
+| 141598 | Mopid 5mg Tablet | Strip of 10 tablets | Valid |
+| 142574 | Mosid Mps 5mg/125mg Tablet | Strip of 10 tablets | Valid |
+| 143054 | Moza 2.5mg Tablet | Strip of 10 tablets | Valid |
+| 144319 | Mosap 2.5mg Tablet | Strip of 10 tablets | Valid |
+| 145208 | Mosacon 2.5mg Tablet | Strip of 10 tablets | Valid |
+| 145288 | Movaride 2.5mg Tablet | Strip of 10 tablets | Valid |
+| 145610 | Moten Instab 2.5mg Tablet | Strip of 10 tablets | Valid |
+| 145872 | Muzic 5mg Tablet | Strip of 10 tablets | Valid |
+| 146225 | Mozax 2.5mg Tablet | Strip of 10 tablets | Valid |
+| 146641 | Mozasef 2.5mg Tablet | Strip of 10 tablets | Valid |
+| 187751 | Remo 5mg Tablet | Strip of 10 tablets | Valid |
+| 188531 | Regmotil M 5mg Tablet | Strip of 10 tablets | Valid |
+| 189007 | Regmotil Mps 5 mg/125 mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 All products are oral. Most are tablets, and one product (Moza MPS Chewable Tablet) is a chewable tablet.
 

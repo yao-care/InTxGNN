@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Lincomycin"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Lincomycin: predicted new indication Polyclonal hyperviscosity syndrome (evidence level L5). Approved use: Pneumococcal, staphylococcal and streptococcal infections"
 ---
 
@@ -80,15 +80,38 @@ Currently no related literature available.
 
 ## India Market Information
 
-At least 20 licences exist, and the list below may be partial. All shown are valid single-ingredient products. The licence records contain no approved indication text.
+At least 20 licences exist. The licence records contain no approved indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Registration No. 125534 | Liod 300mg Injection | Vial of 2 ml injection | Not stated in licence record |
-| Registration No. 129176 | Lincozin 250mg Capsule | Strip of 10 capsules | Not stated in licence record |
-| Registration No. 130092 | Linocin 250mg Capsule | Strip of 10 capsules | Not stated in licence record |
-| Registration No. 131567 | Linka 300mg Injection | Vial of 1 ml injection | Not stated in licence record |
-| Registration No. 123274 | Lincocin 600mg Injection (Pfizer Ltd) | Vial of 2 ml injection | Not stated in licence record |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 123274 | Lincocin 600mg Injection | Vial of 2 ml Injection | Valid |
+| 125442 | Licomine Syrup | Bottle of 60 ml Syrup | Valid |
+| 125534 | Liod 300mg Injection | Vial of 2 ml Injection | Valid |
+| 126429 | Lycin 125mg Syrup | Bottle of 60 ml Syrup | Valid |
+| 127489 | Lincozin 500mg Capsule | Strip of 10 capsules | Valid |
+| 128095 | Lycin Injection | Vial of 2 ml Injection | Valid |
+| 128244 | Linoson 600mg Injection | Vial of 2 ml Injection | Valid |
+| 128955 | Lines 250mg Capsule | Strip of 10 capsules | Valid |
+| 129176 | Lincozin 250mg Capsule | Strip of 10 capsules | Valid |
+| 129187 | Linkosol 300mg Injection | Vial of 2 ml Injection | Valid |
+| 130092 | Linocin 250mg Capsule | Strip of 10 capsules | Valid |
+| 130190 | Lincom 500mg Capsule | Strip of 10 capsules | Valid |
+| 130314 | Lincobiotic Injection | Vial of 2 ml Injection | Valid |
+| 130868 | Lincowin 600mg Injection | Vial of 2 ml Injection | Valid |
+| 131567 | Linka 300mg Injection | Vial of 1 ml Injection | Valid |
+| 132033 | Lincoriv 300mg Injection | Vial of 2 ml Injection | Valid |
+| 132659 | Lincop 600mg Injection | Vial of 2 ml Injection | Valid |
+| 207651 | Shelinc 600mg Injection | Vial of 2 ml Injection | Valid |
+| 209770 | Semilinc Syrup | Bottle of 30 ml Syrup | Valid |
+| 211453 | Splinc 500mg Capsule | Strip of 10 capsules | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 Available forms across the listed licences include injections, capsules and syrups.
 

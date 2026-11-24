@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Chloramphenicol"
 predicted_indications: ["diffuse scleroderma", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "punctate epithelial keratoconjunctivitis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Chloramphenicol: predicted new indication Diffuse scleroderma (evidence level L5). In India: at least 20 listed products"
 ---
 
@@ -79,15 +79,38 @@ None of these studies evaluates chloramphenicol.
 
 ## India Market Information
 
-At least 20 valid single-ingredient licences are recorded and the list may be partial. Main examples:
+At least 20 valid single-ingredient licences are recorded and the list may be partial.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 19864 | Actimycetin Suspension | Suspension, bottle of 50 ml | Not recorded |
-| 3564 | Anchlor-DX Eye Ointment | Eye ointment, tube of 5 gm | Not recorded |
-| 104582 | Hytan C Eye Ointment | Eye ointment, tube of 5 gm | Not recorded |
-| 13543 | Armycetin Capsule | Capsule, packet of 100 | Not recorded |
-| 120346 | Kidopalm 125mg Syrup | Syrup, bottle of 50 ml | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 3564 | Anchlor-DX Eye Ointment | Tube of 5 gm Eye Ointment | Valid |
+| 13543 | Armycetin Capsule | Packet of 100 capsules | Valid |
+| 19864 | Actimycetin Suspension | Bottle of 50 ml Suspension | Valid |
+| 34365 | Chlorocol H Eye Ointment | Tube of 3 gm Eye Ointment | Valid |
+| 35101 | Cortimycin Eye Ointment | Tube of 5 gm Eye Ointment | Valid |
+| 35107 | Chlorophenicol 250mg Capsule | Strip of 10 capsules | Valid |
+| 36618 | Cortison Optichlor Eye Ointment | Tube of 3 gm Eye Ointment | Valid |
+| 38671 | Chlorocap 500mg Capsule | Strip of 10 capsules | Valid |
+| 48397 | Curamycin 250mg Tablet | Strip of 10 tablets | Valid |
+| 49103 | Colfen 500mg Capsule | Strip of 10 capsules | Valid |
+| 56568 | Comyetin 500mg Capsule | Strip of 10 capsules | Valid |
+| 104582 | Hytan C Eye Ointment | Tube of 5 gm Eye Ointment | Valid |
+| 120346 | Kidopalm 125mg Syrup | Bottle of 50 ml Syrup | Valid |
+| 128205 | Larmycetin 250mg Capsule | Strip of 10 capsules | Valid |
+| 174906 | Polychlor DM Eye/Ear Drops | Bottle of 5 ml Eye/Ear Drops | Valid |
+| 177082 | Paraxin 250mg Dragees | Strip of 10 tablets | Valid |
+| 185694 | Retichlor-H Eye Ointment | Tube of 5 gm Eye Ointment | Valid |
+| 221165 | Takchlor-C Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 228427 | T-Mycitin 500mg Capsule | Strip of 10 capsules | Valid |
+| 235428 | Vanmycetin 0.4% Eye Drop | Packet of 5 ml Eye Drop | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 118
 evidence_level: L1
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Bromfenac: predicted new indication Eye disease (evidence level L1). Approved use: Not stated in the Indian license data"
 monitor_inn: "Bromfenac"
 predicted_indications: ["eye disease", "optic papillitis", "von Hippel anomaly", "mcpherson robertson cammarano syndrome", "vulvar inverted follicular keratosis", "lagophthalmos", "microblepharon-ablephara syndrome", "seborrheic keratosis", "conjunctival degeneration", "luxation of globe"]
@@ -95,15 +95,38 @@ The data compiled for this report include 39 trials linked to this prediction. T
 
 ## India Market Information
 
-Twenty valid single-ingredient registrations are on record. Five are listed below. All are ophthalmic products, and no approved indication text is recorded in the license data.
+Twenty valid single-ingredient registrations are on record. All are ophthalmic products, and no approved indication text is recorded in the license data.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 156850 | Nubrom Eye Drop | Packet of 5 ml eye drop | Not recorded |
-| 29896 | Bromf Eye Drop | Bottle of 5 ml eye drop | Not recorded |
-| 33009 | Brom Chor Eye Drop | Bottle of 5 ml ophthalmic solution | Not recorded |
-| 27151 | Brom Eye Drop | Packet of 5 ml eye drop | Not recorded |
-| 88476 | Fenabrom 0.09% Eye Drop | Bottle of 5 ml eye drop | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 1656 | Adbrom Free Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 27151 | Brom Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 28158 | Bromflam Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 28869 | BMC Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 29367 | Brosur Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 29896 | Bromf Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 30580 | Brosic 0.09% Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 31180 | Brohit 0.09% Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 31572 | Bromolume 0.09% Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 31660 | Brompt 0.09% Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 33009 | Brom Chor Eye Drop | Bottle of 5 ml Ophthalmic Solution | Valid |
+| 68106 | Divibrom Eye Drop | Bottle of 5 ml Ophthalmic Solution | Valid |
+| 75654 | Easybrom Eye Drop | Bottle of 5 ml Ophthalmic Solution | Valid |
+| 76106 | Eynac Eye Drop | Bottle of 5 ml Ophthalmic Solution | Valid |
+| 88476 | Fenabrom 0.09% Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 137968 | Mosight B Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 156850 | Nubrom Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 187571 | Raybrom Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 219609 | Tagamox BN Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 234896 | V Brom Eye Drop | Packet of 5 ml Eye Drop | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 835
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Ticagrelor"
 predicted_indications: ["intracranial arteriosclerosis", "Monckeberg arteriosclerosis", "priapism", "ischemic disease", "May-Thurner syndrome", "livedo reticularis", "vascular ectasia", "angiodysplasia", "venous thromboembolism"]
 description: "Ticagrelor: predicted new indication Intracranial arteriosclerosis (evidence level L5). In India: at least 20 listed products"
@@ -77,15 +77,38 @@ This is a mechanistic argument, not proof of benefit. The key question is whethe
 
 ## India Market Information
 
-Twenty single-ingredient registrations are valid and none are cancelled. The licence records do not include approved-indication text. Five representative authorizations:
+Twenty single-ingredient registrations are valid and none are cancelled. The licence records do not include approved-indication text.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| 25738 | Brilinta 90mg Tablet | Strip of 14 tablets | AstraZeneca |
-| 215591 | Ticaflo 90mg Tablet | Strip of 14 tablets | Dr Reddy's Laboratories Ltd |
-| 217628 | Ticasave 60mg Tablet | Strip of 14 tablets | Eris Lifesciences Ltd |
-| 215684 | Torplat 60 Tablet | Strip of 14 tablets | Torrent Pharmaceuticals Ltd |
-| 556 | Axcer 60mg Tablet | Strip of 14 tablets | Sun Pharmaceutical Industries Ltd |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 556 | Axcer 60mg Tablet | Strip of 14 tablets | Valid |
+| 3940 | Axcer A 90mg/75mg Kit | Box of 1 Kit | Valid |
+| 25738 | Brilinta 90mg Tablet | Strip of 14 tablets | Valid |
+| 28210 | Brutika 90 Tablet | Strip of 10 tablets | Valid |
+| 214955 | Torplat 90 Tablet | Strip of 14 tablets | Valid |
+| 215045 | Ticaspan Tablet | Strip of 10 tablets | Valid |
+| 215355 | Tiare 90mg Tablet | Strip of 14 tablets | Valid |
+| 215535 | Tigemac 90 Tablet | Strip of 10 tablets | Valid |
+| 215591 | Ticaflo 90mg Tablet | Strip of 14 tablets | Valid |
+| 215684 | Torplat 60 Tablet | Strip of 14 tablets | Valid |
+| 215744 | Ticasave Plus Tablet | Strip of 14 tablets | Valid |
+| 216190 | Ticagold Tablet | Strip of 14 tablets | Valid |
+| 216665 | Ticabid 60mg Tablet | Strip of 10 tablets | Valid |
+| 217628 | Ticasave 60mg Tablet | Strip of 14 tablets | Valid |
+| 217965 | Tiare Kit | Box of 21 kit | Valid |
+| 218573 | Ticaford 90mg Tablet | Strip of 14 tablets | Valid |
+| 218798 | Ticapol Tablet | Strip of 10 tablets | Valid |
+| 225651 | Ticamine 90mg Tablet | Strip of 10 tablets | Valid |
+| 234165 | Vasoglor 60 Tablet | Strip of 10 tablets | Valid |
+| 243932 | Xygrel-AS Combikit | Box of 1 Kit | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

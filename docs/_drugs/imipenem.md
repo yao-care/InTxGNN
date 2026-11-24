@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 427
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Imipenem: predicted new indication Diffuse scleroderma (evidence level L5). Approved use: Bacterial infections (bacterial pneumonia, peritonitis, endocarditis…"
 monitor_inn: "Imipenem"
 predicted_indications: ["diffuse scleroderma", "paratyphoid fever", "salmonellosis", "sinusitis", "chronic rhinosinusitis", "typhoid fever", "chronic ethmoidal sinusitis", "paranasal sinus neoplasm (disease)", "eosinophilia-myalgia syndrome"]
@@ -83,15 +83,44 @@ Currently no related literature available for diffuse scleroderma.
 
 ## India Market Information
 
-Imipenem has 20 valid registrations in India, all single-ingredient injectable products (no combination products and no cancelled licences). Five main authorizations are listed below.
+Imipenem has 20 valid registrations in India, all injectable products (no cancelled licences).
 
-| Authorization Number | Product Name | Dosage Form |
-|---------|------|------|
-| 83903 | Elpentin 500mg/500mg Injection | Vial of 1 Injection |
-| 232706 | Ufimep CL 500mg/500mg Injection | Vial of 1 Injection |
-| 112937 | Imiron 500mg/500mg Injection | Vial of 1 Injection |
-| 57458 | Cilanip 500mg/500mg Injection | Vial of 1 Injection |
-| 112405 | Imipol 1000mg/1000mg Powder for Injection | Vial of 1 Powder for Injection |
+<!-- review:begin in-lic-20261124-imipenem-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "Imipenem has 20 valid registrations in India, all single-ingredient injectable products (no combination products and no cancelled licences)." Removed: it described the products as single-ingredient (or as having no combination products), which does not match the Indian medicine data (the Indian Medicine Dataset): some of the recorded products are fixed-dose combinations. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124-imipenem-1 -->
+
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 20973 | Aslastim 1gm Injection | Vial of 1 Injection | Valid |
+| 40243 | Cilareach 500mg/500mg Injection | Vial of 1 Injection | Valid |
+| 44747 | Carbinem 500mg/500mg Injection | Vial of 1 Injection | Valid |
+| 45365 | Cilamac 500 mg/500 mg Injection | Vial of 1 Injection | Valid |
+| 57458 | Cilanip 500mg/500mg Injection | Vial of 1 Injection | Valid |
+| 83903 | Elpentin 500mg/500mg Injection | Vial of 1 Injection | Valid |
+| 109836 | Imici 500mg/500mg Injection | Vial of 1 Injection | Valid |
+| 110908 | Inemplus Injection | Vial of 1 Injection | Valid |
+| 111444 | Imita 500mg/500mg Injection | Vial of 1 Injection | Valid |
+| 112052 | Imelastin 500mg/500mg Injection | Vial of 1 Powder for Injection | Valid |
+| 112405 | Imipol 1000mg/1000mg Powder for Injection | Vial of 1 Powder for Injection | Valid |
+| 112937 | Imiron 500mg/500mg Injection | Vial of 1 Injection | Valid |
+| 113005 | Imisar 500mg/500mg Injection | Vial of 1 Injection | Valid |
+| 121075 | Lupinem 500mg Injection | Vial of 1 Injection | Valid |
+| 137062 | Maxigard 500 mg/500 mg Injection | Vial of 1 Injection | Valid |
+| 142999 | Medipenem 500mg/500mg Injection | Vial of 30 ml Injection | Valid |
+| 146389 | Meg C 2 500mg/500mg Injection | Vial of 1 Injection | Valid |
+| 232706 | Ufimep CL 500mg/500mg Injection | Vial of 1 Injection | Valid |
+| 245526 | Ximstat 500mg/500mg Injection | Vial of 1 Injection | Valid |
+| 253705 | Zicerot 500mg/500mg Injection | Vial of 1 Powder for Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 All marketed forms are injectable (vials of injection or powder for injection).
 
@@ -125,11 +154,12 @@ The prediction for diffuse scleroderma has no clinical trials or literature behi
 
 ## Review Log
 
-Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL43708 (imipenem): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL43708) |
+| 2026-11-24 | Removed: the single-ingredient claim | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 

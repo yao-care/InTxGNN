@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Ciclesonide"
 predicted_indications: ["atopic eczema", "2-hydroxyethyl methacrylate sensitization", "dermatitis, atopic", "bronchitis", "contact dermatitis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ciclesonide: predicted new indication atopic eczema (evidence level L5). In India: 19 listed products (19 not discontinued)"
 ---
 
@@ -71,15 +71,35 @@ Currently no related literature available.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 215349 | Triohale Rotacap | packet of 30 rotacaps | Not recorded |
-| 44473 | Ciclospray Nasal Spray | packet of 100 MDI Nasal Spray | Not recorded |
-| 215625 | Trimium Transhaler | packet of 180 MDI Transhaler | Not recorded |
-| 208034 | Simply One 6mcg/400mcg Rotacap | bottle of 30 rotacaps | Not recorded |
-| 216181 | Trimium Transcaps | bottle of 15 transcaps | Not recorded |
+<!-- licenses:begin -->
 
-Of 19 licences in total, all 19 are currently valid. Only the first five are listed here.
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 4047 | Alveocic-FT Rotacap | Bottle of 15 rotacaps | Valid |
+| 18392 | Alveospre 50mcg Nasal Spray | Bottle of 120 MDI Nasal Spray | Valid |
+| 35960 | Ciclohale 160mcg Inhaler | Packet of 120 MDI Inhaler | Valid |
+| 36432 | Ciclohale 80mcg Inhaler | Packet of 120 MDI Inhaler | Valid |
+| 43123 | Ciclohale 200mcg Rotacap | Packet of 30 rotacaps | Valid |
+| 44473 | Ciclospray Nasal Spray | Packet of 100 MDI Nasal Spray | Valid |
+| 45945 | Ciclomate 160 mcg/4.5 mcg Transcaps | Bottle of 30 transcaps | Valid |
+| 45985 | Ciclomate 320 mcg/4.5 mcg Transcaps | Bottle of 30 transcaps | Valid |
+| 52603 | Ciclez 160mcg Inhaler | Packet of 120 MDI Inhaler | Valid |
+| 55530 | Cilomist Hfa 160mcg Inhaler | Packet of 120 MDI Inhaler | Valid |
+| 208034 | Simply One 6mcg/400mcg Rotacap | Bottle of 30 rotacaps | Valid |
+| 208192 | Simply One 80 mcg/4.5 mcg Inhaler | Packet of 200 MDI Inhaler | Valid |
+| 209977 | Simply One 6mcg/100mcg Rotacap | Bottle of 30 rotacaps | Valid |
+| 215301 | Triohale Inhaler | Packet of 200 MDI Inhaler | Valid |
+| 215349 | Triohale Rotacap | Packet of 30 rotacaps | Valid |
+| 215625 | Trimium Transhaler | Packet of 180 MDI Transhaler | Valid |
+| 216181 | Trimium Transcaps | Bottle of 15 transcaps | Valid |
+| 248850 | Zovair 160 Octacap | Strip of 30 capsules | Valid |
+| 249503 | Zovair Octacap Capsule | Strip of 30 capsules | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
+
+Of 19 licences in total, all 19 are currently valid.
 
 ## Safety Considerations
 

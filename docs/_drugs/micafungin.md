@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 548
 evidence_level: L3
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Micafungin: predicted new indication urinary tract infection (evidence level L3). Approved use: Esophageal candidiasis, candidemia, disseminated candidiasis"
 monitor_inn: "Micafungin"
 predicted_indications: ["urinary tract infection (disease)"]
@@ -98,15 +98,35 @@ No randomized controlled trials were identified. Several of these papers are bac
 
 ## India Market Information
 
-Micafungin is marketed in India with 19 valid single-ingredient registrations. Approved indication text is not available in the compiled licence records. Five main registrations:
+Micafungin is marketed in India with 19 valid single-ingredient registrations. Approved indication text is not available in the compiled licence records.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 135018 | Mycamine 100mg Injection (Astellas Pharma Inc) | Vial of 1 injection | Not stated in licence records |
-| 134987 | Mycamine 50mg Injection (Glaxo SmithKline Pharmaceuticals Ltd) | Vial of 1 ml injection | Not stated in licence records |
-| 137943 | Micanfa 50mg Injection (Intas Pharmaceuticals Ltd) | Vial of 5 ml injection | Not stated in licence records |
-| 138535 | Micalan Injection (Mylan Pharmaceuticals Pvt Ltd) | Vial of 1 injection | Not stated in licence records |
-| 90148 | Fungofine 50mg Injection (Dr Reddy's Laboratories Ltd) | Vial of 1 injection | Not stated in licence records |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 28662 | Brumica 50mg Injection | Vial of 1 Injection | Valid |
+| 28983 | Brumica 100mg Injection | Vial of 1 Injection | Valid |
+| 90148 | Fungofine 50mg Injection | Vial of 1 Injection | Valid |
+| 110184 | Ibimica 50mg Injection | Vial of 1 Injection | Valid |
+| 134987 | Mycamine 50mg Injection | Vial of 1 ml Injection | Valid |
+| 135018 | Mycamine 100mg Injection | Vial of 1 Injection | Valid |
+| 136288 | Micedge 50mg Injection | Vial of 1 ml Injection | Valid |
+| 136816 | Micafung Plus Injection | Vial of 1 Powder for Injection | Valid |
+| 137582 | Micafung Plus 100mg Injection | Vial of 1 Injection | Valid |
+| 137789 | Micona 50mg Infusion | Vial of 1 Infusion | Valid |
+| 137943 | Micanfa 50mg Injection | Vial of 5 ml Injection | Valid |
+| 138535 | Micalan Injection | Vial of 1 Injection | Valid |
+| 140311 | Micazar 50mg Injection | Vial of 1 Injection | Valid |
+| 143575 | Micaggin 100mg Injection | Vial of 1 Injection | Valid |
+| 143973 | Micagin 50mg Injection | Vial of 1 Injection | Valid |
+| 146432 | Micafucel 50mg Injection | Vial of 1 Injection | Valid |
+| 148321 | Micaggin 50 Solution for Infusion | Vial of 1 Solution for Infusion | Valid |
+| 238639 | Vinmica 100mg Injection | Vial of 1 Powder for Injection | Valid |
+| 248909 | Zilofung Injection | Vial of 1 Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 All formulations are injectable. This matters for UTI use because the product would be given intravenously.
 

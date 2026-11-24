@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 539
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Methylergometrine: predicted new indication Hypertrichosis (disease) (evidence level L5). Approved use: Not stated in the licence data compiled for this report"
 monitor_inn: "Methylergometrine"
 drugbank_id: DB00353
@@ -109,15 +109,38 @@ Neither paper provides direct efficacy evidence for methylergometrine in migrain
 
 ## India Market Information
 
-There are 20 valid single-ingredient registrations and no cancelled ones. The licence data contain no approved-indication text. Main authorisations:
+There are 20 valid single-ingredient registrations and no cancelled ones. The licence data contain no approved-indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 133630 | Methergin Injection (Novartis India Ltd) | Vial of 1 ml injection | Not recorded |
-| 135150 | Methargo Tablet (Mankind Pharma Ltd) | Strip of 10 tablets | Not recorded |
-| 129554 | Limitex 0.2mg Injection (Sun Pharmaceutical Industries Ltd) | Vial of 1 ml injection | Not recorded |
-| 134492 | Methygene 0.125mg Tablet (Intas Pharmaceuticals Ltd) | Strip of 10 tablets | Not recorded |
-| 145497 | Metermin 0.2mg Injection (Cadila Pharmaceuticals Ltd) | Vial of 1 ml injection | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 77085 | Ematrin 0.125mg Tablet | Strip of 10 tablets | Valid |
+| 77862 | Ergo Meg 0.125mg Tablet | Strip of 10 tablets | Valid |
+| 79505 | Ergogem 0.125mg Tablet | Strip of 10 tablets | Valid |
+| 83756 | Emergin 0.2mg Injection | Vial of 1 ml Injection | Valid |
+| 129554 | Limitex 0.2mg Injection | Vial of 1 ml Injection | Valid |
+| 133630 | Methergin Injection | Vial of 1 ml Injection | Valid |
+| 134492 | Methygene 0.125mg Tablet | Strip of 10 tablets | Valid |
+| 135150 | Methargo Tablet | Strip of 10 tablets | Valid |
+| 142093 | Metherlin 0.2mg Injection | Vial of 1 ml Injection | Valid |
+| 143190 | Mergin 0.125mg Injection | Vial of 1 ml Injection | Valid |
+| 145497 | Metermin 0.2mg Injection | Vial of 1 ml Injection | Valid |
+| 145684 | Mergox 0.125mg Tablet | Strip of 10 tablets | Valid |
+| 146142 | Methoday 0.125mg Tablet | Strip of 10 tablets | Valid |
+| 146579 | Meurogine 0.125mg Tablet | Strip of 10 tablets | Valid |
+| 146583 | Matrin 0.2mg Injection | Vial of 1 Injection | Valid |
+| 147122 | Meurogine 0.2mg Injection | Vial of 1 ml Injection | Valid |
+| 148484 | Metherbin 0.2mg Injection | Ampoule of 1 ml Injection | Valid |
+| 149205 | Meti 0.2mg Injection | Vial of 1 ml Injection | Valid |
+| 149337 | Mergox 0.2mg Injection | Vial of 1 ml Injection | Valid |
+| 225389 | Trin 0.125mg Tablet | Strip of 15 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 Products are available as oral tablets (0.125 mg) and injections (0.125 mg and 0.2 mg per ml).
 

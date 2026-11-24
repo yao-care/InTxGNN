@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 445
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Irbesartan"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia"]
 description: "Irbesartan: predicted new indication Malignant hypertensive renal disease (evidence level L5). In India: at least 20 listed products"
@@ -87,15 +87,38 @@ These studies address cardiac or systemic hypoxic injury and high-altitude model
 
 ## India Market Information
 
-Irbesartan is marketed in India, with 20 valid single-ingredient registrations. Five main authorizations are listed below. The records contain no approved indication text.
+Irbesartan is marketed in India, with 20 valid single-ingredient registrations. The records contain no approved indication text.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| 3146 | Aprovel 150mg Tablet | Strip of 14 tablets | Sanofi India Ltd |
-| 38738 | Coaprovel 150mg/12.5mg Tablet | Strip of 14 tablets | Sanofi India Ltd |
-| 244464 | Xarb 300 Tablet | Strip of 10 tablets | Abbott |
-| 108229 | Irovel 300 Tablet | Strip of 10 tablets | Sun Pharmaceutical Industries Ltd |
-| 108149 | Irovel H Tablet | Strip of 10 tablets | Sun Pharmaceutical Industries Ltd |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 3146 | Aprovel 150mg Tablet | Strip of 14 tablets | Valid |
+| 38738 | Coaprovel 150mg/12.5mg Tablet | Strip of 14 tablets | Valid |
+| 53412 | Clindasaratan Plus 150mg/12.5mg/5mg Tablet | Strip of 10 tablets | Valid |
+| 68635 | Debipro 150mg Tablet | Strip of 10 tablets | Valid |
+| 69510 | Debipro H 150mg/12.5mg Tablet | Strip of 10 tablets | Valid |
+| 98702 | Granry-AM Tablet | Strip of 10 tablets | Valid |
+| 99527 | Granry 150 Tablet | Strip of 10 tablets | Valid |
+| 100571 | Granry-D Tablet | Strip of 10 tablets | Valid |
+| 100601 | Gatovel 300mg Tablet | Strip of 10 tablets | Valid |
+| 108149 | Irovel H Tablet | Strip of 10 tablets | Valid |
+| 108229 | Irovel 300 Tablet | Strip of 10 tablets | Valid |
+| 110163 | Irbesdak-CT Tablet | Strip of 10 tablets | Valid |
+| 110352 | Irbemax 150mg Tablet | Strip of 10 tablets | Valid |
+| 110501 | Irbepex-AM Tablet | Strip of 10 tablets | Valid |
+| 111392 | Irbenol 150mg Tablet | Strip of 10 tablets | Valid |
+| 112286 | Irboris 150mg Tablet | Strip of 10 tablets | Valid |
+| 113758 | Irbesdak 150mg Tablet | Strip of 10 tablets | Valid |
+| 211875 | Sebri 300mg Tablet | Strip of 10 tablets | Valid |
+| 244464 | Xarb 300 Tablet | Strip of 10 tablets | Valid |
+| 252737 | Zognis H 150mg/12.5mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

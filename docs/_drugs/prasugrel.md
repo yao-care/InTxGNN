@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 694
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Prasugrel: predicted new indication Pulmonary hypertension (evidence level L5). Approved use: Acute coronary syndrome"
 monitor_inn: "Prasugrel"
 predicted_indications: ["pulmonary hypertension", "migraine disorder", "migraine with brainstem aura", "kyphoscoliotic heart disease", "rheumatoid arthritis", "homozygous familial hypercholesterolemia", "hypoalphalipoproteinemia", "brachydactyly-syndactyly syndrome", "leprosy"]
@@ -92,15 +92,38 @@ Related literature for the migraine predictions:
 
 ## India Market Information
 
-Prasugrel is marketed in India as single-ingredient oral tablets, with 20 valid registrations and none cancelled. Approved indication text is not available for these licences. Five representative registrations:
+Prasugrel is marketed in India as single-ingredient oral tablets, with 20 valid registrations and none cancelled. Approved indication text is not available for these licences.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 73214 | Effient 10mg Tablet (Eli Lilly and Company India) | Strip of 14 tablets | Not available |
-| 191389 | Redigrel 10mg Tablet (Dr Reddy's Laboratories) | Strip of 10 tablets | Not available |
-| 174545 | Prasuvas 10 Tablet (Cipla) | Strip of 10 tablets | Not available |
-| 173695 | Prax 10 Tablet (Torrent Pharmaceuticals) | Strip of 10 tablets | Not available |
-| 179565 | Prasugrin 10 Tablet (Zydus Cadila) | Strip of 10 tablets | Not available |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 51546 | Cadiprous 10mg Tablet | Strip of 10 tablets | Valid |
+| 56846 | Cadiprous 5mg Tablet | Strip of 10 tablets | Valid |
+| 63274 | DavaIndia Prasugrel 10mg Tablet | Strip of 10 tablets | Valid |
+| 70457 | Deklot 5mg Tablet | Strip of 10 tablets | Valid |
+| 73214 | Effient 10mg Tablet | Strip of 14 tablets | Valid |
+| 76918 | Ecogrel 10mg Tablet | Strip of 10 tablets | Valid |
+| 166848 | Oresugrel 5mg Tablet | Strip of 10 tablets | Valid |
+| 173695 | Prax 10 Tablet | Strip of 10 tablets | Valid |
+| 174545 | Prasuvas 10 Tablet | Strip of 10 tablets | Valid |
+| 177133 | Prasulet 10mg Tablet | Strip of 10 tablets | Valid |
+| 177386 | Prasuzen 10 Tablet | Strip of 10 tablets | Valid |
+| 178870 | Prasumax 10 Tablet | Strip of 10 tablets | Valid |
+| 179565 | Prasugrin 10 Tablet | Strip of 10 tablets | Valid |
+| 180137 | Prasuten 10mg Tablet | Strip of 10 tablets | Valid |
+| 180588 | Prasudax 10mg Tablet | Strip of 10 tablets | Valid |
+| 180871 | Praso 10mg Tablet | Strip of 10 tablets | Valid |
+| 181815 | Prasumax 5mg Tablet | Strip of 10 tablets | Valid |
+| 182300 | Pasogest 10 Tablet | Strip of 10 tablets | Valid |
+| 191389 | Redigrel 10mg Tablet | Strip of 10 tablets | Valid |
+| 192951 | Rasug 10mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

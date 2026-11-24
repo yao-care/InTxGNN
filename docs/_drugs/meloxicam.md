@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 521
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Meloxicam: predicted new indication Acromesomelic dysplasia, Hunter-Thompson type (evidence level L5). Approved use: Rheumatoid arthritis (also osteoarthritis…"
 monitor_inn: "Meloxicam"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "rheumatoid nodulosis", "WHIM syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
@@ -77,15 +77,44 @@ For reference, the only publication in the compiled data relates to the rank 8 p
 
 ## India Market Information
 
-The 20 valid registrations are all single-ingredient products. The compiled data does not include approved indication text. The main authorizations are:
+The 20 valid registrations are all products with valid status. The compiled data does not include approved indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 144942 | Muvik 15mg Tablet (Lesanto Laboratories) | Strip of 10 tablets | Not available |
-| 138452 | Movac 15mg Tablet (Alkem Laboratories Ltd) | Strip of 10 tablets | Not available |
-| 135516 | M-Cam 7.5mg Tablet (Torrent Pharmaceuticals Ltd) | Strip of 10 tablets | Not available |
-| 138674 | Melotross 5mg Infusion (Kaytross Health Care) | Bottle of 100 ml infusion | Not available |
-| 194233 | Rafree 7.5mg Tablet (Dr Reddy's Laboratories Ltd) | Strip of 10 tablets | Not available |
+<!-- review:begin in-lic-20261124-meloxicam-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "The 20 valid registrations are all single-ingredient products." Removed: it described the products as single-ingredient (or as having no combination products), which does not match the Indian medicine data (the Indian Medicine Dataset): some of the recorded products are fixed-dose combinations. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124-meloxicam-1 -->
+
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 4758 | Artaz 15mg Tablet | Strip of 10 tablets | Valid |
+| 10347 | Artaz 7.5mg Tablet | Strip of 10 tablets | Valid |
+| 78458 | Ecwin 7.5mg Tablet | Strip of 10 tablets | Valid |
+| 133640 | Melonex Tablet | Strip of 10 tablets | Valid |
+| 135030 | M-Cam 15mg Tablet | Strip of 10 tablets | Valid |
+| 135516 | M-Cam 7.5mg Tablet | Strip of 10 tablets | Valid |
+| 136556 | Mel OD 15mg Tablet | Strip of 10 tablets | Valid |
+| 136620 | Melodol Tablet | Strip of 10 tablets | Valid |
+| 138452 | Movac 15mg Tablet | Strip of 10 tablets | Valid |
+| 138674 | Melotross 5mg Infusion | Bottle of 100 ml Infusion | Valid |
+| 139390 | Melflam 7.5mg Tablet | Strip of 10 tablets | Valid |
+| 139415 | Melwin 15mg Tablet | Strip of 10 tablets | Valid |
+| 140136 | Muvik 7.5mg Tablet | Strip of 10 tablets | Valid |
+| 144942 | Muvik 15mg Tablet | Strip of 10 tablets | Valid |
+| 146196 | Movac 7.5mg Tablet | Strip of 10 tablets | Valid |
+| 146476 | Melwin 7.5mg Tablet | Strip of 10 tablets | Valid |
+| 146643 | Movel 7.5mg Tablet | Strip of 10 tablets | Valid |
+| 146996 | Movacam 15mg Tablet | Strip of 10 tablets | Valid |
+| 194233 | Rafree 7.5mg Tablet | Strip of 10 tablets | Valid |
+| 218620 | Tmel Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 Available forms: oral tablets and an intravenous infusion.
 
@@ -121,11 +150,12 @@ The prediction is supported only by a score from the TxGNN model (deep learning)
 
 ## Review Log
 
-Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Zybic (meloxicam) prescribing information, Redmont Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a1c2d65f-ebb1-48bf-8fa1-c216f7d570ec) |
+| 2026-11-24 | Removed: the single-ingredient claim | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 

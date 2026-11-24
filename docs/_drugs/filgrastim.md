@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 352
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Filgrastim: predicted new indication Primary release disorder of platelets (evidence level L5). Approved use: Constitutional neutropenia"
 monitor_inn: "Filgrastim"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "Scott syndrome", "hemorrhagic disorder due to a constitutional thrombocytopenia", "bleeding diathesis due to a collagen receptor defect", "C1 inhibitor deficiency", "serpinopathy with toxic serpin polymerization", "fetal and neonatal alloimmune thrombocytopenia", "platelet-type bleeding disorder"]
@@ -83,15 +83,38 @@ Currently no related literature available.
 
 ## India Market Information
 
-All 20 registrations are valid single-ingredient injectables. No approved indication text was provided for any of them. The five main ones are listed below.
+All 20 registrations are valid single-ingredient injectables. No approved indication text was provided for any of them.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 84930 | Fillif 300mcg Injection (Torrent) | Prefilled syringe, 1 ml | Not stated |
-| 89966 | Ferograstim 300mcg Injection (Feron Healthcare) | Vial | Not stated |
-| 95110 | Grastim Injection (Dr Reddy's) | Vial, 1 ml | Not stated |
-| 243969 | Xgrast 300mcg Injection (Emcure) | Vial, 1 ml | Not stated |
-| 150319 | Neukine 300mcg Injection (Intas) | Prefilled syringe, 1 ml | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 9263 | Axokine Injection | Prefilled syringe of 0.5 ml Injection | Valid |
+| 72876 | Endokine 300mcg Injection | Prefilled syringe of 1 Injection | Valid |
+| 73169 | Emgrast 300mcg Injection | Vial of 1 ml Injection | Valid |
+| 84930 | Fillif 300mcg Injection | Prefilled syringe of 1 ml Injection | Valid |
+| 85718 | Filgen 300mcg Injection | Prefilled syringe of 1 Injection | Valid |
+| 86535 | Filcad 300mcg Injection | Vial of 1 Injection | Valid |
+| 89966 | Ferograstim 300mcg Injection | Vial of 1 Injection | Valid |
+| 95110 | Grastim Injection | Vial of 1 ml Injection | Valid |
+| 96122 | Granfill 300mcg Injection | Vial of 1 ml Injection | Valid |
+| 99924 | Grasipar 300mcg Injection | Vial of 1 Injection | Valid |
+| 102162 | G Cyte Injection | Vial of 1 Injection | Valid |
+| 108751 | Imumax 300mcg Injection | Vial of 1 Injection | Valid |
+| 110381 | Innograst 300mcg Injection | Vial of 1 Injection | Valid |
+| 150319 | Neukine 300mcg Injection | Prefilled syringe of 1 ml Injection | Valid |
+| 152319 | Neufil 300mcg Injection | Vial of 1 ml Injection | Valid |
+| 152481 | Neukine 150mcg Injection | Vial of 1 ml Injection | Valid |
+| 156272 | Neugrow 300mcg Injection | Vial of 1 ml Injection | Valid |
+| 158375 | Nfil Injection | Prefilled syringe of 1 Injection | Valid |
+| 205803 | Sfil 300mcg Injection | Prefilled syringe of 1 Injection | Valid |
+| 243969 | Xgrast 300mcg Injection | Vial of 1 ml Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

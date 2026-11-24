@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 407
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Halothane: predicted new indication Manic bipolar affective disorder (evidence level L5). Approved use: Not stated in the India licence data (the approved indication text is…"
 monitor_inn: "Halothane"
 drugbank_id: DB01159
@@ -88,9 +88,15 @@ These papers do not show that halothane treats mania or bipolar disorder. For ma
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 104507 | Hypnothane Liquid For Inhalation (Neon Laboratories Ltd) | Bottle of 250 ml solution for inhalation | Not specified |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 104507 | Hypnothane Liquid For Inhalation | Bottle of 250 ml Solution for inhalation | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ---
 

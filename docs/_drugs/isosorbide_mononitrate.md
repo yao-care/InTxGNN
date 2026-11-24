@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 453
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Isosorbide Mononitrate: predicted new indication Hypertrichosis (disease) (evidence level L5). Approved use: Not stated in the available licence data"
 monitor_inn: "Isosorbide mononitrate"
 predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "alopecia", "isolated genetic hair shaft abnormality", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "pulmonary arterial hypertension"]
@@ -81,15 +81,38 @@ No literature is available for hypertrichosis. The only literature found relates
 
 ## India Market Information
 
-There are 20 valid single-ingredient licences. The approved indication text is not provided in the licence records. Five examples are listed below.
+There are 20 valid single-ingredient licences. The approved indication text is not provided in the licence records.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 158789 | Natriem 60mg Tablet (Emcure) | Strip of 10 tablets | Not stated |
-| 134325 | Monit 20 Tablet (Intas) | Strip of 15 tablets | Not stated |
-| 107828 | Ismo Retard Tablet ER (Abbott) | Strip of 7 extended-release tablets | Not stated |
-| 136199 | Monotrate SR 60 Tablet (Sun Pharma) | Strip of 10 prolonged-release tablets | Not stated |
-| 142358 | Monocontin 50mg Tablet (Modi Mundi Pharma) | Strip of 7 tablets | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 22709 | Axicard 20mg Tablet | Strip of 10 tablets | Valid |
+| 30304 | BITRATE 20MG TABLET | Strip of 10 tablets | Valid |
+| 96368 | Genericart Isosorbide Mononitrate 30mg Tablet PR | Strip of 10 Tablet pr | Valid |
+| 107779 | Ismo 10 Tablet | Strip of 30 tablets | Valid |
+| 107828 | Ismo Retard Tablet ER | Strip of 7 tablet er | Valid |
+| 109031 | Ihd 10mg Tablet | Strip of 10 tablets | Valid |
+| 111115 | Isoloprin 60 mg/75 mg Capsule | Strip of 10 capsules | Valid |
+| 113263 | Isonit 60mg Tablet SR | Strip of 10 tablet sr | Valid |
+| 134325 | Monit 20 Tablet | Strip of 15 tablets | Valid |
+| 134548 | Monit 10 Tablet | Strip of 15 tablets | Valid |
+| 134964 | Monit 60-SR Tablet | Strip of 10 tablet sr | Valid |
+| 136199 | Monotrate SR 60 Tablet | Strip of 10 Tablet pr | Valid |
+| 142358 | MONOCONTIN 50MG TABLET | Strip of 7 tablets | Valid |
+| 146585 | Monocard 30mg Tablet SR | Strip of 10 tablet sr | Valid |
+| 154205 | Nitroprin 60 mg/75 mg Tablet | Strip of 10 tablets | Valid |
+| 158789 | Natriem 60mg Tablet | Strip of 10 tablets | Valid |
+| 164726 | Olvisol 30mg Tablet SR | Strip of 10 tablet sr | Valid |
+| 205611 | Synotrate 20mg Tablet | Strip of 10 tablets | Valid |
+| 212661 | Sordip 60SR Tablet | Strip of 10 tablet sr | Valid |
+| 239024 | Vasoprin SD 30 mg/150 mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 All products are oral formulations (tablets, sustained-release tablets and capsules).
 

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 751
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Rofecoxib: predicted new indication Heparin cofactor 2 deficiency (evidence level L5). Approved use: Rheumatoid arthritis, osteoarthritis, migraine…"
 monitor_inn: "Rofecoxib"
 predicted_indications: ["heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "brachydactyly-syndactyly syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia"]
@@ -76,13 +76,36 @@ Currently no related literature available.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Registration No. 92030 | Flexib 100mg Tablet | Strip of 15 tablets | Not specified |
-| Registration No. 197698 | Rofejet Gel | Tube of 20 gm gel | Not specified |
-| Registration No. 164793 | Oslol 20mg Tablet | Strip of 10 tablets | Not specified |
-| Registration No. 171767 | Okabax 12.5mg Tablet | Strip of 10 tablets | Not specified |
-| Registration No. 197904 | Roflam 50mg Tablet | Strip of 10 tablets | Not specified |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 50359 | Certane Forte 25mg Tablet | Strip of 10 tablets | Valid |
+| 68859 | Dolib 50mg Tablet MD | Strip of 10 tablet md | Valid |
+| 83972 | Equs 12.5mg Tablet | Strip of 10 tablets | Valid |
+| 92030 | Flexib 100mg Tablet | Strip of 15 tablets | Valid |
+| 117933 | Koxiflam 12.5mg Tablet | Strip of 10 tablets | Valid |
+| 119932 | Koxiflam 50mg Tablet | Strip of 10 tablets | Valid |
+| 157190 | Ninja 12.5mg Tablet | Strip of 10 tablets | Valid |
+| 164793 | Oslol 20mg Tablet | Strip of 10 tablets | Valid |
+| 171767 | Okabax 12.5mg Tablet | Strip of 10 tablets | Valid |
+| 187076 | Reducin A 400mg Tablet | Strip of 10 tablets | Valid |
+| 192335 | Ronace 50mg Tablet | Strip of 10 tablets | Valid |
+| 192524 | Rofidin Plus Tablet | Strip of 10 tablets | Valid |
+| 192783 | Rofidin 50mg Tablet | Strip of 10 tablets | Valid |
+| 194905 | Rofedol 25mg Tablet | Strip of 10 tablets | Valid |
+| 196311 | Rofica 1% Gel | Tube of 30 gm Gel | Valid |
+| 197409 | Rofeflash 25mg Tablet | Strip of 10 tablets | Valid |
+| 197698 | Rofejet Gel | Tube of 20 gm Gel | Valid |
+| 197904 | Roflam 50mg Tablet | Strip of 10 tablets | Valid |
+| 199082 | Reoxx 12.5mg Tablet | Strip of 10 tablets | Valid |
+| 214159 | Semiroff 25mg Capsule | Strip of 10 capsules | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 There are 20 valid single-ingredient registrations in total, including oral tablets and capsules and topical gels. The database lists the product as marketed, but rofecoxib has been withdrawn in most markets, so the actual market status should be verified.
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Sertaconazole"
 predicted_indications: ["ectothrix infectious disease", "endothrix infectious disease"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Sertaconazole: predicted new indication Ectothrix infectious disease (evidence level L5). In India: at least 20 listed products"
 ---
 
@@ -72,15 +72,38 @@ Currently no related literature available.
 
 ## India Market Information
 
-At least 20 licences are recorded, all currently valid, and the list may be partial. Up to five main authorizations are shown below.
+At least 20 licences are recorded, all currently valid, and the list may be partial.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 207184 | Sernaz V1 Tablet VT | Strip of 1 Tablet VT | Not recorded |
-| 204300 | Sertalin Cream | Tube of 30 gm Cream | Not recorded |
-| 202939 | Seriva 2% Lotion | Bottle of 30 ml Lotion | Not recorded |
-| 74534 | Episert Cream | Tube of 20 gm Cream | Not recorded |
-| 136020 | Mycoclin Lotion | Bottle of 20 ml Lotion | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 74534 | Episert Cream | Tube of 20 gm Cream | Valid |
+| 90675 | Fuganol 2% Cream | Tube of 20 gm Cream | Valid |
+| 134527 | Monoguard Cream | Tube of 10 gm Cream | Valid |
+| 135313 | Mycoclin Cream | Tube of 15 gm Cream | Valid |
+| 135316 | Monoguard-B Cream | Tube of 10 gm Cream | Valid |
+| 136020 | Mycoclin Lotion | Bottle of 20 ml Lotion | Valid |
+| 139868 | Mycoclin 500mg Tablet VT | Strip of 1 Tablet VT | Valid |
+| 201775 | Sercos-VT Tablet | Strip of 1 Tablet VT | Valid |
+| 202503 | Sertalin Cream | Tube of 10 gm Cream | Valid |
+| 202816 | Setrabet B Cream | Tube of 10 gm Cream | Valid |
+| 202939 | Seriva 2% Lotion | Bottle of 30 ml Lotion | Valid |
+| 204300 | Sertalin Cream | Tube of 30 gm Cream | Valid |
+| 205425 | Sertipoiz Cream | Tube of 30 gm Cream | Valid |
+| 207119 | Serbenz Cream | Tube of 20 gm Cream | Valid |
+| 207184 | Sernaz V1 Tablet VT | Strip of 1 Tablet VT | Valid |
+| 207240 | SKZ 2% Cream | Tube of 30 gm Cream | Valid |
+| 208131 | Sertazit Cream | Tube of 15 gm Cream | Valid |
+| 209723 | Sertalix 2% Cream | Tube of 15 gm Cream | Valid |
+| 220704 | Tacozole Cream | Tube of 20 gm Cream | Valid |
+| 224387 | Trusert 2% Cream | Tube of 30 gm Cream | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Conclusion and Next Steps
 

@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 842
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Tobramycin: predicted new indication Exposure keratitis (evidence level L4). Approved use: Bacterial meningitis, uveitis, conjunctivitis…"
 monitor_inn: "Tobramycin"
 predicted_indications: ["exposure keratitis", "non-human animal disease", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "epidemic keratoconjunctivitis"]
@@ -82,13 +82,36 @@ Currently no related clinical trials registered.
 
 Registration records do not include approved indication text. The 5 listed below are examples of the 20 valid registrations, covering injectable and ophthalmic forms.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 164085 | Optob Eye Drop | Eye drop, 5 ml packet | Not stated |
-| 224738 | Tobnax Eye Drop | Ophthalmic solution, 5 ml bottle | Not stated |
-| 226095 | Tobica Eye Drop | Eye drop, 5 ml packet | Not stated |
-| 223739 | Toracin 80mg Injection | Injection, 2 ml vial | Not stated |
-| 18787 | Aktob 80mg Injection | Injection, 2 ml vial | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 9923 | Alitop 80 Injection | Vial of 2 ml Injection | Valid |
+| 17766 | Anatob 40mg Injection | Vial of 2 ml Injection | Valid |
+| 18787 | Aktob 80mg Injection | Vial of 2 ml Injection | Valid |
+| 38548 | Coral Syrup | Bottle of 200 ml Syrup | Valid |
+| 164085 | Optob Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 220512 | Tobacin 60mg Injection | Vial of 1 Injection | Valid |
+| 222201 | Tobraneg 60mg Injection | Vial of 1 ml Injection | Valid |
+| 223739 | Toracin 80mg Injection | Vial of 2 ml Injection | Valid |
+| 224738 | Tobnax Eye Drop | Bottle of 5 ml Ophthalmic Solution | Valid |
+| 225226 | Tearlog Eye Drop | Packet of 10 ml Eye Drop | Valid |
+| 225401 | Tobomac 80 Injection | Vial of 2 ml Injection | Valid |
+| 226095 | Tobica Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 226710 | Tobasys 80mg Injection | Vial of 2 ml Injection | Valid |
+| 227773 | Tycin 80mg Injection | Vial of 1 Injection | Valid |
+| 228069 | Tobax 20mg Injection | Vial of 1 Injection | Valid |
+| 229704 | Tobrakan 80mg Injection | Vial of 1 Injection | Valid |
+| 229715 | Tobrasulf 80mg Injection | Vial of 2 ml Injection | Valid |
+| 229764 | Tobaphar 80mg Injection | Vial of 2 ml Injection | Valid |
+| 229842 | Tobson 40mg Injection | Vial of 1 Injection | Valid |
+| 229981 | Tobrap 80mg Injection | Vial of 1 Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 Ophthalmic products are already available, so a topical route for an eye indication would not require a new dosage form.
 

@@ -3,7 +3,7 @@ layout: default
 title: Flupirtine
 parent: Known Uses Only (No New Predictions)
 nav_order: 370
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 description: "Flupirtine: known uses and market status in India; currently no new candidate indication"
 predicted_indications: []
 indication_count: 0
@@ -70,30 +70,36 @@ The TxGNN model has no candidate with a score of 0.99 or higher for Flupirtine, 
 
 ## India Market Information
 
-| Licence | Product | Dosage form | Status |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
 |------|------|------|------|
-| 174704 | Pirineu P 100mg/325mg Tablet | strip of 10 tablets | Valid |
-| 85535 | Flupride 100mg Tablet | strip of 10 tablets | Valid |
-| 175091 | Pirineu 100mg Capsule | strip of 10 capsules | Valid |
-| 117209 | Ketofil 100mg Tablet | strip of 10 tablets | Valid |
-| 84940 | Flutense P 100mg/325mg Tablet | strip of 10 tablets | Valid |
-| 84414 | Flupirin P Tablet 100mg/325mg | strip of 10 tablets | Valid |
-| 237218 | Vasnerv Tablet | strip of 10 tablets | Valid |
-| 89796 | Flupilib P 100mg/325mg Tablet | strip of 10 tablets | Valid |
-| 87149 | Flupitus P 100mg/325mg Tablet | strip of 10 tablets | Valid |
-| 86157 | Flupirin 100mg Capsule | strip of 10 capsules | Valid |
-| 233340 | Vasfree 100 Capsule | strip of 10 capsules | Valid |
-| 115766 | Katadol Capsule | strip of 10 capsules | Valid |
-| 4661 | Acronil-OD 400 Tablet ER | strip of 10 tablet er | Valid |
-| 90852 | Felex 100mg Capsule | strip of 10 capsules | Valid |
-| 88236 | Flupinorm P 100mg/325mg Tablet | strip of 10 tablets | Valid |
-| 85618 | Flupimac 100mg Tablet | strip of 10 tablets | Valid |
-| 184711 | Relaxin Capsule | strip of 10 capsules | Valid |
-| 115032 | Japiref 100mg Capsule | strip of 10 capsules | Valid |
-| 86764 | Flipwell 100mg Capsule | strip of 10 capsules | Valid |
-| 91514 | Flupishine Capsule | strip of 10 capsules | Valid |
+| 4661 | Acronil-OD 400 Tablet ER | Strip of 10 tablet er | Valid |
+| 84414 | Flupirin P Tablet 100mg/325mg | Strip of 10 tablets | Valid |
+| 84940 | Flutense P 100mg/325mg Tablet | Strip of 10 tablets | Valid |
+| 85535 | Flupride 100mg Tablet | Strip of 10 tablets | Valid |
+| 85618 | Flupimac 100mg Tablet | Strip of 10 tablets | Valid |
+| 86157 | Flupirin 100mg Capsule | Strip of 10 capsules | Valid |
+| 86764 | Flipwell 100mg Capsule | Strip of 10 capsules | Valid |
+| 87149 | Flupitus P 100mg/325mg Tablet | Strip of 10 tablets | Valid |
+| 88236 | Flupinorm P 100mg/325mg Tablet | Strip of 10 tablets | Valid |
+| 89796 | Flupilib P 100mg/325mg Tablet | Strip of 10 tablets | Valid |
+| 90852 | Felex 100mg Capsule | Strip of 10 capsules | Valid |
+| 91514 | Flupishine Capsule | Strip of 10 capsules | Valid |
+| 115032 | Japiref 100mg Capsule | Strip of 10 capsules | Valid |
+| 115766 | Katadol Capsule | Strip of 10 capsules | Valid |
+| 117209 | Ketofil 100mg Tablet | Strip of 10 tablets | Valid |
+| 174704 | Pirineu P 100mg/325mg Tablet | Strip of 10 tablets | Valid |
+| 175091 | Pirineu 100mg Capsule | Strip of 10 capsules | Valid |
+| 184711 | Relaxin Capsule | Strip of 10 capsules | Valid |
+| 233340 | Vasfree 100 Capsule | Strip of 10 capsules | Valid |
+| 237218 | Vasnerv Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
 
 Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

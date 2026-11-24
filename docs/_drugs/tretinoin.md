@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 860
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Tretinoin"
 predicted_indications: ["rheumatoid nodulosis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis", "juvenile idiopathic arthritis", "juvenile chronic polyarthritis", "juvenile arthritis due to defect in LACC1", "osteoarthritis", "pseudoachondroplasia", "acromesomelic dysplasia, Hunter-Thompson type", "Quinquaud's folliculitis decalvans"]
 description: "Tretinoin: predicted new indication Rheumatoid nodulosis (evidence level L5). In India: at least 20 listed products"
@@ -73,15 +73,38 @@ For the seventh-ranked prediction (osteoarthritis), two publications were retrie
 
 ## India Market Information
 
-Tretinoin has 20 valid single-ingredient registrations, with no combination products and none cancelled. Approved indication text was not available for any of them. The main examples are:
+Tretinoin has 20 valid single-ingredient registrations, with no combination products and none cancelled. Approved indication text was not available for any of them.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 217369 | Trebor 0.025% Cream | Cream (tube of 20 gm) | Not specified |
-| 36675 | CA Retrans Capsule | Capsule (strip of 10) | Not specified |
-| 8570 | Atranza Capsule | Capsule (bottle of 100) | Not specified |
-| 220862 | Tretiome 20mg Tablet | Tablet | Not specified |
-| 184151 | Retino-A 0.05% Cream | Cream (tube of 20 gm) | Not specified |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 2943 | Aritop MS Aqeous Gel | Tube of 20 gm Gel | Valid |
+| 6014 | Adit 0.05% Cream | Tube of 20 gm Cream | Valid |
+| 8570 | Atranza Capsule | Bottle of 100 capsules | Valid |
+| 35252 | CA Atra 10 Softgel Capsule | Bottle of 100 capsules | Valid |
+| 36675 | CA Retrans Capsule | Strip of 10 capsules | Valid |
+| 41926 | Clincheek - T Cream | Tube of 20 gm Cream | Valid |
+| 49808 | Clincheek Cream | Tube of 20 gm Cream | Valid |
+| 74207 | Ematra Capsule | Bottle of 100 capsules | Valid |
+| 79157 | Etino Cream | Tube of 10 gm Cream | Valid |
+| 81139 | Etino Ointment | Tube of 20 gm Ointment | Valid |
+| 150710 | Nioret Nano Gel | Tube of 15 gm Gel | Valid |
+| 151618 | Nexret T Gel | Tube of 15 gm Gel | Valid |
+| 162612 | Ontin Cream | Tube of 30 gm Cream | Valid |
+| 175378 | Pinoin 0.025% Cream | Tube of 20 gm Cream | Valid |
+| 184151 | Retino-A 0.05% Cream | Tube of 20 gm Cream | Valid |
+| 189061 | Retop-A 0.025% Gel | Tube of 20 gm Gel | Valid |
+| 217369 | Trebor 0.025% Cream | Tube of 20 gm Cream | Valid |
+| 217852 | Tintin Cream | Tube of 30 gm Cream | Valid |
+| 218494 | Tretinoid Soft Gelatin Capsule | Bottle of 100 soft gelatin capsules | Valid |
+| 220862 | Tretiome 20mg Tablet | Strip of 1 Tablet | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 Products are available in both oral (capsule, tablet) and topical (cream, gel, ointment) forms.
 

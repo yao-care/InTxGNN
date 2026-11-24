@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Amlodipine"
 predicted_indications: ["brain stem infarction", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "cerebral artery occlusion", "Braddock syndrome", "MRI defined brain infarct", "ABri amyloidosis", "intracerebral hemorrhage"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Amlodipine: predicted new indication brain stem infarction (evidence level L5). In India: at least 20 listed products"
 ---
 
@@ -69,15 +69,38 @@ Currently no related literature available for brain stem infarction.
 
 ## India Market Information
 
-The data compiled for this report list 20 valid single-ingredient licences, with no cancelled licences. The list may be partial. No approved indication text is recorded for these licences. Main authorizations:
+The data compiled for this report list 20 valid single-ingredient licences, with no cancelled licences. The list may be partial. No approved indication text is recorded for these licences.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 234726 | Vintol Plus 5mg/50mg Tablet | Strip of 10 tablets | Not recorded |
-| 1017 | Amlopin 2.5 Tablet | Strip of 10 tablets | Not recorded |
-| 193130 | Renace AM 5 mg/50 mg Tablet | Strip of 10 tablets | Not recorded |
-| 73116 | Exforge 10 mg/160 mg Tablet | Strip of 14 tablets | Not recorded |
-| 65587 | D P Lol 5mg Tablet | Strip of 10 tablets | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 262 | Amlong 2.5 Tablet | Strip of 15 tablets | Valid |
+| 1017 | Amlopin 2.5 Tablet | Strip of 10 tablets | Valid |
+| 1242 | Angicam-M Tablet PR | Strip of 15 Tablet pr | Valid |
+| 5577 | Amlan 10mg Tablet | Strip of 10 tablets | Valid |
+| 9458 | Anol-Ad 50 Tablet | Strip of 10 tablets | Valid |
+| 17823 | Amlovib 10mg Tablet | Strip of 10 tablets | Valid |
+| 18841 | Amlovate 5mg Tablet | Strip of 10 tablets | Valid |
+| 19664 | AMZEL-EL 5MG/2.5MG TABLET | Strip of 15 tablets | Valid |
+| 39186 | Caduet 5 mg/10 mg Tablet | Strip of 10 tablets | Valid |
+| 65587 | D P Lol 5mg Tablet | Strip of 10 tablets | Valid |
+| 73116 | Exforge 10 mg/160 mg Tablet | Strip of 14 tablets | Valid |
+| 106919 | Hydipin 5mg Tablet | Strip of 10 tablets | Valid |
+| 122755 | Lipril AM Tablet | Strip of 10 tablets | Valid |
+| 123743 | Listril AM Tablet | Strip of 10 tablets | Valid |
+| 135787 | Metapol AM 5mg/50mg Tablet | Strip of 10 tablets | Valid |
+| 144669 | Metomend-AM 50/5 Tablet ER | Strip of 10 tablet er | Valid |
+| 193130 | Renace AM 5 mg/50 mg Tablet | Strip of 10 tablets | Valid |
+| 212766 | StayHappi Amlodipine+Metoprolol Succinate 5mg/50mg Tablet | Strip of 10 tablets | Valid |
+| 234726 | Vintol Plus 5mg/50mg Tablet | Strip of 10 tablets | Valid |
+| 235328 | Valzaar SM Capsule | Strip of 10 capsules | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

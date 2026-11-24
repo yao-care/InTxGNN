@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 269
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 description: "Dihydralazine: predicted new indication Heart disease (evidence level L4). Approved use: Not stated in the India licence records (the drug class suggests hype…"
 monitor_inn: "Dihydralazine"
 drugbank_id: DB12945
@@ -86,10 +86,16 @@ The trial summary lists a spironolactone + dihydralazine arm, but the data do no
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 353 | Apresol Tablet | Strip of 15 tablets | Not stated in the records |
-| 151433 | Nepresol 25mg Tablet | Strip of 10 tablets | Not stated in the records |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 353 | Apresol Tablet | Strip of 15 tablets | Valid |
+| 151433 | Nepresol 25mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

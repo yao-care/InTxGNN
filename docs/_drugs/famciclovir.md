@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 337
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Famciclovir: predicted new indication Post-infectious neuralgia (evidence level L5). Approved use: Herpes zoster"
 monitor_inn: "Famciclovir"
 predicted_indications: ["post-infectious neuralgia", "sequela of COVID-19", "hepatitis C induced liver cirrhosis", "malignant pleural mesothelioma", "AIDS-related disorder", "malignant epithelioid mesothelioma", "chickenpox", "sarcomatoid mesothelioma", "malignant visceral pleura tumor"]
@@ -83,15 +83,34 @@ Currently no related literature available.
 
 ## India Market Information
 
-Famciclovir has 18 valid registrations in India, all single-ingredient oral tablets. The table lists 5 of them. The data compiled for this report does not include approved indication text for these products.
+Famciclovir has 18 valid registrations in India, all single-ingredient oral tablets. The data compiled for this report does not include approved indication text for these products.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Registration No. 174328 | Penvir 250 Tablet (Hetero Drugs Ltd) | Strip of 6 tablets | Not specified |
-| Registration No. 233684 | Virovir 250 Tablet (FDC Ltd) | Strip of 6 tablets | Not specified |
-| Registration No. 87424 | Famtag 500mg Tablet (Ikon Remedies Pvt Ltd) | Strip of 3 tablets | Not specified |
-| Registration No. 84755 | Famtrex 500mg Tablet (Cipla Ltd) | Strip of 7 tablets | Not specified |
-| Registration No. 84301 | Famcimac 500 Tablet (Macleods Pharmaceuticals Pvt Ltd) | Strip of 3 tablets | Not specified |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 84301 | Famcimac 500 Tablet | Strip of 3 tablets | Valid |
+| 84755 | Famtrex 500mg Tablet | Strip of 7 tablets | Valid |
+| 84774 | Famcimac 250 Tablet | Strip of 6 tablets | Valid |
+| 87241 | Famir 250mg Tablet | Strip of 10 tablets | Valid |
+| 87424 | Famtag 500mg Tablet | Strip of 3 tablets | Valid |
+| 87468 | Famnova 500mg Tablet | Strip of 6 tablets | Valid |
+| 87583 | Famir 500 Tablet | Strip of 10 tablets | Valid |
+| 89242 | Famnova 250mg Tablet | Strip of 6 tablets | Valid |
+| 105404 | Herpinil-F 500mg Tablet | Strip of 10 tablets | Valid |
+| 106364 | Herpinil-F 250mg Tablet | Strip of 10 tablets | Valid |
+| 134381 | Microvir 500 Tablet | Strip of 3 tablets | Valid |
+| 134605 | Microvir 250 Tablet | Strip of 3 tablets | Valid |
+| 173939 | Penvir 500 Tablet | Strip of 3 tablets | Valid |
+| 174328 | Penvir 250 Tablet | Strip of 6 tablets | Valid |
+| 206895 | Simavir 250mg Tablet | Strip of 6 tablets | Valid |
+| 233465 | Virovir 500 Tablet | Strip of 3 tablets | Valid |
+| 233684 | Virovir 250 Tablet | Strip of 6 tablets | Valid |
+| 236549 | Virax FC Tablet | Strip of 4 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ---
 

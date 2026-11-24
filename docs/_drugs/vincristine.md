@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Vincristine"
 predicted_indications: ["vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Vincristine: predicted new indication Vertebral anomalies and variable endocrine and T-cell dysfunction (evidence level L5). In India: 16 listed products (16 not discontinued)"
 ---
 
@@ -80,15 +80,32 @@ Currently no related literature available.
 
 ## India Market Information
 
-The records contain no approved-indication text, so no approved use can be stated from them. Five examples:
+The records contain no approved-indication text, so no approved use can be stated from them.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| 237878 | Vcad 1mg Injection | Vial of 1 injection | Cadila Pharmaceuticals Ltd |
-| 165312 | Oncocristin AQ 1mg Injection | Vial of 1 ml injection | Sun Pharmaceutical Industries Ltd |
-| 234694 | Vincreta 1mg Injection | Vial of 1 injection | Metta Life Sciences Private Limited |
-| 31216 | Biocristin AQ 1mg Injection | Vial of 1 ml injection | Biochem Pharmaceutical Industries |
-| 36318 | Cytocristin 1mg Injection | Vial of 1 ml injection | Cipla Ltd |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 14867 | Alcrist 1mg Injection | Vial of 1 Injection | Valid |
+| 30211 | Biocristin 1mg Injection | Vial of 1 Injection | Valid |
+| 30933 | B Cristine 1mg Injection | Vial of 1 Injection | Valid |
+| 31216 | Biocristin AQ 1mg Injection | Vial of 1 ml Injection | Valid |
+| 36318 | Cytocristin 1mg Injection | Vial of 1 ml Injection | Valid |
+| 40690 | Cytocristin 2mg Injection | Vial of 2 ml Injection | Valid |
+| 111937 | Ivin 1mg Injection | Vial of 1 ml Injection | Valid |
+| 163537 | Onvinc 1mg Injection | Vial of 1 Injection | Valid |
+| 165312 | Oncocristin AQ 1mg Injection | Vial of 1 ml Injection | Valid |
+| 233766 | Vinlon 1mg Injection | Vial of 1 ml Injection | Valid |
+| 234694 | Vincreta 1mg Injection | Vial of 1 Injection | Valid |
+| 234808 | Vinstin 1mg Injection | Vial of 1 Injection | Valid |
+| 237200 | Vriestran 1mg/100mg Injection | Vial of 1 ml Injection | Valid |
+| 237360 | Vincryst 1mg Injection | Vial of 1 ml Injection | Valid |
+| 237515 | Vinrosa 1mg Injection | Vial of 1 ml Injection | Valid |
+| 237878 | Vcad 1mg Injection | Vial of 1 Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ---
 

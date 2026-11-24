@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 480
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Leucovorin: predicted new indication Primary hyperoxaluria (evidence level L5). Approved use: Megaloblastic anemia"
 monitor_inn: "leucovorin"
 predicted_indications: ["primary hyperoxaluria", "congenital intrinsic factor deficiency"]
@@ -72,15 +72,38 @@ Currently no related literature available.
 
 ## India Market Information
 
-Leucovorin has 20 valid single-ingredient registrations in India and none cancelled. Approved indication text was not available for these products. The main authorizations are:
+Leucovorin has 20 valid single-ingredient registrations in India and none cancelled. Approved indication text was not available for these products.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 36874 | Calcium Folinate Injection (Fresenius Kabi India) | Vial of 5 ml injection | Not specified |
-| 123463 | Leutero 50mg Injection (Hetero Drugs) | Vial of 5 ml injection | Not specified |
-| 231760 | Unifolin 15mg Injection (United Biotech) | Vial of 2 ml injection | Not specified |
-| 27439 | Biovorin 15mg Injection (Biochem Pharmaceutical) | Vial of 2 ml injection | Not specified |
-| 121371 | Leucorin Tablet (Samarth Life Sciences) | Strip of 10 tablets | Not specified |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 26187 | Biovorin 15 Tablet | Strip of 10 tablets | Valid |
+| 26525 | Biovorin 50mg Injection | Vial of 5 ml Injection | Valid |
+| 27439 | Biovorin 15mg Injection | Vial of 2 ml Injection | Valid |
+| 36874 | Calcium Folinate Injection | Vial of 5 ml Injection | Valid |
+| 53581 | Cevoric C 15mg Injection | Vial of 1 Injection | Valid |
+| 54010 | Cafonate 15mg Injection | Vial of 1 Injection | Valid |
+| 79779 | Es LC Injection | Vial of 5 ml Injection | Valid |
+| 121371 | Leucorin Tablet | Strip of 10 tablets | Valid |
+| 121770 | Leucovorin 15mg Injection | Packet of 5 injections | Valid |
+| 122902 | Leucorin 50mg Injection | Vial of 5 ml Injection | Valid |
+| 123463 | Leutero 50mg Injection | Vial of 5 ml Injection | Valid |
+| 124501 | Lucal 50mg Injection | Vial of 5 ml Injection | Valid |
+| 125535 | Leuget 50mg Injection | Vial of 5 ml Injection | Valid |
+| 153006 | Neovorin Injection | Vial of 5 ml Injection | Valid |
+| 154329 | Nyrin 15mg Injection | Vial of 1 Injection | Valid |
+| 157361 | Nyrin 50mg Injection | Vial of 5 ml Injection | Valid |
+| 190426 | Recovorin 50mg Injection | Vial of 5 ml Injection | Valid |
+| 191513 | Recovorin 15mg Injection | Vial of 2 ml Injection | Valid |
+| 208342 | Shilstine 50mg Injection | Vial of 5 ml Injection | Valid |
+| 231760 | Unifolin 15mg Injection | Vial of 2 ml Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 Most products are injections. Oral tablets are also registered (Leucorin Tablet and Biovorin 15 Tablet).
 

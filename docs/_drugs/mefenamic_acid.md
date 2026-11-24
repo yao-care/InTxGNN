@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 519
 evidence_level: L2
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Mefenamic acid"
 predicted_indications: ["headache disorder", "trigeminal autonomic cephalalgia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "migraine disorder", "migraine with brainstem aura"]
 description: "Mefenamic Acid: predicted new indication Headache disorder (evidence level L2). In India: at least 20 listed products"
@@ -83,15 +83,38 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-The data lists 20 valid single-ingredient licences. The records may be partial, so the list below is not exhaustive. The five shown are the main ones:
+The data lists 20 valid single-ingredient licences. The records may be partial, so the list below is not exhaustive.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 119923 | Kiamol MF Oral Suspension | 60 ml bottle, oral suspension | Not stated |
-| 146000 | Mefhil Syrup | 60 ml bottle, syrup | Not stated |
-| 135567 | Mefril MF 250mg/325mg Tablet | Strip of 10 tablets | Not stated |
-| 133543 | Mefkind Forte Tablet | Strip of 10 tablets | Not stated |
-| 210252 | StayHappi Mefenamic Acid 250mg Tablet | Strip of 10 tablets | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 65463 | Demef P Syrup | Bottle of 60 ml Syrup | Valid |
+| 71549 | Ditomef P Oral Suspension | Bottle of 60 ml Oral Suspension | Valid |
+| 71745 | Dotamark P Oral Suspension | Bottle of 60 ml Oral Suspension | Valid |
+| 119923 | Kiamol MF Oral Suspension | Bottle of 60 ml Oral Suspension | Valid |
+| 129974 | Lacpol M Duo Oral Suspension | Bottle of 60 ml Oral Suspension | Valid |
+| 133543 | Mefkind Forte Tablet | Strip of 10 tablets | Valid |
+| 135567 | Mefril MF 250mg/325mg Tablet | Strip of 10 tablets | Valid |
+| 136853 | Mefe P DS Oral Suspension | Bottle of 60 ml Oral Suspension | Valid |
+| 138817 | Mef P Syrup | Bottle of 60 ml Syrup | Valid |
+| 142810 | Mefimid 100mg Tablet DT | Strip of 10 tablet dt | Valid |
+| 143627 | Mefipic Oral Suspension Mango | Bottle of 60 ml Oral Suspension | Valid |
+| 143659 | Mefrite P 500mg/325mg Tablet | Strip of 10 tablets | Valid |
+| 146000 | Mefhil Syrup | Bottle of 60 ml Syrup | Valid |
+| 146854 | Molvon M Oral Suspension | Bottle of 60 ml Oral Suspension | Valid |
+| 147075 | Mefcox Kid 100mg Tablet | Strip of 10 tablets | Valid |
+| 148673 | Mefochem P Syrup | Bottle of 60 ml Syrup | Valid |
+| 157907 | Nyfen-P Forte Oral Suspension | Bottle of 60 ml Oral Suspension | Valid |
+| 208223 | Spasmosil Forte Tablet | Strip of 10 tablets | Valid |
+| 210252 | StayHappi Mefenamic Acid 250mg Tablet | Strip of 10 tablets | Valid |
+| 244913 | Xylid M Oral Suspension | Bottle of 60 ml Oral Suspension | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

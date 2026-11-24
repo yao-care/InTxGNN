@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 645
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Papaverine: predicted new indication Ischemic disease (evidence level L4). Approved use: Peripheral vascular disease, intermittent claudication…"
 monitor_inn: "Papaverine"
 predicted_indications: ["ischemic disease", "intracranial arteriosclerosis", "non-inflammatory vasculopathy", "vascular ectasia", "venous thromboembolism", "fibrocartilaginous embolism", "vascular insufficiency disorder", "angiodysplasia", "Raynaud disease", "Monckeberg arteriosclerosis"]
@@ -84,12 +84,18 @@ Other high-scoring predictions are weaker. Intracranial arteriosclerosis and Ray
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 174192 | Papaverine 60mg Injection (Mercury Laboratories Ltd) | Ampoule of 2 ml injection | Not stated in the licence record |
-| 188635 | Repaverine 30mg Injection (Retort Pharma Pvt Ltd) | Vial of 2 ml injection | Not stated in the licence record |
-| 174506 | Paparin 2 ml Injection (Troikaa Pharmaceuticals Ltd) | Vial of 2 ml injection | Not stated in the licence record |
-| 179631 | Papavar 30mg Injection (Chandra Bhagat Pharma Pvt Ltd) | Ampoule of 5 injections | Not stated in the licence record |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 174192 | Papaverine 60mg Injection | Ampoule of 2 ml Injection | Valid |
+| 174506 | Paparin 2 ml Injection | Vial of 2 ml Injection | Valid |
+| 179631 | Papavar 30mg Injection | Ampoule of 5 injections | Valid |
+| 188635 | Repaverine 30mg Injection | Vial of 2 ml Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 All four licences are valid, single-ingredient injectable products.
 

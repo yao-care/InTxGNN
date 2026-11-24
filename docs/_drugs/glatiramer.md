@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 393
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Glatiramer: predicted new indication Hemoglobinopathy (evidence level L5). Approved use: Not stated in the licence records (the literature indicates use in mu…"
 monitor_inn: "Glatiramer"
 predicted_indications: ["hemoglobinopathy"]
@@ -77,12 +77,18 @@ The high TxGNN score therefore reflects a pattern found by the computational mod
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 97885 | Glatirex Injection (Intas Pharmaceuticals Ltd) | Vial of 1 injection | Not stated |
-| 98346 | Glataxone Injection (Abbott) | Vial of 1 ml injection | Not stated |
-| 98005 | Glatimer 20mg Injection (Natco Pharma Ltd) | Packet of 1 injection | Not stated |
-| 99022 | Glatrus 20mg Injection (Taj Pharma India Ltd) | Vial of 1 ml injection | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 97885 | Glatirex Injection | Vial of 1 Injection | Valid |
+| 98005 | Glatimer 20mg Injection | Packet of 1 Injection | Valid |
+| 98346 | Glataxone Injection | Vial of 1 ml Injection | Valid |
+| 99022 | Glatrus 20mg Injection | Vial of 1 ml Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ---
 

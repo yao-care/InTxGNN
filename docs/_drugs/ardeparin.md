@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "Ardeparin"
 predicted_indications: ["thrombophilia due to protein C deficiency, autosomal recessive", "primary release disorder of platelets", "pseudo-von Willebrand disease", "atypical hemolytic-uremic syndrome with thrombomodulin anomaly", "neuropathy, painful", "thrombotic thrombocytopenic purpura"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 description: "Ardeparin: predicted new indication Thrombophilia due to protein C deficiency, autosomal recessive (evidence level L5). In India: 1 listed product (1 not discontinued)"
 ---
 
@@ -64,9 +64,15 @@ This link remains speculative. No trials or literature were supplied for this in
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 130372 | Lomoparin 3500IU Injection | Vial of 1 ml injection | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 130372 | Lomoparin 3500IU Injection | Vial of 1 ml Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

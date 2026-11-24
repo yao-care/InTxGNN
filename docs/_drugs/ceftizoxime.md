@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Ceftizoxime"
 predicted_indications: ["Ureaplasma urethritis", "xanthogranulomatous pyelonephritis", "uterine inflammatory disease", "epiglottitis", "urogenital tuberculosis"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 description: "Ceftizoxime: predicted new indication Ureaplasma urethritis (evidence level L5). Approved use: Urinary tract infection, gonorrhea…"
 ---
 
@@ -92,15 +92,34 @@ Currently no related literature available for Ureaplasma urethritis.
 
 ## India Market Information
 
-There are 18 valid single-ingredient licences. None of the licence records include approved indication text. Five main licences are listed below.
+There are 18 valid single-ingredient licences. None of the licence records include approved indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 230404 | Unizox 1gm Injection (United Biotech Pvt Ltd) | Vial of 20 ml injection | Not stated in the records |
-| 41380 | Cefizox 500mg Injection (Glaxo SmithKline Pharmaceuticals Ltd) | Vial of 1 injection | Not stated in the records |
-| 78749 | Epocelin 1gm Injection (Shreya Life Sciences Pvt Ltd) | Vial of 1 injection | Not stated in the records |
-| 78748 | Eldcef 1gm Injection (Elder Pharmaceuticals Ltd) | Vial of 10 ml injection | Not stated in the records |
-| 224494 | Trizox 1mg Injection (Osper Formulations Pvt Ltd) | Powder for injection | Not stated in the records |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 38466 | Cefticool 1000mg Injection | Vial of 1 Injection | Valid |
+| 41380 | Cefizox 500mg Injection | Vial of 1 Injection | Valid |
+| 78748 | Eldcef 1gm Injection | Vial of 10 ml Injection | Valid |
+| 78749 | Epocelin 1gm Injection | Vial of 1 Injection | Valid |
+| 79349 | Eldecet 1gm Injection | Vial of 1 Injection | Valid |
+| 83173 | Eldcef 250mg Injection | Vial of 5 ml Injection | Valid |
+| 146044 | Megmazix 1gm Injection | Vial of 1 Injection | Valid |
+| 179701 | Prozoxime 250mg Injection | Vial of 1 Injection | Valid |
+| 202407 | Sporizox Injection | Vial of 1 Injection | Valid |
+| 222719 | T Zox 1gm Injection | Vial of 10 ml Injection | Valid |
+| 224494 | Trizox 1mg Injection | Vial of 1 Powder for Injection | Valid |
+| 225874 | Trizox 250mg Injection | Vial of 1 Powder for Injection | Valid |
+| 226829 | Toxicim 1000mg Injection | Vial of 1 Injection | Valid |
+| 230404 | Unizox 1gm Injection | Vial of 20 ml Injection | Valid |
+| 231575 | Unizox 250mg Injection | Vial of 1 Injection | Valid |
+| 235479 | Vosizox Injection | Vial of 1 Injection | Valid |
+| 248870 | Zonate 1gm Injection | Vial of 1 gm Injection | Valid |
+| 250712 | Zoxiimac Injection | Vial of 1 Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 All products are injectable.
 

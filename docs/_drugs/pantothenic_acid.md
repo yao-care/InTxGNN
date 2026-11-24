@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 643
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 monitor_inn: "Pantothenic acid"
 predicted_indications: ["congenital prothrombin deficiency", "ochronosis disorder", "glycerol metabolism disease", "folic acid deficiency anemia", "uterine inflammatory disease", "xanthogranulomatous pyelonephritis", "urinary tract infection (disease)", "Ureaplasma urethritis", "gonococcal urethritis"]
 description: "Pantothenic Acid: predicted new indication Congenital prothrombin deficiency (evidence level L5). In India: 1 listed product (1 not discontinued)"
@@ -97,9 +97,15 @@ The five papers retrieved for glycerol metabolism disease are metabolomics or mi
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 153595 | Nervic-Plus Injection (Unimarck Healthcare Ltd) | Vial of 2 ml injection | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 153595 | Nervic-Plus Injection | Vial of 2 ml Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

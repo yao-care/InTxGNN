@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Bimatoprost"
 predicted_indications: ["malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "Ambras type hypertrichosis universalis congenita", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "genetic alopecia", "pulmonary arteriovenous malformation (disease)"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Bimatoprost: predicted new indication malformation syndrome with odontal and/or periodontal component (evidence level L5). In India: at least 20 listed products"
 ---
 
@@ -70,15 +70,36 @@ Currently no related literature available.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 94471 | Ganfort Eye Drop | packet of 3 ml Eye Drop | Not recorded |
-| 30237 | Bimaton 0.03% Eye Drop | bottle of 3 ml Eye Drop | Not recorded |
-| 26597 | Bimapix 0.01% Eye Drop | bottle of 3 ml Eye Drop | Not recorded |
-| 26087 | Bimat Eye Drop | packet of 3 ml Ophthalmic Solution | Not recorded |
-| 26873 | Bimaday Eye Drop | packet of 3 ml Ophthalmic Solution | Not recorded |
+<!-- licenses:begin -->
 
-The list shows five of the 20 valid licences and may be partial.
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 26087 | Bimat Eye Drop | Packet of 3 ml Ophthalmic Solution | Valid |
+| 26597 | Bimapix 0.01% Eye Drop | Bottle of 3 ml Eye Drop | Valid |
+| 26873 | Bimaday Eye Drop | Packet of 3 ml Ophthalmic Solution | Valid |
+| 27436 | Bimadoc Eye Drop | Bottle of 3 ml Eye Drop | Valid |
+| 27466 | Bitod Eye Drop | Bottle of 3 ml Eye Drop | Valid |
+| 28458 | Bpros 0.03% Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 28728 | Bimto Eye Drop | Bottle of 3 ml Ophthalmic Solution | Valid |
+| 29805 | Bimato-T Eye Drop | Bottle of 3 ml Eye Drop | Valid |
+| 30237 | Bimaton 0.03% Eye Drop | Bottle of 3 ml Eye Drop | Valid |
+| 31519 | Bimaton T Eye Drop | Bottle of 3 ml Eye Drop | Valid |
+| 36873 | Careprost LS BKC Free Eye drop | Bottle of 3 ml Ophthalmic Solution | Valid |
+| 39668 | Coolprost Eye Drop | Bottle of 3 ml Eye Drop | Valid |
+| 94471 | Ganfort Eye Drop | Packet of 3 ml Eye Drop | Valid |
+| 122187 | Lashisma Solution (3ml Each) | Box of 2 Ophthalmic Solution | Valid |
+| 122197 | Lashisma Solution (3ml Each) | Packet of 3 ml Ophthalmic Solution | Valid |
+| 127006 | Longlash 0.01% Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 155650 | Nuprost Eye Drop | Packet of 3 ml Eye Drop | Valid |
+| 204898 | Sightim Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 244293 | Xyprost Eye Drop | Packet of 3 ml Eye Drop | Valid |
+| 244570 | Xabipro 0.03% Eye Drop | Bottle of 3 ml Eye Drop | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

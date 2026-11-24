@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 396
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 description: "Glutathione: known uses and market status in India; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -72,30 +72,36 @@ The TxGNN model has no candidate with a score of 0.99 or higher for Glutathione,
 
 ## India Market Information
 
-| Licence | Product | Dosage form | Status |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
 |------|------|------|------|
-| 95285 | Glutiprime Injection | vial of 1 Injection | Valid |
-| 215546 | Thiotres Injection | vial of 1 ml Injection | Valid |
-| 103964 | Hepafresh Injection | vial of 1 Injection | Valid |
-| 98904 | Gluclock 600 Injection | vial of 1 Injection | Valid |
-| 100765 | Glutafly 600mg Powder for Injection | vial of 1 Powder for Injection | Valid |
-| 185123 | Ralgyz Soft Gelatin Capsule | strip of 15 soft gelatin capsules | Valid |
-| 94420 | Glutaup 500mg Tablet | strip of 10 tablets | Valid |
-| 105694 | Hyglow 600mg Injection | vial of 1 Injection | Valid |
-| 95866 | GX 600 Injection | vial of 1 Injection | Valid |
-| 219940 | Thioclay Injection | vial of 1 Injection | Valid |
-| 79939 | Elgluta 600mg Injection | vial of 1 Injection | Valid |
-| 96547 | Glful TH 600mg Injection | vial of 1 Injection | Valid |
-| 99681 | Gluvit 600mg Injection | vial of 1 Injection | Valid |
-| 96263 | Glutaxim 600mg Injection | vial of 1 Injection | Valid |
-| 96033 | Gtlive Injection | vial of 1 Injection | Valid |
-| 138421 | Mapsthione 50 Tablet | strip of 10 tablets | Valid |
-| 98687 | Glutec 600mg Injection | vial of 1 Injection | Valid |
-| 75682 | Ethiglo 600mg Combipack Injection | vial of 1 Injection | Valid |
-| 101609 | Glutimin 600mg Injection | vial of 1 Injection | Valid |
-| 182108 | Primolev 600 Injection | vial of 1 Injection | Valid |
+| 75682 | Ethiglo 600mg Combipack Injection | Vial of 1 Injection | Valid |
+| 79939 | Elgluta 600mg Injection | Vial of 1 Injection | Valid |
+| 94420 | Glutaup 500mg Tablet | Strip of 10 tablets | Valid |
+| 95285 | Glutiprime Injection | Vial of 1 Injection | Valid |
+| 95866 | GX 600 Injection | Vial of 1 Injection | Valid |
+| 96033 | Gtlive Injection | Vial of 1 Injection | Valid |
+| 96263 | Glutaxim 600mg Injection | Vial of 1 Injection | Valid |
+| 96547 | Glful TH 600mg Injection | Vial of 1 Injection | Valid |
+| 98687 | Glutec 600mg Injection | Vial of 1 Injection | Valid |
+| 98904 | Gluclock 600 Injection | Vial of 1 Injection | Valid |
+| 99681 | Gluvit 600mg Injection | Vial of 1 Injection | Valid |
+| 100765 | Glutafly 600mg Powder for Injection | Vial of 1 Powder for Injection | Valid |
+| 101609 | Glutimin 600mg Injection | Vial of 1 Injection | Valid |
+| 103964 | Hepafresh Injection | Vial of 1 Injection | Valid |
+| 105694 | Hyglow 600mg Injection | Vial of 1 Injection | Valid |
+| 138421 | Mapsthione 50 Tablet | Strip of 10 tablets | Valid |
+| 182108 | Primolev 600 Injection | Vial of 1 Injection | Valid |
+| 185123 | Ralgyz Soft Gelatin Capsule | Strip of 15 soft gelatin capsules | Valid |
+| 215546 | Thiotres Injection | Vial of 1 ml Injection | Valid |
+| 219940 | Thioclay Injection | Vial of 1 Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
 
 Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Disclaimer
 

@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 625
 evidence_level: L2
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Oxaliplatin: predicted new indication Malignant pleural mesothelioma (evidence level L2). Approved use: Metastasis from malignant tumour of colon"
 monitor_inn: "Oxaliplatin"
 predicted_indications: ["malignant pleural mesothelioma", "malignant epithelioid mesothelioma", "sarcomatoid mesothelioma", "malignant visceral pleura tumor"]
@@ -89,13 +89,36 @@ However, the reported activity is modest and comparable to existing platinum reg
 
 Showing 5 of 20 valid registrations (all single-ingredient injectable products). Approved indication text was not available in the data compiled for this report.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 244700 | Xylotin 100mg Injection (Getwell Oncology) | Vial of 50 ml injection | Not listed |
-| 249482 | Zildox 100mg Injection (Miracalus Pharma) | Vial of powder for injection | Not listed |
-| 165036 | Oxitoz 50mg Injection (Intas Pharmaceuticals) | Vial of injection | Not listed |
-| 79782 | Es Oxali 100 Injection (Esperer Bioresearch) | Vial of injection | Not listed |
-| 167947 | Oxol 100mg Infusion (Venus Remedies) | Bottle of 50 ml infusion | Not listed |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 45476 | Celdach 50mg Injection | Vial of 1 Injection | Valid |
+| 66221 | Dacotin RTU 50 Injection | Vial of 1 Injection | Valid |
+| 79782 | Es Oxali 100 Injection | Vial of 1 Injection | Valid |
+| 92447 | Fexoplat 100mg Injection | Vial of 1 Injection | Valid |
+| 142051 | Megaplat 100mg Injection | Vial of 1 Injection | Valid |
+| 163850 | Oxa 100mg Infusion | Bottle of 50 ml Infusion | Valid |
+| 165036 | Oxitoz 50mg Injection | Vial of 1 Injection | Valid |
+| 166277 | Oxoplan 100mg Injection | Vial of 1 Injection | Valid |
+| 166541 | Oxalimax 100mg Injection | Vial of 1 Injection | Valid |
+| 166641 | Oxaltor 50mg Injection | Vial of 25 ml Injection | Valid |
+| 167037 | Oxoplan 50mg Injection | Vial of 1 ml Injection | Valid |
+| 167947 | Oxol 100mg Infusion | Bottle of 50 ml Infusion | Valid |
+| 169685 | Oxosar 100mg Injection | Vial of 1 Injection | Valid |
+| 172435 | Oxalycare 50mg Injection | Vial of 1 Injection | Valid |
+| 173328 | Oxalycare 100mg Injection | Vial of 1 Injection | Valid |
+| 196755 | Resox 100mg Injection | Vial of 1 Injection | Valid |
+| 244700 | Xylotin 100mg Injection | Vial of 50 ml Injection | Valid |
+| 244878 | Xalipat 50mg Injection | Vial of 1 Injection | Valid |
+| 245215 | Xalotin 50mg Injection | Vial of 1 Injection | Valid |
+| 249482 | Zildox 100mg Injection | Vial of 1 Powder for Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 340
 evidence_level: L4
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Febuxostat"
 predicted_indications: ["hypouricemia, renal", "hypoxanthine guanine phosphoribosyltransferase partial deficiency", "Lesch-Nyhan syndrome"]
 description: "Febuxostat: predicted new indication Hypouricemia, renal (evidence level L4). In India: at least 20 listed products"
@@ -79,15 +79,38 @@ Two other predictions were also generated: partial HPRT deficiency (Kelley-Seegm
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 68591 | Davstat 40 Tablet | Strip of 10 tablets | Not stated |
-| 89620 | Febumat 40mg Tablet | Strip of 10 tablets | Not stated |
-| 78762 | Ebuxo 120mg Tablet | Strip of 10 tablets | Not stated |
-| 84255 | Feboxa 40 Tablet (Sun Pharmaceutical) | Strip of 10 tablets | Not stated |
-| 76843 | Endeavours Furic 40mg Tablet (Lupin) | Strip of 10 tablets | Not stated |
+<!-- licenses:begin -->
 
-All 20 registrations are valid single-ingredient oral tablets (40 mg, 80 mg and 120 mg strengths); only five are shown here.
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 68591 | Davstat 40 Tablet | Strip of 10 tablets | Valid |
+| 76843 | Endeavours Furic 40mg Tablet | Strip of 10 tablets | Valid |
+| 78762 | Ebuxo 120mg Tablet | Strip of 10 tablets | Valid |
+| 84255 | Feboxa 40 Tablet | Strip of 10 tablets | Valid |
+| 86019 | Febugenix 40mg Tablet | Strip of 10 tablets | Valid |
+| 86025 | Febustar 40mg Tablet | Strip of 10 tablets | Valid |
+| 87331 | Feboxit 40 Tablet | Strip of 10 tablets | Valid |
+| 89118 | Fablen 40mg Tablet | Strip of 10 tablets | Valid |
+| 89123 | Febuwin 80mg Tablet | Strip of 10 tablets | Valid |
+| 89620 | Febumat 40mg Tablet | Strip of 10 tablets | Valid |
+| 90110 | Fabnar 40mg Tablet | Strip of 10 tablets | Valid |
+| 90669 | Febumed 40mg Tablet | Strip of 10 tablets | Valid |
+| 91353 | Febunip 80mg Tablet | Strip of 10 tablets | Valid |
+| 91492 | Febtac 40mg Tablet | Strip of 10 tablets | Valid |
+| 91671 | Febuglob 40mg Tablet | Strip of 10 tablets | Valid |
+| 119628 | Kinuxo 40mg Tablet | Strip of 10 tablets | Valid |
+| 231672 | Uricrak 40mg Tablet | Strip of 10 tablets | Valid |
+| 232083 | Uroxtat 40mg Tablet | Strip of 10 tablets | Valid |
+| 232123 | Urifrain 40 Tablet | Strip of 10 tablets | Valid |
+| 232920 | Uroxtat 80mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
+
+All 20 registrations are valid single-ingredient oral tablets (40 mg, 80 mg and 120 mg strengths).
 
 ## Safety Considerations
 

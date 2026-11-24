@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 826
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Tetrabenazine: predicted new indication Polycystic kidney disease 3 with or without polycystic liver disease (evidence level L5). Approved use: Huntington disease (also Huntington disease-like syndro…"
 monitor_inn: "Tetrabenazine"
 predicted_indications: ["polycystic kidney disease 3 with or without polycystic liver disease", "renal-hepatic-pancreatic dysplasia", "Joubert syndrome with renal defect", "karyomegalic interstitial nephritis", "thoracic malformation", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "acute intermittent porphyria", "adult familial nephronophthisis-spastic quadriparesia syndrome", "atypical glycine encephalopathy", "congenital disorder of glycosylation with defective fucosylation"]
@@ -64,13 +64,19 @@ The other top-ranked predictions (for example renal-hepatic-pancreatic dysplasia
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 847 | Atrest 25 Tablet | Strip of 10 tablets | Not specified |
-| 184214 | Revocon Tablet | Strip of 10 tablets | Not specified |
-| 216822 | Ticfree Tablet | Strip of 10 tablets | Not specified |
-| 215195 | Ticstop Tablet | Strip of 10 tablets | Not specified |
-| 977 | Atrest 12.5 Tablet | Strip of 10 tablets | Not specified |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 847 | Atrest 25 Tablet | Strip of 10 tablets | Valid |
+| 977 | Atrest 12.5 Tablet | Strip of 10 tablets | Valid |
+| 184214 | Revocon Tablet | Strip of 10 tablets | Valid |
+| 215195 | Ticstop Tablet | Strip of 10 tablets | Valid |
+| 216822 | Ticfree Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 All five registrations are valid single-ingredient oral tablets. None are cancelled.
 

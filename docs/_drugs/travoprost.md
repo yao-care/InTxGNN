@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 857
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Travoprost: predicted new indication Visceral calciphylaxis (evidence level L5). Approved use: Open-angle glaucoma, ocular hypertension"
 monitor_inn: "Travoprost"
 predicted_indications: ["visceral calciphylaxis", "arterial thoracic outlet syndrome", "venous thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "vascular disease", "angiodysplasia of stomach", "blue toe syndrome", "idiopathic spontaneous coronary artery dissection", "lymphangiectasis", "hemangioendothelioma"]
@@ -100,15 +100,38 @@ No publications were found for visceral calciphylaxis. The literature below was 
 
 ## India Market Information
 
-Travoprost has 20 valid single-ingredient registrations in India and none cancelled. Approved indication text is not listed in the registration data. Five main registrations are shown below.
+Travoprost has 20 valid single-ingredient registrations in India and none cancelled. Approved indication text is not listed in the registration data.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 227935 | Travina 0.004% Eye Drop | Bottle of 3 ml eye drop | Not listed |
-| 225842 | Tvpress Eye Drop | Packet of 3 ml eye drop | Not listed |
-| 220803 | Travosoft Eye Drop BAK Free | Bottle of 3 ml eye drop | Not listed |
-| 217594 | T Prost Eye Drop | Bottle of 3 ml ophthalmic solution | Not listed |
-| 215252 | Tovaxo Eye Drop BAK Free | Bottle of 2.5 ml eye drop | Not listed |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 1925 | Awarene PF Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 119645 | Klarprost Eye Drop | Bottle of 3 ml Eye Drop | Valid |
+| 121398 | Lupitros-Z Eye Drop BKC Free | Bottle of 3 ml Eye Drop | Valid |
+| 150801 | New Travisight Eye Drop | Bottle of 3 ml Eye Drop | Valid |
+| 163502 | Opacia Eye Drop | Bottle of 3 ml Eye Drop | Valid |
+| 186734 | Rayprost Eye Drop | Bottle of 3 ml Eye Drop | Valid |
+| 215252 | Tovaxo Eye Drop BAK Free | Bottle of 2.5 ml Eye Drop | Valid |
+| 215908 | Travoprost Eye Drop | Bottle of 2.5 ml Ophthalmic Solution | Valid |
+| 217249 | Travstar PF Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 217553 | Travo Eye Drop | Packet of 3 ml Eye Drop | Valid |
+| 217594 | T Prost Eye Drop | Bottle of 3 ml Ophthalmic Solution | Valid |
+| 218330 | Travoflo Eye Drop | Bottle of 3 ml Eye Drop | Valid |
+| 220803 | Travosoft Eye Drop BAK Free | Bottle of 3 ml Eye Drop | Valid |
+| 220853 | Travrx Eye Drop | Bottle of 3 ml Eye Drop | Valid |
+| 224540 | Travozym Eye Drop | Packet of 1 ml Eye Drop | Valid |
+| 224679 | Travozide 0.004% Eye Drop | Bottle of 3 ml Eye Drop | Valid |
+| 225842 | Tvpress Eye Drop | Packet of 3 ml Eye Drop | Valid |
+| 227935 | Travina 0.004% Eye Drop | Bottle of 3 ml Eye Drop | Valid |
+| 228338 | Travoder 0.004% Eye Drop | Bottle of 3 ml Eye Drop | Valid |
+| 248163 | Zytrav Eye Drop | Bottle of 3 ml Eye Drop | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 All products are ophthalmic formulations. No systemic dosage form is registered, which is a barrier for any systemic indication.
 

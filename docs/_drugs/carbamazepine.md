@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Carbamazepine"
 predicted_indications: ["trigeminal nerve neoplasm", "beta-ketothiolase deficiency", "Rett syndrome, congenital variant"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Carbamazepine: predicted new indication trigeminal nerve neoplasm (evidence level L5). In India: at least 20 listed products"
 ---
 
@@ -82,15 +82,38 @@ No retrieved publication studies carbamazepine as a treatment for trigeminal ner
 
 ## India Market Information
 
-Carbamazepine is marketed in India, with single-ingredient oral products on the market. The licence list below may be partial.
+Carbamazepine is marketed in India, with single-ingredient oral products on the market.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 18656 | Ametol 200mg Tablet | Strip of 10 tablets | Not recorded |
-| 92152 | Fobigone 200mg Tablet | Strip of 10 tablets | Not recorded |
-| 24134 | Arilep 200mg Tablet SR | Strip of 10 tablets SR | Not recorded |
-| 234021 | Versitol 200mg Tablet | Strip of 10 tablets | Not recorded |
-| 214822 | Tegrital 200 Tablet | Strip of 10 tablets | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 17755 | Acetol 400mg Tablet CR | Strip of 10 tablet cr | Valid |
+| 18656 | Ametol 200mg Tablet | Strip of 10 tablets | Valid |
+| 24134 | Arilep 200mg Tablet SR | Strip of 10 tablet sr | Valid |
+| 46478 | Carzine 200mg Tablet | Strip of 10 tablets | Valid |
+| 46623 | Carbesta 200mg Tablet | Strip of 10 tablets | Valid |
+| 47354 | Carbamax 200mg Tablet ER | Strip of 10 tablet er | Valid |
+| 49342 | Carmaz Kid 100mg Tablet | Strip of 10 tablets | Valid |
+| 50708 | Carbasafe 100mg Tablet | Strip of 10 tablets | Valid |
+| 51201 | Carbapa 200mg Tablet | Strip of 10 tablets | Valid |
+| 55755 | Carz 200mg Tablet | Strip of 10 tablets | Valid |
+| 80150 | Evic SR 400mg Tablet | Strip of 10 tablet sr | Valid |
+| 92152 | Fobigone 200mg Tablet | Strip of 10 tablets | Valid |
+| 209202 | Seizurone 200mg Tablet | Strip of 10 tablets | Valid |
+| 214822 | Tegrital 200 Tablet | Strip of 10 tablets | Valid |
+| 224929 | Tegtol 200mg Tablet CR | Strip of 10 tablet cr | Valid |
+| 233879 | Versitol Retard 200 Tablet PR | Strip of 10 Tablet pr | Valid |
+| 234021 | Versitol 200mg Tablet | Strip of 10 tablets | Valid |
+| 238254 | Versitol 300mg Tablet SR | Strip of 10 tablet sr | Valid |
+| 246565 | Zeptol 200 Tablet | Strip of 10 tablets | Valid |
+| 246689 | Zeptol 100 Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

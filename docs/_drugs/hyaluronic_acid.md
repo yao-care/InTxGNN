@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 410
 evidence_level: L3
 indication_count: 9
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 monitor_inn: "Hyaluronic acid"
 predicted_indications: ["Sjogren syndrome", "xerophthalmia", "psoriasis", "dermatitis, atopic", "prolapse of lacrimal gland", "parapsoriasis", "pityriasis lichenoides", "severe nonproliferative diabetic retinopathy", "exanthem (disease)"]
 description: "Hyaluronic Acid: predicted new indication Sjogren syndrome (evidence level L3). In India: at least 20 listed products"
@@ -87,15 +87,38 @@ No registered trial tests hyaluronic acid directly in Sjogren syndrome.
 
 ## India Market Information
 
-Hyaluronic acid is marketed in India, and all licences in the data compiled for this report are valid. The list below shows five main authorizations and may be partial.
+Hyaluronic acid is marketed in India, and all licences in the data compiled for this report are valid.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 103750 | Hyalgan Injection | Prefilled syringe of 2 ml, injection | Not specified |
-| 234935 | Viscosafe 14mg Injection | Vial of 1 ml, injection | Not specified |
-| 247678 | Zyonate 14mg Injection | Vial, injection | Not specified |
-| 104311 | Hyaluron 200mg Tablet | Strip of 10 tablets | Not specified |
-| 87764 | Fain 0.5% Gel | Tube of 10 gm, gel | Not specified |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 29621 | Bio Viseon 14mg Injection | Vial of 1 ml Injection | Valid |
+| 41335 | C-Infinity Face Serum | Pump bottle of 30 ml Serum | Valid |
+| 60562 | Deflux Injection | Vial of 1 ml Injection | Valid |
+| 87764 | Fain 0.5% Gel | Tube of 10 gm Gel | Valid |
+| 103750 | Hyalgan Injection | Prefilled syringe of 2 ml Injection | Valid |
+| 103937 | Hyruan One Injection | Prefilled syringe of 3 ml Injection | Valid |
+| 104040 | HA Kem 8mg Injection | Vial of 1 Injection | Valid |
+| 104311 | Hyaluron 200mg Tablet | Strip of 10 tablets | Valid |
+| 104452 | Hyorth XL 8mg Injection | Vial of 6 ml Injection | Valid |
+| 105081 | Hynov 8mg Injection | Vial of 1 Injection | Valid |
+| 105275 | Hyopt Plus 14mg Injection | Vial of 1 Injection | Valid |
+| 105475 | Hyflex Injection | Vial of 2 ml Injection | Valid |
+| 117527 | Kineflex-One Injection | Vial of 6 ml Injection | Valid |
+| 123351 | Lubrione 20mg Injection | Vial of 3 ml Injection | Valid |
+| 132324 | Lift Activ Serum | Bottle of 30 ml Serum | Valid |
+| 176115 | Pearldew Anti Aging Cream | Tube of 50 gm Cream | Valid |
+| 185399 | Radiasoft Cream | Tube of 100 gm Cream | Valid |
+| 234935 | Viscosafe 14mg Injection | Vial of 1 ml Injection | Valid |
+| 236129 | Viscosafe 10mg Injection | Vial of 1 ml Injection | Valid |
+| 247678 | Zyonate 14mg Injection | Vial of 1 Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

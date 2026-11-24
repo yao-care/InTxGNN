@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 255
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 description: "Dexpanthenol: predicted new indication Anorectal stricture (evidence level L5). Approved use: Paralytic ileus, intestinal obstruction, gastroparesis, atopic eczema…"
 monitor_inn: "Dexpanthenol"
 predicted_indications: ["anorectal stricture", "imperforate anus", "anal polyp", "vulvar inverted follicular keratosis", "proctitis", "exanthem (disease)", "punctate epithelial keratoconjunctivitis"]
@@ -84,13 +84,19 @@ Currently no related literature available.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 175586 | Panthobic Gel | Tube of 5 gm Eye Gel | Not specified |
-| 201487 | Softvisc Gel | Tube of 5 gm Ophthalmic Gel | Not specified |
-| 109659 | IO-Panthe Ophthalmic Gel | Tube of 5 gm Ophthalmic Gel | Not specified |
-| 174290 | Panthol-D Eye Gel | Tube of 5 gm Ophthalmic Gel | Not specified |
-| 121915 | Lubrex-PM Eye Gel | Tube of 5 gm Eye Gel | Not specified |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 109659 | IO-Panthe Ophthalmic Gel | Tube of 5 gm Ophthalmic Gel | Valid |
+| 121915 | Lubrex-PM Eye Gel | Tube of 5 gm Eye Gel | Valid |
+| 174290 | Panthol-D Eye Gel | Tube of 5 gm Ophthalmic Gel | Valid |
+| 175586 | Panthobic Gel | Tube of 5 gm Eye Gel | Valid |
+| 201487 | Softvisc Gel | Tube of 5 gm Ophthalmic Gel | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 All five licenses are valid single-ingredient ophthalmic gels. No oral, rectal, or other topical dermatological forms are registered, which matters for any anorectal use.
 

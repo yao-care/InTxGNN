@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 525
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 description: "Mephentermine: predicted new indication Postural orthostatic tachycardia syndrome (evidence level L5). Approved use: Hypotensive disorder"
 monitor_inn: "Mephentermine"
 predicted_indications: ["postural orthostatic tachycardia syndrome", "sinoatrial node disease", "sinoatrial block", "variably protease-sensitive prionopathy"]
@@ -68,13 +68,20 @@ Other lower-ranked predictions were also generated, but they are weaker:
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 214828 | Termin 30mg Injection | Vial of 10 ml injection | Not stated in the data compiled |
-| 216311 | Termin 15mg Injection | Vial of 1 ml injection | Not stated in the data compiled |
-| 136078 | Mephentine 15mg Injection | Vial of 1 ml injection | Not stated in the data compiled |
-| 133933 | Mephentine 30mg Injection | Vial of 10 ml injection | Not stated in the data compiled |
-| 179666 | Phentin 15mg Injection | Vial of 1 ml injection | Not stated in the data compiled |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 133933 | Mephentine 30mg Injection | Vial of 10 ml Injection | Valid |
+| 136078 | Mephentine 15mg Injection | Vial of 1 ml Injection | Valid |
+| 179666 | Phentin 15mg Injection | Vial of 1 ml Injection | Valid |
+| 214828 | Termin 30mg Injection | Vial of 10 ml Injection | Valid |
+| 216311 | Termin 15mg Injection | Vial of 1 ml Injection | Valid |
+| 216899 | Termiva Injection | Vial of 10 ml Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 A sixth valid single-ingredient registration (216899, Termiva Injection, vial of 10 ml) is also on record. All six registrations are injectable products, and none is cancelled.
 

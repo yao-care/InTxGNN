@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 638
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Paliperidone: predicted new indication Retinal dystrophy with or without extraocular anomalies (evidence level L5). Approved use: Schizophrenia (also psychotic disorder, schizophreniform disorder…"
 monitor_inn: "Paliperidone"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "myopia X-linked", "syndromic myopia", "hydranencephaly (disease)", "congenital disorder of glycosylation with defective fucosylation", "myopia 26, X-linked, female-limited", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "atypical glycine encephalopathy"]
@@ -75,15 +75,33 @@ Currently no related literature available.
 
 ## India Market Information
 
-Paliperidone is marketed in India, with 17 valid single-ingredient registrations and no cancelled ones. Main examples are below.
+Paliperidone is marketed in India, with 17 valid single-ingredient registrations and no cancelled ones.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| 182626 | Peridol-OD 1.5 Tablet | Extended-release tablet (strip of 10) | Consern Pharma Limited |
-| 178539 | Paliris 3 Tablet ER | Extended-release tablet (strip of 14) | Sun Pharmaceutical Industries Ltd |
-| 174553 | Palido-OD 3 Tablet ER | Extended-release tablet (strip of 10) | Torrent Pharmaceuticals Ltd |
-| 177340 | Palip 6mg Tablet XR | Extended-release tablet (strip of 10) | Intas Pharmaceuticals Ltd |
-| 108501 | Invega Sustenna 75mg Injection | Injection (vial of 1) | Janssen Pharmaceuticals |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 108344 | Invega Sustenna 150mg Injection | Vial of 1 Injection | Valid |
+| 108501 | Invega Sustenna 75mg Injection | Vial of 1 Injection | Valid |
+| 108599 | Invega Sustenna 100mg Injection | Vial of 1 ml Injection | Valid |
+| 174553 | Palido-OD 3 Tablet ER | Strip of 10 tablet er | Valid |
+| 175005 | Palido-OD 6 Tablet ER | Strip of 10 tablet er | Valid |
+| 175544 | Palip XR 3 Tablet | Strip of 10 tablet er | Valid |
+| 177340 | Palip 6mg Tablet XR | Strip of 10 tablet xr | Valid |
+| 178539 | Paliris 3 Tablet ER | Strip of 14 tablet er | Valid |
+| 178661 | Paliris 9mg Tablet | Strip of 14 tablets | Valid |
+| 179034 | Palido-OD 1.5 Tablet ER | Strip of 10 tablet er | Valid |
+| 180405 | Peridol-OD 3 Tablet | Strip of 10 tablet er | Valid |
+| 180758 | Paliris 6mg Tablet | Strip of 7 tablets | Valid |
+| 180934 | Palicalm 6mg Tablet ER | Strip of 10 tablet er | Valid |
+| 181560 | Palica OD 9mg Tablet | Strip of 10 tablets | Valid |
+| 181678 | Palica OD 6mg Tablet | Strip of 10 tablets | Valid |
+| 182538 | Palido-OD 9mg Tablet | Strip of 10 tablets | Valid |
+| 182626 | Peridol-OD 1.5 Tablet | Strip of 10 tablet er | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 Other registrations include further oral strengths (1.5 mg to 9 mg) and Invega Sustenna 100 mg and 150 mg injections.
 

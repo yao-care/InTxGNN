@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 815
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Tenecteplase"
 predicted_indications: ["congenital coronary artery anomaly", "coronary stenosis", "partial deletion of the short arm of chromosome 16", "beta-thalassemia with other manifestations", "hemolytic anemia due to glucophosphate isomerase deficiency", "pyropoikilocytosis, hereditary", "pyruvate kinase deficiency of red cells"]
 description: "Tenecteplase: predicted new indication Congenital coronary artery anomaly (evidence level L5). In India: 9 listed products (9 not discontinued)"
@@ -81,13 +81,23 @@ For context, the literature retrieved for other predicted indications is limited
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 216966 | Tenectelex 40mg Injection (Abbott Healthcare) | Vial of 1 injection | Not stated in the compiled data |
-| 216255 | Telyse 40mg Injection (Cipla) | Vial of 1 injection | Not stated in the compiled data |
-| 215711 | Tenecterel 40mg Injection Kit (Reliance Life Sciences) | Box of 1 injection | Not stated in the compiled data |
-| 134905 | Metalyse 40mg Injection (Boehringer Ingelheim) | Vial of 1 injection | Not stated in the compiled data |
-| 236600 | Velix 50mg Injection (Emcure) | Vial of 1 injection | Not stated in the compiled data |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 72464 | Elaxim 40 Injection | Vial of 1 Injection | Valid |
+| 73094 | Elaxim 30 Injection | Vial of 1 Injection | Valid |
+| 134905 | Metalyse 40mg Injection | Vial of 1 Injection | Valid |
+| 215366 | Tenectase 20mg Injection | Vial of 1 Injection | Valid |
+| 215711 | Tenecterel 40mg Injection Kit | Box of 1 Injection | Valid |
+| 216255 | Telyse 40mg Injection | Vial of 1 Injection | Valid |
+| 216966 | Tenectelex 40mg Injection | Vial of 1 Injection | Valid |
+| 217571 | Tenecterel 30mg Injection Kit | Box of 1 Injection | Valid |
+| 236600 | Velix 50mg Injection | Vial of 1 Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 Nine valid single-ingredient licences are registered in total. Gennova Biopharmaceuticals holds three of them (Elaxim 30, Elaxim 40 and Tenectase 20), and Reliance Life Sciences holds a second one (Tenecterel 30mg).
 

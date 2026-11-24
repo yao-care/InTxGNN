@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 356
 evidence_level: L3
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Flecainide: predicted new indication Stroke disorder (evidence level L3). Approved use: Atrial fibrillation"
 monitor_inn: "Flecainide"
 predicted_indications: ["stroke disorder", "sick sinus syndrome 2, autosomal dominant", "ABri amyloidosis", "sarcoglycanopathy", "Wildervanck syndrome", "macrocephaly, dysmorphic facies, and psychomotor retardation", "duodenal obstruction", "cerebrovascular disorder", "nephrogenic syndrome of inappropriate antidiuresis"]
@@ -94,10 +94,16 @@ The link is only indirect, however. No data compiled for this report show that f
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Registration No. 84570 | Flecarite 100 Tablet (Torrent Pharmaceuticals Ltd) | Strip of 10 tablets | Not stated in the data compiled |
-| Registration No. 84282 | Flecarite 50 Tablet (Torrent Pharmaceuticals Ltd) | Strip of 10 tablets | Not stated in the data compiled |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 84282 | Flecarite 50 Tablet | Strip of 10 tablets | Valid |
+| 84570 | Flecarite 100 Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ---
 

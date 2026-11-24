@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 217
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cyclopentolate: predicted new indication Cauda equina syndrome (evidence level L5). Approved use: Cycloplegia"
 monitor_inn: "Cyclopentolate"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "irritable bowel syndrome"]
@@ -72,13 +72,36 @@ The high TxGNN score is a computational prediction only and should not be read a
 
 Cyclopentolate is marketed in India with 20 valid single-ingredient registrations, all ophthalmic (eye drops or ophthalmic solutions). Approved indication text was not available for these products.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 42776 | Cyclopen D Eye Drop | 5 ml Eye Drop (packet) | Not available |
-| 43571 | Cylate Eye Drop | 5 ml Eye Drop (packet) | Not available |
-| 76372 | Eslate Eye Drops | 5 ml Ophthalmic Solution (bottle) | Not available |
-| 39143 | Cyclate Eye Drop | 5 ml Eye Drop (packet) | Not available |
-| 163305 | Open Eye Drop | 5 ml Eye Drop (bottle) | Not available |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 7497 | Auropent Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 35169 | Cyclomid Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 36779 | Cyclofez Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 37043 | C Pent Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 39143 | Cyclate Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 39227 | Cyclopen Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 42776 | Cyclopen D Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 42886 | Cyclodex Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 43187 | Cepenta Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 43571 | Cylate Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 44839 | Cp Dilate 1% Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 46714 | Cyclin 1% Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 47758 | Cyclopent DM Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 48457 | Cycloray 1% Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 50227 | Cyclate Drop | Bottle of 5 ml Eye Drop | Valid |
+| 52131 | Cycleen 1% Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 76372 | Eslate Eye Drops | Bottle of 5 ml Ophthalmic Solution | Valid |
+| 163305 | Open Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 174841 | Pentol Eye Drop | Bottle of 3 ml Eye Drop | Valid |
+| 178507 | Pentocyl Eye Drop | Packet of 5 ml Ophthalmic Solution | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

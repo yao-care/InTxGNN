@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 754
 evidence_level: L3
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ropivacaine: predicted new indication Migraine disorder (evidence level L3). Approved use: Not stated in the licence records compiled for this report (a local a…"
 monitor_inn: "Ropivacaine"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "nephrogenic syndrome of inappropriate antidiuresis", "dysthymic disorder"]
@@ -81,13 +81,33 @@ Other predicted indications were weaker. Migraine with brainstem aura likely sco
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 154070 | Naropin 0.2% Injection (AstraZeneca) | Vial of 30 ml injection | Not stated in licence records |
-| 191096 | Ropizuva 2mg Injection (Abbott) | Ampoule of 1 ml injection | Not stated in licence records |
-| 192133 | Ropizuva 7.5mg Injection (Abbott) | Ampoule of 1 ml injection | Not stated in licence records |
-| 184883 | Ropin 0.2% Injection (Neon Laboratories) | Vial of 20 ml injection | Not stated in licence records |
-| 192840 | Rocaine 5mg Injection (Gland Pharma) | Vial of 10 ml injection | Not stated in licence records |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 154070 | Naropin 0.2% Injection | Vial of 30 ml Injection | Valid |
+| 184883 | Ropin 0.2% Injection | Vial of 20 ml Injection | Valid |
+| 185538 | Ropin 0.75% Injection | Vial of 20 ml Injection | Valid |
+| 185648 | Ropin Injection | Vial of 10 ml Injection | Valid |
+| 189454 | Ropin Injection | Vial of 20 ml Injection | Valid |
+| 191096 | Ropizuva 2mg Injection | Ampoule of 1 ml Injection | Valid |
+| 191368 | Ropicain 0.2% Injection | Vial of 30 ml Injection | Valid |
+| 191810 | Ropin 0.2% Injection | Vial of 50 ml Injection | Valid |
+| 192133 | Ropizuva 7.5mg Injection | Ampoule of 1 ml Injection | Valid |
+| 192840 | Rocaine 5mg Injection | Vial of 10 ml Injection | Valid |
+| 193009 | Ropee Injection | Vial of 20 ml Injection | Valid |
+| 194701 | Ropicain 5mg Injection | Vial of 30 ml Injection | Valid |
+| 194790 | Rocaine 10mg Injection | Vial of 20 ml Injection | Valid |
+| 195029 | Ropin 0.2% Injection | Vial of 10 ml Injection | Valid |
+| 197208 | Ropee 0.75% Injection | Vial of 20 ml Injection | Valid |
+| 197883 | Ropifix 0.75% Injection | Ampoule of 4 ml Injection | Valid |
+| 227339 | Trustrop 5mg Injection | Vial of 20 ml Injection | Valid |
+| 227435 | Trustrop 0.75% Injection | Ampoule of 20 ml Injection | Valid |
+| 227762 | Trustrop 0.20% Injection | Vial of 20 ml Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 All 19 registrations are single-ingredient injectables and all are currently valid.
 

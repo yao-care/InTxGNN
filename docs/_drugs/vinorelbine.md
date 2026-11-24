@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 892
 evidence_level: L2
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Vinorelbine"
 predicted_indications: ["Ewing sarcoma", "fibromatosis, gingival", "fibroma of lung", "pulmonary sulcus neoplasm", "lung germ cell tumor", "hamartoma of lung", "lung benign neoplasm", "pulmonary blastoma"]
 description: "Vinorelbine: predicted new indication Ewing sarcoma (evidence level L2). In India: 13 listed products (13 not discontinued)"
@@ -83,15 +83,29 @@ This indication rests on combination regimens in relapsed or refractory disease.
 
 ## India Market Information
 
-The data compiled for this report show 13 valid single-ingredient injectable registrations. No approved-indication text is available for any of them. The main ones are:
+The data compiled for this report show 13 valid single-ingredient injectable registrations. No approved-indication text is available for any of them.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 235620 | Vinelbine 50mg Injection | Vial of 5 ml injection | Not listed |
-| 155286 | Neoben 50mg Injection | Vial of 5 ml injection | Not listed |
-| 152662 | Navelbine 50mg Injection | Vial of 5 ml injection | Not listed |
-| 237957 | Vinrel 50mg Injection | Vial of 5 ml injection | Not listed |
-| 251847 | Zorelbin 50mg Injection | Vial of 5 ml injection | Not listed |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 50777 | Cevin 10mg Injection | Vial of 1 Injection | Valid |
+| 152662 | Navelbine 50mg Injection | Vial of 5 ml Injection | Valid |
+| 155091 | Navelbine 10mg Injection | Vial of 1 ml Injection | Valid |
+| 155286 | Neoben 50mg Injection | Vial of 5 ml Injection | Valid |
+| 155937 | Neoben 10mg Injection | Vial of 1 ml Injection | Valid |
+| 195319 | Relbovin 10mg Injection | Vial of 1 ml Injection | Valid |
+| 235620 | Vinelbine 50mg Injection | Vial of 5 ml Injection | Valid |
+| 236280 | Vinelbine 10mg Injection | Vial of 1 ml Injection | Valid |
+| 237191 | Vinbicel 50 Injection | Vial of 5 ml Injection | Valid |
+| 237905 | Vinrel 10mg Injection | Vial of 1 Injection | Valid |
+| 237957 | Vinrel 50mg Injection | Vial of 5 ml Injection | Valid |
+| 240195 | Vinbicel 10mg Injection | Vial of 1 Injection | Valid |
+| 251847 | Zorelbin 50mg Injection | Vial of 5 ml Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "diatrizoate"
 predicted_indications: ["rheumatoid arthritis"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 description: "Diatrizoate: predicted new indication Rheumatoid arthritis (evidence level L5). Approved use: Not stated in the licence data compiled for this report"
 ---
 
@@ -80,9 +80,15 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Registration No. 221587 | Trazograf 0.66gm/0.1gm Infusion | Bottle of 100 ml infusion | Not stated in the licence data |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 221587 | Trazograf 0.66gm/0.1gm Infusion | Bottle of 100 ml Infusion | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 The manufacturer is J B Chemicals and Pharmaceuticals Ltd. This is the only licence, and it is a valid single-ingredient registration.
 

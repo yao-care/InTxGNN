@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 801
 evidence_level: L2
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Sunitinib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "dermatofibrosarcoma protuberans", "angiolipoma", "heart fibrosarcoma"]
 description: "Sunitinib: predicted new indication Liposarcoma (evidence level L2). In India: at least 20 listed products"
@@ -84,13 +84,36 @@ Three further publications were retrieved (a regorafenib trial protocol, a myxoi
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 208964 | Sutent 25mg Capsule (Pfizer Ltd) | Strip of 7 capsules | Not stated |
-| 208965 | Sutent 50mg Capsule (Pfizer Ltd) | Strip of 7 capsules | Not stated |
-| 208966 | Sutent 12.5mg Capsule (Pfizer Ltd) | Strip of 7 capsules | Not stated |
-| 207188 | Sutib 12.5 Capsule (Glenmark Pharmaceuticals Ltd) | Strip of 7 capsules | Not stated |
-| 211416 | Svitinib 25 Capsule (Mylan Pharmaceuticals Pvt Ltd) | Strip of 7 capsules | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 16264 | Adsunib 12.5 Capsule | Bottle of 28 capsules | Valid |
+| 203317 | Sutib 25 Capsule | Strip of 7 capsules | Valid |
+| 203398 | Sunisam 50mg Capsule | Strip of 7 capsules | Valid |
+| 203853 | Sutinat 25 Capsule | Bottle of 28 capsules | Valid |
+| 203998 | Sunimaps 25mg Tablet | Strip of 7 tablets | Valid |
+| 204851 | Sunitax 12.5 Capsule | Strip of 7 capsules | Valid |
+| 205749 | Sunimaps 50mg Tablet | Strip of 7 tablets | Valid |
+| 206425 | Sunicine 50mg Capsule | Bottle of 28 capsules | Valid |
+| 206683 | Sunisam 25mg Capsule | Strip of 7 capsules | Valid |
+| 207188 | Sutib 12.5 Capsule | Strip of 7 capsules | Valid |
+| 208882 | Sunisam 12.5mg Capsule | Strip of 7 capsules | Valid |
+| 208964 | Sutent 25mg Capsule | Strip of 7 capsules | Valid |
+| 208965 | Sutent 50mg Capsule | Strip of 7 capsules | Valid |
+| 208966 | Sutent 12.5mg Capsule | Strip of 7 capsules | Valid |
+| 209101 | Sunicine 25mg Capsule | Bottle of 28 capsules | Valid |
+| 210286 | Sunimaps 12.5mg Tablet | Strip of 7 tablets | Valid |
+| 210290 | Sunicine Capsule | Bottle of 28 capsules | Valid |
+| 211416 | Svitinib 25 Capsule | Strip of 7 capsules | Valid |
+| 211503 | Sunitax 25 Capsule | Strip of 7 capsules | Valid |
+| 225988 | Tunib 12.5 Capsule | Bottle of 28 capsules | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 There are 20 valid single-ingredient registrations in total, covering capsules and tablets in 12.5 mg, 25 mg and 50 mg strengths.
 

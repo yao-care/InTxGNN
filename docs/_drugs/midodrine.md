@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 551
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Midodrine"
 predicted_indications: ["variably protease-sensitive prionopathy", "faciodigitogenital syndrome", "attention deficit-hyperactivity disorder", "hypotensive disorder", "attention deficit hyperactivity disorder, inattentive type", "sinoatrial node disease", "monogenic obesity", "specific developmental disorder", "obsolete hypertelorism (disease)", "sinoatrial block"]
 description: "Midodrine: predicted new indication Variably protease-sensitive prionopathy (evidence level L5). In India: at least 20 listed products"
@@ -79,15 +79,38 @@ Currently no related literature available.
 
 ## India Market Information
 
-Midodrine has 20 valid single-ingredient registrations, all oral tablets, and none is cancelled. The registration records contain no approved-indication text. Five main registrations:
+Midodrine has 20 valid single-ingredient registrations, all oral tablets, and none is cancelled. The registration records contain no approved-indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 35010 | Cipmido 5mg Tablet (Cipla Ltd) | Strip of 30 tablets | Not stated in registration records |
-| 136336 | Midorise 10 Tablet (Torrent Pharmaceuticals Ltd) | Strip of 10 tablets | Not stated in registration records |
-| 134466 | Midora Tablet (Dr Reddy's Laboratories Ltd) | Strip of 30 tablets | Not stated in registration records |
-| 108355 | Inramed 5 Tablet (Mylan Pharmaceuticals Pvt Ltd) | Strip of 10 tablets | Not stated in registration records |
-| 133846 | Midodrive Tablet (Sun Pharmaceutical Industries Ltd) | Strip of 20 tablets | Not stated in registration records |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 810 | Aladrine 2.5mg Tablet | Bottle of 60 tablets | Valid |
+| 1433 | Actiful 2.5mg Tablet | Strip of 15 tablets | Valid |
+| 34778 | Cipmido 2.5mg Tablet | Strip of 20 tablets | Valid |
+| 35010 | Cipmido 5mg Tablet | Strip of 30 tablets | Valid |
+| 94213 | Gutron 2.5mg Tablet | Strip of 20 tablets | Valid |
+| 104034 | Hypodrin 2.5 Tablet | Strip of 10 tablets | Valid |
+| 108184 | Inramed 2.5 Tablet | Bottle of 100 tablets | Valid |
+| 108355 | Inramed 5 Tablet | Strip of 10 tablets | Valid |
+| 113966 | Jolavi Tablet | Strip of 10 tablets | Valid |
+| 133820 | Midgeo Tablet | Strip of 10 tablets | Valid |
+| 133846 | Midodrive Tablet | Strip of 20 tablets | Valid |
+| 134070 | Midorise 5 Tablet | Strip of 10 tablets | Valid |
+| 134247 | Midotab 2.5 Tablet | Strip of 20 tablets | Valid |
+| 134375 | Midorise 2.5 Tablet | Strip of 20 tablets | Valid |
+| 134466 | Midora Tablet | Strip of 30 tablets | Valid |
+| 136213 | Midotril 2.5mg Tablet | Strip of 20 tablets | Valid |
+| 136336 | Midorise 10 Tablet | Strip of 10 tablets | Valid |
+| 136807 | Midores 2.5 Tablet | Strip of 10 tablets | Valid |
+| 243791 | Xidorin Tablet | Strip of 20 tablets | Valid |
+| 243853 | Xidorin 5 Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ---
 

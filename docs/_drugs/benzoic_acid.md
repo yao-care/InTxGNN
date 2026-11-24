@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Benzoic acid"
 predicted_indications: ["bronchitis", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "dry eye syndrome", "palmar fibromatosis", "Ledderhose disease", "infantile digital fibromatosis", "hereditary angioedema with C1Inh deficiency", "posterior leukoencephalopathy syndrome", "C1 inhibitor deficiency"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 description: "Benzoic Acid: predicted new indication bronchitis (evidence level L5). In India: 3 listed products (3 not discontinued)"
 ---
 
@@ -73,11 +73,17 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 60907 | Dersol BH Ointment | Tube of 30 gm ointment | Not recorded |
-| 115674 | Keralin Ointment | Tube of 15 gm ointment | Not recorded |
-| 72830 | Exsora Ointment | Tube of 15 gm ointment | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 60907 | Dersol BH Ointment | Tube of 30 gm Ointment | Valid |
+| 72830 | Exsora Ointment | Tube of 15 gm Ointment | Valid |
+| 115674 | Keralin Ointment | Tube of 15 gm Ointment | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

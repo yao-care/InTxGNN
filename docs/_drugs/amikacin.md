@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 48
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Amikacin: predicted new indication Paratyphoid fever (evidence level L5). Approved use: Bacterial pneumonia, Pseudomonas aeruginosa infection…"
 monitor_inn: "Amikacin"
 predicted_indications: ["paratyphoid fever", "diffuse scleroderma", "punctate epithelial keratoconjunctivitis", "typhoid fever", "epiglottitis", "salmonellosis", "congenital analbuminemia", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "meningococcemia"]
@@ -83,13 +83,36 @@ Currently no related clinical trials registered.
 
 Approved indication text is not available for these registrations.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| 20010 | Ambix 500mg Injection | Vial of 1 injection | Biobrick Pharma |
-| 25443 | Amitop 500mg Injection | Vial of 2 ml injection | Veliko Pharmacls |
-| 25160 | Amicid 250mg Injection | Vial of 1 injection | Indus Pharma Pvt Ltd |
-| 149071 | Mikadef 500mg Injection | Vial of 2 ml injection | Clabert Lifesciences Pvt Ltd |
-| 148230 | Mikmor 100mg Injection | Vial of 1 injection | Moral Pharmaceuticals |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 18068 | Amitus 100mg Injection | Vial of 1 Injection | Valid |
+| 20010 | Ambix 500mg Injection | Vial of 1 Injection | Valid |
+| 21336 | Amikamin 100mg Injection | Vial of 2 ml Injection | Valid |
+| 22646 | Amtric 250 Injection | Vial of 1 Injection | Valid |
+| 24332 | Amizom 100mg Injection | Vial of 1 Injection | Valid |
+| 25160 | Amicid 250mg Injection | Vial of 1 Injection | Valid |
+| 25443 | Amitop 500mg Injection | Vial of 2 ml Injection | Valid |
+| 33349 | Betakacin 500mg Injection | Vial of 2 ml Injection | Valid |
+| 82501 | Elmik 500mg Injection | Vial of 2 ml Injection | Valid |
+| 112688 | Ikacin 500mg Injection | Vial of 2 ml Injection | Valid |
+| 140878 | Mik 250mg Injection | Vial of 2 ml Injection | Valid |
+| 148230 | Mikmor 100mg Injection | Vial of 1 Injection | Valid |
+| 149015 | Mikadil 100 Injection | Vial of 2 ml Injection | Valid |
+| 149071 | Mikadef 500mg Injection | Vial of 2 ml Injection | Valid |
+| 150047 | Mikawinn 500mg Injection | Vial of 1 Injection | Valid |
+| 150086 | Mikanes 500mg Injection | Vial of 1 Injection | Valid |
+| 160847 | Narish 250mg Injection | Vial of 1 Injection | Valid |
+| 170930 | Oin 500mg Injection | Vial of 1 Injection | Valid |
+| 241229 | Vesnik 500mg Injection | Vial of 2 ml Injection | Valid |
+| 241405 | Vicemika 100mg Injection | Vial of 2 ml Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 All 20 registrations are valid single-ingredient injectable products.
 

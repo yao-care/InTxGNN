@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 617
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Olmesartan: predicted new indication Prinzmetal angina (evidence level L5). Approved use: Not stated in the available licence data (olmesartan is an ARB…"
 monitor_inn: "olmesartan"
 predicted_indications: ["Prinzmetal angina", "hypotrichosis simplex of the scalp", "migraine disorder", "alopecia", "pulmonary hypertension", "congenital hypotrichosis milia", "diffuse alopecia areata", "migraine with brainstem aura", "kyphoscoliotic heart disease", "open-angle glaucoma"]
@@ -109,15 +109,38 @@ Preclinical evidence for pulmonary hypertension:
 
 ## India Market Information
 
-Twenty valid registrations are listed. Approved indication text is not available for any of them. Main examples:
+Twenty valid registrations are listed. Approved indication text is not available for any of them.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 161843 | Olmin Trio 40 Tablet (Eris Lifesciences) | Strip of 10 tablets | Not available |
-| 164832 | Olmedox 20mg Tablet (Caplet India) | Strip of 10 tablets | Not available |
-| 164446 | Olmy-CH 20mg/12.5mg Tablet (Zydus Cadila) | Strip of 10 tablets | Not available |
-| 169144 | Olmesat AM 20mg/5mg Tablet (Biocon) | Strip of 10 tablets | Not available |
-| 162087 | Olmy-D 40 Tablet SR (Zydus Cadila) | Strip of 10 tablet SR | Not available |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 127841 | Levisar 40mg Tablet | Strip of 10 tablets | Valid |
+| 161843 | Olmin Trio 40 Tablet | Strip of 10 tablets | Valid |
+| 162087 | Olmy-D 40 Tablet SR | Strip of 10 tablet sr | Valid |
+| 162176 | Olkem 20 AM Tablet | Strip of 15 tablets | Valid |
+| 162356 | Olmeblu 40 Tablet | Strip of 15 tablets | Valid |
+| 162396 | Omen 20 Tablet | Strip of 10 tablets | Valid |
+| 163724 | Osarten AH 40mg/5mg/12.5mg Tablet | Strip of 10 tablets | Valid |
+| 164044 | Olzox-Trio Tablet | Strip of 10 tablets | Valid |
+| 164105 | Omnitrol AM 40mg/5mg Tablet | Strip of 10 tablets | Valid |
+| 164446 | Olmy-CH 20mg/12.5mg Tablet | Strip of 10 tablets | Valid |
+| 164832 | Olmedox 20mg Tablet | Strip of 10 tablets | Valid |
+| 166153 | Olmark M 20mg/25mg Tablet | Strip of 10 tablets | Valid |
+| 166163 | Olmefit 20mg Tablet | Strip of 10 tablets | Valid |
+| 166748 | Ozarb 40mg Tablet | Strip of 10 tablets | Valid |
+| 168667 | Olmicar 20mg Tablet | Strip of 10 tablets | Valid |
+| 169144 | Olmesat AM 20mg/5mg Tablet | Strip of 10 tablets | Valid |
+| 169802 | Oliprime 20mg Tablet | Strip of 10 tablets | Valid |
+| 211345 | Seaol CH 20mg/12.5mg Tablet | Strip of 10 tablets | Valid |
+| 240277 | Volmisar 10mg Tablet | Strip of 10 tablets | Valid |
+| 253916 | Zione DS O 20mg/12.5mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ---
 

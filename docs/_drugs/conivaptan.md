@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 211
 evidence_level: L4
 indication_count: 7
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Conivaptan: predicted new indication Pulmonary hypertension (evidence level L4). Approved use: Not stated in the Indian license data (conivaptan is generally used f…"
 monitor_inn: "Conivaptan"
 drugbank_id: DB00872
@@ -81,9 +81,15 @@ Other model predictions (migraine disorder, Prinzmetal angina, migraine with bra
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 104711 | Hyponat 20mg Injection (Zydus Cadila) | Vial of 4 ml injection | Not stated in the license data |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 104711 | Hyponat 20mg Injection | Vial of 4 ml Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

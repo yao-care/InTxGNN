@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 415
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Hydroxyurea: predicted new indication Female breast carcinoma (evidence level L5). Approved use: Melanoma, sickle cell anemia…"
 monitor_inn: "Hydroxyurea"
 predicted_indications: ["female breast carcinoma", "sickle cell-hemoglobin E disease syndrome", "cervical adenosarcoma", "colon mucinous adenocarcinoma", "rectum mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma"]
@@ -117,15 +117,38 @@ According to the Mechanism of Action section of the US FDA-approved prescribing 
 
 ## India Market Information
 
-Twenty valid single-ingredient registrations are listed; five are shown below. The registration records contain no approved indication text. All are oral forms (capsule or tablet).
+Twenty valid single-ingredient registrations are listed. The registration records contain no approved indication text. All are oral forms (capsule or tablet).
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 104805 | Hondrea 500mg Capsule (Alkem Laboratories) | Strip of 10 capsules | Not stated in registration record |
-| 104101 | Hydab 500mg Capsule (Fresenius Kabi India) | Strip of 10 capsules | Not stated in registration record |
-| 103709 | Hydrea 500mg Capsule (Sarabhai Chemicals) | Strip of 10 capsules | Not stated in registration record |
-| 134720 | Mylostat 500mg Capsule (Zydus Cadila) | Strip of 10 capsules | Not stated in registration record |
-| 105353 | Hdyshil 500mg Tablet (Shilpa Medicare) | Strip of 10 tablets | Not stated in registration record |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 44990 | Candrox 500mg Capsule | Strip of 10 capsules | Valid |
+| 59468 | Durea 500mg Capsule | Strip of 10 capsules | Valid |
+| 61686 | Droxiget 500mg Capsule | Strip of 10 capsules | Valid |
+| 97379 | Glourea 500mg Capsule | Strip of 10 capsules | Valid |
+| 103709 | Hydrea 500mg Capsule | Strip of 10 capsules | Valid |
+| 103894 | Hydrosar Capsule | Strip of 10 capsules | Valid |
+| 104101 | Hydab 500mg Capsule | Strip of 10 capsules | Valid |
+| 104389 | Hydrox 500mg Capsule | Strip of 10 capsules | Valid |
+| 104805 | Hondrea 500mg Capsule | Strip of 10 capsules | Valid |
+| 105124 | Hydroford 500 Capsule | Strip of 10 capsules | Valid |
+| 105353 | Hdyshil 500mg Tablet | Strip of 10 tablets | Valid |
+| 105515 | Hydrox L 500mg Capsule | Strip of 6 capsules | Valid |
+| 134720 | Mylostat 500mg Capsule | Strip of 10 capsules | Valid |
+| 155877 | Neodrea 500mg Capsule | Strip of 6 capsules | Valid |
+| 164236 | Ondrea 500mg Capsule | Bottle of 90 capsules | Valid |
+| 185010 | Riborea Capsule | Strip of 10 capsules | Valid |
+| 193417 | Readrox 500mg Capsule | Strip of 10 capsules | Valid |
+| 224238 | Tharolax 500mg Capsule | Strip of 10 capsules | Valid |
+| 230695 | Unidrea 500mg Capsule | Strip of 10 capsules | Valid |
+| 231802 | Ureacos 500 Capsule | Strip of 10 capsules | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ---
 

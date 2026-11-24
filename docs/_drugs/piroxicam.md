@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 680
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Piroxicam: predicted new indication Colobomatous microphthalmia-rhizomelic dysplasia syndrome (evidence level L5). Approved use: Rheumatoid arthritis, osteoarthritis"
 monitor_inn: "Piroxicam"
 predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "WHIM syndrome", "rheumatoid nodulosis", "juvenile idiopathic arthritis"]
@@ -83,15 +83,38 @@ No literature is available for the top-ranked prediction. The most relevant lite
 
 ## India Market Information
 
-Piroxicam has 20 valid single-ingredient registrations in India and none cancelled. The data compiled for this report contain no approved-indication text for any of them. Five representative authorisations are listed below.
+Piroxicam has 20 valid single-ingredient registrations in India and none cancelled. The data compiled for this report contain no approved-indication text for any of them.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 29607 | Brexic 20mg Tablet DT | Strip of 10 dispersible tablets | Not available |
-| 112407 | Inflavan 20mg Tablet | Strip of 10 tablets | Not available |
-| 187487 | Roxicam 20mg Injection | Vial of 2 ml injection | Not available |
-| 125369 | Lonex 8mg Tablet DT | Strip of 10 dispersible tablets | Not available |
-| 61054 | Dupox 40mg Injection | Vial of 2 ml injection | Not available |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 29607 | Brexic 20mg Tablet DT | Strip of 10 tablet dt | Valid |
+| 33245 | Brexic 20mg Injection | Vial of 2 ml Injection | Valid |
+| 49608 | Cesic-MD Tablet | Strip of 10 tablet md | Valid |
+| 61054 | Dupox 40mg Injection | Vial of 2 ml Injection | Valid |
+| 68794 | Doloage 20mg Injection | Vial of 2 ml Injection | Valid |
+| 81511 | Ericam 20mg Injection | Vial of 2 ml Injection | Valid |
+| 112407 | Inflavan 20mg Tablet | Strip of 10 tablets | Valid |
+| 114857 | Jetcam Tablet DT | Strip of 10 tablet dt | Valid |
+| 120097 | Kemonex 20mg Tablet DT | Strip of 10 tablet dt | Valid |
+| 125369 | Lonex 8mg Tablet DT | Strip of 10 tablet dt | Valid |
+| 164619 | Oxi DT 20mg Tablet | Strip of 10 tablet dt | Valid |
+| 169832 | Opiram 20mg Injection | Vial of 2 ml Injection | Valid |
+| 175670 | Pixi 20mg Tablet DT | Strip of 10 tablet dt | Valid |
+| 176193 | Pironex 20mg Tablet DT | Strip of 10 tablet dt | Valid |
+| 178051 | Plux 20mg Tablet DT | Strip of 10 tablet dt | Valid |
+| 182621 | Pirospey 40 Injection | Ampoule of 2 ml Injection | Valid |
+| 187487 | Roxicam 20mg Injection | Vial of 2 ml Injection | Valid |
+| 188504 | Ripio 20mg Tablet | Strip of 10 tablets | Valid |
+| 196970 | Roxpie 20mg Injection | Vial of 1 Injection | Valid |
+| 203376 | Siscam Tablet DT | Strip of 10 tablet dt | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 Available forms include oral dispersible tablets, standard tablets, and orally disintegrating (MD) tablets, as well as injectables (vials and ampoules).
 

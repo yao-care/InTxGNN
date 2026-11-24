@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 339
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Favipiravir: predicted new indication acquired hemophagocytic lymphohistiocytosis associated with malignant disease (evidence level L5). Approved use: Influenza"
 monitor_inn: "Favipiravir"
 predicted_indications: ["acquired hemophagocytic lymphohistiocytosis associated with malignant disease", "hemophagocytic syndrome associated with an infection", "cardioencephalomyopathy, fatal infantile, due to cytochrome c oxidase deficiency"]
@@ -78,15 +78,38 @@ For reference, the two papers found for the second-ranked prediction (infection-
 
 ## India Market Information
 
-Showing 5 of 20 valid single-ingredient registrations. Approved indication text was not available for these products.
+Approved indication text was not available for these products.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 90506 | Favivent 400mg Tablet | Strip of 10 tablets | Not available |
-| 89221 | Favtris 200 Tablet | Strip of 10 tablets | Not available |
-| 88151 | Fabixa 800mg Tablet | Strip of 10 tablets | Not available |
-| 87492 | Favenza 800 Tablet | Strip of 10 tablets | Not available |
-| 88998 | Fivid Tablet | Strip of 34 tablets | Not available |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 13798 | Actavir 400 Tablet | Strip of 10 tablets | Valid |
+| 32317 | Balflu 400 Tablet | Strip of 10 tablets | Valid |
+| 46588 | Codifab 400 Tablet | Strip of 10 tablets | Valid |
+| 85734 | Feravir 400 Tablet | Strip of 10 tablets | Valid |
+| 87361 | Fenzavir 400mg Tablet | Strip of 10 tablets | Valid |
+| 87492 | Favenza 800 Tablet | Strip of 10 tablets | Valid |
+| 88151 | Fabixa 800mg Tablet | Strip of 10 tablets | Valid |
+| 88641 | Favicovid 400mg Tablet | Strip of 10 tablets | Valid |
+| 88998 | Fivid Tablet | Strip of 34 tablets | Valid |
+| 89107 | Favmac 200mg Tablet | Strip of 34 tablets | Valid |
+| 89221 | Favtris 200 Tablet | Strip of 10 tablets | Valid |
+| 90506 | Favivent 400mg Tablet | Strip of 10 tablets | Valid |
+| 91040 | Ferasun 400mg Tablet | Strip of 17 tablets | Valid |
+| 91545 | Favi 19 800mg Tablet | Strip of 10 tablets | Valid |
+| 91601 | Foivir 200mg Tablet | Strip of 10 tablets | Valid |
+| 91923 | Favisure 400mg Tablet | Strip of 10 tablets | Valid |
+| 92071 | Fabivion 200mg Tablet | Strip of 34 tablets | Valid |
+| 92497 | Flu-Ppy 400 Tablet | Strip of 10 tablets | Valid |
+| 140668 | Monoflu 800 Tablet | Strip of 10 tablets | Valid |
+| 207344 | Syvir 200 Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 All products are oral tablets.
 

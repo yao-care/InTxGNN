@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 851
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Trabectedin: predicted new indication Female breast carcinoma (evidence level L5). Approved use: Ovarian cancer (including ovarian adenocarcinoma, clear cell…"
 monitor_inn: "Trabectedin"
 predicted_indications: ["female breast carcinoma"]
@@ -85,9 +85,15 @@ The high TxGNN score is a model prediction, not clinical proof. Published single
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 217905 | Trabec 1mg Solution for Infusion (Natco Pharma Ltd) | Vial of 1 solution for infusion | Not specified in the registration data |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 217905 | Trabec 1mg Solution for Infusion | Vial of 1 Solution for Infusion | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

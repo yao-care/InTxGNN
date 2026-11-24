@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 448
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Isoflurane: predicted new indication Prinzmetal angina (evidence level L5). Approved use: Not stated in the available licence data (isoflurane is an inhaled ge…"
 monitor_inn: "Isoflurane"
 predicted_indications: ["Prinzmetal angina", "Tourette syndrome", "manic bipolar affective disorder", "trichotillomania", "dysthymic disorder", "nephrogenic syndrome of inappropriate antidiuresis", "migraine disorder"]
@@ -97,15 +97,29 @@ The remaining migraine records are preclinical studies of CGRP, NMDA and spreadi
 
 ## India Market Information
 
-Isoflurane has 13 valid single-ingredient registrations, with no cancelled licences. The approved indication text is not recorded in the licence data. Main authorisations:
+Isoflurane has 13 valid single-ingredient registrations, with no cancelled licences. The approved indication text is not recorded in the licence data.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 87759 | Forane Solution (Abbott) | Bottle of 250 ml solution for inhalation | Not recorded |
-| 88227 | Forane Solution (Abbott) | Bottle of 100 ml solution for inhalation | Not recorded |
-| 109317 | Isotroy Solution for inhalation (Troikaa) | Packet of 100 ml solution for inhalation | Not recorded |
-| 202634 | Sosrane Liquid For Inhalation (Neon Laboratories) | Bottle of 30 ml solution for inhalation | Not recorded |
-| 108228 | Isoflurane USP Liquid For Inhalation (Baxter India) | Bottle of 100 ml solution for inhalation | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 87759 | Forane Solution | Bottle of 250 ml Solution for inhalation | Valid |
+| 88227 | Forane Solution | Bottle of 100 ml Solution for inhalation | Valid |
+| 89551 | Forane Inhaler | Bottle of 100 ml Inhaler | Valid |
+| 108228 | Isoflurane Usp Liquid For Inhalation | Bottle of 100 ml Solution for inhalation | Valid |
+| 109317 | Isotroy Solution for inhalation | Packet of 100 ml Solution for inhalation | Valid |
+| 109503 | Isotroy Solution for inhalation | Packet of 250 ml Solution for inhalation | Valid |
+| 109705 | Isotroy Solution for inhalation | Packet of 30 ml Solution for inhalation | Valid |
+| 109924 | Isifrane 250 Liquid for Inhalation | Bottle of 250 ml Inhaler | Valid |
+| 111334 | Isorane Liquid For Inhalation | Bottle of 100 ml Solution for inhalation | Valid |
+| 111593 | Isorane Solution | Bottle of 250 ml Solution for inhalation | Valid |
+| 202634 | Sosrane Liquid For Inhalation | Bottle of 30 ml Solution for inhalation | Valid |
+| 203503 | Sosrane Liquid For Inhalation | Bottle of 250 ml Solution for inhalation | Valid |
+| 205394 | Sosrane Liquid For Inhalation | Bottle of 100 ml Solution for inhalation | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ---
 

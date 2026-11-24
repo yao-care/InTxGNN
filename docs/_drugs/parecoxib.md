@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 646
 evidence_level: L3
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Parecoxib: predicted new indication Migraine disorder (evidence level L3). Approved use: Not stated in the Indian licence data"
 monitor_inn: "Parecoxib"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "pulmonary hypertension"]
@@ -77,13 +77,19 @@ The two preclinical papers were compiled under related migraine-susceptibility p
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 181565 | Praxis 40mg Injection (Lupin Ltd) | Vial of 1 injection | Not available |
-| 239256 | Valdin P 40mg Injection (Orchid Chemicals & Pharmaceuticals Ltd) | Vial of 1 injection | Not available |
-| 238913 | Valdixx 40mg Injection (Cipla Ltd) | Vial of 2 ml injection | Not available |
-| 239567 | Valz 40mg Injection (Torque Pharmaceuticals Pvt Ltd) | Vial of 2 ml injection | Not available |
-| 209511 | Superin 40mg Injection (Neon Laboratories Ltd) | Vial of 1 injection | Not available |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 181565 | Praxis 40mg Injection | Vial of 1 Injection | Valid |
+| 209511 | Superin 40mg Injection | Vial of 1 Injection | Valid |
+| 238913 | Valdixx 40mg Injection | Vial of 2 ml Injection | Valid |
+| 239256 | Valdin P 40mg Injection | Vial of 1 Injection | Valid |
+| 239567 | Valz 40mg Injection | Vial of 2 ml Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 All five licences are valid single-ingredient injectable products.
 

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 161
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Ceftriaxone"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "chronic otitis media"]
 description: "Ceftriaxone: predicted new indication Polyclonal hyperviscosity syndrome (evidence level L5). In India: at least 20 listed products"
@@ -84,13 +84,36 @@ Currently no related literature available.
 
 Ceftriaxone is marketed in India. At least 20 valid single-ingredient licences are recorded, and the list may be partial. No approved indication text is recorded in the local data.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Registration No. 54887 | Cefset-TX 1000mg/125mg Injection | Powder for injection (vial) | Not available |
-| Registration No. 117657 | Keftragard 250mg/125mg Injection | Injection (vial, 5 ml) | Not available |
-| Registration No. 146757 | Micef TZ 1000mg/125mg Injection | Injection (vial) | Not available |
-| Registration No. 245340 | Xonejet 500mg Injection | Injection (vial) | Not available |
-| Registration No. 57118 | Colticef 250mg Injection | Injection (vial) | Not available |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 42316 | Cefogram 1000mg Injection | Vial of 10 ml Injection | Valid |
+| 45537 | Cefor 500mg Injection | Vial of 1 Injection | Valid |
+| 45656 | Cewar 500mg Injection | Vial of 1 Injection | Valid |
+| 50484 | C Fax 250mg Injection | Vial of 1 Injection | Valid |
+| 54887 | Cefset-TX 1000mg/125mg Injection | Vial of 1 Powder for Injection | Valid |
+| 57118 | Colticef 250mg Injection | Vial of 1 Injection | Valid |
+| 57725 | Cvone S 250mg/125mg Injection | Vial of 1 Injection | Valid |
+| 83569 | Efoceft S 250 mg/125 mg Injection | Vial of 1 Injection | Valid |
+| 92565 | Femtrax 1000mg Injection | Vial of 1 Injection | Valid |
+| 93138 | Ferexone TZ 500mg/62.5mg Injection | Vial of 1 Injection | Valid |
+| 93304 | Forone-SB 250mg/125mg Injection | Vial of 1 Powder for Injection | Valid |
+| 117657 | Keftragard 250mg/125mg Injection | Vial of 5 ml Injection | Valid |
+| 139410 | Milibact 500 mg/250 mg Injection | Vial of 5 ml Injection | Valid |
+| 146757 | Micef TZ 1000mg/125mg Injection | Vial of 1 Injection | Valid |
+| 160396 | NG Cef 1000mg Injection | Vial of 1 Injection | Valid |
+| 172673 | Otxone 1000mg Injection | Vial of 1 Injection | Valid |
+| 209322 | Syntaz Injection | Vial of 1 Injection | Valid |
+| 223400 | Tazon-S 1000mg/500mg Injection | Vial of 1 Injection | Valid |
+| 244849 | X Zone 250mg Injection | Vial of 1 Powder for Injection | Valid |
+| 245340 | Xonejet 500mg Injection | Vial of 1 Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ---
 

@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 530
 evidence_level: L4
 indication_count: 9
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 monitor_inn: "Metamizole"
 drugbank_id: DB04817
 predicted_indications: ["rheumatoid arthritis", "migraine disorder", "exostosis", "migraine with brainstem aura", "gout", "antithrombin deficiency type 2", "brachydactyly-syndactyly syndrome", "tendinitis", "factor 5 excess with spontaneous thrombosis"]
@@ -95,13 +95,19 @@ None of these studies tests whether metamizole treats rheumatoid arthritis.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 844 | ANALGIN 500MG TABLET (Alkem Laboratories) | Strip of 10 tablets | Not specified in the records |
-| 17378 | Andep 0.5mg Tablet (Ravian Pharmaceuticals) | Strip of 10 tablets | Not specified in the records |
-| 26735 | Bral 500mg Tablet (Micro Labs) | Strip of 10 tablets | Not specified in the records |
-| 231303 | Ultragin 500mg Injection (Pfizer) | Vial of 30 ml injection | Not specified in the records |
-| 153086 | Novalgin RC 0.5% Injection (Sanofi India) | Vial of 30 ml injection | Not specified in the records |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 844 | ANALGIN 500MG TABLET | Strip of 10 tablets | Valid |
+| 17378 | Andep 0.5mg Tablet | Strip of 10 tablets | Valid |
+| 26735 | Bral 500mg Tablet | Strip of 10 tablets | Valid |
+| 153086 | Novalgin RC 0.5% Injection | Vial of 30 ml Injection | Valid |
+| 231303 | Ultragin 500mg Injection | Vial of 30 ml Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 All five registrations are valid single-ingredient products, covering oral and injectable routes.
 

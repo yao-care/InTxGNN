@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "Vilazodone"
 predicted_indications: ["neurotic disorder", "obsessive-compulsive disorder", "agoraphobia", "benign paroxysmal torticollis of infancy", "Keppen-Lubinsky syndrome", "Ohdo syndrome and variants", "histrionic personality disorder (disease)"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Vilazodone: predicted new indication Neurotic disorder (evidence level L5). Approved use: Unipolar depression, endogenous depression, major depressive disorder…"
 ---
 
@@ -89,15 +89,38 @@ For context, other predicted indications have limited literature. For obsessive-
 
 ## India Market Information
 
-At least 20 valid single-ingredient licences were found; the list may be partial. The records contain no approved-indication text. Five examples:
+At least 20 valid single-ingredient licences were found; the list may be partial. The records contain no approved-indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 233856 | Vilano 40 Tablet (Sun Pharmaceutical Industries Ltd) | Strip of 10 tablets | Not stated in the records |
-| 233519 | Vilano 20 Tablet (Sun Pharmaceutical Industries Ltd) | Strip of 10 tablets | Not stated in the records |
-| 233655 | Vilazine 20 Tablet (Intas Pharmaceuticals Ltd) | Strip of 10 tablets | Not stated in the records |
-| 233825 | Vilarest 20 Tablet (Cipla Ltd) | Strip of 10 tablets | Not stated in the records |
-| 233783 | Vilodon 20 Tablet (MSN Laboratories) | Strip of 10 tablets | Not stated in the records |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 128386 | Lazodep 40mg Tablet | Strip of 10 tablets | Valid |
+| 132298 | Lazodep 20mg Tablet | Strip of 10 tablets | Valid |
+| 155972 | Neuvilaz 40mg Tablet | Strip of 10 tablets | Valid |
+| 233519 | Vilano 20 Tablet | Strip of 10 tablets | Valid |
+| 233655 | Vilazine 20 Tablet | Strip of 10 tablets | Valid |
+| 233783 | Vilodon 20 Tablet | Strip of 10 tablets | Valid |
+| 233825 | Vilarest 20 Tablet | Strip of 10 tablets | Valid |
+| 233856 | Vilano 40 Tablet | Strip of 10 tablets | Valid |
+| 233889 | Valz 20 Tablet | Strip of 10 tablets | Valid |
+| 233890 | Vilamid 20 Tablet | Strip of 10 tablets | Valid |
+| 234272 | Vilodon 40mg Tablet | Strip of 10 tablets | Valid |
+| 234368 | Valz 40 Tablet | Strip of 10 tablets | Valid |
+| 235192 | Vibrex 20mg Tablet | Strip of 10 tablets | Valid |
+| 235309 | Vinsure 20 Tablet | Strip of 10 tablets | Valid |
+| 238150 | Vilalert 40mg Tablet | Strip of 10 tablets | Valid |
+| 238379 | Vizatex 20 Tablet | Strip of 10 tablets | Valid |
+| 238433 | Vizatex 40 Tablet | Strip of 10 tablets | Valid |
+| 239728 | Vilshant 40mg Tablet | Strip of 10 tablets | Valid |
+| 239945 | Vilalert 20mg Tablet | Strip of 10 tablets | Valid |
+| 250075 | Zovane 40 Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ---
 

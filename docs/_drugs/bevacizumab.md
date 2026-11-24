@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Bevacizumab"
 predicted_indications: ["epiglottis neoplasm", "benign neoplasm of tongue", "tumor of testis and paratestis", "benign neoplasm of hypopharynx", "benign neoplasm of floor of mouth", "cervical neuroblastoma", "cystic neoplasm", "nasal cavity inverting papilloma", "mesenchymoma", "schwannoma of jugular foramen"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Bevacizumab: predicted new indication epiglottis neoplasm (evidence level L5). In India: at least 20 listed products"
 ---
 
@@ -72,13 +72,36 @@ Currently no related literature available for epiglottis neoplasm.
 
 The licence list may be partial. The licences below are a selection of the 20 valid single-ingredient registrations; no indication text is recorded for them.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 13400 | Avastimab 400mg Injection | Vial of 16 ml, injection | Not recorded |
-| 13987 | Avastimab 100mg Injection | Vial of 4 ml, injection | Not recorded |
-| 110852 | Ivzumab 400 Solution for Injection | Vial of 16 ml, solution for injection | Not recorded |
-| 116540 | Krabeva 100mg Injection | Vial of 4 ml, injection | Not recorded |
-| 233880 | Versavo 400 Solution for Infusion | Vial of 16 ml, solution for infusion | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 6204 | Abevmy 100mg Injection | Vial of 4 ml Injection | Valid |
+| 13400 | Avastimab 400mg Injection | Vial of 16 ml Injection | Valid |
+| 13987 | Avastimab 100mg Injection | Vial of 4 ml Injection | Valid |
+| 15010 | Avangio Injection | Vial of 16 ml Injection | Valid |
+| 21559 | Avangio Injection | Vial of 4 ml Injection | Valid |
+| 26616 | Bevatas 100 Injection | Vial of 4 ml Solution for Infusion | Valid |
+| 27136 | Bevacirel 100mg Injection | Vial of 4 ml Injection | Valid |
+| 27457 | Bryxta 100 Injection | Vial of 1 Injection | Valid |
+| 27992 | Bryxta 300 Injection | Vial of 12 ml Injection | Valid |
+| 28516 | Bevarest 400 Injection | Vial of 16 ml Injection | Valid |
+| 29353 | Bevacizab Injection | Vial of 4 ml Injection | Valid |
+| 29717 | Bevacizab Injection | Vial of 16 ml Injection | Valid |
+| 31461 | Bevnexxa 400mg Injection | Vial of 16 ml Injection | Valid |
+| 36203 | Cizumab 400 Solution for Infusion | Vial of 16 ml Solution for Infusion | Valid |
+| 110852 | Ivzumab 400 Solution for Injection | Vial of 16 ml Solution for Injection | Valid |
+| 116518 | Krabeva 400mg Injection | Vial of 1 Injection | Valid |
+| 116540 | Krabeva 100mg Injection | Vial of 4 ml Injection | Valid |
+| 233880 | Versavo 400 Solution for Infusion | Vial of 16 ml Solution for Infusion | Valid |
+| 234792 | Versavo 100 Solution for Infusion | Vial of 4 ml Solution for Infusion | Valid |
+| 247719 | Zybev 100mg Injection | Vial of 4 ml Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

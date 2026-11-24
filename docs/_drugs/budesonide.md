@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 120
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Budesonide: predicted new indication Atopic eczema (evidence level L5). Approved use: Crohn's disease, inflammatory bowel disease, Crohn's colitis, asthma…"
 monitor_inn: "Budesonide"
 predicted_indications: ["atopic eczema", "bronchitis", "dermatitis, atopic", "polyp of vocal cord", "polyp of middle ear", "epulis", "fibroepithelial polyp", "uterine polyp", "polyp of frontal sinus", "polyp of external auditory canal"]
@@ -106,15 +106,38 @@ No literature directly shows efficacy of budesonide in atopic eczema. The most r
 
 ## India Market Information
 
-Twenty valid single-ingredient registrations were found, and none has approved indication text on record. Five representative registrations:
+Twenty valid single-ingredient registrations were found, and none has approved indication text on record.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 175157 | Pulmicort 100mcg Inhaler (AstraZeneca) | Inhaler | Not recorded |
-| 25931 | Budecort 200 Rotacap (Cipla) | Rotacap, pack of 30 | Not recorded |
-| 25841 | Budez CR Capsule (Sun Pharma) | Controlled-release capsule | Not recorded |
-| 35579 | Cortirowa OD 9mg Tablet PR (Abbott) | Prolonged-release tablet | Not recorded |
-| 150760 | Nebzmart B 0.5mg Smartules (Glenmark) | Respules, 2 ml | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 8652 | Airwin-B 1.0 Respules (2ml Each) | Packet of 5 respules | Valid |
+| 9569 | Airwin-B 0.5 Respules (2ml Each) | Packet of 5 respules | Valid |
+| 25841 | Budez CR Capsule | Strip of 10 capsule cr | Valid |
+| 25872 | Budate Transpules | Packet of 2 ml Transpules | Valid |
+| 25931 | Budecort 200 Rotacap | Packet of 30 rotacaps | Valid |
+| 26233 | Budate Transpules | Packet of 7 transpules | Valid |
+| 26300 | Budate Forte Transpules 2ml | Packet of 5 transpules | Valid |
+| 26617 | Bunase 1mg Respules | Strip of 2 ml Respules | Valid |
+| 26640 | Budate 400 Transcaps | Bottle of 30 transcaps | Valid |
+| 27041 | Budate 200 Transcaps | Bottle of 30 transcaps | Valid |
+| 28230 | Bunase 200mcg Rotacap | Packet of 30 rotacaps | Valid |
+| 28496 | Budeste 1mg Respules 2ml | Packet of 5 respules | Valid |
+| 28900 | Budesine Respules | Packet of 2 ml Respules | Valid |
+| 30886 | Budvent 100mcg Easecaps | Strip of 30 capsules | Valid |
+| 35579 | Cortirowa OD 9mg Tablet PR | Strip of 10 Tablet pr | Valid |
+| 63173 | Derinide 0.5mg Respules 2ml | Packet of 14 respules | Valid |
+| 67873 | Derinide 200mcg Respicap | Strip of 30 respicaps | Valid |
+| 150760 | Nebzmart B 0.5mg Smartules 2ml | Packet of 7 respules | Valid |
+| 175157 | Pulmicort 100mcg Inhaler | Packet of 1 Inhaler | Valid |
+| 181982 | Pneumabud 0.5mg Respules (2ml Each) | Box of 5 respules | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 The registered products are inhalation and nebulised forms plus oral controlled-release forms. None of the registered forms is a topical dermatological product, so atopic eczema would require a new formulation and route.
 

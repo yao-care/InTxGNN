@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 115
 evidence_level: L4
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Bosentan: predicted new indication Rheumatoid arthritis (evidence level L4). Approved use: Pulmonary hypertension / pulmonary arterial hypertension, scleroderma…"
 monitor_inn: "Bosentan"
 predicted_indications: ["rheumatoid arthritis", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "pseudoxanthoma elasticum, forme fruste", "kyphoscoliotic heart disease", "elastoma", "gout", "hypertrichosis (disease)"]
@@ -99,13 +99,23 @@ Several retrieved papers (for example, IL-17 and IL-15 hypernociception mouse st
 
 Bosentan has 9 valid single-ingredient registrations, all oral tablets (strip of 10 tablets). The approved-indication text is not available in the registration records.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| Registration No. 30538 | Bozetan 125mg Tablet | Strip of 10 tablets | Lupin Ltd |
-| Registration No. 25886 | Bosentas 62.5 Tablet | Strip of 10 tablets | Cipla Ltd |
-| Registration No. 31260 | Bosenat 125 Tablet | Strip of 10 tablets | Natco Pharma Ltd |
-| Registration No. 121703 | Lupibose 62.5 Tablet | Strip of 10 tablets | Lupin Ltd |
-| Registration No. 26128 | Bosentan 62.5 Tablet | Strip of 10 tablets | Care Formulation Labs Pvt Ltd |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 25886 | Bosentas 62.5 Tablet | Strip of 10 tablets | Valid |
+| 26128 | Bosentan 62.5 Tablet | Strip of 10 tablets | Valid |
+| 26145 | Bosentas 125 Tablet | Strip of 10 tablets | Valid |
+| 27233 | Bosentan 125 Tablet | Strip of 10 tablets | Valid |
+| 27676 | Bosenlee 62.5 Tablet | Strip of 10 tablets | Valid |
+| 28222 | Bosenat 62.5 Tablet | Strip of 10 tablets | Valid |
+| 30538 | Bozetan 125mg Tablet | Strip of 10 tablets | Valid |
+| 31260 | Bosenat 125 Tablet | Strip of 10 tablets | Valid |
+| 121703 | Lupibose 62.5 Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ---
 

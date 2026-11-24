@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 267
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Difluprednate: predicted new indication Familial adrenal hypoplasia with absent pituitary luteinizing hormone (evidence level L5). Approved use: Postoperative ocular inflammation and pain, and anteri…"
 monitor_inn: "Difluprednate"
 predicted_indications: ["familial adrenal hypoplasia with absent pituitary luteinizing hormone", "seborrheic keratosis", "PAGOD syndrome", "vulvar inverted follicular keratosis", "adrenocortical insufficiency", "seborrheic dermatitis", "46,XY disorder of sex development", "necrobiosis lipoidica", "nephrotic syndrome", "iris disease"]
@@ -90,21 +90,41 @@ For reference, the only publication found across the top ten predictions relates
 
 ## India Market Information
 
-All 19 registrations are valid ophthalmic products. Approved indication text is not recorded for these entries. The main authorizations are:
+All registrations are valid ophthalmic products. Approved indication text is not recorded for these entries.
 
 <!-- review:begin in-lic-20261106-difluprednate-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "All 19 registrations are valid single-ingredient ophthalmic products." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+> **Review correction (2026-11-24)**: Originally stated: "All 19 registrations are valid single-ingredient ophthalmic products." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Revised 2026-11-24: the hard-coded number of records and the wording about the old table were dropped; the Quick Overview and the product table under India Market Information show the current figures. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
 
 <!-- review:end in-lic-20261106-difluprednate-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 176619 | Prednate Eye Drop | Bottle of 5 ml Eye Drop | Not recorded |
-| 61843 | Diflusap Eye Drop | Bottle of 5 ml Ophthalmic Emulsion | Not recorded |
-| 84886 | Flupred 0.05% Eye Drop | Packet of 5 ml Ophthalmic Emulsion | Not recorded |
-| 89156 | Flurocart 0.05% Eye Drop | Bottle of 5 ml Eye Drop | Not recorded |
-| 231299 | Uvefrost Eye Drop | Packet of 5 ml Eye Drop | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 32290 | Baklot Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 58873 | Diflucor Eye Drops | Packet of 5 ml Ophthalmic Emulsion | Valid |
+| 60262 | Duronet Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 61843 | Diflusap Eye Drop | Bottle of 5 ml Ophthalmic Emulsion | Valid |
+| 61872 | Dfrot Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 62966 | Difpru Ophthalmic Emulsion | Bottle of 5 ml Ophthalmic Emulsion | Valid |
+| 64561 | Dypred Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 66715 | Diflusenz 0.05% Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 68265 | Diflucare 0.05% Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 73257 | Enpred Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 84886 | Flupred 0.05% Eye Drop | Packet of 5 ml Ophthalmic Emulsion | Valid |
+| 89156 | Flurocart 0.05% Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 97527 | Gatilox DF Eye Drop | Bottle of 5 ml Ophthalmic Emulsion | Valid |
+| 162749 | Optipred Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 176619 | Prednate Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 231299 | Uvefrost Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 235614 | Visipred 0.05% Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 239222 | Viflunate 0.05% Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 240322 | Visodf 0.05% Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -135,7 +155,7 @@ Below is the review log for this page: statements checked against official India
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-24 | Removed: "single-ingredient" | Corrected (revised 2026-11-24; earlier version kept in the record) | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 | 2026-11-19 | "Currently, detailed mechanism of action data is not available in the compiled dataset" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Durezol (difluprednate) prescribing information, Sandoz Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ea520a27-f569-4b31-8bad-a25ad54b2caa) |
 
 <!-- review:end log -->

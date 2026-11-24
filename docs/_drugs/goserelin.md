@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 401
 evidence_level: L3
 indication_count: 3
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 description: "Goserelin: predicted new indication amenorrhea (evidence level L3). Approved use: Endometriosis"
 monitor_inn: "Goserelin"
 predicted_indications: ["amenorrhea (disease)", "renal hypoplasia (disease)", "renal hypoplasia, bilateral"]
@@ -95,11 +95,17 @@ Two other predictions (renal hypoplasia and bilateral renal hypoplasia, scores a
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 246601 | Zoladex 3.6 Injection (AstraZeneca) | Vial of 1 injection | Not stated |
-| 246720 | Zoladex LA 10.8mg Injection (AstraZeneca) | Prefilled syringe of 1 injection | Not stated |
-| 96288 | Goselin 3.6mg Injection (Bharat Serums & Vaccines Ltd) | Vial of 1 injection | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 96288 | Goselin 3.6mg Injection | Vial of 1 Injection | Valid |
+| 246601 | Zoladex 3.6 Injection | Vial of 1 Injection | Valid |
+| 246720 | Zoladex LA 10.8mg Injection | Prefilled syringe of 1 Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ---
 

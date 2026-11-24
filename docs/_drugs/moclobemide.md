@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 564
 evidence_level: L2
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Moclobemide: predicted new indication Agoraphobia (evidence level L2). Approved use: Anxiety disorder, neurotic disorder, dysthymic disorder"
 monitor_inn: "Moclobemide"
 predicted_indications: ["agoraphobia", "benign paroxysmal torticollis of infancy"]
@@ -82,13 +82,20 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 189367 | Rimarex 150mg Capsule | Strip of 10 capsules | Not stated in the data |
-| 191809 | Rimarex 300mg Capsule | Strip of 10 capsules | Not stated in the data |
-| 138905 | Morex 150mg Tablet | Strip of 10 tablets | Not stated in the data |
-| 143057 | Morex 300mg Tablet | Strip of 10 tablets | Not stated in the data |
-| 221418 | Trima 150mg Tablet | Strip of 10 tablets | Not stated in the data |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 138905 | Morex 150mg Tablet | Strip of 10 tablets | Valid |
+| 143057 | Morex 300mg Tablet | Strip of 10 tablets | Valid |
+| 189367 | Rimarex 150mg Capsule | Strip of 10 capsules | Valid |
+| 191809 | Rimarex 300mg Capsule | Strip of 10 capsules | Valid |
+| 220789 | Trima 300mg Tablet | Strip of 10 tablets | Valid |
+| 221418 | Trima 150mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 Six valid single-ingredient registrations exist in total. The sixth is Trima 300mg Tablet (220789, Intas Pharmaceuticals).
 

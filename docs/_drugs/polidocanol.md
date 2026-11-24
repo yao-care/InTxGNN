@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 683
 evidence_level: L1
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Polidocanol"
 predicted_indications: ["esophageal varices with bleeding", "esophageal varices without bleeding", "Immunoerythromyeloid hypoplasia", "pigmented paravenous retinochoroidal atrophy", "progressive bifocal chorioretinal atrophy", "X-linked retinal dysplasia", "monosomy X", "cone dystrophy", "oligocone trichromacy", "retinoschisis of fovea"]
 description: "Polidocanol: predicted new indication Esophageal varices with bleeding (evidence level L1). In India: 2 listed products (2 not discontinued)"
@@ -83,10 +83,16 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 702 | Asklerol 3% Injection | Vial of 2 ml injection | Not stated in the available records |
-| 218882 | Troydoca 30mg Injection | Vial of 2 ml injection | Not stated in the available records |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 702 | Asklerol 3% Injection | Vial of 2 ml Injection | Valid |
+| 218882 | Troydoca 30mg Injection | Vial of 2 ml Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

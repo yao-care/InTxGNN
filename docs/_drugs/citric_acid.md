@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Citric acid"
 predicted_indications: ["stomach disease", "pharyngitis", "acute laryngopharyngitis", "postgastrectomy syndrome", "nasal cavity disease", "papillary conjunctivitis", "blepharoconjunctivitis", "rhinitis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Citric Acid: predicted new indication stomach disease (evidence level L5). In India: at least 20 listed products"
 ---
 
@@ -82,13 +82,36 @@ None of these publications tests citric acid as a therapy for stomach disease.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 123961 | Lupihist Plus Syrup | Syrup, 100 ml bottle | Not recorded |
-| 183137 | Quit Expectorant | Expectorant, 100 ml bottle | Not recorded |
-| 21827 | Ableed Lotion | Lotion, 60 ml bottle | Not recorded |
-| 116037 | Khasigo Syrup | Syrup, 100 ml bottle | Not recorded |
-| 77176 | Epharyl Syrup | Syrup, 100 ml bottle | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 861 | Aldryl Syrup | Bottle of 100 ml Syrup | Valid |
+| 21827 | Ableed Lotion | Bottle of 60 ml Lotion | Valid |
+| 77176 | Epharyl Syrup | Bottle of 100 ml Syrup | Valid |
+| 99405 | Genger 55 mg/4 mg Syrup | Bottle of 100 ml Syrup | Valid |
+| 116037 | Khasigo Syrup | Bottle of 100 ml Syrup | Valid |
+| 116115 | Kuf Relief Syrup | Bottle of 100 ml Syrup | Valid |
+| 117769 | Koncidryl Syrup | Bottle of 100 ml Syrup | Valid |
+| 122398 | Labocof Syrup | Bottle of 100 ml Syrup | Valid |
+| 123961 | Lupihist Plus Syrup | Bottle of 100 ml Syrup | Valid |
+| 139767 | Mericof Syrup | Bottle of 100 ml Syrup | Valid |
+| 141894 | Maxodyl Syrup | Bottle of 50 ml Syrup | Valid |
+| 143428 | Maxodyl Syrup | Bottle of 100 ml Syrup | Valid |
+| 159189 | Nomokof Expectorant | Bottle of 100 ml Expectorant | Valid |
+| 183023 | Q Coril Syrup | Bottle of 110 ml Syrup | Valid |
+| 183137 | Quit Expectorant | Bottle of 100 ml Expectorant | Valid |
+| 215439 | Tuspel Syrup | Bottle of 100 ml Syrup | Valid |
+| 216852 | Topex Expectorant | Bottle of 100 ml Expectorant | Valid |
+| 230529 | Uriboost Solution | Bottle of 200 ml Solution | Valid |
+| 247892 | Zydryl Suspension | Bottle of 60 ml Suspension | Valid |
+| 252425 | Zydryl Suspension | Bottle of 100 ml Suspension | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 The local records are partial, so this list may be incomplete. All listed licences are valid.
 

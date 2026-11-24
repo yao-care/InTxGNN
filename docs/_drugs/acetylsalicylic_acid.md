@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "Acetylsalicylic acid"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis", "heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "trigeminal autonomic cephalalgia", "thrombophilia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Acetylsalicylic Acid: predicted new indication atrophoderma vermiculata (evidence level L5). In India: at least 20 listed products"
 ---
 
@@ -77,6 +77,37 @@ Currently no related literature available.
 ---
 
 ## India Market Information
+
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 6589 | Atorec Gold 75mg/10mg/75mg Tablet | Strip of 10 tablets | Valid |
+| 8775 | Atromend-Gold-Forte Capsule | Strip of 10 capsules | Valid |
+| 41882 | Cardiplet A Tablet | Strip of 10 tablets | Valid |
+| 51093 | Clopivib A 75mg/75mg Tablet | Strip of 10 tablets | Valid |
+| 62232 | Dilfit Gold 75mg/10mg/75mg Capsule | Strip of 10 capsules | Valid |
+| 72413 | Ecosprin Gold 40 Capsule | Strip of 15 capsules | Valid |
+| 100082 | Gatro AC 75mg/10mg/75mg Capsule | Strip of 10 capsules | Valid |
+| 121162 | Lipirose-Gold 10 Capsule | Strip of 10 capsules | Valid |
+| 150398 | Novastat Gold Tablet | Strip of 10 tablets | Valid |
+| 164127 | Opvast Gold 75mg/10mg/75mg Tablet | Strip of 15 tablets | Valid |
+| 165958 | Opvast Gold 75mg/20mg/75mg Tablet | Strip of 15 tablets | Valid |
+| 184829 | Rosave-Gold 20mg Capsule | Strip of 10 capsules | Valid |
+| 185142 | Roslaren AC 20 Capsule | Strip of 10 capsules | Valid |
+| 186413 | Rosucrest-Gold 10 Capsule | Strip of 10 capsules | Valid |
+| 187690 | Roztek Asp 75mg/20mg/75mg Capsule | Strip of 10 capsules | Valid |
+| 187704 | Rosuvotin Gold 75mg/10mg/75mg Capsule | Strip of 10 capsules | Valid |
+| 192252 | Rosuq Gold 75mg/10mg/75mg Capsule | Strip of 10 capsules | Valid |
+| 195217 | Rosuper Gold 75mg/20mg/75mg Tablet | Strip of 10 tablets | Valid |
+| 195249 | Rosuline Gold 150mg/10mg/75mg Capsule | Strip of 15 capsules | Valid |
+| 216432 | Triopar 10 Capsule | Strip of 10 capsules | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 Aspirin-containing products are currently marketed in India, and all licences in the local data are valid. These are oral products (capsules and tablets). The local records contain no approved-indication text.
 

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 538
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Methylene blue"
 predicted_indications: ["bronchitis"]
 description: "Methylene Blue: predicted new indication Bronchitis (evidence level L5). In India: 2 listed products (2 not discontinued)"
@@ -82,10 +82,16 @@ None of the publications below is a clinical study of methylene blue treating br
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| Registration No. 200838 | Sam MB 10mg Injection | Vial of 1 injection | Samarth Life Sciences Pvt Ltd |
-| Registration No. 27392 | Blue Beam Injection | Ampoule of 10 ml injection | Flagship Biotech International |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 27392 | Blue Beam Injection | Ampoule of 10 ml Injection | Valid |
+| 200838 | Sam MB 10mg Injection | Vial of 1 Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 Both registrations are valid single-ingredient injectable products.
 

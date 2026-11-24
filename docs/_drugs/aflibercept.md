@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Aflibercept"
 predicted_indications: ["esotropia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Aflibercept: predicted new indication esotropia (evidence level L5). In India: 1 listed product (1 not discontinued)"
 ---
 
@@ -71,9 +71,15 @@ Currently no related literature available.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 72924 | Eylea 40mg/ml Injection | vial of 1 ml Injection | Not recorded in local data |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 72924 | Eylea 40mg/ml Injection | Vial of 1 ml Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 Aflibercept is marketed in India with one valid single-ingredient licence (manufacturer: Bayer Zydus Pharma Pvt Ltd). It is an injectable product.
 

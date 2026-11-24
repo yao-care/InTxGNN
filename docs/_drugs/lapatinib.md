@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 472
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Lapatinib: predicted new indication Dermatofibrosarcoma protuberans (evidence level L5). Approved use: HER2-positive breast carcinoma"
 monitor_inn: "Lapatinib"
 predicted_indications: ["dermatofibrosarcoma protuberans"]
@@ -64,15 +64,27 @@ The prediction should therefore be treated as a hypothesis, requiring preclinica
 
 ## India Market Information
 
-Lapatinib is marketed in India as single-ingredient oral tablets. The approved indication text is not available for these registrations. The first five of the 11 are listed below.
+Lapatinib is marketed in India as single-ingredient oral tablets. The approved indication text is not available for these registrations.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| 125749 | Lanib 250 Tablet | Bottle of 30 tablets | BDR Pharmaceuticals Internationals Pvt |
-| 75607 | Etibo 250mg Tablet | Bottle of 30 tablets | Samarth Life Sciences Pvt Ltd |
-| 122886 | Libset Tablet | Bottle of 30 tablets | Intas Pharmaceuticals Ltd |
-| 124425 | Lapahope 250mg Tablet | Bottle of 30 tablets | Glenmark Pharmaceuticals Ltd |
-| 216089 | Tykerb 250mg Tablet | Bottle of 30 tablets | Glaxo SmithKline Pharmaceuticals Ltd |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 12333 | Abnib 250mg Tablet | Bottle of 30 tablets | Valid |
+| 30497 | Bretolap Tablet | Bottle of 30 tablets | Valid |
+| 65666 | DU Knib 250mg Tablet | Bottle of 30 tablets | Valid |
+| 75607 | Etibo 250mg Tablet | Bottle of 30 tablets | Valid |
+| 104358 | Herduo Tablet | Bottle of 30 tablets | Valid |
+| 105365 | Herlapsa Tablet | Bottle of 30 tablets | Valid |
+| 122886 | Libset Tablet | Bottle of 30 tablets | Valid |
+| 124425 | Lapahope 250mg Tablet | Bottle of 30 tablets | Valid |
+| 125749 | Lanib 250 Tablet | Bottle of 30 tablets | Valid |
+| 128000 | Lapatem 250mg Tablet | Bottle of 30 tablets | Valid |
+| 216089 | Tykerb 250mg Tablet | Bottle of 30 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

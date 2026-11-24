@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 585
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Nelfinavir: predicted new indication Simian immunodeficiency virus infection (evidence level L5). Approved use: HIV infectious disease, AIDS"
 monitor_inn: "Nelfinavir"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia"]
@@ -76,10 +76,16 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 156773 | Neivex 250mg Tablet | Strip of 10 tablets | Not specified |
-| 155565 | Nel 250mg Tablet | Strip of 10 tablets | Not specified |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 155565 | Nel 250mg Tablet | Strip of 10 tablets | Valid |
+| 156773 | Neivex 250mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

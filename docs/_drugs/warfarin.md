@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 898
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Warfarin"
 predicted_indications: ["heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "thrombophilia", "rheumatoid arthritis", "breast fibrocystic disease", "benign mammary dysplasia"]
 description: "Warfarin: predicted new indication Heparin cofactor 2 deficiency (evidence level L5). In India: 18 listed products (18 not discontinued)"
@@ -110,15 +110,34 @@ Context from the related thrombophilia prediction:
 
 ## India Market Information
 
-18 valid single-ingredient registrations exist. The licence records contain no approved-indication text. Main authorisations:
+18 valid single-ingredient registrations exist. The licence records contain no approved-indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 204631 | Sofarin 5mg Tablet (Samarth Life Sciences) | Strip of 10 tablets | Not stated in licence record |
-| 241473 | Warf 3 Tablet (Cipla) | Strip of 30 tablets | Not stated in licence record |
-| 231513 | Uniwarfin 2mg Tablet (Torrent) | Strip of 10 tablets | Not stated in licence record |
-| 45437 | Cofarin 2mg Tablet (East West Pharma) | Strip of 10 tablets | Not stated in licence record |
-| 141666 | Mywarf Tablet (Parnasa Mediworld) | Strip of 15 tablets | Not stated in licence record |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 43455 | Cofarin 5mg Tablet | Strip of 10 tablets | Valid |
+| 45437 | Cofarin 2mg Tablet | Strip of 10 tablets | Valid |
+| 46351 | Cofarin 1mg Tablet | Strip of 10 tablets | Valid |
+| 47619 | Cofarin 3mg Tablet | Strip of 10 tablets | Valid |
+| 97095 | Genericart Warfarin 2mg Tablet | Strip of 10 tablets | Valid |
+| 141666 | Mywarf Tablet | Strip of 15 tablets | Valid |
+| 146294 | Mywarf Tablet | Strip of 15 tablets | Valid |
+| 204631 | Sofarin 5mg Tablet | Strip of 10 tablets | Valid |
+| 230795 | Uniwarfin 5mg Tablet | Strip of 10 tablets | Valid |
+| 231373 | Uniwarfin 1mg Tablet | Strip of 10 tablets | Valid |
+| 231513 | Uniwarfin 2mg Tablet | Strip of 10 tablets | Valid |
+| 241434 | Warf 5 Tablet | Strip of 30 tablets | Valid |
+| 241458 | Warf 2 Tablet | Strip of 30 tablets | Valid |
+| 241473 | Warf 3 Tablet | Strip of 30 tablets | Valid |
+| 241490 | Warf 1 Tablet | Strip of 30 tablets | Valid |
+| 241494 | Warf 4mg Tablet | Strip of 10 tablets | Valid |
+| 241681 | Warf 10mg Tablet | Strip of 10 tablets | Valid |
+| 242105 | WAF 5 Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 All products are oral tablets.
 

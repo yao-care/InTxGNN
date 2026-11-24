@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Empagliflozin"
 predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "opsismodysplasia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Empagliflozin: predicted new indication Focal stiff limb syndrome (evidence level L5). In India: 20 listed products (20 not discontinued)"
 ---
 
@@ -73,15 +73,36 @@ Currently no related literature available.
 
 ## India Market Information
 
-Empagliflozin is marketed in India. The records contain no approved-indication text. Five main licences are listed below.
+Empagliflozin is marketed in India. The records contain no approved-indication text.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| 113870 | Jardiance 10mg Tablet | Strip of 10 tablets | Boehringer Ingelheim |
-| 113866 | Jardiance 25mg Tablet | Strip of 10 tablets | Boehringer Ingelheim |
-| 72505 | Empaone 10mg Tablet | Strip of 10 tablets | MSN Laboratories |
-| 94310 | Gibtulio 10mg Tablet | Strip of 10 tablets | Lupin Ltd |
-| 162085 | Oboravo 10mg Tablet | Strip of 10 tablets | Cipla Ltd |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 126 | Ajaduo 25mg/5mg Tablet | Strip of 10 tablets | Valid |
+| 72400 | Empaone 25mg Tablet | Strip of 10 tablets | Valid |
+| 72505 | Empaone 10mg Tablet | Strip of 10 tablets | Valid |
+| 94211 | Glyxambi 25mg/5mg Tablet | Strip of 10 tablets | Valid |
+| 94217 | Gibtulio 25mg Tablet | Strip of 10 tablets | Valid |
+| 94242 | Glyxambi 10mg/5mg Tablet | Strip of 10 tablets | Valid |
+| 94310 | Gibtulio 10mg Tablet | Strip of 10 tablets | Valid |
+| 94330 | Gibtulio Met 12.5mg/500mg Tablet | Strip of 10 tablets | Valid |
+| 94426 | Gibtulio Met 12.5mg/1000mg Tablet | Strip of 10 tablets | Valid |
+| 113866 | Jardiance 25mg Tablet | Strip of 10 tablets | Valid |
+| 113870 | Jardiance 10mg Tablet | Strip of 10 tablets | Valid |
+| 113878 | Jardiance Met 12.5mg/500mg Tablet | Strip of 10 tablets | Valid |
+| 113886 | Jardiance Met 12.5mg/1000mg Tablet | Strip of 10 tablets | Valid |
+| 113893 | Jardiance Met 5mg/500mg Tablet | Strip of 10 tablets | Valid |
+| 161926 | Oboravo 25mg Tablet | Strip of 10 tablets | Valid |
+| 162085 | Oboravo 10mg Tablet | Strip of 10 tablets | Valid |
+| 215128 | Tiptengio 25mg/5mg Tablet | Strip of 10 tablets | Valid |
+| 215270 | Tiptengio 10mg/5mg Tablet | Strip of 10 tablets | Valid |
+| 233273 | Vicra 25 Tablet | Strip of 10 tablets | Valid |
+| 233378 | Vicra 10 Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

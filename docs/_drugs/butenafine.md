@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Butenafine"
 predicted_indications: ["endothrix infectious disease", "ectothrix infectious disease"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 description: "Butenafine: predicted new indication endothrix infectious disease (evidence level L5). In India: 4 listed products (4 not discontinued)"
 ---
 
@@ -70,12 +70,18 @@ Currently no related literature available.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 28571 | Butenaskin Cream | tube of 15 gm Cream | Not recorded |
-| 116998 | Kutica Cream | tube of 15 gm Cream | Not recorded |
-| 221459 | Tenafin Cream | tube of 10 gm Cream | Not recorded |
-| 77405 | Exebute Cream | tube of 15 gm Cream | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 28571 | Butenaskin Cream | Tube of 15 gm Cream | Valid |
+| 77405 | Exebute Cream | Tube of 15 gm Cream | Valid |
+| 116998 | Kutica Cream | Tube of 15 gm Cream | Valid |
+| 221459 | Tenafin Cream | Tube of 10 gm Cream | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 All four licences are single-ingredient topical creams and are currently valid.
 

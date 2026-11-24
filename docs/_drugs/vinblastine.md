@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 890
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Vinblastine"
 predicted_indications: ["rhabdomyosarcoma (disease)", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "parameningeal embryonal rhabdomyosarcoma", "embryonal extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "liver sarcoma", "monocytic leukemia", "neuroblastoma", "ganglioneuroblastoma (disease)"]
 description: "Vinblastine: predicted new indication Rhabdomyosarcoma (disease) (evidence level L4). In India: 4 listed products (4 not discontinued)"
@@ -80,12 +80,18 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 106054 | Hoydetain 1mg Injection | Vial of 10 ml powder for injection | Not specified in the licence record |
-| 230727 | Uniblastin 10mg Injection | Vial of 10 ml injection | Not specified in the licence record |
-| 118945 | Kristina V 1mg Injection | Vial of 1 injection | Not specified in the licence record |
-| 236396 | Vblastin 10mg Injection | Vial of 10 ml injection | Not specified in the licence record |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 106054 | Hoydetain 1mg Injection | Vial of 10 ml Powder for Injection | Valid |
+| 118945 | Kristina V 1mg Injection | Vial of 1 Injection | Valid |
+| 230727 | Uniblastin 10mg Injection | Vial of 10 ml Injection | Valid |
+| 236396 | Vblastin 10mg Injection | Vial of 10 ml Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 All four registrations are valid single-ingredient injectable products.
 

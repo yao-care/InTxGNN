@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 10
 monitor_inn: "Bendamustine"
 predicted_indications: ["mantle cell lymphoma", "chronic myelogenous leukemia, BCR-ABL1 positive", "Hodgkins lymphoma", "small intestinal Burkitt lymphoma", "small intestinal mucosa-associated lymphoid tissue lymphoma", "thyroid gland mucosa-associated lymphoid tissue lymphoma", "breast mucosa-associated lymphoid tissue lymphoma", "tonsillar lymphoma", "MALT lymphoma", "relapsing-remitting multiple sclerosis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Bendamustine: predicted new indication mantle cell lymphoma (evidence level L1). In India: at least 20 listed products"
 ---
 
@@ -94,15 +94,38 @@ Trials that studied mantle cell lymphoma directly include several Phase 3 random
 
 ## India Market Information
 
-Bendamustine single-ingredient injections are marketed in India. The data compiled for this report show 20 valid single-ingredient licences and none cancelled; the list below may be partial.
+Bendamustine single-ingredient injections are marketed in India. The data compiled for this report show 20 valid single-ingredient licences and none cancelled.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 99668 | Genmus 100mg Injection | Vial of 1 injection | Not recorded in local data |
-| 129230 | Lymphtor 100mg Injection | Vial of 1 injection | Not recorded in local data |
-| 28013 | Benzz 100mg Injection | Vial of 1 ml injection | Not recorded in local data |
-| 30431 | Bendawel 100mg Injection | Vial of 1 injection | Not recorded in local data |
-| 28278 | Bimode 100mg Injection | Vial of 20 ml injection | Not recorded in local data |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 26605 | Bendit 100mg Injection | Vial of 1 Injection | Valid |
+| 28013 | Benzz 100mg Injection | Vial of 1 ml Injection | Valid |
+| 28278 | Bimode 100mg Injection | Vial of 20 ml Injection | Valid |
+| 29876 | Bendamax 100 Injection | Vial of 1 Injection | Valid |
+| 30431 | Bendawel 100mg Injection | Vial of 1 Injection | Valid |
+| 30525 | Bizisa Injection | Vial of 1 Injection | Valid |
+| 30555 | Benzz 45mg Injection | Vial of 1 Injection | Valid |
+| 32113 | Bendashil 100mg Injection | Vial of 1 Injection | Valid |
+| 32899 | Bedamax 100 Injection | Vial of 1 Powder for Injection | Valid |
+| 82869 | Endamust 100mg Injection | Vial of 1 Injection | Valid |
+| 99668 | Genmus 100mg Injection | Vial of 1 Injection | Valid |
+| 127505 | Leuben Injection | Vial of 1 Powder for Injection | Valid |
+| 129230 | Lymphtor 100mg Injection | Vial of 1 Injection | Valid |
+| 141241 | Maxtorin 100mg Injection | Vial of 20 ml Injection | Valid |
+| 143778 | MyMust Injection | Vial of 1 Powder for Injection | Valid |
+| 154736 | Nexben 100mg Injection | Vial of 1 Injection | Valid |
+| 156531 | Neomustin Injection | Vial of 1 Injection | Valid |
+| 179879 | Purplz 100mg Injection | Vial of 1 Injection | Valid |
+| 193644 | Ribomustin Injection | Vial of 1 ml Powder for Injection | Valid |
+| 245158 | Xnta 100mg Injection | Vial of 1 Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

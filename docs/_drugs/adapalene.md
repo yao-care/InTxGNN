@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 26
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Adapalene: predicted new indication Zinc, elevated plasma (evidence level L5). Approved use: Acne"
 monitor_inn: "Adapalene"
 predicted_indications: ["zinc, elevated plasma"]
@@ -81,15 +81,38 @@ Currently no related literature available.
 
 ## India Market Information
 
-Twenty valid single-ingredient registrations are listed. The main five are shown below. All are topical gels, and no approved indication text is available in the data compiled for this report.
+Twenty valid single-ingredient registrations are listed. All are topical gels, and no approved indication text is available in the data compiled for this report.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| 217787 | Ticin Plus Gel | Tube of 20 gm gel | Torque Pharmaceuticals Pvt Ltd |
-| 17264 | Adhibit Gel | Tube of 15 gm gel | Dupen Laboratories Pvt Ltd |
-| 5953 | Aclene 0.10% Gel | Tube of 15 gm gel | Cipla Ltd |
-| 12911 | Achilles 0.10% Gel | Tube of 15 gm gel | Novartis India Ltd |
-| 14480 | Adene 0.1% Gel | Tube of 15 gm gel | Gary Pharmaceuticals Pvt Ltd |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 4386 | Adorg B Gel | Tube of 15 gm Gel | Valid |
+| 5953 | Aclene 0.10% Gel | Tube of 15 gm Gel | Valid |
+| 9358 | Aditop Gel | Tube of 15 gm Gel | Valid |
+| 12911 | Achilles 0.10% Gel | Tube of 15 gm Gel | Valid |
+| 13815 | Alin Gel | Tube of 15 gm Gel | Valid |
+| 13865 | Acgel Nano Gel | Tube of 15 gm Gel | Valid |
+| 14480 | Adene 0.1% Gel | Tube of 15 gm Gel | Valid |
+| 17264 | Adhibit Gel | Tube of 15 gm Gel | Valid |
+| 21942 | Akend Gel | Tube of 10 gm Gel | Valid |
+| 34053 | Cleargel AP Gel | Tube of 15 gm Gel | Valid |
+| 34449 | Clindakem A Gel | Tube of 20 gm Gel | Valid |
+| 35817 | Clindex Gel | Tube of 10 gm Gel | Valid |
+| 40090 | Clinmi Skin A Gel | Tube of 15 gm Gel | Valid |
+| 40729 | Capgel Plus Gel | Tube of 15 gm Gel | Valid |
+| 61250 | Dee-C Gel | Tube of 15 gm Gel | Valid |
+| 74120 | Epiclin-A Gel | Tube of 15 gm Gel | Valid |
+| 116972 | Klincin-A Gel | Tube of 15 gm Gel | Valid |
+| 140565 | Maviclin-A Gel | Tube of 15 gm Gel | Valid |
+| 174496 | Persol Plus Gel | Tube of 15 gm Gel | Valid |
+| 217787 | Ticin Plus Gel | Tube of 20 gm Gel | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ---
 

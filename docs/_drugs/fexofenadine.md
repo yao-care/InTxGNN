@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 351
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Fexofenadine: predicted new indication Rosacea conjunctivitis (evidence level L5). Approved use: Allergic rhinitis (also vasomotor rhinitis, atopic…"
 monitor_inn: "Fexofenadine"
 predicted_indications: ["rosacea conjunctivitis"]
@@ -63,15 +63,38 @@ The link is weak, however. Ocular rosacea is driven mainly by meibomian gland dy
 
 ## India Market Information
 
-Fexofenadine has 20 valid single-ingredient registrations in India, all oral tablets. The approved indication text is not available for these registrations. The first five are listed below.
+Fexofenadine has 20 valid single-ingredient registrations in India, all oral tablets. The approved indication text is not available for these registrations.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| 90925 | Faxodas 120mg Tablet | Strip of 6 tablets | Shreya Life Sciences Pvt Ltd |
-| 93422 | Fextree 120mg Tablet | Strip of 10 tablets | Apa Pharmaceuticals |
-| 11102 | Alfexo 120mg Tablet | Strip of 10 tablets | Ernst Pharmacia |
-| 85706 | Fexor 180mg Tablet | Strip of 10 tablets | Orphic Pharma (India) Ltd |
-| 92135 | Fexosep 120 Tablet | Strip of 10 tablets | Sepik Life Sciences |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 11102 | Alfexo 120mg Tablet | Strip of 10 tablets | Valid |
+| 11185 | Afexdine 180mg Tablet | Strip of 10 tablets | Valid |
+| 21717 | Astodine 180mg Tablet | Strip of 10 tablets | Valid |
+| 76564 | Eligra 120mg Tablet | Strip of 10 tablets | Valid |
+| 85413 | Ffn-Pil 180mg Tablet | Strip of 5 tablets | Valid |
+| 85706 | Fexor 180mg Tablet | Strip of 10 tablets | Valid |
+| 87134 | Fexotavo 180mg Tablet | Strip of 10 tablets | Valid |
+| 87564 | Faxdin 120mg Tablet | Strip of 10 tablets | Valid |
+| 88789 | Fexomax 120mg Tablet | Strip of 10 tablets | Valid |
+| 89643 | Fenorest 180mg Tablet | Strip of 10 tablets | Valid |
+| 90504 | Fexotech 120 Tablet | Strip of 10 tablets | Valid |
+| 90925 | Faxodas 120mg Tablet | Strip of 6 tablets | Valid |
+| 91945 | Fexise 180mg Tablet | Strip of 10 tablets | Valid |
+| 92135 | Fexosep 120 Tablet | Strip of 10 tablets | Valid |
+| 92582 | Fenexo 180mg Tablet | Strip of 10 tablets | Valid |
+| 93422 | Fextree 120mg Tablet | Strip of 10 tablets | Valid |
+| 105335 | Histos 180 Tablet | Strip of 10 tablets | Valid |
+| 105589 | Histagra 120mg Tablet | Strip of 10 tablets | Valid |
+| 110792 | Intrafen 180 Tablet | Strip of 6 tablets | Valid |
+| 198418 | Rebafex 180 Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

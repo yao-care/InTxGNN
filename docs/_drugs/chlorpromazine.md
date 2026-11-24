@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 176
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Chlorpromazine: predicted new indication Retinal dystrophy with or without extraocular anomalies (evidence level L5). Approved use: Schizophrenia and related psychotic disorders (manic bipolar affect…"
 monitor_inn: "Chlorpromazine"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "congenital disorder of glycosylation with defective fucosylation", "myopia X-linked", "syndromic myopia", "hydranencephaly (disease)", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia 26, X-linked, female-limited", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "atypical glycine encephalopathy"]
@@ -73,15 +73,38 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-Approved indication text is not available for these registrations. Main authorizations (5 of 20 shown):
+Approved indication text is not available for these registrations.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Registration No. 35727 | Chlorpromazine Hydrochloride Tablet | Strip of 10 tablets | Not specified |
-| Registration No. 186848 | Relitil 25mg Tablet | Strip of 10 tablets | Not specified |
-| Registration No. 188795 | Relitil 50mg Tablet | Strip of 10 tablets | Not specified |
-| Registration No. 201920 | Sun Prazin 100mg Tablet | Strip of 10 tablets | Not specified |
-| Registration No. 221236 | Talentil 100mg Tablet | Strip of 10 tablets | Not specified |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 35727 | Chlorpromazine Hydrochloride Tablet | Strip of 10 tablets | Valid |
+| 44630 | Chlorotame 50mg Tablet | Strip of 10 tablets | Valid |
+| 48561 | Clozine 200mg Tablet | Strip of 10 tablets | Valid |
+| 56604 | Chlorectil Plus 200mg/2mg Tablet | Strip of 10 tablets | Valid |
+| 74602 | Emetil 100mg Tablet | Strip of 10 tablets | Valid |
+| 75742 | Elicalm SF Tablet | Strip of 10 tablets | Valid |
+| 157636 | Normacalm Forte 50 mg/2 mg/5 mg Tablet | Strip of 10 tablets | Valid |
+| 168832 | Ostil 5mg Tablet | Strip of 10 tablets | Valid |
+| 171799 | Ostil Plus 100mg/2mg Tablet | Strip of 10 tablets | Valid |
+| 186848 | Relitil 25mg Tablet | Strip of 10 tablets | Valid |
+| 188795 | Relitil 50mg Tablet | Strip of 10 tablets | Valid |
+| 201920 | Sun Prazin 100mg Tablet | Strip of 10 tablets | Valid |
+| 211853 | Selocalm Forte Tablet | Strip of 10 tablets | Valid |
+| 215281 | Trinicalm Forte Tablet | Strip of 15 tablets | Valid |
+| 218175 | Teem H Forte 25mg/2mg/5mg Tablet | Strip of 10 tablets | Valid |
+| 220112 | Tranchlor 25mg Tablet | Strip of 10 tablets | Valid |
+| 221236 | Talentil 100mg Tablet | Strip of 10 tablets | Valid |
+| 222806 | Trinex C 50 mg Tablet | Strip of 10 tablets | Valid |
+| 225063 | Talentil Plus 100 mg/2 mg Tablet | Strip of 10 tablets | Valid |
+| 225579 | Trytil 50mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 All 20 registrations are valid oral tablet products, with none cancelled. Several are fixed-dose combination brands with other ingredients (e.g., Chlorectil Plus, Ostil Plus, Normacalm Forte).
 

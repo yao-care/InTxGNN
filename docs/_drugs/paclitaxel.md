@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 636
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Paclitaxel"
 predicted_indications: ["parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
 description: "Paclitaxel: predicted new indication Parameningeal embryonal rhabdomyosarcoma (evidence level L5). In India: at least 20 listed products"
@@ -97,13 +97,36 @@ Ten of the most relevant trials are listed below, prioritising those graded as m
 
 Paclitaxel has 20 valid single-ingredient registrations in India and none are cancelled. All are injectable or infusion products. The approved-indication text is blank in the registration records.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Registration No. 135197 | Mitotax 100mg Injection (Dr Reddy's Laboratories Ltd) | Vial of 1 ml injection | Not stated in the records |
-| Registration No. 27847 | Bevetex 300mg Injection (Sun Pharmaceutical Industries Ltd) | Vial of 1 injection | Not stated in the records |
-| Registration No. 223541 | Taxol 300mg Infusion (BMS India Pvt Ltd) | Bottle of 50 ml infusion | Not stated in the records |
-| Registration No. 109647 | Intaxel 100mg Injection (Fresenius Kabi India Pvt Ltd) | Vial of 16.67 ml injection | Not stated in the records |
-| Registration No. 153839 | Nab Tortaxel 100mg Injection (Torrent Pharmaceuticals Ltd) | Vial of 1 injection | Not stated in the records |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 7486 | Ab-Taxomed Injection | Vial of 1 Injection | Valid |
+| 9360 | Altaxel 260mg Injection | Vial of 1 Injection | Valid |
+| 10731 | Axitaxel 100 Injection | Vial of 16.7 ml Injection | Valid |
+| 15098 | Axitaxel 260 Injection | Vial of 43.34 ml Injection | Valid |
+| 27847 | Bevetex 300mg Injection | Vial of 1 Injection | Valid |
+| 30712 | BD-Taxel 260 Injection | Vial of 43.4 ml Injection | Valid |
+| 37896 | Cytax 260mg Injection | Vial of 1 ml Injection | Valid |
+| 83436 | Es Pacli 30 Injection | Vial of 5 ml Injection | Valid |
+| 96853 | Gros 260mg Injection | Vial of 1 ml Injection | Valid |
+| 109357 | Intaxel 100mg Injection | Vial of 17 ml Injection | Valid |
+| 109647 | Intaxel 100mg Injection | Vial of 16.67 ml Injection | Valid |
+| 135197 | Mitotax 100mg Injection | Vial of 1 ml Injection | Valid |
+| 146096 | Mytaxel 100mg Injection | Vial of 1 Injection | Valid |
+| 153839 | Nab Tortaxel 100mg Injection | Vial of 1 Injection | Valid |
+| 175912 | Pacliaqualip 30mg Injection | Vial of 1 Injection | Valid |
+| 179418 | Paclicad N 100mg Injection | Vial of 1 Injection | Valid |
+| 181747 | Pac-Delta 260mg Injection | Vial of 43.4 ml Injection | Valid |
+| 192127 | Relipac 30mg Injection | Vial of 1 Injection | Valid |
+| 223541 | Taxol 300mg Infusion | Bottle of 50 ml Infusion | Valid |
+| 249459 | Zpac 260mg Injection | Vial of 1 Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

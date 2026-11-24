@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Dicyclomine"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Dicyclomine: predicted new indication cauda equina syndrome (evidence level L5). In India: at least 20 listed products"
 ---
 
@@ -72,15 +72,38 @@ Currently no related literature available.
 
 ## India Market Information
 
-Dicyclomine is marketed in India. All 20 licences in the data compiled for this report are valid, and none are cancelled. The list may be partial. The licence records carry no approved-indication text. Main authorizations:
+Dicyclomine is marketed in India. All 20 licences in the data compiled for this report are valid, and none are cancelled. The list may be partial. The licence records carry no approved-indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 44825 | Cefospas Tablet | Strip of 10 tablets | Not recorded |
-| 114514 | Jonyspas Plus 20mg/250mg Tablet | Strip of 10 tablets | Not recorded |
-| 198905 | Renalpane 10mg/250mg Tablet | Strip of 10 tablets | Not recorded |
-| 35066 | Colispas Paed Oral Drops | Packet of 10 ml oral drops | Not recorded |
-| 221552 | Topspas Injection | Vial of 2 ml injection | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 31947 | Brenum 10 mg/40 mg Drop | Packet of 10 ml Drop | Valid |
+| 35066 | Colispas Paed Oral Drops | Packet of 10 ml Oral Drops | Valid |
+| 35486 | Cyclomin 20mg Tablet | Strip of 10 tablets | Valid |
+| 41667 | Cyclomax Plus 20mg/325mg Tablet | Strip of 10 tablets | Valid |
+| 42039 | Clospas Oral Drops | Bottle of 15 ml Oral Drops | Valid |
+| 44825 | Cefospas Tablet | Strip of 10 tablets | Valid |
+| 53091 | Cyclod P 20mg/325mg Tablet | Strip of 10 tablets | Valid |
+| 65724 | Dicdic-P Tablet | Strip of 10 tablets | Valid |
+| 96726 | Glenpar Spas Tablet | Strip of 10 tablets | Valid |
+| 114514 | Jonyspas Plus 20mg/250mg Tablet | Strip of 10 tablets | Valid |
+| 183488 | Qspam 20mg/325mg Tablet | Strip of 10 tablets | Valid |
+| 187821 | Remigan 10 mg/40 mg Drop | Packet of 15 ml Drop | Valid |
+| 197344 | Ranic DH 10mg/150mg Tablet | Strip of 10 tablets | Valid |
+| 198905 | Renalpane 10mg/250mg Tablet | Strip of 10 tablets | Valid |
+| 201309 | Spam M 10mg/250mg Tablet | Strip of 10 tablets | Valid |
+| 206238 | Sarispas M 20mg/250mg Tablet | Strip of 10 tablets | Valid |
+| 209194 | Spascare DS 20 mg/250 mg Tablet | Strip of 10 tablets | Valid |
+| 210511 | Spasmosar 10mg/250mg Tablet | Strip of 10 tablets | Valid |
+| 212603 | Spaspres 10mg/250mg Tablet | Strip of 10 tablets | Valid |
+| 221552 | Topspas Injection | Vial of 2 ml Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

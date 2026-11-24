@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 432
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Indomethacin"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "WHIM syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "brachyolmia", "myosclerosis", "juvenile idiopathic arthritis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis", "rheumatoid nodulosis"]
 description: "Indomethacin: predicted new indication Brachydactyly-syndactyly syndrome (evidence level L5). In India: at least 20 listed products"
@@ -72,15 +72,38 @@ Currently no related literature available.
 
 ## India Market Information
 
-Indomethacin is marketed in India with 20 valid single-ingredient registrations and no cancelled ones. The approved indication text is not specified for any of them. Five representative authorizations:
+Indomethacin is marketed in India with 20 valid single-ingredient registrations and no cancelled ones. The approved indication text is not specified for any of them.
 
-| Authorization Number | Product Name | Dosage Form |
-|---------|------|------|
-| Registration No. 109975 | Indometh 75mg Tablet SR | Sustained-release tablet |
-| Registration No. 108477 | Inmeth Suppositories | Suppository |
-| Registration No. 108966 | Inmecin 75mg Capsule | Capsule |
-| Registration No. 107709 | Indocap SR Capsule | Sustained-release capsule |
-| Registration No. 110796 | Indoriv 25mg Capsule | Capsule |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 5352 | Ancap 75mg Capsule SR | Strip of 10 capsule sr | Valid |
+| 13012 | Artid 75mg Capsule SR | Strip of 10 capsule sr | Valid |
+| 38633 | Cinmin-SR Capsule | Strip of 10 capsule sr | Valid |
+| 62390 | DavaIndia Indomethacin 25mg Capsule | Strip of 10 capsules | Valid |
+| 62999 | Dotgesic 75mg Capsule SR | Strip of 10 capsule sr | Valid |
+| 63620 | Dolitol 75 SR Tablet | Strip of 10 tablet sr | Valid |
+| 107709 | Indocap SR Capsule | Strip of 10 capsule sr | Valid |
+| 108143 | Inmecin 50mg Capsule | Strip of 10 capsules | Valid |
+| 108247 | Indomax-SR Capsule | Strip of 10 capsule er | Valid |
+| 108477 | Inmeth Suppositories | Strip of 5 suppositories | Valid |
+| 108574 | Indovent 75mg Capsule SR | Strip of 10 capsule sr | Valid |
+| 108577 | Inocin 25mg Capsule | Strip of 8 capsules | Valid |
+| 108760 | Idicin 25mg Capsule | Strip of 10 capsules | Valid |
+| 108850 | Indobest 25mg Tablet | Strip of 10 tablets | Valid |
+| 108913 | Indofen 25mg Tablet | Strip of 10 tablets | Valid |
+| 108966 | Inmecin 75mg Capsule | Strip of 10 capsules | Valid |
+| 109975 | Indometh 75mg Tablet SR | Strip of 10 tablet sr | Valid |
+| 110796 | Indoriv 25mg Capsule | Strip of 10 capsules | Valid |
+| 110921 | Indolous 75 Capsule ER | Strip of 10 capsule er | Valid |
+| 136316 | Microcid 75mg Capsule | Strip of 10 capsules | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 Available forms are mainly oral (tablets, capsules, sustained- and extended-release) plus rectal suppositories.
 

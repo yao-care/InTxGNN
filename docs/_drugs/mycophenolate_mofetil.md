@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 574
 evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Mycophenolate Mofetil: predicted new indication HIV infectious disease (evidence level L2). Approved use: Not available in the compiled data"
 monitor_inn: "Mycophenolate mofetil"
 predicted_indications: ["HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "bone Paget disease", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "multiple sclerosis", "hemosiderosis", "Heiner syndrome", "African iron overload", "neonatal hemochromatosis"]
@@ -85,13 +85,36 @@ The rationale has a serious caveat: immunosuppression in an already immunocompro
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 178329 | Psien 500 Tablet | Strip of 10 tablets | Not specified |
-| 141660 | Mycofet 500mg Tablet | Strip of 10 tablets | Not specified |
-| 136873 | Mystead 500 Tablet | Strip of 10 tablets | Not specified |
-| 199793 | Seromune 500 Tablet | Strip of 10 tablets | Not specified |
-| 134077 | Mycept 250 Capsule | Strip of 10 capsules | Not specified |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 17697 | Acopheno Tablet | Strip of 10 tablets | Valid |
+| 86187 | Fenograf 500mg Tablet | Strip of 10 tablets | Valid |
+| 109630 | Imofetil 500mg Tablet | Strip of 10 tablets | Valid |
+| 134077 | Mycept 250 Capsule | Strip of 10 capsules | Valid |
+| 134169 | Mofilet 500 Tablet | Strip of 10 tablets | Valid |
+| 135448 | Mycomune 500mg Tablet | Strip of 10 tablets | Valid |
+| 136873 | Mystead 500 Tablet | Strip of 10 tablets | Valid |
+| 137639 | Mycept 750mg Tablet | Strip of 10 tablets | Valid |
+| 138745 | Mofecon 750 Tablet | Strip of 10 tablets | Valid |
+| 139034 | Moficept 500 Tablet | Strip of 10 tablets | Valid |
+| 139137 | Myotec 500 Tablet | Strip of 10 tablets | Valid |
+| 141660 | Mycofet 500mg Tablet | Strip of 10 tablets | Valid |
+| 141871 | Mycosan M 500mg Tablet | Strip of 10 tablets | Valid |
+| 141887 | Mygraft 500mg Tablet | Strip of 10 tablets | Valid |
+| 143274 | Mycotreat 500 Tablet | Strip of 10 tablets | Valid |
+| 145285 | Mgraft 500mg Tablet | Strip of 10 tablets | Valid |
+| 146893 | Mystead 250mg Tablet | Strip of 10 tablets | Valid |
+| 178329 | Psien 500 Tablet | Strip of 10 tablets | Valid |
+| 199793 | Seromune 500 Tablet | Strip of 10 tablets | Valid |
+| 208791 | Stricept 250mg Capsule | Strip of 10 capsules | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 There are 20 valid single-ingredient registrations in total, all oral (tablets and capsules).
 

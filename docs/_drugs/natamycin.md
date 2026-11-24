@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 582
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Natamycin"
 predicted_indications: ["vulvitis", "trichomonal vulvovaginitis", "postmenopausal atrophic vaginitis", "ulceration of vulva", "vulvar neoplasm", "tinea nigra"]
 description: "Natamycin: predicted new indication Vulvitis (evidence level L5). In India: at least 20 listed products"
@@ -77,15 +77,38 @@ The prediction is plausible only for vulvitis with a fungal (yeast) cause, where
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 153940 | Natray Eye Drop | Bottle of 3 ml ophthalmic suspension | Not stated |
-| 160579 | Natcon Eye Drop | Packet of 3 ml eye drop | Not stated |
-| 80292 | Elmycin Eye Drop | Packet of 3 ml eye drop | Not stated |
-| 247165 | Zonat Eye Drop | Packet of 5 ml eye drop | Not stated |
-| 154732 | Ntc Eye Drop | Bottle of 5 ml ophthalmic suspension | Not stated |
+<!-- licenses:begin -->
 
-These are 5 of 20 valid single-ingredient licences in the local data, and the list may be partial. All records are ophthalmic products, and no vaginal or vulvar product appears among them.
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 80292 | Elmycin Eye Drop | Packet of 3 ml Eye Drop | Valid |
+| 109240 | IO-Nata Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 120478 | Kosnat 5% Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 139595 | Myconat Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 141750 | Meganat 5% Eye Drop | Bottle of 5 ml Opthalmic Suspension | Valid |
+| 150518 | Natamet Eye Drop | Bottle of 5 ml Opthalmic Suspension | Valid |
+| 151826 | Natacin Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 153940 | Natray Eye Drop | Bottle of 3 ml Opthalmic Suspension | Valid |
+| 154207 | Natoptic Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 154732 | Ntc Eye Drop | Bottle of 5 ml Opthalmic Suspension | Valid |
+| 155457 | Nataaid Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 155985 | Natpar 5% Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 156528 | Natasure 5% Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 157736 | Nataone Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 158408 | Natabact 5% Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 159112 | Natam Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 159624 | Noty Eye Drop | Bottle of 3 ml Eye Drop | Valid |
+| 159777 | Natahit 5% Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 160579 | Natcon Eye Drop | Packet of 3 ml Eye Drop | Valid |
+| 247165 | Zonat Eye Drop | Packet of 5 ml Eye Drop | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
+
+All records are ophthalmic products, and no vaginal or vulvar product appears among them.
 
 ## Safety Considerations
 

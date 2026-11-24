@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Isosorbide dinitrate"
 predicted_indications: ["alopecia", "congenital hypotrichosis milia", "hypotrichosis simplex of the scalp", "pulmonary hypertension", "diffuse alopecia areata", "vascular disease", "hypertrichosis (disease)", "kyphoscoliotic heart disease", "visceral calciphylaxis", "venous thoracic outlet syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Isosorbide Dinitrate: predicted new indication Alopecia (evidence level L5). Approved use: Not stated in the licence records"
 ---
 
@@ -91,15 +91,38 @@ The remaining predictions are all model-only (L5): congenital hypotrichosis mili
 
 ## India Market Information
 
-At least 20 valid single-ingredient licences were found, and the list may be partial. The licence records do not include approved indication text. The 5 main entries are shown below.
+At least 20 valid single-ingredient licences were found, and the list may be partial. The licence records do not include approved indication text.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| 200688 | Sorbitrate HF Tablet | Strip of 10 tablets | Abbott |
-| 199607 | Sorbitrate 10 Tablet | Strip of 50 tablets | Abbott |
-| 199525 | Sorbitrate 5 Tablet | Strip of 50 sublingual tablets | Abbott |
-| 50750 | Cardicap 20mg Capsule TR | Strip of 25 capsules (TR) | Sun Pharmaceutical Industries Ltd |
-| 107825 | Isordil 10 Tablet | Strip of 10 tablets | Ipca Laboratories Ltd |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 793 | Apresol Plus Tablet | Strip of 10 tablets | Valid |
+| 6650 | ANZIDIN 5MG TABLET | Strip of 10 tablets | Valid |
+| 9680 | ANZIDIN 10MG TABLET | Strip of 10 tablets | Valid |
+| 49706 | CARDICAP 40MG CAPSULE TR | Strip of 25 capsule tr | Valid |
+| 50750 | Cardicap 20mg Capsule TR | Strip of 25 capsule tr | Valid |
+| 107740 | Isolazine Tablet | Strip of 15 tablets | Valid |
+| 107825 | Isordil 10 Tablet | Strip of 10 tablets | Valid |
+| 108367 | Isorus Tablet | Strip of 15 tablets | Valid |
+| 109388 | Isocrate 20mg Tablet | Strip of 10 tablets | Valid |
+| 135774 | Muzika 20mg/37.5mg Tablet | Strip of 10 tablets | Valid |
+| 139108 | Monocard 10mg Tablet | Strip of 10 tablets | Valid |
+| 150523 | Nitrohart Tablet | Strip of 10 tablets | Valid |
+| 155690 | Nonit 20mg Tablet | Strip of 10 tablets | Valid |
+| 199525 | Sorbitrate 5 Tablet | Strip of 50 Sublingual tablet | Valid |
+| 199607 | Sorbitrate 10 Tablet | Strip of 50 tablets | Valid |
+| 200688 | Sorbitrate HF Tablet | Strip of 10 tablets | Valid |
+| 202391 | Sosodil 10mg Tablet | Strip of 10 tablets | Valid |
+| 208124 | Sorbidine 10mg Tablet | Strip of 10 tablets | Valid |
+| 235452 | Vasolazine Tablet | Strip of 10 tablets | Valid |
+| 237684 | Vasmocard 30mg Tablet CR | Strip of 15 tablet cr | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 All listed forms are oral, including sublingual, tablet, capsule and controlled-release forms. No topical form appears in the records.
 

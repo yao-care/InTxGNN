@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 461
 evidence_level: L2
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ketamine: predicted new indication Headache disorder (evidence level L2). Approved use: Not stated in the data compiled for this report"
 monitor_inn: "Ketamine"
 predicted_indications: ["headache disorder"]
@@ -103,15 +103,38 @@ Many other retrieved publications concern ketamine in depression and are not dir
 
 ## India Market Information
 
-All 20 registrations are valid single-ingredient injectable products. The five main ones are listed below; none of the licence records contains approved indication text.
+All 20 registrations are valid single-ingredient injectable products. None of the licence records contains approved indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 117090 | Ketam 50mg Injection | Vial of 2 ml injection | Not stated |
-| 119150 | Ketanik Injection | Vial of 10 ml injection | Not stated |
-| 116674 | Ketmin 100mg Injection | Vial of 2 ml injection | Not stated |
-| 170405 | Oblar 500mg Injection | Vial of 10 ml injection | Not stated |
-| 118514 | Ketalar 10mg Injection | Vial of 20 ml injection | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 1715 | Aneket 10mg Injection | Vial of 10 ml Injection | Valid |
+| 2606 | Aneket 50mg Injection | Vial of 5 ml Injection | Valid |
+| 99451 | GB-Ket 50mg Injection | Vial of 2 ml Injection | Valid |
+| 115695 | Ketamine Hydrochloride 50mg Injection | Vial of 10 ml Injection | Valid |
+| 116024 | Ketamax 50mg Injection | Vial of 10 ml Injection | Valid |
+| 116610 | Ketajet 50mg Injection | Vial of 10 ml Injection | Valid |
+| 116674 | Ketmin 100mg Injection | Vial of 2 ml Injection | Valid |
+| 116940 | Ketamax 10mg Injection | Vial of 10 ml Injection | Valid |
+| 117090 | Ketam 50mg Injection | Vial of 2 ml Injection | Valid |
+| 117461 | Kmin 50mg Injection | Vial of 2 ml Injection | Valid |
+| 117564 | Ketolide 50mg Injection | Vial of 2 ml Injection | Valid |
+| 118423 | Ketanik 50mg Injection | Vial of 2 ml Injection | Valid |
+| 118514 | Ketalar 10mg Injection | Vial of 20 ml Injection | Valid |
+| 118553 | Ketalin 500mg Injection | Vial of 10 ml Injection | Valid |
+| 118571 | Keta V 50mg Injection | Vial of 2 ml Injection | Valid |
+| 118747 | Kmine 50mg Injection | Vial of 2 ml Injection | Valid |
+| 118835 | Kety 50mg Injection | Vial of 10 ml Injection | Valid |
+| 119062 | Keta V 50mg Injection | Bottle of 10 ml Solution for Injection | Valid |
+| 119150 | Ketanik Injection | Vial of 10 ml Injection | Valid |
+| 170405 | Oblar 500mg Injection | Vial of 10 ml Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ---
 

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 620
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Omeprazole"
 predicted_indications: ["duodenal obstruction"]
 description: "Omeprazole: predicted new indication Duodenal obstruction (evidence level L5). In India: at least 20 listed products"
@@ -82,13 +82,36 @@ A second predicted indication, duodenal obstruction (TxGNN score 0.9964), was al
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 163263 | Omeron 20mg Capsule | Strip of 10 capsules | Not stated |
-| 35738 | Cid 20mg Capsule | Strip of 10 capsules | Not stated |
-| 170302 | Ozl 20mg Capsule | Strip of 10 capsules | Not stated |
-| 167146 | Omerip 20mg Capsule | Strip of 10 capsules | Not stated |
-| 149654 | Momez 40mg Capsule | Strip of 10 capsules | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 35738 | Cid 20mg Capsule | Strip of 10 capsules | Valid |
+| 149654 | Momez 40mg Capsule | Strip of 10 capsules | Valid |
+| 158960 | Nzol 20mg Capsule | Strip of 10 capsules | Valid |
+| 159354 | Numcid 20mg Capsule | Strip of 10 capsules | Valid |
+| 162297 | Omiz 20mg Capsule | Strip of 10 capsules | Valid |
+| 163263 | Omeron 20mg Capsule | Strip of 10 capsules | Valid |
+| 163598 | Omin 20mg Capsule | Strip of 10 capsules | Valid |
+| 165665 | Omevon 20mg Capsule | Strip of 10 capsules | Valid |
+| 165713 | Olzep 5mg Capsule | Strip of 10 capsules | Valid |
+| 166907 | Omisan 20mg Capsule | Strip of 10 capsules | Valid |
+| 167146 | Omerip 20mg Capsule | Strip of 10 capsules | Valid |
+| 167792 | Ometel 20mg Capsule | Strip of 10 capsules | Valid |
+| 168489 | Obay 20mg Capsule | Strip of 10 capsules | Valid |
+| 170302 | Ozl 20mg Capsule | Strip of 10 capsules | Valid |
+| 183471 | Qmisar 20mg Capsule | Strip of 10 capsules | Valid |
+| 192758 | Romep 20mg Capsule | Strip of 10 capsules | Valid |
+| 197578 | Rcar 20mg Capsule | Strip of 10 capsules | Valid |
+| 248485 | Zocid 20mg Capsule | Strip of 10 capsules | Valid |
+| 248541 | Zetac 20mg Capsule | Strip of 10 capsules | Valid |
+| 252733 | Zekocid 20mg Capsule | Strip of 10 capsules | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 There are 20 valid single-ingredient registrations in total; all are oral capsules.
 

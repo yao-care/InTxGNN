@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 9
 monitor_inn: "Ribavirin"
 predicted_indications: ["chronic hepatitis B virus infection", "hepatoportal sclerosis", "primitive portal vein thrombosis", "early-onset familial noncirrhotic portal hypertension", "hepatopulmonary syndrome", "hepatic porphyria", "IgG4-related pachymeningitis", "IgG4-related mediastinitis", "eosinophilic angiocentric fibrosis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ribavirin: predicted new indication Chronic hepatitis B virus infection (evidence level L1). Approved use: Chronic hepatitis C virus infection"
 ---
 
@@ -96,15 +96,36 @@ No randomized trial or primary study of ribavirin in hepatitis B appears in the 
 
 ## India Market Information
 
-All 20 records are single-ingredient ribavirin products with valid status; the compiled data contain no approved-indication text. The list is complete (20 of 20). The five below are examples.
+All 20 records are single-ingredient ribavirin products with valid status; the compiled data contain no approved-indication text. The list is complete (20 of 20).
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 185023 | Ribasure Capsule | Bottle of 140 capsules | Not stated in the available records |
-| 104577 | Heptos 200mg Capsule | Strip of 10 capsules | Not stated in the available records |
-| 194480 | Ropegus 100mg Tablet | Strip of 4 tablets | Not stated in the available records |
-| 186691 | Rebetol 200mg Capsule | Strip of 12 capsules | Not stated in the available records |
-| 187852 | Ribavin 50mg Syrup | Bottle of 30 ml syrup | Not stated in the available records |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 100600 | Gatorib 200mg Tablet | Strip of 10 tablets | Valid |
+| 104577 | Heptos 200mg Capsule | Strip of 10 capsules | Valid |
+| 105204 | Heplovir Capsule | Bottle of 40 capsules | Valid |
+| 185023 | Ribasure Capsule | Bottle of 140 capsules | Valid |
+| 185221 | Ribavin 200 Capsule | Strip of 4 capsules | Valid |
+| 186659 | Ribahep Capsule | Strip of 10 capsules | Valid |
+| 186691 | Rebetol 200mg Capsule | Strip of 12 capsules | Valid |
+| 187128 | Ribavin 100mg Capsule | Strip of 4 capsules | Valid |
+| 187852 | Ribavin 50mg Syrup | Bottle of 30 ml Syrup | Valid |
+| 189039 | Ribnoid 200 Capsule | Strip of 10 capsules | Valid |
+| 189644 | Rinhib 200mg Capsule | Bottle of 42 capsules | Valid |
+| 190355 | Ribnoid 200 Capsule | Bottle of 84 capsules | Valid |
+| 191817 | Ribapro 200mg Capsule | Strip of 8 capsules | Valid |
+| 194480 | Ropegus 100mg Tablet | Strip of 4 tablets | Valid |
+| 196609 | Ropegus 200mg Tablet | Strip of 4 tablets | Valid |
+| 234892 | Virofix 200mg Capsule | Bottle of 40 capsules | Valid |
+| 236046 | Virazide 200mg Capsule | Strip of 4 capsules | Valid |
+| 237512 | Virazide 100mg Capsule | Strip of 4 capsules | Valid |
+| 237924 | Virbetol Tablet | Strip of 7 tablets | Valid |
+| 238635 | Virazide 50mg Syrup | Bottle of 30 ml Syrup | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

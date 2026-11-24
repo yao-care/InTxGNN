@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 679
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 description: "Piribedil: predicted new indication Retinal dystrophy with or without extraocular anomalies (evidence level L5). Approved use: Parkinson disease / parkinsonian disorder"
 monitor_inn: "Piribedil"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "paralysis agitans, juvenile, of Hunt", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "PLA2G6-associated neurodegeneration"]
@@ -82,9 +82,15 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Registration No. 215839 | Trivastal LA Tablet SR (Serdia Pharmaceuticals India Pvt Ltd) | Sustained-release tablet (strip of 10) | Not stated in the available data |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 215839 | Trivastal LA Tablet SR | Strip of 10 tablet sr | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

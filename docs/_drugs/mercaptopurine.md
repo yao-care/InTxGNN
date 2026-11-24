@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 527
 evidence_level: L3
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Mercaptopurine"
 predicted_indications: ["myeloid leukemia", "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "pulmonary blastoma", "Hodgkins lymphoma", "primary pulmonary lymphoma", "small cell lung carcinoma", "well-differentiated fetal adenocarcinoma of the lung"]
 description: "Mercaptopurine: predicted new indication Myeloid leukemia (evidence level L3). In India: 7 listed products (7 not discontinued)"
@@ -94,13 +94,21 @@ The evidence is capped at L3. No randomized trial isolates mercaptopurine as the
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 144363 | Merkglob 50mg Tablet | Strip of 10 tablets | Not stated in the compiled data |
-| 180387 | Puri Nethol 50mg Tablet | Strip of 10 tablets | Not stated in the compiled data |
-| 81393 | Empurine 50mg Tablet | Strip of 10 tablets | Not stated in the compiled data |
-| 41061 | Captomer 50mg Tablet | Strip of 10 tablets | Not stated in the compiled data |
-| 180830 | Purinetone 50mg Tablet | Strip of 10 tablets | Not stated in the compiled data |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 27955 | Biopurin 50mg Tablet | Strip of 10 tablets | Valid |
+| 41061 | Captomer 50mg Tablet | Strip of 10 tablets | Valid |
+| 81393 | Empurine 50mg Tablet | Strip of 10 tablets | Valid |
+| 143914 | Mercapto 50mg Tablet | Strip of 10 tablets | Valid |
+| 144363 | Merkglob 50mg Tablet | Strip of 10 tablets | Valid |
+| 180387 | Puri Nethol 50mg Tablet | Strip of 10 tablets | Valid |
+| 180830 | Purinetone 50mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

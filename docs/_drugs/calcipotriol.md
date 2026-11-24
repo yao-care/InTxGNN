@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 131
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Calcipotriol: predicted new indication Seborrheic keratosis (evidence level L3). Approved use: Not stated in the licence records (calcipotriol is generally known as…"
 monitor_inn: "Calcipotriol"
 predicted_indications: ["seborrheic keratosis", "vulvar inverted follicular keratosis", "vulvovaginitis", "vulvitis", "vulvar neoplasm", "ulceration of vulva", "vulvar squamous neoplasm", "postmenopausal atrophic vaginitis", "bone Paget disease", "breast fibrocystic disease"]
@@ -75,15 +75,44 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-Twenty valid single-ingredient registrations exist, with no cancelled or combination licences. The approved indication text is not recorded for any of them. Main examples:
+Twenty valid registrations exist, with no cancelled licences. The approved indication text is not recorded for any of them.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 37343 | Covate-C Ointment (Canbro Healthcare) | Ointment, 20 g tube | Not recorded |
-| 201404 | Soristop-C Lotion (Alniche Life Sciences) | Lotion, 30 ml bottle | Not recorded |
-| 173902 | Pasitrex Ointment (Sun Pharmaceutical) | Ointment, 20 g tube | Not recorded |
-| 35800 | Calpsor Ointment (Biocon) | Ointment, 30 g tube | Not recorded |
-| 34929 | Calpsor C Lotion (Biocon) | Lotion, 20 ml bottle | Not recorded |
+<!-- review:begin in-lic-20261124-calcipotriol-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "Twenty valid single-ingredient registrations exist, with no cancelled or combination licences." Removed: it described the products as single-ingredient (or as having no combination products), which does not match the Indian medicine data (the Indian Medicine Dataset): some of the recorded products are fixed-dose combinations. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124-calcipotriol-1 -->
+
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 34827 | Calpsor C Ointment | Tube of 15 gm Ointment | Valid |
+| 34929 | Calpsor C Lotion | Bottle of 20 ml Lotion | Valid |
+| 35059 | Cosvate Sor Ointment | Tube of 30 gm Ointment | Valid |
+| 35436 | Calpsor Ointment | Tube of 15 gm Ointment | Valid |
+| 35800 | Calpsor Ointment | Tube of 30 gm Ointment | Valid |
+| 37343 | Covate-C Ointment | Tube of 20 gm Ointment | Valid |
+| 40645 | Covate-C Lotion | Bottle of 20 ml Lotion | Valid |
+| 42377 | Calisor Ointment | Tube of 20 gm Ointment | Valid |
+| 104039 | Heximar Ointment | Tube of 15 gm Ointment | Valid |
+| 173902 | Pasitrex Ointment | Tube of 20 gm Ointment | Valid |
+| 173914 | Pasitrex C Ointment | Tube of 15 gm Ointment | Valid |
+| 174029 | Psoriex Ointment | Tube of 30 gm Ointment | Valid |
+| 175288 | Psoranext C Ointment | Tube of 15 gm Ointment | Valid |
+| 200481 | Sorifix Solo Ointment | Tube of 15 gm Ointment | Valid |
+| 200679 | Sorifix Ointment | Tube of 30 gm Ointment | Valid |
+| 201338 | Soristop Ointment | Tube of 15 gm Ointment | Valid |
+| 201404 | Soristop-C Lotion | Bottle of 30 ml Lotion | Valid |
+| 202223 | Soronil 0.005% Ointment | Tube of 20 gm Ointment | Valid |
+| 204073 | Scarbact Plus Ointment | Tube of 15 gm Ointment | Valid |
+| 204832 | Sorikare Ointment | Tube of 15 gm Ointment | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 All products are topical ointments or lotions.
 
@@ -107,6 +136,19 @@ The prediction score is very high and there is a plausible keratinocyte-based me
 - Detailed mechanism of action data
 - A controlled study (for example, randomized versus standard treatments such as cryotherapy) in seborrheic keratosis
 - A calcium and skin safety monitoring plan, given the hypercalcemia and skin atrophy signals
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-24 | Removed: the single-ingredient claim | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

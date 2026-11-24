@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 105
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 description: "Betahistine: known uses and market status in India; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -72,30 +72,36 @@ The TxGNN deep-learning model has no candidate indication with a score of 0.99 o
 
 ## India Market Information
 
-| Licence | Product | Dosage form | Status |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
 |------|------|------|------|
-| 62543 | Dvert 16mg Tablet | strip of 10 tablets | Valid |
-| 27629 | Betatine 8 Tablet | strip of 10 tablets | Valid |
-| 246608 | Zevert 16 Tablet DT | strip of 10 tablet dt | Valid |
-| 31727 | Bitasafe 8 Tablet | strip of 10 tablets | Valid |
-| 238299 | Vergone 48mg Tablet SR | strip of 10 tablet sr | Valid |
-| 28794 | Betavertin 16mg Tablet | strip of 10 tablets | Valid |
-| 239028 | Verticod 8mg Tablet | strip of 10 tablets | Valid |
-| 237683 | Vertibest 8 Tablet | strip of 10 tablets | Valid |
-| 97153 | Gidinor 16mg Tablet | strip of 10 tablets | Valid |
-| 26551 | Bvert OD 24mg Tablet CR | strip of 10 tablet cr | Valid |
-| 26228 | B-Stil 16 Tablet | strip of 10 tablets | Valid |
-| 240383 | Vertimore 8mg Tablet | strip of 10 tablets | Valid |
-| 31320 | Betorist 24 mg Tablet | strip of 10 tablets | Valid |
-| 145120 | Meneas 24mg Tablet | strip of 10 tablets | Valid |
-| 138792 | Meniertin V 16mg Tablet | strip of 10 tablets | Valid |
-| 104584 | Hestin B 16mg Tablet | strip of 10 tablets | Valid |
-| 207093 | Spinstek 24mg Tablet | strip of 10 tablets | Valid |
-| 209597 | Sivert 16mg Tablet | strip of 10 tablets | Valid |
-| 119538 | Kcbist 8mg Tablet | strip of 10 tablets | Valid |
-| 104702 | Hybet 24mg Tablet | strip of 10 tablets | Valid |
+| 26228 | B-Stil 16 Tablet | Strip of 10 tablets | Valid |
+| 26551 | Bvert OD 24mg Tablet CR | Strip of 10 tablet cr | Valid |
+| 27629 | Betatine 8 Tablet | Strip of 10 tablets | Valid |
+| 28794 | Betavertin 16mg Tablet | Strip of 10 tablets | Valid |
+| 31320 | Betorist 24 mg Tablet | Strip of 10 tablets | Valid |
+| 31727 | Bitasafe 8 Tablet | Strip of 10 tablets | Valid |
+| 62543 | Dvert 16mg Tablet | Strip of 10 tablets | Valid |
+| 97153 | Gidinor 16mg Tablet | Strip of 10 tablets | Valid |
+| 104584 | Hestin B 16mg Tablet | Strip of 10 tablets | Valid |
+| 104702 | Hybet 24mg Tablet | Strip of 10 tablets | Valid |
+| 119538 | Kcbist 8mg Tablet | Strip of 10 tablets | Valid |
+| 138792 | Meniertin V 16mg Tablet | Strip of 10 tablets | Valid |
+| 145120 | Meneas 24mg Tablet | Strip of 10 tablets | Valid |
+| 207093 | Spinstek 24mg Tablet | Strip of 10 tablets | Valid |
+| 209597 | Sivert 16mg Tablet | Strip of 10 tablets | Valid |
+| 237683 | Vertibest 8 Tablet | Strip of 10 tablets | Valid |
+| 238299 | Vergone 48mg Tablet SR | Strip of 10 tablet sr | Valid |
+| 239028 | Verticod 8mg Tablet | Strip of 10 tablets | Valid |
+| 240383 | Vertimore 8mg Tablet | Strip of 10 tablets | Valid |
+| 246608 | Zevert 16 Tablet DT | Strip of 10 tablet dt | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
 
 Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

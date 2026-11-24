@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Oxaceprol"
 predicted_indications: ["ankylosing spondylitis", "brachyolmia-amelogenesis imperfecta syndrome", "juvenile idiopathic arthritis", "acromesomelic dysplasia, Hunter-Thompson type", "myosclerosis", "rheumatoid nodulosis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis", "rheumatoid vasculitis", "pseudoachondroplasia"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Oxaceprol: predicted new indication Ankylosing spondylitis (evidence level L5). Approved use: Osteoarthritis and arthropathy"
 ---
 
@@ -72,13 +72,36 @@ Other top predictions are mostly rare skeletal dysplasias or autoimmune arthriti
 
 Oxaceprol is marketed in India. At least 20 single-ingredient registrations are on record, and the list may be partial. No approved indication text is recorded in these licences.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 171698 | Oxasoft 200mg Capsule | Strip of 10 capsules | Not recorded |
-| 116504 | Kneerol OD Tablet SR | Strip of 10 SR tablets | Not recorded |
-| 215745 | Trueceprol OD Tablet SR | Strip of 10 SR tablets | Not recorded |
-| 79019 | Ezrol Capsule | Strip of 10 capsules | Not recorded |
-| 40609 | Ceprol Tablet SR | Strip of 10 SR tablets | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 11421 | Aksiprol Tablet | Strip of 10 tablets | Valid |
+| 13368 | Aksiprol OD 600mg Tablet | Strip of 10 tablets | Valid |
+| 19506 | Arthoprol 200mg Capsule | Strip of 10 capsules | Valid |
+| 40609 | Ceprol Tablet SR | Strip of 10 tablet sr | Valid |
+| 79019 | Ezrol Capsule | Strip of 10 capsules | Valid |
+| 109878 | Iboxa Capsule | Strip of 10 capsules | Valid |
+| 111942 | Iboxa OD Tablet | Strip of 10 tablets | Valid |
+| 116504 | Kneerol OD Tablet SR | Strip of 10 tablet sr | Valid |
+| 116566 | Kneox Tablet | Strip of 15 tablets | Valid |
+| 155634 | Neoxacep Capsule | Strip of 10 capsules | Valid |
+| 162490 | Oxuba Capsule | Strip of 10 capsules | Valid |
+| 166231 | Oxcp 200 Capsule | Strip of 10 capsules | Valid |
+| 167858 | Oxafirst 200mg Capsule | Strip of 10 capsules | Valid |
+| 168095 | Oxapol 200mg Capsule | Strip of 10 capsules | Valid |
+| 171698 | Oxasoft 200mg Capsule | Strip of 10 capsules | Valid |
+| 186944 | Roxupol-OD Tablet ER | Strip of 10 tablet er | Valid |
+| 201008 | Steoxa 200mg Capsule | Strip of 10 capsules | Valid |
+| 202139 | StayHappi Oxaceprol 200mg Capsule | Strip of 10 capsules | Valid |
+| 215745 | Trueceprol OD Tablet SR | Strip of 10 tablet sr | Valid |
+| 249155 | Zextra Capsule | Strip of 10 capsules | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 All listed products are oral forms (capsules, tablets, sustained-release and extended-release tablets).
 

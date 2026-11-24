@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 478
 evidence_level: L3
 indication_count: 5
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-24
 monitor_inn: "Lenvatinib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "angiolipoma", "familial spontaneous pneumothorax", "endocrine-cerebro-osteodysplasia syndrome"]
 description: "Lenvatinib: predicted new indication Liposarcoma (evidence level L3). In India: at least 20 listed products"
@@ -89,15 +89,38 @@ The evidence is limited. The only clinical study is single-arm and small, and th
 
 ## India Market Information
 
-Lenvatinib is marketed in India as single-ingredient products, with 20 valid licences and none cancelled. The approved indication text is not recorded in the local data. The records below are partial, and only the main ones are listed.
+Lenvatinib is marketed in India as single-ingredient products, with 20 valid licences and none cancelled. The approved indication text is not recorded in the local data.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 121256 | Lenvima 4mg Capsule (Eisai Pharmaceuticals India) | Strip of 10 capsules | Not stated in licence record |
-| 121303 | Lenvatol 4mg Capsule (Cipla) | Strip of 10 capsules | Not stated in licence record |
-| 121908 | Lenvatol 10mg Capsule (Cipla) | Strip of 10 capsules | Not stated in licence record |
-| 96241 | Glenvas 4mg Capsule (Glenmark) | Strip of 10 capsules | Not stated in licence record |
-| 124324 | Lenvanib 4mg Tablet (AMPS Biotech) | Strip of 10 tablets | Not stated in licence record |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 29945 | Bdfoie 10mg Capsule | Strip of 10 capsules | Valid |
+| 31279 | Bdfoie 4mg Capsule | Strip of 10 capsules | Valid |
+| 96241 | Glenvas 4mg Capsule | Strip of 10 capsules | Valid |
+| 97485 | Glenvas 10mg Capsule | Strip of 10 capsules | Valid |
+| 121256 | Lenvima 4mg Capsule | Strip of 10 capsules | Valid |
+| 121303 | Lenvatol 4mg Capsule | Strip of 10 capsules | Valid |
+| 121759 | Lenshil 4mg Capsule | Strip of 10 capsules | Valid |
+| 121907 | Lenvat 4 Capsule | Strip of 10 capsules | Valid |
+| 121908 | Lenvatol 10mg Capsule | Strip of 10 capsules | Valid |
+| 122088 | Lentykine 4 Capsule | Strip of 10 capsules | Valid |
+| 122914 | Lenced 4mg Capsule | Strip of 10 capsules | Valid |
+| 123092 | Lentris 4mg Capsule | Strip of 10 capsules | Valid |
+| 123374 | Lenshil 10mg Capsule | Strip of 10 capsules | Valid |
+| 124324 | Lenvanib 4mg Tablet | Strip of 10 tablets | Valid |
+| 124606 | Lenced 10mg Capsule | Strip of 10 capsules | Valid |
+| 125364 | Lentris 10mg Capsule | Strip of 10 capsules | Valid |
+| 125402 | Lenvamed 10mg Capsule | Strip of 10 capsules | Valid |
+| 125870 | Lentib 4mg Capsule | Strip of 10 capsules | Valid |
+| 126072 | Lentykine 10 Capsule | Strip of 10 capsules | Valid |
+| 126484 | Lenvamed 4mg Capsule | Strip of 10 capsules | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ---
 

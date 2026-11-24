@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 867
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 description: "Trimetazidine: known uses and market status in India; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -72,30 +72,36 @@ The TxGNN model has no candidate with a score of 0.99 or higher for Trimetazidin
 
 ## India Market Information
 
-| Licence | Product | Dosage form | Status |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
 |------|------|------|------|
-| 42958 | Cytopill 35mg Tablet SR | strip of 10 tablet sr | Valid |
-| 169862 | Osvedon 35 MR Tablet | strip of 10 tablet mr | Valid |
-| 84040 | Flavedon MR Tablet | strip of 10 tablet mr | Valid |
-| 59635 | DavaIndia Trimetazidine 35mg Tablet MR | strip of 10 tablet mr | Valid |
-| 218593 | Trived 20 Tablet | strip of 10 tablets | Valid |
-| 214835 | Timzid-MR Tablet | strip of 15 tablet mr | Valid |
-| 968 | Accardi MR Tablet MR | strip of 10 tablet mr | Valid |
-| 142904 | Metazine CR 35 Tablet | strip of 10 tablet mr | Valid |
-| 1534 | Angidine Retard Tablet MR | strip of 10 tablet mr | Valid |
-| 180560 | Prodium 20mg Tablet | strip of 10 tablets | Valid |
-| 186991 | Redon-CR 60 Tablet CR | strip of 10 tablet cr | Valid |
-| 219011 | Trived 35mg Tablet SR | strip of 10 tablet sr | Valid |
-| 252448 | Zutrim 35mg Tablet SR | strip of 10 tablet sr | Valid |
-| 223930 | Trilong 60mg Capsule | strip of 10 capsules | Valid |
-| 207725 | StayHappi Trimetazidine 35mg Tablet | strip of 10 tablets | Valid |
-| 220346 | Taz 20mg Tablet | strip of 10 tablets | Valid |
-| 35119 | Carvidon 20 Tablet | strip of 10 tablets | Valid |
-| 88107 | Flavezee 35 SR Tablet | strip of 10 tablet sr | Valid |
-| 89769 | Flavelix 35mg Tablet MR | strip of 10 tablet mr | Valid |
-| 7838 | Angidine Tablet | strip of 10 tablets | Valid |
+| 968 | Accardi MR Tablet MR | Strip of 10 tablet mr | Valid |
+| 1534 | Angidine Retard Tablet MR | Strip of 10 tablet mr | Valid |
+| 7838 | Angidine Tablet | Strip of 10 tablets | Valid |
+| 35119 | Carvidon 20 Tablet | Strip of 10 tablets | Valid |
+| 42958 | Cytopill 35mg Tablet SR | Strip of 10 tablet sr | Valid |
+| 59635 | DavaIndia Trimetazidine 35mg Tablet MR | Strip of 10 tablet mr | Valid |
+| 84040 | Flavedon MR Tablet | Strip of 10 tablet mr | Valid |
+| 88107 | Flavezee 35 SR Tablet | Strip of 10 tablet sr | Valid |
+| 89769 | Flavelix 35mg Tablet MR | Strip of 10 tablet mr | Valid |
+| 142904 | Metazine CR 35 Tablet | Strip of 10 tablet mr | Valid |
+| 169862 | Osvedon 35 MR Tablet | Strip of 10 tablet mr | Valid |
+| 180560 | Prodium 20mg Tablet | Strip of 10 tablets | Valid |
+| 186991 | Redon-CR 60 Tablet CR | Strip of 10 tablet cr | Valid |
+| 207725 | StayHappi Trimetazidine 35mg Tablet | Strip of 10 tablets | Valid |
+| 214835 | Timzid-MR Tablet | Strip of 15 tablet mr | Valid |
+| 218593 | Trived 20 Tablet | Strip of 10 tablets | Valid |
+| 219011 | Trived 35mg Tablet SR | Strip of 10 tablet sr | Valid |
+| 220346 | Taz 20mg Tablet | Strip of 10 tablets | Valid |
+| 223930 | Trilong 60mg Capsule | Strip of 10 capsules | Valid |
+| 252448 | Zutrim 35mg Tablet SR | Strip of 10 tablet sr | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
 
 Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

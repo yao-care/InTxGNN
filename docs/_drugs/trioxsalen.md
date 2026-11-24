@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 869
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "trioxsalen"
 predicted_indications: ["vaginitis (disease)", "leukoplakia of vagina", "vaginal discharge", "bacterial vaginosis", "vulvar inverted follicular keratosis", "postmenopausal atrophic vaginitis", "vulvitis", "vulvovaginitis", "ulceration of vulva", "vulvar neoplasm"]
 description: "Trioxsalen: predicted new indication Vaginitis (disease) (evidence level L5). In India: at least 20 listed products"
@@ -72,15 +72,38 @@ Currently no related literature available.
 
 ## India Market Information
 
-Twenty single-ingredient oral tablet licences are valid, and none is cancelled. Approved indication text is not available for any of them. The five main authorisations are listed below.
+Twenty single-ingredient oral tablet licences are valid, and none is cancelled. Approved indication text is not available for any of them.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| 151997 | Neosoralen 5mg Tablet | Strip of 10 tablets | Mac Laboratories Ltd |
-| 151053 | Neosoralen Forte 25mg Tablet | Strip of 10 tablets | Mac Laboratories Ltd |
-| 218741 | Trioxol 25mg Tablet | Strip of 10 tablets | Ampra Pharmaceuticals |
-| 218490 | Troid 5mg Tablet | Strip of 10 tablets | Resilient Cosmecueticals Pvt Ltd |
-| 204533 | Sensitex 5mg Tablet | Strip of 10 tablets | Kivi Labs Ltd |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 15607 | Amosan 25mg Tablet | Strip of 10 tablets | Valid |
+| 62231 | Dsorolin Tablet | Strip of 10 tablets | Valid |
+| 125525 | Lucoderm 25 Tablet | Strip of 10 tablets | Valid |
+| 151053 | Neosoralen Forte 25mg Tablet | Strip of 10 tablets | Valid |
+| 151633 | Neosol Forte 25mg Tablet | Strip of 10 tablets | Valid |
+| 151997 | Neosoralen 5mg Tablet | Strip of 10 tablets | Valid |
+| 153130 | Neosorlen XXV 25mg Tablet | Strip of 10 tablets | Valid |
+| 155465 | Neosorlen V 5mg Tablet | Strip of 10 tablets | Valid |
+| 155729 | Neosal 5mg Tablet | Strip of 10 tablets | Valid |
+| 176688 | Promelan Forte 25mg Tablet | Strip of 10 tablets | Valid |
+| 177237 | Psoratop 25mg Tablet | Strip of 10 tablets | Valid |
+| 204533 | Sensitex 5mg Tablet | Strip of 10 tablets | Valid |
+| 217771 | Trilen Tablet | Strip of 10 tablets | Valid |
+| 218065 | Tribest 25mg Tablet | Strip of 10 tablets | Valid |
+| 218490 | Troid 5mg Tablet | Strip of 10 tablets | Valid |
+| 218741 | Trioxol 25mg Tablet | Strip of 10 tablets | Valid |
+| 220133 | Trixalen 25mg Tablet | Strip of 10 tablets | Valid |
+| 224291 | Triligo Forte 25mg Tablet | Strip of 10 tablets | Valid |
+| 233869 | Vitrex 25mg Tablet | Strip of 10 tablets | Valid |
+| 234833 | Vitiline 25mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

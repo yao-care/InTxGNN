@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 226
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Dacarbazine: predicted new indication Upper aerodigestive tract neoplasm (evidence level L5). Approved use: Hodgkin lymphoma (including classic Hodgkin lymphoma) and metastatic…"
 monitor_inn: "Dacarbazine"
 predicted_indications: ["upper aerodigestive tract neoplasm"]
@@ -85,15 +85,38 @@ Selected from the retrieved publications. None directly tests dacarbazine in upp
 
 ## India Market Information
 
-Twenty valid single-ingredient injectable registrations exist; the approved indication text is not available for any of them. Five examples:
+Twenty valid single-ingredient injectable registrations exist; the approved indication text is not available for any of them.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 67481 | Dacarex 500mg Injection | Vial of 1 injection | Not available |
-| 69542 | Dtic Vhb 500mg Injection | Vial of 1 injection | Not available |
-| 63200 | Dabaz 500 Injection | Vial of 1 powder for injection | Not available |
-| 172124 | Oncodac 500mg Injection | Vial of 1 injection | Not available |
-| 252049 | Zicarb 100mg Injection | Vial of 1 injection | Not available |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 16076 | Arzi 200mg Injection | Vial of 1 Powder for Injection | Valid |
+| 20947 | Arzi 1000mg Injection | Vial of 1 Powder for Injection | Valid |
+| 40027 | Celdaz 500 Injection | Vial of 1 Injection | Valid |
+| 40029 | Celdaz 200mg Injection | Vial of 1 Injection | Valid |
+| 44842 | Celdaz 100mg Injection | Vial of 1 Injection | Valid |
+| 63200 | Dabaz 500 Injection | Vial of 1 Powder for Injection | Valid |
+| 67033 | Decarex 200mg Injection | Vial of 1 Injection | Valid |
+| 67481 | Dacarex 500mg Injection | Vial of 1 Injection | Valid |
+| 69542 | Dtic Vhb 500mg Injection | Vial of 1 Injection | Valid |
+| 69711 | Dacarb 500mg Injection | Vial of 1 Injection | Valid |
+| 70795 | Dacarba 500mg Injection | Vial of 1 Injection | Valid |
+| 70889 | Dacares 500mg Injection | Vial of 1 Injection | Valid |
+| 70989 | Dazine 200mg Injection | Vial of 1 Injection | Valid |
+| 71800 | Dacarzine 200mg Injection | Vial of 1 Injection | Valid |
+| 148098 | Melarylz 200mg Injection | Vial of 1 Powder for Injection | Valid |
+| 148996 | Melarylz 500mg Injection | Vial of 1 Powder for Injection | Valid |
+| 172124 | Oncodac 500mg Injection | Vial of 1 Injection | Valid |
+| 250263 | Zicarb 200mg Injection | Vial of 1 Injection | Valid |
+| 251391 | Zicarb 500mg Injection | Vial of 1 Injection | Valid |
+| 252049 | Zicarb 100mg Injection | Vial of 1 Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

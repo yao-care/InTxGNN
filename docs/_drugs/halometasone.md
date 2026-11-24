@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 405
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Halometasone: predicted new indication Primary cutaneous T-cell lymphoma (evidence level L5). Approved use: Not specified in the registration data"
 monitor_inn: "Halometasone"
 predicted_indications: ["primary cutaneous T-cell lymphoma", "polyp of vocal cord", "polyp of middle ear", "uterine polyp", "polyp of external auditory canal", "polyp of frontal sinus", "polyp of ureter", "fibroepithelial polyp", "polyp of vulva", "neoplastic polyp"]
@@ -64,18 +64,24 @@ Nine other predicted indications (various polyps, such as vocal cord, middle ear
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 73013 | Execare Cream | Cream (tube of 10 gm) | Not stated |
-| 103820 | Halox F Cream | Cream (tube of 10 gm) | Not stated |
-| 104383 | Halostrol-F Cream | Cream (tube of 10 gm) | Not stated |
-| 72919 | Execare-F Cream | Cream (tube of 10 gm) | Not stated |
+<!-- licenses:begin -->
 
-All four registrations are valid products.
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 72919 | Execare-F Cream | Tube of 10 gm Cream | Valid |
+| 73013 | Execare Cream | Tube of 10 gm Cream | Valid |
+| 103820 | Halox F Cream | Tube of 10 gm Cream | Valid |
+| 104383 | Halostrol-F Cream | Tube of 10 gm Cream | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
+
+All registrations are valid products.
 
 <!-- review:begin in-lic-20261106-halometasone-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "All four registrations are valid single-ingredient products." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+> **Review correction (2026-11-24)**: Originally stated: "All four registrations are valid single-ingredient products." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Revised 2026-11-24: the hard-coded number of records and the wording about the old table were dropped; the Quick Overview and the product table under India Market Information show the current figures. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
 
 <!-- review:end in-lic-20261106-halometasone-1 -->
 
@@ -105,7 +111,7 @@ Below is the review log for this page: statements checked against official India
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-24 | Removed: "single-ingredient" | Corrected (revised 2026-11-24; earlier version kept in the record) | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 

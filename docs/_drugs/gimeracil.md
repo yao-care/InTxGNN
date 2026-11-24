@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 392
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 monitor_inn: "Gimeracil"
 predicted_indications: ["cecum villous adenoma", "lipoma of colon", "cecum neuroendocrine tumor G1", "rectosigmoid junction neoplasm", "colonic lymphangioma", "colon leiomyoma"]
 description: "Gimeracil: predicted new indication Cecum villous adenoma (evidence level L5). In India: 2 listed products (2 not discontinued)"
@@ -98,10 +98,16 @@ No randomized or systematic-review literature was retrieved. The publications ar
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Registration No. 228787 | Tegoyes 4.35mg/11.8mg/15mg Capsule (Torrent Pharmaceuticals Ltd) | Strip of 7 capsules | Not stated in the available data |
-| Registration No. 226940 | Tegoyes 5.8mg/15.8mg/20mg Capsule (Torrent Pharmaceuticals Ltd) | Strip of 7 capsules | Not stated in the available data |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 226940 | Tegoyes 5.8mg/15.8mg/20mg Capsule | Strip of 7 capsules | Valid |
+| 228787 | Tegoyes 4.35mg/11.8mg/15mg Capsule | Strip of 7 capsules | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ---
 

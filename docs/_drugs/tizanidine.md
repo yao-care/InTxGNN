@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 841
 evidence_level: L2
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Tizanidine"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "Tourette syndrome", "ulerythema ophryogenesis"]
 description: "Tizanidine: predicted new indication Migraine disorder (evidence level L2). In India: 15 listed products (15 not discontinued)"
@@ -94,15 +94,31 @@ One further registered study (NCT02403687, a topical analgesic observational stu
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 217069 | Tizan 4mg Tablet (Sun Pharmaceutical) | Strip of 10 tablets | Not stated |
-| 214866 | Tizan 2 Tablet (Sun Pharmaceutical) | Strip of 10 tablets | Not stated |
-| 199785 | Sirdalud 2mg Tablet (Novartis India) | Strip of 6 tablets | Not stated |
-| 138570 | Myodine 2mg Tablet (Bangalore Antibiotics & Biologicals) | Strip of 10 tablets | Not stated |
-| 97202 | Ginox Tablet (Gold Line) | Strip of 10 tablets | Not stated |
+<!-- licenses:begin -->
 
-All 15 single-ingredient licences are currently valid; the five above are shown as examples.
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 46913 | Contiz 2mg Tablet | Strip of 10 tablets | Valid |
+| 96677 | Ginox Gel | Tube of 30 gm Gel | Valid |
+| 97202 | Ginox Tablet | Strip of 10 tablets | Valid |
+| 138570 | Myodine 2mg Tablet | Strip of 10 tablets | Valid |
+| 199785 | Sirdalud 2mg Tablet | Strip of 6 tablets | Valid |
+| 214866 | Tizan 2 Tablet | Strip of 10 tablets | Valid |
+| 216310 | Tizpa 2mg Tablet | Strip of 10 tablets | Valid |
+| 217069 | Tizan 4mg Tablet | Strip of 10 tablets | Valid |
+| 219908 | Tizakind 2mg Tablet | Strip of 10 tablets | Valid |
+| 220442 | Tidired 2mg Tablet | Strip of 10 tablets | Valid |
+| 220863 | Tizonec 2mg Tablet | Strip of 10 tablets | Valid |
+| 220936 | Tizafree 2 Tablet | Strip of 10 tablets | Valid |
+| 221779 | Tizalide 100mg Tablet | Strip of 10 tablets | Valid |
+| 222578 | Tizarin 2mg Tablet | Strip of 10 tablets | Valid |
+| 248004 | Zanid 2mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
+
+All 15 single-ingredient licences are currently valid.
 
 ---
 

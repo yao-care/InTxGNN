@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 201
 evidence_level: L2
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Clomipramine: predicted new indication Anxiety disorder (evidence level L2). Approved use: Obsessive-compulsive disorder"
 monitor_inn: "Clomipramine"
 predicted_indications: ["anxiety disorder", "benign paroxysmal torticollis of infancy", "schizoid personality disorder", "histrionic personality disorder (disease)", "paranoid personality disorder", "schizotypal personality disorder", "agoraphobia", "attention deficit-hyperactivity disorder"]
@@ -102,15 +102,38 @@ A caveat: the registered trials supplied are mostly OCD-focused (augmentation st
 
 ## India Market Information
 
-Clomipramine has 20 valid single-ingredient registrations, all oral tablets. The approved indication text is not available in the data compiled for this report. Five examples:
+Clomipramine has 20 valid single-ingredient registrations, all oral tablets. The approved indication text is not available in the data compiled for this report.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 34314 | Clonil 10mg Tablet | Tablet (strip of 10) | Not listed |
-| 34872 | Clofranil 50mg Tablet | Tablet (strip of 10) | Not listed |
-| 6403 | Arimip 75mg Tablet SR | Sustained-release tablet (strip of 10) | Not listed |
-| 41714 | Clomip 50mg Tablet | Tablet (strip of 10) | Not listed |
-| 78479 | Ecmin 50mg Tablet | Tablet (strip of 10) | Not listed |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 2931 | Arimip 25mg Tablet | Strip of 10 tablets | Valid |
+| 6403 | Arimip 75mg Tablet SR | Strip of 10 tablet sr | Valid |
+| 34314 | Clonil 10mg Tablet | Strip of 10 tablets | Valid |
+| 34872 | Clofranil 50mg Tablet | Strip of 10 tablets | Valid |
+| 36654 | Clomicare 25 Tablet | Strip of 10 tablets | Valid |
+| 36892 | Clomidep 25mg Tablet | Strip of 10 tablets | Valid |
+| 37421 | Clomilent 25mg Tablet | Strip of 10 tablets | Valid |
+| 37537 | Clomidep 50mg Tablet | Strip of 10 tablets | Valid |
+| 41714 | Clomip 50mg Tablet | Strip of 10 tablets | Valid |
+| 42183 | Clomicare 10mg Tablet | Strip of 10 tablets | Valid |
+| 42379 | Clom 75mg Tablet SR | Strip of 10 tablet sr | Valid |
+| 43414 | Clominex 50 Tablet | Strip of 10 tablets | Valid |
+| 49428 | Clomexit 50mg Tablet | Strip of 10 tablets | Valid |
+| 54178 | Clonik 25mg Tablet | Strip of 10 tablets | Valid |
+| 63943 | D.D.Pramine 10mg Tablet | Strip of 10 tablets | Valid |
+| 78479 | Ecmin 50mg Tablet | Strip of 10 tablets | Valid |
+| 127034 | Liprax 10mg Tablet SR | Strip of 10 tablet sr | Valid |
+| 165231 | Obsenil 10mg Tablet | Strip of 10 tablets | Valid |
+| 169270 | Obnil 50mg Tablet | Strip of 10 tablets | Valid |
+| 180656 | Prumpin 75mg Tablet SR | Strip of 10 tablet sr | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ---
 

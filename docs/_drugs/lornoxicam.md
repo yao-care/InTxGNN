@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Lornoxicam"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "headache disorder", "trigeminal autonomic cephalalgia", "tendinitis", "myositis fibrosa"]
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-24
 description: "Lornoxicam: predicted new indication Migraine disorder (evidence level L5). In India: at least 20 listed products"
 ---
 
@@ -77,13 +77,36 @@ This is a class-level rationale only. No published study tests lornoxicam itself
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Registration No. 132637 | Lormyp 8mg/325mg Tablet | Strip of 10 tablets | Not stated in the records |
-| Registration No. 126438 | Lodol 4mg Tablet | Strip of 10 tablets | Not stated in the records |
-| Registration No. 250889 | Zoloxy 8mg Tablet | Strip of 10 tablets | Not stated in the records |
-| Registration No. 131888 | Lornok 8mg Tablet | Strip of 10 tablets | Not stated in the records |
-| Registration No. 232371 | Univer 4mg Tablet | Strip of 10 tablets | Not stated in the records |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 71073 | D Carnox P 8mg/325mg Tablet | Strip of 10 tablets | Valid |
+| 71611 | Durnox P 8mg/325mg Tablet | Strip of 10 tablets | Valid |
+| 85223 | Flexilor P 8mg/325mg Tablet | Strip of 10 tablets | Valid |
+| 125263 | Lorni Plus Tablet | Strip of 10 tablets | Valid |
+| 125630 | Lornigesic P 8mg/325mg Tablet | Strip of 10 tablets | Valid |
+| 126265 | Lornem P 8mg/325mg Tablet | Strip of 10 tablets | Valid |
+| 126438 | Lodol 4mg Tablet | Strip of 10 tablets | Valid |
+| 127600 | Lorbax P 8mg/325mg Tablet | Strip of 10 tablets | Valid |
+| 127730 | Lorelax P 4mg/325mg Tablet | Strip of 10 tablets | Valid |
+| 129953 | Loxica XP 8mg/325mg Tablet | Strip of 10 tablets | Valid |
+| 130013 | Lorniflex Plus 8 mg/500 mg Tablet | Strip of 10 tablets | Valid |
+| 130030 | Lonexi P 8mg/325mg Tablet | Strip of 10 tablets | Valid |
+| 130140 | Lorchek-P Tablet | Strip of 10 tablets | Valid |
+| 131425 | Lornoviz-P Tablet | Strip of 10 tablets | Valid |
+| 131888 | Lornok 8mg Tablet | Strip of 10 tablets | Valid |
+| 132637 | Lormyp 8mg/325mg Tablet | Strip of 10 tablets | Valid |
+| 133076 | Loristar P 8mg/325mg Tablet | Strip of 10 tablets | Valid |
+| 222411 | Trois CX Tablet | Strip of 10 tablets | Valid |
+| 232371 | Univer 4mg Tablet | Strip of 10 tablets | Valid |
+| 250889 | Zoloxy 8mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 At least 20 valid licences are on record, and the list may be partial.
 

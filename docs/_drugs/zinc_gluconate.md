@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 906
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Zinc gluconate"
 predicted_indications: ["anemia of prematurity", "injury", "cell proliferation disorder", "florid cemento-osseous dysplasia", "segmental odontomaxillary dysplasia", "perinatal disease", "radiation or chemically induced disorder", "disease by subcellular system affected", "iatrogenic disease", "regional odontodysplasia"]
 description: "Zinc Gluconate: predicted new indication Anemia of prematurity (evidence level L5). In India: 9 listed products (9 not discontinued)"
@@ -61,15 +61,25 @@ The original indications (ascorbic acid deficiency and scurvy) are nutritional d
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 249882 | Zincorun Oral Solution | Bottle of 100 ml oral solution | Not stated in the records |
-| 109187 | IZinc Oral Suspension | Bottle of 100 ml oral suspension | Not stated in the records |
-| 113921 | Jink Syrup | Bottle of 100 ml oral solution | Not stated in the records |
-| 248473 | Zincotus Syrup | Bottle of 100 ml syrup | Not stated in the records |
-| 246658 | Zioral Drops | Bottle of 15 ml oral drops | Not stated in the records |
+<!-- licenses:begin -->
 
-All 9 registrations are valid single-ingredient products; the five above are shown.
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 4450 | Adrovit Z Syrup | Bottle of 30 ml Syrup | Valid |
+| 109187 | IZinc Oral Suspension | Bottle of 100 ml Oral Suspension | Valid |
+| 113921 | Jink Syrup | Bottle of 100 ml Oral Solution | Valid |
+| 215980 | T-Zinc Syrup | Bottle of 100 ml Oral Solution | Valid |
+| 223034 | Tedyzin Syrup Mango | Bottle of 100 ml Syrup | Valid |
+| 246658 | Zioral Drops | Bottle of 15 ml Oral Drops | Valid |
+| 248473 | Zincotus Syrup | Bottle of 100 ml Syrup | Valid |
+| 249882 | Zincorun Oral Solution | Bottle of 100 ml Oral Solution | Valid |
+| 249889 | Zincium Oral Syrup | Bottle of 60 ml Syrup | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
+
+All 9 registrations are valid single-ingredient products.
 
 ## Safety Considerations
 

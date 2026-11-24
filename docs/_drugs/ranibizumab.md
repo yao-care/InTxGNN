@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Ranibizumab"
 predicted_indications: ["mature cataract", "immature cataract", "craniostenosis cataract", "tetanic cataract", "diabetes mellitus type 2 associated cataract", "nuclear senile cataract", "cortical cataract", "senile cataract", "hemorrhagic disease of newborn"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ranibizumab: predicted new indication Mature cataract (evidence level L5). Approved use: Diabetic retinopathy, macular degeneration…"
 ---
 
@@ -77,10 +77,16 @@ Currently no related clinical trials registered for mature cataract.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Registration No. 121668 | Lucentis Injection (Novartis India Ltd) | Vial of 1 ml injection | Not stated in the licence record |
-| Registration No. 184362 | Razumab 2.3mg Injection (Intas Pharmaceuticals Ltd) | Vial of 1 injection | Not stated in the licence record |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 121668 | Lucentis Injection | Vial of 1 ml Injection | Valid |
+| 184362 | Razumab 2.3mg Injection | Vial of 1 Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 Both licences are valid, single-ingredient products.
 

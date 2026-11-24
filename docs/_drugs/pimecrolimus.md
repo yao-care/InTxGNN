@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 671
 evidence_level: L2
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Pimecrolimus: predicted new indication Seborrheic dermatitis (evidence level L2). Approved use: Atopic eczema / atopic dermatitis"
 monitor_inn: "Pimecrolimus"
 predicted_indications: ["seborrheic dermatitis", "exanthem (disease)", "acrodermatitis chronica atrophicans"]
@@ -85,13 +85,20 @@ The very high TxGNN score is consistent with this reasoning. The published revie
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 178358 | Picon Lotion (Biocon) | 20 ml bottle, lotion | Not stated |
-| 174334 | Picon Cream (Biocon) | 10 g tube, cream | Not stated |
-| 174220 | Pacroma Cream (Ajanta Pharma) | 30 g tube, cream | Not stated |
-| 72524 | Elidel Cream (Mylan) | 10 g tube, cream | Not stated |
-| 173831 | Picon Cream (Biocon) | 30 g tube, cream | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 72524 | Elidel Cream | Tube of 10 gm Cream | Valid |
+| 173760 | Pacroma Cream | Tube of 10 gm Cream | Valid |
+| 173831 | Picon Cream | Tube of 30 gm Cream | Valid |
+| 174220 | Pacroma Cream | Tube of 30 gm Cream | Valid |
+| 174334 | Picon Cream | Tube of 10 gm Cream | Valid |
+| 178358 | Picon Lotion | Bottle of 20 ml Lotion | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

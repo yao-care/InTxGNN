@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "Metoprolol"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "chronic pulmonary heart disease", "trichotillomania"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Metoprolol: predicted new indication Malignant hypertensive renal disease (evidence level L5). Approved use: Hypertension"
 ---
 
@@ -81,15 +81,44 @@ Currently no related literature available for malignant hypertensive renal disea
 
 ## India Market Information
 
-At least 20 licences are on record, and the list may be partial. All are valid single-ingredient registrations. The records contain no approved-indication text. Five examples:
+At least 20 licences are on record, and the list may be partial. All are valid registrations. The records contain no approved-indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 73288 | Embeta XR 75mg Tablet | Strip of 15 extended-release tablets | Not stated in the records |
-| 94901 | Genericart Metoprolol Succinate 12.5mg Tablet ER | Strip of 10 extended-release tablets | Not stated in the records |
-| 6427 | Angibloc 50 Tablet PR | Strip of 10 prolonged-release tablets | Not stated in the records |
-| 139154 | Metored 50mg Tablet XL | Strip of 10 extended-release tablets | Not stated in the records |
-| 218623 | Topme-XL 50mg Tablet | Strip of 10 extended-release tablets | Not stated in the records |
+<!-- review:begin in-lic-20261124-metoprolol-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "All are valid single-ingredient registrations." Removed: it described the products as single-ingredient (or as having no combination products), which does not match the Indian medicine data (the Indian Medicine Dataset): some of the recorded products are fixed-dose combinations. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124-metoprolol-1 -->
+
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 6427 | Angibloc 50 Tablet PR | Strip of 10 Tablet pr | Valid |
+| 30652 | Betapress 50mg Tablet XL | Strip of 10 tablet xl | Valid |
+| 31346 | BetaMet 12.5mg Tablet XL | Strip of 10 tablet xl | Valid |
+| 33480 | Beboxia H Tablet | Strip of 10 tablets | Valid |
+| 48318 | Clovet M 50mg/6.25mg Tablet | Strip of 10 tablets | Valid |
+| 51064 | Cadprol 50mg Tablet XL | Strip of 10 tablet xl | Valid |
+| 73288 | Embeta XR 75mg Tablet | Strip of 15 tablet er | Valid |
+| 80930 | Excemet 25mg Tablet XL | Strip of 10 tablet xl | Valid |
+| 94901 | Genericart Metoprolol Succinate 12.5mg Tablet ER | Strip of 10 tablet er | Valid |
+| 136562 | Metadon 25mg Tablet XL | Strip of 10 tablet xl | Valid |
+| 138053 | Mettop 25mg Tablet XL | Strip of 10 tablet xl | Valid |
+| 139154 | Metored 50mg Tablet XL | Strip of 10 tablet xl | Valid |
+| 139982 | Metadon 50mg Tablet XL | Strip of 10 tablet xl | Valid |
+| 140719 | Metosan XR 25 Tablet | Strip of 10 tablet er | Valid |
+| 140942 | Mymeta XL 50mg Tablet ER | Strip of 10 tablet er | Valid |
+| 144468 | Metoan H 25mg/12.5mg Tablet | Strip of 10 tablets | Valid |
+| 144978 | Metoprime 25mg Tablet XL | Strip of 10 tablet xl | Valid |
+| 148084 | Metocop 25mg Tablet | Strip of 10 tablets | Valid |
+| 212848 | Starbeta 50mg Tablet XL | Strip of 10 tablet xl | Valid |
+| 218623 | Topme-XL 50mg Tablet | Strip of 10 tablet er | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 All listed forms are oral tablets.
 
@@ -145,11 +174,12 @@ For chronic pulmonary heart disease, the supplied evidence concerns related cond
 
 ## Review Log
 
-Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Toprol Xl (metoprolol succinate) prescribing information, Melinta Therapeutics, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=496ddfaa-7c9c-4888-b747-a210249b367a) |
+| 2026-11-24 | Removed: the single-ingredient claim | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 911
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Zolpidem"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia"]
 description: "Zolpidem: predicted new indication Benign paroxysmal torticollis of infancy (evidence level L5). In India: at least 20 listed products"
@@ -86,15 +86,38 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-The data compiled for this report contains no approved indication text for these licences. Of the 20 valid single-ingredient registrations, the main ones are:
+The data compiled for this report contains no approved indication text for these licences.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 251751 | Zolit 10mg Tablet | Strip of 10 tablets | Not stated |
-| 63322 | Dactive 12.5mg Tablet | Strip of 7 tablets | Not stated |
-| 101218 | Goodnoct 6.25mg Tablet XR | Strip of 10 XR tablets | Not stated |
-| 249782 | Zedem 12.5mg Tablet ER | Strip of 10 ER tablets | Not stated |
-| 64429 | Dactive 10mg Tablet | Strip of 10 tablets | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 63322 | Dactive 12.5mg Tablet | Strip of 7 tablets | Valid |
+| 63607 | Dem 10mg Tablet | Strip of 10 tablets | Valid |
+| 64429 | Dactive 10mg Tablet | Strip of 10 tablets | Valid |
+| 101218 | Goodnoct 6.25mg Tablet XR | Strip of 10 tablet xr | Valid |
+| 111638 | Insom-ZD 5mg Tablet | Strip of 10 tablets | Valid |
+| 151700 | Nidra 5mg Tablet | Strip of 10 tablets | Valid |
+| 204721 | Slanate 10mg Tablet | Strip of 10 tablets | Valid |
+| 208128 | Sedopee 10mg Tablet | Strip of 10 tablets | Valid |
+| 246888 | Zenex 5mg Tablet | Strip of 10 tablets | Valid |
+| 248215 | Zopid 5mg Tablet | Strip of 10 tablets | Valid |
+| 248395 | Zolpicalm 10mg Tablet | Strip of 10 tablets | Valid |
+| 248606 | Zolpeace 10mg Tablet | Strip of 10 tablets | Valid |
+| 248660 | Zoldy 5mg Tablet | Strip of 10 tablets | Valid |
+| 249667 | Zolsleep 10mg Tablet | Strip of 10 tablets | Valid |
+| 249782 | Zedem 12.5mg Tablet ER | Strip of 10 tablet er | Valid |
+| 249839 | Zoltar 5mg Tablet | Strip of 10 tablets | Valid |
+| 250723 | Zolpa 10 Tablet | Strip of 15 tablets | Valid |
+| 250853 | Zolp 5mg Tablet | Strip of 10 tablets | Valid |
+| 251751 | Zolit 10mg Tablet | Strip of 10 tablets | Valid |
+| 252045 | Zolidac 5mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 All forms are oral (immediate-release, extended-release and controlled-release tablets).
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Chlorambucil"
 predicted_indications: ["ALK-positive large B-cell lymphoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "pulmonary blastoma", "small cell lung carcinoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Chlorambucil: predicted new indication ALK-positive large B-cell lymphoma (evidence level L5). In India: 7 listed products (7 not discontinued)"
 ---
 
@@ -73,15 +73,23 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 40820 | Clokeran 2 Tablet | Strip of 30 tablets | Not stated in the licence record |
-| 40553 | Celkeran 2 Tablet | Strip of 30 tablets | Not stated in the licence record |
-| 185873 | Radix AQ 5mg Tablet | Strip of 30 tablets | Not stated in the licence record |
-| 38855 | Clokeran 5mg Tablet | Strip of 30 tablets | Not stated in the licence record |
-| 38241 | Celkeran 5mg Tablet | Strip of 30 tablets | Not stated in the licence record |
+<!-- licenses:begin -->
 
-Seven valid single-ingredient licences are on record in total (the table lists five). No combination products are included.
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 38241 | Celkeran 5mg Tablet | Strip of 30 tablets | Valid |
+| 38855 | Clokeran 5mg Tablet | Strip of 30 tablets | Valid |
+| 40477 | Chloramax 2mg Tablet | Bottle of 30 tablets | Valid |
+| 40553 | Celkeran 2 Tablet | Strip of 30 tablets | Valid |
+| 40820 | Clokeran 2 Tablet | Strip of 30 tablets | Valid |
+| 42889 | Chloramax 5 Tablet | Bottle of 30 tablets | Valid |
+| 185873 | Radix AQ 5mg Tablet | Strip of 30 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
+
+Seven valid single-ingredient licences are on record in total. No combination products are included.
 
 ## Cytotoxicity
 

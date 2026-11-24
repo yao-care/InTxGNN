@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Desvenlafaxine"
 predicted_indications: ["obsessive-compulsive disorder", "histrionic personality disorder (disease)", "schizoid personality disorder", "schizotypal personality disorder", "paranoid personality disorder", "Ohdo syndrome and variants", "benign paroxysmal torticollis of infancy", "agoraphobia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Desvenlafaxine: predicted new indication obsessive-compulsive disorder (evidence level L5). In India: at least 20 listed products"
 ---
 
@@ -85,15 +85,38 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-At least 20 single-ingredient licences are currently valid, and none are cancelled. The list may be partial. The licence records contain no approved-indication text. Main products:
+At least 20 single-ingredient licences are currently valid, and none are cancelled. The list may be partial. The licence records contain no approved-indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 65334 | Desteyn Plus 100mg/0.5mg Tablet ER | Extended-release tablet | Not recorded |
-| 60249 | Defmind 50mg Tablet | Tablet | Not recorded |
-| 60632 | Dexfin 50 Tablet ER | Extended-release tablet | Not recorded |
-| 234579 | Venpower 100mg Tablet | Tablet | Not recorded |
-| 234940 | Venz OD 50mg Tablet | Tablet | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 58319 | D-Veniz 50 Tablet ER | Strip of 10 tablet er | Valid |
+| 58862 | D-Venizep 100 Tablet ER | Strip of 10 tablet er | Valid |
+| 59094 | D-Venlor 100 Tablet ER | Strip of 10 tablet er | Valid |
+| 59774 | Denlafax 50 Tablet PR | Strip of 10 Tablet pr | Valid |
+| 60249 | Defmind 50mg Tablet | Strip of 10 tablets | Valid |
+| 60632 | Dexfin 50 Tablet ER | Strip of 10 tablet er | Valid |
+| 61084 | Defmind Plus Tablet ER | Strip of 10 tablet er | Valid |
+| 61423 | Desfuro-XR 50 Tablet | Strip of 10 tablet er | Valid |
+| 61524 | Deven-LA 100 Tablet | Strip of 10 tablets | Valid |
+| 62105 | Desvine 50 ER Tablet | Strip of 10 tablet er | Valid |
+| 63636 | Desnova 50 Tablet ER | Strip of 10 tablet er | Valid |
+| 64121 | D-Flaxene ER 100 Tablet | Strip of 10 tablet er | Valid |
+| 65334 | Desteyn Plus 100mg/0.5mg Tablet ER | Strip of 10 tablet er | Valid |
+| 67225 | Deslafax 100mg Tablet | Strip of 10 tablets | Valid |
+| 78179 | Emofexine Plus 50mg/0.5mg Tablet | Strip of 10 tablets | Valid |
+| 209474 | StayHappi Desvenlafaxine 50mg Tablet | Strip of 10 tablets | Valid |
+| 234108 | Vendep-D 50 Tablet ER | Strip of 10 tablet er | Valid |
+| 234579 | Venpower 100mg Tablet | Strip of 10 tablets | Valid |
+| 234940 | Venz OD 50mg Tablet | Strip of 10 tablets | Valid |
+| 247296 | Zyven OD Plus 100 mg/0.5 mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ---
 

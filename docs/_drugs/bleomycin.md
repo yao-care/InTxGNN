@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 113
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Bleomycin"
 predicted_indications: ["cauda equina neoplasm", "adult astrocytic tumour", "primary pulmonary lymphoma", "pulmonary blastoma", "well-differentiated fetal adenocarcinoma of the lung"]
 description: "Bleomycin: predicted new indication Cauda equina neoplasm (evidence level L5). In India: 18 listed products (18 not discontinued)"
@@ -73,15 +73,34 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 26306 | Bleomycin Sulphate Injection (Dabur India Ltd) | Vial of 1 ml injection | Not stated |
-| 167240 | Oncobleo 15IU Injection (Sun Pharmaceutical Industries Ltd) | Vial of 1 injection | Not stated |
-| 32205 | Bledmax 15mg Injection (Max India Ltd) | Vial of 1 powder for injection | Not stated |
-| 29038 | Bleotex 15IU Injection (Alkem Laboratories Ltd) | Vial of 1 injection | Not stated |
-| 219746 | Tumocin 15IU Injection (Neon Laboratories Ltd) | Vial of 1 ml injection | Not stated |
+<!-- licenses:begin -->
 
-These are 5 of the 18 valid single-ingredient licences. None of the licence records carries indication text.
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 26306 | Bleomycin Sulphate Injection | Vial of 1 ml Injection | Valid |
+| 26540 | Bleocel 15IU Injection | Vial of 1 ml Injection | Valid |
+| 28040 | Bleocin Injection | Vial of 1 Injection | Valid |
+| 28066 | Bleochem 15IU Injection | Vial of 1 Injection | Valid |
+| 29038 | Bleotex 15IU Injection | Vial of 1 Injection | Valid |
+| 30898 | Bleowel 15IU Injection | Vial of 1 Injection | Valid |
+| 31004 | Bleocol 15IU Injection | Vial of 1 Injection | Valid |
+| 31506 | Bleocare 15mg Injection | Vial of 1 Injection | Valid |
+| 31747 | Blomin 15IU Injection | Vial of 1 Injection | Valid |
+| 32205 | Bledmax 15mg Injection | Vial of 1 Powder for Injection | Valid |
+| 32396 | Bleolem 15mg Injection | Vial of 1 Injection | Valid |
+| 32712 | Bleocare 30mg Injection | Vial of 1 Injection | Valid |
+| 144283 | Metbleo Injection | Vial of 1 Injection | Valid |
+| 155196 | Naprobleo 15IU Injection | Vial of 1 Injection | Valid |
+| 167240 | Oncobleo 15IU Injection | Vial of 1 Injection | Valid |
+| 169639 | Oil Bleo 30mg Injection | Vial of 1 Injection | Valid |
+| 219746 | Tumocin 15IU Injection | Vial of 1 ml Injection | Valid |
+| 224367 | Tumocin 30mg Injection | Vial of 1 Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
+
+None of the licence records carries indication text.
 
 ## Cytotoxicity
 

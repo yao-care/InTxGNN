@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Potassium citrate"
 predicted_indications: ["familial visceral myopathy", "mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies", "Pendred syndrome", "cystinosis", "autosomal recessive nonsyndromic deafness", "exocrine pancreatic insufficiency", "leukocyte adhesion deficiency", "adult Fanconi syndrome"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 description: "Potassium Citrate: predicted new indication Familial visceral myopathy (evidence level L5). In India: at least 20 listed products"
 ---
 
@@ -82,15 +82,38 @@ Currently no related literature available.
 
 ## India Market Information
 
-At least 20 valid licences for single-ingredient products are on record, and the list may be partial. The licence records do not include approved indication text. Five representative licences:
+At least 20 valid licences for single-ingredient products are on record, and the list may be partial. The licence records do not include approved indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 174780 | Potrate 5 Tablet ER | Strip of 10 extended-release tablets | Not stated in licence record |
-| 174035 | Potrate 10 Tablet ER | Strip of 10 extended-release tablets | Not stated in licence record |
-| 230472 | Urofit Oral Solution | 300 ml bottle, oral solution | Not stated in licence record |
-| 230308 | Urofit Oral Solution | 100 ml bottle, oral solution | Not stated in licence record |
-| 86199 | Floblis Syrup | 200 ml bottle, syrup | Not stated in licence record |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 407 | Alkamax MB Alkamax MB6 Oral Solution | Bottle of 200 ml Oral Solution | Valid |
+| 1456 | Alkamax MB6 Oral Solution Mango Sugar Free | Bottle of 200 ml Oral Solution | Valid |
+| 61769 | DvMac-B6 Oral Solution Pineapple | Bottle of 200 ml Oral Solution | Valid |
+| 86199 | Floblis Syrup | Bottle of 200 ml Syrup | Valid |
+| 89614 | Forculi Oral Solution Orange Sugar Free | Bottle of 450 ml Oral Solution | Valid |
+| 115823 | K Mac B6 Oral Solution | Bottle of 200 ml Oral Solution | Valid |
+| 116103 | KB6 Oral Solution Orange Sugar Free | Bottle of 200 ml Oral Solution | Valid |
+| 116363 | KB6 Oral Solution Orange Sugar Free | Bottle of 450 ml Oral Solution | Valid |
+| 121952 | Lizerton B6 Oral Solution Orange Sugar Free | Bottle of 200 ml Oral Solution | Valid |
+| 150471 | Noculi B6 Oral Solution | Bottle of 200 ml Oral Solution | Valid |
+| 174035 | Potrate 10 Tablet ER | Strip of 10 tablet er | Valid |
+| 174780 | Potrate 5 Tablet ER | Strip of 10 tablet er | Valid |
+| 175211 | Peb MB 6 Syrup Raspberry | Bottle of 200 ml Syrup | Valid |
+| 176063 | Pcmag-B6 Oral Solution Pineapple | Bottle of 200 ml Oral Solution | Valid |
+| 199908 | Ston 1B6 Oral Solution Delicious Pineapple | Bottle of 450 ml Oral Solution | Valid |
+| 201022 | Ston 1B6 Oral Solution Raspberry | Bottle of 450 ml Oral Solution | Valid |
+| 230287 | Uriliser MB6 Oral Solution Lemon Sugar Free | Bottle of 200 ml Oral Solution | Valid |
+| 230308 | Urofit Oral Solution | Bottle of 100 ml Oral Solution | Valid |
+| 230472 | Urofit Oral Solution | Bottle of 300 ml Oral Solution | Valid |
+| 235659 | Vital PCM Oral Solution Orange Sugar Free | Bottle of 200 ml Oral Solution | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ---
 

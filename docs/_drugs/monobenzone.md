@@ -5,7 +5,7 @@ layout: default
 title: Monobenzone
 parent: Known Uses Only (No New Predictions)
 nav_order: 567
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 description: "Monobenzone: known uses and market status in India; currently no new candidate indication"
 monitor_inn: "Monobenzone"
 predicted_indications: []
@@ -48,12 +48,18 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 96014 | Genquin Cream (Neova Biogene Private Limited) | Cream, 30 g tube | Not stated |
-| 26186 | Benoquin Cream (Brinton Pharmaceuticals Pvt Ltd) | Cream, 30 g tube | Not stated |
-| 26245 | Benoquin Ointment (Mac Laboratories Ltd) | Ointment, 20 g tube | Not stated |
-| 3424 | Albaquin 20% Cream (Puneet Laboratories Pvt Ltd) | Cream, 20 g tube | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 3424 | Albaquin 20% Cream | Tube of 20 gm Cream | Valid |
+| 26186 | Benoquin Cream | Tube of 30 gm Cream | Valid |
+| 26245 | Benoquin Ointment | Tube of 20 gm Ointment | Valid |
+| 96014 | Genquin Cream | Tube of 30 gm Cream | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 All four registrations are valid single-ingredient products. All are topical forms, so a route-compatibility assessment for the predicted indications has not been completed.
 

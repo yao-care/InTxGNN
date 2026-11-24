@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 230
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Danazol: predicted new indication Amenorrhea (disease) (evidence level L5). Approved use: Endometriosis"
 monitor_inn: "Danazol"
 predicted_indications: ["amenorrhea (disease)", "blunt duct adenosis of breast", "apocrine adenosis of breast", "fat necrosis of breast", "breast abscess", "lactation disease", "breast adenosis", "vulvovaginitis", "vulvitis"]
@@ -97,13 +97,36 @@ Currently no related clinical trials registered.
 
 The approved-indication text was not recorded for any licence. Twenty valid single-ingredient registrations exist; the main ones are:
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 124467 | Ladogal 50mg Capsule (Sanofi India Ltd) | Strip of 10 capsules | Not recorded |
-| 123026 | Ladogal 100mg Capsule (Sanofi India Ltd) | Strip of 10 capsules | Not recorded |
-| 58574 | Danogen 200 Capsule (Cipla Ltd) | Strip of 10 capsules | Not recorded |
-| 94655 | Gynazol 200mg Capsule (Sun Pharmaceutical Industries Ltd) | Strip of 10 capsules | Not recorded |
-| 247045 | Zendol 200mg Capsule (Serum Institute of India Ltd) | Strip of 10 capsules | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 58574 | Danogen 200 Capsule | Strip of 10 capsules | Valid |
+| 60578 | Danozec 100mg Capsule | Strip of 10 capsules | Valid |
+| 62965 | Danarin 100mg Tablet | Strip of 10 tablets | Valid |
+| 64491 | Donogen 50mg Capsule | Strip of 10 capsules | Valid |
+| 64918 | Dano 50mg Tablet | Strip of 10 tablets | Valid |
+| 65693 | DNZ 200 Capsule | Strip of 10 capsules | Valid |
+| 65907 | Danzox 200mg Capsule | Strip of 10 capsules | Valid |
+| 66142 | DNZ 100 Capsule | Strip of 10 capsules | Valid |
+| 68439 | Danozip 200mg Capsule | Strip of 10 capsules | Valid |
+| 70415 | Danameg 50mg Tablet | Strip of 10 tablets | Valid |
+| 70658 | Danameg 200mg Tablet | Strip of 10 tablets | Valid |
+| 74147 | Endometryl 200mg Capsule | Strip of 10 capsules | Valid |
+| 94655 | Gynazol 200mg Capsule | Strip of 10 capsules | Valid |
+| 95325 | Gynodan 50mg Capsule | Strip of 10 capsules | Valid |
+| 99708 | Gynadom 200mg Tablet | Strip of 10 tablets | Valid |
+| 101243 | Gynadom 100mg Tablet | Strip of 10 tablets | Valid |
+| 101280 | Gonablok 200 Capsule | Box of 30 capsules | Valid |
+| 123026 | Ladogal 100mg Capsule | Strip of 10 capsules | Valid |
+| 124467 | Ladogal 50mg Capsule | Strip of 10 capsules | Valid |
+| 247045 | Zendol 200mg Capsule | Strip of 10 capsules | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ---
 

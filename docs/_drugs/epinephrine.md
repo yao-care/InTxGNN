@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 314
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Epinephrine"
 predicted_indications: ["obstructive lung disease", "Rienhoff syndrome", "respiratory malformation"]
 description: "Epinephrine: predicted new indication Obstructive lung disease (evidence level L5). In India: 8 listed products (8 not discontinued)"
@@ -94,19 +94,28 @@ Fifteen trials were compiled; the 10 most relevant are listed below.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 5924 | Adroglare 1mg Injection | Vial of 1 ml injection | Not available |
-| 73948 | Enatrate Injection | Vial of 1 ml injection | Not available |
-| 73617 | Epitrate Injection 1 ml | Vial of 1 ml injection | Not available |
-| 3008 | Adraclor Injection | Ampoule of 1 ml injection | Not available |
-| 233294 | Vasocon Injection | Vial of 1 ml injection | Not available |
+<!-- licenses:begin -->
 
-All 8 registrations are valid injectables. No inhaled product is registered in India according to the compiled data.
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 150 | Adrenaline Tartrate Injection | Vial of 1 ml Injection | Valid |
+| 1589 | Adrelin Injection | Vial of 1 ml Injection | Valid |
+| 3008 | Adraclor Injection | Ampoule of 1 ml Injection | Valid |
+| 5924 | Adroglare 1mg Injection | Vial of 1 ml Injection | Valid |
+| 60793 | Dianora 1mg Injection | Vial of 2 ml Injection | Valid |
+| 73617 | Epitrate Injection 1 ml | Vial of 1 ml Injection | Valid |
+| 73948 | Enatrate Injection | Vial of 1 ml Injection | Valid |
+| 233294 | Vasocon Injection | Vial of 1 ml Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
+
+All registrations are valid injectables. No inhaled product is registered in India according to the compiled data.
 
 <!-- review:begin in-lic-20261106-epinephrine-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "All 8 registrations are valid single-ingredient injectables." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+> **Review correction (2026-11-24)**: Originally stated: "All 8 registrations are valid single-ingredient injectables." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Revised 2026-11-24: the hard-coded number of records and the wording about the old table were dropped; the Quick Overview and the product table under India Market Information show the current figures. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
 
 <!-- review:end in-lic-20261106-epinephrine-1 -->
 
@@ -147,7 +156,7 @@ Below is the review log for this page: statements checked against official India
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-24 | Removed: "single-ingredient" | Corrected (revised 2026-11-24; earlier version kept in the record) | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 | 2026-11-19 | "Detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Auvi-Q (epinephrine) prescribing information, Sportpharm LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5f40988b-8365-4f7b-84d1-b88e053725cf) |
 
 <!-- review:end log -->

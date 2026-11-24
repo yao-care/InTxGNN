@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Desloratadine"
 predicted_indications: ["nasal cavity disease", "recalcitrant atopic dermatitis", "IgE responsiveness, atopic", "rosacea conjunctivitis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Desloratadine: predicted new indication nasal cavity disease (evidence level L5). In India: at least 20 listed products"
 ---
 
@@ -75,13 +75,36 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 61135 | Desolid M 5mg/10mg Tablet | Strip of 10 tablets | Not recorded |
-| 63132 | Desolate 10mg Tablet | Strip of 10 tablets | Not recorded |
-| 59208 | Dest 5mg Tablet | Strip of 10 tablets | Not recorded |
-| 62951 | Drewex 5mg Tablet | Strip of 10 tablets | Not recorded |
-| 60919 | Desgic 5 Tablet | Strip of 10 tablets | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 2479 | Alde 5mg Tablet | Strip of 10 tablets | Valid |
+| 58373 | Deskast Tablet | Strip of 10 tablets | Valid |
+| 59208 | Dest 5mg Tablet | Strip of 10 tablets | Valid |
+| 59235 | Des-OD 5mg Tablet | Strip of 10 tablets | Valid |
+| 59948 | Deslorid 5mg Tablet | Strip of 10 tablets | Valid |
+| 60059 | Deltar 5mg Tablet | Strip of 10 tablets | Valid |
+| 60919 | Desgic 5 Tablet | Strip of 10 tablets | Valid |
+| 61135 | Desolid M 5mg/10mg Tablet | Strip of 10 tablets | Valid |
+| 61791 | Descure Tablet | Strip of 10 tablets | Valid |
+| 62639 | Desent 5mg Tablet | Strip of 10 tablets | Valid |
+| 62951 | Drewex 5mg Tablet | Strip of 10 tablets | Valid |
+| 63132 | Desolate 10mg Tablet | Strip of 10 tablets | Valid |
+| 63370 | Descet 5mg Tablet | Strip of 10 tablets | Valid |
+| 66755 | Desolid 5mg Tablet | Strip of 10 tablets | Valid |
+| 67961 | Disitch 5mg Tablet | Strip of 10 tablets | Valid |
+| 122641 | Lordil D Tablet | Strip of 10 tablets | Valid |
+| 133196 | Lorin D 5mg Tablet | Strip of 10 tablets | Valid |
+| 227709 | Teclor 5mg Tablet | Strip of 10 tablets | Valid |
+| 235641 | Veromon 5mg Tablet | Strip of 10 tablets | Valid |
+| 242607 | Wintaray 5mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 At least 20 single-ingredient licences are currently valid, and the list may be partial.
 

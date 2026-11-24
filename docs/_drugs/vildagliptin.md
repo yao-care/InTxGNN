@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Vildagliptin"
 predicted_indications: ["classic stiff person syndrome", "focal stiff limb syndrome", "thiamine-responsive dysfunction syndrome", "opsismodysplasia", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Vildagliptin: predicted new indication Classic stiff person syndrome (evidence level L5). Approved use: Type 2 diabetes mellitus"
 ---
 
@@ -73,15 +73,38 @@ Currently no related literature available for classic stiff person syndrome.
 
 ## India Market Information
 
-At least 20 valid single-ingredient licences are recorded (the list may be partial). The licence records contain no approved-indication text. Main examples:
+At least 20 valid single-ingredient licences are recorded (the list may be partial). The licence records contain no approved-indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 233750 | Vildanex 50mg Tablet | Strip of 15 tablets | Not stated in licence record |
-| 236907 | Venna 100mg Tablet SR | Strip of 10 SR tablets | Not stated in licence record |
-| 233613 | Vilnip Tablet | Strip of 15 tablets | Not stated in licence record |
-| 238614 | Vildamence 50mg Tablet | Strip of 15 tablets | Not stated in licence record |
-| 235163 | Vildalor 50mg Tablet | Strip of 10 tablets | Not stated in licence record |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 60979 | Debiglip 100 SR Tablet | Strip of 15 tablet sr | Valid |
+| 78373 | Euvilda 50mg Tablet | Strip of 10 tablets | Valid |
+| 163646 | O Vildalog 100 Tablet SR | Strip of 10 tablet sr | Valid |
+| 167372 | Oldglip 50mg Tablet | Strip of 10 tablets | Valid |
+| 233613 | Vilnip Tablet | Strip of 15 tablets | Valid |
+| 233738 | Vidaglo Tablet | Strip of 10 tablets | Valid |
+| 233750 | Vildanex 50mg Tablet | Strip of 15 tablets | Valid |
+| 233805 | Vildazem 50mg Tablet | Strip of 10 tablets | Valid |
+| 233910 | Vil-G Tablet | Strip of 15 tablets | Valid |
+| 234048 | Vildanex 100mg Tablet SR | Strip of 10 tablet sr | Valid |
+| 234186 | Vicemic Tablet | Strip of 15 tablets | Valid |
+| 234217 | Vildaprime 50mg Tablet | Strip of 15 tablets | Valid |
+| 235163 | Vildalor 50mg Tablet | Strip of 10 tablets | Valid |
+| 235359 | Vildact 50mg Tablet | Strip of 15 tablets | Valid |
+| 236338 | Vildapure 50mg Tablet | Strip of 10 tablets | Valid |
+| 236907 | Venna 100mg Tablet SR | Strip of 10 tablet sr | Valid |
+| 237335 | Vild Well 50mg Tablet | Strip of 15 tablets | Valid |
+| 238614 | Vildamence 50mg Tablet | Strip of 15 tablets | Valid |
+| 239661 | Vildock 50mg Tablet | Strip of 15 tablets | Valid |
+| 250300 | Ziglip 50 Tablet | Strip of 15 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

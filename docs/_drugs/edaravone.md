@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 297
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Edaravone: predicted new indication Heparin cofactor 2 deficiency (evidence level L5). Approved use: Ischemic stroke, stroke disorder, amyotrophic lateral sclerosis"
 monitor_inn: "Edaravone"
 predicted_indications: ["heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis"]
@@ -71,15 +71,38 @@ Currently no related literature available.
 
 ## India Market Information
 
-Edaravone has 20 valid single-ingredient registrations in India and none are cancelled. The registrations include no approved indication text. Five of them are listed below.
+Edaravone has 20 valid single-ingredient registrations in India and none are cancelled. The registrations include no approved indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Registration No. 77525 | Edivone 1.5mg Injection | Vial of 20 ml injection | Not stated |
-| Registration No. 72868 | Edastar Injection | Vial of 20 ml injection | Not stated |
-| Registration No. 74902 | Edastar 1.5mg Tablet | Strip of 10 tablets | Not stated |
-| Registration No. 88647 | Fraseda 1.5mg Injection | Vial of 20 ml injection | Not stated |
-| Registration No. 494 | Aravon Injection | Vial of 20 ml injection | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 494 | Aravon Injection | Vial of 20 ml Injection | Valid |
+| 53927 | Convaron Injection | Ampoule of 20 ml Injection | Valid |
+| 67526 | Dravon 1500mg Injection | Vial of 1 Injection | Valid |
+| 72868 | Edastar Injection | Vial of 20 ml Injection | Valid |
+| 73931 | Edanox 1.5mg Injection | Vial of 20 ml Injection | Valid |
+| 74902 | Edastar 1.5mg Tablet | Strip of 10 tablets | Valid |
+| 77525 | Edivone 1.5mg Injection | Vial of 20 ml Injection | Valid |
+| 78146 | Edcross 1.5mg Injection | Vial of 20 ml Injection | Valid |
+| 78993 | Edasure 1.5mg Injection | Vial of 20 ml Injection | Valid |
+| 79377 | Edosat 1.5mg Injection | Vial of 20 ml Injection | Valid |
+| 79749 | Ezycut 1.5mg Injection | Vial of 20 ml Injection | Valid |
+| 79876 | Evaspey Injection | Ampoule of 20 ml Injection | Valid |
+| 80558 | Edax 1.5mg Injection | Ampoule of 20 ml Injection | Valid |
+| 80814 | ED 1.5mg Injection | Vial of 20 ml Injection | Valid |
+| 81598 | Edavone 1500mg Injection | Vial of 1 Injection | Valid |
+| 82552 | Erivon Injection | Ampoule of 20 ml Injection | Valid |
+| 88289 | Fesuvor Injection | Ampoule of 20 ml Injection | Valid |
+| 88647 | Fraseda 1.5mg Injection | Vial of 20 ml Injection | Valid |
+| 154137 | Neurovon 30mg Injection | Ampoule of 1 Injection | Valid |
+| 192197 | Ridostro Injection | Ampoule of 1 Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 Most products are injectables, and one oral tablet is registered.
 

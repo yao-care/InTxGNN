@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 10
 monitor_inn: "Cefprozil"
 predicted_indications: ["urinary tract infection (disease)", "epiglottitis", "Ureaplasma urethritis", "gonococcal urethritis", "xanthogranulomatous pyelonephritis", "uterine inflammatory disease", "pneumonia", "laryngitis", "urogenital tuberculosis", "abdominal tuberculosis"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 description: "Cefprozil: predicted new indication urinary tract infection (disease) (evidence level L2). In India: 12 listed products (12 not discontinued)"
 ---
 
@@ -82,13 +82,26 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 184487 | Refzil O Suspension | Powder for oral suspension, bottle of 30 ml | Not recorded |
-| 184410 | Refzil O 500mg Tablet | Strip of 6 tablets | Not recorded |
-| 135825 | Maxizil 500mg Tablet | Strip of 6 tablets | Not recorded |
-| 114461 | Jozil 500mg Tablet | Strip of 6 tablets | Not recorded |
-| 169028 | Orprozil 250mg Tablet | Strip of 4 tablets | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 114461 | Jozil 500mg Tablet | Strip of 6 tablets | Valid |
+| 135825 | Maxizil 500mg Tablet | Strip of 6 tablets | Valid |
+| 164196 | Orozil Oral Suspension | Bottle of 30 ml Oral Suspension | Valid |
+| 165066 | Orprozil 500mg Tablet | Strip of 4 tablets | Valid |
+| 169028 | Orprozil 250mg Tablet | Strip of 4 tablets | Valid |
+| 184410 | Refzil O 500mg Tablet | Strip of 6 tablets | Valid |
+| 184476 | Refzil O Oral Suspension | Bottle of 30 ml Oral Suspension | Valid |
+| 184487 | Refzil O Suspension | Bottle of 30 ml Powder for Oral Suspension | Valid |
+| 184695 | Refzil O 250mg Tablet | Strip of 10 tablets | Valid |
+| 185227 | Refzil O 50mg Drop | Packet of 10 ml Drop | Valid |
+| 221821 | TORRES 250MG TABLET | Strip of 10 tablets | Valid |
+| 247825 | Zemetril 500mg Tablet | Strip of 6 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

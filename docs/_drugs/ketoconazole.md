@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 462
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Ketoconazole"
 predicted_indications: ["acne (disease)"]
 description: "Ketoconazole: predicted new indication Acne (disease) (evidence level L4). In India: at least 20 listed products"
@@ -99,15 +99,38 @@ No randomized controlled trial of ketoconazole in acne is among the retrieved pu
 
 ## India Market Information
 
-Twenty single-ingredient ketoconazole licences are currently valid in India. The approved indication text is not available in the licence records. The main authorizations are:
+Twenty single-ingredient ketoconazole licences are currently valid in India. The approved indication text is not available in the licence records.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 223281 | Tona 200mg Tablet | Strip of 10 tablets | Not stated |
-| 118672 | Ketarich Tablet | Strip of 10 tablets | Not stated |
-| 89462 | Funazole 200mg Tablet | Strip of 10 tablets | Not stated |
-| 117372 | Ketosel Shampoo | Bottle of 60 ml shampoo | Not stated |
-| 5437 | Atiket Tablet | Strip of 10 tablets | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 5437 | Atiket Tablet | Strip of 10 tablets | Valid |
+| 43647 | Cuzral 200mg Tablet | Strip of 10 tablets | Valid |
+| 89462 | Funazole 200mg Tablet | Strip of 10 tablets | Valid |
+| 92195 | Fungimin 200mg Tablet | Strip of 10 tablets | Valid |
+| 116355 | Ketafung 200mg Tablet | Strip of 10 tablets | Valid |
+| 116682 | KT Cure 200mg Tablet | Strip of 10 tablets | Valid |
+| 116968 | Komed 200mg Tablet | Strip of 10 tablets | Valid |
+| 117372 | Ketosel Shampoo | Bottle of 60 ml Shampoo | Valid |
+| 117388 | Ketoraz 200mg Tablet | Strip of 10 tablets | Valid |
+| 117420 | Kinal 200mg Tablet | Strip of 10 tablets | Valid |
+| 117789 | Ketoron 200mg Tablet | Strip of 10 tablets | Valid |
+| 118151 | Ketowan 200mg Tablet | Strip of 10 tablets | Valid |
+| 118605 | Kitnor 200mg Tablet | Strip of 10 tablets | Valid |
+| 118672 | Ketarich Tablet | Strip of 10 tablets | Valid |
+| 119372 | Ketocide 200mg Tablet | Strip of 10 tablets | Valid |
+| 119552 | Ketorg 200mg Tablet | Strip of 10 tablets | Valid |
+| 136112 | Molet Zole 200mg Tablet | Strip of 10 tablets | Valid |
+| 192263 | Ryket 200mg Tablet | Strip of 10 tablets | Valid |
+| 207282 | StayHappi Ketoconazole 200mg Tablet | Strip of 10 tablets | Valid |
+| 223281 | Tona 200mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 Nearly all registrations are oral 200 mg tablets. Only one shampoo is registered, and no topical cream appears in the licence list, even though the ongoing trial uses a 2% cream.
 

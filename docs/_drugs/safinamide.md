@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 760
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Safinamide"
 predicted_indications: ["Rasmussen subacute encephalitis", "myelitis", "PLA2G6-associated neurodegeneration"]
 description: "Safinamide: predicted new indication Rasmussen subacute encephalitis (evidence level L5). In India: 6 listed products (6 not discontinued)"
@@ -74,13 +74,20 @@ Currently no related literature available.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 247222 | Zafimove 100 Tablet (Torrent Pharmaceuticals Ltd) | Strip of 10 tablets | Not listed |
-| 201255 | Safion 100mg Tablet (Intas Pharmaceuticals Ltd) | Strip of 10 tablets | Not listed |
-| 243852 | Xafinact 100 Tablet (Sun Pharmaceutical Industries Ltd) | Strip of 10 tablets | Not listed |
-| 243785 | Xafinact 50 Tablet (Sun Pharmaceutical Industries Ltd) | Strip of 10 tablets | Not listed |
-| 246661 | Zafimove 50mg Tablet (Torrent Pharmaceuticals Ltd) | Strip of 10 tablets | Not listed |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 200331 | Safion 50mg Tablet | Strip of 10 tablets | Valid |
+| 201255 | Safion 100mg Tablet | Strip of 10 tablets | Valid |
+| 243785 | Xafinact 50 Tablet | Strip of 10 tablets | Valid |
+| 243852 | Xafinact 100 Tablet | Strip of 10 tablets | Valid |
+| 246661 | Zafimove 50mg Tablet | Strip of 10 tablets | Valid |
+| 247222 | Zafimove 100 Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 One further registration, 200331 (Safion 50mg Tablet, Intas Pharmaceuticals Ltd), is also valid. All six registrations are single-ingredient oral tablets.
 

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 85
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Azithromycin: predicted new indication Polyclonal hyperviscosity syndrome (evidence level L5). Approved use: Streptococcal infection, bacterial pneumonia…"
 monitor_inn: "Azithromycin"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "punctate epithelial keratoconjunctivitis", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague", "congenital hematological disorder"]
@@ -99,15 +99,38 @@ For reference, the strongest items under the other predictions are:
 
 ## India Market Information
 
-Azithromycin is marketed in India with 20 valid single-ingredient registrations. The approved indication text is not recorded on these licences. Five representative registrations:
+Azithromycin is marketed in India with 20 valid single-ingredient registrations. The approved indication text is not recorded on these licences.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 16792 | Azimycin 500mg Tablet | Strip of 3 tablets | Not specified |
-| 18709 | Azelac 250mg Tablet | Strip of 6 tablets | Not specified |
-| 129612 | Loromycin 500mg Capsule | Strip of 3 capsules | Not specified |
-| 148642 | Mythro 200mg Syrup | Bottle of 15 ml syrup | Not specified |
-| 19154 | Azintra 100mg Tablet DT | Strip of 10 dispersible tablets | Not specified |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 1928 | Azileb 250mg Tablet | Strip of 6 tablets | Valid |
+| 3850 | AB 500mg Tablet | Strip of 3 tablets | Valid |
+| 7184 | Azimo 500mg Tablet | Strip of 6 tablets | Valid |
+| 7409 | Azimel 500mg Tablet | Strip of 3 tablets | Valid |
+| 13673 | Azeewah 250mg Tablet | Strip of 6 tablets | Valid |
+| 15324 | Azisai 500 Tablet | Strip of 3 tablets | Valid |
+| 16792 | Azimycin 500mg Tablet | Strip of 3 tablets | Valid |
+| 16924 | Azithen-XL 500 Tablet | Strip of 3 tablet xl | Valid |
+| 17412 | Aziitech 500mg Tablet | Strip of 3 tablets | Valid |
+| 18709 | Azelac 250mg Tablet | Strip of 6 tablets | Valid |
+| 19154 | Azintra 100mg Tablet DT | Strip of 10 tablet dt | Valid |
+| 20711 | Azeedaz 250mg Tablet | Strip of 6 tablets | Valid |
+| 69365 | Direkt 250mg Tablet | Strip of 6 tablets | Valid |
+| 81575 | Ezima 500mg Tablet | Strip of 3 tablets | Valid |
+| 110932 | Izamed 500mg Tablet | Strip of 1 Tablet | Valid |
+| 129612 | Loromycin 500mg Capsule | Strip of 3 capsules | Valid |
+| 148642 | Mythro 200mg Syrup | Bottle of 15 ml Syrup | Valid |
+| 247338 | Zithrokem 250mg Tablet | Strip of 6 tablets | Valid |
+| 252244 | Zithnu 500mg Tablet | Strip of 3 tablets | Valid |
+| 252751 | Zavicin 250mg Tablet | Strip of 6 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

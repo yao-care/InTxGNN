@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 658
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Perindopril: predicted new indication Malignant hypertensive renal disease (evidence level L5). Approved use: Hypertension (hypertensive disorder)"
 monitor_inn: "perindopril"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
@@ -75,15 +75,38 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-The data compiled for this report contain no approved indication text for these licences. A selection of the 20 valid single-ingredient registrations:
+The data compiled for this report contain no approved indication text for these licences.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 34139 | Coversyl 4mg Tablet (Serdia Pharmaceuticals) | Strip of 10 tablets | Not listed |
-| 34610 | Coversyl 2mg Tablet (Serdia Pharmaceuticals) | Strip of 10 tablets | Not listed |
-| 42129 | Conape 4mg Tablet (Lupin) | Strip of 10 tablets | Not listed |
-| 75283 | Eviper 4mg Tablet (Torrent) | Strip of 10 tablets | Not listed |
-| 248613 | Zimpril 8mg Tablet (Zim Laboratories) | Strip of 10 tablets | Not listed |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 5706 | Adpace 2 mg/50 mg Tablet | Strip of 10 tablets | Valid |
+| 9042 | Adpace 4 mg/50 mg Tablet | Strip of 10 tablets | Valid |
+| 17602 | Adpep R Tablet | Strip of 10 tablets | Valid |
+| 34139 | Coversyl 4mg Tablet | Strip of 10 tablets | Valid |
+| 34610 | Coversyl 2mg Tablet | Strip of 10 tablets | Valid |
+| 41228 | Coveril-Plus Tablet | Strip of 10 tablets | Valid |
+| 42129 | Conape 4mg Tablet | Strip of 10 tablets | Valid |
+| 42293 | Conape Plus 4mg/1.25mg Tablet | Strip of 10 tablets | Valid |
+| 42798 | Coveril 4 Tablet | Strip of 10 tablets | Valid |
+| 44505 | Conape 2mg Tablet | Strip of 10 tablets | Valid |
+| 75283 | Eviper 4mg Tablet | Strip of 10 tablets | Valid |
+| 75377 | Eviper D 4 mg/1.25 mg Tablet | Strip of 10 tablets | Valid |
+| 75685 | Eviper 2mg Tablet | Strip of 10 tablets | Valid |
+| 176981 | Periace 4mg Tablet | Strip of 10 tablets | Valid |
+| 177960 | Perindosyl 4mg Tablet | Strip of 10 tablets | Valid |
+| 179907 | Perihart 2mg Tablet | Strip of 10 tablets | Valid |
+| 187007 | Rindopril-D Tablet | Strip of 10 tablets | Valid |
+| 189706 | Rindopril 4mg Tablet | Strip of 10 tablets | Valid |
+| 215133 | Triplixam 4mg/1.25mg/5mg Tablet | Strip of 10 tablets | Valid |
+| 248613 | Zimpril 8mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

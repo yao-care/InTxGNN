@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 100
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Benzoyl Peroxide: predicted new indication Vulvar inverted follicular keratosis (evidence level L5). Approved use: Acne, atopic eczema, contact dermatitis, seborrheic dermatitis…"
 monitor_inn: "Benzoyl peroxide"
 predicted_indications: ["vulvar inverted follicular keratosis", "2-hydroxyethyl methacrylate sensitization", "acrodermatitis chronica atrophicans", "acne keloid"]
@@ -77,15 +77,38 @@ For the lead prediction (vulvar inverted follicular keratosis), currently no rel
 
 ## India Market Information
 
-There are 20 valid single-ingredient registrations, all topical or wash-off products. No approved indication text is available for any of them. Five representative entries are shown.
+There are 20 valid single-ingredient registrations, all topical or wash-off products. No approved indication text is available for any of them.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 37451 | Clindez Soap | Soap, 75 gm | Not stated |
-| 191108 | Rosaklen Aqua Gel | Gel, 15 gm tube | Not stated |
-| 4582 | Acnox 2.5 Gel | Gel, 20 gm tube | Not stated |
-| 3191 | Acnerus Bpo Cream | Cream, 20 gm tube | Not stated |
-| 25884 | Benxop Face Wash | Face wash, 50 gm tube | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 3191 | Acnerus Bpo Cream | Tube of 20 gm Cream | Valid |
+| 4582 | Acnox 2.5 Gel | Tube of 20 gm Gel | Valid |
+| 25884 | Benxop Face Wash | Tube of 50 gm Face Wash | Valid |
+| 27461 | Benzotop 2.5% Gel | Tube of 15 gm Gel | Valid |
+| 29004 | Benzovib 2.5% Gel | Tube of 20 gm Gel | Valid |
+| 29529 | Bezal AC 5% Gel | Tube of 20 gm Gel | Valid |
+| 29725 | Benzoskin Gel | Tube of 30 gm Gel | Valid |
+| 30400 | Benzispot 2.5% Gel | Tube of 20 gm Gel | Valid |
+| 35307 | Clinroz-BP Gel | Tube of 20 gm Gel | Valid |
+| 35810 | Clinroz-BP 2.5% Gel | Tube of 20 gm Gel | Valid |
+| 37451 | Clindez Soap | Box of 75 gm Soap | Valid |
+| 37520 | Clizo Soap | Packet of 75 gm Soap | Valid |
+| 41246 | Cuzoyl 2.5% Gel | Tube of 10 gm Gel | Valid |
+| 46660 | Cuzoyl 5% Gel | Tube of 10 gm Gel | Valid |
+| 60376 | Duoclin-B Gel | Tube of 15 gm Gel | Valid |
+| 123259 | Lyrasol AC 5% Gel | Tube of 20 gm Gel | Valid |
+| 168226 | Oxiben 2.5% Gel | Tube of 20 gm Gel | Valid |
+| 179578 | Perozil 2.5% Gel | Tube of 20 gm Gel | Valid |
+| 191108 | Rosaklen Aqua Gel | Tube of 15 gm Gel | Valid |
+| 224659 | Teen AC 5% Gel | Tube of 20 gm Gel | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

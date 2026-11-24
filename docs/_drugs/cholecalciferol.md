@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Cholecalciferol"
 predicted_indications: ["acromesomelic dysplasia, Campailla Martinelli type", "craniofacial conodysplasia", "renal osteodystrophy", "renal tubular acidosis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cholecalciferol: predicted new indication Acromesomelic dysplasia, Campailla Martinelli type (evidence level L5). Approved use: Vitamin D deficiency and bone-mineral disorders (osteoporosis…"
 ---
 
@@ -68,15 +68,38 @@ Currently no related literature available.
 
 ## India Market Information
 
-All 20 listed licences are valid single-ingredient products. The table shows five of them, and the full list may be partial. Approved-indication text is not stated in the licence records.
+All 20 listed licences are valid single-ingredient products. Approved-indication text is not stated in the licence records.
 
-| Authorization Number | Product Name | Dosage Form |
-|---------|------|------|
-| Registration No. 38874 | Cholvac-D3 Softgel Capsule | Strip of 4 soft gelatin capsules |
-| Registration No. 217773 | Tonecal-D3 Softgel Capsule | Strip of 4 soft gelatin capsules |
-| Registration No. 115844 | Kalzin 60K Tablet | Strip of 4 tablets |
-| Registration No. 94298 | Gemsoline-D3 Nano Shot | Bottle of 5 ml oral solution |
-| Registration No. 242252 | Werol 600000IU Injection | Vial of 1 ml injection |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 2784 | Aquashine 24 Tablet | Strip of 7 tablets | Valid |
+| 5934 | Astesol-D3 60K Chewable Tablet | Strip of 4 Chewable Tablets | Valid |
+| 31304 | Borncal D3 Nano Shot (5ml Each) Mango Sugar Free | Box of 4 bottles | Valid |
+| 38874 | Cholvac-D3 Softgel Capsule | Strip of 4 soft gelatin capsules | Valid |
+| 94298 | Gemsoline-D3 Nano Shot | Bottle of 5 ml Oral Solution | Valid |
+| 114570 | Jaivita D3 60K Softgel Capsule | Strip of 4 soft gelatin capsules | Valid |
+| 115844 | Kalzin 60K Tablet | Strip of 4 tablets | Valid |
+| 134866 | Max-D3 60K Soft Gelatin Capsule | Strip of 8 soft gelatin capsules | Valid |
+| 135485 | M 60K Nano Shot Sugar Free | Bottle of 5 ml Oral Solution | Valid |
+| 152202 | Nexa-D3 60K Soft Gelatin Capsule | Strip of 4 soft gelatin capsules | Valid |
+| 152338 | Nucical D3 Soft Gelatin Capsule | Strip of 4 soft gelatin capsules | Valid |
+| 162844 | Optume-D3 60K Softgel Capsule | Strip of 4 soft gelatin capsules | Valid |
+| 189174 | Resorce D3 Softgel Capsule | Strip of 8 soft gelatin capsules | Valid |
+| 201377 | S-Rise D3 60K Soft Gelatin Capsule | Strip of 4 soft gelatin capsules | Valid |
+| 217773 | Tonecal-D3 Softgel Capsule | Strip of 4 soft gelatin capsules | Valid |
+| 223864 | Tnt D3 Injection | Vial of 1 ml Injection | Valid |
+| 242252 | Werol 600000IU Injection | Vial of 1 ml Injection | Valid |
+| 247052 | Zyrol-D3 Nano Shots (Each 5ml) Orange Sugar Free | Box of 4 oral solutions | Valid |
+| 247988 | Zymanta D3 Soft Gelatin Capsule | Strip of 4 soft gelatin capsules | Valid |
+| 250128 | Zemcy 60K Softgel Capsule | Strip of 4 soft gelatin capsules | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 Available forms include oral capsules, tablets, chewable tablets, oral solutions and injections.
 

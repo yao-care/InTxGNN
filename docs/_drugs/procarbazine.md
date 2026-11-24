@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 702
 evidence_level: L3
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Procarbazine: predicted new indication Follicular lymphoma (evidence level L3). Approved use: Hodgkin lymphoma (including classic Hodgkin lymphoma and related subt…"
 monitor_inn: "Procarbazine"
 predicted_indications: ["follicular lymphoma", "neuroblastoma", "ganglioneuroblastoma (disease)", "retroperitoneal neoplasm", "vertebral anomalies and variable endocrine and T-cell dysfunction"]
@@ -86,13 +86,19 @@ However, modern follicular lymphoma care relies on anti-CD20 antibody-based regi
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 178891 | P Carzine 50mg Capsule (Alkem Laboratories Ltd) | Strip of 10 capsules | Not specified |
-| 177184 | Procarb 50mg Tablet (Vhb Life Sciences Inc) | Strip of 10 tablets | Not specified |
-| 250048 | Zinocarb 50mg Capsule (Miracalus Pharma Pvt Ltd) | Strip of 10 capsules | Not specified |
-| 104228 | Hodpro 50mg Capsule (Neon Laboratories Ltd) | Strip of 10 capsules | Not specified |
-| 153267 | Neozine 50mg Capsule (Vhb Life Sciences Inc) | Strip of 10 capsules | Not specified |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 104228 | Hodpro 50mg Capsule | Strip of 10 capsules | Valid |
+| 153267 | Neozine 50mg Capsule | Strip of 10 capsules | Valid |
+| 177184 | Procarb 50mg Tablet | Strip of 10 tablets | Valid |
+| 178891 | P Carzine 50mg Capsule | Strip of 10 capsules | Valid |
+| 250048 | Zinocarb 50mg Capsule | Strip of 10 capsules | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

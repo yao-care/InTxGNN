@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 791
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Streptokinase"
 drugbank_id: DB00086
 predicted_indications: ["Prinzmetal angina", "hemoglobinopathy", "peripheral vascular disease", "peripheral arterial disease", "partial deletion of the short arm of chromosome 16"]
@@ -91,15 +91,38 @@ The literature includes reviews of the large randomised trials (such as ISIS-2, 
 
 ## India Market Information
 
-All 20 registrations are valid single-ingredient injections. The data compiled for this report contain no approved indication text for any of them. The table below lists five of them.
+All 20 registrations are valid single-ingredient injections. The data compiled for this report contain no approved indication text for any of them.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 204083 | Streptase 1500000IU Injection (Sanofi India Ltd) | Vial of 1 ml injection | Not stated |
-| 209939 | Streptase 750000IU Injection (Sanofi India Ltd) | Vial of 1 ml injection | Not stated |
-| 116831 | Klotbuster 1500000IU Injection (Alembic Pharmaceuticals Ltd) | Vial of 1 injection | Not stated |
-| 220461 | Thromboflux 1500000IU Injection (Bharat Serums & Vaccines Ltd) | Vial of 10 ml injection | Not stated |
-| 116650 | Kabikinase 1.5 MIU Injection (Pharmacia Health Care Ltd) | Vial of 1 injection | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 25099 | Allkinase 1500000IU Injection | Vial of 1 Injection | Valid |
+| 32248 | Biokinase 1500000IU Injection | Vial of 1 Injection | Valid |
+| 79976 | Eskinase 1.5MIU Injection | Vial of 1 ml Injection | Valid |
+| 90342 | Fibrokinase 1500000IU Injection | Vial of 2 ml Injection | Valid |
+| 98769 | Glaniknase Injection | Vial of 1 Injection | Valid |
+| 107371 | Haemokinase Injection | Vial of 1 Injection | Valid |
+| 108057 | Icikinase 1.5MIU Injection | Vial of 1 Injection | Valid |
+| 116650 | Kabikinase 1.5 MIU Injection | Vial of 1 Injection | Valid |
+| 116831 | Klotbuster 1500000IU Injection | Vial of 1 Injection | Valid |
+| 122691 | Lupiflo 1500000IU Injection | Vial of 10 ml Injection | Valid |
+| 191209 | Rthrombo 1500000IU Injection | Vial of 1 ml Injection | Valid |
+| 199771 | Streptokinase 1500mg Injection | Vial of 1 Injection | Valid |
+| 200746 | Stpase 1500000IU Injection | Vial of 10 ml Injection | Valid |
+| 204083 | Streptase 1500000IU Injection | Vial of 1 ml Injection | Valid |
+| 208080 | Streplife 1500000IU Injection | Vial of 10 ml Injection | Valid |
+| 209206 | Shankinase 750000IU Injection | Vial of 1 Injection | Valid |
+| 209939 | Streptase 750000IU Injection | Vial of 1 ml Injection | Valid |
+| 210846 | Solonase 1.5MIU Injection | Vial of 1 Injection | Valid |
+| 220461 | Thromboflux 1500000IU Injection | Vial of 10 ml Injection | Valid |
+| 224478 | Thromboflux 750000IU Injection | Vial of 5 ml Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

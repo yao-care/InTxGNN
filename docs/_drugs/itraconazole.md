@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 457
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Itraconazole"
 predicted_indications: ["pneumocystosis"]
 description: "Itraconazole: predicted new indication Pneumocystosis (evidence level L5). In India: at least 20 listed products"
@@ -84,15 +84,38 @@ The retrieved literature mentions pneumocystosis mostly in the context of opport
 
 ## India Market Information
 
-Itraconazole is marketed in India under 20 valid single-ingredient licences. The licence data compiled for this report do not include approved indication text. The main authorisations are:
+Itraconazole is marketed in India under 20 valid single-ingredient licences. The licence data compiled for this report do not include approved indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 116368 | Kapitra 100mg Capsule | Strip of 4 capsules | Not available |
-| 84324 | Fungikem 200 Capsule | Strip of 4 capsules | Not available |
-| 107918 | Itragreat 200 Capsule | Strip of 10 capsules | Not available |
-| 97177 | Grita Tablet | Strip of 10 tablets | Not available |
-| 93319 | Fuzcon I 200mg Tablet | Strip of 4 tablets | Not available |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 8650 | Ace Itra 100 Capsule | Strip of 4 capsules | Valid |
+| 61506 | Difit IT 200mg Capsule | Strip of 10 capsules | Valid |
+| 84324 | Fungikem 200 Capsule | Strip of 4 capsules | Valid |
+| 93319 | Fuzcon I 200mg Tablet | Strip of 4 tablets | Valid |
+| 97177 | Grita Tablet | Strip of 10 tablets | Valid |
+| 107918 | Itragreat 200 Capsule | Strip of 10 capsules | Valid |
+| 107960 | Itragreat 100 Capsule | Strip of 10 capsules | Valid |
+| 109948 | Itrasat 200 Capsule | Strip of 4 capsules | Valid |
+| 110698 | Itronox 100mg Capsule | Strip of 10 capsules | Valid |
+| 110943 | Itramedg 100mg Capsule | Strip of 10 capsules | Valid |
+| 111282 | Itravic 200 Capsule | Strip of 4 capsules | Valid |
+| 112179 | Itraoxy 200mg Capsule | Strip of 10 capsules | Valid |
+| 113591 | Itana 200 Capsule | Strip of 4 capsules | Valid |
+| 113658 | Imawin 200mg Capsule | Strip of 4 capsules | Valid |
+| 113848 | Itrobox 200mg Capsule | Strip of 10 capsules | Valid |
+| 116368 | Kapitra 100mg Capsule | Strip of 4 capsules | Valid |
+| 151216 | Nixitral 200 Capsule | Strip of 10 capsules | Valid |
+| 217608 | Traco Gold 100mg Capsule | Strip of 4 capsules | Valid |
+| 227405 | Tolomet 100 Capsule | Strip of 4 capsules | Valid |
+| 242682 | Welcon 200mg Capsule | Strip of 4 capsules | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 All products are oral capsules or tablets.
 

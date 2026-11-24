@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Carboplatin"
 predicted_indications: ["rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "adult germ cell tumor", "cervical mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "endometrial mucinous adenocarcinoma", "villoglandular endometrial endometrioid adenocarcinoma", "endometrial mixed adenocarcinoma", "extrahepatic bile duct mucinous adenocarcinoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Carboplatin: predicted new indication rectum mucinous adenocarcinoma (evidence level L5). In India: at least 20 listed products"
 ---
 
@@ -71,13 +71,36 @@ Currently no related literature available.
 
 Carboplatin is marketed in India. All 20 licences found are valid single-ingredient injectable or infusion products, and none are cancelled. The licence records carry no approved-indication text, so the approved indication is not recorded in the local data. Because the record set may be partial, the table lists five examples.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| 41122 | Carbokem Novo 150mg Injection | Vial, injection | Alkem Laboratories Ltd |
-| 18001 | Acoticyt 150mg Injection | Vial, injection | Accord Pharmaceuticals |
-| 42624 | Celcarb 450mg Injection | Vial, injection | Celon Laboratories Ltd |
-| 39455 | Carboplan 150mg Injection | Vial, injection | Natco Pharma Ltd |
-| 118834 | Karplat 450mg Infusion | Bottle of 50 ml, infusion | Cadila Pharmaceuticals Ltd |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 7325 | Adcarb 150mg Injection | Vial of 15 ml Injection | Valid |
+| 18001 | Acoticyt 150mg Injection | Vial of 1 Injection | Valid |
+| 18394 | Alcarb 150mg Injection | Vial of 15 ml Injection | Valid |
+| 32825 | Blastocarb 10mg Injection | Vial of 15 ml Injection | Valid |
+| 33007 | Blastoplatin 150mg Injection | Vial of 15 ml Injection | Valid |
+| 39455 | Carboplan 150mg Injection | Vial of 1 Injection | Valid |
+| 40148 | Caboo 450mg Injection | Vial of 45 ml Injection | Valid |
+| 41122 | Carbokem Novo 150mg Injection | Vial of 1 Injection | Valid |
+| 42624 | Celcarb 450mg Injection | Vial of 1 Injection | Valid |
+| 42804 | Carbozar 150mg Injection | Vial of 1 ml Injection | Valid |
+| 43847 | Carbomax 150mg Injection | Vial of 15 ml Injection | Valid |
+| 45673 | Carbotin 450mg Injection | Vial of 45 ml Injection | Valid |
+| 49739 | Carbowel 150mg Injection | Vial of 15 ml Injection | Valid |
+| 51922 | Carbocare 150mg Injection | Vial of 15 ml Injection | Valid |
+| 54700 | Carbocare 450mg Injection | Vial of 45 ml Injection | Valid |
+| 54873 | Carbotinal 150mg Injection | Vial of 15 ml Injection | Valid |
+| 54874 | Carbotinal 450mg Injection | Vial of 45 ml Injection | Valid |
+| 118834 | Karplat 450mg Infusion | Bottle of 50 ml Infusion | Valid |
+| 131831 | Lyocarb 450mg Injection | Vial of 1 Injection | Valid |
+| 155788 | Naproplat 450mg Injection | Vial of 45 ml Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

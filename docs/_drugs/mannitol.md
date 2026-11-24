@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Mannitol"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "acute pulmonary heart disease", "exercise-induced malignant hyperthermia", "familial periodic paralysis", "hypokalemic periodic paralysis", "congenital multicore myopathy with external ophthalmoplegia", "moderate multiminicore disease with hand involvement", "nephrogenic diabetes insipidus", "central core myopathy"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Mannitol: predicted new indication Nephrogenic syndrome of inappropriate antidiuresis (evidence level L5). Approved use: Relations recorded in the knowledge graph (not label text): congestiv…"
 ---
 
@@ -73,13 +73,22 @@ Currently no related clinical trials registered.
 
 The licence records contain no approved indication text. All eight licences are single-ingredient mannitol infusions.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 3476 | Axatol 20IU Infusion | Bottle of 100 ml infusion | Not stated |
-| 87612 | Fabitol 20% Infusion | Bottle of 100 ml infusion | Not stated |
-| 134062 | Manitol 20% Infusion | Bottle of 350 ml infusion | Not stated |
-| 134615 | Mannitol IP 20% Infusion | Bottle of 350 ml infusion | Not stated |
-| 135356 | Manogyl 10% Infusion | Bottle of 100 ml infusion | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 3476 | Axatol 20IU Infusion | Bottle of 100 ml Infusion | Valid |
+| 87612 | Fabitol 20% Infusion | Bottle of 100 ml Infusion | Valid |
+| 133576 | Mannitol 20% Infusion | Bottle of 350 ml Infusion | Valid |
+| 134062 | Manitol 20% Infusion | Bottle of 350 ml Infusion | Valid |
+| 134615 | Mannitol IP 20% Infusion | Bottle of 350 ml Infusion | Valid |
+| 135356 | Manogyl 10% Infusion | Bottle of 100 ml Infusion | Valid |
+| 137907 | Mannitol 20% Infusion | Bottle of 100 ml Infusion | Valid |
+| 138354 | Manilup 20% Infusion | Bottle of 100 ml Infusion | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

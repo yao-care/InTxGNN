@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 619
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Omalizumab"
 predicted_indications: ["bronchitis", "atopic eczema", "dermatitis", "bronchial neoplasm (disease)", "acne keloid", "acrodermatitis chronica atrophicans", "hydroa vacciniforme, familial", "neonatal dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease"]
 description: "Omalizumab: predicted new indication Bronchitis (evidence level L5). In India: 4 listed products (4 not discontinued)"
@@ -93,12 +93,18 @@ The supporting material does not address bronchitis itself. The literature cover
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 162721 | Omalirel Injection (Reliance Life Sciences) | Vial of 1 injection | Not listed |
-| 26361 | Bolstran 150mg Injection (Cipla Ltd) | Vial of 2 ml injection | Not listed |
-| 243818 | Xolair 150mg Injection (Novartis India Ltd) | Packet of 5 ml injection | Not listed |
-| 72758 | Emzumab 150mg Injection (Cipla Ltd) | Vial of 1 injection | Not listed |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 26361 | Bolstran 150mg Injection | Vial of 2 ml Injection | Valid |
+| 72758 | Emzumab 150mg Injection | Vial of 1 Injection | Valid |
+| 162721 | Omalirel Injection | Vial of 1 Injection | Valid |
+| 243818 | Xolair 150mg Injection | Packet of 5 ml Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 All four authorizations are for single-ingredient products and are currently valid.
 

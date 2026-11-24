@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 729
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Rasburicase"
 predicted_indications: ["hypouricemia, renal", "hypoxanthine guanine phosphoribosyltransferase partial deficiency", "hepatic porphyria", "hepatopulmonary syndrome", "early-onset familial noncirrhotic portal hypertension", "hepatoportal sclerosis", "idiopathic copper-associated cirrhosis", "primitive portal vein thrombosis", "renal tubular acidosis", "disorder of phenylalanine metabolism"]
 description: "Rasburicase: predicted new indication Hypouricemia, renal (evidence level L5). In India: 5 listed products (5 not discontinued)"
@@ -72,13 +72,19 @@ Currently no related literature available.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 187418 | Rasby Injection (Intas Pharmaceuticals Ltd) | Vial of 1 injection | Not stated |
-| 186904 | Rascas 1.5mg Injection (Sayre Therapeutics Pvt Ltd) | Vial of 1 injection | Not stated |
-| 186229 | Rasburnat Injection (Natco Pharma Ltd) | Vial of 1 injection | Not stated |
-| 188807 | Rasbelon Injection (Celon Laboratories Ltd) | Vial of 1 injection | Not stated |
-| 189498 | Rasuric 1.5mg Injection (Aureate Healthcare Pvt Ltd) | Vial of 1 injection | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 186229 | Rasburnat Injection | Vial of 1 Injection | Valid |
+| 186904 | Rascas 1.5mg Injection | Vial of 1 Injection | Valid |
+| 187418 | Rasby Injection | Vial of 1 Injection | Valid |
+| 188807 | Rasbelon Injection | Vial of 1 Injection | Valid |
+| 189498 | Rasuric 1.5mg Injection | Vial of 1 Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 10
 monitor_inn: "Diazepam"
 predicted_indications: ["insomnia (disease)", "cauda equina syndrome", "sleep disorder, initiating and maintaining sleep", "attention deficit hyperactivity disorder, inattentive type", "antidepressant type abuse", "barbiturate abuse", "hallucinogen abuse", "specific developmental disorder", "attention deficit-hyperactivity disorder", "obsolete neurogenic bladder (disease)"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Diazepam: predicted new indication Insomnia (disease) (evidence level L2). In India: at least 20 listed products"
 ---
 
@@ -83,13 +83,36 @@ Currently no related clinical trials registered.
 
 Diazepam-containing products are marketed in India. The data compiled for this report show 20 valid licences and no cancelled ones. This list may be partial. Approved indication text is not recorded for these licences. Selected single-strength products:
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 114346 | Juniz Rds 2.5mg Suppository | Packet of 5 suppositories | Not recorded |
-| 66332 | Deprid M 2mg/12.5mg Tablet | Strip of 10 tablets | Not recorded |
-| 69654 | Deparis Fort 5mg/25mg Tablet | Strip of 10 tablets | Not recorded |
-| 178280 | Prazep 2 mg/25 mg Tablet | Strip of 10 tablets | Not recorded |
-| 61484 | Diaze 5mg Tablet | Strip of 10 tablets | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 10306 | Anexidep 5 mg/25 mg Tablet | Strip of 10 tablets | Valid |
+| 30229 | Betapro DZ 2.5mg/20mg Tablet | Strip of 10 tablets | Valid |
+| 59503 | Depranil Plus 5 mg/25 mg Tablet | Strip of 10 tablets | Valid |
+| 61484 | Diaze 5mg Tablet | Strip of 10 tablets | Valid |
+| 66332 | Deprid M 2mg/12.5mg Tablet | Strip of 10 tablets | Valid |
+| 69654 | Deparis Fort 5mg/25mg Tablet | Strip of 10 tablets | Valid |
+| 70601 | D Prim 2mg/25mg Tablet | Strip of 10 tablets | Valid |
+| 114346 | Juniz Rds 2.5mg Suppository | Packet of 5 suppositories | Valid |
+| 119282 | Kidep Forte 5 mg/25 mg Tablet | Strip of 10 tablets | Valid |
+| 143780 | Minizep 2 mg/25 mg Tablet | Strip of 10 tablets | Valid |
+| 167257 | Osopose 5mg Tablet | Strip of 10 tablets | Valid |
+| 178280 | Prazep 2 mg/25 mg Tablet | Strip of 10 tablets | Valid |
+| 180032 | Peacin 5mg Tablet | Strip of 10 tablets | Valid |
+| 194860 | Remoten 5mg Tablet | Strip of 10 tablets | Valid |
+| 204680 | Sanmin 5mg/25mg Tablet | Strip of 10 tablets | Valid |
+| 204879 | Syziral 2.5 mg/20 mg Tablet | Strip of 10 tablets | Valid |
+| 209280 | Sycodep 2 mg/25 mg Tablet | Strip of 10 tablets | Valid |
+| 215277 | Tancodep 2mg/25mg Tablet | Strip of 10 tablets | Valid |
+| 215521 | Tancodep 5mg/25mg Tablet | Strip of 10 tablets | Valid |
+| 218386 | Talendep Plus Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

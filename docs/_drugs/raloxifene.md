@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 720
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Raloxifene"
 predicted_indications: ["duodenal ulcer (disease)", "hypoalphalipoproteinemia", "duodenal obstruction", "duodenogastric reflux"]
 description: "Raloxifene: predicted new indication Duodenal ulcer (disease) (evidence level L5). In India: 14 listed products (14 not discontinued)"
@@ -72,15 +72,30 @@ Currently no related literature available.
 
 ## India Market Information
 
-Raloxifene has 14 valid single-ingredient registrations in India and none cancelled. The approved-indication text is not recorded for any of them. The main authorizations are:
+Raloxifene has 14 valid single-ingredient registrations in India and none cancelled. The approved-indication text is not recorded for any of them.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 47098 | Ceost 60mg Tablet (Comed Chemicals Ltd) | Strip of 10 tablets | Not recorded |
-| 185019 | Ralista Tablet (Cipla Ltd) | Strip of 10 tablets | Not recorded |
-| 189807 | Ruftuf 60mg Tablet (Ajanta Pharma Ltd) | Strip of 10 tablets | Not recorded |
-| 80048 | Esserm 60mg Tablet (Torrent Pharmaceuticals Ltd) | Strip of 10 tablets | Not recorded |
-| 85592 | Femoral 60mg Tablet (Duckbill Drugs Pvt Ltd) | Strip of 14 tablets | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 29518 | Bonebay 60mg Tablet | Strip of 10 tablets | Valid |
+| 47098 | Ceost 60mg Tablet | Strip of 10 tablets | Valid |
+| 74966 | Estoral 60mg Tablet | Strip of 10 tablets | Valid |
+| 80048 | Esserm 60mg Tablet | Strip of 10 tablets | Valid |
+| 80929 | Evomate 60mg Tablet | Strip of 7 tablets | Valid |
+| 85592 | Femoral 60mg Tablet | Strip of 14 tablets | Valid |
+| 185019 | Ralista Tablet | Strip of 10 tablets | Valid |
+| 189045 | Ralofen 60mg Tablet | Strip of 10 tablets | Valid |
+| 189277 | Ronal 60mg Tablet | Strip of 10 tablets | Valid |
+| 189807 | Ruftuf 60mg Tablet | Strip of 10 tablets | Valid |
+| 193725 | Relfen 60mg Tablet | Strip of 10 tablets | Valid |
+| 196075 | Ralotab 60mg Tablet | Strip of 7 tablets | Valid |
+| 196482 | Ralocium 60mg Tablet | Strip of 10 tablets | Valid |
+| 206855 | Sermifen 60mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 All products are oral tablets.
 

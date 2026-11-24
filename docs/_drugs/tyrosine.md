@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 874
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Tyrosine: predicted new indication Cauda equina syndrome (evidence level L5). Approved use: Not stated in the registration records"
 monitor_inn: "tyrosine"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "angle-closure glaucoma", "hyperthyroidism", "postural orthostatic tachycardia syndrome", "hyperthyroxinemia", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "traumatic glaucoma", "aqueous misdirection", "neovascular glaucoma"]
@@ -101,15 +101,38 @@ No literature was found for cauda equina syndrome. The table below shows the mos
 
 ## India Market Information
 
-There are 20 valid single-ingredient registrations and no cancelled ones. The registration records contain no approved-indication text. The five main authorizations are listed below.
+There are 20 valid single-ingredient registrations and no cancelled ones. The registration records contain no approved-indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 106750 | Hormonorm 25mcg Tablet | Bottle of 100 tablets | Not stated |
-| 73934 | Euthyrox 12.5mcg Tablet | Bottle of 100 tablets | Not stated |
-| 216173 | Thyronorm 50mcg Tablet | Bottle of 30 tablets | Not stated |
-| 216209 | Thyrocip 100 Tablet | Bottle of 120 tablets | Not stated |
-| 122253 | Lethyrox 100 Tablet | Bottle of 100 tablets | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 73934 | Euthyrox 12.5mcg Tablet | Bottle of 100 tablets | Valid |
+| 106228 | Healtroxin 75mcg Tablet | Bottle of 120 tablets | Valid |
+| 106750 | Hormonorm 25mcg Tablet | Bottle of 100 tablets | Valid |
+| 122253 | Lethyrox 100 Tablet | Bottle of 100 tablets | Valid |
+| 123597 | L-Thyroid 25mcg Tablet | Strip of 100 tablets | Valid |
+| 158233 | Nek 25mcg Tablet | Bottle of 100 tablets | Valid |
+| 214823 | Thyrox 50 Tablet | Bottle of 100 tablets | Valid |
+| 215622 | Thyrox 37.5mcg Tablet | Bottle of 100 tablets | Valid |
+| 216173 | Thyronorm 50mcg Tablet | Bottle of 30 tablets | Valid |
+| 216209 | Thyrocip 100 Tablet | Bottle of 120 tablets | Valid |
+| 218336 | Thirozex 125mcg Tablet | Bottle of 120 tablets | Valid |
+| 220784 | Thyrocut 12.5 Tablet | Strip of 100 tablets | Valid |
+| 223080 | Thyroloc 100mcg Tablet | Bottle of 120 tablets | Valid |
+| 223205 | Thyrotek 50mcg Tablet | Bottle of 100 tablets | Valid |
+| 223847 | Thyrovan 100mcg Tablet | Bottle of 100 tablets | Valid |
+| 225942 | Thyrorich 150mcg Tablet | Bottle of 100 tablets | Valid |
+| 226260 | Thyrosoft 50mcg Tablet | Strip of 100 tablets | Valid |
+| 227050 | Thylomat 50mcg Tablet | Bottle of 100 tablets | Valid |
+| 227725 | Thyroblu 100mcg Tablet | Bottle of 100 tablets | Valid |
+| 229120 | Thyrokinz 50 Tablet | Bottle of 100 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 All products are oral tablets.
 

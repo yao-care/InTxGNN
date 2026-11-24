@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 502
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Lorlatinib: predicted new indication Fibromatosis, gingival (evidence level L5). Approved use: Non-small cell lung carcinoma / lung cancer"
 monitor_inn: "Lorlatinib"
 predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "hamartoma of lung", "lung benign neoplasm", "pulmonary sulcus neoplasm", "lung germ cell tumor", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "junctional epidermolysis bullosa", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome"]
@@ -99,10 +99,16 @@ No publications were found for the top predicted indication, gingival fibromatos
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 129170 | Lorbriqua 25mg Tablet | Box of 30 tablets | Not stated in the data compiled |
-| 129171 | Lorbriqua 100mg Tablet | Box of 30 tablets | Not stated in the data compiled |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 129170 | Lorbriqua 25mg Tablet | Box of 30 tablets | Valid |
+| 129171 | Lorbriqua 100mg Tablet | Box of 30 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 Both licences are valid single-ingredient oral products from Pfizer Ltd.
 

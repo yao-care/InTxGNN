@@ -3,7 +3,7 @@ layout: default
 title: Phenindione
 parent: Known Uses Only (No New Predictions)
 nav_order: 661
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 description: "Phenindione: known uses and market status in India; currently no new candidate indication"
 monitor_inn: "Phenindione"
 predicted_indications: []
@@ -46,9 +46,15 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 65045 | Dindevan 50mg Tablet (Biological E Ltd) | Strip of 10 tablets | Not stated in the licence data |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 65045 | Dindevan 50mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

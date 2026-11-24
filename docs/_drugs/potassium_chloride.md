@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 689
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Potassium Chloride: predicted new indication Renal tubular acidosis (evidence level L4). Approved use: Potassium deficiency disease"
 monitor_inn: "Potassium chloride"
 predicted_indications: ["renal tubular acidosis"]
@@ -84,15 +84,38 @@ The compiled literature is mostly case reports and narrative reviews, with no RC
 
 ## India Market Information
 
-The approved indication text is not listed for these registrations. Twenty single-ingredient registrations are valid; the main ones are shown below.
+The approved indication text is not listed for these registrations. Twenty single-ingredient registrations are valid.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 744 | Addkay Tablet PR | Strip of 10 prolonged-release tablets | Not listed |
-| 179696 | Pegxit Oral Solution | Bottle of 200 ml oral solution | Not listed |
-| 119005 | K-Lot Oral Solution | Bottle of 200 ml oral solution | Not listed |
-| 174341 | Potcl 1.5gm Injection | Vial of 10 ml injection | Not listed |
-| 115671 | Kcl Injection | Vial of 10 ml injection | Not listed |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 744 | Addkay Tablet PR | Strip of 10 Tablet pr | Valid |
+| 1252 | Alka KCL Syrup | Bottle of 100 ml Syrup | Valid |
+| 115671 | Kcl Injection | Vial of 10 ml Injection | Valid |
+| 115739 | Kesol 1.5gm Injection | Vial of 10 ml Injection | Valid |
+| 117629 | K-Pot 150mg Injection | Vial of 10 ml Injection | Valid |
+| 118897 | K Pot 150mg Injection | Vial of 10 ml Injection | Valid |
+| 119005 | K-Lot Oral Solution | Bottle of 200 ml Oral Solution | Valid |
+| 126324 | Laxsafe-L Oral Solution Red Cherry | Bottle of 200 ml Oral Solution | Valid |
+| 132078 | Laxsafe-L Oral Solution Red Cherry | Bottle of 100 ml Oral Solution | Valid |
+| 174341 | Potcl 1.5gm Injection | Vial of 10 ml Injection | Valid |
+| 174785 | Potride Tablet | Strip of 10 tablets | Valid |
+| 177417 | Pegalax Oral Solution | Bottle of 200 ml Oral Solution | Valid |
+| 177529 | Potmeg 1.5gm Oral Solution Sugar Free | Bottle of 200 ml Oral Solution | Valid |
+| 178006 | Pegalax Oral Solution | Bottle of 100 ml Oral Solution | Valid |
+| 179696 | Pegxit Oral Solution | Bottle of 200 ml Oral Solution | Valid |
+| 179730 | Pegxit Oral Solution | Bottle of 100 ml Oral Solution | Valid |
+| 182409 | Pcross Injection | Ampoule of 10 ml Injection | Valid |
+| 195153 | Ricetral 0.3gm Injection | Vial of 1 gm Injection | Valid |
+| 221872 | Troykcl 1.5gm Injection | Vial of 10 ml Injection | Valid |
+| 225696 | Tuberium 150mg Injection | Vial of 10 ml Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

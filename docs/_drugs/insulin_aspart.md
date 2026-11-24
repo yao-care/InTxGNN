@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 434
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Insulin aspart"
 predicted_indications: ["autoimmune oophoritis", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "focal stiff limb syndrome", "classic stiff person syndrome", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy"]
 description: "Insulin Aspart: predicted new indication Autoimmune oophoritis (evidence level L5). In India: 12 listed products (12 not discontinued)"
@@ -95,19 +95,32 @@ The data include 30 registered trials. The most relevant ones are listed below.
 
 Approved indication text is not available for these licences.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 150300 | Novorapid Penfill | Penfill 3 ml solution for injection | Not available |
-| 150335 | Novomix 30 Flexpen 100IU/ml | Flexpen 3 ml suspension for injection | Not available |
-| 150445 | Novorapid 100IU Injection | Vial 10 ml injection | Not available |
-| 150685 | Novorapid FlexPen | Pre-filled pen 3 ml solution for injection | Not available |
-| 84212 | Fiasp FlexTouch | Pre-filled pen 3 ml solution for injection | Not available |
+<!-- licenses:begin -->
 
-All 12 licences are valid products from Novo Nordisk India Pvt Ltd.
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 84126 | Fiasp 100IU/ml Penfill | Cartridge of 3 ml Solution for Injection | Valid |
+| 84212 | Fiasp FlexTouch | Pre-filled pen of 3 ml Solution for Injection | Valid |
+| 84501 | Fiasp 100IU/ml Solution for Injection | Vial of 10 ml Solution for Injection | Valid |
+| 150300 | Novorapid Penfill | Penfill of 3 ml Solution for Injection | Valid |
+| 150305 | Novomix 30 100IU/ml Penfill | Penfill of 3 ml Suspension for Injection | Valid |
+| 150335 | Novomix 30 Flexpen 100IU/ml | Flexpen of 3 ml Suspension for Injection | Valid |
+| 150445 | Novorapid 100IU Injection | Vial of 10 ml Injection | Valid |
+| 150526 | Novomix 50 100IU/ml Penfill | Penfill of 3 ml Suspension for Injection | Valid |
+| 150607 | Novomix 50 Suspension for Injection 100IU/ml | Flexpen of 3 ml Suspension for Injection | Valid |
+| 150685 | Novorapid FlexPen | Pre-filled pen of 3 ml Solution for Injection | Valid |
+| 150759 | Novomix 30 100IU/ml Penfill | Packet of 5 suspension for injection | Valid |
+| 150864 | Novorapid Penfill | Packet of 5 Solution for Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
+
+All licences are valid products from Novo Nordisk India Pvt Ltd.
 
 <!-- review:begin in-lic-20261106-insulin_aspart-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "All 12 licences are valid, single-ingredient products from Novo Nordisk India Pvt Ltd." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+> **Review correction (2026-11-24)**: Originally stated: "All 12 licences are valid, single-ingredient products from Novo Nordisk India Pvt Ltd." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Revised 2026-11-24: the hard-coded number of records and the wording about the old table were dropped; the Quick Overview and the product table under India Market Information show the current figures. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
 
 <!-- review:end in-lic-20261106-insulin_aspart-1 -->
 
@@ -139,7 +152,7 @@ Below is the review log for this page: statements checked against official India
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-24 | Removed: "single-ingredient" | Corrected (revised 2026-11-24; earlier version kept in the record) | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 | 2026-11-20 | "Currently, detailed mechanism of action data is not available in the data compiled for this report, so this description rests on the known pharmacology of the drug class" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt (revised 2026-11-20; earlier version kept in the record) | [DailyMed: Novolog Mix 70/30 (insulin aspart) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=66da64f7-ca50-47d2-95fa-de37005eef85) |
 
 <!-- review:end log -->

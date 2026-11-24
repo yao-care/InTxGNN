@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 7
 monitor_inn: "Abatacept"
 predicted_indications: ["ankylosing spondylitis", "hypermobility of coccyx", "inflammatory spondylopathy", "Kummell disease", "vertebral disease", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Abatacept: predicted new indication ankylosing spondylitis (evidence level L3). In India: 1 listed product (1 not discontinued)"
 ---
 
@@ -79,9 +79,15 @@ Clinical data do not support this idea well. A pilot open-label study and a publ
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 163966 | Orencia Powder for infusion | box of 1 Powder for infusion | Not recorded in the local data |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 163966 | Orencia Powder for infusion | Box of 1 Powder for infusion | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

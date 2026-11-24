@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 833
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 description: "Tiagabine: known uses and market status in India; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -72,9 +72,15 @@ The TxGNN model produced candidates for Tiagabine, but every candidate that can 
 
 ## India Market Information
 
-| Licence | Product | Dosage form | Status |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
 |------|------|------|------|
-| 229036 | Tigatel 8mg Tablet | strip of 10 tablets | Valid |
+| 229036 | Tigatel 8mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

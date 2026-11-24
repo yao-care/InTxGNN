@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 70
 evidence_level: L2
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Armodafinil: predicted new indication insomnia (evidence level L2). Approved use: Narcolepsy (also listed: narcolepsy-cataplexy syndrome…"
 monitor_inn: "Armodafinil"
 predicted_indications: ["insomnia (disease)"]
@@ -93,13 +93,28 @@ Both publications are reviews of shift work disorder, not direct studies of armo
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 237994 | Vigilant 200mg Tablet (Taj Pharma India Ltd) | Strip of 10 tablets | Not stated in the compiled records |
-| 241564 | Waklert 100mg Tablet (Sun Pharmaceutical Industries Ltd) | Strip of 10 tablets | Not stated in the compiled records |
-| 241449 | Waklert 150 Tablet (Sun Pharmaceutical Industries Ltd) | Strip of 10 tablets | Not stated in the compiled records |
-| 242163 | Walkalarm 150mg Tablet (Ryon Pharma) | Strip of 10 tablets | Not stated in the compiled records |
-| 684 | Armod 50 Tablet (Emcure Pharmaceuticals Ltd) | Strip of 10 tablets | Not stated in the compiled records |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 684 | Armod 50 Tablet | Strip of 10 tablets | Valid |
+| 1266 | Armod 150 Tablet | Strip of 10 tablets | Valid |
+| 3097 | Acronite 50 Tablet | Strip of 10 tablets | Valid |
+| 5659 | Acronite 150 Tablet | Strip of 10 tablets | Valid |
+| 27919 | Biryth 150 Tablet | Strip of 4 tablets | Valid |
+| 236214 | Vigilant 150mg Tablet | Strip of 10 tablets | Valid |
+| 236315 | Vigilant 250mg Tablet | Strip of 10 tablets | Valid |
+| 237994 | Vigilant 200mg Tablet | Strip of 10 tablets | Valid |
+| 241445 | Waklert 50 Tablet | Strip of 10 tablets | Valid |
+| 241449 | Waklert 150 Tablet | Strip of 10 tablets | Valid |
+| 241564 | Waklert 100mg Tablet | Strip of 10 tablets | Valid |
+| 241865 | Waklert 250mg Tablet | Strip of 5 tablets | Valid |
+| 242141 | Walkalarm 50mg Tablet | Strip of 10 tablets | Valid |
+| 242163 | Walkalarm 150mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 There are 14 valid single-ingredient registrations in total, all oral tablets. None are cancelled.
 

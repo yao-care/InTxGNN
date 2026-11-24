@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Lamivudine"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "chronic hepatitis C virus infection"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Lamivudine: predicted new indication Feline acquired immunodeficiency syndrome (evidence level L5). Approved use: Chronic hepatitis B virus infection, HIV infectious disease, AIDS"
 ---
 
@@ -93,15 +93,38 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-At least 20 single-ingredient registrations are on record (the list may be partial). The records contain no approved-indication text. Main entries:
+At least 20 single-ingredient registrations are on record (the list may be partial). The records contain no approved-indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 125461 | Lamidac 100mg Tablet (Zydus Cadila) | Strip of 10 tablets | Not stated in records |
-| 104911 | Heptavir 150mg Tablet (Hetero Drugs Ltd) | Strip of 10 tablets | Not stated in records |
-| 124322 | Lavir 150mg Tablet (Emcure Pharmaceuticals Ltd) | Bottle of 60 tablets | Not stated in records |
-| 239597 | Virolam 150mg Tablet (Sun Pharmaceutical Industries Ltd) | Strip of 10 tablets | Not stated in records |
-| 226962 | Tapivir 100mg Tablet (Taj Pharma India Ltd) | Strip of 10 tablets | Not stated in records |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 104911 | Heptavir 150mg Tablet | Strip of 10 tablets | Valid |
+| 105603 | Hivir 100mg Tablet | Strip of 10 tablets | Valid |
+| 114439 | Jonvir 100 Tablet | Bottle of 60 tablets | Valid |
+| 114590 | Jonvir-ET Tablet | Bottle of 30 tablets | Valid |
+| 124322 | Lavir 150mg Tablet | Bottle of 60 tablets | Valid |
+| 125461 | Lamidac 100mg Tablet | Strip of 10 tablets | Valid |
+| 155082 | Nexvir Z Tablet | Strip of 10 tablets | Valid |
+| 155121 | Nevilast Tablet | Strip of 10 tablets | Valid |
+| 210934 | Stavex LN 150 mg/30 mg/200 mg Tablet | Strip of 30 tablets | Valid |
+| 217309 | Telura Tablet | Strip of 30 tablets | Valid |
+| 222959 | Trezav Ped Tablet | Bottle of 60 tablets | Valid |
+| 226962 | Tapivir 100mg Tablet | Strip of 10 tablets | Valid |
+| 230182 | Trilavir L Tablet | Bottle of 30 tablets | Valid |
+| 234433 | Vonaday 300mg/300mg/600mg Tablet | Strip of 30 tablets | Valid |
+| 236909 | Virolam 100mg Tablet | Strip of 10 tablets | Valid |
+| 237436 | Virofovir 300 mg/300 mg Tablet | Strip of 30 tablets | Valid |
+| 239119 | Virocomb E 150mg/300mg/600mg kit | Packet of 3 tablets | Valid |
+| 239597 | Virolam 150mg Tablet | Strip of 10 tablets | Valid |
+| 248500 | Zidolam N N 150 mg/300 mg/200 mg Tablet | Strip of 30 tablets | Valid |
+| 251472 | Zidovex LN 150 mg/300 mg/200 mg Tablet | Strip of 30 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 All dosage forms listed are oral.
 

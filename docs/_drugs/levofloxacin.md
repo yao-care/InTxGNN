@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 487
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Levofloxacin"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "congenital hematological disorder"]
 description: "Levofloxacin: predicted new indication Punctate epithelial keratoconjunctivitis (evidence level L5). In India: at least 20 listed products"
@@ -74,15 +74,38 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-The record may be partial. Five of the valid single-ingredient licences are shown.
+The record may be partial.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 122062 | Lquin 750 Tablet (Cipla Ltd) | Strip of 5 tablets | Not stated |
-| 192687 | R-Levo 250 Tablet (R.B. Remedies Pvt Ltd) | Strip of 10 tablets | Not stated |
-| 11175 | Avulox 500mg Tablet (Avunu Life Sciences) | Strip of 10 tablets | Not stated |
-| 128899 | Livopen 250mg Tablet (Morepen Laboratories Ltd) | Strip of 10 tablets | Not stated |
-| 82302 | Elvox 500mg Tablet (Elder Pharmaceuticals Ltd) | Strip of 5 tablets | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 11175 | Avulox 500mg Tablet | Strip of 10 tablets | Valid |
+| 66405 | Decaflox 500mg Tablet | Strip of 10 tablets | Valid |
+| 75606 | Evabit 500mg Tablet | Strip of 10 tablets | Valid |
+| 79798 | Elev 250mg Tablet | Strip of 10 tablets | Valid |
+| 82302 | Elvox 500mg Tablet | Strip of 5 tablets | Valid |
+| 122062 | Lquin 750 Tablet | Strip of 5 tablets | Valid |
+| 127653 | L Bakterie 500mg Tablet | Strip of 10 tablets | Valid |
+| 128899 | Livopen 250mg Tablet | Strip of 10 tablets | Valid |
+| 131798 | Lefloxil 500 Tablet | Strip of 10 tablets | Valid |
+| 132195 | Livoxit 500mg Tablet | Strip of 10 tablets | Valid |
+| 133310 | Lefoq 250mg Tablet | Strip of 10 tablets | Valid |
+| 133341 | Levoase 500mg Tablet | Strip of 10 tablets | Valid |
+| 171676 | Ofladea 500mg Tablet | Strip of 10 tablets | Valid |
+| 192687 | R-Levo 250 Tablet | Strip of 10 tablets | Valid |
+| 197875 | Rinlevo 500mg Tablet | Strip of 10 tablets | Valid |
+| 199122 | Ryvlox 500mg Tablet | Strip of 10 tablets | Valid |
+| 212618 | Selevo OZ 250mg/500mg Tablet | Strip of 10 tablets | Valid |
+| 225191 | Tri Alevo 250mg Tablet | Strip of 10 tablets | Valid |
+| 238899 | Volflox 500mg Tablet | Strip of 10 tablets | Valid |
+| 241417 | Voxquin OZ 250mg/500mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 All listed products are oral tablets. No topical or ophthalmic formulation appears in the local records, which matters for an ocular surface indication.
 

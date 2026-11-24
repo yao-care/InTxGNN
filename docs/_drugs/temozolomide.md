@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Temozolomide"
 predicted_indications: ["cauda equina neoplasm"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Temozolomide: predicted new indication Cauda equina neoplasm (evidence level L5). Approved use: Anaplastic astrocytoma, astrocytoma (excluding glioblastoma)…"
 ---
 
@@ -87,15 +87,38 @@ Only the first report relates to a tumour of this type, and it is a single case.
 
 ## India Market Information
 
-At least 20 single-ingredient licences are recorded (the list may be partial). The licence records compiled for this report contain no approved-indication text. Five main authorisations are listed:
+At least 20 single-ingredient licences are recorded (the list may be partial). The licence records compiled for this report contain no approved-indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 228645 | Temoblast 250mg Capsule | Strip of 5 capsules | Not stated in records |
-| 220212 | Temotide 100mg Tablet | Strip of 5 tablets | Not stated in records |
-| 223951 | Temo GBM 250mg Capsule | Bottle of 5 capsules | Not stated in records |
-| 225370 | Temokem 100mg Injection | Packet of 5 injections | Not stated in records |
-| 96306 | Gliotem 250mg Capsule | Strip of 1 capsule | Not stated in records |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 7918 | Axiotem 100 Capsule | Bottle of 5 capsules | Valid |
+| 95657 | Gliotem 100mg Capsule | Strip of 1 Capsule | Valid |
+| 96306 | Gliotem 250mg Capsule | Strip of 1 Capsule | Valid |
+| 97154 | Gliotem 20mg Capsule | Strip of 5 capsules | Valid |
+| 98879 | Gliotaz 100mg Capsule | Strip of 5 capsules | Valid |
+| 148828 | Myzotem 250mg Capsule | Strip of 5 capsules | Valid |
+| 153980 | Nublast 250mg Capsule | Strip of 5 capsules | Valid |
+| 158477 | Nublast 20mg Capsule | Strip of 5 capsules | Valid |
+| 217387 | Temotero 250 Capsule | Strip of 5 capsules | Valid |
+| 217621 | TEMOZAM 20 MG CAPSULE | Strip of 5 capsules | Valid |
+| 218859 | Temozol 100 Capsule | Bottle of 5 capsules | Valid |
+| 220212 | Temotide 100mg Tablet | Strip of 5 tablets | Valid |
+| 220213 | TEMOZAM 100 MG CAPSULE | Strip of 5 capsules | Valid |
+| 221504 | Temonat 100mg Capsule | Strip of 5 capsules | Valid |
+| 223951 | Temo GBM 250mg Capsule | Bottle of 5 capsules | Valid |
+| 225370 | Temokem 100mg Injection | Packet of 5 injections | Valid |
+| 226571 | Tolmd 2.5mg Tablet | Strip of 10 tablets | Valid |
+| 227293 | Temospan 250 Capsule | Bottle of 5 capsules | Valid |
+| 228645 | Temoblast 250mg Capsule | Strip of 5 capsules | Valid |
+| 229169 | Temotrust 250mg Capsule | Strip of 5 capsules | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 Products are available as oral capsules and tablets, and as an injection.
 

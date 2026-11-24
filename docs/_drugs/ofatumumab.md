@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 4
 monitor_inn: "Ofatumumab"
 predicted_indications: ["follicular lymphoma", "metastatic neoplasm", "malignant spiradenoma", "Langerhans cell histiocytosis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ofatumumab: predicted new indication Follicular lymphoma (evidence level L2). Approved use: Acute lymphoblastic/lymphocytic leukemia and Richter syndrome"
 ---
 
@@ -102,10 +102,16 @@ Two further trials (NCT01397591, terminated with 3 patients; NCT01263418, withdr
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 10845 | Arzerra 1000mg Solution for Infusion | Vial of 50 ml solution for infusion | Not stated in the licence record |
-| 8338 | Arzerra Injection | Vial of 3 injections | Not stated in the licence record |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 8338 | Arzerra Injection | Vial of 3 injections | Valid |
+| 10845 | Arzerra 1000mg Solution for Infusion | Vial of 50 ml Solution for Infusion | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 Both are single-ingredient licences from Glaxo SmithKline Pharmaceuticals Ltd and are currently valid.
 

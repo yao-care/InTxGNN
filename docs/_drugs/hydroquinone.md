@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 413
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Hydroquinone"
 predicted_indications: ["seborrheic keratosis", "vulvar inverted follicular keratosis", "exanthem (disease)", "lichen disease"]
 description: "Hydroquinone: predicted new indication Seborrheic keratosis (evidence level L5). In India: at least 20 listed products"
@@ -75,15 +75,38 @@ Currently no related clinical trials are registered for seborrheic keratosis.
 
 ## India Market Information
 
-Twenty single-ingredient hydroquinone products hold valid registrations, and none has been cancelled. Approved indication text is not available in the compiled records. The main registrations are:
+Twenty single-ingredient hydroquinone products hold valid registrations, and none has been cancelled. Approved indication text is not available in the compiled records.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 244397 | Xiar HC Ointment | Tube of 20 g ointment | Not available |
-| 206300 | Smart Glo Cream | Tube of 15 g cream | Not available |
-| 152006 | Nolasma Cream | Tube of 15 g cream | Not available |
-| 128311 | Litetone Cream | Tube of 20 g cream | Not available |
-| 114379 | Justclean Cream | Tube of 20 g cream | Not available |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 26784 | Bloomglow Cream | Tube of 20 gm Cream | Valid |
+| 34586 | Clear Skin Cream | Tube of 15 gm Cream | Valid |
+| 60870 | Dermofade Cream | Tube of 30 gm Cream | Valid |
+| 65569 | Dremz Mild Cream | Tube of 20 gm Cream | Valid |
+| 73468 | Eubit Cream | Tube of 15 gm Cream | Valid |
+| 76990 | Eutret Cream | Tube of 15 gm Cream | Valid |
+| 86595 | Femolink Cream | Tube of 20 gm Cream | Valid |
+| 104455 | Hypig 15 Cream | Tube of 20 gm Cream | Valid |
+| 104758 | Hqn-FT Cream | Tube of 15 gm Cream | Valid |
+| 114379 | Justclean Cream | Tube of 20 gm Cream | Valid |
+| 128311 | Litetone Cream | Tube of 20 gm Cream | Valid |
+| 140389 | Melapex Cream | Tube of 10 gm Cream | Valid |
+| 152006 | Nolasma Cream | Tube of 15 gm Cream | Valid |
+| 175978 | Pinkquin Cream | Tube of 25 gm Cream | Valid |
+| 206300 | Smart Glo Cream | Tube of 15 gm Cream | Valid |
+| 216561 | Tintin MH Cream | Tube of 15 gm Cream | Valid |
+| 219542 | Tanlite Cream | Tube of 20 gm Cream | Valid |
+| 231219 | Ulite Cream | Tube of 30 gm Cream | Valid |
+| 244350 | Xtralite Ointment | Tube of 20 gm Ointment | Valid |
+| 244397 | Xiar HC Ointment | Tube of 20 gm Ointment | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

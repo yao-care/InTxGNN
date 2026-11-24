@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 266
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Diethylcarbamazine: predicted new indication Syndromic lymphedema (evidence level L5). Approved use: Filariasis and related conditions (elephantiasis, lymphedema, loiasis…"
 monitor_inn: "Diethylcarbamazine"
 predicted_indications: ["syndromic lymphedema", "primary lymphedema"]
@@ -89,15 +89,38 @@ Neither publication studies syndromic lymphedema. Both address infectious filari
 
 ## India Market Information
 
-Diethylcarbamazine is widely marketed in India, with 20 valid single-ingredient registrations and no cancelled ones. The approved indication text is not recorded for these products. Main registrations:
+Diethylcarbamazine is widely marketed in India, with 20 valid single-ingredient registrations and no cancelled ones. The approved indication text is not recorded for these products.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| 103661 | Hetrazan 100 Tablet | Strip of 30 tablets | Pfizer Ltd |
-| 25862 | Benocide 100mg Forte Tablet | Strip of 30 tablets | Glaxo SmithKline Pharmaceuticals Ltd |
-| 59242 | Deecee 50mg Syrup | Bottle of 60 ml syrup | Shrinivas Gujarat Laboratories Pvt Ltd |
-| 59257 | Deecee 100mg Tablet | Strip of 10 tablets | Shrinivas Gujarat Laboratories Pvt Ltd |
-| 58514 | Dec Tablet | Strip of 10 tablets | Commonwealth Pharmaceuticals |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 25862 | Benocide 100mg Forte Tablet | Strip of 30 tablets | Valid |
+| 29062 | Bocet-BD 150mg/5mg Tablet | Strip of 10 tablets | Valid |
+| 35444 | Carbamyl Forte 150 mg/2.5 mg Tablet | Strip of 10 tablets | Valid |
+| 41774 | Carbarem Forte 250mg/5mg Tablet | Strip of 10 tablets | Valid |
+| 58464 | Deecee Forte 150 mg/2.5 mg Tablet | Strip of 10 tablets | Valid |
+| 58514 | Dec Tablet | Strip of 10 tablets | Valid |
+| 58584 | Dec Forte Tablet | Strip of 10 tablets | Valid |
+| 59242 | Deecee 50mg Syrup | Bottle of 60 ml Syrup | Valid |
+| 59257 | Deecee 100mg Tablet | Strip of 10 tablets | Valid |
+| 59978 | Delcar Forte 250 mg/5 mg Tablet | Strip of 10 tablets | Valid |
+| 60109 | Decee Syrup | Bottle of 100 ml Syrup | Valid |
+| 60467 | Deecee 120mg Syrup | Bottle of 100 ml Syrup | Valid |
+| 73682 | Eofiles OD Tablet | Strip of 10 tablets | Valid |
+| 75453 | Esnotone Tablet | Strip of 10 tablets | Valid |
+| 81614 | Esnocof XP Tablet | Strip of 10 tablets | Valid |
+| 103661 | Hetrazan 100 Tablet | Strip of 30 tablets | Valid |
+| 114862 | Jilosyn 150mg/5mg Tablet | Strip of 10 tablets | Valid |
+| 218711 | Trozan OD 120mg/5mg Syrup | Bottle of 60 ml Syrup | Valid |
+| 246975 | Zinofil Forte Tablet | Strip of 10 tablets | Valid |
+| 247129 | Zinofil Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 Available forms include oral tablets and syrups.
 

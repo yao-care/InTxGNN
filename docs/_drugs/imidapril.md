@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Imidapril"
 predicted_indications: ["pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "Braddock syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Imidapril: predicted new indication Pulmonary hypertension owing to lung disease and/or hypoxia (evidence level L5). Approved use: Hypertension (hypertensive disorder)…"
 ---
 
@@ -80,10 +80,16 @@ Currently no related literature available.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Registration No. 224165 | Tanatril 10mg Tablet | Strip of 10 tablets | Not stated in the licence record |
-| Registration No. 220107 | Tanatril 5mg Tablet | Strip of 10 tablets | Not stated in the licence record |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 220107 | Tanatril 5mg Tablet | Strip of 10 tablets | Valid |
+| 224165 | Tanatril 10mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 Both are single-ingredient products from Elder Pharmaceuticals Ltd, currently valid, for oral use.
 

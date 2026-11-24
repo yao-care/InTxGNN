@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 479
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Letrozole"
 predicted_indications: ["nipple carcinoma", "Ehrlich tumor carcinoma", "breast fibrocystic disease", "benign mammary dysplasia"]
 description: "Letrozole: predicted new indication Nipple carcinoma (evidence level L5). In India: at least 20 listed products"
@@ -77,15 +77,38 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-At least 20 valid single-ingredient licences are listed, and the list may be partial. Main examples:
+At least 20 valid single-ingredient licences are listed, and the list may be partial.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Registration No. 52386 | Canctroz 2.5mg Tablet | Strip of 10 tablets | Not stated |
-| Registration No. 123893 | Letor Tablet | Strip of 14 tablets | Not stated |
-| Registration No. 126257 | Letshil 2.5mg Tablet | Strip of 10 tablets | Not stated |
-| Registration No. 128156 | Letrocyt 2.5mg Tablet | Strip of 5 tablets | Not stated |
-| Registration No. 125294 | Lutrazole Tablet | Strip of 5 tablets | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 29321 | Brelet 2.5mg Tablet | Strip of 5 tablets | Valid |
+| 43262 | Conizet 2.5mg Tablet | Strip of 5 tablets | Valid |
+| 52386 | Canctroz 2.5mg Tablet | Strip of 10 tablets | Valid |
+| 119070 | Key2fert-L Tablet | Strip of 5 tablets | Valid |
+| 121643 | LETROFIL 2.5 MG TABLET | Strip of 5 tablets | Valid |
+| 122826 | Letrobest Tablet | Strip of 5 tablets | Valid |
+| 123828 | Letojet 5mg Tablet | Strip of 10 tablets | Valid |
+| 123893 | Letor Tablet | Strip of 14 tablets | Valid |
+| 124952 | Letrogest 5mg Tablet | Strip of 10 tablets | Valid |
+| 125294 | Lutrazole Tablet | Strip of 5 tablets | Valid |
+| 125388 | Letz 2.5mg Tablet | Strip of 10 tablets | Valid |
+| 126257 | Letshil 2.5mg Tablet | Strip of 10 tablets | Valid |
+| 128156 | Letrocyt 2.5mg Tablet | Strip of 5 tablets | Valid |
+| 135416 | Mamazol Tablet | Strip of 10 tablets | Valid |
+| 156333 | Newova 2.5mg Tablet | Strip of 5 tablets | Valid |
+| 165633 | Ovastim LZ 2.5mg Tablet | Strip of 5 tablets | Valid |
+| 174521 | Pinkletro 5mg Tablet | Strip of 5 tablets | Valid |
+| 200659 | Stimu-Let Tablet | Strip of 5 tablets | Valid |
+| 211142 | Satzole 2.5mg Tablet | Strip of 10 tablets | Valid |
+| 231824 | Upova 2.5mg Tablet | Strip of 5 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

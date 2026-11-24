@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Capecitabine"
 predicted_indications: ["gastric adenocarcinoma and proximal polyposis of the stomach"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Capecitabine: predicted new indication Gastric adenocarcinoma and proximal polyposis of the stomach (evidence level L5). Approved use: Relations recorded in the knowledge graph: metastasis from malig…"
 ---
 
@@ -72,15 +72,38 @@ Currently no related literature available.
 
 ## India Market Information
 
-At least 20 single-ingredient capecitabine licences are valid (the list may be partial). The licence records contain no approved indication text. Main examples:
+At least 20 single-ingredient capecitabine licences are valid (the list may be partial). The licence records contain no approved indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 44781 | Cabita 500mg Tablet | Strip of 10 tablets | Not stated in the records |
-| 152605 | Naprocap 500mg Tablet | Strip of 10 tablets | Not stated in the records |
-| 249367 | Zocitab 500mg Tablet | Strip of 10 tablets | Not stated in the records |
-| 41089 | Capcel 500 Tablet | Strip of 10 tablets | Not stated in the records |
-| 34293 | Capegard 500 Tablet | Strip of 10 tablets | Not stated in the records |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 34293 | Capegard 500 Tablet | Strip of 10 tablets | Valid |
+| 34544 | Capsy 500mg Tablet | Strip of 10 tablets | Valid |
+| 35894 | Capcita 500mg Tablet | Strip of 12 tablets | Valid |
+| 36736 | Capecite 500mg Tablet | Strip of 8 tablets | Valid |
+| 38077 | Capro 500mg Tablet | Strip of 10 tablets | Valid |
+| 38151 | Comcapsy 400mg/20mg Tablet | Strip of 10 tablets | Valid |
+| 41089 | Capcel 500 Tablet | Strip of 10 tablets | Valid |
+| 41702 | Capze 500mg Tablet | Strip of 10 tablets | Valid |
+| 42658 | Capecad 500mg Tablet | Strip of 10 tablets | Valid |
+| 43065 | Capxcel Tablet | Strip of 10 tablets | Valid |
+| 44484 | Captabin 500mg Tablet | Strip of 10 tablets | Valid |
+| 44781 | Cabita 500mg Tablet | Strip of 10 tablets | Valid |
+| 47768 | Capcetaz 500mg Tablet | Strip of 10 tablets | Valid |
+| 49834 | Capscare 500mg Tablet | Strip of 10 tablets | Valid |
+| 50627 | Capres 500mg Tablet | Strip of 10 tablets | Valid |
+| 152605 | Naprocap 500mg Tablet | Strip of 10 tablets | Valid |
+| 176927 | Pro 5 500mg Tablet | Strip of 10 tablets | Valid |
+| 244399 | Xelocel 500mg Tablet | Strip of 10 tablets | Valid |
+| 249367 | Zocitab 500mg Tablet | Strip of 10 tablets | Valid |
+| 251372 | Zenocite 500mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 454
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Isotretinoin"
 predicted_indications: ["malignant hypertensive renal disease"]
 description: "Isotretinoin: predicted new indication Malignant hypertensive renal disease (evidence level L5). In India: at least 20 listed products"
@@ -80,15 +80,38 @@ Currently no related literature available.
 
 ## India Market Information
 
-Twenty valid single-ingredient registrations are on record. The five main ones are listed below. None of them has approved indication text on file.
+Twenty valid single-ingredient registrations are on record. None of them has approved indication text on file.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 97044 | Gloret 10mg Tablet | Strip of 10 tablets | Not specified |
-| 109591 | Isozit 20mg Soft Gelatin Capsule | Strip of 10 soft gelatin capsules | Not specified |
-| 109482 | Isina 20mg Capsule | Strip of 10 capsules | Not specified |
-| 241821 | Wontret 20mg Tablet | Strip of 10 tablets | Not specified |
-| 200705 | Sotret NF 24mg Capsule | Strip of 10 soft gelatin capsules | Not specified |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 3579 | Aknea 20 Softgel Capsule | Strip of 10 soft gelatin capsules | Valid |
+| 19173 | Acnedoq 20 Soft Gelatin Capsule | Strip of 10 soft gelatin capsules | Valid |
+| 97044 | Gloret 10mg Tablet | Strip of 10 tablets | Valid |
+| 107873 | Isac 20mg Capsule | Strip of 10 capsules | Valid |
+| 108117 | I Deriva 20mg Capsule | Strip of 10 capsules | Valid |
+| 108542 | Isorec 20mg Capsule | Strip of 10 capsules | Valid |
+| 108665 | Isopic 20mg Soft Gelatin Capsule | Strip of 10 soft gelatin capsules | Valid |
+| 108730 | Isofair 20mg Capsule | Strip of 10 capsules | Valid |
+| 108861 | Ista 10 Capsule | Strip of 10 capsules | Valid |
+| 109371 | Isogud 20mg Soft Gelatin Capsule | Strip of 10 soft gelatin capsules | Valid |
+| 109482 | Isina 20mg Capsule | Strip of 10 capsules | Valid |
+| 109591 | Isozit 20mg Soft Gelatin Capsule | Strip of 10 soft gelatin capsules | Valid |
+| 110274 | I New 10mg Capsule | Strip of 10 capsules | Valid |
+| 110769 | Isomove 10mg Soft Gelatin Capsule | Strip of 10 soft gelatin capsules | Valid |
+| 139574 | Mavtron 10mg Soft Gelatin Capsule | Strip of 10 soft gelatin capsules | Valid |
+| 174774 | Pinoin 20mg Capsule | Strip of 10 capsules | Valid |
+| 175168 | Perato 20mg Capsule | Strip of 10 capsules | Valid |
+| 186579 | Risotin 20mg Soft Gelatin Capsule | Strip of 10 soft gelatin capsules | Valid |
+| 200705 | Sotret NF 24mg Capsule | Strip of 10 soft gelatin capsules | Valid |
+| 241821 | Wontret 20mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 All products are oral forms (tablets and capsules).
 

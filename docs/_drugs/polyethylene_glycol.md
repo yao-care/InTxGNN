@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 684
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Polyethylene Glycol: predicted new indication Congenital ichthyosiform erythroderma (evidence level L5). Approved use: Constipation disorder, dry eye syndrome, xerophthalmia"
 monitor_inn: "Polyethylene glycol"
 predicted_indications: ["congenital ichthyosiform erythroderma"]
@@ -64,15 +64,44 @@ Ichthyosis is a genetic keratinization disorder (for example, TGM1 and ALOX12B/A
 
 ## India Market Information
 
-All 20 registrations are valid single-ingredient products. The license records contain no approved indication text. Five main authorizations are listed below.
+All 20 registrations are valid products. The license records contain no approved indication text.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| 121044 | Looz Peg Oral Solution Orange | Oral solution, 200 ml bottle | Intas Pharmaceuticals Ltd |
-| 121797 | Laxolite 10gm Oral Laxative Liquid Sugar Free | Liquid, 100 ml bottle | J B Chemicals and Pharmaceuticals Ltd |
-| 113911 | Junior Cipeg Powder for Oral Solution | Powder for oral solution, 121.1 gm bottle | Cipla Ltd |
-| 175323 | Pegsure Sachet Orange | Powder, 17 gm sachet | Veterix Lifesciences Private Limited |
-| 39940 | C-Well Eye Drop | Eye drop, 10 ml bottle | Wellona Pharmaceutical Private Limited |
+<!-- review:begin in-lic-20261124-polyethylene_glycol-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "All 20 registrations are valid single-ingredient products." Removed: it described the products as single-ingredient (or as having no combination products), which does not match the Indian medicine data (the Indian Medicine Dataset): some of the recorded products are fixed-dose combinations. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124-polyethylene_glycol-1 -->
+
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 34887 | Cellwet Eye Drop | Packet of 10 ml Eye Drop | Valid |
+| 35230 | CCS Ultra Eye Drop | Bottle of 10 ml Eye Drop | Valid |
+| 39940 | C-Well Eye Drop | Bottle of 10 ml Eye Drop | Valid |
+| 50992 | Curemoist Eye Drop | Bottle of 10 ml Eye Drop | Valid |
+| 51015 | Comc Ultra Eye Drop | Bottle of 10 ml Eye Drop | Valid |
+| 60232 | Devomoist Eye Drop | Packet of 10 ml Eye Drop | Valid |
+| 75925 | Eyeaqua Ultra Eye Drop | Bottle of 10 ml Ophthalmic Solution | Valid |
+| 109375 | Imoist-Ultra Eye Drop | Bottle of 10 ml Eye Drop | Valid |
+| 113911 | Junior Cipeg Powder for Oral Solution | Bottle of 121.1 gm Powder for Oral Solution | Valid |
+| 120935 | Laxolite Oral Laxative Liquid Sugar Free | Bottle of 200 ml Liquid | Valid |
+| 121044 | Looz Peg Oral Solution Orange | Bottle of 200 ml Oral Solution | Valid |
+| 121797 | Laxolite 10gm Oral Laxative Liquid Sugar Free | Bottle of 100 ml Liquid | Valid |
+| 139403 | Medmoist Eye Drop | Bottle of 10 ml Eye Drop | Valid |
+| 175323 | Pegsure Sachet Orange | Sachet of 17 gm Powder | Valid |
+| 175828 | Popro Eye Drop | Bottle of 10 ml Eye Drop | Valid |
+| 177324 | PG Wet Eye Drop | Bottle of 10 ml Ophthalmic Solution | Valid |
+| 201028 | Syslube Eye Drop | Bottle of 10 ml Ophthalmic Solution | Valid |
+| 201412 | Scilax Powder Strawberry | Sachet of 23 gm Powder | Valid |
+| 203824 | Sherwyn Ultra Eye Drop | Bottle of 10 ml Eye Drop | Valid |
+| 230442 | Ultralife Eye Drop | Bottle of 10 ml Ophthalmic Solution | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 The other 15 registrations include one further laxative powder (Scilax) and 14 additional eye drops, all in 10 ml presentations.
 
@@ -104,6 +133,19 @@ The prediction is supported only by the model score. There are no clinical trial
 - A literature and trial search for polyethylene glycol or PEG-based topical products in ichthyosis
 - An assessment of route compatibility (a topical formulation would be needed) and similarity to the original indications
 - Preclinical or small exploratory data showing a benefit beyond ordinary emollients
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-24 | Removed: the single-ingredient claim | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

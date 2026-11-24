@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 753
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ropinirole: predicted new indication Attention deficit-hyperactivity disorder (evidence level L3). Approved use: Restless legs syndrome, Parkinson disease"
 monitor_inn: "Ropinirole"
 predicted_indications: ["attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "retinal dystrophy with or without extraocular anomalies", "schizophrenia", "myopia X-linked", "congenital disorder of glycosylation with defective fucosylation", "atypical glycine encephalopathy", "myopia 26, X-linked, female-limited", "Charcot-Marie-Tooth disease, demyelinating, type 1G"]
@@ -81,15 +81,38 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-Twenty valid single-ingredient registrations are listed. Approved indication text is not available in the records. Five main examples:
+Twenty valid single-ingredient registrations are listed. Approved indication text is not available in the records.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 184311 | Ropark 0.5 Tablet (Sun Pharmaceutical) | Strip of 10 tablets | Not specified |
-| 185061 | Ropark XL 4 Tablet (Sun Pharmaceutical) | Strip of 10 extended-release tablets | Not specified |
-| 192786 | Ropark 6mg Tablet XL (Sun Pharmaceutical) | Strip of 10 extended-release tablets | Not specified |
-| 187918 | Ropitor 0.5mg Tablet (Torrent Pharmaceuticals) | Strip of 10 tablets | Not specified |
-| 195679 | Ropikem 0.25mg Tablet (Chemo Healthcare) | Strip of 10 tablets | Not specified |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 6708 | Adrole 0.25mg Tablet | Strip of 10 tablets | Valid |
+| 8142 | Adrole 1mg Tablet | Strip of 10 tablets | Valid |
+| 65160 | DavaIndia Ropinirole 0.5mg Tablet | Strip of 10 tablets | Valid |
+| 66103 | DavaIndia Ropinirole 0.25mg Tablet | Strip of 10 tablets | Valid |
+| 180161 | Parkirop 0.25mg Tablet | Strip of 10 tablets | Valid |
+| 184311 | Ropark 0.5 Tablet | Strip of 10 tablets | Valid |
+| 184412 | Ropark 0.25 Tablet | Strip of 10 tablets | Valid |
+| 184723 | Ropark XL 1 Tablet | Strip of 10 Tablet pr | Valid |
+| 184899 | Ropark XL 2 Tablet | Strip of 10 tablet er | Valid |
+| 185061 | Ropark XL 4 Tablet | Strip of 10 Tablet pr | Valid |
+| 186467 | Role 0.5mg Tablet | Strip of 10 tablets | Valid |
+| 187918 | Ropitor 0.5mg Tablet | Strip of 10 tablets | Valid |
+| 188368 | Role 0.25mg Tablet | Strip of 10 tablets | Valid |
+| 189239 | Ropikon 0.5mg Tablet | Strip of 10 tablets | Valid |
+| 189910 | Roparil 0.5mg Tablet | Strip of 10 tablets | Valid |
+| 191317 | Role 1mg Tablet | Strip of 10 tablets | Valid |
+| 192786 | Ropark 6mg Tablet XL | Strip of 10 tablet xl | Valid |
+| 194410 | Ropimine 1mg Tablet | Strip of 10 tablets | Valid |
+| 195679 | Ropikem 0.25mg Tablet | Strip of 10 tablets | Valid |
+| 197204 | Ropikem 0.5mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 All products are oral tablets, including extended-release forms.
 

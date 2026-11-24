@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Acetazolamide"
 predicted_indications: ["exercise-induced malignant hyperthermia", "hypertrophic cardiomyopathy", "congenital myopathy with excess of thin filaments", "hypertrophic cardiomyopathy due to intensive athletic training", "distal myopathy, Tateyama type", "cirrhotic cardiomyopathy", "cardiomyopathy", "intestinal obstruction", "glycogen storage disease due to acid maltase deficiency, late-onset", "unclassified intestinal pseudoobstruction"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Acetazolamide: predicted new indication exercise-induced malignant hyperthermia (evidence level L5). Approved use: Relations recorded in the knowledge graph: absence epilepsy…"
 ---
 
@@ -86,15 +86,38 @@ For the broader category of cardiomyopathy, a preclinical study ([22426904](http
 
 ## India Market Information
 
-At least 20 valid single-ingredient licences are on record, and the list may be partial. The records contain no approved indication text. Five main examples:
+At least 20 valid single-ingredient licences are on record, and the list may be partial. The records contain no approved indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Registration No. 12121 | AT Zol 250mg Tablet | Strip of 10 tablets | Not stated in the record |
-| Registration No. 2332 | Avva 250mg Tablet SR | Strip of 10 sustained-release tablets | Not stated in the record |
-| Registration No. 60301 | Diamox ER 500 Capsule | Strip of 15 extended-release capsules | Not stated in the record |
-| Registration No. 3222 | ACTAMIDE 250MG TABLET | Strip of 10 tablets | Not stated in the record |
-| Registration No. 107801 | Iopar-SR Capsule | Strip of 10 sustained-release capsules | Not stated in the record |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 2332 | Avva 250mg Tablet SR | Strip of 10 tablet sr | Valid |
+| 2410 | Avva Capsule SR | Strip of 10 capsule sr | Valid |
+| 3083 | Actamid 250mg Tablet | Strip of 10 tablets | Valid |
+| 3222 | ACTAMIDE 250MG TABLET | Strip of 10 tablets | Valid |
+| 7465 | AC Mox Tablet | Strip of 10 tablets | Valid |
+| 8189 | Acetazide 250mg Tablet | Strip of 10 tablets | Valid |
+| 12121 | AT Zol 250mg Tablet | Strip of 10 tablets | Valid |
+| 13035 | Acimday 250 Tablet | Strip of 10 tablets | Valid |
+| 15406 | ACETA 250MG TABLET SR | Strip of 10 tablet sr | Valid |
+| 16499 | Acetaent 250mg Tablet | Strip of 10 tablets | Valid |
+| 20423 | AZ Mide 250mg Tablet | Strip of 10 tablets | Valid |
+| 60301 | Diamox ER 500 Capsule | Strip of 15 capsule er | Valid |
+| 76523 | Esmide 250mg Tablet | Strip of 10 tablets | Valid |
+| 97591 | Gromide 250mg Tablet | Strip of 10 tablets | Valid |
+| 107801 | Iopar-SR Capsule | Strip of 10 capsule sr | Valid |
+| 109499 | Iomide 250mg Tablet | Strip of 10 tablets | Valid |
+| 109712 | I Mide 250mg Tablet | Strip of 10 tablets | Valid |
+| 163756 | Opt Tablet | Strip of 10 tablets | Valid |
+| 170674 | O Mide 250mg Tablet | Strip of 10 tablets | Valid |
+| 175985 | P 20mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 All available forms are oral.
 

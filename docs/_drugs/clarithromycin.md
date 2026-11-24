@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Clarithromycin"
 predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "punctate epithelial keratoconjunctivitis", "blood group incompatibility"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Clarithromycin: predicted new indication hyperamylasemia (evidence level L5). In India: at least 20 listed products"
 ---
 
@@ -82,15 +82,38 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-At least 20 valid single-ingredient registrations were found, and the list may be partial. Approved indication text is not recorded for these records. Main examples:
+At least 20 valid single-ingredient registrations were found, and the list may be partial. Approved indication text is not recorded for these records.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 54444 | Clarinic Kid 125mg Tablet | Strip of 10 tablets | Not recorded |
-| 48478 | Claricin 250mg Tablet | Strip of 10 tablets | Not recorded |
-| 53414 | Claripax 250mg Tablet | Strip of 10 tablets | Not recorded |
-| 45283 | Clarigal 500mg Tablet | Strip of 4 tablets | Not recorded |
-| 117637 | Klear Dry Syrup | Bottle of 30 ml dry syrup | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 34172 | Clarigard 500 Tablet | Strip of 10 tablets | Valid |
+| 34479 | Crixan 125mg Granules | Bottle of 30 ml Powder for Oral Suspension | Valid |
+| 36267 | Celex OD 500mg Tablet | Strip of 4 tablets | Valid |
+| 37644 | Clarie 500mg Tablet | Strip of 10 tablets | Valid |
+| 37986 | Claricin Dry Syrup | Bottle of 30 ml Dry Syrup | Valid |
+| 38981 | Clarithro 250mg Tablet | Strip of 4 tablets | Valid |
+| 39505 | Clarithro 500mg Tablet XR | Strip of 5 tablet xr | Valid |
+| 39648 | Clarix 250mg Tablet | Strip of 10 tablets | Valid |
+| 45283 | Clarigal 500mg Tablet | Strip of 4 tablets | Valid |
+| 46720 | Clariford 250mg Tablet | Strip of 4 tablets | Valid |
+| 47366 | Cth More 500mg Tablet | Strip of 10 tablets | Valid |
+| 48478 | Claricin 250mg Tablet | Strip of 10 tablets | Valid |
+| 49074 | Clarifix 500mg Tablet | Strip of 10 tablets | Valid |
+| 53414 | Claripax 250mg Tablet | Strip of 10 tablets | Valid |
+| 54444 | Clarinic Kid 125mg Tablet | Strip of 10 tablets | Valid |
+| 117637 | Klear Dry Syrup | Bottle of 30 ml Dry Syrup | Valid |
+| 120102 | Klazin Oral Suspension | Bottle of 30 ml Oral Suspension | Valid |
+| 127041 | Laritova 500 Tablet | Strip of 4 tablets | Valid |
+| 138725 | Mycitec 500 Tablet | Strip of 10 tablets | Valid |
+| 199458 | Rithroxor 250mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ---
 

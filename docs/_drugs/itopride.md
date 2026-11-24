@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 456
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 monitor_inn: "Itopride"
 predicted_indications: ["small bowel Crohn disease", "venous insufficiency (disease)", "achlorhydria", "hiatus hernia (disease)"]
 description: "Itopride: predicted new indication Small bowel Crohn disease (evidence level L5). In India: at least 20 listed products"
@@ -81,15 +81,38 @@ No literature is available for small bowel Crohn disease. The only publications 
 
 ## India Market Information
 
-Itopride has 20 valid single-ingredient registrations in India. Approved indication text was not available for these products. Five of them are listed below.
+Itopride has 20 valid single-ingredient registrations in India. Approved indication text was not available for these products.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Registration No. 96099 | Gitune 50mg Tablet (Intas) | Strip of 10 tablets | Not available |
-| Registration No. 60573 | Discom 50mg Tablet (Hetero Drugs) | Strip of 10 tablets | Not available |
-| Registration No. 108727 | Itcan 150mg Capsule SR (Hetero Healthcare) | Strip of 10 SR capsules | Not available |
-| Registration No. 94181 | Ganaton Tablet (Abbott) | Strip of 10 tablets | Not available |
-| Registration No. 141563 | Motiza 150mg Tablet SR (J B Chemicals) | Strip of 10 SR tablets | Not available |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 60573 | Discom 50mg Tablet | Strip of 10 tablets | Valid |
+| 94181 | Ganaton Tablet | Strip of 10 tablets | Valid |
+| 95350 | Git 50mg Tablet | Strip of 10 tablets | Valid |
+| 96099 | Gitune 50mg Tablet | Strip of 10 tablets | Valid |
+| 100960 | Gitune Mps 50mg/125mg Tablet | Strip of 10 tablets | Valid |
+| 108369 | Itokine 50mg Tablet | Strip of 10 tablets | Valid |
+| 108382 | Itonol 50mg Tablet | Strip of 10 tablets | Valid |
+| 108640 | Itoz 50mg Tablet | Strip of 10 tablets | Valid |
+| 108727 | Itcan 150mg Capsule SR | Strip of 10 capsule sr | Valid |
+| 109190 | Itoguard 50mg Tablet | Strip of 10 tablets | Valid |
+| 109423 | Itopee 50 Tablet | Strip of 10 tablets | Valid |
+| 109759 | Itonorm 50mg Tablet | Strip of 10 tablets | Valid |
+| 110245 | Itza OD 150mg Tablet | Strip of 10 tablets | Valid |
+| 136925 | Motiza 50mg Tablet | Strip of 10 tablets | Valid |
+| 139839 | Mtone 50mg Tablet | Strip of 10 tablets | Valid |
+| 141563 | Motiza 150mg Tablet SR | Strip of 10 tablet sr | Valid |
+| 144832 | Megpride 50mg Tablet | Strip of 10 tablets | Valid |
+| 179179 | Prid 50mg Tablet | Strip of 10 tablets | Valid |
+| 185618 | RE Tride 50mg Tablet | Strip of 10 tablets | Valid |
+| 235011 | Volvito 50 Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

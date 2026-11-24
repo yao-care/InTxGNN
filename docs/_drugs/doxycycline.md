@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 290
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Doxycycline: predicted new indication Punctate epithelial keratoconjunctivitis (evidence level L5). Approved use: Bronchitis, acne, bacterial pneumonia, anthrax…"
 monitor_inn: "Doxycycline"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "exposure keratitis", "chronic gingivitis"]
@@ -74,15 +74,38 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-Twenty single-ingredient doxycycline licences are valid, and none are cancelled. Oral tablets and capsules and injectable vials are all available. The licence records do not include approved-indication text. Five of the 20 are shown below.
+Twenty single-ingredient doxycycline licences are valid, and none are cancelled. Oral tablets and capsules and injectable vials are all available. The licence records do not include approved-indication text.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| 178608 | Pydox 100mg Tablet | Strip of 10 tablets | Pifer Pharmaceuticals Pvt Ltd |
-| 13789 | Amdoxy Capsule | Strip of 10 capsules | Ampira Biotechnics Pvt Ltd |
-| 58835 | Doxicip LB Capsule | Strip of 10 capsules | Cipla Ltd |
-| 59833 | Doxytab 100mg Tablet | Strip of 8 tablets | Intas Pharmaceuticals Ltd |
-| 68326 | Dcyline 100mg Injection | Vial of 1 injection | Dr. Edwin Lab |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 6971 | Andoxy 100mg Injection | Vial of 1 Injection | Valid |
+| 11519 | Avidox 100mg/100mg Tablet | Strip of 10 tablets | Valid |
+| 13789 | Amdoxy Capsule | Strip of 10 capsules | Valid |
+| 40898 | Codo Capsule | Strip of 10 capsules | Valid |
+| 58835 | Doxicip LB Capsule | Strip of 10 capsules | Valid |
+| 59114 | Doxivent LB 100mg Capsule | Strip of 10 capsules | Valid |
+| 59833 | Doxytab 100mg Tablet | Strip of 8 tablets | Valid |
+| 59902 | Doxymiz SL 100mg Capsule | Strip of 10 capsules | Valid |
+| 60395 | Doxyguard 100mg Injection | Vial of 1 Injection | Valid |
+| 60571 | Doxypro LB 100mg Capsule | Strip of 10 capsules | Valid |
+| 62309 | Doxiheal 100 Capsule | Strip of 10 capsules | Valid |
+| 67415 | Doxberry 100mg Tablet | Strip of 8 tablets | Valid |
+| 68326 | Dcyline 100mg Injection | Vial of 1 Injection | Valid |
+| 69735 | Doxsom 100mg Injection | Vial of 1 Injection | Valid |
+| 74161 | Emdox 100mg Capsule | Strip of 10 capsules | Valid |
+| 116739 | Kivodox LB 100mg Capsule | Strip of 10 capsules | Valid |
+| 150457 | Nixidox Capsule | Strip of 10 capsules | Valid |
+| 178608 | Pydox 100mg Tablet | Strip of 10 tablets | Valid |
+| 201246 | Skidox-LB Capsule | Strip of 10 capsules | Valid |
+| 238283 | Vdoux Injection | Vial of 1 Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

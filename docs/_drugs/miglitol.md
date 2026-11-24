@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Miglitol"
 predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "thiamine-responsive dysfunction syndrome", "opsismodysplasia", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pancreatic agenesis", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Miglitol: predicted new indication Focal stiff limb syndrome (evidence level L5). In India: 18 listed products (18 not discontinued)"
 ---
 
@@ -88,15 +88,34 @@ Currently no related literature available.
 
 ## India Market Information
 
-There are 18 valid single-ingredient licences. The records contain no approved-indication text. The five main ones are listed below.
+There are 18 valid single-ingredient licences. The records contain no approved-indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Registration No. 142594 | Migset 25mg Tablet (Cipla Ltd) | Strip of 10 tablets | Not stated in the records |
-| Registration No. 136339 | Mignar 50 Tablet (Glenmark Pharmaceuticals Ltd) | Strip of 15 tablets | Not stated in the records |
-| Registration No. 101510 | Glybloc 50mg Tablet (Torrent Pharmaceuticals Ltd) | Strip of 10 tablets | Not stated in the records |
-| Registration No. 76480 | Etilox 25mg Tablet (Sun Pharmaceutical Industries Ltd) | Strip of 10 tablets | Not stated in the records |
-| Registration No. 67698 | Diamig 25mg Tablet (Micro Labs Ltd) | Strip of 10 tablets | Not stated in the records |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 65318 | Diamig 50mg Tablet | Strip of 10 tablets | Valid |
+| 67698 | Diamig 25mg Tablet | Strip of 10 tablets | Valid |
+| 76480 | Etilox 25mg Tablet | Strip of 10 tablets | Valid |
+| 79261 | Elitox 50mg Tablet | Strip of 10 tablets | Valid |
+| 98982 | Glock 25mg Tablet | Strip of 10 tablets | Valid |
+| 100818 | Glybloc 25mg Tablet | Strip of 10 tablets | Valid |
+| 101510 | Glybloc 50mg Tablet | Strip of 10 tablets | Valid |
+| 135320 | Mignar 25 Tablet | Strip of 15 tablets | Valid |
+| 136339 | Mignar 50 Tablet | Strip of 15 tablets | Valid |
+| 137595 | Misobit 50 Tablet | Strip of 10 tablets | Valid |
+| 138092 | Minerva 25mg Tablet | Strip of 10 tablets | Valid |
+| 139003 | Misobit 25 Tablet | Strip of 10 tablets | Valid |
+| 139263 | Migtor 25mg Tablet | Strip of 10 tablets | Valid |
+| 142209 | Minerva 50mg Tablet | Strip of 10 tablets | Valid |
+| 142594 | Migset 25mg Tablet | Strip of 10 tablets | Valid |
+| 143524 | Miglit 50mg Tablet | Strip of 10 tablets | Valid |
+| 143679 | Migtor 50mg Tablet | Strip of 10 tablets | Valid |
+| 144605 | Miglit 25mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ---
 

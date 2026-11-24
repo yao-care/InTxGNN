@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Brivaracetam"
 predicted_indications: ["beta-ketothiolase deficiency"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Brivaracetam: predicted new indication beta-ketothiolase deficiency (evidence level L5). In India: at least 20 listed products"
 ---
 
@@ -69,15 +69,38 @@ Currently no related literature available.
 
 ## India Market Information
 
-At least 20 valid single-ingredient licences are recorded; the list below may be partial. Up to 5 are shown.
+At least 20 valid single-ingredient licences are recorded.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 26357 | Brivanext 50mg Tablet | Strip of 10 tablets | Not recorded |
-| 28184 | Brivatab 100mg Tablet | Strip of 10 tablets | Not recorded |
-| 28471 | Bripca 75mg Tablet | Strip of 14 tablets | Not recorded |
-| 26854 | Briviact 75mg Tablet | Strip of 14 tablets | Not recorded |
-| 28419 | Brivup 10mg Injection | Vial of 5 ml injection | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 25833 | Britzilam 50 Tablet | Strip of 15 tablets | Valid |
+| 25994 | Britam 50 Tablet | Strip of 10 tablets | Valid |
+| 26026 | Brivgard 50 Tablet | Strip of 10 tablets | Valid |
+| 26061 | Brivapride 50mg Tablet | Strip of 10 tablets | Valid |
+| 26357 | Brivanext 50mg Tablet | Strip of 10 tablets | Valid |
+| 26427 | Briv 25mg Tablet | Strip of 10 tablets | Valid |
+| 26854 | Briviact 75mg Tablet | Strip of 14 tablets | Valid |
+| 26977 | Brivajoy 100 Tablet | Strip of 14 tablets | Valid |
+| 27346 | Brivissa 50 Tablet | Strip of 10 tablets | Valid |
+| 27411 | Brivetam 50 Tablet | Strip of 14 tablets | Valid |
+| 27865 | Brivanext 25 Tablet | Strip of 10 tablets | Valid |
+| 28184 | Brivatab 100mg Tablet | Strip of 10 tablets | Valid |
+| 28397 | Brivatab 25mg Tablet | Strip of 10 tablets | Valid |
+| 28419 | Brivup 10mg Injection | Vial of 5 ml Injection | Valid |
+| 28471 | Bripca 75mg Tablet | Strip of 14 tablets | Valid |
+| 29576 | Bivogrid 50mg Tablet | Strip of 10 tablets | Valid |
+| 29863 | Brivatop 50mg Tablet | Strip of 10 tablets | Valid |
+| 233993 | Vivocet 50 Tablet | Strip of 15 tablets | Valid |
+| 236024 | Vivocet 25mg Tablet | Strip of 14 tablets | Valid |
+| 236616 | Vivocet 75 Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

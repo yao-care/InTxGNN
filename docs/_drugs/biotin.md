@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Biotin"
 predicted_indications: ["dyspepsia", "gastroparesis (disease)"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Biotin: predicted new indication dyspepsia (evidence level L5). In India: 18 listed products (18 not discontinued)"
 ---
 
@@ -87,21 +87,40 @@ None of the retrieved publications shows that biotin treats dyspepsia. The only 
 
 ## India Market Information
 
-Biotin is marketed in India, with 18 valid licences and none cancelled. The licence records carry no approved indication text. Main authorizations:
+Biotin is marketed in India; all its recorded licences are valid and none are cancelled. The licence records carry no approved indication text.
 
 <!-- review:begin in-lic-20261106-biotin-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "Biotin is marketed in India, with 18 valid single-ingredient licences and none cancelled." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+> **Review correction (2026-11-24)**: Originally stated: "Biotin is marketed in India, with 18 valid single-ingredient licences and none cancelled." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Revised 2026-11-24: the hard-coded number of records and the wording about the old table were dropped; the Quick Overview and the product table under India Market Information show the current figures. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
 
 <!-- review:end in-lic-20261106-biotin-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 27963 | B7F 5mg/1mg Tablet | Strip of 15 tablets | Not recorded |
-| 85165 | Folivern-Plus Tablet | Strip of 10 tablets | Not recorded |
-| 115809 | Kerashine-F Tablet | Strip of 10 tablets | Not recorded |
-| 86266 | Finrest-B 10mg/1mg Tablet | Strip of 10 tablets | Not recorded |
-| 27618 | Bkosa-F Tablet | Strip of 10 tablets | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 2561 | Actihair 5mg/5mg Tablet | Strip of 10 tablets | Valid |
+| 26474 | Bio Hairr-F Tablet | Strip of 10 tablets | Valid |
+| 26648 | Bio-CP Tablet | Strip of 10 tablets | Valid |
+| 27432 | Biovib 5mg Tablet | Strip of 10 tablets | Valid |
+| 27618 | Bkosa-F Tablet | Strip of 10 tablets | Valid |
+| 27674 | Bitvin-F 10mg/1mg Tablet | Strip of 10 tablets | Valid |
+| 27963 | B7F 5mg/1mg Tablet | Strip of 15 tablets | Valid |
+| 84957 | Folliriz 10mg/1mg Tablet | Strip of 10 tablets | Valid |
+| 85165 | Folivern-Plus Tablet | Strip of 10 tablets | Valid |
+| 85762 | F 1 Rise Plus Tablet | Strip of 10 tablets | Valid |
+| 86266 | Finrest-B 10mg/1mg Tablet | Strip of 10 tablets | Valid |
+| 104428 | Hair-O-Tin Plus Tablet | Strip of 10 tablets | Valid |
+| 115809 | Kerashine-F Tablet | Strip of 10 tablets | Valid |
+| 152874 | Nexotin 5mg Tablet | Strip of 10 tablets | Valid |
+| 216489 | Tinfal Plus 5mg/1mg Tablet | Strip of 10 tablets | Valid |
+| 217989 | Tressotin 10mg Tablet | Strip of 10 tablets | Valid |
+| 233561 | Vitahix 5 Tablet | Strip of 10 tablets | Valid |
+| 243923 | Xtin Plus Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ---
 
@@ -131,7 +150,7 @@ Below is the review log for this page: statements checked against official India
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-24 | Removed: "single-ingredient" | Corrected (revised 2026-11-24; earlier version kept in the record) | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 

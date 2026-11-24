@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 10
 monitor_inn: "Busulfan"
 predicted_indications: ["myelodysplastic syndrome", "refractory cytopenia of childhood", "unclassified myelodysplastic syndrome", "partial deletion of the long arm of chromosome 5", "aregenerative anemia", "severe congenital hypochromic anemia with ringed sideroblasts", "HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "seborrheic keratosis", "simian immunodeficiency virus infection"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Busulfan: predicted new indication myelodysplastic syndrome (evidence level L1). In India: 7 listed products (7 not discontinued)"
 ---
 
@@ -96,13 +96,21 @@ The compiled data lists many trials that include MDS patients. The most relevant
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 79518 | Emsulfan 60mg Injection | vial of 1 Injection | Not recorded |
-| 30967 | Busulmax 2mg Tablet | strip of 25 tablets | Not recorded |
-| 31343 | Busuphan 2mg Tablet | strip of 10 tablets | Not recorded |
-| 30520 | Busulmax 60 Injection | vial of 10 ml Injection | Not recorded |
-| 27875 | Bufatas IV Injection | vial of 10 ml Injection | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 27875 | Bufatas IV Injection | Vial of 10 ml Injection | Valid |
+| 29153 | Bucelon 2 Tablet | Strip of 25 tablets | Valid |
+| 30520 | Busulmax 60 Injection | Vial of 10 ml Injection | Valid |
+| 30967 | Busulmax 2mg Tablet | Strip of 25 tablets | Valid |
+| 31343 | Busuphan 2mg Tablet | Strip of 10 tablets | Valid |
+| 79518 | Emsulfan 60mg Injection | Vial of 1 Injection | Valid |
+| 143259 | Mylefan 2mg Tablet | Bottle of 60 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 428
 evidence_level: L3
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Imipramine: predicted new indication Attention deficit-hyperactivity disorder (evidence level L3). Approved use: Anxiety disorder, neurotic disorder, dysthymic disorder…"
 monitor_inn: "Imipramine"
 predicted_indications: ["attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type", "faciodigitogenital syndrome", "specific developmental disorder", "chondromyxoid fibroma", "benign paroxysmal torticollis of infancy", "obsessive-compulsive disorder"]
@@ -82,13 +82,36 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 110322 | Imipra 25mg Tablet (Cyril Pharmaceuticals) | Strip of 10 tablets | Not stated |
-| 6211 | Antipres 25mg Tablet (Psycormedies) | Strip of 10 tablets | Not stated |
-| 111868 | Impranit 25mg Tablet (Signit Laboratories) | Strip of 10 tablets | Not stated |
-| 58325 | Depsonil 25mg Tablet (Abbott) | Strip of 10 tablets | Not stated |
-| 512 | Antidep 25mg Tablet (Torrent Pharmaceuticals) | Strip of 10 tablets | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 512 | Antidep 25mg Tablet | Strip of 10 tablets | Valid |
+| 6211 | Antipres 25mg Tablet | Strip of 10 tablets | Valid |
+| 16099 | Anxitab Tablet | Strip of 10 tablets | Valid |
+| 58325 | Depsonil 25mg Tablet | Strip of 10 tablets | Valid |
+| 61875 | Dimip 10mg Tablet | Strip of 10 tablets | Valid |
+| 63738 | Dimip 50mg Tablet | Strip of 10 tablets | Valid |
+| 75705 | Eldep 25mg Tablet | Strip of 10 tablets | Valid |
+| 78783 | Elidep 75mg Tablet | Strip of 10 tablets | Valid |
+| 108737 | Impress 25mg Tablet | Strip of 10 tablets | Valid |
+| 110322 | Imipra 25mg Tablet | Strip of 10 tablets | Valid |
+| 110562 | Imee 25 Tablet | Strip of 10 tablets | Valid |
+| 110914 | Iminza 25mg Tablet | Strip of 10 tablets | Valid |
+| 111868 | Impranit 25mg Tablet | Strip of 10 tablets | Valid |
+| 113388 | Imipres 75 Tablet | Strip of 10 tablets | Valid |
+| 116352 | Kidep 25mg Tablet | Strip of 10 tablets | Valid |
+| 150999 | Nildep 10mg Tablet | Strip of 10 tablets | Valid |
+| 154825 | Nildep 75mg Tablet | Strip of 10 tablets | Valid |
+| 158174 | Normadep 75mg Tablet | Strip of 10 tablets | Valid |
+| 169170 | Oradem 25mg Tablet | Strip of 10 tablets | Valid |
+| 203265 | Shimin 25mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 There are 20 valid single-ingredient oral registrations in total, all as tablets.
 

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 775
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Sirolimus"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "uterine corpus perivascular epithelioid cell tumor", "benign PEComa", "lung PEComa", "vulva sarcoma"]
 description: "Sirolimus: predicted new indication Liposarcoma (evidence level L5). In India: 15 listed products (15 not discontinued)"
@@ -78,15 +78,31 @@ None of these publications reports a test of sirolimus in liposarcoma. They are 
 
 ## India Market Information
 
-Sirolimus has 15 valid licences, all for single-ingredient products. The approved-indication text is not recorded in the local data. Five of the licences are listed below.
+Sirolimus has 15 valid licences, all for single-ingredient products. The approved-indication text is not recorded in the local data.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 185868 | Rapamune 1mg Tablet (Pfizer Ltd) | Strip of 10 tablets | Not stated |
-| 191166 | Raparen 1mg Injection (La Renon Healthcare) | Vial of 1 injection | Not stated |
-| 190480 | Rapacan 2mg Capsule (Biocon) | Strip of 10 capsules | Not stated |
-| 200266 | Siromus 1mg Tablet (Zydus Cadila) | Strip of 6 tablets | Not stated |
-| 222768 | Toraft 1mg Tablet (Torrent) | Strip of 10 tablets | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 77810 | Emtor 1mg Tablet | Strip of 10 tablets | Valid |
+| 126694 | Limus 1mg Tablet | Strip of 10 tablets | Valid |
+| 185292 | Rapacan 1mg Tablet | Strip of 10 tablets | Valid |
+| 185868 | Rapamune 1mg Tablet | Strip of 10 tablets | Valid |
+| 188877 | Rocas 1mg Tablet | Strip of 6 tablets | Valid |
+| 189703 | Raparen 1mg Tablet | Strip of 10 tablets | Valid |
+| 190334 | Rapasim 1 Tablet | Strip of 10 tablets | Valid |
+| 190480 | Rapacan 2mg Capsule | Strip of 10 capsules | Valid |
+| 191166 | Raparen 1mg Injection | Vial of 1 Injection | Valid |
+| 194644 | Rapolax 1mg Tablet | Strip of 10 tablets | Valid |
+| 200266 | Siromus 1mg Tablet | Strip of 6 tablets | Valid |
+| 202617 | Sirova 1mg Tablet | Strip of 10 tablets | Valid |
+| 203491 | Siropan 1mg Tablet | Strip of 10 tablets | Valid |
+| 208617 | Sirotrend 1mg Tablet | Strip of 10 tablets | Valid |
+| 222768 | Toraft 1mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

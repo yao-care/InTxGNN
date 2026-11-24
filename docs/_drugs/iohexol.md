@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 442
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Iohexol: predicted new indication insomnia (disease) (evidence level L5). Approved use: Not stated in the registration data compiled for this report"
 monitor_inn: "Iohexol"
 predicted_indications: ["insomnia (disease)", "anxiety"]
@@ -78,13 +78,20 @@ For reference, literature retrieved for the second-ranked prediction (anxiety) c
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Registration No. 162067 | Omnipaque 350mg Infusion (Pfizer Ltd) | Bottle of 50 ml infusion | Not available |
-| Registration No. 46263 | Contrapaque 300mg Infusion (J B Chemicals and Pharmaceuticals Ltd) | Bottle of 100 ml infusion | Not available |
-| Registration No. 36166 | Contrapaque 350mg Infusion (J B Chemicals and Pharmaceuticals Ltd) | Bottle of 100 ml infusion | Not available |
-| Registration No. 43072 | Contrapaque 240mg Infusion (J B Chemicals and Pharmaceuticals Ltd) | Bottle of 50 ml infusion | Not available |
-| Registration No. 36885 | Contrapaque 300mg Injection (J B Chemicals and Pharmaceuticals Ltd) | Vial of 20 ml injection | Not available |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 36166 | Contrapaque 350mg Infusion | Bottle of 100 ml Infusion | Valid |
+| 36885 | Contrapaque 300mg Injection | Vial of 20 ml Injection | Valid |
+| 43072 | Contrapaque 240mg Infusion | Bottle of 50 ml Infusion | Valid |
+| 46263 | Contrapaque 300mg Infusion | Bottle of 100 ml Infusion | Valid |
+| 162067 | Omnipaque 350mg Infusion | Bottle of 50 ml Infusion | Valid |
+| 162140 | Omnipaque 300mg Injection | Vial of 10 ml Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 A sixth registration, Omnipaque 300mg Injection (Pfizer Ltd, Registration No. 162140, 10 ml vial), is also valid. All six registrations are valid single-ingredient products in injectable form.
 

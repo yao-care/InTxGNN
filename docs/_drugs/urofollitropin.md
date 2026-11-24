@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 876
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Urofollitropin: predicted new indication Migraine disorder (evidence level L5). Approved use: Not stated in the licence records compiled for this report (ovulation…"
 monitor_inn: "Urofollitropin"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "cauda equina syndrome", "His bundle tachycardia", "restless legs syndrome", "obsolete neurogenic bladder (disease)", "multifocal atrial tachycardia (disease)", "postural orthostatic tachycardia syndrome", "Raynaud disease"]
@@ -63,15 +63,38 @@ Other top-ranked predictions are similarly unsupported. These include migraine w
 
 ## India Market Information
 
-Twenty single-ingredient injectable registrations are valid. The licence records compiled for this report contain no approved indication text. The main authorisations are listed below.
+Twenty single-ingredient injectable registrations are valid. The licence records compiled for this report contain no approved indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 74798 | Euvifol-HP 150IU Injection | Vial of 1 ml injection | Not stated |
-| 166561 | Ovitropin FSH 150IU Injection | Box of 1 injection | Not stated |
-| 86785 | Follicare 150IU HP Injection | Vial of 1 injection | Not stated |
-| 85292 | Fostine 75 Injection | Vial of 2 ml injection | Not stated |
-| 127791 | Lupi Rfsh 900IU Injection | Vial of 1 ml injection | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 43754 | Coefsh HP 75IU Injection | Vial of 1 Injection | Valid |
+| 73478 | Eema Fsh 75IU Injection | Vial of 1 Injection | Valid |
+| 74798 | Euvifol-HP 150IU Injection | Vial of 1 ml Injection | Valid |
+| 85292 | Fostine 75 Injection | Vial of 2 ml Injection | Valid |
+| 85490 | Foliculin HP 75IU Injection | Vial of 1 Injection | Valid |
+| 85820 | Foliculin HP 150IU Injection | Vial of 1 Injection | Valid |
+| 86785 | Follicare 150IU HP Injection | Vial of 1 Injection | Valid |
+| 91401 | Ftrop 150IU Injection | Vial of 1 Injection | Valid |
+| 91951 | Fergonad F 150IU Injection | Vial of 1 Injection | Valid |
+| 93101 | Ftrop 75IU Injection | Vial of 1 ml Injection | Valid |
+| 108704 | Inceptova FSH Injection | Vial of 1 Injection | Valid |
+| 109943 | Intas Fsh 150I.U Injection | Vial of 1 Injection | Valid |
+| 121715 | Lupi-Fsh 150 Injection | Vial of 2 ml Injection | Valid |
+| 125167 | Lupi Rfsh 300IU Injection | Vial of 1 ml Injection | Valid |
+| 127791 | Lupi Rfsh 900IU Injection | Vial of 1 ml Injection | Valid |
+| 134997 | MY Fsh 150 Injection | Vial of 1 Injection | Valid |
+| 166561 | Ovitropin FSH 150IU Injection | Box of 1 Injection | Valid |
+| 167837 | Ovitropin FSH 75IU Injection | Box of 1 Injection | Valid |
+| 201051 | Sitrodin 75IU Injection | Vial of 1 ml Injection | Valid |
+| 248088 | ZY Fsh HP 75 Injection | Vial of 1 Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

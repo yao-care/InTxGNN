@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 834
 evidence_level: L2
 indication_count: 1
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 description: "Tiapride: predicted new indication Migraine disorder (evidence level L2). Approved use: Not stated in the approved-indication text of the Indian licences"
 monitor_inn: "Tiapride"
 drugbank_id: DB13025
@@ -82,11 +82,17 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 216949 | Tiaprex 50mg Tablet | Strip of 10 tablets | Not stated |
-| 216114 | Tiaprex 25 Tablet | Strip of 10 tablets | Not stated |
-| 220651 | Tiaprex 100mg Tablet | Strip of 10 tablets | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 216114 | Tiaprex 25 Tablet | Strip of 10 tablets | Valid |
+| 216949 | Tiaprex 50mg Tablet | Strip of 10 tablets | Valid |
+| 220651 | Tiaprex 100mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 All three licences are valid single-ingredient oral products from Intas Pharmaceuticals Ltd.
 

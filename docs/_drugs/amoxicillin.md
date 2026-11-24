@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Amoxicillin"
 predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Amoxicillin: predicted new indication Hyperamylasemia (evidence level L5). Approved use: Relations recorded in the knowledge graph: urinary tract infection…"
 ---
 
@@ -69,15 +69,38 @@ Currently no related literature available.
 
 ## India Market Information
 
-The local records list 20 valid licences for single-ingredient products (the total is at least 20, so the list may be partial). No approved indication text is recorded for any of them. Up to five are shown below.
+The local records list 20 valid licences for single-ingredient products (the total is at least 20, so the list may be partial). No approved indication text is recorded for any of them.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 83683 | EEshmox DX 250mg/250mg Capsule | Strip of 10 capsules | Not recorded |
-| 1386 | Almox DT 125 Tablet | Strip of 10 dispersible tablets | Not recorded |
-| 139442 | Monoclav 500 mg/125 mg Tablet | Strip of 10 tablets | Not recorded |
-| 198322 | Rotfic Capsule | Strip of 10 capsules | Not recorded |
-| 99169 | Grandmox 375mg Tablet | Strip of 10 tablets | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 1386 | Almox DT 125 Tablet | Strip of 10 tablet dt | Valid |
+| 28756 | Beniclav 625 Tablet | Strip of 6 tablets | Valid |
+| 43337 | Clas Capsule | Strip of 10 capsules | Valid |
+| 50892 | Cureclav Dry Syrup | Bottle of 30 ml Dry Syrup | Valid |
+| 51119 | Caprimox DT 250mg Tablet | Strip of 10 tablet dt | Valid |
+| 77966 | Emcillin CV 500mg/125mg Tablet | Strip of 6 tablets | Valid |
+| 83683 | EEshmox DX 250mg/250mg Capsule | Strip of 10 capsules | Valid |
+| 99169 | Grandmox 375mg Tablet | Strip of 10 tablets | Valid |
+| 100537 | Gesclav 500mg/125mg Tablet | Strip of 10 tablets | Valid |
+| 107460 | HB Clav DX 250mg/250mg Capsule | Strip of 10 capsules | Valid |
+| 131138 | Lenoxy 1000mg/200mg Injection | Vial of 20 ml Injection | Valid |
+| 139442 | Monoclav 500 mg/125 mg Tablet | Strip of 10 tablets | Valid |
+| 147011 | Moxpil 250mg Tablet DT | Strip of 10 tablet dt | Valid |
+| 147390 | Moxiket CV 500mg/125mg Tablet | Strip of 6 tablets | Valid |
+| 148810 | Moxydak-CV Oral Suspension | Bottle of 30 ml Oral Suspension | Valid |
+| 156737 | Nimclav 625mg Tablet | Strip of 6 tablets | Valid |
+| 196459 | Raziclav 500 mg/125 mg Tablet | Strip of 10 tablets | Valid |
+| 198322 | Rotfic Capsule | Strip of 10 capsules | Valid |
+| 208211 | Stamclav LB 500mg/125mg Tablet | Strip of 10 tablets | Valid |
+| 240479 | Voxiclav 500mg/125mg Tablet | Strip of 6 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 Other available forms include an injection (vial of 20 ml), an oral suspension and a dry syrup.
 

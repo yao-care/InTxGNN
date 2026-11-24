@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Miltefosine"
 predicted_indications: ["echinococcus granulosus infectious disease", "alveolar echinococcosis", "Smouldering systemic mastocytosis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Miltefosine: predicted new indication Echinococcus granulosus infectious disease (evidence level L5). Approved use: Leishmaniasis, mucocutaneous leishmaniasis, visceral leishmaniasis"
 ---
 
@@ -80,9 +80,15 @@ Currently no related literature available for *Echinococcus granulosus* infectio
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Registration No. 108465 | Impavido 50mg Capsule (Zydus Cadila) | Strip of 7 capsules (oral) | Not stated in the licence record |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 108465 | Impavido 50mg Capsule | Strip of 7 capsules | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 This is one valid single-ingredient licence. The approved indication text is empty in the data compiled, so the licence cannot be used to confirm any specific approved use.
 

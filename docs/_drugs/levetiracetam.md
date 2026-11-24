@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 483
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Levetiracetam"
 predicted_indications: ["beta-ketothiolase deficiency"]
 description: "Levetiracetam: predicted new indication Beta-ketothiolase deficiency (evidence level L5). In India: at least 20 listed products"
@@ -111,15 +111,38 @@ The most relevant are listed below; none is specific to visual or photosensitive
 
 ## India Market Information
 
-Levetiracetam has 20 valid single-ingredient registrations and none cancelled. The approved indication text is not available in the data compiled for this report. Five main registrations:
+Levetiracetam has 20 valid single-ingredient registrations and none cancelled. The approved indication text is not available in the data compiled for this report.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| 115907 | Keppra 250mg Tablet | Strip of 10 tablets | UCB India Pvt Ltd |
-| 128842 | Levitex Injection | Vial of 5 ml injection | Nexokinde Healthcare Pvt Ltd |
-| 130181 | Levtam 750mg Tablet | Strip of 10 tablets | Torrent Pharmaceuticals Ltd |
-| 119384 | Kuret 1000mg Tablet ER | Strip of 10 extended-release tablets | Molekule India Pvt Ltd |
-| 204990 | Seiz-Free 1000mg Tablet | Strip of 10 tablets | USV Ltd |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 75501 | Emlevo 750 Tablet | Strip of 10 tablets | Valid |
+| 115907 | Keppra 250mg Tablet | Strip of 10 tablets | Valid |
+| 119384 | Kuret 1000mg Tablet ER | Strip of 10 tablet er | Valid |
+| 124138 | Levroxa 750mg Tablet | Strip of 10 tablets | Valid |
+| 124148 | Levipra 500 Tablet | Strip of 10 tablets | Valid |
+| 125054 | Levracet 500mg Tablet | Strip of 10 tablets | Valid |
+| 126224 | Levicip 500mg Tablet | Strip of 10 tablets | Valid |
+| 126582 | Levigal 500mg Tablet | Strip of 10 tablets | Valid |
+| 128130 | Leventra 500 Tablet | Strip of 10 tablets | Valid |
+| 128842 | Levitex Injection | Vial of 5 ml Injection | Valid |
+| 129622 | Litem 250mg Tablet | Strip of 10 tablets | Valid |
+| 130181 | Levtam 750mg Tablet | Strip of 10 tablets | Valid |
+| 130783 | Levicalm 250 Tablet | Strip of 10 tablets | Valid |
+| 187920 | Retam 500mg Tablet | Strip of 10 tablets | Valid |
+| 204781 | Seiz-Free 500 Tablet | Strip of 10 tablets | Valid |
+| 204990 | Seiz-Free 1000mg Tablet | Strip of 10 tablets | Valid |
+| 206144 | Seiznil 500 Tablet | Strip of 10 tablets | Valid |
+| 217142 | Torleva 1000 Tablet | Strip of 10 tablets | Valid |
+| 234804 | Vetira 500 Tablet | Strip of 10 tablets | Valid |
+| 250930 | Zolve 500mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 Oral tablets, extended-release tablets and an injectable form are all available. The injectable matters for status epilepticus, which requires IV administration.
 

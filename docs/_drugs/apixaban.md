@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 62
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Apixaban"
 predicted_indications: ["migraine disorder"]
 description: "Apixaban: predicted new indication Migraine disorder (evidence level L5). In India: at least 20 listed products"
@@ -76,15 +76,38 @@ However, the available case reports describe migraine with aura worsening after 
 
 ## India Market Information
 
-At least 20 valid single-ingredient licences are recorded, and the list may be partial. Main examples:
+At least 20 valid single-ingredient licences are recorded, and the list may be partial.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 72922 | Eliquis 2.5mg Tablet (Pfizer Ltd) | Strip of 14 tablets | Not recorded |
-| 72362 | Eliquis 5mg Tablet (Pfizer Ltd) | Box of 20 tablets | Not recorded |
-| 174055 | Pixaflo 2.5mg Tablet (Lupin Ltd) | Strip of 10 tablets | Not recorded |
-| 174532 | Paxiba 5 Tablet (Glenmark Pharmaceuticals Ltd) | Strip of 10 tablets | Not recorded |
-| 243850 | Xapilis 5 Tablet (Abbott) | Strip of 14 tablets | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 272 | Apigat 5 Tablet | Bottle of 30 tablets | Valid |
+| 1044 | Apigy 2.5 Tablet | Strip of 10 tablets | Valid |
+| 1203 | Apixator 2.5 Tablet | Strip of 10 tablets | Valid |
+| 1395 | Apigy 5 Tablet | Strip of 10 tablets | Valid |
+| 1608 | Apigy 5mg Tablet | Strip of 14 tablets | Valid |
+| 2111 | Apivas 2.5 Tablet | Strip of 10 tablets | Valid |
+| 3099 | Apxaban 2.5 Tablet | Strip of 10 tablets | Valid |
+| 3882 | Apxaban 5 Tablet | Strip of 10 tablets | Valid |
+| 72334 | Eliquis 2.5mg Tablet | Strip of 10 tablets | Valid |
+| 72362 | Eliquis 5mg Tablet | Box of 20 tablets | Valid |
+| 72922 | Eliquis 2.5mg Tablet | Strip of 14 tablets | Valid |
+| 174055 | Pixaflo 2.5mg Tablet | Strip of 10 tablets | Valid |
+| 174090 | Pixaflo 5 Tablet | Strip of 10 tablets | Valid |
+| 174502 | Paxiba 2.5 Tablet | Strip of 10 tablets | Valid |
+| 174532 | Paxiba 5 Tablet | Strip of 10 tablets | Valid |
+| 174787 | Prepixa 2.5 Tablet | Strip of 10 tablets | Valid |
+| 176431 | Prepixa 5 Tablet | Strip of 10 tablets | Valid |
+| 243850 | Xapilis 5 Tablet | Strip of 14 tablets | Valid |
+| 243871 | Xapilis 2.5 Tablet | Strip of 14 tablets | Valid |
+| 248800 | Zuvixa 5mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

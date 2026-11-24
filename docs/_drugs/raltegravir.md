@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 721
 evidence_level: L4
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Raltegravir: predicted new indication Simian immunodeficiency virus infection (evidence level L4). Approved use: HIV infection, AIDS"
 monitor_inn: "Raltegravir"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
@@ -89,10 +89,16 @@ The 15 publications compiled for this report are preclinical; none is an RCT or 
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 247013 | Zepdon 400mg Tablet (Cipla Ltd) | Bottle of 60 tablets | Not stated in the available data |
-| 108290 | Isentress 400mg Tablet (MSD Pharmaceuticals Pvt Ltd) | Bottle of 60 tablets | Not stated in the available data |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 108290 | Isentress 400mg Tablet | Bottle of 60 tablets | Valid |
+| 247013 | Zepdon 400mg Tablet | Bottle of 60 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

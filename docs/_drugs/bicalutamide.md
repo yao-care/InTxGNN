@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 10
 monitor_inn: "Bicalutamide"
 predicted_indications: ["hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "Ambras type hypertrichosis universalis congenita", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "leprosy", "multiple endocrine neoplasia", "pulmonary hypertension", "female breast carcinoma", "nephrogenic syndrome of inappropriate antidiuresis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Bicalutamide: predicted new indication Hypertrichosis (disease) (evidence level L4). In India: at least 20 listed products"
 ---
 
@@ -74,15 +74,38 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-Bicalutamide is marketed in India as single-ingredient oral tablets. All 20 licences in the data are valid, and none are cancelled. The records may be partial. Five main licences are shown below.
+Bicalutamide is marketed in India as single-ingredient oral tablets. All 20 licences in the data are valid, and none are cancelled. The records may be partial.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| 29956 | Bicalon 50mg Tablet | Strip of 10 tablets | Celon Laboratories Ltd |
-| 101427 | Guncef 50mg Tablet | Strip of 10 tablets | Oster Remedies |
-| 217737 | Tabi Tablet | Strip of 10 tablets | Dr Reddy's Laboratories Ltd |
-| 40823 | Caludec 50mg Tablet | Strip of 10 tablets | Samarth Life Sciences Pvt Ltd |
-| 34259 | Caluran 50 CP Tablet | Bottle of 30 tablets | Sun Pharmaceutical Industries Ltd |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 15881 | Androblok 50mg Tablet | Strip of 10 tablets | Valid |
+| 26458 | Bicatero 50mg Tablet | Strip of 10 tablets | Valid |
+| 26467 | Bical 50 Tablet | Strip of 10 tablets | Valid |
+| 27990 | Bic 50mg Tablet | Strip of 10 tablets | Valid |
+| 29249 | Biprosta Tablet | Strip of 10 tablets | Valid |
+| 29956 | Bicalon 50mg Tablet | Strip of 10 tablets | Valid |
+| 30273 | Bicalpro 50mg Tablet | Strip of 10 tablets | Valid |
+| 31045 | Bicaprol 50mg Tablet | Strip of 10 tablets | Valid |
+| 31684 | Biprostiva 50mg Tablet | Strip of 10 tablets | Valid |
+| 34195 | Calutide 50 Tablet | Strip of 10 tablets | Valid |
+| 34259 | Caluran 50 CP Tablet | Bottle of 30 tablets | Valid |
+| 37476 | Caluran 50 Tablet | Strip of 10 tablets | Valid |
+| 40823 | Caludec 50mg Tablet | Strip of 10 tablets | Valid |
+| 44249 | Calutidie 50mg Tablet | Strip of 10 tablets | Valid |
+| 44757 | Calured 50mg Tablet | Strip of 10 tablets | Valid |
+| 101427 | Guncef 50mg Tablet | Strip of 10 tablets | Valid |
+| 203981 | Samtide 50mg Tablet | Strip of 10 tablets | Valid |
+| 217737 | Tabi Tablet | Strip of 10 tablets | Valid |
+| 230369 | Utamide Tablet | Strip of 10 tablets | Valid |
+| 249076 | Zyluta 50mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

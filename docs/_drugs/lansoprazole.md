@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 471
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Lansoprazole"
 predicted_indications: ["duodenal obstruction"]
 description: "Lansoprazole: predicted new indication Duodenal obstruction (evidence level L5). In India: at least 20 listed products"
@@ -74,15 +74,38 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-Twenty valid single-ingredient licences are registered and none are cancelled. The approved indication text is not available for any of them. Five main licences are listed below.
+Twenty valid single-ingredient licences are registered and none are cancelled. The approved indication text is not available for any of them.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 124137 | Lanzomed 15mg Tablet DT | Dispersible tablet (strip of 10) | Not available |
-| 130682 | Lansoford 30mg Tablet | Tablet (strip of 10) | Not available |
-| 130379 | Lancron 30mg Capsule | Capsule (strip of 10) | Not available |
-| 130532 | Lansotaj 30mg Injection | Powder for injection (1 vial) | Not available |
-| 113876 | Junior Lanzol 30mg Tablet DT | Dispersible tablet (strip of 10) | Not available |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 25600 | Aumanso 30mg Capsule | Strip of 10 capsules | Valid |
+| 65397 | Dazdom Junior 15mg Tablet | Strip of 10 tablets | Valid |
+| 113876 | Junior Lanzol 30mg Tablet DT | Strip of 10 tablet dt | Valid |
+| 124137 | Lanzomed 15mg Tablet DT | Strip of 10 tablet dt | Valid |
+| 124450 | Lansopress Kid 15mg Tablet DT | Strip of 10 tablet dt | Valid |
+| 125632 | L Pro 15mg Tablet | Strip of 10 tablets | Valid |
+| 127064 | Lonido 30mg Capsule | Strip of 10 capsules | Valid |
+| 127067 | Lansoz 30mg Capsule | Strip of 10 capsules | Valid |
+| 129207 | L Cid Junior 30mg Tablet | Strip of 10 tablets | Valid |
+| 129378 | Lanzorun 15mg Tablet DT | Strip of 10 tablet dt | Valid |
+| 130303 | Lantic 30mg Tablet | Strip of 10 tablets | Valid |
+| 130379 | Lancron 30mg Capsule | Strip of 10 capsules | Valid |
+| 130532 | Lansotaj 30mg Injection | Vial of 1 Powder for Injection | Valid |
+| 130682 | Lansoford 30mg Tablet | Strip of 10 tablets | Valid |
+| 130722 | Lanzosten 15mg Tablet DT | Strip of 10 tablet dt | Valid |
+| 133126 | Lanprosh 30mg Capsule | Strip of 10 capsules | Valid |
+| 175609 | Pep 30mg Capsule | Strip of 10 capsules | Valid |
+| 178856 | Prozer 30mg Tablet | Strip of 10 tablets | Valid |
+| 241729 | Waypra-Kid Tablet MD | Strip of 10 tablet md | Valid |
+| 250590 | Zopra 30mg Capsule | Strip of 10 capsules | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 Available forms include oral tablets, dispersible tablets, capsules and an injectable powder.
 

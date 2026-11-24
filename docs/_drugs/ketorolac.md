@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 464
 evidence_level: L1
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ketorolac: predicted new indication Headache disorder (evidence level L1). Approved use: Atopic conjunctivitis, papillary conjunctivitis, vernal conjunctivitis"
 monitor_inn: "Ketorolac"
 predicted_indications: ["headache disorder", "rosacea conjunctivitis", "trigeminal autonomic cephalalgia"]
@@ -98,15 +98,38 @@ Several other trials, including withdrawn studies with no enrollment, provide no
 
 ## India Market Information
 
-Twenty valid single-ingredient registrations are on record, covering oral tablets (mostly dispersible), injections and ophthalmic solutions. No approved indication text is available for any of them. The five main registrations are listed below.
+Twenty valid single-ingredient registrations are on record, covering oral tablets (mostly dispersible), injections and ophthalmic solutions. No approved indication text is available for any of them.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 117966 | Ketoserve 30mg Injection | Vial of 1 injection | Not stated |
-| 118190 | Ketam Injection | Vial of 1 ml injection | Not stated |
-| 137470 | Mighty Mox-KT Eye Drop | Bottle of 5 ml ophthalmic solution | Not stated |
-| 164392 | Olopine-KT Eye Drop | Bottle of 5 ml eye drop | Not stated |
-| 216327 | Torodent-DT Tablet | Strip of 6 dispersible tablets | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 89490 | Fastac Toothace 10mg Tablet | Strip of 10 tablets | Valid |
+| 98988 | Getsmile 10mg Tablet DT | Strip of 10 tablet dt | Valid |
+| 115846 | Kerosite-DT Tablet | Strip of 10 tablet dt | Valid |
+| 115913 | Ketoral 10mg Tablet | Strip of 10 tablets | Valid |
+| 116071 | Ketoromore 10mg Tablet | Strip of 10 tablets | Valid |
+| 116150 | Ketrox 10mg Tablet | Strip of 10 tablets | Valid |
+| 116291 | Ketojan 10mg Tablet DT | Strip of 10 tablet dt | Valid |
+| 117818 | Ketsor-DT Tablet | Strip of 10 tablet dt | Valid |
+| 117966 | Ketoserve 30mg Injection | Vial of 1 Injection | Valid |
+| 118190 | Ketam Injection | Vial of 1 ml Injection | Valid |
+| 118450 | Ketosar Tablet | Strip of 10 tablets | Valid |
+| 118684 | Ketonob 10mg Tablet DT | Strip of 10 tablet dt | Valid |
+| 118968 | Kmagic DT Tablet | Strip of 10 tablet dt | Valid |
+| 137470 | Mighty Mox-KT Eye Drop | Bottle of 5 ml Ophthalmic Solution | Valid |
+| 142099 | Monodac 10mg Tablet | Strip of 10 tablets | Valid |
+| 164392 | Olopine-KT Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 168473 | Oxket 10mg Tablet DT | Strip of 10 tablet dt | Valid |
+| 204871 | Sigmadol 10mg Tablet DT | Strip of 15 tablet dt | Valid |
+| 216327 | Torodent-DT Tablet | Strip of 6 tablet dt | Valid |
+| 249104 | Zeroket 10mg Tablet DT | Strip of 10 tablet dt | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

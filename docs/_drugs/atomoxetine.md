@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 79
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Atomoxetine: predicted new indication Specific developmental disorder (evidence level L4). Approved use: Attention deficit hyperactivity disorder (ADHD)…"
 monitor_inn: "Atomoxetine"
 predicted_indications: ["specific developmental disorder", "faciodigitogenital syndrome", "chondromyxoid fibroma", "trichotillomania", "restless legs syndrome", "manic bipolar affective disorder", "Tourette syndrome", "transient tic disorder", "cerebellar ataxia", "autosomal dominant cerebellar ataxia"]
@@ -86,13 +86,36 @@ None of these studies tests atomoxetine for a specific developmental disorder.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 8430 | Atomoxet 25mg Tablet | Strip of 10 tablets | Not stated in licence record |
-| 14593 | Atmosril 18mg Tablet | Strip of 10 tablets | Not stated in licence record |
-| 221886 | Tomkid 40mg Tablet | Strip of 10 tablets | Not stated in licence record |
-| 7887 | Attentin 25mg Tablet | Strip of 10 tablets | Not stated in licence record |
-| 221868 | Tomoxetin 25mg Capsule | Strip of 10 capsules | Not stated in licence record |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 1328 | Attentrol 18 Capsule | Strip of 10 capsules | Valid |
+| 1354 | Attera 10mg Tablet | Strip of 10 tablets | Valid |
+| 1935 | Attentrol 25mg Capsule | Strip of 10 capsules | Valid |
+| 3340 | Attera 18mg Tablet | Strip of 10 tablets | Valid |
+| 5772 | Attera 40mg Tablet | Strip of 10 tablets | Valid |
+| 6646 | Atomox 18mg Tablet | Strip of 10 tablets | Valid |
+| 7515 | Atokem 25mg Tablet | Strip of 10 tablets | Valid |
+| 7667 | Atonext 10 Tablet | Strip of 10 tablets | Valid |
+| 7887 | Attentin 25mg Tablet | Strip of 10 tablets | Valid |
+| 8430 | Atomoxet 25mg Tablet | Strip of 10 tablets | Valid |
+| 9633 | Attentrol 15mg Tablet | Strip of 10 tablets | Valid |
+| 14564 | Atexitine 18 Capsule | Strip of 10 capsules | Valid |
+| 14593 | Atmosril 18mg Tablet | Strip of 10 tablets | Valid |
+| 104658 | Hypercon 10 Tablet | Strip of 10 tablets | Valid |
+| 205768 | Starkid 10mg Sachet | Packet of 1 gm Sachet | Valid |
+| 210479 | Starkid 25mg Sachet | Packet of 1 gm Sachet | Valid |
+| 221708 | Tomoxetin 40mg Capsule | Strip of 10 capsules | Valid |
+| 221840 | Tomoxetin 10mg Capsule | Strip of 10 capsules | Valid |
+| 221868 | Tomoxetin 25mg Capsule | Strip of 10 capsules | Valid |
+| 221886 | Tomkid 40mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 There are 20 valid single-ingredient registrations in total, with no cancelled ones. They cover tablets, capsules and sachets, and the holders include Sun Pharmaceutical, Torrent Pharmaceuticals and Alkem Laboratories.
 

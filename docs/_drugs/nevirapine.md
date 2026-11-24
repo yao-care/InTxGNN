@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Nevirapine"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Nevirapine: predicted new indication Simian immunodeficiency virus infection (evidence level L5). In India: 9 listed products (9 not discontinued)"
 ---
 
@@ -86,15 +86,25 @@ The table lists the most relevant publications. None tests nevirapine as a treat
 
 ## India Market Information
 
-Nine valid single-ingredient registrations are on record. The licence records contain no approved-indication text. The first five are listed below.
+Nine valid single-ingredient registrations are on record. The licence records contain no approved-indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 157101 | Neviretro 200mg Tablet (Alkem Laboratories) | Strip of 10 tablets | Not stated in records |
-| 152025 | Nevimune 400mg Tablet XR (Cipla) | Strip of 10 extended-release tablets | Not stated in records |
-| 155632 | Nevir 200mg Tablet (Emcure) | Bottle of 60 tablets | Not stated in records |
-| 157236 | Nevirex 200mg Tablet (Veritaz Healthcare) | Strip of 10 tablets | Not stated in records |
-| 156337 | Nevimune Tablet (Cipla) | Bottle of 60 tablets | Not stated in records |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 151136 | Nevimune Tablet | Strip of 10 tablets | Valid |
+| 152025 | Nevimune 400mg Tablet XR | Strip of 10 tablet xr | Valid |
+| 154488 | Nevihope 200mg Tablet | Bottle of 60 tablets | Valid |
+| 155632 | Nevir 200mg Tablet | Bottle of 60 tablets | Valid |
+| 156337 | Nevimune Tablet | Bottle of 60 tablets | Valid |
+| 156576 | Nevipan 200mg Tablet | Bottle of 60 tablets | Valid |
+| 157101 | Neviretro 200mg Tablet | Strip of 10 tablets | Valid |
+| 157236 | Nevirex 200mg Tablet | Strip of 10 tablets | Valid |
+| 157478 | Nevir -ER Tablet | Packet of 30 tablet er | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

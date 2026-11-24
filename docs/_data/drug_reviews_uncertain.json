@@ -2080,6 +2080,476 @@
     "ChEMBL drug mechanism"
    ],
    "reason": "no single-ingredient US prescription label for 'zuclopenthixol' with a mechanism or clinical pharmacology section in openFDA; no approved ChEMBL molecule named 'zuclopenthixol'"
+  },
+  {
+   "source": "單方／複方說法跟資料集不符、但句子講的是資料怎麼分類（2026-11-24 程式許可證表與正文張數改版時的寬偵測）",
+   "drug": "doxofylline",
+   "file": "doxofylline.md",
+   "status": "open",
+   "claim": "The registered product names suggest that some are fixed-dose combinations, although the records classify all of them as single-ingredient.",
+   "reason": "single-classification",
+   "added": "2026-11-24",
+   "note": "依本站資料集原始檔（data/raw/indian_medicine_data.csv，short_composition2 有值＝複方）本藥證據包的 20 筆紀錄中複方 13 筆、單方 7 筆；句子說全部（或 N 張）是單方／沒有複方，跟事實不符。照 2026-11-06 用戶決定的做法只刪「單方」這個詞或子句，其餘保留（2026-11-24 用戶決定「單方／複方標籤錯誤寫 correct 紀錄更正」）。句子講「資料把它們歸為單方」：證據包成分欄只收了 short_composition1，原始資料集其實有第二成分，要怎麼改寫要人判斷"
+  },
+  {
+   "source": "單方／複方說法跟資料集不符、但句子講的是資料怎麼分類（2026-11-24 程式許可證表與正文張數改版時的寬偵測）",
+   "drug": "metoclopramide",
+   "file": "metoclopramide.md",
+   "status": "open",
+   "claim": "Several registrations are fixed-dose products, such as 5 mg/500 mg tablets, though the compiled data classify all as single-ingredient.",
+   "reason": "single-classification",
+   "added": "2026-11-24",
+   "note": "依本站資料集原始檔（data/raw/indian_medicine_data.csv，short_composition2 有值＝複方）本藥證據包的 20 筆紀錄中複方 12 筆、單方 8 筆；句子說全部（或 N 張）是單方／沒有複方，跟事實不符。照 2026-11-06 用戶決定的做法只刪「單方」這個詞或子句，其餘保留（2026-11-24 用戶決定「單方／複方標籤錯誤寫 correct 紀錄更正」）。句子講「資料把它們歸為單方」：證據包成分欄只收了 short_composition1，原始資料集其實有第二成分，要怎麼改寫要人判斷"
+  },
+  {
+   "source": "單方／複方說法跟資料集不符、但句子講的是資料怎麼分類（2026-11-24 程式許可證表與正文張數改版時的寬偵測）",
+   "drug": "naproxen",
+   "file": "naproxen.md",
+   "status": "open",
+   "claim": "Several registrations are fixed-dose products, although the data classify all as single-ingredient (for example, the \"D\" and \"250mg/10mg\" products).",
+   "reason": "single-classification",
+   "added": "2026-11-24",
+   "note": "依本站資料集原始檔（data/raw/indian_medicine_data.csv，short_composition2 有值＝複方）本藥證據包的 20 筆紀錄中複方 14 筆、單方 6 筆；句子說全部（或 N 張）是單方／沒有複方，跟事實不符。照 2026-11-06 用戶決定的做法只刪「單方」這個詞或子句，其餘保留（2026-11-24 用戶決定「單方／複方標籤錯誤寫 correct 紀錄更正」）。句子講「資料把它們歸為單方」：證據包成分欄只收了 short_composition1，原始資料集其實有第二成分，要怎麼改寫要人判斷"
+  },
+  {
+   "source": "單方／複方說法跟資料集不符、但句子講的是資料怎麼分類（2026-11-24 程式許可證表與正文張數改版時的寬偵測）",
+   "drug": "pioglitazone",
+   "file": "pioglitazone.md",
+   "status": "open",
+   "claim": "Pioglitazone has 20 valid registrations in India, all single-ingredient entries according to the data compiled for this report, including combinations with metformin or glimepiride-type partners in product names.",
+   "reason": "single-classification",
+   "added": "2026-11-24",
+   "note": "依本站資料集原始檔（data/raw/indian_medicine_data.csv，short_composition2 有值＝複方）本藥證據包的 20 筆紀錄中複方 9 筆、單方 11 筆；句子說全部（或 N 張）是單方／沒有複方，跟事實不符。照 2026-11-06 用戶決定的做法只刪「單方」這個詞或子句，其餘保留（2026-11-24 用戶決定「單方／複方標籤錯誤寫 correct 紀錄更正」）。句子講「資料把它們歸為單方」：證據包成分欄只收了 short_composition1，原始資料集其實有第二成分，要怎麼改寫要人判斷"
+  },
+  {
+   "source": "單方／複方說法跟資料集不符、但句子講的是資料怎麼分類（2026-11-24 程式許可證表與正文張數改版時的寬偵測）",
+   "drug": "rosuvastatin",
+   "file": "rosuvastatin.md",
+   "status": "open",
+   "claim": "Several products carry rosuvastatin in combination with other agents (for example, the \"CV\" capsules), although the data classify all 20 as single-ingredient licences.",
+   "reason": "single-classification",
+   "added": "2026-11-24",
+   "note": "依本站資料集原始檔（data/raw/indian_medicine_data.csv，short_composition2 有值＝複方）本藥證據包的 20 筆紀錄中複方 5 筆、單方 15 筆；句子說全部（或 N 張）是單方／沒有複方，跟事實不符。照 2026-11-06 用戶決定的做法只刪「單方」這個詞或子句，其餘保留（2026-11-24 用戶決定「單方／複方標籤錯誤寫 correct 紀錄更正」）。句子講「資料把它們歸為單方」：證據包成分欄只收了 short_composition1，原始資料集其實有第二成分，要怎麼改寫要人判斷"
+  },
+  {
+   "source": "市場段落換成程式許可證表後，正文仍講舊表列了哪幾筆（2026-11-24 程式許可證表改版）",
+   "drug": "alfacalcidol",
+   "file": "alfacalcidol.md",
+   "status": "open",
+   "claim": "A sixth licence (235436, Vitalpha Soft Gelatin Capsule) is also valid.",
+   "reason": "display",
+   "added": "2026-11-24",
+   "note": "舊 AI 表只列前幾筆，這句講「另有第六張／其餘幾張沒列出／表上列前 5 筆」；程式表現在列出證據包全部紀錄（最多 20 筆），句子的相對說法可能已不成立（例「not shown」），但句中另有品名、號碼或劑型等事實，程式不刪；要改請寫查核紀錄"
+  },
+  {
+   "source": "市場段落換成程式許可證表後，正文仍講舊表列了哪幾筆（2026-11-24 程式許可證表改版）",
+   "drug": "amylmetacresol",
+   "file": "amylmetacresol.md",
+   "status": "open",
+   "claim": "One further registration (214990, Tusq-D Cough Lozenges Orange) is also valid.",
+   "reason": "display",
+   "added": "2026-11-24",
+   "note": "舊 AI 表只列前幾筆，這句講「另有第六張／其餘幾張沒列出／表上列前 5 筆」；程式表現在列出證據包全部紀錄（最多 20 筆），句子的相對說法可能已不成立（例「not shown」），但句中另有品名、號碼或劑型等事實，程式不刪；要改請寫查核紀錄"
+  },
+  {
+   "source": "市場段落換成程式許可證表後，正文仍講舊表列了哪幾筆（2026-11-24 程式許可證表改版）",
+   "drug": "bacitracin",
+   "file": "bacitracin.md",
+   "status": "open",
+   "claim": "The others are ointments or powders.",
+   "reason": "display",
+   "added": "2026-11-24",
+   "note": "舊 AI 表只列前幾筆，這句講「另有第六張／其餘幾張沒列出／表上列前 5 筆」；程式表現在列出證據包全部紀錄（最多 20 筆），句子的相對說法可能已不成立（例「not shown」），但句中另有品名、號碼或劑型等事實，程式不刪；要改請寫查核紀錄"
+  },
+  {
+   "source": "市場段落換成程式許可證表後，正文仍講舊表列了哪幾筆（2026-11-24 程式許可證表改版）",
+   "drug": "benzocaine",
+   "file": "benzocaine.md",
+   "status": "open",
+   "claim": "The 20 valid single-ingredient licences found are shown below in part (the first 5).",
+   "reason": "display",
+   "added": "2026-11-24",
+   "note": "舊 AI 表只列前幾筆，這句講「另有第六張／其餘幾張沒列出／表上列前 5 筆」；程式表現在列出證據包全部紀錄（最多 20 筆），句子的相對說法可能已不成立（例「not shown」），但句中另有品名、號碼或劑型等事實，程式不刪；要改請寫查核紀錄"
+  },
+  {
+   "source": "市場段落換成程式許可證表後，正文仍講舊表列了哪幾筆（2026-11-24 程式許可證表改版）",
+   "drug": "bevacizumab",
+   "file": "bevacizumab.md",
+   "status": "open",
+   "claim": "The licences below are a selection of the 20 valid single-ingredient registrations; no indication text is recorded for them.",
+   "reason": "display",
+   "added": "2026-11-24",
+   "note": "舊 AI 表只列前幾筆，這句講「另有第六張／其餘幾張沒列出／表上列前 5 筆」；程式表現在列出證據包全部紀錄（最多 20 筆），句子的相對說法可能已不成立（例「not shown」），但句中另有品名、號碼或劑型等事實，程式不刪；要改請寫查核紀錄"
+  },
+  {
+   "source": "市場段落換成程式許可證表後，正文仍講舊表列了哪幾筆（2026-11-24 程式許可證表改版）",
+   "drug": "buserelin",
+   "file": "buserelin.md",
+   "status": "open",
+   "claim": "A sixth licence (94767, Gynarich Injection, vial of 2.5 ml) is also valid.",
+   "reason": "display",
+   "added": "2026-11-24",
+   "note": "舊 AI 表只列前幾筆，這句講「另有第六張／其餘幾張沒列出／表上列前 5 筆」；程式表現在列出證據包全部紀錄（最多 20 筆），句子的相對說法可能已不成立（例「not shown」），但句中另有品名、號碼或劑型等事實，程式不刪；要改請寫查核紀錄"
+  },
+  {
+   "source": "市場段落換成程式許可證表後，正文仍講舊表列了哪幾筆（2026-11-24 程式許可證表改版）",
+   "drug": "camphor",
+   "file": "camphor.md",
+   "status": "open",
+   "claim": "The remaining registrations are almost all eye drops or ophthalmic solutions.",
+   "reason": "display",
+   "added": "2026-11-24",
+   "note": "舊 AI 表只列前幾筆，這句講「另有第六張／其餘幾張沒列出／表上列前 5 筆」；程式表現在列出證據包全部紀錄（最多 20 筆），句子的相對說法可能已不成立（例「not shown」），但句中另有品名、號碼或劑型等事實，程式不刪；要改請寫查核紀錄"
+  },
+  {
+   "source": "市場段落換成程式許可證表後，正文仍講舊表列了哪幾筆（2026-11-24 程式許可證表改版）",
+   "drug": "carboplatin",
+   "file": "carboplatin.md",
+   "status": "open",
+   "claim": "Because the record set may be partial, the table lists five examples.",
+   "reason": "display",
+   "added": "2026-11-24",
+   "note": "舊 AI 表只列前幾筆，這句講「另有第六張／其餘幾張沒列出／表上列前 5 筆」；程式表現在列出證據包全部紀錄（最多 20 筆），句子的相對說法可能已不成立（例「not shown」），但句中另有品名、號碼或劑型等事實，程式不刪；要改請寫查核紀錄"
+  },
+  {
+   "source": "市場段落換成程式許可證表後，正文仍講舊表列了哪幾筆（2026-11-24 程式許可證表改版）",
+   "drug": "chlorzoxazone",
+   "file": "chlorzoxazone.md",
+   "status": "open",
+   "claim": "The first five are listed below; no approved indication text is recorded for any of them.",
+   "reason": "display",
+   "added": "2026-11-24",
+   "note": "舊 AI 表只列前幾筆，這句講「另有第六張／其餘幾張沒列出／表上列前 5 筆」；程式表現在列出證據包全部紀錄（最多 20 筆），句子的相對說法可能已不成立（例「not shown」），但句中另有品名、號碼或劑型等事實，程式不刪；要改請寫查核紀錄"
+  },
+  {
+   "source": "市場段落換成程式許可證表後，正文仍講舊表列了哪幾筆（2026-11-24 程式許可證表改版）",
+   "drug": "dapsone",
+   "file": "dapsone.md",
+   "status": "open",
+   "claim": "The other six are topical gels, which are not suitable for treating or preventing PCP.",
+   "reason": "display",
+   "added": "2026-11-24",
+   "note": "舊 AI 表只列前幾筆，這句講「另有第六張／其餘幾張沒列出／表上列前 5 筆」；程式表現在列出證據包全部紀錄（最多 20 筆），句子的相對說法可能已不成立（例「not shown」），但句中另有品名、號碼或劑型等事實，程式不刪；要改請寫查核紀錄"
+  },
+  {
+   "source": "市場段落換成程式許可證表後，正文仍講舊表列了哪幾筆（2026-11-24 程式許可證表改版）",
+   "drug": "daptomycin",
+   "file": "daptomycin.md",
+   "status": "open",
+   "claim": "Eight valid single-ingredient licences exist in total (the three others are Cubicin by Novartis India, Ivdapt by Fusion Healthcare and Daptojub by Jubilant).",
+   "reason": "display",
+   "added": "2026-11-24",
+   "note": "舊 AI 表只列前幾筆，這句講「另有第六張／其餘幾張沒列出／表上列前 5 筆」；程式表現在列出證據包全部紀錄（最多 20 筆），句子的相對說法可能已不成立（例「not shown」），但句中另有品名、號碼或劑型等事實，程式不刪；要改請寫查核紀錄"
+  },
+  {
+   "source": "市場段落換成程式許可證表後，正文仍講舊表列了哪幾筆（2026-11-24 程式許可證表改版）",
+   "drug": "daunorubicin",
+   "file": "daunorubicin.md",
+   "status": "open",
+   "claim": "A sixth licence (61794, Dauneon 20mg Injection, Neon Laboratories Ltd) is also valid.",
+   "reason": "display",
+   "added": "2026-11-24",
+   "note": "舊 AI 表只列前幾筆，這句講「另有第六張／其餘幾張沒列出／表上列前 5 筆」；程式表現在列出證據包全部紀錄（最多 20 筆），句子的相對說法可能已不成立（例「not shown」），但句中另有品名、號碼或劑型等事實，程式不刪；要改請寫查核紀錄"
+  },
+  {
+   "source": "市場段落換成程式許可證表後，正文仍講舊表列了哪幾筆（2026-11-24 程式許可證表改版）",
+   "drug": "dexketoprofen",
+   "file": "dexketoprofen.md",
+   "status": "open",
+   "claim": "A sixth licence (108166, Infen Gel, 30 g tube, topical) is also valid.",
+   "reason": "display",
+   "added": "2026-11-24",
+   "note": "舊 AI 表只列前幾筆，這句講「另有第六張／其餘幾張沒列出／表上列前 5 筆」；程式表現在列出證據包全部紀錄（最多 20 筆），句子的相對說法可能已不成立（例「not shown」），但句中另有品名、號碼或劑型等事實，程式不刪；要改請寫查核紀錄"
+  },
+  {
+   "source": "市場段落換成程式許可證表後，正文仍講舊表列了哪幾筆（2026-11-24 程式許可證表改版）",
+   "drug": "eplerenone",
+   "file": "eplerenone.md",
+   "status": "open",
+   "claim": "No approved indication text is available in the local records, and some product names suggest co-packaged kits, so this table shows only five of them.",
+   "reason": "display",
+   "added": "2026-11-24",
+   "note": "舊 AI 表只列前幾筆，這句講「另有第六張／其餘幾張沒列出／表上列前 5 筆」；程式表現在列出證據包全部紀錄（最多 20 筆），句子的相對說法可能已不成立（例「not shown」），但句中另有品名、號碼或劑型等事實，程式不刪；要改請寫查核紀錄"
+  },
+  {
+   "source": "市場段落換成程式許可證表後，正文仍講舊表列了哪幾筆（2026-11-24 程式許可證表改版）",
+   "drug": "esomeprazole",
+   "file": "esomeprazole.md",
+   "status": "open",
+   "claim": "Only the first 5 are listed here, and approved-indication text was not available for them.",
+   "reason": "display",
+   "added": "2026-11-24",
+   "note": "舊 AI 表只列前幾筆，這句講「另有第六張／其餘幾張沒列出／表上列前 5 筆」；程式表現在列出證據包全部紀錄（最多 20 筆），句子的相對說法可能已不成立（例「not shown」），但句中另有品名、號碼或劑型等事實，程式不刪；要改請寫查核紀錄"
+  },
+  {
+   "source": "市場段落換成程式許可證表後，正文仍講舊表列了哪幾筆（2026-11-24 程式許可證表改版）",
+   "drug": "exemestane",
+   "file": "exemestane.md",
+   "status": "open",
+   "claim": "Two further valid single-ingredient licences (76776 Exetraz, Alkem; 244202 Xmalon, Celon) are not shown.",
+   "reason": "display",
+   "added": "2026-11-24",
+   "note": "舊 AI 表只列前幾筆，這句講「另有第六張／其餘幾張沒列出／表上列前 5 筆」；程式表現在列出證據包全部紀錄（最多 20 筆），句子的相對說法可能已不成立（例「not shown」），但句中另有品名、號碼或劑型等事實，程式不刪；要改請寫查核紀錄"
+  },
+  {
+   "source": "市場段落換成程式許可證表後，正文仍講舊表列了哪幾筆（2026-11-24 程式許可證表改版）",
+   "drug": "flucloxacillin",
+   "file": "flucloxacillin.md",
+   "status": "open",
+   "claim": "Two further registrations exist (7 in total): Staphonex 500mg Capsule (200101, strip of 4 capsules) and Stafocid 1G Injection (202440, vial of 1 injection).",
+   "reason": "display",
+   "added": "2026-11-24",
+   "note": "舊 AI 表只列前幾筆，這句講「另有第六張／其餘幾張沒列出／表上列前 5 筆」；程式表現在列出證據包全部紀錄（最多 20 筆），句子的相對說法可能已不成立（例「not shown」），但句中另有品名、號碼或劑型等事實，程式不刪；要改請寫查核紀錄"
+  },
+  {
+   "source": "市場段落換成程式許可證表後，正文仍講舊表列了哪幾筆（2026-11-24 程式許可證表改版）",
+   "drug": "fludarabine",
+   "file": "fludarabine.md",
+   "status": "open",
+   "claim": "Four more are not listed here: Fludacel, Fludarither, Fludocyte and Lymfuda.",
+   "reason": "display",
+   "added": "2026-11-24",
+   "note": "舊 AI 表只列前幾筆，這句講「另有第六張／其餘幾張沒列出／表上列前 5 筆」；程式表現在列出證據包全部紀錄（最多 20 筆），句子的相對說法可能已不成立（例「not shown」），但句中另有品名、號碼或劑型等事實，程式不刪；要改請寫查核紀錄"
+  },
+  {
+   "source": "市場段落換成程式許可證表後，正文仍講舊表列了哪幾筆（2026-11-24 程式許可證表改版）",
+   "drug": "fluphenazine",
+   "file": "fluphenazine.md",
+   "status": "open",
+   "claim": "The remaining registrations are mostly 25 mg injections, plus Tripnor 0.5 mg/10 mg tablets (licence 216178).",
+   "reason": "display",
+   "added": "2026-11-24",
+   "note": "舊 AI 表只列前幾筆，這句講「另有第六張／其餘幾張沒列出／表上列前 5 筆」；程式表現在列出證據包全部紀錄（最多 20 筆），句子的相對說法可能已不成立（例「not shown」），但句中另有品名、號碼或劑型等事實，程式不刪；要改請寫查核紀錄"
+  },
+  {
+   "source": "市場段落換成程式許可證表後，正文仍講舊表列了哪幾筆（2026-11-24 程式許可證表改版）",
+   "drug": "hyaluronidase",
+   "file": "hyaluronidase.md",
+   "status": "open",
+   "claim": "Two further registrations are Hylorase 1500IU (Biosena Lifescience) and Alldase 1500IU (Uniword Pharma).",
+   "reason": "display",
+   "added": "2026-11-24",
+   "note": "舊 AI 表只列前幾筆，這句講「另有第六張／其餘幾張沒列出／表上列前 5 筆」；程式表現在列出證據包全部紀錄（最多 20 筆），句子的相對說法可能已不成立（例「not shown」），但句中另有品名、號碼或劑型等事實，程式不刪；要改請寫查核紀錄"
+  },
+  {
+   "source": "市場段落換成程式許可證表後，正文仍講舊表列了哪幾筆（2026-11-24 程式許可證表改版）",
+   "drug": "indacaterol",
+   "file": "indacaterol.md",
+   "status": "open",
+   "claim": "The remaining four are Loftair-L Capsule with Inhaler, Indamet 80 Capsule, Indamet 320 Capsule and Sequadra Inhaler.",
+   "reason": "display",
+   "added": "2026-11-24",
+   "note": "舊 AI 表只列前幾筆，這句講「另有第六張／其餘幾張沒列出／表上列前 5 筆」；程式表現在列出證據包全部紀錄（最多 20 筆），句子的相對說法可能已不成立（例「not shown」），但句中另有品名、號碼或劑型等事實，程式不刪；要改請寫查核紀錄"
+  },
+  {
+   "source": "市場段落換成程式許可證表後，正文仍講舊表列了哪幾筆（2026-11-24 程式許可證表改版）",
+   "drug": "iohexol",
+   "file": "iohexol.md",
+   "status": "open",
+   "claim": "A sixth registration, Omnipaque 300mg Injection (Pfizer Ltd, Registration No. 162140, 10 ml vial), is also valid.",
+   "reason": "display",
+   "added": "2026-11-24",
+   "note": "舊 AI 表只列前幾筆，這句講「另有第六張／其餘幾張沒列出／表上列前 5 筆」；程式表現在列出證據包全部紀錄（最多 20 筆），句子的相對說法可能已不成立（例「not shown」），但句中另有品名、號碼或劑型等事實，程式不刪；要改請寫查核紀錄"
+  },
+  {
+   "source": "市場段落換成程式許可證表後，正文仍講舊表列了哪幾筆（2026-11-24 程式許可證表改版）",
+   "drug": "ipratropium",
+   "file": "ipratropium.md",
+   "status": "open",
+   "claim": "Three more are not shown above: 13891 (Aprovent Inhaler, Cipla), 108961 (Ipneb Solution for inhalation, Lupin) and 107821 (Ipravent Respirator Solution, Cipla).",
+   "reason": "display",
+   "added": "2026-11-24",
+   "note": "舊 AI 表只列前幾筆，這句講「另有第六張／其餘幾張沒列出／表上列前 5 筆」；程式表現在列出證據包全部紀錄（最多 20 筆），句子的相對說法可能已不成立（例「not shown」），但句中另有品名、號碼或劑型等事實，程式不刪；要改請寫查核紀錄"
+  },
+  {
+   "source": "市場段落換成程式許可證表後，正文仍講舊表列了哪幾筆（2026-11-24 程式許可證表改版）",
+   "drug": "isopropamide",
+   "file": "isopropamide.md",
+   "status": "open",
+   "claim": "The remaining registration is Stelbid 2 Tablet (200066).",
+   "reason": "display",
+   "added": "2026-11-24",
+   "note": "舊 AI 表只列前幾筆，這句講「另有第六張／其餘幾張沒列出／表上列前 5 筆」；程式表現在列出證據包全部紀錄（最多 20 筆），句子的相對說法可能已不成立（例「not shown」），但句中另有品名、號碼或劑型等事實，程式不刪；要改請寫查核紀錄"
+  },
+  {
+   "source": "市場段落換成程式許可證表後，正文仍講舊表列了哪幾筆（2026-11-24 程式許可證表改版）",
+   "drug": "mephentermine",
+   "file": "mephentermine.md",
+   "status": "open",
+   "claim": "A sixth valid single-ingredient registration (216899, Termiva Injection, vial of 10 ml) is also on record.",
+   "reason": "display",
+   "added": "2026-11-24",
+   "note": "舊 AI 表只列前幾筆，這句講「另有第六張／其餘幾張沒列出／表上列前 5 筆」；程式表現在列出證據包全部紀錄（最多 20 筆），句子的相對說法可能已不成立（例「not shown」），但句中另有品名、號碼或劑型等事實，程式不刪；要改請寫查核紀錄"
+  },
+  {
+   "source": "市場段落換成程式許可證表後，正文仍講舊表列了哪幾筆（2026-11-24 程式許可證表改版）",
+   "drug": "mexiletine",
+   "file": "mexiletine.md",
+   "status": "open",
+   "claim": "A sixth registration (241652, Welhart 50mg Capsule, strip of 10 capsules) is also valid.",
+   "reason": "display",
+   "added": "2026-11-24",
+   "note": "舊 AI 表只列前幾筆，這句講「另有第六張／其餘幾張沒列出／表上列前 5 筆」；程式表現在列出證據包全部紀錄（最多 20 筆），句子的相對說法可能已不成立（例「not shown」），但句中另有品名、號碼或劑型等事實，程式不刪；要改請寫查核紀錄"
+  },
+  {
+   "source": "市場段落換成程式許可證表後，正文仍講舊表列了哪幾筆（2026-11-24 程式許可證表改版）",
+   "drug": "milrinone",
+   "file": "milrinone.md",
+   "status": "open",
+   "claim": "Eight single-ingredient licences are valid in total (the table lists the first five), with no cancelled licences.",
+   "reason": "display",
+   "added": "2026-11-24",
+   "note": "舊 AI 表只列前幾筆，這句講「另有第六張／其餘幾張沒列出／表上列前 5 筆」；程式表現在列出證據包全部紀錄（最多 20 筆），句子的相對說法可能已不成立（例「not shown」），但句中另有品名、號碼或劑型等事實，程式不刪；要改請寫查核紀錄"
+  },
+  {
+   "source": "市場段落換成程式許可證表後，正文仍講舊表列了哪幾筆（2026-11-24 程式許可證表改版）",
+   "drug": "moclobemide",
+   "file": "moclobemide.md",
+   "status": "open",
+   "claim": "The sixth is Trima 300mg Tablet (220789, Intas Pharmaceuticals).",
+   "reason": "display",
+   "added": "2026-11-24",
+   "note": "舊 AI 表只列前幾筆，這句講「另有第六張／其餘幾張沒列出／表上列前 5 筆」；程式表現在列出證據包全部紀錄（最多 20 筆），句子的相對說法可能已不成立（例「not shown」），但句中另有品名、號碼或劑型等事實，程式不刪；要改請寫查核紀錄"
+  },
+  {
+   "source": "市場段落換成程式許可證表後，正文仍講舊表列了哪幾筆（2026-11-24 程式許可證表改版）",
+   "drug": "mupirocin",
+   "file": "mupirocin.md",
+   "status": "open",
+   "claim": "The remaining registrations are mostly 2% ointments, plus powder products (Dibact, Tercin WHP).",
+   "reason": "display",
+   "added": "2026-11-24",
+   "note": "舊 AI 表只列前幾筆，這句講「另有第六張／其餘幾張沒列出／表上列前 5 筆」；程式表現在列出證據包全部紀錄（最多 20 筆），句子的相對說法可能已不成立（例「not shown」），但句中另有品名、號碼或劑型等事實，程式不刪；要改請寫查核紀錄"
+  },
+  {
+   "source": "市場段落換成程式許可證表後，正文仍講舊表列了哪幾筆（2026-11-24 程式許可證表改版）",
+   "drug": "nitroglycerin",
+   "file": "nitroglycerin.md",
+   "status": "open",
+   "claim": "The five below are representative; the approved indication text is not recorded for any of them.",
+   "reason": "display",
+   "added": "2026-11-24",
+   "note": "舊 AI 表只列前幾筆，這句講「另有第六張／其餘幾張沒列出／表上列前 5 筆」；程式表現在列出證據包全部紀錄（最多 20 筆），句子的相對說法可能已不成立（例「not shown」），但句中另有品名、號碼或劑型等事實，程式不刪；要改請寫查核紀錄"
+  },
+  {
+   "source": "市場段落換成程式許可證表後，正文仍講舊表列了哪幾筆（2026-11-24 程式許可證表改版）",
+   "drug": "oxybutynin",
+   "file": "oxybutynin.md",
+   "status": "open",
+   "claim": "The remaining four are Nocturin 5 mg and 2.5 mg (Elder), Oxyspas 5 (Cipla) and Tropan 5 (Sun Pharmaceutical).",
+   "reason": "display",
+   "added": "2026-11-24",
+   "note": "舊 AI 表只列前幾筆，這句講「另有第六張／其餘幾張沒列出／表上列前 5 筆」；程式表現在列出證據包全部紀錄（最多 20 筆），句子的相對說法可能已不成立（例「not shown」），但句中另有品名、號碼或劑型等事實，程式不刪；要改請寫查核紀錄"
+  },
+  {
+   "source": "市場段落換成程式許可證表後，正文仍講舊表列了哪幾筆（2026-11-24 程式許可證表改版）",
+   "drug": "paliperidone",
+   "file": "paliperidone.md",
+   "status": "open",
+   "claim": "Other registrations include further oral strengths (1.5 mg to 9 mg) and Invega Sustenna 100 mg and 150 mg injections.",
+   "reason": "display",
+   "added": "2026-11-24",
+   "note": "舊 AI 表只列前幾筆，這句講「另有第六張／其餘幾張沒列出／表上列前 5 筆」；程式表現在列出證據包全部紀錄（最多 20 筆），句子的相對說法可能已不成立（例「not shown」），但句中另有品名、號碼或劑型等事實，程式不刪；要改請寫查核紀錄"
+  },
+  {
+   "source": "市場段落換成程式許可證表後，正文仍講舊表列了哪幾筆（2026-11-24 程式許可證表改版）",
+   "drug": "pazopanib",
+   "file": "pazopanib.md",
+   "status": "open",
+   "claim": "Two further registrations exist: Pazocam 400mg Tablet (175799) and Pazliz 400 Tablet (178266).",
+   "reason": "display",
+   "added": "2026-11-24",
+   "note": "舊 AI 表只列前幾筆，這句講「另有第六張／其餘幾張沒列出／表上列前 5 筆」；程式表現在列出證據包全部紀錄（最多 20 筆），句子的相對說法可能已不成立（例「not shown」），但句中另有品名、號碼或劑型等事實，程式不刪；要改請寫查核紀錄"
+  },
+  {
+   "source": "市場段落換成程式許可證表後，正文仍講舊表列了哪幾筆（2026-11-24 程式許可證表改版）",
+   "drug": "pentosan_polysulfate",
+   "file": "pentosan_polysulfate.md",
+   "status": "open",
+   "claim": "A sixth registration (36228, Comfora Capsule, bottle of 90 capsules, Swati Spentose Pvt Ltd) is not shown in the table above.",
+   "reason": "display",
+   "added": "2026-11-24",
+   "note": "舊 AI 表只列前幾筆，這句講「另有第六張／其餘幾張沒列出／表上列前 5 筆」；程式表現在列出證據包全部紀錄（最多 20 筆），句子的相對說法可能已不成立（例「not shown」），但句中另有品名、號碼或劑型等事實，程式不刪；要改請寫查核紀錄"
+  },
+  {
+   "source": "市場段落換成程式許可證表後，正文仍講舊表列了哪幾筆（2026-11-24 程式許可證表改版）",
+   "drug": "polyethylene_glycol",
+   "file": "polyethylene_glycol.md",
+   "status": "open",
+   "claim": "The other 15 registrations include one further laxative powder (Scilax) and 14 additional eye drops, all in 10 ml presentations.",
+   "reason": "display",
+   "added": "2026-11-24",
+   "note": "舊 AI 表只列前幾筆，這句講「另有第六張／其餘幾張沒列出／表上列前 5 筆」；程式表現在列出證據包全部紀錄（最多 20 筆），句子的相對說法可能已不成立（例「not shown」），但句中另有品名、號碼或劑型等事實，程式不刪；要改請寫查核紀錄"
+  },
+  {
+   "source": "市場段落換成程式許可證表後，正文仍講舊表列了哪幾筆（2026-11-24 程式許可證表改版）",
+   "drug": "potassium_iodide",
+   "file": "potassium_iodide.md",
+   "status": "open",
+   "claim": "Two more eye drop registrations also exist (Cataclear, 35495; Catadoze, 39559), for 7 in total.",
+   "reason": "display",
+   "added": "2026-11-24",
+   "note": "舊 AI 表只列前幾筆，這句講「另有第六張／其餘幾張沒列出／表上列前 5 筆」；程式表現在列出證據包全部紀錄（最多 20 筆），句子的相對說法可能已不成立（例「not shown」），但句中另有品名、號碼或劑型等事實，程式不刪；要改請寫查核紀錄"
+  },
+  {
+   "source": "市場段落換成程式許可證表後，正文仍講舊表列了哪幾筆（2026-11-24 程式許可證表改版）",
+   "drug": "ranitidine",
+   "file": "ranitidine.md",
+   "status": "open",
+   "claim": "The table lists five main authorizations; approved indication text is not recorded in the local data.",
+   "reason": "display",
+   "added": "2026-11-24",
+   "note": "舊 AI 表只列前幾筆，這句講「另有第六張／其餘幾張沒列出／表上列前 5 筆」；程式表現在列出證據包全部紀錄（最多 20 筆），句子的相對說法可能已不成立（例「not shown」），但句中另有品名、號碼或劑型等事實，程式不刪；要改請寫查核紀錄"
+  },
+  {
+   "source": "市場段落換成程式許可證表後，正文仍講舊表列了哪幾筆（2026-11-24 程式許可證表改版）",
+   "drug": "safinamide",
+   "file": "safinamide.md",
+   "status": "open",
+   "claim": "One further registration, 200331 (Safion 50mg Tablet, Intas Pharmaceuticals Ltd), is also valid.",
+   "reason": "display",
+   "added": "2026-11-24",
+   "note": "舊 AI 表只列前幾筆，這句講「另有第六張／其餘幾張沒列出／表上列前 5 筆」；程式表現在列出證據包全部紀錄（最多 20 筆），句子的相對說法可能已不成立（例「not shown」），但句中另有品名、號碼或劑型等事實，程式不刪；要改請寫查核紀錄"
+  },
+  {
+   "source": "市場段落換成程式許可證表後，正文仍講舊表列了哪幾筆（2026-11-24 程式許可證表改版）",
+   "drug": "tobramycin",
+   "file": "tobramycin.md",
+   "status": "open",
+   "claim": "The 5 listed below are examples of the 20 valid registrations, covering injectable and ophthalmic forms.",
+   "reason": "display",
+   "added": "2026-11-24",
+   "note": "舊 AI 表只列前幾筆，這句講「另有第六張／其餘幾張沒列出／表上列前 5 筆」；程式表現在列出證據包全部紀錄（最多 20 筆），句子的相對說法可能已不成立（例「not shown」），但句中另有品名、號碼或劑型等事實，程式不刪；要改請寫查核紀錄"
+  },
+  {
+   "source": "市場段落換成程式許可證表後，正文仍講舊表列了哪幾筆（2026-11-24 程式許可證表改版）",
+   "drug": "topiroxostat",
+   "file": "topiroxostat.md",
+   "status": "open",
+   "claim": "One further registration, Topiroxo 20mg Tablet (215064), is also valid.",
+   "reason": "display",
+   "added": "2026-11-24",
+   "note": "舊 AI 表只列前幾筆，這句講「另有第六張／其餘幾張沒列出／表上列前 5 筆」；程式表現在列出證據包全部紀錄（最多 20 筆），句子的相對說法可能已不成立（例「not shown」），但句中另有品名、號碼或劑型等事實，程式不刪；要改請寫查核紀錄"
+  },
+  {
+   "source": "市場段落換成程式許可證表後，正文仍講舊表列了哪幾筆（2026-11-24 程式許可證表改版）",
+   "drug": "triptorelin",
+   "file": "triptorelin.md",
+   "status": "open",
+   "claim": "A sixth valid licence (Tryplog Injection, Life Medicare & Biotech Pvt Ltd) is also on record.",
+   "reason": "display",
+   "added": "2026-11-24",
+   "note": "舊 AI 表只列前幾筆，這句講「另有第六張／其餘幾張沒列出／表上列前 5 筆」；程式表現在列出證據包全部紀錄（最多 20 筆），句子的相對說法可能已不成立（例「not shown」），但句中另有品名、號碼或劑型等事實，程式不刪；要改請寫查核紀錄"
+  },
+  {
+   "source": "市場段落換成程式許可證表後，正文仍講舊表列了哪幾筆（2026-11-24 程式許可證表改版）",
+   "drug": "zolmitriptan",
+   "file": "zolmitriptan.md",
+   "status": "open",
+   "claim": "A sixth registration, Zolvent Nasal Spray (No. 250377, Chemo Healthcare Pvt Ltd), is also valid.",
+   "reason": "display",
+   "added": "2026-11-24",
+   "note": "舊 AI 表只列前幾筆，這句講「另有第六張／其餘幾張沒列出／表上列前 5 筆」；程式表現在列出證據包全部紀錄（最多 20 筆），句子的相對說法可能已不成立（例「not shown」），但句中另有品名、號碼或劑型等事實，程式不刪；要改請寫查核紀錄"
   }
  ]
 }

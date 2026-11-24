@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 685
 evidence_level: L4
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Polymyxin B"
 predicted_indications: ["bronchitis", "laryngotracheitis"]
 description: "Polymyxin B: predicted new indication Bronchitis (evidence level L4)."
@@ -99,15 +99,38 @@ None of these is a randomized trial of polymyxin B for bronchitis. The two most 
 
 ## India Market Information
 
-Polymyxin B has 20 valid single-ingredient registrations. Most are injectables, and a few are ophthalmic (eye ointment, eye drops, eye/ear drops). No inhaled or nebulized product appears among the registrations, so a bronchitis use would not match an existing route. The license records do not state approved indications. Five main registrations are shown below.
+Polymyxin B has 20 valid single-ingredient registrations. Most are injectables, and a few are ophthalmic (eye ointment, eye drops, eye/ear drops). No inhaled or nebulized product appears among the registrations, so a bronchitis use would not match an existing route. The license records do not state approved indications.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 189646 | Reinvexin 5MIU Injection (Wockhardt) | Injection, vial of 1 ml | Not stated in license record |
-| 115011 | Jetmixin 5MIU Injection (Scutonix Lifesciences) | Injection, vial | Not stated in license record |
-| 175417 | Paxyb Injection (Glenmark) | Injection, vial of 5 ml | Not stated in license record |
-| 174942 | Paximid 500000IU Injection (Cipla) | Injection, vial | Not stated in license record |
-| 177905 | Poly C Eye Ointment (Kaizen Pharmaceuticals) | Eye ointment, tube of 5 gm | Not stated in license record |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 11794 | Anchlor Eye/Ear Drops | Bottle of 5 ml Eye/Ear Drops | Valid |
+| 32906 | Biomyxin B 50000IU Injection | Vial of 1 Injection | Valid |
+| 90521 | Fixmac-B Injection | Vial of 1 Injection | Valid |
+| 104844 | Hipoly-B Injection | Vial of 1 Injection | Valid |
+| 115011 | Jetmixin 5MIU Injection | Vial of 1 Injection | Valid |
+| 146214 | Myxnib 500000IU Injection | Vial of 1 Injection | Valid |
+| 149486 | Mixab Infusion | Bottle of 1 Injection | Valid |
+| 173849 | Poly B 500000IU Injection | Vial of 1 Injection | Valid |
+| 174942 | Paximid 500000IU Injection | Vial of 1 Injection | Valid |
+| 175280 | Polyfic Injection | Vial of 1 Injection | Valid |
+| 175303 | Polium-B 500000IU Injection | Vial of 5 ml Injection | Valid |
+| 175417 | Paxyb Injection | Vial of 5 ml Injection | Valid |
+| 176779 | Polymix B 500000units Injection | Vial of 1 Injection | Valid |
+| 177295 | Polymyx- B 750000IU Injection | Vial of 1 Injection | Valid |
+| 177331 | Poly C Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 177905 | Poly C Eye Ointment | Tube of 5 gm Eye Ointment | Valid |
+| 178054 | Polyxx 500000IU Injection | Vial of 1 Injection | Valid |
+| 189646 | Reinvexin 5MIU Injection | Vial of 1 ml Injection | Valid |
+| 216427 | Takchlor Eye Ointment | Tube of 5 gm Eye Ointment | Valid |
+| 237697 | Vinmyxin B Injection | Vial of 1 Powder for Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "Alteplase"
 predicted_indications: ["heparin cofactor 2 deficiency", "congenital coronary artery anomaly", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "thrombophilia", "coronary stenosis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Alteplase: predicted new indication Heparin cofactor 2 deficiency (evidence level L5). In India: 2 listed products (2 not discontinued)"
 ---
 
@@ -71,10 +71,16 @@ Currently no related literature available.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Registration No. 393 | Actilyse 50mg Injection | Vial of 1 injection | Not recorded in the local data |
-| Registration No. 1276 | Actilyse 20mg Injection | Bottle of 20 ml injection | Not recorded in the local data |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 393 | Actilyse 50mg Injection | Vial of 1 Injection | Valid |
+| 1276 | Actilyse 20mg Injection | Bottle of 20 ml Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 Both licences are for the single-ingredient product, are currently valid, and are held by Boehringer Ingelheim.
 

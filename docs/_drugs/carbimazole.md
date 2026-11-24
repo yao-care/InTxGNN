@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Carbimazole"
 predicted_indications: ["resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "hyperthyroxinemia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Carbimazole: predicted new indication resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta (evidence level L5). In India: 19 listed products (19 not discontinued)"
 ---
 
@@ -72,6 +72,34 @@ Currently no related clinical trials registered.
 | [24165508](https://pubmed.ncbi.nlm.nih.gov/24165508/) | 2013 | Case report / differential diagnosis | BMJ Case Reports | A young man had been labelled hyperthyroid for 10 years, with persistently high free T4 and non-suppressed TSH, and was treated intermittently with carbimazole. The report discusses how to distinguish this pattern from true hyperthyroidism. It does not show that carbimazole benefits resistance to thyroid hormone. |
 
 ## India Market Information
+
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 522 | Anti-Thyrox 10 Tablet | Bottle of 100 tablets | Valid |
+| 813 | Anti-Thyrox 5 Tablet | Bottle of 100 tablets | Valid |
+| 1021 | Anti-Thyrox 20 Tablet | Bottle of 100 tablets | Valid |
+| 35454 | Carmazole 10mg Tablet | Bottle of 60 tablets | Valid |
+| 38059 | Carkozom 10 Tablet | Bottle of 100 tablets | Valid |
+| 39837 | Carmazole 5mg Tablet | Bottle of 60 tablets | Valid |
+| 40216 | Carkozom 20 Tablet | Bottle of 100 tablets | Valid |
+| 42271 | Carkozom 5 Tablet | Bottle of 100 tablets | Valid |
+| 138406 | Metazole 5mg Tablet | Strip of 10 tablets | Valid |
+| 150330 | Neo-Mercazole 10 Tablet | Bottle of 120 tablets | Valid |
+| 150345 | Neo-Mercazole 5 Tablet | Bottle of 120 tablets | Valid |
+| 150585 | Neo-Mercazole 20 Tablet | Bottle of 120 tablets | Valid |
+| 205019 | Sterzole 10 Tablet | Bottle of 100 tablets | Valid |
+| 206718 | Sterzole 20 Tablet | Bottle of 100 tablets | Valid |
+| 216254 | Thyrodip 10mg Tablet | Bottle of 100 tablets | Valid |
+| 217092 | Thyrodip 20mg Tablet | Bottle of 100 tablets | Valid |
+| 217783 | Thyrozole 5mg Tablet | Strip of 10 tablets | Valid |
+| 221036 | Thyrosim 10mg Tablet | Bottle of 100 tablets | Valid |
+| 221282 | Thyrosim 5mg Tablet | Bottle of 100 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 Carbimazole is marketed in India under multiple single-ingredient tablet licences (for example Neo-Mercazole, Anti-Thyrox, Thyrodip, Carkozom). The local records do not carry approved-indication text.
 

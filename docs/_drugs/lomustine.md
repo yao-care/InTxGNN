@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 498
 evidence_level: L4
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Lomustine"
 predicted_indications: ["lymphosarcoma", "malignant tumor of meninges", "spinal cord cancer"]
 description: "Lomustine: predicted new indication Lymphosarcoma (evidence level L4). In India: 4 listed products (4 not discontinued)"
@@ -102,12 +102,18 @@ None of these trials studies lymphosarcoma by name.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Registration No. 27908 | Belustine 40 Capsule (Mediclone Health Care) | Bottle of 10 capsules | Not specified |
-| Registration No. 137802 | Moostin 40mg Capsule (Miracalus Pharma) | Strip of 6 capsules | Not specified |
-| Registration No. 125974 | Lomat 40mg Capsule (Neon Laboratories) | Strip of 4 capsules | Not specified |
-| Registration No. 125072 | Lustine 40mg Capsule (Samarth Life Sciences) | Strip of 4 capsules | Not specified |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 27908 | Belustine 40 Capsule | Bottle of 10 capsules | Valid |
+| 125072 | Lustine 40mg Capsule | Strip of 4 capsules | Valid |
+| 125974 | Lomat 40mg Capsule | Strip of 4 capsules | Valid |
+| 137802 | Moostin 40mg Capsule | Strip of 6 capsules | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 All four licences are valid single-ingredient oral capsule products.
 

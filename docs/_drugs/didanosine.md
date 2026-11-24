@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Didanosine"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Didanosine: predicted new indication Feline acquired immunodeficiency syndrome (evidence level L5). Approved use: HIV infection and AIDS"
 ---
 
@@ -89,13 +89,19 @@ Currently no related clinical trials registered.
 
 The licence records contain no approved indication text. All five are single-ingredient, valid registrations.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Registration No. 66713 | Dinosin 100mg Tablet | Bottle of 60 tablets | Not stated in the record |
-| Registration No. 237405 | Virosine DR 250mg Capsule | Packet of 30 capsules | Not stated in the record |
-| Registration No. 68259 | Dinosin 250mg Tablet | Strip of 30 tablets | Not stated in the record |
-| Registration No. 69362 | Dinosin 400mg Capsule | Strip of 30 capsules | Not stated in the record |
-| Registration No. 239969 | Virosine DR 400mg Capsule | Packet of 30 capsules | Not stated in the record |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 66713 | Dinosin 100mg Tablet | Bottle of 60 tablets | Valid |
+| 68259 | Dinosin 250mg Tablet | Strip of 30 tablets | Valid |
+| 69362 | Dinosin 400mg Capsule | Strip of 30 capsules | Valid |
+| 237405 | Virosine DR 250mg Capsule | Packet of 30 capsules | Valid |
+| 239969 | Virosine DR 400mg Capsule | Packet of 30 capsules | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ---
 

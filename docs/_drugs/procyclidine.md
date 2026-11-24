@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 704
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 monitor_inn: "Procyclidine"
 predicted_indications: ["Rasmussen subacute encephalitis", "myelitis", "PLA2G6-associated neurodegeneration", "attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "transaldolase deficiency", "progressive supranuclear palsy-corticobasal syndrome", "paralysis agitans, juvenile, of Hunt", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "fructose-1,6-bisphosphatase deficiency"]
 description: "Procyclidine: predicted new indication Rasmussen subacute encephalitis (evidence level L5). In India: at least 20 listed products"
@@ -71,15 +71,38 @@ Currently no related literature available.
 
 ## India Market Information
 
-Procyclidine has 20 valid single-ingredient registrations in India, all oral tablets. No approved-indication text is available in the records. The 5 main authorizations are listed below.
+Procyclidine has 20 valid single-ingredient registrations in India, all oral tablets. No approved-indication text is available in the records.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 177924 | Prolidine 2.5mg Tablet (Oxford Pharmaceuticals) | Strip of 10 tablets | Not specified |
-| 154622 | Nopadin 2.5mg Tablet (Kivi Labs) | Strip of 10 tablets | Not specified |
-| 176998 | Procydin 2.5 Tablet (D D Pharmaceuticals) | Strip of 10 tablets | Not specified |
-| 116277 | Kemdin 5mg Tablet (Vrddhi Life Sciences) | Strip of 10 tablets | Not specified |
-| 204191 | Sycline 5mg Tablet MD (Pifer Pharmaceuticals) | Strip of 10 orally disintegrating tablets | Not specified |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 14679 | Axeps 2.5mg Tablet | Strip of 10 tablets | Valid |
+| 20722 | Albiclid 25mg Tablet | Strip of 10 tablets | Valid |
+| 47748 | Cyclid 2.5mg Tablet | Strip of 10 tablets | Valid |
+| 77687 | Epsnorm P 5 Tablet | Strip of 10 tablets | Valid |
+| 90463 | Fixpark 5 Tablet | Strip of 10 tablets | Valid |
+| 116277 | Kemdin 5mg Tablet | Strip of 10 tablets | Valid |
+| 116392 | Kemad 5mg Tablet | Strip of 10 tablets | Valid |
+| 135585 | Modin 2.5 Tablet | Strip of 10 tablets | Valid |
+| 154622 | Nopadin 2.5mg Tablet | Strip of 10 tablets | Valid |
+| 155549 | Nopark 2.5mg Tablet | Strip of 10 tablets | Valid |
+| 156887 | Nopark 5mg Tablet | Strip of 10 tablets | Valid |
+| 176860 | Prodine 5mg Tablet | Strip of 10 tablets | Valid |
+| 176998 | Procydin 2.5 Tablet | Strip of 10 tablets | Valid |
+| 177924 | Prolidine 2.5mg Tablet | Strip of 10 tablets | Valid |
+| 178092 | Procy 5 Tablet | Strip of 10 tablets | Valid |
+| 179668 | Procy 2.5mg Tablet | Strip of 10 tablets | Valid |
+| 180862 | Prolidine 5mg Tablet | Strip of 10 tablets | Valid |
+| 181779 | Parksun 2.5mg Tablet | Strip of 10 tablets | Valid |
+| 204191 | Sycline 5mg Tablet MD | Strip of 10 tablet md | Valid |
+| 205680 | Sycline 2.5mg Tablet MD | Strip of 10 tablet md | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

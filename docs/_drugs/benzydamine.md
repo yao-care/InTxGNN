@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 101
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Benzydamine: predicted new indication Benign prostatic hyperplasia (evidence level L5). Approved use: Not stated in the registration records compiled for this report"
 monitor_inn: "Benzydamine"
 predicted_indications: ["benign prostatic hyperplasia (disease)"]
@@ -63,15 +63,38 @@ There is also a practical gap: all Indian products are mouth, throat or dental f
 
 ## India Market Information
 
-Benzydamine has 20 valid single-ingredient registrations in India, with no cancelled licenses. The approved indication text is not recorded for any of them. Main examples:
+Benzydamine has 20 valid single-ingredient registrations in India, with no cancelled licenses. The approved indication text is not recorded for any of them.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 31318 | Bensodyl 7.5mg/6mg Mouth Wash | Mouth wash, 100 ml bottle | Not recorded |
-| 59047 | Dresin Mouthwash & Gargle | Gargle, 100 ml bottle | Not recorded |
-| 216902 | Tantum Gel | Dental gel, 20 g tube | Not recorded |
-| 215239 | Tantum Oral rinse | Mouth wash, 120 ml bottle | Not recorded |
-| 29594 | Benzyda 0.15% Mouth Wash | Mouth wash, 200 ml bottle | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 26529 | B Mine Mouth Wash | Bottle of 200 ml Mouth Wash | Valid |
+| 26843 | Biqol Mouth Wash Alcohol Free | Bottle of 300 ml Mouth Wash | Valid |
+| 28475 | Biqol Mouth Wash | Bottle of 500 ml Mouth Wash | Valid |
+| 29344 | Bzynice Mouth Wash | Bottle of 300 ml Mouth Wash | Valid |
+| 29594 | Benzyda 0.15% Mouth Wash | Bottle of 200 ml Mouth Wash | Valid |
+| 31318 | Bensodyl 7.5mg/6mg Mouth Wash | Bottle of 100 ml Mouth Wash | Valid |
+| 59047 | Dresin Mouthwash & Gargle | Bottle of 100 ml Gargle | Valid |
+| 80300 | Edel Mouth Wash | Bottle of 500 ml Mouth Wash | Valid |
+| 95404 | Gositis Mouth Wash | Bottle of 450 ml Mouth Wash | Valid |
+| 133811 | Maxtra Gargle | Bottle of 120 ml Mouth Wash | Valid |
+| 133936 | Mucobenz Mouth Wash | Bottle of 500 ml Mouth Wash | Valid |
+| 136429 | Mucobenz Mouth Wash | Bottle of 200 ml Mouth Wash | Valid |
+| 162452 | Oralixir Mouth Wash | Bottle of 500 ml Mouth Wash | Valid |
+| 164404 | Ora-Ace Mouth Wash Alcohol Free | Bottle of 300 ml Mouth Wash | Valid |
+| 165112 | Oraeze Mouth Wash Mint | Bottle of 500 ml Mouth Wash | Valid |
+| 187793 | Ready Rinse Mouth Wash | Bottle of 150 ml Mouth Wash | Valid |
+| 200727 | Steri Mouth Wash | Bottle of 30 ml Mouth Wash | Valid |
+| 202210 | Steri Gargle | Bottle of 100 ml Gargle | Valid |
+| 215239 | Tantum Oral rinse | Bottle of 120 ml Mouth Wash | Valid |
+| 216902 | Tantum Gel | Tube of 20 gm Dental Gel | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

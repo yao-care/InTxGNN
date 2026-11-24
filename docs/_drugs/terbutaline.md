@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 821
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Terbutaline"
 predicted_indications: ["respiratory malformation", "Rienhoff syndrome"]
 description: "Terbutaline: predicted new indication Respiratory malformation (evidence level L5). In India: at least 20 listed products"
@@ -93,15 +93,38 @@ None of these papers studies respiratory malformation as a treatment target. The
 
 ## India Market Information
 
-Terbutaline is marketed in India as single-ingredient products. All records in the data compiled for this report are valid, and the list below may be partial. The approved indication text is not recorded in the local data.
+Terbutaline is marketed in India as single-ingredient products. All records in the data compiled for this report are valid. The approved indication text is not recorded in the local data.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 27654 | Bricanyl 0.5mg Injection (AstraZeneca) | Vial of 1 ml injection | Not stated |
-| 140276 | MT 4 Syrup (Abron Healthcare) | Bottle of 100 ml syrup | Not stated |
-| 202119 | Somavent Forte AF Tablet (Somatico Pharmacal) | Strip of 10 tablets | Not stated |
-| 67051 | Doxofast T 5mg/400mg Tablet (Innovative Pharmaceuticals) | Strip of 10 tablets | Not stated |
-| 27321 | Bronchosolvin Syrup (Ipca Laboratories) | Bottle of 60 ml syrup | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 8840 | Ambro S 1.25mg/15mg Syrup | Bottle of 100 ml Syrup | Valid |
+| 8987 | Algnil CF Syrup | Bottle of 100 ml Syrup | Valid |
+| 13462 | Ambodex TR Syrup | Bottle of 100 ml Syrup | Valid |
+| 17290 | Amlotus P Syrup | Bottle of 100 ml Syrup | Valid |
+| 27321 | Bronchosolvin Syrup | Bottle of 60 ml Syrup | Valid |
+| 27654 | Bricanyl 0.5mg Injection | Vial of 1 ml Injection | Valid |
+| 46209 | Cosox Syrup | Bottle of 60 ml Syrup | Valid |
+| 67051 | Doxofast T 5mg/400mg Tablet | Strip of 10 tablets | Valid |
+| 78472 | Edvent P Syrup | Bottle of 30 ml Syrup | Valid |
+| 112573 | Inkuf-TR Syrup | Bottle of 100 ml Syrup | Valid |
+| 118010 | Korf P Syrup | Bottle of 100 ml Syrup | Valid |
+| 127091 | Levovent Kid Syrup | Bottle of 60 ml Syrup | Valid |
+| 138218 | MT 4 Syrup | Bottle of 60 ml Syrup | Valid |
+| 140276 | MT 4 Syrup | Bottle of 100 ml Syrup | Valid |
+| 141935 | Mucosma-T 2.5mg/400mg Tablet | Strip of 10 tablets | Valid |
+| 189538 | Rescu X Syrup | Bottle of 100 ml Syrup | Valid |
+| 202119 | Somavent Forte AF Tablet | Strip of 10 tablets | Valid |
+| 222644 | Terfex Syrup | Bottle of 100 ml Syrup | Valid |
+| 225976 | Torexo-BR Syrup | Bottle of 100 ml Syrup | Valid |
+| 229802 | Tersus BR Kid Syrup | Bottle of 60 ml Syrup | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ---
 

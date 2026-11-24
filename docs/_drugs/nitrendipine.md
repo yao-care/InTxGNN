@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 600
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 description: "Nitrendipine: predicted new indication Migraine disorder (evidence level L5). Approved use: Mild to moderate hypertension"
 monitor_inn: "Nitrendipine"
 drugbank_id: DB01054
@@ -104,7 +104,6 @@ Comparison with other predicted indications:
 | [1339619](https://pubmed.ncbi.nlm.nih.gov/1339619/) | 1992 | Comparative study | Zhonghua Jie He He Hu Xi Za Zhi | Captopril and nitrendipine both lowered pulmonary artery pressure in pigs with acute hypoxic pulmonary hypertension |
 | [7712585](https://pubmed.ncbi.nlm.nih.gov/7712585/) | 1994 | Animal study | Zhonghua Jie He He Hu Xi Za Zhi | Nitrendipine, nifedipine and L-arginine helped prevent chronic intermittent hypoxic pulmonary hypertension in rats |
 
-
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
 | [1920816](https://pubmed.ncbi.nlm.nih.gov/1920816/) | 1991 | Clinical study (single-blind, 21 patients) | Jpn Heart J | Anginal attacks fell significantly from 2.1 to 0.7 per day on nitrendipine 10 to 20 mg daily |
@@ -114,10 +113,16 @@ Comparison with other predicted indications:
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Registration No. 53595 | Cardif 10mg Tablet | Strip of 10 tablets | Not stated in the licence record |
-| Registration No. 45718 | Cardif 20mg Tablet | Strip of 10 tablets | Not stated in the licence record |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 45718 | Cardif 20mg Tablet | Strip of 10 tablets | Valid |
+| 53595 | Cardif 10mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 Both are valid single-ingredient oral products from Concept Pharmaceuticals Ltd.
 

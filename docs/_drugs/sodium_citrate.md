@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 778
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 monitor_inn: "Sodium citrate"
 predicted_indications: ["papillary conjunctivitis", "nasal cavity disease", "stomach disease", "postgastrectomy syndrome", "gastroduodenitis", "familial visceral myopathy", "rosacea conjunctivitis", "allergic urticaria"]
 description: "Sodium Citrate: predicted new indication Papillary conjunctivitis (evidence level L5). In India: 2 listed products (2 not discontinued)"
@@ -81,10 +81,16 @@ Currently no related literature available.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 201195 | Serocit 46.7% Injection | Vial of 1 injection | Not stated |
-| 36112 | Cool Syrup | Bottle of 200 ml syrup | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 36112 | Cool Syrup | Bottle of 200 ml Syrup | Valid |
+| 201195 | Serocit 46.7% Injection | Vial of 1 Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ---
 

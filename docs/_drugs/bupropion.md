@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 10
 monitor_inn: "Bupropion"
 predicted_indications: ["attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type", "faciodigitogenital syndrome", "specific developmental disorder", "chondromyxoid fibroma", "proximal 16p11.2 microdeletion syndrome", "hypervitaminosis", "benign paroxysmal torticollis of infancy", "trigeminal nerve neoplasm", "obsolete hypertelorism (disease)"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Bupropion: predicted new indication attention deficit-hyperactivity disorder (evidence level L1). In India: at least 20 listed products"
 ---
 
@@ -84,13 +84,36 @@ Established ADHD treatments, such as stimulants and atomoxetine, act on these sa
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 25995 | Bupron XL 300 Tablet | Tablet (extended release) | Not recorded |
-| 3894 | Amfeta 150 Tablet ER | Tablet ER | Not recorded |
-| 31914 | Bupdep 150mg Tablet SR | Tablet SR | Not recorded |
-| 27796 | Brunojoy 150 Tablet ER | Tablet ER | Not recorded |
-| 247337 | Zyban 150mg Tablet SR | Tablet SR | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 3894 | Amfeta 150 Tablet ER | Strip of 10 tablet er | Valid |
+| 5995 | Atydep 150mg Tablet SR | Strip of 10 tablet sr | Valid |
+| 25780 | Bupron XL 150 Tablet | Strip of 10 tablet mr | Valid |
+| 25995 | Bupron XL 300 Tablet | Strip of 10 Tablet pr | Valid |
+| 26595 | Buxon XL 150 Tablet | Strip of 10 tablet mr | Valid |
+| 26878 | Bupioset 150 Tablet PR | Strip of 10 Tablet pr | Valid |
+| 27005 | Bupro 150mg Tablet SR | Strip of 10 tablet sr | Valid |
+| 27277 | Bupron 100mg Tablet SR | Strip of 10 tablet sr | Valid |
+| 27491 | Buropin XL 150mg Tablet | Strip of 10 tablet er | Valid |
+| 27796 | Brunojoy 150 Tablet ER | Strip of 10 tablet er | Valid |
+| 28330 | Buprod 150mg Tablet ER | Strip of 10 tablet er | Valid |
+| 28931 | Bupep 150mg Tablet SR | Strip of 10 tablet sr | Valid |
+| 29320 | Bupozen 300 Tablet ER | Strip of 10 tablet er | Valid |
+| 29654 | Brunojoy 300 Tablet ER | Strip of 10 tablet er | Valid |
+| 30321 | Buplus 150mg Tablet | Strip of 10 tablets | Valid |
+| 31280 | Buproking 150mg Tablet SR | Strip of 10 tablet sr | Valid |
+| 31914 | Bupdep 150mg Tablet SR | Strip of 10 tablet sr | Valid |
+| 157666 | Nicoalarm 150mg Tablet SR | Strip of 10 tablet sr | Valid |
+| 183355 | Qdep 150mg Tablet SR | Strip of 10 tablet sr | Valid |
+| 247337 | Zyban 150mg Tablet SR | Strip of 10 tablet sr | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 The licence list is partial; there are at least 20 valid single-ingredient licences in total.
 

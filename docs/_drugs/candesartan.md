@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 137
 evidence_level: L2
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Candesartan"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "pulmonary hypertension", "Prinzmetal angina", "kyphoscoliotic heart disease", "atrophoderma vermiculata", "ulerythema ophryogenesis", "benign prostatic hyperplasia (disease)", "alopecia"]
 description: "Candesartan: predicted new indication Migraine disorder (evidence level L2). In India: 20 listed products (20 not discontinued)"
@@ -86,13 +86,34 @@ Several guideline-oriented reviews list candesartan as a preventive option for m
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 37021 | Candesar 4mg Tablet (Sun Pharmaceutical Industries Ltd) | Strip of 10 tablets | Not stated |
-| 38999 | Cantar 8mg Tablet (Dr Reddy's Laboratories Ltd) | Strip of 10 tablets | Not stated |
-| 36620 | Candelong 8mg Tablet (Micro Labs Ltd) | Strip of 10 tablets | Not stated |
-| 39959 | Canditor 8 Tablet (Johnlee Pharmaceuticals Pvt Ltd) | Strip of 10 tablets | Not stated |
-| 44780 | Candosa 8 Tablet (AAR ESS Remedies Pvt Ltd) | Strip of 10 tablets | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 2234 | Actinsar 8 Tablet | Strip of 10 tablets | Valid |
+| 3776 | Actinsar 16mg Tablet | Strip of 10 tablets | Valid |
+| 36620 | Candelong 8mg Tablet | Strip of 10 tablets | Valid |
+| 36832 | Candelong 16mg Tablet | Strip of 10 tablets | Valid |
+| 37021 | Candesar 4mg Tablet | Strip of 10 tablets | Valid |
+| 38999 | Cantar 8mg Tablet | Strip of 10 tablets | Valid |
+| 39027 | Canditor 16 Tablet | Strip of 10 tablets | Valid |
+| 39211 | Cantar 4mg Tablet | Strip of 10 tablets | Valid |
+| 39600 | Candestan 8mg Tablet | Strip of 10 tablets | Valid |
+| 39959 | Canditor 8 Tablet | Strip of 10 tablets | Valid |
+| 40560 | Candelong 4mg Tablet | Strip of 10 tablets | Valid |
+| 40612 | Candestan 4mg Tablet | Strip of 10 tablets | Valid |
+| 40920 | Cantar 16mg Tablet | Strip of 10 tablets | Valid |
+| 41783 | Candosa-CT Tablet | Strip of 10 tablets | Valid |
+| 42942 | Candosa 4 Tablet | Strip of 10 tablets | Valid |
+| 43185 | Candelong H 8mg/12.5mg Tablet | Strip of 10 tablets | Valid |
+| 44714 | Canditor 4 Tablet | Strip of 10 tablets | Valid |
+| 44780 | Candosa 8 Tablet | Strip of 10 tablets | Valid |
+| 117180 | Kandisar 8mg Tablet | Strip of 10 tablets | Valid |
+| 118994 | Kandisar 4mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 All 20 licences in the local data are valid. The approved indication is not recorded in the local data.
 

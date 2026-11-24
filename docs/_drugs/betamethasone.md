@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 106
 evidence_level: L4
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Betamethasone"
 predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions"]
 description: "Betamethasone: predicted new indication Alopecia mucinosa (evidence level L4). In India: at least 20 listed products"
@@ -71,15 +71,38 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-At least 20 valid single-ingredient licences are recorded, and the list may be partial. Licence records carry no approved-indication text. Main authorizations:
+At least 20 valid single-ingredient licences are recorded, and the list may be partial. Licence records carry no approved-indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 26850 | Besole 0.5mg Tablet | Strip of 10 tablets | Not stated in the licence record |
-| 27072 | Betnevin 4mg Injection | Vial of 1 ml injection | Not stated in the licence record |
-| 139463 | Mycopar Cream | Tube of 5 gm cream | Not stated in the licence record |
-| 38129 | Celestone 0.5mg Oral Drops | Bottle of 10 ml oral drops | Not stated in the licence record |
-| 25777 | Betnesol Oral Drops | Packet of 15 ml oral drops | Not stated in the licence record |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 25777 | Betnesol Oral Drops | Packet of 15 ml Oral Drops | Valid |
+| 26149 | Betamine Forte Tablet | Strip of 10 tablets | Valid |
+| 26850 | Besole 0.5mg Tablet | Strip of 10 tablets | Valid |
+| 27072 | Betnevin 4mg Injection | Vial of 1 ml Injection | Valid |
+| 27244 | Betacon 0.5mg Tablet | Strip of 10 tablets | Valid |
+| 27357 | Betalar S 0.5mg Tablet | Strip of 10 tablets | Valid |
+| 27657 | Betanij 0.5mg Tablet | Strip of 10 tablets | Valid |
+| 28818 | Betni White 0.5mg Tablet | Bottle of 100 tablets | Valid |
+| 29922 | Betalide 0.5mg Tablet | Strip of 10 tablets | Valid |
+| 38129 | Celestone 0.5mg Oral Drops | Bottle of 10 ml Oral Drops | Valid |
+| 47964 | Cortisal Ointment | Tube of 20 gm Ointment | Valid |
+| 97239 | Glysalic Ointment | Tube of 20 gm Ointment | Valid |
+| 139463 | Mycopar Cream | Tube of 5 gm Cream | Valid |
+| 142994 | Medilan Retard Tablet | Strip of 10 tablets | Valid |
+| 182866 | Quadriline Ointment | Tube of 15 gm Ointment | Valid |
+| 183000 | Quadriderm AF Ointment | Tube of 5 gm Ointment | Valid |
+| 183264 | Quadrim Mix Cream | Tube of 10 gm Cream | Valid |
+| 205875 | Solubet 5mg Injection | Vial of 1 ml Injection | Valid |
+| 209788 | Solubin N Ointment | Tube of 5 gm Ointment | Valid |
+| 231281 | Uniderm NF Cream | Tube of 5 gm Cream | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 Other formulations on the market include ointments and oral drops.
 

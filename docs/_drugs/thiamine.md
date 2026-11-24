@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Thiamine"
 predicted_indications: ["resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "primary hereditary glaucoma", "open-angle glaucoma"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Thiamine: predicted new indication resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta (evidence level L5). Approved use: Not available"
 ---
 
@@ -82,15 +82,38 @@ For open-angle glaucoma (abstracts were truncated, so the summaries below rely o
 
 ## India Market Information
 
-At least 20 licences are recorded for single-ingredient thiamine products (the list may be partial). None of the records include approved indication text. Five examples:
+At least 20 licences are recorded for single-ingredient thiamine products (the list may be partial). None of the records include approved indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 136127 | Macraberin Forte Injection | Vial of 2 ml injection | Not stated in records |
-| 218000 | Thi 100mg Injection | Vial of 2 ml injection | Not stated in records |
-| 157754 | Nexmin 100mg Injection | Vial of 2 ml injection | Not stated in records |
-| 28629 | B Colex Injection | Vial of 1 ml injection | Not stated in records |
-| 248276 | Zeba Syrup | Bottle of 200 ml syrup | Not stated in records |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 1257 | Amintoz Injection | Vial of 1 ml Injection | Valid |
+| 11723 | Aminemeg 100mg Injection | Vial of 2 ml Injection | Valid |
+| 26371 | Beplex Plus Injection | Vial of 11 ml Injection | Valid |
+| 28629 | B Colex Injection | Vial of 1 ml Injection | Valid |
+| 40615 | Cadiplex Injection | Vial of 10 ml Injection | Valid |
+| 135633 | Multi 8 Injection | Ampoule of 2 ml Injection | Valid |
+| 136127 | Macraberin Forte Injection | Vial of 2 ml Injection | Valid |
+| 152955 | Neuthia 200mg Injection | Vial of 2 ml Injection | Valid |
+| 157754 | Nexmin 100mg Injection | Vial of 2 ml Injection | Valid |
+| 215451 | Triredisol H Injection | Vial of 5 ml Injection | Valid |
+| 218000 | Thi 100mg Injection | Vial of 2 ml Injection | Valid |
+| 218110 | Thiaplex 200mg Injection | Vial of 2 ml Injection | Valid |
+| 220137 | Thiakem 100mg Injection | Vial of 2 ml Injection | Valid |
+| 220747 | Thicure 100mg Injection | Vial of 2 ml Injection | Valid |
+| 222050 | Thiostar B1 100mg Injection | Vial of 2 ml Injection | Valid |
+| 222983 | Thiacare 100mg Injection | Ampoule of 2 ml Injection | Valid |
+| 225469 | Thialine 100mg Injection | Vial of 1 Injection | Valid |
+| 226511 | Thinerve Injection | Ampoule of 2 ml Injection | Valid |
+| 227651 | Thiamarv 100mg Injection | Vial of 2 ml Injection | Valid |
+| 248276 | Zeba Syrup | Bottle of 200 ml Syrup | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 Nearly all listed products are injectables. The only exception is one oral syrup.
 

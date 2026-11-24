@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 553
 evidence_level: L3
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Milnacipran"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "tendinitis", "papillary conjunctivitis", "myositis fibrosa", "idiopathic granulomatous myositis", "inclusion body myositis", "atrophoderma vermiculata", "cauda equina syndrome"]
 description: "Milnacipran: predicted new indication Migraine disorder (evidence level L3). In India: 11 listed products (11 not discontinued)"
@@ -81,13 +81,25 @@ The prediction should be treated as a research hypothesis. The other predicted i
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 137396 | Milnace 25 Tablet (Torrent Pharmaceuticals Ltd) | Strip of 10 tablets | Not stated |
-| 137660 | Milnace 50 Tablet (Torrent Pharmaceuticals Ltd) | Strip of 10 tablets | Not stated |
-| 137571 | Milza 25 Capsule (Intas Pharmaceuticals Ltd) | Strip of 10 capsules | Not stated |
-| 137928 | Milza 50mg Capsule (Intas Pharmaceuticals Ltd) | Strip of 10 capsules | Not stated |
-| 146441 | Milpran 25mg Capsule (Ajanta Pharma Ltd) | Strip of 10 capsules | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 84676 | Fibrocet 25 Tablet | Strip of 10 tablets | Valid |
+| 84845 | Fibrocet 50 Tablet | Strip of 10 tablets | Valid |
+| 137396 | Milnace 25 Tablet | Strip of 10 tablets | Valid |
+| 137571 | Milza 25 Capsule | Strip of 10 capsules | Valid |
+| 137660 | Milnace 50 Tablet | Strip of 10 tablets | Valid |
+| 137928 | Milza 50mg Capsule | Strip of 10 capsules | Valid |
+| 141099 | Milipran 25mg Tablet | Strip of 10 tablets | Valid |
+| 146173 | Milipran 50mg Tablet | Strip of 10 tablets | Valid |
+| 146441 | Milpran 25mg Capsule | Strip of 10 capsules | Valid |
+| 250849 | Zesnil 25mg Tablet | Strip of 10 tablets | Valid |
+| 252565 | Zesnil 50mg Capsule | Strip of 10 capsules | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 All 11 registrations are valid single-ingredient products. None has been cancelled.
 

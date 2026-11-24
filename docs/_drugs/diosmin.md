@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 274
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Diosmin: predicted new indication Amenorrhea (evidence level L5). Approved use: Not stated on the India licences (indication text is blank)"
 monitor_inn: "Diosmin"
 predicted_indications: ["amenorrhea (disease)"]
@@ -68,21 +68,39 @@ Currently no related literature available.
 
 ## India Market Information
 
-Diosmin has 17 valid registrations in India and no cancelled ones. Five main authorisations are listed below. The approved-indication text is blank on all of them.
+All diosmin registrations in India are valid, and none are cancelled. The approved-indication text is blank on all of them.
 
 <!-- review:begin in-lic-20261106-diosmin-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "Diosmin has 17 valid single-ingredient registrations in India and no cancelled ones." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+> **Review correction (2026-11-24)**: Originally stated: "Diosmin has 17 valid single-ingredient registrations in India and no cancelled ones." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Revised 2026-11-24: the hard-coded number of records and the wording about the old table were dropped; the Quick Overview and the product table under India Market Information show the current figures. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
 
 <!-- review:end in-lic-20261106-diosmin-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 104457 | Hesdin Tablet | Strip of 15 tablets | Not specified |
-| 58244 | Daflon 500 MG Tablet | Strip of 10 tablets | Not specified |
-| 58279 | Daflon 1000mg Tablet | Strip of 10 tablets | Not specified |
-| 133 | Aldosmin 500mg Tablet | Strip of 10 tablets | Not specified |
-| 230756 | Ubicar Cream | Tube of 30 gm cream | Not specified |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 133 | Aldosmin 500mg Tablet | Strip of 10 tablets | Valid |
+| 165 | Aldosmin 1000mg Tablet | Strip of 10 tablets | Valid |
+| 58244 | Daflon 500 MG Tablet | Strip of 10 tablets | Valid |
+| 58279 | Daflon 1000mg Tablet | Strip of 10 tablets | Valid |
+| 58420 | Dezoflav Tablet | Strip of 10 tablets | Valid |
+| 58950 | Dosmin 300mg Tablet | Strip of 10 tablets | Valid |
+| 104457 | Hesdin Tablet | Strip of 15 tablets | Valid |
+| 186611 | Ruflet Tablet | Strip of 10 tablets | Valid |
+| 189107 | Ruflet 1000 Tablet | Strip of 10 tablets | Valid |
+| 200303 | Samflav 900mg/100mg Tablet | Strip of 10 tablets | Valid |
+| 230756 | Ubicar Cream | Tube of 30 gm Cream | Valid |
+| 233251 | Venusmin 300 Tablet | Strip of 10 tablets | Valid |
+| 233320 | Venusmin 900 Tablet | Strip of 10 tablets | Valid |
+| 233396 | Venusmin 450 Tablet | Strip of 10 tablets | Valid |
+| 233559 | Venusmin 150 Tablet | Strip of 10 tablets | Valid |
+| 233727 | Venostor 500 Tablet | Strip of 10 tablets | Valid |
+| 233960 | Veinmax Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 Most products are oral tablets. One topical cream (Ubicar Cream) is also registered.
 
@@ -111,7 +129,7 @@ Below is the review log for this page: statements checked against official India
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-24 | Removed: "single-ingredient" | Corrected (revised 2026-11-24; earlier version kept in the record) | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 | 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL231884 (diosmin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL231884) |
 
 <!-- review:end log -->

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 361
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Fludrocortisone: predicted new indication Primary cutaneous T-cell lymphoma (evidence level L5). Approved use: Not stated in the licence data compiled for this report"
 monitor_inn: "Fludrocortisone"
 predicted_indications: ["primary cutaneous T-cell lymphoma", "cystic teratoma", "spinal cord dermoid cyst", "dermoid cyst of ovary", "disease of orbital part of eye adnexa", "eye disease", "disease of orbital region", "exostosis"]
@@ -95,11 +95,17 @@ No literature was found for primary cutaneous T-cell lymphoma. The table below c
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 136024 | Minocort Tablet | Strip of 10 tablets | Not stated |
-| 85156 | Fludrol Tablet | Strip of 10 tablets | Not stated |
-| 84139 | Floricot Tablet | Strip of 10 tablets | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 84139 | Floricot Tablet | Strip of 10 tablets | Valid |
+| 85156 | Fludrol Tablet | Strip of 10 tablets | Valid |
+| 136024 | Minocort Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 All three registrations are valid single-ingredient oral products.
 

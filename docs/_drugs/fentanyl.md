@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 345
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Fentanyl: predicted new indication Nephrogenic syndrome of inappropriate antidiuresis (evidence level L5). Approved use: Not stated in the available India licence records"
 monitor_inn: "Fentanyl"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "Tourette syndrome"]
@@ -82,15 +82,31 @@ Currently no related literature available.
 
 ## India Market Information
 
-All 15 registrations are valid single-ingredient products, and none has been cancelled. The main authorisations are listed below. The licence records contain no approved indication text.
+All 15 registrations are valid single-ingredient products, and none has been cancelled. The licence records contain no approved indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 59004 | Durogesic 25mcg Patch (Janssen Pharmaceuticals) | Packet of 3 transdermal patches | Not stated |
-| 59860 | Durogesic 50mcg Patch (Janssen Pharmaceuticals) | Packet of 3 transdermal patches | Not stated |
-| 85177 | Fendrop 25mcg Patch (Sun Pharmaceutical Industries) | Packet of 1 transdermal patch | Not stated |
-| 164595 | Opifent 500 Injection (Varenyam Healthcare) | Ampoule of 10 ml injection | Not stated |
-| 84345 | Fent 50mcg Injection (Neon Laboratories) | Vial of 2 ml injection | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 59004 | Durogesic 25mcg Patch | Packet of 3 transdermal patches | Valid |
+| 59860 | Durogesic 50mcg Patch | Packet of 3 transdermal patches | Valid |
+| 84345 | Fent 50mcg Injection | Vial of 2 ml Injection | Valid |
+| 84738 | Fentrans 25mcg Transdermal Patch | Box of 3 transdermal patches | Valid |
+| 84753 | Fenstud 50mcg Injection | Vial of 2 ml Injection | Valid |
+| 85177 | Fendrop 25mcg Patch | Packet of 1 Transdermal Patch | Valid |
+| 85214 | Fenspar 50mg Patch | Box of 3 patches | Valid |
+| 85495 | Fenspar 25mg Patch | Box of 3 patches | Valid |
+| 86021 | Fendrop 50mcg Patch | Packet of 1 Transdermal Patch | Valid |
+| 86097 | Fenspar 12.5mg Patch | Box of 3 patches | Valid |
+| 86185 | Fentrans 50mcg Transdermal Patch | Box of 3 transdermal patches | Valid |
+| 163854 | Opifent 100 Injection | Ampoule of 2 ml Injection | Valid |
+| 164595 | Opifent 500 Injection | Ampoule of 10 ml Injection | Valid |
+| 219914 | Trofentyl 50mcg Injection | Ampoule of 10 ml Injection | Valid |
+| 233807 | Verfen Injection | Ampoule of 10 ml Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 Available forms are transdermal patches and injectables.
 

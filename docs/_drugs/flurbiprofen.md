@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 372
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Flurbiprofen"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "hypermobility of coccyx"]
 description: "Flurbiprofen: predicted new indication Acromesomelic dysplasia, Hunter-Thompson type (evidence level L5). In India: at least 20 listed products"
@@ -71,15 +71,38 @@ Currently no related literature available.
 
 ## India Market Information
 
-At least 20 licences are recorded, all valid, and this list may be partial. The main ones are listed below; none of the records carries approved-indication text.
+At least 20 licences are recorded, all valid, and this list may be partial. None of the records carries approved-indication text.
 
-| Authorization Number | Product Name | Dosage Form |
-|---------|------|------|
-| 136158 | Migrid 10mg Tablet | Strip of 10 tablets (oral) |
-| 139138 | Migrid 5mg Tablet | Strip of 10 tablets (oral) |
-| 97660 | Gatidrops FP Eye Drop | Bottle of 5 ml eye drop |
-| 164804 | Ocuflur Eye Ointment | Tube of 5 gm eye ointment |
-| 84289 | Flur Ophthalmic Solution | Packet of 10 ml ophthalmic solution |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 4457 | Aflur Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 8562 | Aroflur Eye Drop | Bottle of 5 ml Ophthalmic Solution | Valid |
+| 29833 | Bellflur Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 77341 | Eyeflur Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 84289 | Flur Ophthalmic Solution | Packet of 10 ml Ophthalmic Solution | Valid |
+| 84393 | Flubigat Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 88294 | Flufen Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 89879 | Flugati Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 91149 | Flurac Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 97440 | Gatifax F Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 97660 | Gatidrops FP Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 97695 | Gaticon-F Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 124151 | Lufen Eye Drop | Packet of 5 ml Ophthalmic Solution | Valid |
+| 127186 | Lumat Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 136158 | Migrid 10mg Tablet | Strip of 10 tablets | Valid |
+| 139138 | Migrid 5mg Tablet | Strip of 10 tablets | Valid |
+| 164804 | Ocuflur Eye Ointment | Tube of 5 gm Eye Ointment | Valid |
+| 166621 | Ocupen 0.03% Eye Drop | Bottle of 5 ml Ophthalmic Solution | Valid |
+| 178957 | Proflur Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 227070 | Tofler Eye Drop | Packet of 5 ml Eye Drop | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

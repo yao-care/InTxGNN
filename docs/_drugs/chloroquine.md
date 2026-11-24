@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Chloroquine"
 predicted_indications: ["rheumatoid factor-positive polyarticular juvenile idiopathic arthritis", "rheumatoid nodulosis", "juvenile chronic polyarthritis", "juvenile idiopathic arthritis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Chloroquine: predicted new indication rheumatoid factor-positive polyarticular juvenile idiopathic arthritis (evidence level L5). In India: at least 20 listed products"
 ---
 
@@ -74,15 +74,38 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-At least 20 valid single-ingredient registrations are recorded; the list may be partial. Approved indication text is not recorded in the local data. Main products:
+At least 20 valid single-ingredient registrations are recorded; the list may be partial. Approved indication text is not recorded in the local data.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 144057 | Malaquin 250mg Suspension | Bottle of 60 ml suspension | Not recorded |
-| 184408 | Resochin Tablet | Strip of 10 tablets | Not recorded |
-| 18912 | Amoquin 50mg Syrup | Bottle of 60 ml syrup | Not recorded |
-| 147598 | Malswift 40mg Injection | Vial of 30 ml injection | Not recorded |
-| 148233 | Malgo 250mg Tablet | Strip of 10 tablets | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 18912 | Amoquin 50mg Syrup | Bottle of 60 ml Syrup | Valid |
+| 24267 | Arquin 250mg Syrup | Bottle of 450 ml Syrup | Valid |
+| 32661 | Bitaquine 40mg Injection | Vial of 30 ml Injection | Valid |
+| 32698 | Babyquin 125mg Syrup | Bottle of 60 ml Syrup | Valid |
+| 33730 | Babyquin 80mg Drop | Packet of 15 ml Drop | Valid |
+| 42381 | Ceequine 250mg Tablet | Strip of 10 tablets | Valid |
+| 79394 | Emquin 64.5mg Injection | Vial of 15 ml Injection | Valid |
+| 127608 | Leoquin EC 250mg Tablet | Strip of 10 tablets | Valid |
+| 128289 | Lariquin 500mg Tablet | Strip of 10 tablets | Valid |
+| 139540 | Malacure 250mg Tablet | Strip of 10 tablets | Valid |
+| 144057 | Malaquin 250mg Suspension | Bottle of 60 ml Suspension | Valid |
+| 144526 | Malabest 250mg Tablet | Bottle of 100 tablets | Valid |
+| 147098 | Malarbin 50mg Suspension | Bottle of 60 ml Suspension | Valid |
+| 147598 | Malswift 40mg Injection | Vial of 30 ml Injection | Valid |
+| 148233 | Malgo 250mg Tablet | Strip of 10 tablets | Valid |
+| 180500 | Paraquin DS 500mg Tablet | Strip of 6 tablets | Valid |
+| 184048 | Quinowin 250mg Tablet | Strip of 10 tablets | Valid |
+| 184408 | Resochin Tablet | Strip of 10 tablets | Valid |
+| 197203 | Rimoquin Injection | Vial of 30 ml Injection | Valid |
+| 197396 | Ros Q 500mg Tablet | Strip of 6 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

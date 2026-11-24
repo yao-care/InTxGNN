@@ -8,7 +8,7 @@ indication_count: 8
 monitor_inn: "Zaltoprofen"
 drugbank_id: DB06737
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "headache disorder", "trigeminal autonomic cephalalgia", "tendinitis", "idiopathic granulomatous myositis"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 description: "Zaltoprofen: predicted new indication Migraine disorder (evidence level L5). Approved use: Not stated in the licence record"
 ---
 
@@ -79,9 +79,15 @@ Across the lower-ranked predictions, one publication was supplied, listed under 
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Registration No. 248794 | ZP 80mg Tablet (Wezen Chemicals Pvt Ltd) | Strip of 10 tablets | Not stated in the licence record |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 248794 | ZP 80mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 This is a single-ingredient oral product. The only registration is valid.
 

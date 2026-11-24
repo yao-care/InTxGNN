@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 649
 evidence_level: L3
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Pazopanib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "heart fibrosarcoma", "fibroblastic neoplasm", "kidney fibrosarcoma", "dermatofibrosarcoma protuberans"]
 description: "Pazopanib: predicted new indication Liposarcoma (evidence level L3). In India: 7 listed products (7 not discontinued)"
@@ -116,13 +116,21 @@ The most relevant trials for the best-supported sarcoma predictions are shown be
 
 Approved indication text is blank in the licence records.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| 233990 | Votrient 200mg Tablet | Bottle of 30 tablets | Glaxo SmithKline Pharmaceuticals Ltd |
-| 233449 | Votrient 400mg Tablet | Strip of 30 tablets | Glaxo SmithKline Pharmaceuticals Ltd |
-| 177899 | Pazoci 200 Tablet | Bottle of 30 tablets | Cipla Ltd |
-| 174988 | Pazoci 400 Tablet | Bottle of 30 tablets | Cipla Ltd |
-| 180225 | Pazocam 200mg Tablet | Bottle of 30 tablets | Medicamen Biotech Ltd |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 174988 | Pazoci 400 Tablet | Bottle of 30 tablets | Valid |
+| 175799 | Pazocam 400mg Tablet | Bottle of 30 tablets | Valid |
+| 177899 | Pazoci 200 Tablet | Bottle of 30 tablets | Valid |
+| 178266 | Pazliz 400 Tablet | Bottle of 30 tablets | Valid |
+| 180225 | Pazocam 200mg Tablet | Bottle of 30 tablets | Valid |
+| 233449 | Votrient 400mg Tablet | Strip of 30 tablets | Valid |
+| 233990 | Votrient 200mg Tablet | Bottle of 30 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 Two further registrations exist: Pazocam 400mg Tablet (175799) and Pazliz 400 Tablet (178266). All 7 registrations are valid single-ingredient oral tablets.
 

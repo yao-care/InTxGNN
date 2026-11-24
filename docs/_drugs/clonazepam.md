@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 3
 monitor_inn: "Clonazepam"
 predicted_indications: ["restless legs syndrome", "insomnia (disease)", "trigeminal nerve neoplasm"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Clonazepam: predicted new indication restless legs syndrome (evidence level L3). In India: at least 20 listed products"
 ---
 
@@ -93,15 +93,38 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-Clonazepam is marketed in India. The data compiled for this report show at least 20 valid single-ingredient records, none cancelled; the list may be partial. The records carry no approved-indication text. Main entries:
+Clonazepam is marketed in India. The data compiled for this report show at least 20 valid single-ingredient records, none cancelled; the list may be partial. The records carry no approved-indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 41018 | Clone 0.5mg Tablet MD | Strip of 10 tablet MD | Not recorded |
-| 51272 | Cnzep 1mg Tablet | Strip of 10 tablets | Not recorded |
-| 43753 | Clonatrix 1mg Tablet | Strip of 10 tablets | Not recorded |
-| 35586 | Clozepam 0.5mg Tablet MD | Strip of 10 tablet MD | Not recorded |
-| 36076 | Clonorest 0.25mg Tablet | Strip of 10 tablets | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 35586 | Clozepam 0.5mg Tablet MD | Strip of 10 tablet md | Valid |
+| 36076 | Clonorest 0.25mg Tablet | Strip of 10 tablets | Valid |
+| 37498 | Cnzep 0.25mg Tablet | Strip of 10 tablets | Valid |
+| 40554 | Clodep Plus 0.5 mg/10 mg Tablet | Strip of 10 tablets | Valid |
+| 41018 | Clone 0.5mg Tablet MD | Strip of 10 tablet md | Valid |
+| 41937 | Cipradep Lite 0.25mg/10mg Tablet | Strip of 10 tablets | Valid |
+| 43753 | Clonatrix 1mg Tablet | Strip of 10 tablets | Valid |
+| 43805 | Clozepam 1mg Tablet | Strip of 10 tablets | Valid |
+| 51272 | Cnzep 1mg Tablet | Strip of 10 tablets | Valid |
+| 51726 | Clonosham 5mg Tablet | Strip of 10 tablets | Valid |
+| 73721 | Esnax Plus Tablet | Strip of 10 tablets | Valid |
+| 75335 | Ecopam-Plus Tablet | Strip of 10 tablets | Valid |
+| 78090 | Esride-Plus Tablet | Strip of 10 tablets | Valid |
+| 104110 | Hicalm Plus Tablet | Strip of 10 tablets | Valid |
+| 108067 | Itcalms Plus 5 Tablet | Strip of 10 tablets | Valid |
+| 125781 | Lonazit Plus 0.5mg/10mg Tablet | Strip of 10 tablets | Valid |
+| 152239 | Naze 0.25mg Tablet MD | Strip of 10 tablet md | Valid |
+| 168615 | Optyl-C 10 Tablet | Strip of 10 tablets | Valid |
+| 201415 | StayHappi Clonazepam+Escitalopram Oxalate 0.25mg/10mg Tablet | Strip of 10 tablets | Valid |
+| 247488 | Zpm-Plus Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ---
 

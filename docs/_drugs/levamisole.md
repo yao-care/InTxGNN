@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Levamisole"
 predicted_indications: ["drug-induced osteoporosis", "benign neoplasm of tongue", "cervical neuroblastoma", "epiglottis neoplasm", "benign neoplasm of buccal mucosa", "cystic neoplasm", "benign neoplasm of floor of mouth", "schwannoma of jugular foramen", "benign neoplasm of hypopharynx", "neoplasm of major salivary gland"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Levamisole: predicted new indication Drug-induced osteoporosis (evidence level L5). Approved use: Ascaridiasis and ancylostomiasis"
 ---
 
@@ -88,15 +88,38 @@ For context, other lower-ranked predictions have a small amount of indirect lite
 
 ## India Market Information
 
-At least 20 single-ingredient registrations were found; the list below may be partial. No approved indication text is recorded in these licence records.
+At least 20 single-ingredient registrations were found. No approved indication text is recorded in these licence records.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 123312 | Levomol 150mg Tablet | Strip of 1 tablet | Not stated |
-| 123339 | Levomol 50mg Tablet | Strip of 1 tablet | Not stated |
-| 75722 | Elseal 150mg Tablet | Strip of 4 tablets | Not stated |
-| 59226 | Deworm Syrup | Bottle of 10 ml syrup | Not stated |
-| 129627 | Leris 150mg Tablet | Strip of 2 tablets | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 15918 | Anthelnil 150mg Tablet | Strip of 10 tablets | Valid |
+| 58688 | Dicaris Adults Tablet | Strip of 1 Tablet | Valid |
+| 59226 | Deworm Syrup | Bottle of 10 ml Syrup | Valid |
+| 75722 | Elseal 150mg Tablet | Strip of 4 tablets | Valid |
+| 108422 | I-Caris 150mg Tablet | Strip of 1 Tablet | Valid |
+| 109360 | I-Caris Tablet | Strip of 4 tablets | Valid |
+| 123312 | Levomol 150mg Tablet | Strip of 1 Tablet | Valid |
+| 123339 | Levomol 50mg Tablet | Strip of 1 Tablet | Valid |
+| 123531 | Levotab Tablet | Strip of 4 tablets | Valid |
+| 123974 | Levazole 150 Tablet | Strip of 1 Tablet | Valid |
+| 125215 | Leesol 150mg Tablet | Strip of 10 tablets | Valid |
+| 126909 | Lemisol 150mg Tablet | Strip of 6 tablets | Valid |
+| 129627 | Leris 150mg Tablet | Strip of 2 tablets | Valid |
+| 233323 | Vermisol 150mg Tablet | Strip of 1 Tablet | Valid |
+| 233732 | Vitilex 50mg Tablet | Strip of 4 tablets | Valid |
+| 234966 | Vapal 150mg Tablet | Strip of 1 Tablet | Valid |
+| 235816 | Vitrex 50mg Tablet | Strip of 6 tablets | Valid |
+| 236091 | Vizole Suspension | Bottle of 10 ml Suspension | Valid |
+| 236621 | Vitcross Children 50 Tablet DT | Strip of 6 tablet dt | Valid |
+| 247417 | Zovorm 150mg Tablet | Strip of 1 Tablet | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ---
 

@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 639
 evidence_level: L4
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Palonosetron"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis"]
 description: "Palonosetron: predicted new indication Migraine disorder (evidence level L4). In India: 12 listed products (12 not discontinued)"
@@ -73,13 +73,26 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 178921 | Palibout 0.25 Injection | Vial of 5 ml injection | Not specified |
-| 8975 | Aloxy Capsule | Strip of 10 capsules | Not specified |
-| 178192 | Palostar 0.25mg Injection | Vial of 5 ml injection | Not specified |
-| 44732 | Chepatron 0.25mg Injection | Vial of 1 ml injection | Not specified |
-| 76668 | Emecad 0.25mg Injection | Vial of 5 ml injection | Not specified |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 8975 | Aloxy Capsule | Strip of 10 capsules | Valid |
+| 44732 | Chepatron 0.25mg Injection | Vial of 1 ml Injection | Valid |
+| 72641 | EME OD Tablet MD | Strip of 10 tablet md | Valid |
+| 76668 | Emecad 0.25mg Injection | Vial of 5 ml Injection | Valid |
+| 80688 | Emetran 72 Capsule | Strip of 5 capsules | Valid |
+| 174251 | Palnox 0.25mg Injection | Vial of 5 ml Injection | Valid |
+| 177649 | Palonew 0.25mg Injection | Vial of 5 ml Injection | Valid |
+| 178192 | Palostar 0.25mg Injection | Vial of 5 ml Injection | Valid |
+| 178921 | Palibout 0.25 Injection | Vial of 5 ml Injection | Valid |
+| 179699 | Pasetron Injection | Vial of 1 Injection | Valid |
+| 218262 | Themiset 0.25mg Injection | Vial of 5 ml Injection | Valid |
+| 225088 | Taxelap Injection | Vial of 5 ml Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 Twelve valid single-ingredient registrations are listed in total. Both injectable and oral forms are marketed.
 

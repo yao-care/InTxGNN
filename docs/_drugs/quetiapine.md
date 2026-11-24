@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 715
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Quetiapine: predicted new indication Retinal dystrophy with or without extraocular anomalies (evidence level L5). Approved use: Schizophrenia"
 monitor_inn: "Quetiapine"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "congenital disorder of glycosylation with defective fucosylation", "hydranencephaly (disease)", "distal 17p13.3 microdeletion syndrome", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "trichotillomania", "syndromic myopia", "myopia 26, X-linked, female-limited"]
@@ -80,15 +80,38 @@ Currently no related literature available.
 
 ## India Market Information
 
-Quetiapine is marketed in India as single-ingredient oral tablets, in both immediate-release and sustained-release (SR) forms. There are 20 valid registrations and none cancelled. Five are shown below. The licence records contain no approved-indication text.
+Quetiapine is marketed in India as single-ingredient oral tablets, in both immediate-release and sustained-release (SR) forms. There are 20 valid registrations and none cancelled. The licence records contain no approved-indication text.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| 183101 | Qtripil 50mg Tablet | Strip of 10 tablets | Arinna Lifescience Pvt Ltd |
-| 177775 | Pine 50mg Tablet | Strip of 10 tablets | Suraksha Pharma Pvt Ltd |
-| 183623 | Q-Zac 50 SR Tablet | Strip of 10 SR tablets | Dorris Pharmaceutical Pvt Ltd |
-| 182912 | Quel 100 Tablet | Strip of 10 tablets | Ipca Laboratories Ltd |
-| 208161 | Sera 200mg Tablet SR | Strip of 10 SR tablets | Curelogic Pharma |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 156836 | Neoquet 25 Tablet | Strip of 10 tablets | Valid |
+| 177775 | Pine 50mg Tablet | Strip of 10 tablets | Valid |
+| 182912 | Quel 100 Tablet | Strip of 10 tablets | Valid |
+| 182954 | Qutin 25mg Tablet | Strip of 10 tablets | Valid |
+| 182972 | Quticool 50mg Tablet | Strip of 10 tablets | Valid |
+| 182996 | Q-Siz 25 Tablet | Strip of 10 tablets | Valid |
+| 183048 | Qupin 50mg Tablet | Strip of 10 tablets | Valid |
+| 183076 | Qweb 25mg Tablet | Strip of 10 tablets | Valid |
+| 183101 | Qtripil 50mg Tablet | Strip of 10 tablets | Valid |
+| 183139 | Qpen 100mg Tablet | Strip of 10 tablets | Valid |
+| 183163 | Qtp 100mg Tablet | Strip of 10 tablets | Valid |
+| 183266 | Qupin 200mg Tablet SR | Strip of 10 tablet sr | Valid |
+| 183316 | Qutace 200mg Tablet SR | Strip of 10 tablet sr | Valid |
+| 183335 | Qutace 50mg Tablet | Strip of 10 tablets | Valid |
+| 183342 | Qutina 25mg Tablet SR | Strip of 10 tablet sr | Valid |
+| 183490 | Qtf 100mg Tablet SR | Strip of 10 tablet sr | Valid |
+| 183623 | Q-Zac 50 SR Tablet | Strip of 10 tablet sr | Valid |
+| 183699 | Quevo 50mg Tablet | Strip of 10 tablets | Valid |
+| 183798 | Quetivius 25mg Tablet | Strip of 10 tablets | Valid |
+| 208161 | Sera 200mg Tablet SR | Strip of 10 tablet sr | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ---
 

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 881
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Vancomycin: predicted new indication Diffuse scleroderma (evidence level L5). Approved use: Clostridium difficile colitis (also staphylococcal infections…"
 monitor_inn: "Vancomycin"
 predicted_indications: ["diffuse scleroderma", "paratyphoid fever", "salmonellosis", "congenital analbuminemia", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "typhoid fever", "blood group incompatibility", "streptococcal pneumonia", "premalignant hematological system disease"]
@@ -89,15 +89,38 @@ For the most relevant alternative prediction, streptococcal pneumonia, the best-
 
 ## India Market Information
 
-Twenty single-ingredient injectable licences are valid in India, with none cancelled. The data compiled for this report does not include approved indication text for any of them. Five main authorisations are listed below.
+Twenty single-ingredient injectable licences are valid in India, with none cancelled. The data compiled for this report does not include approved indication text for any of them.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 235916 | Vancoled 1gm Injection (Pfizer Ltd) | Vial of 1 injection | Not available |
-| 236610 | Vancoled 500mg Injection (Pfizer Ltd) | Vial of 1 injection | Not available |
-| 235341 | Vancocin 500mg Injection (Eli Lilly and Company India Pvt Ltd) | Vial of 1 injection | Not available |
-| 234558 | Vancocin CP 500mg Injection (AstraZeneca) | Vial of 10 ml injection | Not available |
-| 240618 | Vancomate 500mg Injection (Baxter India Pvt Ltd) | Vial of 1 injection | Not available |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 119513 | Kosvan 500mg Injection | Vial of 1 Injection | Valid |
+| 155175 | Nexivan 1gm Injection | Vial of 20 ml Injection | Valid |
+| 233499 | Vanking 500mg Injection | Vial of 10 ml Injection | Valid |
+| 234085 | Vanking 250mg Injection | Vial of 1 ml Injection | Valid |
+| 234302 | Vantox-CP 500mg Injection | Vial of 2 ml Injection | Valid |
+| 234558 | Vancocin CP 500mg Injection | Vial of 10 ml Injection | Valid |
+| 235341 | Vancocin 500mg Injection | Vial of 1 Injection | Valid |
+| 235475 | Vansafe CP 500mg Injection | Vial of 10 ml Injection | Valid |
+| 235916 | Vancoled 1gm Injection | Vial of 1 Injection | Valid |
+| 236503 | Vantinel 500 Injection | Vial of 1 Powder for Injection | Valid |
+| 236610 | Vancoled 500mg Injection | Vial of 1 Injection | Valid |
+| 237032 | Vanconom-CP Injection | Vial of 1 Injection | Valid |
+| 237628 | Vancozyne Injection | Vial of 1 Injection | Valid |
+| 239325 | Vistovanc 1000mg Injection | Vial of 1 Injection | Valid |
+| 239528 | Vanconox 500mg Injection | Vial of 1 Injection | Valid |
+| 240449 | Vancowel 1000mg Injection | Vial of 1 Injection | Valid |
+| 240618 | Vancomate 500mg Injection | Vial of 1 Injection | Valid |
+| 240751 | Vancosat 500mg Injection | Vial of 1 Injection | Valid |
+| 240987 | Vanconem 500mg Injection | Vial of 1 Injection | Valid |
+| 241079 | Vancopark 500mg Injection | Vial of 1 Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

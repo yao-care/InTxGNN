@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 758
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Ruxolitinib"
 predicted_indications: ["uterine corpus perivascular epithelioid cell tumor", "benign PEComa", "lymphangiomyoma", "lymphangioleiomyomatosis", "liposarcoma", "familial rhabdoid tumor", "lung PEComa", "ovarian myxoid liposarcoma", "acquired hemophagocytic lymphohistiocytosis associated with malignant disease", "hemophagocytic syndrome associated with an infection"]
 description: "Ruxolitinib: predicted new indication Uterine corpus perivascular epithelioid cell tumor (evidence level L5). In India: 5 listed products (5 not discontinued)"
@@ -82,13 +82,19 @@ Currently no related literature available.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form |
-|---------|------|------|
-| Registration No. 114043 | Jakavi 15mg Tablet (Novartis India Ltd) | Strip of 14 tablets |
-| Registration No. 113919 | Jakavi 5mg Tablet (Novartis India Ltd) | Strip of 14 tablets |
-| Registration No. 114073 | Jakavi 20mg Tablet (Novartis India Ltd) | Strip of 10 tablets |
-| Registration No. 114253 | Jakavi 15mg Tablet (Novartis India Ltd) | Strip of 10 tablets |
-| Registration No. 113944 | Jakavi 20mg Tablet (Novartis India Ltd) | Strip of 14 tablets |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 113919 | Jakavi 5mg Tablet | Strip of 14 tablets | Valid |
+| 113944 | Jakavi 20mg Tablet | Strip of 14 tablets | Valid |
+| 114043 | Jakavi 15mg Tablet | Strip of 14 tablets | Valid |
+| 114073 | Jakavi 20mg Tablet | Strip of 10 tablets | Valid |
+| 114253 | Jakavi 15mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 All five registrations are valid single-ingredient oral products. The licence records do not include approved indication text.
 

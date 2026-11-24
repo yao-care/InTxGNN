@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 854
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Tranexamic Acid: predicted new indication amenorrhea (evidence level L5)."
 monitor_inn: "Tranexamic acid"
 predicted_indications: ["amenorrhea (disease)"]
@@ -89,13 +89,36 @@ Both publications address bleeding control or menses suppression, not treatment 
 
 Twenty valid single-ingredient registrations were found. Five representative entries are shown below; no approved indication text is recorded for these products.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| 216788 | Tranfib 500mg Tablet | Strip of 10 tablets | Cipla Ltd |
-| 214856 | Trapic 500mg Tablet | Strip of 10 tablets | Sun Pharmaceutical Industries Ltd |
-| 152402 | Nexamic 500mg Tablet | Strip of 10 tablets | Mac Millon Pharmaceuticals Pvt Ltd |
-| 160047 | Naxic Injection | Ampoule of 5 ml injection | Rizpan Life Sciences Private Limited |
-| 226120 | Tranguard Injection | Ampoule of 5 ml injection | Curador Healthcare Pvt Ltd |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 16727 | AZITRAX 500MG INJECTION | Vial of 1 Injection | Valid |
+| 37700 | Clotawin-T Injection | Vial of 5 ml Injection | Valid |
+| 85225 | Fibotran 500mg Tablet | Strip of 10 tablets | Valid |
+| 91144 | Franax M 500mg/250mg Tablet | Strip of 10 tablets | Valid |
+| 140240 | Megmastate T 250mg/250mg Tablet | Strip of 10 tablets | Valid |
+| 147012 | Mediclot Injection | Ampoule of 5 ml Injection | Valid |
+| 152402 | Nexamic 500mg Tablet | Strip of 10 tablets | Valid |
+| 152880 | Nexi M 500 mg/250 mg Tablet | Strip of 10 tablets | Valid |
+| 154371 | Nobleed 500mg Tablet | Strip of 10 tablets | Valid |
+| 159381 | N Tran MF 500mg/250mg Tablet | Strip of 10 tablets | Valid |
+| 160047 | Naxic Injection | Ampoule of 5 ml Injection | Valid |
+| 160325 | Noblos 500mg/250mg Tablet | Strip of 10 tablets | Valid |
+| 186185 | Razotran 500 Tablet | Strip of 10 tablets | Valid |
+| 204303 | Stopbleed TM Tablet | Strip of 10 tablets | Valid |
+| 214856 | Trapic 500mg Tablet | Strip of 10 tablets | Valid |
+| 216788 | Tranfib 500mg Tablet | Strip of 10 tablets | Valid |
+| 217146 | Tramic 500mg Tablet | Strip of 10 tablets | Valid |
+| 221063 | Tenamic MF 500mg/250mg Tablet | Strip of 10 tablets | Valid |
+| 225913 | Trnxm MF 500mg/250mg Tablet | Strip of 10 tablets | Valid |
+| 226120 | Tranguard Injection | Ampoule of 5 ml Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 Available routes are oral (tablets) and injectable (ampoules and vials).
 

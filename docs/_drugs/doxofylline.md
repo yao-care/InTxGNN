@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 288
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Doxofylline: predicted new indication Pierre Robin syndrome associated with a chromosomal anomaly (evidence level L5). Approved use: Not stated in the India licence records. Published literature desc…"
 monitor_inn: "Doxofylline"
 drugbank_id: DB09273
@@ -71,15 +71,38 @@ Currently no related literature available for this predicted indication.
 
 ## India Market Information
 
-Twenty valid single-ingredient registrations are on record. The licence records do not include approved indication text. Five representative authorisations:
+Twenty valid single-ingredient registrations are on record. The licence records do not include approved indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 62957 | Doxo M 400mg/10mg Tablet | Strip of 10 tablets | Not stated |
-| 64027 | Doxygrap 400mg Tablet | Strip of 10 tablets | Not stated |
-| 196133 | Roaron M 400mg/10mg Tablet SR | Strip of 10 sustained-release tablets | Not stated |
-| 60384 | Doxside AM Tablet | Strip of 10 tablets | Not stated |
-| 79950 | Evomont D 400mg/10mg Tablet | Strip of 10 tablets | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 4156 | Amril Plus 400mg Tablet | Strip of 10 tablets | Valid |
+| 59805 | Doximax Tablet | Strip of 10 tablets | Valid |
+| 59990 | Doxoford Tablet | Strip of 10 tablets | Valid |
+| 60384 | Doxside AM Tablet | Strip of 10 tablets | Valid |
+| 61488 | Doxonil 400 Tablet | Strip of 10 tablets | Valid |
+| 62957 | Doxo M 400mg/10mg Tablet | Strip of 10 tablets | Valid |
+| 64027 | Doxygrap 400mg Tablet | Strip of 10 tablets | Valid |
+| 64246 | Doxorid 400mg Tablet | Strip of 10 tablets | Valid |
+| 64772 | Dofyll AM 400mg/30mg Tablet | Strip of 10 tablets | Valid |
+| 65576 | Doxomac M 400mg/10mg Tablet | Strip of 10 tablets | Valid |
+| 66851 | Doxoent 400mg Tablet | Strip of 10 tablets | Valid |
+| 67433 | Dofasma Plus Tablet | Strip of 10 tablets | Valid |
+| 68754 | Doxjafy M 400mg/10mg Tablet SR | Strip of 10 tablet sr | Valid |
+| 68991 | Doxofit M 400mg/10mg Tablet | Strip of 10 tablets | Valid |
+| 70548 | Doxogod Tablet | Strip of 10 tablets | Valid |
+| 71644 | Doxopax 400mg/10mg Tablet | Strip of 10 tablets | Valid |
+| 79950 | Evomont D 400mg/10mg Tablet | Strip of 10 tablets | Valid |
+| 127934 | Lunair 400mg Tablet | Strip of 10 tablets | Valid |
+| 180955 | Phydoxin AB 400mg/100mg Tablet | Strip of 10 tablets | Valid |
+| 196133 | Roaron M 400mg/10mg Tablet SR | Strip of 10 tablet sr | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 All products are oral tablets. The registered product names suggest that some are fixed-dose combinations, although the records classify all of them as single-ingredient.
 

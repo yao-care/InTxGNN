@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Capreomycin"
 predicted_indications: ["gout", "rheumatoid arthritis", "osteoarthritis", "sclerosing cholangitis", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "meningococcal infection", "pseudoachondroplasia", "acromesomelic dysplasia, Hunter-Thompson type"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 description: "Capreomycin: predicted new indication gout (evidence level L5). In India: 7 listed products (7 not discontinued)"
 ---
 
@@ -71,13 +71,21 @@ Currently no related literature available.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 51890 | Capreo 500mg Injection | vial of 1 Injection | Not recorded |
-| 117896 | Kapocin 500mg Injection | vial of 1 Injection | Not recorded |
-| 50929 | Ciprix 500mg Injection | vial of 1 Injection | Not recorded |
-| 51078 | Ciprix 1000mg Injection | vial of 1 Injection | Not recorded |
-| 117665 | Kapocin 1gm Injection | vial of 1 Injection | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 48124 | Ciprix 750mg Injection | Vial of 1 Injection | Valid |
+| 50929 | Ciprix 500mg Injection | Vial of 1 Injection | Valid |
+| 51078 | Ciprix 1000mg Injection | Vial of 1 Injection | Valid |
+| 51890 | Capreo 500mg Injection | Vial of 1 Injection | Valid |
+| 117091 | Kapocin 750 Injection | Vial of 1 Powder for Injection | Valid |
+| 117665 | Kapocin 1gm Injection | Vial of 1 Injection | Valid |
+| 117896 | Kapocin 500mg Injection | Vial of 1 Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

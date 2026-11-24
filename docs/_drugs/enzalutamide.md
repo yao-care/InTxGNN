@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 310
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Enzalutamide"
 predicted_indications: ["prostate leiomyoma", "Brenner tumor", "fibroma of prostate", "benign reproductive system neoplasm", "benign prostate phyllodes tumor"]
 description: "Enzalutamide: predicted new indication Prostate leiomyoma (evidence level L5). In India: 17 listed products (17 not discontinued)"
@@ -105,15 +105,33 @@ The other predictions have no registered trials.
 
 ## India Market Information
 
-Enzalutamide has 17 valid registrations in India, all single-ingredient products. The approved indication text is not available for any of them. Five main registrations:
+Enzalutamide has 17 valid registrations in India, all single-ingredient products. The approved indication text is not available for any of them.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| 243972 | Xtandi 40mg Soft Capsule | Bottle of 112 capsules | Astellas Pharma Inc |
-| 72884 | Enzamide 40mg Tablet | Strip of 28 tablets | Intas Pharmaceuticals Ltd |
-| 1970 | Azel 40mg Capsule | Strip of 28 capsules | Dr Reddy's Laboratories Ltd |
-| 72886 | Enzyl Capsule | Strip of 28 capsules | Sun Pharmaceutical Industries Ltd |
-| 243863 | Xylutide Capsule | Strip of 28 capsules | Cipla Ltd |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 1554 | Azel 80 Capsule | Strip of 14 capsules | Valid |
+| 1970 | Azel 40mg Capsule | Strip of 28 capsules | Valid |
+| 26759 | Bdenza 40mg Capsule | Strip of 28 capsules | Valid |
+| 36341 | Capmide 40mg Capsule | Strip of 4 capsules | Valid |
+| 72884 | Enzamide 40mg Tablet | Strip of 28 tablets | Valid |
+| 72886 | Enzyl Capsule | Strip of 28 capsules | Valid |
+| 73177 | Enzyl 80 Capsule | Strip of 14 capsules | Valid |
+| 74170 | Enzamide 80 Capsule | Strip of 14 capsules | Valid |
+| 74617 | Enzana Capsule | Strip of 7 capsules | Valid |
+| 75796 | Enzuta 40mg Capsule | Strip of 28 capsules | Valid |
+| 76844 | Encrpc 40mg Capsule | Strip of 28 capsules | Valid |
+| 95128 | Glenza 80mg Capsule | Strip of 14 capsules | Valid |
+| 162483 | Obnyx Capsule | Box of 28 capsules | Valid |
+| 202587 | Samluta 40mg Capsule | Strip of 28 capsules | Valid |
+| 243863 | Xylutide Capsule | Strip of 28 capsules | Valid |
+| 243928 | Xylutide 40mg Capsule | Strip of 4 capsules | Valid |
+| 243972 | Xtandi 40mg Soft Capsule | Bottle of 112 capsules | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ---
 

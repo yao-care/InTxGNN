@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 670
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 description: "Pilocarpine: known uses and market status in India; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -72,24 +72,30 @@ The TxGNN deep-learning model (score ≥ 0.99) produced candidates for Pilocarpi
 
 ## India Market Information
 
-| Licence | Product | Dosage form | Status |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
 |------|------|------|------|
-| 36699 | Carpinol Eye Drop | bottle of 1 ml Eye Drop | Valid |
-| 175055 | Pilotbg Tablet | strip of 10 tablets | Valid |
-| 36641 | Carpine 0.5% Injection | vial of 1 ml Injection | Valid |
-| 178124 | Pilocar 4% Eye Drop | packet of 5 ml Eye Drop | Valid |
-| 173852 | Pilomax Tablet | strip of 10 tablets | Valid |
-| 176170 | Pilomin 0.5% Injection | vial of 1 ml Injection | Valid |
-| 177171 | Pilocar 1% Eye Drop | packet of 5 ml Eye Drop | Valid |
-| 36908 | Carpinol Eye Drop | packet of 5 ml Eye Drop | Valid |
-| 173863 | Pilocar 2% Eye Drop | bottle of 5 ml Eye Drop | Valid |
-| 181504 | Pilodrops 2% Eye Drop | packet of 5 ml Eye Drop | Valid |
-| 43916 | Carpine Eye Drop | packet of 5 ml Eye Drop | Valid |
-| 129424 | Locarp 2% Eye Drop | packet of 5 ml Eye Drop | Valid |
-| 177700 | Pilocarpin 2% Eye Drop | packet of 5 ml Eye Drop | Valid |
-| 176869 | Pilo 2 Eye Drop | packet of 5 ml Eye Drop | Valid |
-| 182191 | Pilagan Eye Drop | packet of 5 ml Eye Drop | Valid |
-| 179388 | Pilopress Eye Drop | packet of 5 ml Eye Drop | Valid |
+| 36641 | Carpine 0.5% Injection | Vial of 1 ml Injection | Valid |
+| 36699 | Carpinol Eye Drop | Bottle of 1 ml Eye Drop | Valid |
+| 36908 | Carpinol Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 43916 | Carpine Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 129424 | Locarp 2% Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 173852 | Pilomax Tablet | Strip of 10 tablets | Valid |
+| 173863 | Pilocar 2% Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 175055 | Pilotbg Tablet | Strip of 10 tablets | Valid |
+| 176170 | Pilomin 0.5% Injection | Vial of 1 ml Injection | Valid |
+| 176869 | Pilo 2 Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 177171 | Pilocar 1% Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 177700 | Pilocarpin 2% Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 178124 | Pilocar 4% Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 179388 | Pilopress Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 181504 | Pilodrops 2% Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 182191 | Pilagan Eye Drop | Packet of 5 ml Eye Drop | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

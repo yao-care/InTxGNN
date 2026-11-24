@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 112
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Bisoprolol"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome"]
 description: "Bisoprolol: predicted new indication Malignant hypertensive renal disease (evidence level L5). In India: at least 20 listed products"
@@ -67,15 +67,38 @@ Other top-ranked predictions are similarly weak:
 
 ## India Market Information
 
-Bisoprolol is marketed in India as single-ingredient oral tablets, with 20 valid registrations and none cancelled. Approved indication text was not available for these registrations. Five of them are listed below.
+Bisoprolol is marketed in India as single-ingredient oral tablets, with 20 valid registrations and none cancelled. Approved indication text was not available for these registrations.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| 29839 | Bisopil H 2.5 Tablet | Strip of 10 tablets | Psychotropics India Ltd |
-| 26711 | Biselect 10 Tablet | Strip of 10 tablets | Intas Pharmaceuticals Ltd |
-| 27597 | Besicor 2.5 Tablet | Strip of 15 tablets | Ajanta Pharma Ltd |
-| 28963 | Bitoprol 25 XL Tablet | Strip of 10 extended-release tablets | Bi-Cure Remedies |
-| 26325 | Bisosafe 5 Tablet | Strip of 10 tablets | Abbott |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 25954 | Bisotab 2.5 Tablet | Strip of 10 tablets | Valid |
+| 26003 | Bisotab 5 Tablet | Strip of 10 tablets | Valid |
+| 26325 | Bisosafe 5 Tablet | Strip of 10 tablets | Valid |
+| 26340 | Bisosafe 2.5 Tablet | Strip of 10 tablets | Valid |
+| 26446 | Bisolong 5mg Tablet | Strip of 10 tablets | Valid |
+| 26470 | Bisolol 5mg Tablet | Strip of 10 tablets | Valid |
+| 26711 | Biselect 10 Tablet | Strip of 10 tablets | Valid |
+| 27199 | Bisonol 2.5mg Tablet | Strip of 10 tablets | Valid |
+| 27597 | Besicor 2.5 Tablet | Strip of 15 tablets | Valid |
+| 28646 | Bisveda 2.5mg Tablet | Strip of 10 tablets | Valid |
+| 28963 | Bitoprol 25 XL Tablet | Strip of 10 tablet er | Valid |
+| 29363 | Bisveda 10mg Tablet | Strip of 10 tablets | Valid |
+| 29547 | Bisomax 10 Tablet | Strip of 10 tablets | Valid |
+| 29753 | Bisolor 2.5mg Tablet | Strip of 15 tablets | Valid |
+| 29839 | Bisopil H 2.5 Tablet | Strip of 10 tablets | Valid |
+| 29916 | Bisokem 5mg Tablet | Strip of 10 tablets | Valid |
+| 31575 | Binita 2.5mg Tablet | Strip of 10 tablets | Valid |
+| 34710 | Corbis-H 5 Tablet | Strip of 10 tablets | Valid |
+| 201118 | StayHappi Bisoprolol 5mg Tablet | Strip of 10 tablets | Valid |
+| 210078 | StayHappi Bisoprolol 2.5mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

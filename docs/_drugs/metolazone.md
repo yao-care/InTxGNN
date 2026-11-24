@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 543
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Metolazone"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome"]
 description: "Metolazone: predicted new indication Malignant hypertensive renal disease (evidence level L5). In India: at least 20 listed products"
@@ -77,15 +77,38 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 135905 | Mela 5mg Tablet (RPG Life Sciences) | Strip of 10 tablets | Not stated |
-| 246439 | Zytanix 2.5 Tablet (Zydus Cadila) | Strip of 10 tablets | Not stated |
-| 143978 | Metoz 1.25mg Tablet (Centaur) | Strip of 10 tablets | Not stated |
-| 246982 | Zytanix 5 Tablet (Zydus Cadila) | Strip of 15 tablets | Not stated |
-| 64284 | Diurem 2.5mg Tablet (Cipla) | Strip of 10 tablets | Not stated |
+<!-- licenses:begin -->
 
-These are 5 of 20 valid single-ingredient registrations. All are oral tablets.
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 64284 | Diurem 2.5mg Tablet | Strip of 10 tablets | Valid |
+| 122416 | Lazon 5mg Tablet | Strip of 10 tablets | Valid |
+| 122484 | Lazon 2.5mg Tablet | Strip of 10 tablets | Valid |
+| 133687 | Metoz 5 Tablet | Strip of 10 tablets | Valid |
+| 133748 | Metoz 2.5 Tablet | Strip of 10 tablets | Valid |
+| 135905 | Mela 5mg Tablet | Strip of 10 tablets | Valid |
+| 136988 | Metozide 5mg Tablet | Strip of 10 tablets | Valid |
+| 138153 | Metolaz 5mg Tablet | Strip of 10 tablets | Valid |
+| 138457 | Metadure 2.5mg Tablet | Strip of 10 tablets | Valid |
+| 138638 | Metolaz 2.5mg Tablet | Strip of 10 tablets | Valid |
+| 139662 | Metadure 5mg Tablet | Strip of 10 tablets | Valid |
+| 143479 | Metolactone 2.5 mg/50 mg Tablet | Strip of 10 tablets | Valid |
+| 143978 | Metoz 1.25mg Tablet | Strip of 10 tablets | Valid |
+| 196598 | Rpmel 2.5mg Tablet | Strip of 10 tablets | Valid |
+| 246435 | Zytanix 5 Tablet | Strip of 10 tablets | Valid |
+| 246439 | Zytanix 2.5 Tablet | Strip of 10 tablets | Valid |
+| 246882 | Zytanix 2.5 Tablet | Strip of 15 tablets | Valid |
+| 246982 | Zytanix 5 Tablet | Strip of 15 tablets | Valid |
+| 247839 | Zalat 5mg Tablet | Strip of 10 tablets | Valid |
+| 248353 | Zalat 2.5mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
+
+All are oral tablets.
 
 ## Safety Considerations
 

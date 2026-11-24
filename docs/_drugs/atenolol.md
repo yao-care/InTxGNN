@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Atenolol"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "chronic pulmonary heart disease"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Atenolol: predicted new indication Malignant hypertensive renal disease (evidence level L5). Approved use: Hypertension and myocardial infarction"
 ---
 
@@ -84,15 +84,38 @@ For context, the other predicted indications drew only indirect literature. The 
 
 ## India Market Information
 
-At least 20 single-ingredient atenolol registrations are valid, and the list may be partial. The records contain no approved-indication text. Five examples:
+At least 20 single-ingredient atenolol registrations are valid, and the list may be partial. The records contain no approved-indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 54419 | Cadpres 100mg Tablet | Strip of 14 tablets | Not stated in the records |
-| 105077 | Hyten 50mg Tablet | Strip of 10 tablets | Not stated in the records |
-| 28378 | BP-Nol 100mg Tablet | Strip of 10 tablets | Not stated in the records |
-| 3862 | AT Tablet | Strip of 10 tablets | Not stated in the records |
-| 218444 | Tenil 50 Tablet | Strip of 10 tablets | Not stated in the records |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 3862 | AT Tablet | Strip of 10 tablets | Valid |
+| 6987 | Anten 50mg Tablet | Strip of 10 tablets | Valid |
+| 12255 | Atavale 25mg Tablet | Strip of 10 tablets | Valid |
+| 16571 | Atenil 100mg Tablet | Strip of 10 tablets | Valid |
+| 20349 | Alinor 100mg Tablet | Strip of 10 tablets | Valid |
+| 24002 | Atwa 50mg Tablet | Strip of 10 tablets | Valid |
+| 26811 | Betanol 25mg Tablet | Strip of 10 tablets | Valid |
+| 28378 | BP-Nol 100mg Tablet | Strip of 10 tablets | Valid |
+| 54419 | Cadpres 100mg Tablet | Strip of 14 tablets | Valid |
+| 105077 | Hyten 50mg Tablet | Strip of 10 tablets | Valid |
+| 111448 | Indap AT 50 mg/1.25 mg Tablet | Strip of 10 tablets | Valid |
+| 152855 | Nifetex TR 50mg/20mg Tablet | Strip of 10 tablets | Valid |
+| 154189 | Novaten 50mg Tablet | Strip of 10 tablets | Valid |
+| 156847 | NIFTENE 50MG/20MG TABLET | Strip of 10 tablets | Valid |
+| 169344 | Olate 50mg Tablet | Strip of 10 tablets | Valid |
+| 183953 | Quinoten 50mg Tablet | Strip of 14 tablets | Valid |
+| 218444 | Tenil 50 Tablet | Strip of 10 tablets | Valid |
+| 220767 | Tensimin 50mg Tablet | Strip of 14 tablets | Valid |
+| 242876 | Winten 50mg Tablet | Strip of 14 tablets | Valid |
+| 246870 | Ziblok 25 Tablet | Strip of 14 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ---
 

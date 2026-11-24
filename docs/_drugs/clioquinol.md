@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Clioquinol"
 predicted_indications: ["ectothrix infectious disease", "endothrix infectious disease"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Clioquinol: predicted new indication Ectothrix infectious disease (evidence level L5). Approved use: Tinea pedis, tinea corporis, tinea infection…"
 ---
 
@@ -73,19 +73,25 @@ Currently no related literature available.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Registration No. 59852 | Dermoquinol 8% Cream | Tube of 25 gm cream | Not stated in the records |
-| Registration No. 64513 | Dermoquinol 4% Ointment | Tube of 15 gm ointment | Not stated in the records |
-| Registration No. 61339 | Dermoquinol 4% Cream | Tube of 25 gm cream | Not stated in the records |
-| Registration No. 64362 | Dermoquinol 8% Ointment | Tube of 15 gm ointment | Not stated in the records |
-| Registration No. 61594 | Dermi-Zio 6 Cream | Tube of 15 gm cream | Not stated in the records |
+<!-- licenses:begin -->
 
-All five registrations are valid topical products (creams and ointments).
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 59852 | Dermoquinol 8% Cream | Tube of 25 gm Cream | Valid |
+| 61339 | Dermoquinol 4% Cream | Tube of 25 gm Cream | Valid |
+| 61594 | Dermi-Zio 6 Cream | Tube of 15 gm Cream | Valid |
+| 64362 | Dermoquinol 8% Ointment | Tube of 15 gm Ointment | Valid |
+| 64513 | Dermoquinol 4% Ointment | Tube of 15 gm Ointment | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
+
+All registrations are valid topical products (creams and ointments).
 
 <!-- review:begin in-lic-20261106-clioquinol-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "All five registrations are valid single-ingredient topical products (creams and ointments)." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+> **Review correction (2026-11-24)**: Originally stated: "All five registrations are valid single-ingredient topical products (creams and ointments)." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Revised 2026-11-24: the hard-coded number of records and the wording about the old table were dropped; the Quick Overview and the product table under India Market Information show the current figures. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
 
 <!-- review:end in-lic-20261106-clioquinol-1 -->
 
@@ -118,7 +124,7 @@ Below is the review log for this page: statements checked against official India
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-24 | Removed: "single-ingredient" | Corrected (revised 2026-11-24; earlier version kept in the record) | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 | 2026-11-19 | "Detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL497 (clioquinol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL497) |
 
 <!-- review:end log -->

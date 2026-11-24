@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 792
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 description: "Streptomycin: predicted new indication Conjunctivitis (evidence level L4). Approved use: Pulmonary tuberculosis (also chancroid, leptospirosis…"
 monitor_inn: "Streptomycin"
 predicted_indications: ["conjunctivitis", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "otitis externa", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "Lyme disease", "infectious otitis interna"]
@@ -94,12 +94,18 @@ Of the 20 publications retrieved, none is an RCT. The most relevant ones are sho
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Registration No. 95257 | Genpod 200mg Tablet | Strip of 10 tablets | Not specified |
-| Registration No. 142359 | MERSTREP 1GM INJECTION | Vial of 1 injection | Not specified |
-| Registration No. 459 | Ambistryn-S 0.75gm Injection | Vial of 1 powder for injection | Not specified |
-| Registration No. 786 | Ambistryn-S 1gm Injection | Vial of 1 injection | Not specified |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 459 | Ambistryn-S 0.75gm Injection | Vial of 1 Powder for Injection | Valid |
+| 786 | Ambistryn-S 1gm Injection | Vial of 1 Injection | Valid |
+| 95257 | Genpod 200mg Tablet | Strip of 10 tablets | Valid |
+| 142359 | MERSTREP 1GM INJECTION | Vial of 1 Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 No ophthalmic (eye drop) formulation is registered; only oral and injectable products are available.
 

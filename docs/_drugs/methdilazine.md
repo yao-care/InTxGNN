@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 533
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Methdilazine: predicted new indication Nasal cavity disease (evidence level L5). Approved use: Angioedema, allergic rhinitis, vasomotor rhinitis…"
 monitor_inn: "Methdilazine"
 predicted_indications: ["nasal cavity disease"]
@@ -79,9 +79,15 @@ Currently no related literature available.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 60812 | Dilosyn Tablet (Glaxo SmithKline Pharmaceuticals Ltd) | Strip of 10 tablets (oral) | Not specified in the licence record |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 60812 | Dilosyn Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ---
 

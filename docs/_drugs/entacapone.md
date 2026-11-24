@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 308
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Entacapone"
 predicted_indications: ["PLA2G6-associated neurodegeneration", "Rasmussen subacute encephalitis", "myelitis", "paralysis agitans, juvenile, of Hunt", "transaldolase deficiency", "lethal infantile mitochondrial myopathy", "Lewy body dementia", "fructose-1,6-bisphosphatase deficiency", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "progressive supranuclear palsy-corticobasal syndrome"]
 description: "Entacapone: predicted new indication PLA2G6-associated neurodegeneration (evidence level L5). In India: 2 listed products (2 not discontinued)"
@@ -72,10 +72,16 @@ Currently no related literature available for PLA2G6-associated neurodegeneratio
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 1690 | Adcapone Tablet (Sun Pharmaceutical Industries Ltd) | Strip of 10 tablets | Not stated in the data compiled for this report |
-| 72837 | Entacom Tablet (Intas Pharmaceuticals Ltd) | Strip of 10 tablets | Not stated in the data compiled for this report |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 1690 | Adcapone Tablet | Strip of 10 tablets | Valid |
+| 72837 | Entacom Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

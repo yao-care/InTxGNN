@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 441
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 description: "Invert Sugar: predicted new indication Sclerosing cholangitis (evidence level L5). Approved use: Not available"
 monitor_inn: "Invert sugar"
 drugbank_id: DB09344
@@ -64,10 +64,16 @@ There is also a plausible safety concern. Fructose and high-dose parenteral dext
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 187792 | Rgnil Syrup | Bottle of 100 ml syrup | Not stated |
-| 192761 | Rgnil Syrup | Bottle of 60 ml syrup | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 187792 | Rgnil Syrup | Bottle of 100 ml Syrup | Valid |
+| 192761 | Rgnil Syrup | Bottle of 60 ml Syrup | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 Both registrations are valid single-ingredient products from Unicure Remedies Pvt Ltd.
 

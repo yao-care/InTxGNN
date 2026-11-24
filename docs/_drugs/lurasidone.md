@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 510
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Lurasidone"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)", "congenital disorder of glycosylation with defective fucosylation", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia X-linked", "syndromic myopia", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia 26, X-linked, female-limited", "atypical glycine encephalopathy"]
 description: "Lurasidone: predicted new indication Retinal dystrophy with or without extraocular anomalies (evidence level L5). In India: at least 20 listed products"
@@ -94,15 +94,38 @@ The evidence for acute mania is weaker than for bipolar depression. Most of the 
 
 ## India Market Information
 
-Lurasidone has 20 valid single-ingredient registrations, with no cancelled licences. All are oral tablets (strip of 10 tablets). The registration records carry no approved-indication text. The five listed below are examples.
+Lurasidone has 20 valid single-ingredient registrations, with no cancelled licences. All are oral tablets (strip of 10 tablets). The registration records carry no approved-indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 131548 | Luratrend 80mg Tablet (Abbott) | Tablet, strip of 10 | Not stated in the registration record |
-| 124437 | Lurafic 80mg Tablet (Lupin) | Tablet, strip of 10 | Not stated in the registration record |
-| 128942 | Lurakem 80mg Tablet (Alkem) | Tablet, strip of 10 | Not stated in the registration record |
-| 217059 | Tablura 40 Tablet (Cipla) | Tablet, strip of 10 | Not stated in the registration record |
-| 121556 | Lurasid 40 Tablet (Intas) | Tablet, strip of 10 | Not stated in the registration record |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 4492 | Atlura 80 Tablet | Strip of 10 tablets | Valid |
+| 19091 | Alsiva 40 Tablet | Strip of 10 tablets | Valid |
+| 121556 | Lurasid 40 Tablet | Strip of 10 tablets | Valid |
+| 121738 | Lurata 40 Tablet | Strip of 10 tablets | Valid |
+| 122374 | Lurastar 40mg Tablet | Strip of 10 tablets | Valid |
+| 122959 | Lurata 80 Tablet | Strip of 10 tablets | Valid |
+| 123712 | Lurina 40mg Tablet | Strip of 10 tablets | Valid |
+| 123951 | Lurasid 80mg Tablet | Strip of 10 tablets | Valid |
+| 124437 | Lurafic 80mg Tablet | Strip of 10 tablets | Valid |
+| 124947 | Lurasic 40mg Tablet | Strip of 10 tablets | Valid |
+| 126768 | Lurastar 80mg Tablet | Strip of 10 tablets | Valid |
+| 128942 | Lurakem 80mg Tablet | Strip of 10 tablets | Valid |
+| 130576 | Luraglam 40mg Tablet | Strip of 10 tablets | Valid |
+| 130660 | Lurasic 80mg Tablet | Strip of 10 tablets | Valid |
+| 131445 | Luratrend 40 Tablet | Strip of 10 tablets | Valid |
+| 131446 | Lurafore 80mg Tablet | Strip of 10 tablets | Valid |
+| 131548 | Luratrend 80mg Tablet | Strip of 10 tablets | Valid |
+| 132037 | Lurafore 40 Tablet | Strip of 10 tablets | Valid |
+| 217059 | Tablura 40 Tablet | Strip of 10 tablets | Valid |
+| 217353 | Tablura 80mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ---
 

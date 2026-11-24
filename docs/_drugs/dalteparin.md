@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Dalteparin"
 predicted_indications: ["thrombophilia due to protein C deficiency, autosomal recessive", "primary release disorder of platelets", "pseudo-von Willebrand disease", "atypical hemolytic-uremic syndrome with thrombomodulin anomaly", "neuropathy, painful"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Dalteparin: predicted new indication Thrombophilia due to protein C deficiency, autosomal recessive (evidence level L5). In India: 10 listed products (10 not discontinued)"
 ---
 
@@ -72,15 +72,26 @@ Currently no related literature available.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 62004 | Daltehep 5000IU Injection | Vial of 2 ml injection | Not recorded |
-| 67971 | Daltepin 2500IU Injection | Vial of 1 ml injection | Not recorded |
-| 67675 | Dalpin 2500IU Injection | Vial of 1 ml injection | Not recorded |
-| 65716 | Daltepin 10000IU Injection | Vial of 1 ml injection | Not recorded |
-| 84330 | Fragmin 5000IU Injection | Prefilled syringe of 0.2 ml solution for injection | Not recorded |
+<!-- licenses:begin -->
 
-All 10 licences are single-ingredient products and currently valid; the table lists the first 5.
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 62004 | Daltehep 5000IU Injection | Vial of 2 ml Injection | Valid |
+| 63739 | Daltehep 2500IU Injection | Vial of 2 ml Injection | Valid |
+| 64642 | Daltehep 10000IU Injection | Vial of 10 ml Injection | Valid |
+| 65716 | Daltepin 10000IU Injection | Vial of 1 ml Injection | Valid |
+| 67438 | Daltepin 5000IU Injection | Vial of 1 ml Injection | Valid |
+| 67675 | Dalpin 2500IU Injection | Vial of 1 ml Injection | Valid |
+| 67971 | Daltepin 2500IU Injection | Vial of 1 ml Injection | Valid |
+| 84330 | Fragmin 5000IU Injection | Prefilled syringe of 0.2 ml Solution for Injection | Valid |
+| 84416 | Fragmin 2500IU Injection | Prefilled syringe of 0.2 ml Solution for Injection | Valid |
+| 85639 | Fragmin 10000IU Injection | Prefilled syringe of 1 ml Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
+
+All 10 licences are single-ingredient products and currently valid.
 
 ## Safety Considerations
 

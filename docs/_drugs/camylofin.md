@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 136
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Camylofin: predicted new indication Insomnia (evidence level L5). Approved use: Not stated in the licence data (the drug is generally known as an ant…"
 monitor_inn: "Camylofin"
 drugbank_id: DB13738
@@ -70,15 +70,38 @@ Currently no related literature available.
 
 ## India Market Information
 
-Camylofin is registered in India under 20 valid single-ingredient licences (no cancelled licences). The licence data contain no approved indication text. Five main authorizations are listed below.
+Camylofin is registered in India under 20 valid single-ingredient licences (no cancelled licences). The licence data contain no approved indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 498 | Anaspas 25mg Injection (Abbott) | Vial of 2 ml injection | Not stated |
-| 25919 | Bigspas-P Tablet (Mankind Pharma Ltd) | Strip of 10 tablets | Not stated |
-| 41 | Anafortan 25 mg/300 mg Tablet (Abbott) | Strip of 15 tablets | Not stated |
-| 27172 | Bigspas 50mg Injection (Mankind Pharma Ltd) | Vial of 1 ml injection | Not stated |
-| 42154 | Camifort Suspension (Intel Pharmaceuticals) | Bottle of 30 ml suspension | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 41 | Anafortan 25 mg/300 mg Tablet | Strip of 15 tablets | Valid |
+| 486 | Anafortan-MF 50mg/250mg Tablet | Strip of 10 tablets | Valid |
+| 498 | Anaspas 25mg Injection | Vial of 2 ml Injection | Valid |
+| 1028 | Avapar Tablet | Strip of 10 tablets | Valid |
+| 3355 | Avapar 25mg Injection | Vial of 2 ml Injection | Valid |
+| 25919 | Bigspas-P Tablet | Strip of 10 tablets | Valid |
+| 27172 | Bigspas 50mg Injection | Vial of 1 ml Injection | Valid |
+| 36411 | Camyfyl 25mg/300mg Tablet | Strip of 10 tablets | Valid |
+| 37778 | Carespas CP 25mg/300mg Tablet | Strip of 10 tablets | Valid |
+| 40215 | Camyfyl Plus 50mg/325mg Tablet | Strip of 10 tablets | Valid |
+| 40249 | Camyfyl 25mg Injection | Vial of 2 ml Injection | Valid |
+| 41361 | Cyclobid CP 25mg/300mg Tablet | Strip of 10 tablets | Valid |
+| 42154 | Camifort Suspension | Bottle of 30 ml Suspension | Valid |
+| 50660 | Cyclobid CP Oral Suspension | Bottle of 30 ml Oral Suspension | Valid |
+| 61205 | Dicloran Spas Tablet | Strip of 10 tablets | Valid |
+| 67677 | Dimace M Tablet | Strip of 10 tablets | Valid |
+| 125429 | Listaspas 50mg/325mg Tablet | Strip of 10 tablets | Valid |
+| 199822 | Spasmonorm Tablet | Strip of 10 tablets | Valid |
+| 200121 | Spasmonorm Injection | Ampoule of 2 ml Injection | Valid |
+| 200802 | Spasmonorm M Tablet | Strip of 1 Tablet | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 Available dosage forms include injections, tablets, and oral suspensions.
 

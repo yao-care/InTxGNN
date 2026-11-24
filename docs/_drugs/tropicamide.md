@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 871
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Tropicamide: predicted new indication Cauda equina syndrome (evidence level L5). Approved use: Cycloplegia"
 monitor_inn: "Tropicamide"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "irritable bowel syndrome"]
@@ -75,21 +75,36 @@ Currently no related literature available.
 
 ## India Market Information
 
-Tropicamide has 14 valid registrations, all ophthalmic eye drops. The approved indication text is not available in the data compiled for this report. The five main authorizations are listed below.
+All tropicamide registrations are valid ophthalmic eye drops. The approved indication text is not available in the data compiled for this report.
 
 <!-- review:begin in-lic-20261106-tropicamide-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "Tropicamide has 14 valid single-ingredient registrations, all ophthalmic eye drops." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+> **Review correction (2026-11-24)**: Originally stated: "Tropicamide has 14 valid single-ingredient registrations, all ophthalmic eye drops." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Revised 2026-11-24: the hard-coded number of records and the wording about the old table were dropped; the Quick Overview and the product table under India Market Information show the current figures. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
 
 <!-- review:end in-lic-20261106-tropicamide-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| 9880 | Ahlmide P Eye Drop | Packet of 5 ml eye drop | Ahlcon Parenterals India Limited |
-| 9675 | Appamide 10 mg/5 mg Eye Drop | Packet of 5 ml eye drop | Appasamy Ocular Device Pvt Ltd |
-| 215295 | Tropicacyl Eye Drop | Bottle of 5 ml eye drop | Sunways India Pvt Ltd |
-| 141425 | Meptrop Eye Drop | Bottle of 5 ml eye drop | Mepfarma India Pvt Ltd |
-| 163729 | Optimide Eye Drop | Packet of 5 ml eye drop | Micro Labs Ltd |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 7953 | Auromide 1% Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 9675 | Appamide 10 mg/5 mg Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 9880 | Ahlmide P Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 66223 | Dilatine Eye Drop | Packet of 3 ml Eye Drop | Valid |
+| 141425 | Meptrop Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 163729 | Optimide Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 215295 | Tropicacyl Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 215914 | Tropac Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 219022 | Tropicamet Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 219472 | Tropico Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 220232 | Tmide Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 220587 | Trophtha Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 221489 | Tropind Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 224585 | Tropeen 1% Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -119,7 +134,7 @@ Below is the review log for this page: statements checked against official India
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-24 | Removed: "single-ingredient" | Corrected (revised 2026-11-24; earlier version kept in the record) | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 | 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Mydriacyl (tropicamide) prescribing information, Alcon Laboratories, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0d4f4a2e-eb00-4c65-b3fa-baf5738d468d) |
 
 <!-- review:end log -->

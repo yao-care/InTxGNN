@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 794
 evidence_level: L2
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Sucralfate: predicted new indication Duodenogastric reflux (evidence level L2). Approved use: Duodenal ulcer"
 monitor_inn: "Sucralfate"
 predicted_indications: ["duodenogastric reflux", "duodenal obstruction"]
@@ -95,13 +95,36 @@ The retrieved literature also includes a general peptic ulcer review and a surgi
 
 Sucralfate is marketed in India with 20 valid single-ingredient registrations. Approved indication text is not available in the data compiled for this report.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| 209716 | Scrat O Syrup | Syrup, 100 ml bottle | Positive Medicare Pvt Ltd |
-| 204345 | Sucrarol Syrup | Syrup, 100 ml bottle | Royal Labs |
-| 66566 | Damcid OX Oral Suspension | Oral suspension, 100 ml bottle | Damsa Pharma |
-| 200549 | Sucral Tablet | Tablet, strip of 10 | Strassenburg Pharmaceuticals Ltd |
-| 207402 | Sufrate PZ Powder | Powder, 105 g box | Eskag Pharma Pvt Ltd |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 66566 | Damcid OX Oral Suspension | Bottle of 100 ml Oral Suspension | Valid |
+| 78216 | Erocot O 1000 mg/20 mg Syrup | Bottle of 100 ml Syrup | Valid |
+| 119563 | Kiofate-O Oral Suspension | Bottle of 100 ml Oral Suspension | Valid |
+| 137986 | MobiCool S Oral Suspension Mint Sugar Free | Bottle of 100 ml Oral Suspension | Valid |
+| 163421 | Oxeta S Oral Suspension | Bottle of 100 ml Oral Suspension | Valid |
+| 163806 | Oxetal Oral Suspension | Bottle of 100 ml Oral Suspension | Valid |
+| 174497 | Pepsigard-O Suspension Sugar Free | Bottle of 200 ml Oral Suspension | Valid |
+| 199991 | Sucraday O Syrup | Bottle of 100 ml Syrup | Valid |
+| 200475 | Sucnol O Syrup | Bottle of 200 ml Syrup | Valid |
+| 200549 | Sucral Tablet | Strip of 10 tablets | Valid |
+| 204345 | Sucrarol Syrup | Bottle of 100 ml Syrup | Valid |
+| 205876 | Stalfate 1000mg Suspension | Bottle of 200 ml Suspension | Valid |
+| 207402 | Sufrate PZ Powder | Box of 105 gm Powder | Valid |
+| 209716 | Scrat O Syrup | Bottle of 100 ml Syrup | Valid |
+| 210973 | Syovax-O Oral Suspension | Bottle of 100 ml Oral Suspension | Valid |
+| 211669 | Sacrowel Oral Suspension Anise Sugar Free | Bottle of 200 ml Oral Suspension | Valid |
+| 213122 | Suctol-O Oral Suspension Sugar Free | Bottle of 200 ml Oral Suspension | Valid |
+| 213838 | Sucralcid 1000mg Suspension | Bottle of 100 ml Suspension | Valid |
+| 235847 | Voizel Syrup | Bottle of 100 ml Syrup | Valid |
+| 251245 | Zesoxyn Oral Suspension | Bottle of 200 ml Oral Suspension | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 Available forms are mainly oral suspensions and syrups, with one tablet and one powder product.
 

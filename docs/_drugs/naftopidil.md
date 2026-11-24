@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 576
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Naftopidil: predicted new indication Ambras type hypertrichosis universalis congenita (evidence level L5). Approved use: Benign prostatic hyperplasia"
 monitor_inn: "Naftopidil"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality"]
@@ -64,12 +64,18 @@ Other predictions in the same list (hypertrichosis in general, isolated genetic 
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 153639 | Naftomax 50 Tablet | Strip of 10 tablets | Not stated in the data |
-| 151226 | Nafodil 75 Tablet | Strip of 10 tablets | Not stated in the data |
-| 150842 | Nafodil 50 Tablet | Strip of 10 tablets | Not stated in the data |
-| 157282 | Naftomax 25 Tablet | Strip of 10 tablets | Not stated in the data |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 150842 | Nafodil 50 Tablet | Strip of 10 tablets | Valid |
+| 151226 | Nafodil 75 Tablet | Strip of 10 tablets | Valid |
+| 153639 | Naftomax 50 Tablet | Strip of 10 tablets | Valid |
+| 157282 | Naftomax 25 Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 All four registrations are valid single-ingredient oral tablets from Sun Pharmaceutical Industries Ltd (Naftomax) and Intas Pharmaceuticals Ltd (Nafodil). None has been cancelled.
 

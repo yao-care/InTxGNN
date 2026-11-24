@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 810
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 description: "Tegaserod: predicted new indication Migraine disorder (evidence level L5). Approved use: Not available in the registration data"
 monitor_inn: "Tegaserod"
 drugbank_id: DB01079
@@ -74,13 +74,22 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 109868 | Ibsinorm 6mg Tablet (Sun Pharmaceutical) | Strip of 10 tablets | Not stated |
-| 221586 | Tibs 6mg Tablet (Hetero Drugs) | Strip of 10 tablets | Not stated |
-| 224479 | Tegibs 2mg Tablet (Torrent) | Strip of 10 tablets | Not stated |
-| 221377 | Tegaspa 6mg Tablet (Lupin) | Strip of 10 tablets | Not stated |
-| 223563 | Tegaser 6mg Tablet (Cadila) | Strip of 10 tablets | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 109868 | Ibsinorm 6mg Tablet | Strip of 10 tablets | Valid |
+| 109966 | Ibsinorm 2mg Tablet | Strip of 10 tablets | Valid |
+| 220649 | Tegod 6mg Tablet | Strip of 10 tablets | Valid |
+| 221377 | Tegaspa 6mg Tablet | Strip of 10 tablets | Valid |
+| 221586 | Tibs 6mg Tablet | Strip of 10 tablets | Valid |
+| 222429 | Tegibs 6mg Tablet | Strip of 10 tablets | Valid |
+| 223563 | Tegaser 6mg Tablet | Strip of 10 tablets | Valid |
+| 224479 | Tegibs 2mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 All 8 registrations are valid single-ingredient oral products. None are cancelled or combination products.
 

@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 325
 evidence_level: L3
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Estriol: predicted new indication Amenorrhea (evidence level L3). Approved use: Not specified in the India licence records"
 monitor_inn: "Estriol"
 predicted_indications: ["amenorrhea (disease)"]
@@ -77,13 +77,19 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 72332 | Evalon Cream | Vaginal cream, tube of 15 gm | Not stated |
-| 233909 | Vagimoist Vaginal Cream | Vaginal cream, tube of 15 gm | Not stated |
-| 73078 | Evalon 2mg Tablet | Tablet, strip of 30 | Not stated |
-| 72964 | Evalon 1mg Tablet | Tablet, strip of 30 | Not stated |
-| 72888 | Evolon Cream | Vaginal cream, tube of 15 gm | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 72332 | Evalon Cream | Tube of 15 gm Vaginal Cream | Valid |
+| 72888 | Evolon Cream | Tube of 15 gm Vaginal Cream | Valid |
+| 72964 | Evalon 1mg Tablet | Strip of 30 tablets | Valid |
+| 73078 | Evalon 2mg Tablet | Strip of 30 tablets | Valid |
+| 233909 | Vagimoist Vaginal Cream | Tube of 15 gm Vaginal Cream | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

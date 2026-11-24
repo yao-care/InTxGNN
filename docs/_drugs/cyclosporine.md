@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "Cyclosporine"
 predicted_indications: ["granulomatous disease, chronic, autosomal recessive", "brain aneurysm", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "congenital ichthyosiform erythroderma", "fetal erythroblastosis", "brachydactyly-syndactyly syndrome", "prolapse of lacrimal gland"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cyclosporine: predicted new indication granulomatous disease, chronic, autosomal recessive (evidence level L5). In India: at least 20 listed products"
 ---
 
@@ -73,15 +73,38 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-Cyclosporine is marketed in India. All 20 licence records in the data compiled for this report are valid, and the list may be partial. The records carry no approved-indication text. Main authorizations:
+Cyclosporine is marketed in India. All 20 licence records in the data compiled for this report are valid, and the list may be partial. The records carry no approved-indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 166958 | Oncyclo 50mg Capsule | Strip of 5 capsules | Not recorded |
-| 39039 | Cyclophil ME Oral Solution | Bottle of 50 ml oral solution | Not recorded |
-| 237076 | Vaktear Eye Drop | Bottle of 3 ml eye drop | Not recorded |
-| 202327 | Sandimmun Injection | Ampoule of 1 ml injection | Not recorded |
-| 41303 | Cyclomune 50mg Tablet | Strip of 10 tablets | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 601 | Arpimune ME 50mg Capsule | Strip of 5 soft gelatin capsules | Valid |
+| 5009 | Arpimune-O 50mg Capsule | Strip of 5 capsules | Valid |
+| 38668 | Cyclonox 50mg Soft Gelatin Capsule | Strip of 5 soft gelatin capsules | Valid |
+| 39039 | Cyclophil ME Oral Solution | Bottle of 50 ml Oral Solution | Valid |
+| 39233 | Cyclophil 100mg Capsule | Strip of 6 capsules | Valid |
+| 41303 | Cyclomune 50mg Tablet | Strip of 10 tablets | Valid |
+| 41560 | Cyclotag 100mg Capsule | Strip of 10 capsules | Valid |
+| 97174 | Grafotas 25mg Capsule | Strip of 5 capsules | Valid |
+| 101216 | Graftin 25mg Capsule | Strip of 5 capsules | Valid |
+| 108662 | Imusporin 100 Capsule | Strip of 5 capsules | Valid |
+| 109071 | Imunet 100mg Capsule | Strip of 6 capsules | Valid |
+| 166958 | Oncyclo 50mg Capsule | Strip of 5 capsules | Valid |
+| 170076 | Oncyclo 25mg Capsule | Strip of 5 capsules | Valid |
+| 173718 | Psorid 100 Capsule | Strip of 5 capsules | Valid |
+| 174038 | Psorid 25 Capsule | Strip of 5 capsules | Valid |
+| 175329 | Pasilow 50mg Capsule | Strip of 5 capsules | Valid |
+| 202327 | Sandimmun Injection | Ampoule of 1 ml Injection | Valid |
+| 209580 | Stridimmune 50mg Capsule | Strip of 5 capsules | Valid |
+| 212354 | Stridimmune 25mg Capsule | Strip of 5 capsules | Valid |
+| 237076 | Vaktear Eye Drop | Bottle of 3 ml Eye Drop | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 Available routes include oral, ophthalmic and injectable forms.
 

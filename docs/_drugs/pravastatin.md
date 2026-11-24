@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 695
 evidence_level: L4
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Pravastatin"
 predicted_indications: ["HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "hypoalphalipoproteinemia", "cholesterol-ester transfer protein deficiency"]
 description: "Pravastatin: predicted new indication HIV infectious disease (evidence level L4). In India: 4 listed products (4 not discontinued)"
@@ -81,12 +81,18 @@ Pediatric studies show pravastatin lowers LDL-C in FH, including a placebo-contr
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 178181 | Prastatin 10mg Tablet | Strip of 10 tablets | Not specified |
-| 176144 | Prastatin 20mg Tablet | Strip of 10 tablets | Not specified |
-| 177163 | Pravator 20mg Tablet | Strip of 10 tablets | Not specified |
-| 179420 | Pravator 10mg Tablet | Strip of 10 tablets | Not specified |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 176144 | Prastatin 20mg Tablet | Strip of 10 tablets | Valid |
+| 177163 | Pravator 20mg Tablet | Strip of 10 tablets | Valid |
+| 178181 | Prastatin 10mg Tablet | Strip of 10 tablets | Valid |
+| 179420 | Pravator 10mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 All four licences are valid single-ingredient oral tablets, from Emcure Pharmaceuticals and Sun Pharmaceutical Industries.
 

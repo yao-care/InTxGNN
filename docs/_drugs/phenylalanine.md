@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 664
 evidence_level: L4
 indication_count: 2
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 description: "Phenylalanine: predicted new indication Sclerosing cholangitis (evidence level L4). Approved use: Not available"
 monitor_inn: "Phenylalanine"
 predicted_indications: ["sclerosing cholangitis", "congenital prothrombin deficiency"]
@@ -77,9 +77,15 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 135152 | Melaroc Tablet (Rivan Pharma) | Strip of 10 tablets | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 135152 | Melaroc Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Calcitriol"
 predicted_indications: ["obsolete vitamin D deficiency", "renal tubular acidosis", "acromesomelic dysplasia, Campailla Martinelli type", "craniofacial conodysplasia", "hereditary hypophosphatemic rickets"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Calcitriol: predicted new indication obsolete vitamin D deficiency (evidence level L5). In India: at least 20 listed products"
 ---
 
@@ -68,6 +68,37 @@ Currently no related clinical trials registered for this predicted indication.
 Currently no related literature available for this predicted indication.
 
 ## India Market Information
+
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 2394 | Atibon-K27 Softgel Capsule | Strip of 15 soft gelatin capsules | Valid |
+| 26559 | Batcium-K2 Capsule | Strip of 10 soft gelatin capsules | Valid |
+| 34657 | Cal-Aid Soft Gelatin Capsule | Strip of 10 soft gelatin capsules | Valid |
+| 35214 | Cal-Aid Soft Gelatin Capsule | Strip of 15 soft gelatin capsules | Valid |
+| 36119 | Calcirol 600000IU Injection | Packet of 6 injections | Valid |
+| 36719 | Calcirest Max Tablet | Strip of 10 tablets | Valid |
+| 37982 | Calsym-Plus Soft Gel Capsule | Strip of 15 soft gelatin capsules | Valid |
+| 38309 | Cecelia Plus Tablet | Strip of 10 tablets | Valid |
+| 43426 | Calcijet Injection | Ampoule of 1 ml Injection | Valid |
+| 86136 | Fujical-Max Soft Gelatin Capsule | Strip of 10 soft gelatin capsules | Valid |
+| 95787 | Gemscare Softgel Capsule | Strip of 15 soft gelatin capsules | Valid |
+| 122271 | Laretol 1mcg Injection | Ampoule of 1 ml Injection | Valid |
+| 126100 | Lifecium Softgel Capsule | Strip of 15 soft gelatin capsules | Valid |
+| 134223 | Mancal Forte Softgel Capsule | Strip of 10 soft gelatin capsules | Valid |
+| 135921 | Medistrong-K2 Tablet | Strip of 10 tablets | Valid |
+| 151400 | Nidcal CL Tablet | Strip of 10 tablets | Valid |
+| 188057 | Ritocal CT 0.25mcg Tablet | Strip of 10 tablets | Valid |
+| 201065 | Stobo-Cal K27 Softgel Capsule | Strip of 10 soft gelatin capsules | Valid |
+| 203281 | Sporecal-Alpha Soft Gelatin Capsule | Strip of 15 soft gelatin capsules | Valid |
+| 219110 | Tonecal Softgel Capsule | Strip of 10 soft gelatin capsules | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 Calcitriol is marketed in India. The records compiled for this report show 20 valid single-ingredient licences and none cancelled; the list may be partial. The licence records carry no indication text. Available forms:
 

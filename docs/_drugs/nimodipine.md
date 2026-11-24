@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 596
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Nimodipine: predicted new indication Homozygous familial hypercholesterolemia (evidence level L5). Approved use: Subarachnoid hemorrhage (including acquired aneurysmal subarachnoid h…"
 monitor_inn: "Nimodipine"
 predicted_indications: ["homozygous familial hypercholesterolemia", "nephrogenic syndrome of inappropriate antidiuresis"]
@@ -76,15 +76,33 @@ Currently no related literature available.
 
 ## India Market Information
 
-There are 17 valid single-ingredient registrations. Five representative ones are listed below.
+There are 17 valid single-ingredient registrations.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 43926 | Caldip 10mg Infusion | Bottle of 10 infusions | Not stated |
-| 151292 | Nimocer 30mg Tablet | Strip of 10 tablets | Not stated |
-| 152225 | Nimotide 30mg Tablet | Strip of 6 tablets | Not stated |
-| 234530 | Vasotop 30mg Tablet | Strip of 10 tablets | Not stated |
-| 236460 | Vasotop 30mg Infusion | Bottle of 50 ml infusion | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 43926 | Caldip 10mg Infusion | Bottle of 10 infusions | Valid |
+| 150380 | Nimodip Tablet | Strip of 10 tablets | Valid |
+| 151292 | Nimocer 30mg Tablet | Strip of 10 tablets | Valid |
+| 151575 | Nimodep 30mg Tablet | Strip of 10 tablets | Valid |
+| 151774 | Nimodip 10mg Infusion | Bottle of 50 ml Infusion | Valid |
+| 151960 | Nimodec 30mg Tablet | Strip of 10 tablets | Valid |
+| 152223 | Nimodec 10mg Infusion | Bottle of 50 ml Infusion | Valid |
+| 152225 | Nimotide 30mg Tablet | Strip of 6 tablets | Valid |
+| 152649 | Nimotor 30 Tablet | Strip of 10 tablets | Valid |
+| 153380 | Nimpod 30mg Tablet | Strip of 10 tablets | Valid |
+| 153626 | Nimotime 30mg Tablet | Strip of 10 tablets | Valid |
+| 154938 | Nimocard Infusion | Bottle of 50 ml Infusion | Valid |
+| 155017 | Nimodinol 30mg Tablet | Strip of 10 tablets | Valid |
+| 156790 | Nimomine 30mg Tablet | Strip of 10 tablets | Valid |
+| 157914 | Nimomeg 10mg Infusion | Bottle of 50 ml Infusion | Valid |
+| 234530 | Vasotop 30mg Tablet | Strip of 10 tablets | Valid |
+| 236460 | Vasotop 30mg Infusion | Bottle of 50 ml Infusion | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 Both oral tablets and intravenous infusions are available on the market.
 

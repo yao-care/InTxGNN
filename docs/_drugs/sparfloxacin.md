@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 786
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Sparfloxacin: predicted new indication Hyperamylasemia (evidence level L5). Approved use: Pneumonia (streptococcal, Mycoplasma pneumoniae, chlamydial)"
 monitor_inn: "Sparfloxacin"
 predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague", "congenital hematological disorder"]
@@ -88,15 +88,38 @@ For reference, the only publication retrieved across the predicted indications r
 
 ## India Market Information
 
-Sparfloxacin is marketed in India as single-ingredient oral tablets, with 20 valid registrations and none cancelled. Approved indication text was not available for these products. Five representative registrations:
+Sparfloxacin is marketed in India as single-ingredient oral tablets, with 20 valid registrations and none cancelled. Approved indication text was not available for these products.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| 201912 | Spin 200mg Tablet | Strip of 10 tablets | Lancer Health Care Pvt Ltd |
-| 213300 | Sparflin 400mg Tablet | Strip of 6 tablets | Lupin Ltd |
-| 208042 | Sparcure 200mg Tablet | Strip of 10 tablets | Radicura Pharma Pvt Ltd |
-| 202418 | Spiro 200mg Tablet | Strip of 10 tablets | Adoc Pharma |
-| 210716 | Spearl 200mg Tablet | Strip of 6 tablets | Pax Healthcare |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 3612 | Alaska Tablet | Strip of 10 tablets | Valid |
+| 77086 | Easypa 200mg Tablet | Strip of 10 tablets | Valid |
+| 93619 | Forspac 200mg Tablet | Strip of 10 tablets | Valid |
+| 158328 | Neurospar 200mg Tablet | Strip of 10 tablets | Valid |
+| 183552 | Qlan 100mg Tablet | Strip of 10 tablets | Valid |
+| 201912 | Spin 200mg Tablet | Strip of 10 tablets | Valid |
+| 202418 | Spiro 200mg Tablet | Strip of 10 tablets | Valid |
+| 202586 | Spartrust 200mg Tablet | Strip of 10 tablets | Valid |
+| 208042 | Sparcure 200mg Tablet | Strip of 10 tablets | Valid |
+| 208842 | Seflo 200mg Tablet | Strip of 10 tablets | Valid |
+| 210716 | Spearl 200mg Tablet | Strip of 6 tablets | Valid |
+| 211471 | Sparwell 200mg Tablet | Strip of 6 tablets | Valid |
+| 212399 | Sparkep 200mg Tablet | Strip of 10 tablets | Valid |
+| 212860 | Sparwin 100mg Tablet | Strip of 10 tablets | Valid |
+| 212861 | Sparcil 200mg Tablet | Strip of 10 tablets | Valid |
+| 213008 | Sparinda 200mg Tablet | Strip of 10 tablets | Valid |
+| 213300 | Sparflin 400mg Tablet | Strip of 6 tablets | Valid |
+| 213368 | Sparlin 200mg Tablet | Strip of 10 tablets | Valid |
+| 213975 | Sparcil 100mg Tablet | Strip of 10 tablets | Valid |
+| 220637 | Tract 200mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ---
 

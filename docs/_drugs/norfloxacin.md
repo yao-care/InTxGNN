@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Norfloxacin"
 predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "punctate epithelial keratoconjunctivitis", "premalignant hematological system disease", "diffuse scleroderma", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Norfloxacin: predicted new indication Hyperamylasemia (evidence level L5). In India: at least 20 listed products"
 ---
 
@@ -73,13 +73,36 @@ Currently no related literature available for hyperamylasemia.
 
 The list below shows 5 of at least 20 valid licences recorded. The list may be partial, and no licence in the data includes approved indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 153214 | Norspan 400mg Tablet | Strip of 10 tablets | Not stated in the records |
-| 172439 | Osoflox 400mg Tablet | Strip of 10 tablets | Not stated in the records |
-| 222889 | Tamflox 400mg Tablet | Strip of 10 tablets | Not stated in the records |
-| 157488 | Norflin 400mg Tablet | Strip of 10 tablets | Not stated in the records |
-| 106769 | Hiflox 400mg Tablet | Strip of 10 tablets | Not stated in the records |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 8376 | Amodys NT 400mg/600mg Tablet | Strip of 10 tablets | Valid |
+| 32967 | Bionorf TZ 400mg/600mg Tablet | Strip of 10 tablets | Valid |
+| 54911 | Cansor-TZ 400mg/600mg Tablet | Strip of 10 tablets | Valid |
+| 64908 | Dakson 400 mg/600 mg Tablet | Strip of 10 tablets | Valid |
+| 79979 | Enflox TZ 400mg/600mg Tablet | Strip of 10 tablets | Valid |
+| 106769 | Hiflox 400mg Tablet | Strip of 10 tablets | Valid |
+| 129695 | Lanom 400mg/600mg Tablet | Strip of 10 tablets | Valid |
+| 150423 | Nds Nflox-TZ Tablet | Strip of 10 tablets | Valid |
+| 151147 | Nortini Tablet | Strip of 10 tablets | Valid |
+| 151453 | Nor Metrogyl TZ 400mg/500mg Tablet | Strip of 10 tablets | Valid |
+| 151962 | Norpex 400mg Tablet | Strip of 10 tablets | Valid |
+| 153214 | Norspan 400mg Tablet | Strip of 10 tablets | Valid |
+| 157488 | Norflin 400mg Tablet | Strip of 10 tablets | Valid |
+| 157581 | N Tiz 400mg/600mg Tablet | Strip of 10 tablets | Valid |
+| 159809 | Nortum 100mg Tablet | Strip of 10 tablets | Valid |
+| 172439 | Osoflox 400mg Tablet | Strip of 10 tablets | Valid |
+| 209831 | Sparnor 100mg Tablet | Strip of 10 tablets | Valid |
+| 222295 | Tinimix 100mg/100mg Syrup | Bottle of 30 ml Syrup | Valid |
+| 222889 | Tamflox 400mg Tablet | Strip of 10 tablets | Valid |
+| 227699 | Tiflox 400mg/600mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 Other records are listed as combination-type products, such as norfloxacin with tinidazole, but they are not used here to describe the single-ingredient drug.
 

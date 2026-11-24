@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 270
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 description: "Diltiazem: known uses and market status in India; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -72,30 +72,36 @@ The TxGNN model's candidates for Diltiazem (score ≥ 0.99) are all known uses, 
 
 ## India Market Information
 
-| Licence | Product | Dosage form | Status |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
 |------|------|------|------|
-| 64170 | Dizy 10 Tablet | strip of 10 tablets | Valid |
-| 71240 | Dilzex 30mg Tablet | strip of 20 tablets | Valid |
-| 183456 | Q-DIL 90MG TABLET | strip of 10 tablets | Valid |
-| 66263 | DZ CD 90mg Capsule | strip of 10 capsules | Valid |
-| 36631 | Channel 30 Tablet MR | strip of 10 tablet mr | Valid |
-| 59813 | Dilcontin 60 Tablet CR | strip of 10 tablet cr | Valid |
-| 62286 | Delta 90 SR Tablet | strip of 10 tablet sr | Valid |
-| 77677 | Eldizem 30mg Tablet | strip of 10 tablets | Valid |
-| 60306 | DTM 90 SR Tablet | strip of 10 tablet sr | Valid |
-| 67328 | Dilkind 90mg Tablet SR | strip of 10 tablet sr | Valid |
-| 166990 | Orticard 60mg Tablet | strip of 10 tablets | Valid |
-| 112106 | Ionozem CD 120mg Tablet | strip of 10 tablets | Valid |
-| 69353 | Diltime 30mg Tablet | strip of 10 tablets | Valid |
-| 64863 | Dilcardia 90mg Tablet SR | strip of 10 tablet sr | Valid |
-| 63935 | DZ 60mg Tablet | strip of 10 tablets | Valid |
-| 37885 | Channel 60mg Tablet | strip of 10 tablets | Valid |
-| 70909 | Diltp 60mg Tablet | strip of 1 Tablet | Valid |
-| 68045 | Dilsantin 30mg Tablet | strip of 10 tablets | Valid |
-| 69915 | DZ CD 120mg Capsule | strip of 10 capsules | Valid |
-| 50618 | Channel 20mg Tablet | strip of 10 tablets | Valid |
+| 36631 | Channel 30 Tablet MR | Strip of 10 tablet mr | Valid |
+| 37885 | Channel 60mg Tablet | Strip of 10 tablets | Valid |
+| 50618 | Channel 20mg Tablet | Strip of 10 tablets | Valid |
+| 59813 | Dilcontin 60 Tablet CR | Strip of 10 tablet cr | Valid |
+| 60306 | DTM 90 SR Tablet | Strip of 10 tablet sr | Valid |
+| 62286 | Delta 90 SR Tablet | Strip of 10 tablet sr | Valid |
+| 63935 | DZ 60mg Tablet | Strip of 10 tablets | Valid |
+| 64170 | Dizy 10 Tablet | Strip of 10 tablets | Valid |
+| 64863 | Dilcardia 90mg Tablet SR | Strip of 10 tablet sr | Valid |
+| 66263 | DZ CD 90mg Capsule | Strip of 10 capsules | Valid |
+| 67328 | Dilkind 90mg Tablet SR | Strip of 10 tablet sr | Valid |
+| 68045 | Dilsantin 30mg Tablet | Strip of 10 tablets | Valid |
+| 69353 | Diltime 30mg Tablet | Strip of 10 tablets | Valid |
+| 69915 | DZ CD 120mg Capsule | Strip of 10 capsules | Valid |
+| 70909 | Diltp 60mg Tablet | Strip of 1 Tablet | Valid |
+| 71240 | Dilzex 30mg Tablet | Strip of 20 tablets | Valid |
+| 77677 | Eldizem 30mg Tablet | Strip of 10 tablets | Valid |
+| 112106 | Ionozem CD 120mg Tablet | Strip of 10 tablets | Valid |
+| 166990 | Orticard 60mg Tablet | Strip of 10 tablets | Valid |
+| 183456 | Q-DIL 90MG TABLET | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
 
 Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

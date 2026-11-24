@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 642
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Pantoprazole"
 predicted_indications: ["duodenal obstruction"]
 description: "Pantoprazole: predicted new indication Duodenal obstruction (evidence level L5). In India: at least 20 listed products"
@@ -103,13 +103,36 @@ Duodenal ulcer literature also includes several older comparative trials, includ
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 19608 | Adicid 40mg Injection | Vial of 1 injection | Not stated |
-| 175021 | Proton 40mg Tablet | Strip of 10 tablets | Not stated |
-| 174002 | Pantocid 80 Dual-Release Tablet | Strip of 15 tablets | Not stated |
-| 173922 | Pantocid IV Injection | Vial of 1 injection | Not stated |
-| 96957 | Gempan 40mg Tablet | Strip of 10 tablets | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 19608 | Adicid 40mg Injection | Vial of 1 Injection | Valid |
+| 24982 | Adlepan-IV Injection | Vial of 1 Injection | Valid |
+| 82931 | Ezpan 40mg Injection | Vial of 1 Injection | Valid |
+| 87587 | Fenpan 40 Tablet | Strip of 10 tablets | Valid |
+| 96957 | Gempan 40mg Tablet | Strip of 10 tablets | Valid |
+| 99566 | Gastronov 40mg Tablet | Strip of 10 tablets | Valid |
+| 105521 | Hipan 40 Tablet | Strip of 10 tablets | Valid |
+| 119013 | Kanzole 40 Injection | Vial of 1 Injection | Valid |
+| 133151 | Liteprazole 40mg Injection | Vial of 1 Injection | Valid |
+| 158923 | Nikzole 40 Tablet | Strip of 10 tablets | Valid |
+| 172556 | Onyacid-IV Injection | Vial of 1 Injection | Valid |
+| 173922 | Pantocid IV Injection | Vial of 1 Injection | Valid |
+| 174002 | Pantocid 80 Dual-Release Tablet | Strip of 15 tablets | Valid |
+| 174408 | PD Pan 40mg Injection | Vial of 1 Injection | Valid |
+| 174800 | Pantogen 40mg Tablet | Strip of 10 tablets | Valid |
+| 175021 | Proton 40mg Tablet | Strip of 10 tablets | Valid |
+| 178752 | Panwatch 40mg Tablet | Strip of 10 tablets | Valid |
+| 181825 | Pantox 40mg Injection | Vial of 1 Injection | Valid |
+| 192620 | Rosa-Pan Tablet | Strip of 10 tablets | Valid |
+| 242754 | Weltop Injection | Vial of 1 Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 All 20 licences are valid single-ingredient products, and none are cancelled. Both injectable and oral tablet forms are marketed.
 

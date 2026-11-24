@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 65
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Aprepitant: predicted new indication Nephrogenic syndrome of inappropriate antidiuresis (evidence level L5). Approved use: Not available in the compiled data (aprepitant is generally known as…"
 monitor_inn: "Aprepitant"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "hypertrichosis (disease)", "pulmonary hypertension", "leprosy", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "kyphoscoliotic heart disease", "syndrome with a Dandy-Walker malformation as major feature", "subarachnoid hemorrhage (disease)", "isolated genetic hair shaft abnormality"]
@@ -71,15 +71,38 @@ Currently no related literature available for the predicted indication.
 
 ## India Market Information
 
-Twenty valid single-ingredient registrations were found. Approved indication text was not available for any of them. The five main ones are listed below.
+Twenty valid single-ingredient registrations were found. Approved indication text was not available for any of them.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| 73901 | Emend 125mg/80mg Capsule | Strip of 3 capsules | MSD Pharmaceuticals Pvt Ltd |
-| 74628 | Emvoid 125 mg/80 mg Capsule | Strip of 3 capsules | Torrent Pharmaceuticals Ltd |
-| 75079 | Emvoid Injection | Vial of 1 injection | Torrent Pharmaceuticals Ltd |
-| 421 | Aprecap 125/80 Capsule | Strip of 3 capsules | Glenmark Pharmaceuticals Ltd |
-| 7557 | Aprepit Kit | Packet of 1 kit | Cipla Ltd |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 421 | Aprecap 125/80 Capsule | Strip of 3 capsules | Valid |
+| 1956 | Aprecap 150mg Injection | Vial of 1 Injection | Valid |
+| 2335 | Apretero 125/80 Kit | Packet of 1 Kit | Valid |
+| 2429 | Apristar 125 mg/80 mg Capsule | Strip of 3 capsules | Valid |
+| 2741 | Apriset Kit | Packet of 3 kit | Valid |
+| 4444 | Apriset 150mg Injection | Vial of 10 ml Injection | Valid |
+| 5323 | Aprebion Kit | Box of 3 capsules | Valid |
+| 6514 | Aprelief Kit | Strip of 1 Kit | Valid |
+| 7557 | Aprepit Kit | Packet of 1 Kit | Valid |
+| 8227 | Aprifer 125mg/80mg Capsule | Strip of 1 Capsule | Valid |
+| 8624 | Amitant Kit | Box of 1 Kit | Valid |
+| 12638 | Apricyt Kit | Packet of 3 capsules | Valid |
+| 15973 | Aprepep 125mg Capsule | Strip of 3 capsules | Valid |
+| 73901 | Emend 125mg/80mg Capsule | Strip of 3 capsules | Valid |
+| 74628 | Emvoid 125 mg/80 mg Capsule | Strip of 3 capsules | Valid |
+| 75079 | Emvoid Injection | Vial of 1 Injection | Valid |
+| 85346 | Fos-Aprepitant 125mg Tablet | Strip of 3 tablets | Valid |
+| 89745 | Fosapine 150mg Injection | Vial of 1 Injection | Valid |
+| 167245 | Opilo Kit | Packet of 1 Kit | Valid |
+| 176590 | Prepit Capsule | Box of 1 Kit | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 Other registered products include fosaprepitant injections and tablets, and multiple kit presentations from Alkem, Sun, Intas, Abbott, Lupin, Hetero and others.
 

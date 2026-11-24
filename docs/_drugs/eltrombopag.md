@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 302
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Eltrombopag: predicted new indication HIV infectious disease (evidence level L5). Approved use: Autoimmune thrombocytopenia"
 monitor_inn: "Eltrombopag"
 predicted_indications: ["HIV infectious disease"]
@@ -97,12 +97,18 @@ Early termination limits the reliability of any conclusions. The termination rea
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 214967 | Trombopag 50mg Tablet (Natco Pharma Ltd) | Strip of 7 tablets | Not specified |
-| 215030 | Trombopag 25 Tablet (Natco Pharma Ltd) | Strip of 7 tablets | Not specified |
-| 184283 | Revolade 25mg Tablet (Novartis India Ltd) | Strip of 7 tablets | Not specified |
-| 184195 | Revolade 50mg Tablet (Novartis India Ltd) | Strip of 7 tablets | Not specified |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 184195 | Revolade 50mg Tablet | Strip of 7 tablets | Valid |
+| 184283 | Revolade 25mg Tablet | Strip of 7 tablets | Valid |
+| 214967 | Trombopag 50mg Tablet | Strip of 7 tablets | Valid |
+| 215030 | Trombopag 25 Tablet | Strip of 7 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 All four licences are valid single-ingredient oral products.
 

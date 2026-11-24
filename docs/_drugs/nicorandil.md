@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 593
 evidence_level: L4
 indication_count: 6
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Nicorandil: predicted new indication benign prostatic hyperplasia (disease) (evidence level L4). Approved use: Chronic stable angina pectoris"
 monitor_inn: "Nicorandil"
 predicted_indications: ["benign prostatic hyperplasia (disease)", "alopecia", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "osteoarthritis"]
@@ -86,15 +86,38 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-Twenty single-ingredient oral tablet licences are currently valid, and none have been cancelled. The records contain no approved indication text. The main authorisations are:
+Twenty single-ingredient oral tablet licences are currently valid, and none have been cancelled. The records contain no approved indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 115647 | Korandil 5 Tablet (Sun Pharmaceutical Industries Ltd) | Strip of 10 tablets | Not stated in the records |
-| 247631 | Zynicor 10mg Tablet (Zydus Cadila) | Strip of 30 tablets | Not stated in the records |
-| 247169 | Zynicor 5 Tablet (Zydus Cadila) | Bottle of 30 tablets | Not stated in the records |
-| 150503 | Nicoduce 5 Tablet (Abbott) | Bottle of 20 tablets | Not stated in the records |
-| 38755 | Corflo 5mg Tablet (Wockhardt Ltd) | Strip of 20 tablets | Not stated in the records |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 38755 | Corflo 5mg Tablet | Strip of 20 tablets | Valid |
+| 61177 | DavaIndia Nicorandil 5mg Tablet | Strip of 10 tablets | Valid |
+| 67325 | Dilkor 5mg Tablet | Strip of 20 tablets | Valid |
+| 85055 | Fordil 5 Tablet | Bottle of 20 tablets | Valid |
+| 115647 | Korandil 5 Tablet | Strip of 10 tablets | Valid |
+| 117811 | Koran 10 Tablet | Strip of 10 tablets | Valid |
+| 128341 | Lorandil 5mg Tablet | Strip of 30 tablets | Valid |
+| 150503 | Nicoduce 5 Tablet | Bottle of 20 tablets | Valid |
+| 153247 | Nicopill 5mg Tablet | Strip of 10 tablets | Valid |
+| 153575 | Nicure 5mg Tablet | Strip of 10 tablets | Valid |
+| 154274 | Nicorcaid 5 Tablet | Bottle of 30 tablets | Valid |
+| 154327 | Nicoral 10 Tablet | Strip of 10 tablets | Valid |
+| 154999 | Nicomax 5mg Tablet | Strip of 10 tablets | Valid |
+| 155744 | Nicor 5mg Tablet | Strip of 10 tablets | Valid |
+| 156159 | N-Dril 5 Tablet | Strip of 10 tablets | Valid |
+| 156449 | Nicorex 20mg Tablet | Strip of 10 tablets | Valid |
+| 159483 | Nivodil 10mg Tablet | Strip of 10 tablets | Valid |
+| 159986 | Niconova 10 Tablet | Bottle of 20 tablets | Valid |
+| 247169 | Zynicor 5 Tablet | Bottle of 30 tablets | Valid |
+| 247631 | Zynicor 10mg Tablet | Strip of 30 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ---
 

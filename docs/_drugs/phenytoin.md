@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 667
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Phenytoin: predicted new indication Trigeminal nerve neoplasm (evidence level L5). Approved use: Epilepsy (including generalized tonic-clonic seizures…"
 monitor_inn: "Phenytoin"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia", "beta-ketothiolase deficiency"]
@@ -91,15 +91,38 @@ Currently no related clinical trials registered for the top-ranked prediction, t
 
 ## India Market Information
 
-A total of 20 valid single-ingredient registrations were found, with no cancelled licences. The approved indication text is not available in the compiled data. Five main registrations:
+A total of 20 valid single-ingredient registrations were found, with no cancelled licences. The approved indication text is not available in the compiled data.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 182325 | Phalin 300mg Tablet | Strip of 10 tablets | Not available |
-| 74300 | Epsotal Tablet | Bottle of 100 tablets | Not available |
-| 72821 | Epsolin ER 300 Tablet | Bottle of 30 extended-release tablets | Not available |
-| 212388 | Stoin 50mg Suspension | Bottle of 200 ml suspension | Not available |
-| 79626 | Epsod Injection | Vial of 2 ml injection | Not available |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 17897 | Atoin 50mg Tablet | Bottle of 90 tablets | Valid |
+| 53660 | Cutoin 50mg Injection | Ampoule of 1 Injection | Valid |
+| 72821 | Epsolin ER 300 Tablet | Bottle of 30 tablet er | Valid |
+| 73053 | Epsolin 300 Tablet | Bottle of 30 tablets | Valid |
+| 74300 | Epsotal Tablet | Bottle of 100 tablets | Valid |
+| 75001 | Epilep 300mg Tablet ER | Strip of 10 tablet er | Valid |
+| 75853 | Eptozen 100mg Tablet | Bottle of 100 tablets | Valid |
+| 76019 | Episol 100mg Tablet | Strip of 10 tablets | Valid |
+| 79526 | Eripin 100mg Tablet | Strip of 10 tablets | Valid |
+| 79626 | Epsod Injection | Vial of 2 ml Injection | Valid |
+| 79756 | Epsod 50mg Tablet | Bottle of 60 tablets | Valid |
+| 81882 | Epilog 100mg Tablet | Strip of 10 tablets | Valid |
+| 176958 | Phenyto S 100mg Tablet | Bottle of 100 tablets | Valid |
+| 178235 | Protoin 100mg Tablet | Strip of 10 tablets | Valid |
+| 182325 | Phalin 300mg Tablet | Strip of 10 tablets | Valid |
+| 202957 | Seztin 100mg Tablet | Bottle of 100 tablets | Valid |
+| 209668 | Stoin 50mg Tablet | Strip of 10 tablets | Valid |
+| 212388 | Stoin 50mg Suspension | Bottle of 200 ml Suspension | Valid |
+| 212793 | Stoin 150mg Tablet | Strip of 10 tablets | Valid |
+| 251084 | Zotoin 100mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 Available forms include oral tablets, extended-release tablets, an oral suspension and injectables.
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Doxylamine"
 predicted_indications: ["nasal cavity disease"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Doxylamine: predicted new indication nasal cavity disease (evidence level L5). In India: at least 20 listed products"
 ---
 
@@ -79,15 +79,38 @@ Currently no related literature available.
 
 ## India Market Information
 
-At least 20 valid single-ingredient licences are recorded, and the list may be partial. The main ones are shown below. None of them carries approved indication text in the local data.
+At least 20 valid single-ingredient licences are recorded, and the list may be partial. None of them carries approved indication text in the local data.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 71620 | Doxqueen 10mg/10mg/2.5mg Tablet | Strip of 10 tablets | Not recorded |
-| 96198 | Gud M Tablet | Strip of 10 tablets | Not recorded |
-| 64184 | Doxibert-Plus Tablet | Strip of 10 tablets | Not recorded |
-| 201100 | Sinate Tablet | Strip of 30 tablets | Not recorded |
-| 159279 | Nnv Tablet | Strip of 10 tablets | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 63164 | Doxytuff Tablet | Strip of 10 tablets | Valid |
+| 64184 | Doxibert-Plus Tablet | Strip of 10 tablets | Valid |
+| 64225 | Doxyfresh F Tablet | Strip of 10 tablets | Valid |
+| 67048 | Doxipy Tablet | Strip of 10 tablets | Valid |
+| 71001 | Doxixor 10mg/10mg/2.5mg Tablet | Strip of 10 tablets | Valid |
+| 71620 | Doxqueen 10mg/10mg/2.5mg Tablet | Strip of 10 tablets | Valid |
+| 83669 | Emewin 10mg/10mg Tablet | Strip of 10 tablets | Valid |
+| 88908 | Folmine P Tablet | Strip of 10 tablets | Valid |
+| 96198 | Gud M Tablet | Strip of 10 tablets | Valid |
+| 98621 | Gravidox 10 mg/10 mg Tablet | Strip of 10 tablets | Valid |
+| 118454 | Kan-Fresh Tablet | Strip of 10 tablets | Valid |
+| 145517 | Mosick 10mg/10mg Tablet | Strip of 10 tablets | Valid |
+| 151388 | NV Tablet | Strip of 30 tablets | Valid |
+| 152298 | Nomosic Tablet | Strip of 10 tablets | Valid |
+| 155903 | Nms D Tablet | Strip of 10 tablets | Valid |
+| 159279 | Nnv Tablet | Strip of 10 tablets | Valid |
+| 176184 | Prezen Tablet | Strip of 10 tablets | Valid |
+| 180264 | Pregmesis F Tablet | Strip of 10 tablets | Valid |
+| 201100 | Sinate Tablet | Strip of 30 tablets | Valid |
+| 237257 | Vemsaid Plus 10mg/10mg/2.5mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "Clopidogrel"
 predicted_indications: ["migraine with brainstem aura", "migraine disorder", "osteoarthritis", "tendinitis", "myositis fibrosa", "idiopathic granulomatous myositis", "rheumatoid arthritis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Clopidogrel: predicted new indication migraine with brainstem aura (evidence level L5). In India: at least 20 listed products"
 ---
 
@@ -79,13 +79,36 @@ Currently no related clinical trials registered for migraine with brainstem aura
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 207334 | Superclop 150mg Tablet | Strip of 10 tablets | Not recorded |
-| 79476 | Ecogrel 75 Tablet | Strip of 10 tablets | Not recorded |
-| 248252 | Zeter Tablet | Strip of 10 tablets | Not recorded |
-| 52987 | Clopergrel 75mg Tablet | Strip of 10 tablets | Not recorded |
-| 33954 | Clopitab Tablet | Strip of 15 tablets | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 2919 | Aclotil 75mg Tablet | Strip of 10 tablets | Valid |
+| 10531 | Aplet 75mg Tablet | Strip of 10 tablets | Valid |
+| 33954 | Clopitab Tablet | Strip of 15 tablets | Valid |
+| 34118 | Clopivas 75 Tablet | Strip of 15 tablets | Valid |
+| 35769 | Clavix 150 Tablet | Strip of 10 tablets | Valid |
+| 43286 | Clopinorm 75mg Tablet | Strip of 10 tablets | Valid |
+| 49984 | Clopifod 75mg Tablet | Strip of 10 tablets | Valid |
+| 50260 | Clobigrel 75mg Tablet | Strip of 10 tablets | Valid |
+| 52987 | Clopergrel 75mg Tablet | Strip of 10 tablets | Valid |
+| 55625 | Clopisys 75 Tablet | Strip of 10 tablets | Valid |
+| 65205 | Delgrel 75mg Tablet | Strip of 10 tablets | Valid |
+| 68763 | Danavish Clopidogrel 75mg Tablet | Strip of 10 tablets | Valid |
+| 79476 | Ecogrel 75 Tablet | Strip of 10 tablets | Valid |
+| 86229 | Frelet 75 Tablet | Strip of 10 tablets | Valid |
+| 118487 | Klotfree Tablet | Strip of 10 tablets | Valid |
+| 136742 | Manogrel 75mg Tablet | Strip of 10 tablets | Valid |
+| 181492 | Pidgrel 75mg Tablet | Strip of 10 tablets | Valid |
+| 195965 | Reduplaq 75mg Tablet | Strip of 10 tablets | Valid |
+| 207334 | Superclop 150mg Tablet | Strip of 10 tablets | Valid |
+| 248252 | Zeter Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 The list shows only some of the records and may be partial.
 

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 560
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Misoprostol: predicted new indication Amenorrhea (disease) (evidence level L5). Approved use: Not stated in the available India registration records"
 monitor_inn: "Misoprostol"
 predicted_indications: ["amenorrhea (disease)", "atypical coarctation of aorta"]
@@ -80,15 +80,38 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-There are 20 valid single-ingredient registrations, with no cancelled ones. All are oral tablets. The available records do not include approved indication text. Five examples:
+There are 20 valid single-ingredient registrations, with no cancelled ones. All are oral tablets. The available records do not include approved indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 141398 | Misopost 200mcg Tablet (Tesla Labs) | Strip of 4 tablets | Not available |
-| 133961 | Misoprost 25 Tablet (Cipla) | Strip of 4 tablets | Not available |
-| 230560 | Uniprest Tablet (Torrent) | Strip of 4 tablets | Not available |
-| 139440 | Miso-Gyn 25mcg Tablet (Bharat Serums & Vaccines) | Strip of 4 tablets | Not available |
-| 35475 | Cytolog 600 Tablet (Zydus Cadila) | Strip of 1 tablet | Not available |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 35475 | Cytolog 600 Tablet | Strip of 1 Tablet | Valid |
+| 45601 | Contrapill Duo Tablet | Strip of 10 tablets | Valid |
+| 116713 | Kontrac 200mcg Tablet | Strip of 2 tablets | Valid |
+| 122640 | L Pill 200mcg Tablet | Strip of 4 tablets | Valid |
+| 133961 | Misoprost 25 Tablet | Strip of 4 tablets | Valid |
+| 134439 | Mistol 200mcg Tablet | Strip of 4 tablets | Valid |
+| 134673 | Miso-Gyn 200 Tablet | Strip of 4 tablets | Valid |
+| 134794 | Misoclear 200mcg Tablet | Strip of 4 tablets | Valid |
+| 135470 | M Prost 200mcg Tablet | Strip of 4 tablets | Valid |
+| 139394 | Misogen 200mcg Tablet | Strip of 4 tablets | Valid |
+| 139440 | Miso-Gyn 25mcg Tablet | Strip of 4 tablets | Valid |
+| 140131 | Miso-Gyn 50mcg Tablet | Strip of 4 tablets | Valid |
+| 140918 | Misogest 200mcg Tablet | Strip of 4 tablets | Valid |
+| 141398 | Misopost 200mcg Tablet | Strip of 4 tablets | Valid |
+| 143003 | Mizolast Tablet | Strip of 10 tablets | Valid |
+| 148601 | Misobort 100mcg Tablet | Strip of 4 tablets | Valid |
+| 179523 | Pregclear 200mcg Tablet | Strip of 4 tablets | Valid |
+| 186575 | Rpitant 200mcg Tablet | Strip of 4 tablets | Valid |
+| 216775 | Trust Miso Tablet | Strip of 4 tablets | Valid |
+| 230560 | Uniprest Tablet | Strip of 4 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

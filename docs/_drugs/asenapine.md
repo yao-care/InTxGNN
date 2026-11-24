@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 74
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Asenapine"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "congenital disorder of glycosylation with defective fucosylation", "hydranencephaly (disease)", "syndromic myopia", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia 26, X-linked, female-limited", "atypical glycine encephalopathy"]
 description: "Asenapine: predicted new indication Retinal dystrophy with or without extraocular anomalies (evidence level L5). In India: 7 listed products (7 not discontinued)"
@@ -69,15 +69,23 @@ Currently no related literature available.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 6374 | Asenapt 10 Sublingual tablet (Sun Pharmaceutical) | Strip of 10 sublingual tablets | Not stated in the licence record |
-| 6563 | Asenapt 5 Sublingual tablet (Sun Pharmaceutical) | Strip of 10 sublingual tablets | Not stated in the licence record |
-| 242555 | Welenuf 5mg Tablet (Torrent Pharmaceuticals) | Strip of 10 tablets | Not stated in the licence record |
-| 8880 | Azin 10mg Tablet (Intas Pharmaceuticals) | Strip of 10 tablets | Not stated in the licence record |
-| 12104 | Azin 5mg Tablet (Intas Pharmaceuticals) | Strip of 10 tablets | Not stated in the licence record |
+<!-- licenses:begin -->
 
-All 7 registrations are single-ingredient products and currently valid; the table lists the first 5.
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 6374 | Asenapt 10 Sublingual tablet | Strip of 10 Sublingual tablet | Valid |
+| 6563 | Asenapt 5 Sublingual tablet | Strip of 10 Sublingual tablet | Valid |
+| 8880 | Azin 10mg Tablet | Strip of 10 tablets | Valid |
+| 12104 | Azin 5mg Tablet | Strip of 10 tablets | Valid |
+| 12843 | Alkepin 100mg Tablet DT | Strip of 10 Sublingual tablet | Valid |
+| 22199 | Asevator 10mg Tablet | Strip of 10 tablets | Valid |
+| 242555 | Welenuf 5mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
+
+All 7 registrations are single-ingredient products and currently valid.
 
 ## Safety Considerations
 

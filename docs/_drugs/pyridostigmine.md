@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 714
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Pyridostigmine"
 predicted_indications: ["autoimmune disease of peripheral nervous system", "disease of receptor activity", "hypersplenism (disease)", "atypical hemolytic-uremic syndrome with B factor anomaly"]
 description: "Pyridostigmine: predicted new indication Autoimmune disease of peripheral nervous system (evidence level L5). In India: 12 listed products (12 not discontinued)"
@@ -75,13 +75,26 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 136415 | Mygris 60mg Tablet | Strip of 10 tablets | Not stated in the records |
-| 94756 | Gravitor SR Tablet | Strip of 10 SR tablets | Not stated in the records |
-| 134082 | Myestin 60mg Tablet | Strip of 10 tablets | Not stated in the records |
-| 178890 | Pyristig 60mg Tablet | Strip of 10 tablets | Not stated in the records |
-| 181021 | Pyrido 60mg Tablet | Strip of 10 tablets | Not stated in the records |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 58447 | Distinon Tablet | Strip of 10 tablets | Valid |
+| 94257 | Gravitor Tablet | Strip of 10 tablets | Valid |
+| 94756 | Gravitor SR Tablet | Strip of 10 tablet sr | Valid |
+| 134082 | Myestin 60mg Tablet | Strip of 10 tablets | Valid |
+| 135889 | Mustone 60mg Tablet | Strip of 10 tablets | Valid |
+| 136415 | Mygris 60mg Tablet | Strip of 10 tablets | Valid |
+| 137617 | Myestin 30mg Tablet | Strip of 10 tablets | Valid |
+| 177040 | Pyrostig 60mg Tablet | Strip of 10 tablets | Valid |
+| 178532 | Pyodistig 60mg Tablet | Strip of 10 tablets | Valid |
+| 178890 | Pyristig 60mg Tablet | Strip of 10 tablets | Valid |
+| 181021 | Pyrido 60mg Tablet | Strip of 10 tablets | Valid |
+| 191281 | Ridomine 60mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 All 12 registrations are valid single-ingredient oral products, and none has been cancelled.
 

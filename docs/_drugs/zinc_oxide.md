@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 907
 evidence_level: L4
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Zinc oxide"
 predicted_indications: ["acne (disease)", "anorectal stricture", "anal polyp", "papillary conjunctivitis", "postinfectious vasculitis"]
 description: "Zinc Oxide: predicted new indication Acne (disease) (evidence level L4). In India: 4 listed products (4 not discontinued)"
@@ -76,12 +76,18 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 200795 | Sunheal Pure Cream | Tube of 30 gm cream | Not specified |
-| 200407 | Suncros Soft 2% Cream | Tube of 50 gm cream | Not specified |
-| 185015 | Rashcare Cream | Tube of 20 gm cream | Not specified |
-| 200312 | Sofirash Cream | Tube of 30 gm cream | Not specified |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 185015 | Rashcare Cream | Tube of 20 gm Cream | Valid |
+| 200312 | Sofirash Cream | Tube of 30 gm Cream | Valid |
+| 200407 | Suncros Soft 2% Cream | Tube of 50 gm Cream | Valid |
+| 200795 | Sunheal Pure Cream | Tube of 30 gm Cream | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 All four licences are valid single-ingredient topical creams.
 

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 365
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Fluorometholone: predicted new indication Postinfectious vasculitis (evidence level L5). Approved use: Uveitis and related ocular inflammatory conditions (iritis…"
 monitor_inn: "Fluorometholone"
 predicted_indications: ["postinfectious vasculitis", "post-bacterial disorder", "otitis externa", "infective urethral stricture", "post-infectious syndrome", "punctate epithelial keratoconjunctivitis", "infection-related hemolytic uremic syndrome", "Chagas cardiomyopathy", "glaucomatocyclitic crisis"]
@@ -81,15 +81,38 @@ Neither paper appears to test fluorometholone specifically.
 
 ## India Market Information
 
-Twenty single-ingredient registrations are valid, and none are cancelled. All are ophthalmic eye drops or suspensions (5 ml packs). The data compiled for this report do not include approved indication text. Main authorizations:
+Twenty single-ingredient registrations are valid, and none are cancelled. All are ophthalmic eye drops or suspensions (5 ml packs). The data compiled for this report do not include approved indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 84104 | FML Liquifilm (Allergan India) | Ophthalmic suspension, 5 ml | Not listed |
-| 84883 | Flosoft Eye Drop (Cipla) | Eye drop, 5 ml bottle | Not listed |
-| 87649 | Flosef Eye Drop (Sun Pharmaceutical) | Eye drop, 5 ml | Not listed |
-| 88223 | Flumace Eye Drop (Micro Labs) | Eye drop, 5 ml | Not listed |
-| 151524 | New Biflace Eye Drop (Alembic) | Eye drop, 5 ml bottle | Not listed |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 84104 | FML Liquifilm | Packet of 5 ml Opthalmic Suspension | Valid |
+| 84883 | Flosoft Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 85343 | Flotrust Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 85950 | Flosight Eye Drop | Bottle of 5 ml Opthalmic Suspension | Valid |
+| 86084 | Flurocot Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 86269 | Flacox 0.1% Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 86373 | Floress Eye Drop | Bottle of 5 ml Opthalmic Suspension | Valid |
+| 86694 | Fluroace Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 86808 | FM 1 Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 87038 | Fluster Eye Drop | Bottle of 5 ml Opthalmic Suspension | Valid |
+| 87381 | F Lone 0.1% Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 87649 | Flosef Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 88223 | Flumace Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 89900 | FMN Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 90124 | Flurowyn 0.1% Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 90262 | Flumetha 0.1% Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 90508 | Fluvilone Eye Drop | Bottle of 5 ml Opthalmic Suspension | Valid |
+| 131546 | Lowin Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 151524 | New Biflace Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 236010 | Veflu Eye Drop | Bottle of 5 ml Ophthalmic Solution | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

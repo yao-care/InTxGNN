@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 752
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Romiplostim"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "fetal and neonatal alloimmune thrombocytopenia", "Scott syndrome", "hemorrhagic disorder due to a constitutional thrombocytopenia", "bleeding diathesis due to a collagen receptor defect", "platelet-type bleeding disorder", "autosomal dominant macrothrombocytopenia", "Ehlers-Danlos syndrome, fibronectinemic type"]
 description: "Romiplostim: predicted new indication Primary release disorder of platelets (evidence level L5). In India: 5 listed products (5 not discontinued)"
@@ -110,13 +110,19 @@ For the fourth-ranked prediction (fetal and neonatal alloimmune thrombocytopenia
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 184222 | Romy Injection (Intas Pharmaceuticals Ltd) | Vial of 0.5 ml injection | Not stated in the records |
-| 185412 | Romiset 125mcg Injection (Alkem Laboratories Ltd) | Vial of 1 injection | Not stated in the records |
-| 836 | Augplat 250mcg Injection (Zydus Cadila) | Vial of 1 injection | Not stated in the records |
-| 184776 | Romiset Injection (Alkem Laboratories Ltd) | Vial of 1 injection | Not stated in the records |
-| 185051 | Romiset 500mcg Injection (Alkem Laboratories Ltd) | Vial of 1 injection | Not stated in the records |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 836 | Augplat 250mcg Injection | Vial of 1 Injection | Valid |
+| 184222 | Romy Injection | Vial of 0.5 ml Injection | Valid |
+| 184776 | Romiset Injection | Vial of 1 Injection | Valid |
+| 185051 | Romiset 500mcg Injection | Vial of 1 Injection | Valid |
+| 185412 | Romiset 125mcg Injection | Vial of 1 Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 All five registrations are valid single-ingredient injectable products.
 

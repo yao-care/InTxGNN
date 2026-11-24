@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 122
 evidence_level: L4
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Buprenorphine: predicted new indication Acute intermittent porphyria (evidence level L4). Approved use: Opioid dependence, substance abuse/dependence, morphine dependence"
 monitor_inn: "Buprenorphine"
 predicted_indications: ["acute intermittent porphyria", "lingual-facial-buccal dyskinesia", "chronic tic disorder", "continuous spikes and waves during sleep", "benign shuddering attacks", "extrapyramidal and movement disease"]
@@ -84,15 +84,38 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-Twenty valid single-ingredient registrations are on record. Approved indication text is not available for any of them. The main authorizations are:
+Twenty valid single-ingredient registrations are on record. Approved indication text is not available for any of them.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 26263 | Bupreplast Patch (Zuventus Healthcare) | Box of 2 patches | Not specified |
-| 139468 | Mutrans 20mcg/hr Transdermal Patch (6ipain Healthcare) | Box of 2 transdermal patches | Not specified |
-| 25826 | Buvalor 10mg Transdermal Patch (Modi Mundi Pharma) | Packet of 2 transdermal patches | Not specified |
-| 28578 | Buprinor 0.3mg Injection (AstraZeneca) | Vial of 2 ml injection | Not specified |
-| 216369 | Tidigesic 0.2mg Tablet (Sun Pharmaceutical) | Strip of 10 tablets | Not specified |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 25826 | Buvalor 10mg Transdermal Patch | Packet of 2 transdermal patches | Valid |
+| 26064 | Buprigesic Patch 10 | Box of 2 transdermal patches | Valid |
+| 26198 | Buvalor 20mg Transdermal Patch | Packet of 2 transdermal patches | Valid |
+| 26263 | Bupreplast Patch | Box of 2 patches | Valid |
+| 26273 | Bupatch 10mcg Transdermal Patch | Packet of 1 Transdermal Patch | Valid |
+| 27181 | Bue Touch 10mg Patch | Box of 2 patches | Valid |
+| 27454 | BUPROCARE 2MG TABLET | Strip of 10 tablets | Valid |
+| 27526 | Bue Touch 20mg Patch | Box of 2 patches | Valid |
+| 28578 | Buprinor 0.3mg Injection | Vial of 2 ml Injection | Valid |
+| 122791 | Lupigesic-Old 0.3mg Injection | Vial of 2 ml Injection | Valid |
+| 135855 | Mutrans 10mcg/hr Transdermal Patch | Box of 2 transdermal patches | Valid |
+| 139468 | Mutrans 20mcg/hr Transdermal Patch | Box of 2 transdermal patches | Valid |
+| 151274 | Norphin 0.3mg Injection | Vial of 2 ml Injection | Valid |
+| 182846 | Qudict 2 mg/0.5 mg Tablet | Strip of 10 tablets | Valid |
+| 184806 | Rupatch 10mcg Transdermal Patch | Packet of 2 transdermal patches | Valid |
+| 216369 | Tidigesic 0.2mg Tablet | Strip of 10 tablets | Valid |
+| 222980 | Talgesic 0.3mg Injection | Vial of 2 ml Injection | Valid |
+| 224591 | Talgesic 0.6mg Injection | Vial of 2 ml Injection | Valid |
+| 246613 | Zuprinor 5 Transdermal Patch | Pouch of 1 Transdermal Patch | Valid |
+| 246712 | Zuprinor 10 Transdermal Patch | Pouch of 1 Transdermal Patch | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 Available forms include transdermal patches, injections and tablets.
 

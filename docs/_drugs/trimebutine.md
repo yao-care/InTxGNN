@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 866
 evidence_level: L2
 indication_count: 2
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 description: "Trimebutine: predicted new indication Migraine disorder (evidence level L2). Approved use: Not stated in the Indian license record"
 monitor_inn: "Trimebutine"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura"]
@@ -87,9 +87,15 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 219665 | Trimspa 200mg Tablet (Macleods Pharmaceuticals Pvt Ltd) | Strip of 6 tablets | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 219665 | Trimspa 200mg Tablet | Strip of 6 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ---
 

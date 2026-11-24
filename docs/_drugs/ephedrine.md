@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 312
 evidence_level: L4
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Ephedrine"
 predicted_indications: ["nasal cavity disease", "trigeminal autonomic cephalalgia"]
 description: "Ephedrine: predicted new indication Nasal cavity disease (evidence level L4). In India: 3 listed products (3 not discontinued)"
@@ -91,17 +91,23 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 216752 | Tedral 24mg/130mg Tablet (Pfizer Ltd) | Strip of 10 tablets | Not listed |
-| 4873 | Adrena 2mg Injection (Geo Pharma Pvt Ltd) | Vial of 2 ml injection | Not listed |
-| 72763 | Efipres Injection (Neon Laboratories Ltd) | Vial of 1 ml injection | Not listed |
+<!-- licenses:begin -->
 
-All three registrations are valid licenses. Available forms are oral (tablet) and injectable.
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 4873 | Adrena 2mg Injection | Vial of 2 ml Injection | Valid |
+| 72763 | Efipres Injection | Vial of 1 ml Injection | Valid |
+| 216752 | Tedral 24mg/130mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
+
+All registrations are valid licenses. Available forms are oral (tablet) and injectable.
 
 <!-- review:begin in-lic-20261106-ephedrine-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "All three registrations are valid single-ingredient licenses." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+> **Review correction (2026-11-24)**: Originally stated: "All three registrations are valid single-ingredient licenses." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Revised 2026-11-24: the hard-coded number of records and the wording about the old table were dropped; the Quick Overview and the product table under India Market Information show the current figures. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
 
 <!-- review:end in-lic-20261106-ephedrine-1 -->
 
@@ -153,7 +159,7 @@ Below is the review log for this page: statements checked against official India
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-24 | Removed: "single-ingredient" | Corrected (revised 2026-11-24; earlier version kept in the record) | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 | 2026-11-20 | "Detailed mechanism-of-action data was not available in the data compiled for this report, so this description is based on known pharmacology" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt (revised 2026-11-20; earlier version kept in the record) | [DailyMed: Emerphed Pfs (ephedrine sulfate) prescribing information, Nexus Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=14601778-93ac-43ec-b66b-5a942317133f) |
 
 <!-- review:end log -->

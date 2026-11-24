@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 43
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 description: "Aluminum Hydroxide: known uses and market status in India; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -74,30 +74,36 @@ The TxGNN model produced candidates for Aluminum Hydroxide, but every candidate 
 
 ## India Market Information
 
-| Licence | Product | Dosage form | Status |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
 |------|------|------|------|
-| 212944 | Silicool Oral Suspension Mint Sugar Free | bottle of 170 ml Oral Suspension | Valid |
-| 195702 | Radocid Oral Suspension | bottle of 170 ml Oral Suspension | Valid |
-| 22523 | Alzimin Oral Gel | bottle of 170 ml Oral Gel | Valid |
-| 153745 | Neutral  Oral Gel Sugar Free | bottle of 170 ml Oral Gel | Valid |
-| 4923 | Alumcid MPS Oral Suspension | bottle of 170 ml Oral Suspension | Valid |
-| 202354 | Sugel Syrup | bottle of 200 ml Syrup | Valid |
-| 161774 | Omez-O Oral Suspension Mint Sugar Free | bottle of 200 ml Oral Suspension | Valid |
-| 7700 | Acicool-Mps Oral Suspension Mint | bottle of 170 ml Oral Suspension | Valid |
-| 6874 | Amcid Syrup | bottle of 170 ml Syrup | Valid |
-| 99038 | Goacid Oral Suspension Mint | bottle of 170 ml Oral Suspension | Valid |
-| 104549 | Hypocid Oral Gel | bottle of 170 ml Oral Gel | Valid |
-| 14552 | Antasafe Oral Suspension | bottle of 170 ml Oral Suspension | Valid |
-| 161765 | Omee Mps Liquid Mint | bottle of 170 ml Liquid | Valid |
-| 100904 | Glosmo Syrup | bottle of 170 ml Syrup | Valid |
-| 219466 | Titrate Suspension | bottle of 200 ml Suspension | Valid |
-| 234212 | Visco Tablet | strip of 10 tablets | Valid |
-| 119086 | Kantacid Oral Suspension | bottle of 170 ml Oral Suspension | Valid |
-| 6611 | Accid-Ams Oral Suspension Sugar Free | bottle of 170 ml Oral Suspension | Valid |
-| 50170 | Coolent Oral Gel | bottle of 170 ml Oral Gel | Valid |
-| 140211 | Marcid Oral Gel | bottle of 170 ml Oral Gel | Valid |
+| 4923 | Alumcid MPS Oral Suspension | Bottle of 170 ml Oral Suspension | Valid |
+| 6611 | Accid-Ams Oral Suspension Sugar Free | Bottle of 170 ml Oral Suspension | Valid |
+| 6874 | Amcid Syrup | Bottle of 170 ml Syrup | Valid |
+| 7700 | Acicool-Mps Oral Suspension Mint | Bottle of 170 ml Oral Suspension | Valid |
+| 14552 | Antasafe Oral Suspension | Bottle of 170 ml Oral Suspension | Valid |
+| 22523 | Alzimin Oral Gel | Bottle of 170 ml Oral Gel | Valid |
+| 50170 | Coolent Oral Gel | Bottle of 170 ml Oral Gel | Valid |
+| 99038 | Goacid Oral Suspension Mint | Bottle of 170 ml Oral Suspension | Valid |
+| 100904 | Glosmo Syrup | Bottle of 170 ml Syrup | Valid |
+| 104549 | Hypocid Oral Gel | Bottle of 170 ml Oral Gel | Valid |
+| 119086 | Kantacid Oral Suspension | Bottle of 170 ml Oral Suspension | Valid |
+| 140211 | Marcid Oral Gel | Bottle of 170 ml Oral Gel | Valid |
+| 153745 | Neutral Oral Gel Sugar Free | Bottle of 170 ml Oral Gel | Valid |
+| 161765 | Omee Mps Liquid Mint | Bottle of 170 ml Liquid | Valid |
+| 161774 | Omez-O Oral Suspension Mint Sugar Free | Bottle of 200 ml Oral Suspension | Valid |
+| 195702 | Radocid Oral Suspension | Bottle of 170 ml Oral Suspension | Valid |
+| 202354 | Sugel Syrup | Bottle of 200 ml Syrup | Valid |
+| 212944 | Silicool Oral Suspension Mint Sugar Free | Bottle of 170 ml Oral Suspension | Valid |
+| 219466 | Titrate Suspension | Bottle of 200 ml Suspension | Valid |
+| 234212 | Visco Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
 
 Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

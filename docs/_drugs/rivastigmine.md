@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 748
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Rivastigmine"
 predicted_indications: ["glaucoma"]
 description: "Rivastigmine: predicted new indication Glaucoma (evidence level L5). In India: at least 20 listed products"
@@ -71,13 +71,36 @@ The very high TxGNN score is a computational prediction only and does not count 
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 74369 | Exelon 1.5mg Capsule (Novartis India Ltd) | Strip of 14 capsules | Not stated |
-| 75384 | Exelon Patch 15 (Novartis India Ltd) | Packet of 30 transdermal patches | Not stated |
-| 184369 | Rivamer 1.5 Capsule (Sun Pharmaceutical Industries Ltd) | Strip of 10 capsules | Not stated |
-| 186899 | Rivera 1.5mg Capsule (Zydus Cadila) | Strip of 10 capsules | Not stated |
-| 189024 | Rivaplast 9mg Transdermal Patch (Zuventus Healthcare Ltd) | Packet of 3 transdermal patches | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 74113 | Exelon Transdermal Patch 5 | Packet of 5 transdermal patches | Valid |
+| 74369 | Exelon 1.5mg Capsule | Strip of 14 capsules | Valid |
+| 74516 | Exelon 3mg Capsule | Strip of 14 capsules | Valid |
+| 75142 | Exelon 4.5mg Capsule | Box of 60 capsules | Valid |
+| 75384 | Exelon Patch 15 | Packet of 30 transdermal patches | Valid |
+| 76146 | Exelon 6mg Capsule | Strip of 14 capsules | Valid |
+| 184369 | Rivamer 1.5 Capsule | Strip of 10 capsules | Valid |
+| 184654 | Rivamer 3 Capsule | Strip of 10 capsules | Valid |
+| 186899 | Rivera 1.5mg Capsule | Strip of 10 capsules | Valid |
+| 187526 | Rivadem 3mg Capsule | Strip of 10 capsules | Valid |
+| 189024 | Rivaplast 9mg Transdermal Patch | Packet of 3 transdermal patches | Valid |
+| 191157 | Rivaspar 9mg Patch | Box of 30 patches | Valid |
+| 191608 | Rivasun 3mg Capsule | Strip of 10 capsules | Valid |
+| 193743 | Rivaalarm 1.5mg Tablet | Strip of 10 tablets | Valid |
+| 194351 | Rivasun 1.5mg Capsule | Strip of 10 capsules | Valid |
+| 195408 | Rivaalarm 3mg Tablet | Strip of 10 tablets | Valid |
+| 197054 | Rivasun 4.5mg Capsule | Strip of 10 capsules | Valid |
+| 238218 | Veloxan 1.5mg Capsule | Strip of 10 capsules | Valid |
+| 251337 | Zeemine 3mg Tablet | Strip of 10 tablets | Valid |
+| 252084 | Zeemine 1.5mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 All 20 registrations are valid single-ingredient products, available as oral capsules and tablets and as transdermal patches.
 

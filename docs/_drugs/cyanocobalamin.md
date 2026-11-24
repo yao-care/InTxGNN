@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Cyanocobalamin"
 predicted_indications: ["biotin metabolic disease"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cyanocobalamin: predicted new indication biotin metabolic disease (evidence level L5). In India: 8 listed products (8 not discontinued)"
 ---
 
@@ -73,19 +73,28 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 173652 | Polybion Injection 2ml | Ampoule of 5 injections | Not recorded |
-| 94517 | Genoplex-L Syrup | Bottle of 60 ml syrup | Not recorded |
-| 26103 | Bvigor Sublingual tablet Cherry | Strip of 10 sublingual tablets | Not recorded |
-| 233952 | VIB 12 1000mcg Injection | Vial of 1 ml injection | Not recorded |
-| 224998 | Titoebion Injection | Vial of 2 ml injection | Not recorded |
+<!-- licenses:begin -->
 
-All 8 licences are currently valid; the table lists the first five.
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 26103 | Bvigor Sublingual tablet Cherry | Strip of 10 Sublingual tablet | Valid |
+| 26111 | B-VIT 12 Injection | Vial of 30 ml Injection | Valid |
+| 94517 | Genoplex-L Syrup | Bottle of 60 ml Syrup | Valid |
+| 94709 | Genoplex-L Syrup Sugar Free | Bottle of 200 ml Syrup | Valid |
+| 136269 | Macrabin 1000mcg Injection | Vial of 5 ml Injection | Valid |
+| 173652 | Polybion Injection 2ml | Ampoule of 5 injections | Valid |
+| 224998 | Titoebion Injection | Vial of 2 ml Injection | Valid |
+| 233952 | VIB 12 1000mcg Injection | Vial of 1 ml Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
+
+All licences are currently valid.
 
 <!-- review:begin in-lic-20261106-cyanocobalamin-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "All 8 licences are single-ingredient products and currently valid; the table lists the first five." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+> **Review correction (2026-11-24)**: Originally stated: "All 8 licences are single-ingredient products and currently valid; the table lists the first five." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Revised 2026-11-24: the hard-coded number of records and the wording about the old table were dropped; the Quick Overview and the product table under India Market Information show the current figures. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
 
 <!-- review:end in-lic-20261106-cyanocobalamin-1 -->
 
@@ -116,7 +125,7 @@ Below is the review log for this page: statements checked against official India
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-06 | Removed: "single-ingredient products and" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-24 | Removed: "single-ingredient products and" | Corrected (revised 2026-11-24; earlier version kept in the record) | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 | 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: cyanocobalamin prescribing information, SOLA Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e559c6c8-2973-77fb-e053-2995a90af43d) |
 
 <!-- review:end log -->

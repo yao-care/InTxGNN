@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 651
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 description: "Pegaptanib: predicted new indication Esophageal varices with bleeding (a second prediction… (evidence level L5). Approved use: Macular degeneration"
 monitor_inn: "Pegaptanib"
 predicted_indications: ["esophageal varices with bleeding", "esophageal varices without bleeding"]
@@ -72,9 +72,15 @@ Currently no related literature available.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 142632 | Macugen 0.3mg Infusion (Pfizer Ltd) | Bottle of 90 ml infusion (injectable) | Not stated in the available data |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 142632 | Macugen 0.3mg Infusion | Bottle of 90 ml Infusion | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

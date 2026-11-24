@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 655
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Pemetrexed"
 predicted_indications: ["pleural adenomatoid tumor", "pericardium cancer", "iminoglycinuria"]
 description: "Pemetrexed: predicted new indication Pleural adenomatoid tumor (evidence level L5). In India: at least 20 listed products"
@@ -102,15 +102,38 @@ No randomized controlled trials specific to peritoneal mesothelioma were found. 
 
 ## India Market Information
 
-Pemetrexed has 20 valid single-ingredient injectable registrations in India and none cancelled. The five main ones are listed below.
+Pemetrexed has 20 valid single-ingredient injectable registrations in India and none cancelled.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Registration No. 4159 | Alimta 500mg Injection (Eli Lilly India) | Vial of 1, injection | Not listed in the data compiled |
-| Registration No. 176971 | Pemgem 500mg Injection (Dr Reddy's) | Vial of 1, injection | Not listed in the data compiled |
-| Registration No. 227660 | Temeran 500mg Injection (Sun Pharma) | Vial of 1, injection | Not listed in the data compiled |
-| Registration No. 118127 | Kabipem 500mg Injection (Fresenius Kabi India) | Vial of 1, injection | Not listed in the data compiled |
-| Registration No. 175406 | Pemnat 500mg Injection (Natco) | Vial of 1, injection | Not listed in the data compiled |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 4159 | Alimta 500mg Injection | Vial of 1 Injection | Valid |
+| 19993 | Antifol 100mg Injection | Vial of 10 ml Injection | Valid |
+| 81669 | Es Peme 500 Injection | Vial of 1 Injection | Valid |
+| 103392 | Giopem 100mg Injection | Vial of 1 Powder for Injection | Valid |
+| 118127 | Kabipem 500mg Injection | Vial of 1 Injection | Valid |
+| 119392 | Kabipem 100mg Injection | Vial of 1 Injection | Valid |
+| 148822 | Medipem 100mg Injection | Vial of 1 Injection | Valid |
+| 175406 | Pemnat 500mg Injection | Vial of 1 Injection | Valid |
+| 176971 | Pemgem 500mg Injection | Vial of 1 Injection | Valid |
+| 179961 | Pexitaz 500mg Injection | Vial of 1 Injection | Valid |
+| 180261 | Pemgem 100mg Injection | Vial of 1 Injection | Valid |
+| 180606 | Pamiglan 500mg Injection | Bottle of 50 ml Injection | Valid |
+| 181162 | Pemzonex 500mg Injection | Vial of 1 Injection | Valid |
+| 181559 | Pemcure 100mg Injection | Vial of 1 Injection | Valid |
+| 182051 | Pexate 100mg Injection | Vial of 1 Powder for Injection | Valid |
+| 182262 | Pempro 100mg Injection | Vial of 1 Injection | Valid |
+| 182420 | Pemotide 100mg Injection | Vial of 1 Injection | Valid |
+| 191771 | Relitrexed 500mg Injection | Vial of 1 Powder for Injection | Valid |
+| 213700 | Symyx 500mg Injection | Vial of 1 Injection | Valid |
+| 227660 | Temeran 500mg Injection | Vial of 1 Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ---
 

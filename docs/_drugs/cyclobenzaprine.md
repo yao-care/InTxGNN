@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 216
 evidence_level: L2
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cyclobenzaprine: predicted new indication Myofascial pain syndrome (evidence level L2). Approved use: Not stated in the India license records"
 monitor_inn: "Cyclobenzaprine"
 predicted_indications: ["myofascial pain syndrome", "neuralgia", "papillary conjunctivitis"]
@@ -91,15 +91,38 @@ Only one registered trial is in a myofascial pain setting, and it tests a proced
 
 ## India Market Information
 
-Twenty valid single-ingredient registrations are on file. The approved indication text is blank for all of them. Five are listed below.
+Twenty valid single-ingredient registrations are on file. The approved indication text is blank for all of them.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 247698 | Zaprinmax 15mg Capsule ER | Extended-release capsule | Not stated |
-| 28194 | Blobenz 5mg Tablet | Tablet | Not stated |
-| 84163 | Flexabenz Tablet | Tablet | Not stated |
-| 199658 | Skelebenz 15 Capsule ER | Extended-release capsule | Not stated |
-| 139937 | Mobrine 5mg Tablet IR | Immediate-release tablet | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 28194 | Blobenz 5mg Tablet | Strip of 10 tablets | Valid |
+| 28812 | Benzaday 4mg Tablet | Strip of 10 tablets | Valid |
+| 30142 | Benzomac 15mg Tablet | Strip of 10 tablets | Valid |
+| 32126 | Benzomac 30mg Tablet | Strip of 10 tablets | Valid |
+| 38179 | Cycloben 15mg Capsule | Strip of 10 capsules | Valid |
+| 44182 | Cycloryx 5 Tablet | Strip of 10 tablets | Valid |
+| 46028 | Cycloryx 15 ER Tablet | Strip of 10 tablet er | Valid |
+| 84100 | Flexabenz Plus Tablet SR | Strip of 10 tablet sr | Valid |
+| 84163 | Flexabenz Tablet | Strip of 10 tablets | Valid |
+| 84404 | Flexabenz ER Capsule | Strip of 10 capsule er | Valid |
+| 85924 | Flybenz 15mg Tablet | Strip of 10 tablets | Valid |
+| 97390 | Godril 5mg Tablet | Strip of 10 tablets | Valid |
+| 139937 | Mobrine 5mg Tablet IR | Strip of 10 tablet ir | Valid |
+| 140322 | Mobrine OD 15mg Capsule | Strip of 10 capsules | Valid |
+| 152774 | Norbenz 15mg Tablet | Strip of 10 tablets | Valid |
+| 164301 | Osnanzia 15 ER Tablet | Strip of 10 tablet er | Valid |
+| 166317 | Osnanzia 5 Tablet | Strip of 10 tablets | Valid |
+| 199658 | Skelebenz 15 Capsule ER | Strip of 10 capsule er | Valid |
+| 247698 | Zaprinmax 15mg Capsule ER | Strip of 10 capsule er | Valid |
+| 249773 | Zaprinmax 30mg Capsule ER | Strip of 10 capsule er | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 All formulations are oral (immediate-release, extended-release and sustained-release tablets and capsules).
 

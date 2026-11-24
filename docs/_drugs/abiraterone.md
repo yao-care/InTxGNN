@@ -5,7 +5,7 @@ layout: default
 title: Abiraterone
 parent: Known Uses Only (No New Predictions)
 nav_order: 14
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Abiraterone: known uses and market status in India; currently no new candidate indication"
 monitor_inn: "Abiraterone"
 predicted_indications: []
@@ -48,15 +48,38 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## India Market Information
 
-There are 20 valid single-ingredient registrations, with no combination products and no cancelled registrations. The compiled data contains no approved indication text. Five main authorizations are listed below.
+There are 20 valid single-ingredient registrations, with no combination products and no cancelled registrations. The compiled data contains no approved indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 2882 | Ahabir Tablet (Hetero Drugs Ltd) | Bottle of 120 tablets | Not recorded |
-| 8568 | Abtmed 250mg Tablet (Medicamen Biotech Ltd) | Bottle of 30 tablets | Not recorded |
-| 246845 | Zelgor 500mg Tablet (Sun Pharmaceutical Industries Ltd) | Bottle of 60 tablets | Not recorded |
-| 20160 | Abstet Tablet (Biocon) | Strip of 30 tablets | Not recorded |
-| 247367 | Zabpro 500mg Tablet (Ipca Laboratories Ltd) | Bottle of 60 tablets | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 2882 | Ahabir Tablet | Bottle of 120 tablets | Valid |
+| 5610 | Alkeprost 500mg Tablet | Bottle of 60 tablets | Valid |
+| 6110 | Alkeprost 250mg Tablet | Bottle of 120 tablets | Valid |
+| 7860 | Abirat Tablet | Bottle of 120 tablets | Valid |
+| 8568 | Abtmed 250mg Tablet | Bottle of 30 tablets | Valid |
+| 8916 | Abura Tablet | Bottle of 120 tablets | Valid |
+| 10453 | Abstet Tablet | Bottle of 120 tablets | Valid |
+| 12183 | Abione 500 Tablet | Bottle of 60 tablets | Valid |
+| 14081 | Abitra Tablet | Bottle of 120 tablets | Valid |
+| 16170 | Abatitor 250mg Tablet | Bottle of 30 tablets | Valid |
+| 20108 | Abiracine 250mg Tablet | Bottle of 120 tablets | Valid |
+| 20160 | Abstet Tablet | Strip of 30 tablets | Valid |
+| 27069 | Bdron 500 Tablet | Bottle of 60 tablets | Valid |
+| 136823 | Mytera 250 Tablet | Bottle of 120 tablets | Valid |
+| 208872 | Shilrazone 250mg Tablet | Bottle of 120 tablets | Valid |
+| 243860 | Xbira 250mg Tablet | Bottle of 120 tablets | Valid |
+| 246642 | Zelgor 250mg Tablet | Bottle of 120 tablets | Valid |
+| 246845 | Zelgor 500mg Tablet | Bottle of 60 tablets | Valid |
+| 247367 | Zabpro 500mg Tablet | Bottle of 60 tablets | Valid |
+| 247703 | Zybiraa 250mg Tablet | Bottle of 120 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 All products are oral tablets.
 

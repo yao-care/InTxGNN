@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 697
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Pregabalin"
 predicted_indications: ["tendinitis", "idiopathic granulomatous myositis", "myositis fibrosa", "inclusion body myositis", "migraine disorder", "migraine with brainstem aura"]
 description: "Pregabalin: predicted new indication Tendinitis (evidence level L5). In India: at least 20 listed products"
@@ -88,15 +88,44 @@ For the other predictions, evidence is weaker. Tendinitis, myositis fibrosa, idi
 
 ## India Market Information
 
-Twenty valid licences are registered, all for single-ingredient products (no combination licences). The licence records contain no approved indication text. Five representative authorizations:
+Twenty valid licences are registered. The licence records contain no approved indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 174382 | Pregalin SR 150 Tablet (Torrent Pharmaceuticals) | Strip of 10 SR tablets | Not stated in records |
-| 174572 | Pregabid 150 Capsule (Intas Pharmaceuticals) | Strip of 10 capsules | Not stated in records |
-| 181350 | Preega 150 Tablet (Talent India) | Strip of 10 tablets | Not stated in records |
-| 176356 | Pregamax-D Capsule (Winmark Pharmaceuticals) | Strip of 10 capsules | Not stated in records |
-| 235209 | Veintree 50mg Tablet (Zenolia Life Science) | Strip of 10 tablets | Not stated in records |
+<!-- review:begin in-lic-20261124-pregabalin-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "Twenty valid licences are registered, all for single-ingredient products (no combination licences)." Removed: it described the products as single-ingredient (or as having no combination products), which does not match the Indian medicine data (the Indian Medicine Dataset): some of the recorded products are fixed-dose combinations. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124-pregabalin-1 -->
+
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 21967 | Acwak-N Tablet SR | Strip of 10 tablet sr | Valid |
+| 29387 | Branefit NT 75mg/10mg/1500mcg Tablet | Strip of 10 tablets | Valid |
+| 122351 | Lycegalin-NT Tablet | Strip of 10 tablets | Valid |
+| 141584 | Micolex-NT Tablet | Strip of 10 tablets | Valid |
+| 152703 | Nurosam-NT Tablet | Strip of 10 tablets | Valid |
+| 152724 | Nuromark-NT Tablet SR | Strip of 10 tablet sr | Valid |
+| 152869 | Neurostab Trio 75mg/10mg/1500mcg Tablet | Strip of 10 tablets | Valid |
+| 153188 | Nurobel NT 75mg/10mg Tablet | Strip of 10 tablets | Valid |
+| 154080 | Nanocob-NP Tablet SR | Strip of 10 tablet sr | Valid |
+| 156102 | Nuroxa PN 75mg/10mg/1500mcg Tablet SR | Strip of 10 tablet sr | Valid |
+| 156582 | Nortizane P 75mg/10mg Tablet | Strip of 10 tablets | Valid |
+| 160541 | Neurocag P 75mg/10mg Tablet | Strip of 10 tablets | Valid |
+| 174382 | Pregalin SR 150 Tablet | Strip of 10 tablet sr | Valid |
+| 174572 | Pregabid 150 Capsule | Strip of 10 capsules | Valid |
+| 176356 | Pregamax-D Capsule | Strip of 10 capsules | Valid |
+| 178845 | Pregnir NT Tablet | Strip of 10 tablets | Valid |
+| 181350 | Preega 150 Tablet | Strip of 10 tablets | Valid |
+| 181473 | Prenuron M NT 75mg/10mg/1500mcg Tablet | Strip of 10 tablets | Valid |
+| 235209 | Veintree 50mg Tablet | Strip of 10 tablets | Valid |
+| 248801 | Zonuron NT 75mg/10mg/1500mcg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 All products are oral (tablets, SR tablets and capsules). Many of the registered products carry "NT" or similar names, suggesting fixed combinations with other agents, although they are classified as single-ingredient in the records.
 
@@ -138,6 +167,7 @@ Below is the review log for this page: statements checked against official India
 |------|------|------|------|
 | 2026-10-31 | Removed: "However, the only Phase 3 trial was withdrawn, adult randomized evidence is lacking, and the trials are small" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 | 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Lyrica Cr (pregabalin) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f280bbd8-2af2-444a-bd96-e409337ca6dd) |
+| 2026-11-24 | Removed: the single-ingredient claim | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 

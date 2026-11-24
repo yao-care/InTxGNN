@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 447
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 monitor_inn: "Iron"
 predicted_indications: ["vitamin B12- and folate-independent constitutional megaloblastic anemia", "non-syndromic esophageal malformation", "biotin metabolic disease", "vitamin deficiency disorder", "esophageal disease"]
 description: "Iron: predicted new indication Vitamin B12- and folate-independent constitutional megaloblastic anemia (evidence level L5). In India: at least 20 listed products"
@@ -80,15 +80,44 @@ Currently no related literature available.
 
 ## India Market Information
 
-Iron is marketed in India, and all 20 licence records in the data are valid single-ingredient products. The records are partial, so more may exist. Approved indication text is not recorded in the local data. Five examples:
+Iron is marketed in India, and all 20 licence records in the data are valid products. The records are partial, so more may exist. Approved indication text is not recorded in the local data.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Registration No. 161789 | Orofer S 200 Injection | Vial of 10 ml injection | Not recorded |
-| Registration No. 88321 | Ferise 20 Injection | Vial of 1 ml injection | Not recorded |
-| Registration No. 184357 | Rubired Oral Suspension | Bottle of 150 ml oral suspension | Not recorded |
-| Registration No. 103636 | Glonia-XT Tablet | Strip of 10 tablets | Not recorded |
-| Registration No. 13001 | Anofer S 50mg Injection | Vial of 2.5 ml injection | Not recorded |
+<!-- review:begin in-lic-20261124-iron-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "Iron is marketed in India, and all 20 licence records in the data are valid single-ingredient products." Removed: it described the products as single-ingredient (or as having no combination products), which does not match the Indian medicine data (the Indian Medicine Dataset): some of the recorded products are fixed-dose combinations. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124-iron-1 -->
+
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 13001 | Anofer S 50mg Injection | Vial of 2.5 ml Injection | Valid |
+| 55556 | Cromofer 20mg Injection | Vial of 5 ml Injection | Valid |
+| 86539 | FBG-Plus Tablet | Strip of 10 tablets | Valid |
+| 88321 | Ferise 20 Injection | Vial of 1 ml Injection | Valid |
+| 89166 | Feroluv S 20mg Injection | Vial of 5 ml Injection | Valid |
+| 89254 | Ferrospey 100mg Injection | Vial of 5 ml Injection | Valid |
+| 89680 | Femiup XT 100mg Injection | Vial of 5 ml Injection | Valid |
+| 90254 | Ferixym 100mg Injection | Vial of 1 Injection | Valid |
+| 90442 | Feryz 20mg Injection | Vial of 2.5 ml Injection | Valid |
+| 95362 | Geroz Injection | Vial of 5 ml Injection | Valid |
+| 103636 | Glonia-XT Tablet | Strip of 10 tablets | Valid |
+| 106255 | Hepfer 20mg Injection | Vial of 5 ml Injection | Valid |
+| 108266 | Imferon S 20mg Injection | Vial of 5 ml Injection | Valid |
+| 109374 | Irozorb S 50mg Injection | Vial of 5 ml Injection | Valid |
+| 113884 | Jectocos Plus Injection 1.5ml | Packet of 5 ampules | Valid |
+| 113977 | Jectocos Injection 1.5ml | Ampoule of 1.5 ml Injection | Valid |
+| 161789 | Orofer S 200 Injection | Vial of 10 ml Injection | Valid |
+| 184357 | Rubired Oral Suspension | Bottle of 150 ml Oral Suspension | Valid |
+| 185169 | Red-Mia Tablet | Strip of 10 tablets | Valid |
+| 207658 | Suez 20mg Injection | Vial of 5 ml Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ---
 
@@ -115,6 +144,18 @@ The prediction has a high model score but no supporting trials or publications (
 - Case reports, observational data or early-phase studies of iron in this specific condition
 - Detailed mechanism-of-action data for iron
 - Package insert warnings and contraindications from the Indian licences
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-24 | Removed: the single-ingredient claim | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

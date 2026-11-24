@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Captopril"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Captopril: predicted new indication malignant hypertensive renal disease (evidence level L5). In India: 7 listed products (7 not discontinued)"
 ---
 
@@ -83,13 +83,21 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 4601 | Aceten 25mg Tablet | Strip of 10 tablets | Not recorded |
-| 5570 | Angiopril 25mg Tablet | Strip of 10 tablets | Not recorded |
-| 38749 | Capotril 12.5mg Tablet | Strip of 10 tablets | Not recorded |
-| 36749 | Capotril 25mg Tablet | Strip of 10 tablets | Not recorded |
-| 10076 | Aceten 12.5mg Tablet | Strip of 10 tablets | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 4601 | Aceten 25mg Tablet | Strip of 10 tablets | Valid |
+| 5570 | Angiopril 25mg Tablet | Strip of 10 tablets | Valid |
+| 10076 | Aceten 12.5mg Tablet | Strip of 10 tablets | Valid |
+| 15704 | Angiopril-DU 25mg/15mg Tablet | Strip of 10 tablets | Valid |
+| 36749 | Capotril 25mg Tablet | Strip of 10 tablets | Valid |
+| 38749 | Capotril 12.5mg Tablet | Strip of 10 tablets | Valid |
+| 39516 | Captoglo 25mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ---
 

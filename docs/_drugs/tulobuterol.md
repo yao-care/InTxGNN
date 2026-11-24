@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 873
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 monitor_inn: "Tulobuterol"
 predicted_indications: ["respiratory malformation", "Rienhoff syndrome", "hyperlucent lung", "tracheal stenosis"]
 description: "Tulobuterol: predicted new indication Respiratory malformation (evidence level L5). In India: 9 listed products (9 not discontinued)"
@@ -71,15 +71,25 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 219028 | Tulomax 2.0 Transdermal Patch | Packet of 1 patch | Not specified |
-| 218159 | Tulomax 0.5 Transdermal Patch | Packet of 1 patch | Not specified |
-| 216894 | Tuloplast 2 Transdermal Patch | Packet of 14 transdermal patches | Not specified |
-| 218169 | Tulo-Touch 2mg Patch | Box of 14 patches | Not specified |
-| 219840 | Tulo-Touch 0.5mg Patch | Box of 14 patches | Not specified |
+<!-- licenses:begin -->
 
-All 9 single-ingredient licences are valid; the five above are shown as examples.
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 215499 | Tuloplast 0.5 Transdermal Patch | Packet of 14 transdermal patches | Valid |
+| 216857 | Tuloplast 1 Transdermal Patch | Packet of 14 transdermal patches | Valid |
+| 216894 | Tuloplast 2 Transdermal Patch | Packet of 14 transdermal patches | Valid |
+| 217994 | Tulomax 1.0 Transdermal Patch | Packet of 1 Patch | Valid |
+| 218159 | Tulomax 0.5 Transdermal Patch | Packet of 1 Patch | Valid |
+| 218169 | Tulo-Touch 2mg Patch | Box of 14 patches | Valid |
+| 219028 | Tulomax 2.0 Transdermal Patch | Packet of 1 Patch | Valid |
+| 219840 | Tulo-Touch 0.5mg Patch | Box of 14 patches | Valid |
+| 221186 | Tulo-Touch 1mg Patch | Box of 14 patches | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
+
+All 9 single-ingredient licences are valid.
 
 ## Safety Considerations
 

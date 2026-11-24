@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Zidovudine"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Zidovudine: predicted new indication Feline acquired immunodeficiency syndrome (evidence level L5). Approved use: HIV infectious disease"
 ---
 
@@ -86,15 +86,35 @@ Showing the most relevant publications (animal studies, clinical studies in cats
 
 ## India Market Information
 
-The 19 licences are all single-ingredient products, and none carries approved-indication text in the records. The first five are listed below.
+The 19 licences are all single-ingredient products, and none carries approved-indication text in the records.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 250241 | Zido H 100mg Capsule | Strip of 10 capsules | Not stated in the records |
-| 251540 | Zidomax 100mg Capsule | Strip of 10 capsules | Not stated in the records |
-| 251471 | Zidohope 100mg Tablet | Bottle of 100 tablets | Not stated in the records |
-| 251604 | Zidovex 100mg Capsule | Strip of 10 capsules | Not stated in the records |
-| 248526 | Zidine 300mg Tablet | Bottle of 60 tablets | Not stated in the records |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 236626 | Viro Z 100mg Tablet | Strip of 10 tablets | Valid |
+| 236810 | Viro Z 300mg Tablet | Strip of 10 tablets | Valid |
+| 247170 | Zidovir 300mg Tablet | Strip of 10 tablets | Valid |
+| 248526 | Zidine 300mg Tablet | Bottle of 60 tablets | Valid |
+| 249116 | Ziddivir 300mg Tablet | Strip of 10 tablets | Valid |
+| 250103 | Zvd 100mg Tablet | Strip of 10 tablets | Valid |
+| 250183 | Ziddivir 100mg Tablet | Strip of 10 tablets | Valid |
+| 250241 | Zido H 100mg Capsule | Strip of 10 capsules | Valid |
+| 250381 | Zidohope 300mg Tablet | Bottle of 60 tablets | Valid |
+| 251471 | Zidohope 100mg Tablet | Bottle of 100 tablets | Valid |
+| 251487 | Zilion 300mg Tablet | Strip of 10 tablets | Valid |
+| 251540 | Zidomax 100mg Capsule | Strip of 10 capsules | Valid |
+| 251604 | Zidovex 100mg Capsule | Strip of 10 capsules | Valid |
+| 251790 | Zvd 300mg Tablet | Strip of 10 tablets | Valid |
+| 251906 | Zidovex L Plus E 300mg Tablet | Strip of 3 tablets | Valid |
+| 252786 | Zivudin 100mg Tablet | Strip of 10 tablets | Valid |
+| 252928 | Zidomax 300mg Tablet | Strip of 10 tablets | Valid |
+| 253590 | Zivudin 300mg Tablet | Strip of 10 tablets | Valid |
+| 253733 | Zidovex 300mg Capsule | Strip of 10 capsules | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

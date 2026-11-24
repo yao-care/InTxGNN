@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 227
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 description: "Daclatasvir: predicted new indication Hepatitis B virus infection (evidence level L3). Approved use: Chronic hepatitis C virus infection"
 monitor_inn: "Daclatasvir"
 predicted_indications: ["hepatitis B virus infection", "HIV infectious disease", "hepatitis E virus infection", "hepatitis A virus infection", "hepatitis, viral, animal", "Omsk hemorrhagic fever", "Kyasanur forest disease", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
@@ -97,15 +97,33 @@ The other top predictions (HIV, hepatitis E, hepatitis A, Omsk hemorrhagic fever
 
 ## India Market Information
 
-Daclatasvir is marketed in India as a single-agent oral tablet, with 17 valid registrations from many manufacturers. The registration records include no approved-indication text. A selection of five is shown below.
+Daclatasvir is marketed in India as a single-agent oral tablet, with 17 valid registrations from many manufacturers. The registration records include no approved-indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Registration No. 64547 | Daclacure 60mg Tablet (Emcure) | Strip of 28 tablets | Not specified in the registration record |
-| Registration No. 62170 | Dalsiclear 60 Tablet (Abbott) | Bottle of 28 tablets | Not specified in the registration record |
-| Registration No. 67502 | Daclafab 60mg Tablet (Sun Pharma) | Strip of 28 tablets | Not specified in the registration record |
-| Registration No. 104213 | Hepcdac 60mg Tablet (Cipla) | Strip of 28 tablets | Not specified in the registration record |
-| Registration No. 105006 | Hepcfix 60mg Tablet (Dr Reddy's) | Strip of 28 tablets | Not specified in the registration record |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 61420 | Dacihep 60mg Tablet | Strip of 28 tablets | Valid |
+| 62170 | Dalsiclear 60 Tablet | Bottle of 28 tablets | Valid |
+| 63813 | Daclahep 60mg Tablet | Strip of 28 tablets | Valid |
+| 64547 | Daclacure 60mg Tablet | Strip of 28 tablets | Valid |
+| 66987 | Daclitof 60mg Tablet | Strip of 28 tablets | Valid |
+| 67435 | Daclawin 60mg Tablet | Strip of 28 tablets | Valid |
+| 67502 | Daclafab 60mg Tablet | Strip of 28 tablets | Valid |
+| 67681 | Dactovin 60mg Tablet | Bottle of 28 tablets | Valid |
+| 68120 | Daclacure 30mg Tablet | Bottle of 28 tablets | Valid |
+| 71104 | Daclakem 60mg Tablet | Strip of 28 tablets | Valid |
+| 104213 | Hepcdac 60mg Tablet | Strip of 28 tablets | Valid |
+| 104368 | Hepcinat Plus 60mg/400mg Tablet | Bottle of 28 tablets | Valid |
+| 105006 | Hepcfix 60mg Tablet | Strip of 28 tablets | Valid |
+| 130774 | Lupidec Tablet | Strip of 28 tablets | Valid |
+| 136156 | Myhep Dvir Tablet | Bottle of 28 tablets | Valid |
+| 137420 | Mydekla 60 Tablet | Strip of 28 tablets | Valid |
+| 152980 | Natdac 60 Tablet | Strip of 28 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ---
 

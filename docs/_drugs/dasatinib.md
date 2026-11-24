@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 9
 monitor_inn: "Dasatinib"
 predicted_indications: ["Ewing sarcoma", "liposarcoma", "fibromatosis, gingival", "dermatofibrosarcoma protuberans", "ovarian myxoid liposarcoma", "ganglioneuroblastoma (disease)", "vertebral anomalies and variable endocrine and T-cell dysfunction", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "hamartoma of lung"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Dasatinib: predicted new indication Ewing sarcoma (evidence level L3). In India: at least 20 listed products"
 ---
 
@@ -93,15 +93,38 @@ Clinical support is weaker. A review notes that single-agent dasatinib failed in
 
 ## India Market Information
 
-At least 20 valid single-ingredient licences are recorded (none cancelled); this list may be partial. Main examples:
+At least 20 valid single-ingredient licences are recorded (none cancelled); this list may be partial.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 67898 | Dasamed 20mg Tablet | Bottle of 60 tablets | Not recorded |
-| 66154 | Dyronib 20mg Tablet | Bottle of 60 tablets | Not recorded |
-| 200644 | Sprycel 50mg Tablet | Bottle of 60 tablets | Not recorded |
-| 154992 | Nextki 70mg Tablet | Bottle of 60 tablets | Not recorded |
-| 28832 | Beedan 70mg Tablet | Bottle of 60 tablets | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 3656 | Alsatinib Tablet | Bottle of 30 tablets | Valid |
+| 10288 | Alsatinib 50mg Tablet | Bottle of 60 tablets | Valid |
+| 27520 | Beedan 50mg Tablet | Bottle of 60 tablets | Valid |
+| 28832 | Beedan 70mg Tablet | Bottle of 60 tablets | Valid |
+| 59858 | Dasanat 50 Tablet | Bottle of 60 tablets | Valid |
+| 59959 | Dasatrue 70mg Tablet | Bottle of 60 tablets | Valid |
+| 60071 | Daslemia 100 Tablet | Bottle of 30 tablets | Valid |
+| 61430 | Daslemia 50mg Tablet | Bottle of 60 tablets | Valid |
+| 61740 | Daslemia 70 Tablet | Bottle of 60 tablets | Valid |
+| 61973 | Dastila 50 Tablet | Strip of 12 tablets | Valid |
+| 62241 | Dasania 50mg Tablet | Bottle of 60 tablets | Valid |
+| 65360 | Dasania 20mg Tablet | Bottle of 60 tablets | Valid |
+| 65706 | Dyronib 70mg Tablet | Bottle of 60 tablets | Valid |
+| 66154 | Dyronib 20mg Tablet | Bottle of 60 tablets | Valid |
+| 67074 | Dasacine 50mg Tablet | Bottle of 60 tablets | Valid |
+| 67898 | Dasamed 20mg Tablet | Bottle of 60 tablets | Valid |
+| 132188 | Leu Kinib 50mg Tablet | Bottle of 60 tablets | Valid |
+| 154992 | Nextki 70mg Tablet | Bottle of 60 tablets | Valid |
+| 200644 | Sprycel 50mg Tablet | Bottle of 60 tablets | Valid |
+| 205671 | Sprycel 20mg Tablet | Bottle of 60 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ---
 

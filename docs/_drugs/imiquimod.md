@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 429
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Imiquimod"
 predicted_indications: ["pre-malignant neoplasm", "benign neoplasm of buccal mucosa", "cervical neuroblastoma", "odontogenic cyst", "benign neoplasm of tongue", "nasopharyngeal teratoma", "cystic neoplasm", "inner ear neoplasm", "neoplasm of major salivary gland", "schwannoma of jugular foramen"]
 description: "Imiquimod: predicted new indication Pre-malignant neoplasm (evidence level L5). In India: 3 listed products (3 not discontinued)"
@@ -86,11 +86,17 @@ Evidence for the approved skin indications is strong. For the other pre-malignan
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Registration No. 107760 | Imiquad Cream (0.25gm Each) | Sachet of 3 creams | Not stated in the licence record |
-| Registration No. 182926 | Qmica 12.5mg Cream | Tube of 1 gm cream | Not stated in the licence record |
-| Registration No. 151164 | Nilwart Cream | Tube of 3 gm cream | Not stated in the licence record |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 107760 | Imiquad Cream (0.25gm Each) | Sachet of 3 creams | Valid |
+| 151164 | Nilwart Cream | Tube of 3 gm Cream | Valid |
+| 182926 | Qmica 12.5mg Cream | Tube of 1 gm Cream | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 All three products are topical single-ingredient creams and are currently valid.
 

@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 384
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Fulvestrant: predicted new indication HIV infectious disease (evidence level L4). Approved use: Not stated in the India licence data compiled for this report (fulves…"
 monitor_inn: "Fulvestrant"
 predicted_indications: ["HIV infectious disease", "multiple endocrine neoplasia", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "rheumatoid arthritis", "acne (disease)", "brachydactyly-syndactyly syndrome", "hemoglobinopathy", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
@@ -75,13 +75,34 @@ Currently no related clinical trials registered for HIV infectious disease.
 
 The licence records compiled for this report contain no approved-indication text. Five of the 20 valid single-ingredient injectable registrations are listed below.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Registration No. 84979 | Faslodex 500mg Injection (AstraZeneca) | Vial of 10 ml injection | Not stated in licence data |
-| Registration No. 85200 | Faslodex 250mg Injection (AstraZeneca) | Vial of 5 ml injection | Not stated in licence data |
-| Registration No. 87354 | Fuvestrol Injection (Cadila Pharmaceuticals) | Prefilled syringe of 5 ml injection | Not stated in licence data |
-| Registration No. 88847 | Fulvenat 120mg Injection (Natco Pharma) | Vial of 1 injection | Not stated in licence data |
-| Registration No. 203927 | Strantas 250mg Injection (Intas Pharmaceuticals) | Prefilled syringe of 5 ml injection | Not stated in licence data |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 39061 | Celvestrant PFS Injection | Prefilled syringe of 5 ml Injection | Valid |
+| 84979 | Faslodex 500mg Injection | Vial of 10 ml Injection | Valid |
+| 85170 | Fulzos 250mg Injection | Prefilled syringe of 5 ml Injection | Valid |
+| 85200 | Faslodex 250mg Injection | Vial of 5 ml Injection | Valid |
+| 85262 | Fulvenat 250mg Injection | Vial of 1 Injection | Valid |
+| 85503 | Fulviglen 250mg Injection | Prefilled syringe of 5 ml Injection | Valid |
+| 86436 | Fulveser Injection | Vial of 5 ml Injection | Valid |
+| 86774 | Fulvetraz 250mg Injection | Vial of 5 ml Injection | Valid |
+| 86957 | Fistent Injection | Prefilled syringe of 5 ml Injection | Valid |
+| 86976 | Fulvira 250mg Injection | Prefilled syringe of 5 ml Injection | Valid |
+| 87354 | Fuvestrol Injection | Prefilled syringe of 5 ml Injection | Valid |
+| 87731 | Faslomax 250mg Injection | Vial of 5 ml Injection | Valid |
+| 87891 | Fulvant Injection | Prefilled syringe of 5 ml Injection | Valid |
+| 88847 | Fulvenat 120mg Injection | Vial of 1 Injection | Valid |
+| 89041 | Fasnorm 250mg Injection | Vial of 1 ml Injection | Valid |
+| 89095 | Fulvether 250 Injection | Vial of 5 ml Injection | Valid |
+| 89533 | Fulveryze 250mg Injection | Vial of 5 ml Injection | Valid |
+| 89910 | Fasvivo Injection | Prefilled syringe of 5 ml Injection | Valid |
+| 203927 | Strantas 250mg Injection | Prefilled syringe of 5 ml Injection | Valid |
+| 238052 | Vestrant 250mg Injection | Vial of 5 ml Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 All 20 registrations are valid single-ingredient injectables; none are cancelled or combination products.
 

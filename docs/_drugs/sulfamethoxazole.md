@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 797
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Sulfamethoxazole"
 predicted_indications: ["acute contagious conjunctivitis"]
 description: "Sulfamethoxazole: predicted new indication Acute contagious conjunctivitis (evidence level L5). In India: at least 20 listed products"
@@ -72,15 +72,38 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-Twenty valid single-ingredient registrations are on record, with no cancelled licences. Approved-indication text is not recorded for any of them. The five main registrations are listed below.
+Twenty valid single-ingredient registrations are on record, with no cancelled licences. Approved-indication text is not recorded for any of them.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 54981 | Cidaprim Forte Oral Suspension | Bottle of 50 ml oral suspension | Not recorded |
-| 201573 | Synastat 800mg/160mg Tablet | Strip of 10 tablets | Not recorded |
-| 30976 | Bioprim 800mg/160mg Tablet | Strip of 10 tablets | Not recorded |
-| 25959 | Bactrim Syrup (Abbott) | Bottle of 50 ml syrup | Not recorded |
-| 199546 | Septran DS 800mg/160mg Tablet | Strip of 10 tablets | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 19886 | Aanprim DS 800mg/160mg Tablet | Strip of 10 tablets | Valid |
+| 25959 | Bactrim Syrup | Bottle of 50 ml Syrup | Valid |
+| 30976 | Bioprim 800mg/160mg Tablet | Strip of 10 tablets | Valid |
+| 31371 | Bentis DS 200mg/400mg Tablet | Strip of 10 tablets | Valid |
+| 45319 | Chemotrin Forte 800mg/160mg Tablet | Strip of 10 tablets | Valid |
+| 54981 | Cidaprim Forte Oral Suspension | Bottle of 50 ml Oral Suspension | Valid |
+| 82674 | Eltiprim Suspension | Bottle of 50 ml Suspension | Valid |
+| 113956 | Jolltrim-DS Tablet | Strip of 10 tablets | Valid |
+| 117025 | Kombina 400mg/80mg Tablet | Strip of 10 tablets | Valid |
+| 127639 | Larprim 200 mg/40 mg Drop | Packet of 15 ml Drop | Valid |
+| 142897 | Methoxaprim 800mg/160mg Tablet | Strip of 10 tablets | Valid |
+| 159638 | Nolapse Suspension | Bottle of 50 ml Suspension | Valid |
+| 173343 | Osotrim DS 800mg/160mg Tablet | Strip of 10 tablets | Valid |
+| 199546 | Septran DS 800mg/160mg Tablet | Strip of 10 tablets | Valid |
+| 201573 | Synastat 800mg/160mg Tablet | Strip of 10 tablets | Valid |
+| 204285 | Sulfatrim Suspension | Bottle of 100 ml Suspension | Valid |
+| 205639 | Sumetrol 400mg/80mg Tablet | Strip of 10 tablets | Valid |
+| 209382 | Salgatran 400mg/80mg Tablet | Strip of 10 tablets | Valid |
+| 213239 | Sepnil DS 800mg/160mg Tablet | Strip of 10 tablets | Valid |
+| 243572 | Wypal 200 mg/40 mg Suspension | Bottle of 50 ml Suspension | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 Available forms are oral tablets, suspensions, syrups and paediatric drops. No ophthalmic (eye-drop) formulation is listed.
 

@@ -5,7 +5,7 @@ layout: default
 title: Riociguat
 parent: Known Uses Only (No New Predictions)
 nav_order: 743
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 description: "Riociguat: known uses and market status in India; currently no new candidate indication"
 monitor_inn: "Riociguat"
 predicted_indications: []
@@ -48,13 +48,23 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 189517 | Riopah 1mg Tablet (Lupin Ltd) | Strip of 10 tablets | Not listed |
-| 185114 | Rioteph 0.5mg Tablet (Cipla Ltd) | Strip of 10 tablets | Not listed |
-| 184984 | Rioci 0.5mg Tablet (MSN Laboratories) | Strip of 10 tablets | Not listed |
-| 191524 | Rioci 2mg Tablet (MSN Laboratories) | Strip of 10 tablets | Not listed |
-| 185852 | Rioteph 1.5mg Tablet (Cipla Ltd) | Strip of 10 tablets | Not listed |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 184924 | Rioci 1mg Tablet | Strip of 10 tablets | Valid |
+| 184984 | Rioci 0.5mg Tablet | Strip of 10 tablets | Valid |
+| 185040 | Rioteph 1mg Tablet | Strip of 10 tablets | Valid |
+| 185114 | Rioteph 0.5mg Tablet | Strip of 10 tablets | Valid |
+| 185852 | Rioteph 1.5mg Tablet | Strip of 10 tablets | Valid |
+| 186509 | Rioci 1.5mg Tablet | Strip of 10 tablets | Valid |
+| 187612 | Riopah 0.5mg Tablet | Strip of 10 tablets | Valid |
+| 189517 | Riopah 1mg Tablet | Strip of 10 tablets | Valid |
+| 191524 | Rioci 2mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 Nine valid single-ingredient registrations exist in total, all oral tablets. The remaining four are Rioci 1mg and 1.5mg, Riopah 0.5mg and Rioteph 1mg.
 

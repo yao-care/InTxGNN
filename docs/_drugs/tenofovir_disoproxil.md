@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 818
 evidence_level: L4
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Tenofovir Disoproxil: predicted new indication Simian immunodeficiency virus infection (evidence level L4). Approved use: Chronic hepatitis B virus infection, HIV infectious disease, AIDS"
 monitor_inn: "Tenofovir disoproxil"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia"]
@@ -90,15 +90,38 @@ The most relevant publications are listed below. All are preclinical or review a
 
 ## India Market Information
 
-Twenty valid single-ingredient licences are registered. Five main ones are shown below. The licence records contain no approved-indication text.
+Twenty valid single-ingredient licences are registered. The licence records contain no approved-indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 219209 | Tenfoclear 300mg Tablet (Abbott) | Bottle of 30 tablets | Not stated in the licence record |
-| 214916 | Tenvir Tablet (Cipla Ltd) | Bottle of 30 tablets | Not stated in the licence record |
-| 217770 | Tenof Tablet (Hetero Drugs Ltd) | Strip of 30 tablets | Not stated in the licence record |
-| 184862 | Ricovir 300mg Tablet (Mylan Pharmaceuticals Pvt Ltd) | Bottle of 30 tablets | Not stated in the licence record |
-| 182888 | Qvir Kit (Cipla Ltd) | Packet of 1 kit | Not stated in the licence record |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 105503 | Hepdoze Tablet | Bottle of 30 tablets | Valid |
+| 182888 | Qvir Kit | Packet of 1 Kit | Valid |
+| 184862 | Ricovir 300mg Tablet | Bottle of 30 tablets | Valid |
+| 188177 | Reatix Kit | Packet of 1 Kit | Valid |
+| 203714 | Synfovir Tablet | Strip of 10 tablets | Valid |
+| 211210 | Synflovir Tablet | Strip of 10 tablets | Valid |
+| 214916 | Tenvir Tablet | Bottle of 30 tablets | Valid |
+| 215576 | Tenohep Tablet | Strip of 10 tablets | Valid |
+| 217104 | Tavin Tablet | Bottle of 30 tablets | Valid |
+| 217770 | Tenof Tablet | Strip of 30 tablets | Valid |
+| 217914 | Teravir Tablet | Strip of 30 tablets | Valid |
+| 219209 | Tenfoclear 300mg Tablet | Bottle of 30 tablets | Valid |
+| 219978 | Tenarica Tablet | Bottle of 30 tablets | Valid |
+| 221171 | Tenolam-AR Kit | Strip of 2 kit | Valid |
+| 222834 | Tinovir Tablet | Bottle of 30 tablets | Valid |
+| 223534 | Timeovir 300 Tablet | Bottle of 30 tablets | Valid |
+| 225647 | Tudofovir Tablet | Bottle of 30 tablets | Valid |
+| 236550 | Viro 4 Kit | Packet of 1 Kit | Valid |
+| 236608 | Valten 300mg Tablet | Bottle of 30 tablets | Valid |
+| 237117 | Vipteno 300mg Tablet | Bottle of 30 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

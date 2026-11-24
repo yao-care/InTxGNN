@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 331
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Etoposide: predicted new indication Ewing sarcoma (evidence level L5). Approved use: Small cell lung carcinoma…"
 monitor_inn: "Etoposide"
 predicted_indications: ["well-differentiated fetal adenocarcinoma of the lung", "primary pulmonary lymphoma", "pulmonary blastoma", "Ewing sarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "rhabdomyosarcoma (disease)", "embryonal extrahepatic bile duct rhabdomyosarcoma", "parameningeal embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma"]
@@ -120,15 +120,38 @@ The table lists the most relevant of the 33 trials registered for Ewing sarcoma,
 
 ## India Market Information
 
-Etoposide is marketed in India with 20 valid single-ingredient registrations (injection and oral capsule). Approved indication text was not available for any of them. Five of the main registrations:
+Etoposide is marketed in India with 20 valid single-ingredient registrations (injection and oral capsule). Approved indication text was not available for any of them.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 81663 | Etonco 100mg Injection | Vial of 1 injection | Not provided |
-| 89369 | Fytosid 100mg Injection | Vial of 5 ml injection | Not provided |
-| 175247 | Posid 100mg Injection | Vial of 5 ml injection | Not provided |
-| 177778 | Posid 100mg Capsule | Strip of 4 capsules | Not provided |
-| 74872 | Etoplast 50mg Capsule | Strip of 12 capsules | Not provided |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 7249 | Adside Injection | Vial of 5 ml Injection | Valid |
+| 28998 | Bioside 100mg Injection | Vial of 5 ml Injection | Valid |
+| 39961 | Celoside 100 Injection | Vial of 5 ml Injection | Valid |
+| 54232 | Chemosid 100mg Injection | Vial of 5 ml Injection | Valid |
+| 74872 | Etoplast 50mg Capsule | Strip of 12 capsules | Valid |
+| 75886 | Etovel 100mg Injection | Vial of 5 ml Injection | Valid |
+| 77027 | Etoplast 100mg Injection | Vial of 5 ml Injection | Valid |
+| 79266 | Etoglob 100mg Capsule | Strip of 4 capsules | Valid |
+| 80139 | Etolon 100mg Injection | Vial of 1 Injection | Valid |
+| 81663 | Etonco 100mg Injection | Vial of 1 Injection | Valid |
+| 82126 | Eside 100mg Injection | Vial of 5 ml Injection | Valid |
+| 83002 | Etoziryl 100mg Injection | Vial of 5 ml Injection | Valid |
+| 89369 | Fytosid 100mg Injection | Vial of 5 ml Injection | Valid |
+| 123292 | Lastet 50 Capsule | Strip of 8 capsules | Valid |
+| 126244 | Lastet Injection | Vial of 5 ml Injection | Valid |
+| 159888 | Nzytop 100mg Injection | Vial of 1 Injection | Valid |
+| 174431 | Posid 50mg Capsule | Strip of 8 capsules | Valid |
+| 175247 | Posid 100mg Injection | Vial of 5 ml Injection | Valid |
+| 177778 | Posid 100mg Capsule | Strip of 4 capsules | Valid |
+| 182487 | Peltasol 100mg Injection | Vial of 5 ml Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ---
 

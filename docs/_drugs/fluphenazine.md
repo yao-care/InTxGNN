@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 369
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Fluphenazine"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "syndromic myopia", "myopia X-linked", "hydranencephaly (disease)", "congenital disorder of glycosylation with defective fucosylation", "myopia 26, X-linked, female-limited", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "atypical glycine encephalopathy", "manic bipolar affective disorder"]
 description: "Fluphenazine: predicted new indication Retinal dystrophy with or without extraocular anomalies (evidence level L5). In India: 12 listed products (12 not discontinued)"
@@ -82,21 +82,34 @@ Currently no related literature available.
 
 ## India Market Information
 
-Twelve valid registrations exist, with no cancelled licences. The registration data lists no approved indication text. The five main authorizations are shown below.
+All registrations are valid, with no cancelled licences. The registration data lists no approved indication text.
 
 <!-- review:begin in-lic-20261106-fluphenazine-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "Twelve valid single-ingredient registrations exist, with no cancelled licences." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+> **Review correction (2026-11-24)**: Originally stated: "Twelve valid single-ingredient registrations exist, with no cancelled licences." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Revised 2026-11-24: the hard-coded number of records and the wording about the old table were dropped; the Quick Overview and the product table under India Market Information show the current figures. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
 
 <!-- review:end in-lic-20261106-fluphenazine-1 -->
 
-| Authorization Number | Product Name | Dosage Form |
-|---------|------|------|
-| 180783 | Phenvator 25mg Injection | Vial, injection |
-| 85612 | Fludecan 25mg Injection | Vial of 2 ml, injection |
-| 175233 | Phenasol 25mg Injection | Vial of 1 ml, injection |
-| 7771 | Arkane 2mg Tablet | Strip of 10 tablets |
-| 7089 | Anatensol Decanoate 25mg Injection | Vial of 1 ml, injection |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 7089 | Anatensol Decanoate 25mg Injection | Vial of 1 ml Injection | Valid |
+| 7771 | Arkane 2mg Tablet | Strip of 10 tablets | Valid |
+| 84857 | F Tensil 25mg Injection | Vial of 1 ml Injection | Valid |
+| 85612 | Fludecan 25mg Injection | Vial of 2 ml Injection | Valid |
+| 135318 | Monazine Injection | Vial of 1 ml Injection | Valid |
+| 135507 | Medipax 25mg Injection | Ampoule of 1 ml Injection | Valid |
+| 175233 | Phenasol 25mg Injection | Vial of 1 ml Injection | Valid |
+| 175287 | Phenate 25mg Injection | Ampoule of 1 ml Injection | Valid |
+| 179181 | Phenodec 25mg Injection | Vial of 1 ml Injection | Valid |
+| 179558 | Phenasol 25mg Injection | Vial of 1 Injection | Valid |
+| 180783 | Phenvator 25mg Injection | Vial of 1 Injection | Valid |
+| 216178 | Tripnor 0.5 mg/10 mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 The remaining registrations are mostly 25 mg injections, plus Tripnor 0.5 mg/10 mg tablets (licence 216178).
 
@@ -138,7 +151,7 @@ Below is the review log for this page: statements checked against official India
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-24 | Removed: "single-ingredient" | Corrected (revised 2026-11-24; earlier version kept in the record) | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 | 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Fluphenazine Hydrochoride (fluphenazine hydrochloride) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=91b85b8d-4c10-4395-915e-272b81ef3b12) |
 
 <!-- review:end log -->

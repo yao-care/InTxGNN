@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 895
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "Vitamin E"
 predicted_indications: ["inborn disorder of bilirubin metabolism", "bilirubin metabolism disease", "hereditary North American Indian childhood cirrhosis", "drug-induced liver injury", "microvillus inclusion disease", "hyperbiliverdinemia", "Navajo neurohepatopathy", "nevus of Ito", "adult-onset multiple mitochondrial DNA deletion syndrome due to DGUOK deficiency", "mitochondrial DNA depletion syndrome, hepatocerebral form"]
 description: "Vitamin E: predicted new indication Inborn disorder of bilirubin metabolism (evidence level L5). In India: 7 listed products (7 not discontinued)"
@@ -83,19 +83,27 @@ Related evidence was also retrieved for the closely related prediction "bilirubi
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 638 | Antoxid E Softgel Capsule (Dr Reddy's Laboratories Ltd) | Strip of 15 capsules | Not stated in the records |
-| 150973 | NE 400 Soft Gelatin Capsule (Cachet Pharmaceuticals Pvt Ltd) | Strip of 15 soft gelatin capsules | Not stated in the records |
-| 217328 | Tocshot Capsule (Kenmed Pharma Private Limited) | Strip of 10 soft gelatin capsules | Not stated in the records |
-| 246736 | Zevion 400 Capsule (Zeelab Pharmacy Pvt Ltd) | Strip of 10 capsules | Not stated in the records |
-| 73627 | E-Gen 400 Capsule (Hnf Care Pvt Ltd) | Strip of 10 capsules | Not stated in the records |
+<!-- licenses:begin -->
 
-Seven oral registrations are valid in total, and none has been cancelled. All are oral capsule products.
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 638 | Antoxid E Softgel Capsule | Strip of 15 capsules | Valid |
+| 73414 | Evopin 400 Capsule | Strip of 10 capsules | Valid |
+| 73627 | E-Gen 400 Capsule | Strip of 10 capsules | Valid |
+| 137734 | Multipro LC Soft Gelatin Capsule | Strip of 30 soft gelatin capsules | Valid |
+| 150973 | NE 400 Soft Gelatin Capsule | Strip of 15 soft gelatin capsules | Valid |
+| 217328 | Tocshot Capsule | Strip of 10 soft gelatin capsules | Valid |
+| 246736 | Zevion 400 Capsule | Strip of 10 capsules | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
+
+All oral registrations are valid, and none has been cancelled. All are oral capsule products.
 
 <!-- review:begin in-lic-20261106-vitamin_e-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "Seven single-ingredient oral registrations are valid in total, and none has been cancelled." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+> **Review correction (2026-11-24)**: Originally stated: "Seven single-ingredient oral registrations are valid in total, and none has been cancelled." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Revised 2026-11-24: the hard-coded number of records and the wording about the old table were dropped; the Quick Overview and the product table under India Market Information show the current figures. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
 
 <!-- review:end in-lic-20261106-vitamin_e-1 -->
 
@@ -133,7 +141,7 @@ Below is the review log for this page: statements checked against official India
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-24 | Removed: "single-ingredient" | Corrected (revised 2026-11-24; earlier version kept in the record) | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 

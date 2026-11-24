@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Dexrabeprazole"
 predicted_indications: ["duodenal obstruction", "gastroduodenitis"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 description: "Dexrabeprazole: predicted new indication duodenal obstruction (evidence level L5). In India: 17 listed products (17 not discontinued)"
 ---
 
@@ -69,15 +69,33 @@ Currently no related literature available.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 192477 | Rozydex 10mg Tablet | Strip of 10 tablets | Not recorded |
-| 62833 | Dexlet 10mg Tablet | Strip of 10 tablets | Not recorded |
-| 61569 | Dexarab 10mg Tablet | Strip of 10 tablets | Not recorded |
-| 65356 | Dirab 5mg Tablet | Strip of 10 tablets | Not recorded |
-| 59822 | Dexol 10mg Tablet | Strip of 10 tablets | Not recorded |
+<!-- licenses:begin -->
 
-All 17 registered licences are currently valid. Only the first five are listed here.
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 8287 | Acerab 10mg Tablet | Strip of 10 tablets | Valid |
+| 59822 | Dexol 10mg Tablet | Strip of 10 tablets | Valid |
+| 60078 | Dexol L Tablet | Strip of 10 tablets | Valid |
+| 61569 | Dexarab 10mg Tablet | Strip of 10 tablets | Valid |
+| 62317 | Dirab 10mg Tablet | Strip of 10 tablets | Valid |
+| 62833 | Dexlet 10mg Tablet | Strip of 10 tablets | Valid |
+| 62942 | Dexarab-L Capsule SR | Strip of 10 capsule sr | Valid |
+| 64838 | Dex Rabato Tablet | Strip of 10 tablets | Valid |
+| 65221 | Dexelpride 10mg/75mg Capsule | Strip of 10 capsules | Valid |
+| 65356 | Dirab 5mg Tablet | Strip of 10 tablets | Valid |
+| 66323 | DEXPURE 5 MG TABLET | Strip of 10 tablets | Valid |
+| 66456 | Depraz 10mg Tablet | Strip of 10 tablets | Valid |
+| 77541 | Evopride-DX 10mg/75mg Tablet | Strip of 10 tablets | Valid |
+| 116740 | Kyrab 10mg Tablet | Strip of 10 tablets | Valid |
+| 123491 | Levopraz 10mg/75mg Capsule | Strip of 10 capsules | Valid |
+| 192477 | Rozydex 10mg Tablet | Strip of 10 tablets | Valid |
+| 202744 | Sulpraz 10mg/75mg Capsule | Strip of 10 capsules | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
+
+All 17 registered licences are currently valid.
 
 ## Safety Considerations
 

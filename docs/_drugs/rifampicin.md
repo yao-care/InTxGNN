@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 739
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Rifampicin: predicted new indication Conjunctivitis (evidence level L4). Approved use: Pulmonary tuberculosis"
 monitor_inn: "Rifampicin"
 predicted_indications: ["conjunctivitis", "multiple endocrine neoplasia", "acne (disease)", "conjunctivitis (disease)", "HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "rheumatoid arthritis", "acute contagious conjunctivitis", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection"]
@@ -82,15 +82,44 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 184977 | Risorine Capsule | Strip of 10 capsules | Not stated |
-| 186328 | Rifamycin 450mg Tablet | Strip of 10 tablets | Not stated |
-| 78081 | Eufacin Inh 450 mg/300 mg Tablet | Strip of 10 tablets | Not stated |
-| 193271 | Rimpin 450mg Capsule | Strip of 10 capsules | Not stated |
-| 143426 | Monocin 500mg Injection | Vial of 2 ml injection | Not stated |
+<!-- licenses:begin -->
 
-All 20 registrations are valid single-ingredient licences; only five are listed here. The data compiled for this report include oral and injectable forms, and none of the listed registrations is an ophthalmic preparation.
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 3390 | Akurit Kid 60 mg/30 mg Tablet | Strip of 6 tablets | Valid |
+| 48274 | Confez 3 Combipack | Strip of 2 tablets | Valid |
+| 51529 | Coxwin Kid 100 mg/50 mg Tablet | Strip of 10 tablets | Valid |
+| 53384 | Cavidin 600mg Tablet | Strip of 4 tablets | Valid |
+| 78081 | Eufacin Inh 450 mg/300 mg Tablet | Strip of 10 tablets | Valid |
+| 143426 | Monocin 500mg Injection | Vial of 2 ml Injection | Valid |
+| 144568 | Macox 300mg Capsule | Strip of 6 capsules | Valid |
+| 145022 | Monocin 450mg Tablet | Strip of 10 tablets | Valid |
+| 184746 | R-Cin Capsule | Strip of 10 capsules | Valid |
+| 184977 | Risorine Capsule | Strip of 10 capsules | Valid |
+| 186328 | Rifamycin 450mg Tablet | Strip of 10 tablets | Valid |
+| 188243 | Ripe Forte Kit | Packet of 1 Kit | Valid |
+| 193271 | Rimpin 450mg Capsule | Strip of 10 capsules | Valid |
+| 195428 | Rifarcin Plus 450 mg/300 mg Tablet | Strip of 10 tablets | Valid |
+| 196492 | Recox 100mg/100mg Tablet | Strip of 10 tablets | Valid |
+| 197886 | Rufanex 450 Capsule | Strip of 10 capsules | Valid |
+| 221674 | TRICIN 450MG CAPSULE | Strip of 10 capsules | Valid |
+| 225240 | Toscular 150mg Capsule | Strip of 10 capsules | Valid |
+| 237071 | Vicox 2 Kid Tablet | Strip of 10 tablets | Valid |
+| 237370 | Vicox E 450 mg/300 mg/800 mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
+
+All 20 registrations are valid licences. The data compiled for this report include oral and injectable forms, and none of the listed registrations is an ophthalmic preparation.
+
+<!-- review:begin in-lic-20261124-rifampicin-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "All 20 registrations are valid single-ingredient licences." Removed: it described the products as single-ingredient (or as having no combination products), which does not match the Indian medicine data (the Indian Medicine Dataset): some of the recorded products are fixed-dose combinations. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124-rifampicin-1 -->
 
 ## Cytotoxicity
 
@@ -122,11 +151,12 @@ The antibacterial rationale is plausible and some older topical studies exist, b
 
 ## Review Log
 
-Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: rifampin prescribing information, Mylan Institutional LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8be91604-d7cd-4f2b-997d-e3364e4092e5) |
+| 2026-11-24 | Removed: the single-ingredient claim | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 

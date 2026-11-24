@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 23
 evidence_level: L3
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Acitretin: predicted new indication Acne (disease) (evidence level L3). Approved use: Not stated in the India licence data compiled for this report"
 monitor_inn: "Acitretin"
 predicted_indications: ["acne (disease)", "pediatric systemic lupus erythematosus", "fetal erythroblastosis", "familial cutaneous telangiectasia and oropharyngeal predisposition cancer syndrome"]
@@ -82,15 +82,38 @@ The available clinical evidence, however, concerns acne inversa (hidradenitis su
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 248742 | Zoratame 10mg Capsule (Cipla Ltd) | Strip of 10 capsules | Not stated |
-| 592 | Actoid 25mg Capsule (Intas Pharmaceuticals Ltd) | Strip of 10 capsules | Not stated |
-| 7677 | Acitrin 20mg Capsule (Ipca Laboratories Ltd) | Strip of 10 capsules | Not stated |
-| 372 | Acrotac 25mg Capsule (Sun Pharmaceutical Industries Ltd) | Strip of 20 capsules | Not stated |
-| 5297 | Acetroin 25mg Tablet (Nidus Pharma Pvt Ltd) | Strip of 10 tablets | Not stated |
+<!-- licenses:begin -->
 
-A total of 20 valid single-ingredient registrations are on record. Only the five above are shown.
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 372 | Acrotac 25mg Capsule | Strip of 20 capsules | Valid |
+| 592 | Actoid 25mg Capsule | Strip of 10 capsules | Valid |
+| 655 | Aceret 25 Capsule | Strip of 10 capsules | Valid |
+| 1042 | Actoid 10 Capsule | Strip of 10 capsules | Valid |
+| 2703 | Acipsor 10mg Capsule | Strip of 10 capsules | Valid |
+| 3715 | A Tret 10mg Capsule | Strip of 10 capsules | Valid |
+| 3972 | Acetec 25mg Capsule | Strip of 10 capsules | Valid |
+| 4368 | Acitinext 25 Capsule | Strip of 10 capsules | Valid |
+| 5297 | Acetroin 25mg Tablet | Strip of 10 tablets | Valid |
+| 7677 | Acitrin 20mg Capsule | Strip of 10 capsules | Valid |
+| 10540 | Acitros 25mg Capsule | Strip of 15 capsules | Valid |
+| 16037 | Acitros 10mg Capsule | Strip of 15 capsules | Valid |
+| 175279 | Psotretin 25mg Tablet | Strip of 10 tablets | Valid |
+| 201838 | Soretin 25mg Capsule | Strip of 10 capsules | Valid |
+| 201849 | Sentrane 25mg Capsule | Strip of 10 capsules | Valid |
+| 202543 | Soretin 10mg Capsule | Strip of 10 capsules | Valid |
+| 217350 | Tretoact 25 Capsule | Strip of 10 capsules | Valid |
+| 218412 | Tetricap 25mg Capsule | Strip of 10 capsules | Valid |
+| 248742 | Zoratame 10mg Capsule | Strip of 10 capsules | Valid |
+| 248758 | Zoratame 25mg Capsule | Strip of 10 capsules | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
+
+A total of 20 valid single-ingredient registrations are on record.
 
 ## Cytotoxicity
 

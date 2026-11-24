@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 418
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Ibuprofen"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "brachydactyly-syndactyly syndrome", "pseudoachondroplasia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
 description: "Ibuprofen: predicted new indication Acromesomelic dysplasia, Hunter-Thompson type (evidence level L5). In India: at least 20 listed products"
@@ -81,15 +81,44 @@ Currently no related literature available.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 108439 | Ibufen Tablet | Strip of 10 tablets | Not stated |
-| 112546 | Ibugrap 400mg Tablet | Strip of 10 tablets | Not stated |
-| 160600 | Nilflam Suspension | Bottle of 60 ml suspension | Not stated |
-| 108868 | Ibuset Syrup | Bottle of 60 ml syrup | Not stated |
-| 41347 | Corflam Gel | Tube of 15 gm gel (topical) | Not stated |
+<!-- licenses:begin -->
 
-All 20 registrations are valid single-ingredient licences. Dosage forms include oral tablets, suspensions, syrups and a topical gel.
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 41347 | Corflam Gel | Tube of 15 gm Gel | Valid |
+| 70886 | Dualflam F 400mg/500mg Tablet | Strip of 10 tablets | Valid |
+| 73770 | Endopar Oral Suspension | Bottle of 60 ml Oral Suspension | Valid |
+| 108439 | Ibufen Tablet | Strip of 10 tablets | Valid |
+| 108700 | Ibu 400mg Tablet | Strip of 10 tablets | Valid |
+| 108824 | Ibucet 400 mg/500 mg Tablet | Strip of 10 tablets | Valid |
+| 108868 | Ibuset Syrup | Bottle of 60 ml Syrup | Valid |
+| 109340 | Ibuflam 400mg/500mg Tablet | Strip of 10 tablets | Valid |
+| 110190 | Infanil 400 mg/325 mg Tablet | Strip of 10 tablets | Valid |
+| 110356 | I Par 100mg/125mg Syrup | Bottle of 60 ml Syrup | Valid |
+| 112546 | Ibugrap 400mg Tablet | Strip of 10 tablets | Valid |
+| 112858 | Ibumolin Suspension | Bottle of 60 ml Suspension | Valid |
+| 135215 | Metagesic SS Tablet | Strip of 10 tablets | Valid |
+| 142023 | Medigesic Plus Tablet | Strip of 10 tablets | Valid |
+| 148363 | Methoprofen Tablet | Strip of 10 tablets | Valid |
+| 160600 | Nilflam Suspension | Bottle of 60 ml Suspension | Valid |
+| 176406 | Paa Tablet | Strip of 15 tablets | Valid |
+| 182028 | Paramag IP 400mg/325mg Tablet | Strip of 10 tablets | Valid |
+| 217554 | Tolfen Tablet | Strip of 10 tablets | Valid |
+| 244612 | Xtragesic 75mg/500mg Suspension | Bottle of 60 ml Suspension | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
+
+All 20 registrations are valid licences. Dosage forms include oral tablets, suspensions, syrups and a topical gel.
+
+<!-- review:begin in-lic-20261124-ibuprofen-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "All 20 registrations are valid single-ingredient licences." Removed: it described the products as single-ingredient (or as having no combination products), which does not match the Indian medicine data (the Indian Medicine Dataset): some of the recorded products are fixed-dose combinations. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124-ibuprofen-1 -->
 
 ---
 
@@ -125,11 +154,12 @@ The prediction is supported only by a model score (0.9974), with no clinical tri
 
 ## Review Log
 
-Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Caldolor (ibuprofen) prescribing information, Cumberland Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1eaa7790-f1a1-4f51-b10a-cbbaf033f684) |
+| 2026-11-24 | Removed: the single-ingredient claim | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 

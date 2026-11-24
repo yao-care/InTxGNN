@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 880
 evidence_level: L4
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Valsartan: predicted new indication Malignant hypertensive renal disease (evidence level L4). Approved use: Hypertension (hypertensive disorder)"
 monitor_inn: "Valsartan"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "chronic pulmonary heart disease", "Prinzmetal angina"]
@@ -94,15 +94,38 @@ Related literature for other predicted indications:
 
 ## India Market Information
 
-Valsartan is marketed in India with 20 valid single-ingredient registrations. Approved indication text is not available in the data compiled for this report. Main authorizations:
+Valsartan is marketed in India with 20 valid single-ingredient registrations. Approved indication text is not available in the data compiled for this report.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 58946 | Diovan 80 Tablet (Novartis India Ltd) | Strip of 14 tablets | Not specified |
-| 64720 | Diovan 160 Tablet (Novartis India Ltd) | Strip of 28 tablets | Not specified |
-| 36075 | Co-Diovan 80/12.5 Tablet (Novartis India Ltd) | Strip of 14 tablets | Not specified |
-| 233540 | Valent 80 Tablet (Lupin Ltd) | Strip of 10 tablets | Not specified |
-| 208126 | Starval 160mg Capsule (Sun Pharmaceutical Industries Ltd) | Strip of 10 capsules | Not specified |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 36075 | Co-Diovan 80/12.5 Tablet | Strip of 14 tablets | Valid |
+| 37661 | CO Diovan Fct 160/25 Tablet | Strip of 14 tablets | Valid |
+| 58946 | Diovan 80 Tablet | Strip of 14 tablets | Valid |
+| 62780 | Diovaal 160mg Tablet | Strip of 10 tablets | Valid |
+| 64572 | DavaIndia Valsartan 40mg Tablet | Strip of 10 tablets | Valid |
+| 64720 | Diovan 160 Tablet | Strip of 28 tablets | Valid |
+| 64844 | DavaIndia Valsartan+Hydrochlorothiazide 80mg/12.5mg Tablet | Strip of 10 tablets | Valid |
+| 65230 | Diovaal 80 Tablet | Strip of 10 tablets | Valid |
+| 208126 | Starval 160mg Capsule | Strip of 10 capsules | Valid |
+| 233540 | Valent 80 Tablet | Strip of 10 tablets | Valid |
+| 233815 | Valembic 80mg Tablet | Strip of 10 tablets | Valid |
+| 233972 | Valzaar-H Tablet | Strip of 15 tablets | Valid |
+| 234290 | Valzaar-H Tablet | Strip of 10 tablets | Valid |
+| 234539 | Valembic 160mg Tablet | Strip of 10 tablets | Valid |
+| 235449 | Valfect 40mg Tablet | Strip of 10 tablets | Valid |
+| 237304 | Valfect H 80mg/12.5mg Tablet | Strip of 10 tablets | Valid |
+| 237912 | Valembic H 160mg/12.5mg Tablet | Strip of 10 tablets | Valid |
+| 238241 | Valsamen 80mg Tablet | Strip of 10 tablets | Valid |
+| 238610 | Valodil 80 Tablet | Strip of 10 tablets | Valid |
+| 239001 | Valsamen 40mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

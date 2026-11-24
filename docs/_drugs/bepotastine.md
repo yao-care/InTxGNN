@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 102
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 description: "Bepotastine: known uses and market status in India; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -72,30 +72,36 @@ The TxGNN model's candidates for Bepotastine (score ≥ 0.99) are all known uses
 
 ## India Market Information
 
-| Licence | Product | Dosage form | Status |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
 |------|------|------|------|
-| 26248 | Beipos Tablet | strip of 10 tablets | Valid |
-| 121241 | Lupin Bepogra Tablet | strip of 10 tablets | Valid |
-| 26966 | Bepomac Tablet | strip of 10 tablets | Valid |
-| 30093 | Bepotosin Eye Drop | bottle of 5 ml Ophthalmic Solution | Valid |
-| 176085 | Prustat Tablet | strip of 10 tablets | Valid |
-| 26168 | Bepozal Tablet | strip of 10 tablets | Valid |
-| 162667 | Optistat Eye Drop | bottle of 5 ml Eye Drop | Valid |
-| 26714 | Beporest Eye drop | bottle of 5 ml Ophthalmic Solution | Valid |
-| 163224 | Optihist Bang 1.5% Eye Drop | bottle of 5 ml Eye Drop | Valid |
-| 59250 | Dabfit Eye Drop | bottle of 5 ml Ophthalmic Solution | Valid |
-| 28179 | Bepobesil 1.5% Eye Drop | bottle of 5 ml Eye Drop | Valid |
-| 4583 | Analar Gold 1.5% Eye Drop | packet of 5 ml Eye Drop | Valid |
-| 25870 | Beipos Eye Drop | bottle of 5 ml Ophthalmic Solution | Valid |
-| 16475 | Allerbep 1.5% Eye Drop | bottle of 5 ml Eye Drop | Valid |
-| 26177 | Beposurge Eye Drop | bottle of 5 ml Ophthalmic Solution | Valid |
-| 247377 | Zyclear Eye Drop | packet of 5 ml Ophthalmic Solution | Valid |
-| 26952 | Botas Ophthalmic Solution | bottle of 5 ml Ophthalmic Solution | Valid |
-| 29024 | Bepoday Eye Drop | bottle of 5 ml Ophthalmic Solution | Valid |
-| 25986 | Betoact Eye Drop BAK Free | bottle of 5 ml Eye Drop | Valid |
-| 27003 | Bepomax 1.5% Eye Drop | bottle of 5 ml Eye Drop | Valid |
+| 4583 | Analar Gold 1.5% Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 16475 | Allerbep 1.5% Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 25870 | Beipos Eye Drop | Bottle of 5 ml Ophthalmic Solution | Valid |
+| 25986 | Betoact Eye Drop BAK Free | Bottle of 5 ml Eye Drop | Valid |
+| 26168 | Bepozal Tablet | Strip of 10 tablets | Valid |
+| 26177 | Beposurge Eye Drop | Bottle of 5 ml Ophthalmic Solution | Valid |
+| 26248 | Beipos Tablet | Strip of 10 tablets | Valid |
+| 26714 | Beporest Eye drop | Bottle of 5 ml Ophthalmic Solution | Valid |
+| 26952 | Botas Ophthalmic Solution | Bottle of 5 ml Ophthalmic Solution | Valid |
+| 26966 | Bepomac Tablet | Strip of 10 tablets | Valid |
+| 27003 | Bepomax 1.5% Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 28179 | Bepobesil 1.5% Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 29024 | Bepoday Eye Drop | Bottle of 5 ml Ophthalmic Solution | Valid |
+| 30093 | Bepotosin Eye Drop | Bottle of 5 ml Ophthalmic Solution | Valid |
+| 59250 | Dabfit Eye Drop | Bottle of 5 ml Ophthalmic Solution | Valid |
+| 121241 | Lupin Bepogra Tablet | Strip of 10 tablets | Valid |
+| 162667 | Optistat Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 163224 | Optihist Bang 1.5% Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 176085 | Prustat Tablet | Strip of 10 tablets | Valid |
+| 247377 | Zyclear Eye Drop | Packet of 5 ml Ophthalmic Solution | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
 
 Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

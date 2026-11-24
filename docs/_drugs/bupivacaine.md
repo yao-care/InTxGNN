@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Bupivacaine"
 predicted_indications: ["acrodermatitis chronica atrophicans", "neonatal dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "amyopathic dermatomyositis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Bupivacaine: predicted new indication acrodermatitis chronica atrophicans (evidence level L5). In India: at least 20 listed products"
 ---
 
@@ -70,15 +70,38 @@ Currently no related literature available.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 27290 | Bupicain 5mg Injection | vial of 20 ml Injection | Not recorded |
-| 124998 | Levo Anawin 0.25% Injection | vial of 10 ml Injection | Not recorded |
-| 159193 | Numbcaine Heavy 20mg Injection | vial of 4 ml Injection | Not recorded |
-| 29364 | Bupicain Heavy 80mg Injection | vial of 4 ml Injection | Not recorded |
-| 3383 | Anawin 0.25% Injection | vial of 20 ml Injection | Not recorded |
+<!-- licenses:begin -->
 
-The list shows five of at least 20 valid single-ingredient licences, and the records may be partial. All are injectable products.
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 492 | Anawin Heavy 5mg Injection | Vial of 4 ml Injection | Valid |
+| 1030 | Anawin 0.5% Injection | Vial of 20 ml Injection | Valid |
+| 3383 | Anawin 0.25% Injection | Vial of 20 ml Injection | Valid |
+| 27290 | Bupicain 5mg Injection | Vial of 20 ml Injection | Valid |
+| 27858 | Bupivac Heavy Injection | Vial of 4 ml Injection | Valid |
+| 28811 | Bupifix-H Injection | Ampoule of 4 ml Injection | Valid |
+| 29116 | Buloc 0.5% Injection | Vial of 20 ml Injection | Valid |
+| 29177 | Bipivac 5mg Injection | Vial of 20 ml Injection | Valid |
+| 29364 | Bupicain Heavy 80mg Injection | Vial of 4 ml Injection | Valid |
+| 29722 | Bupizuva Heavy 5mg Injection | Vial of 4 ml Injection | Valid |
+| 30342 | Bupicain Injection | Vial of 20 ml Injection | Valid |
+| 32298 | Bupidural 0.25% Injection | Vial of 1 Injection | Valid |
+| 32754 | Buloc H 20mg Injection | Vial of 4 ml Injection | Valid |
+| 33675 | Bupidural 5mg Injection | Vial of 1 Injection | Valid |
+| 122035 | Levo Anawin 0.5% Injection | Vial of 10 ml Injection | Valid |
+| 124998 | Levo Anawin 0.25% Injection | Vial of 10 ml Injection | Valid |
+| 159193 | Numbcaine Heavy 20mg Injection | Vial of 4 ml Injection | Valid |
+| 203626 | Sensorcaine 0.25% Injection | Vial of 20 ml Injection | Valid |
+| 205077 | Sens 0.5% Injection | Vial of 20 ml Injection | Valid |
+| 252286 | Zupivac PF 5 Injection | Vial of 20 ml Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
+
+All are injectable products.
 
 ## Safety Considerations
 

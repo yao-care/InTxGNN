@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 306
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 description: "Enclomiphene: predicted new indication Acute intermittent porphyria (evidence level L5). Approved use: Not stated in the compiled licence data"
 monitor_inn: "Enclomiphene"
 drugbank_id: DB06735
@@ -85,15 +85,33 @@ Currently no related literature available.
 
 ## India Market Information
 
-Enclomiphene has 17 valid single-ingredient registrations in India and none cancelled. The approved indication text is not available for any of them. Five representative registrations are listed below.
+Enclomiphene has 17 valid single-ingredient registrations in India and none cancelled. The approved indication text is not available for any of them.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 161875 | Ova Plus 100mg Tablet | Strip of 10 tablets | Not available |
-| 205764 | Smartova Pure 50 Capsule | Strip of 5 capsules | Not available |
-| 78506 | Enos 50mg Tablet | Strip of 10 tablets | Not available |
-| 157975 | N Clomi 100mg Tablet | Strip of 5 tablets | Not available |
-| 79843 | Engamet 50mg Tablet | Strip of 5 tablets | Not available |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 73311 | EN-Clofert 50 Tablet | Strip of 5 tablets | Valid |
+| 77774 | Enclopure 100mg Tablet | Strip of 5 tablets | Valid |
+| 78420 | Engamet 25mg Tablet | Strip of 5 tablets | Valid |
+| 78506 | Enos 50mg Tablet | Strip of 10 tablets | Valid |
+| 78822 | Enos 25mg Tablet | Strip of 5 tablets | Valid |
+| 79245 | Enclowin 100mg Capsule | Strip of 5 capsules | Valid |
+| 79843 | Engamet 50mg Tablet | Strip of 5 tablets | Valid |
+| 79900 | Enclowin 50mg Capsule | Strip of 5 capsules | Valid |
+| 81940 | Enclowin 25mg Capsule | Strip of 5 capsules | Valid |
+| 156853 | N Clomi 50mg Tablet | Strip of 5 tablets | Valid |
+| 157975 | N Clomi 100mg Tablet | Strip of 5 tablets | Valid |
+| 158042 | N Clomi 25mg Tablet | Strip of 5 tablets | Valid |
+| 161875 | Ova Plus 100mg Tablet | Strip of 10 tablets | Valid |
+| 162576 | Oviduct NC Tablet | Strip of 30 tablets | Valid |
+| 166622 | Ovafree 50mg Soft Gelatin Capsule | Strip of 5 soft gelatin capsules | Valid |
+| 181723 | Primeova 100mg Capsule | Strip of 5 capsules | Valid |
+| 205764 | Smartova Pure 50 Capsule | Strip of 5 capsules | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 All products are oral forms (tablets, capsules and soft gelatin capsules).
 

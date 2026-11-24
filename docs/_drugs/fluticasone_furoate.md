@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 374
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Fluticasone Furoate: predicted new indication Atopic eczema (evidence level L5). Approved use: Asthma, allergic asthma, intrinsic asthma, allergic rhinitis…"
 monitor_inn: "Fluticasone furoate"
 predicted_indications: ["atopic eczema", "bronchitis", "2-hydroxyethyl methacrylate sensitization", "dermatitis, atopic", "contact dermatitis", "occupational dermatitis", "phototoxic dermatitis"]
@@ -85,15 +85,38 @@ Currently no related clinical trials registered for atopic eczema.
 
 ## India Market Information
 
-Twenty single-ingredient registrations are valid in India, all nasal sprays; none are cancelled. The data compiled for this report do not include approved indication text. Main authorizations:
+Twenty single-ingredient registrations are valid in India, all nasal sprays; none are cancelled. The data compiled for this report do not include approved indication text.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| 84092 | Furamist Nasal Spray | Bottle of 6 gm nasal spray | Cipla Ltd |
-| 162387 | Odnase Nasal Spray | Bottle of 6 gm nasal spray | Dr Reddy's Laboratories Ltd |
-| 84258 | Flutiways AZ Nasal Spray | Pump bottle of 70 MDI nasal spray | Mankind Pharma Ltd |
-| 72535 | Ezicas F 360 Nasal Spray | Bottle of 16 gm nasal spray | Intas Pharmaceuticals Ltd |
-| 84752 | Fluoren Nasal Spray | Bottle of 120 MDI nasal spray | Indoco Remedies Ltd |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 5449 | Aramol-F 2 Nasal Spray | Bottle of 120 MDI Nasal Spray | Valid |
+| 72535 | Ezicas F 360 Nasal Spray | Bottle of 16 gm Nasal Spray | Valid |
+| 84092 | Furamist Nasal Spray | Bottle of 6 gm Nasal Spray | Valid |
+| 84258 | Flutiways AZ Nasal Spray | Pump bottle of 70 MDI Nasal Spray | Valid |
+| 84752 | Fluoren Nasal Spray | Bottle of 120 MDI Nasal Spray | Valid |
+| 85196 | Flution-F Nasal Spray | Bottle of 120 MDI Nasal Spray | Valid |
+| 86054 | Furasan Nasal Spray | Bottle of 10 ml Nasal Spray | Valid |
+| 86420 | Flyzone-FT Nasal Spray | Pump bottle of 12 ml Nasal Spray | Valid |
+| 87090 | Flocare 27.5mcg Nasal Spray | Bottle of 6 gm Nasal Spray | Valid |
+| 87998 | FT For 27.5mcg Nasal Spray | Bottle of 1 Nasal Spray | Valid |
+| 89142 | Flovetol FT Nasal Spray | Bottle of 6 gm Nasal Spray | Valid |
+| 89574 | Flospray 50mcg Nasal Spray | Bottle of 10 ml Nasal Spray | Valid |
+| 108857 | Innomist-F 27.5mcg Nasal Spray | Bottle of 120 MDI Nasal Spray | Valid |
+| 152092 | Nozispray Nasal Spray | Pump bottle of 120 MDI Nasal Spray | Valid |
+| 162387 | Odnase Nasal Spray | Bottle of 6 gm Nasal Spray | Valid |
+| 162797 | Orpa Nasal Spray | Bottle of 120 MDI Nasal Spray | Valid |
+| 186895 | Ryno Nasal Spray | Bottle of 120 MDI Nasal Spray | Valid |
+| 187637 | Rinomist-FP Nasal Spray | Bottle of 100 MDI Nasal Spray | Valid |
+| 200078 | Spiroflut Nasal Spray | Bottle of 6 gm Nasal Spray | Valid |
+| 200258 | Spiroflut A Nasal Spray | Packet of 7 ml Nasal Spray | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 742
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Rimonabant: predicted new indication Hypervitaminosis (evidence level L5). Approved use: Obesity disorder"
 monitor_inn: "Rimonabant"
 predicted_indications: ["hypervitaminosis", "proximal 16p11.2 microdeletion syndrome", "obsolete hypertelorism (disease)", "frontorhiny", "pentosuria", "insomnia (disease)", "lethal polymalformative syndrome, Boissel type"]
@@ -85,13 +85,23 @@ Currently no related literature available for the top prediction, hypervitaminos
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 189128 | Ribafit 20mg Tablet (Lupin Ltd) | Strip of 10 tablets | Not stated in the data |
-| 166255 | Oberim 20mg Tablet (Intas Pharmaceuticals Ltd) | Strip of 10 tablets | Not stated in the data |
-| 165980 | Obitone 20mg Tablet (Sun Pharmaceutical Industries Ltd) | Strip of 10 tablets | Not stated in the data |
-| 64889 | Defat 20mg Tablet (Torrent Pharmaceuticals Ltd) | Strip of 10 tablets | Not stated in the data |
-| 191760 | Rimobest 20mg Tablet (Aristo Pharmaceuticals Pvt Ltd) | Strip of 10 tablets | Not stated in the data |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 64889 | Defat 20mg Tablet | Strip of 10 tablets | Valid |
+| 165980 | Obitone 20mg Tablet | Strip of 10 tablets | Valid |
+| 166255 | Oberim 20mg Tablet | Strip of 10 tablets | Valid |
+| 189128 | Ribafit 20mg Tablet | Strip of 10 tablets | Valid |
+| 190232 | Rimtrim 20mg Tablet | Strip of 10 tablets | Valid |
+| 191728 | Riomont 20mg Tablet | Strip of 10 tablets | Valid |
+| 191760 | Rimobest 20mg Tablet | Strip of 10 tablets | Valid |
+| 193150 | Rimoslim 20mg Tablet | Strip of 10 tablets | Valid |
+| 195146 | Rimofit 20mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 Nine valid single-ingredient registrations exist in total, all oral tablets, and none is cancelled.
 

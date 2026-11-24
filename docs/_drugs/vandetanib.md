@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 882
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Vandetanib"
 predicted_indications: ["renal cell carcinoma (disease)", "renal cell carcinoma associated with neuroblastoma", "unclassified renal cell carcinoma", "renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions", "renal pelvis carcinoma", "clear cell renal carcinoma", "childhood kidney cell carcinoma", "renal carcinoma", "angiolipoma", "familial spontaneous pneumothorax"]
 description: "Vandetanib: predicted new indication Renal cell carcinoma (disease) (evidence level L3). In India: 1 listed product (1 not discontinued)"
@@ -83,9 +83,15 @@ The caveat is that the trials are small, two were terminated early, and no effic
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 38486 | Caprelsa Tablet (AstraZeneca) | Bottle of 30 tablets (oral) | Indication text not provided |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 38486 | Caprelsa Tablet | Bottle of 30 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

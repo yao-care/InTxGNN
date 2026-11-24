@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Eplerenone"
 predicted_indications: ["pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "Braddock syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Eplerenone: predicted new indication Pulmonary hypertension owing to lung disease and/or hypoxia (evidence level L5). Approved use: Hypertension"
 ---
 
@@ -83,15 +83,44 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-At least 20 licences are recorded, and this list may be partial. All are valid single-ingredient records. No approved indication text is available in the local records, and some product names suggest co-packaged kits, so this table shows only five of them.
+At least 20 licences are recorded, and this list may be partial. All are valid records. No approved indication text is available in the local records, and some product names suggest co-packaged kits, so this table shows only five of them.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 73151 | Ezuric 25mg Tablet (Alkem Laboratories) | Strip of 10 tablets | Not stated in the records |
-| 77511 | Eplomax 25mg Tablet (Shinto Organics) | Strip of 10 tablets | Not stated in the records |
-| 174802 | Planep 50 Tablet (Lupin) | Strip of 15 tablets | Not stated in the records |
-| 72354 | Eptus 25 Tablet (Glenmark) | Strip of 15 tablets | Not stated in the records |
-| 73625 | Eplerite 50 Tablet (Cipla) | Strip of 10 tablets | Not stated in the records |
+<!-- review:begin in-lic-20261124-eplerenone-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "All are valid single-ingredient records." Removed: it described the products as single-ingredient (or as having no combination products), which does not match the Indian medicine data (the Indian Medicine Dataset): some of the recorded products are fixed-dose combinations. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124-eplerenone-1 -->
+
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 58453 | Dytor E 10 Combi Kit | Strip of 20 tablets | Valid |
+| 58972 | Dytor E 20 Combi Kit | Strip of 20 tablets | Valid |
+| 72354 | Eptus 25 Tablet | Strip of 15 tablets | Valid |
+| 72754 | Exenta 25 Tablet | Strip of 10 tablets | Valid |
+| 73087 | Epnone-T 10 Tablet Combikit | Strip of 20 tablet combikit | Valid |
+| 73149 | Eplehef 50 Tablet | Strip of 10 tablets | Valid |
+| 73151 | Ezuric 25mg Tablet | Strip of 10 tablets | Valid |
+| 73592 | Exenta T 10 Kit | Strip of 20 tablets | Valid |
+| 73625 | Eplerite 50 Tablet | Strip of 10 tablets | Valid |
+| 73739 | Epnone 50 Tablet | Strip of 10 tablets | Valid |
+| 74269 | Exenta 50 Tablet | Strip of 10 tablets | Valid |
+| 76095 | Ezuric 50mg Tablet | Strip of 10 tablets | Valid |
+| 77511 | Eplomax 25mg Tablet | Strip of 10 tablets | Valid |
+| 77586 | Exenta T 20 Tablet | Strip of 10 tablets | Valid |
+| 79321 | Eplecard 50mg Tablet | Strip of 10 tablets | Valid |
+| 173813 | Planep-T 10 Kit | Strip of 20 tablets | Valid |
+| 174460 | Planep-T 20 Kit | Strip of 10 tablets | Valid |
+| 174802 | Planep 50 Tablet | Strip of 15 tablets | Valid |
+| 217477 | Tide E 20 Tablet Combikit | Box of 20 tablet combikit | Valid |
+| 219547 | Tide E 10 Tablet Combikit | Strip of 10 tablet combikit | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -117,11 +146,12 @@ No clinical trial or publication directly studies eplerenone in pulmonary hypert
 
 ## Review Log
 
-Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Inspra (eplerenone) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1a52bedc-8e2c-4116-a296-a87770676b4a) |
+| 2026-11-24 | Removed: the single-ingredient claim | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 

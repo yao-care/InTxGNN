@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 319
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Eribulin: predicted new indication Autosomal recessive familial Mediterranean fever (evidence level L5). Approved use: Liposarcoma"
 monitor_inn: "Eribulin"
 predicted_indications: ["autosomal recessive familial Mediterranean fever", "dermatofibrosarcoma protuberans", "pleural mesothelioma", "malignant peritoneal mesothelioma", "pleural adenomatoid tumor", "pleural biphasic mesothelioma", "fibroblastic neoplasm", "pleural epithelioid mesothelioma", "heart fibrosarcoma"]
@@ -69,15 +69,24 @@ Currently no related literature available.
 
 ## India Market Information
 
-Eribulin is marketed in India as an injectable. Eight valid single-ingredient registrations are on file. The approved indication text was not available for these registrations, so it is not shown. The table lists the first five.
+Eribulin is marketed in India as an injectable. Eight valid single-ingredient registrations are on file. The approved indication text was not available for these registrations, so it is not shown.
 
-| Authorization Number | Product Name | Dosage Form |
-|---------|------|------|
-| Registration No. 75829 | Ebunat 0.5mg Injection (Natco Pharma Ltd) | Vial of 1 Injection |
-| Registration No. 75269 | Eribilin Injection (Emcure Pharmaceuticals Ltd) | Vial of 2 ml Solution for Injection |
-| Registration No. 77600 | Epbriv 0.44mg Injection (Hetero Healthcare Limited) | Vial of 2 ml Injection |
-| Registration No. 104185 | Halaven 1mg Injection (Eisai Pharmaceuticals India Pvt Ltd) | Vial of 2 ml Injection |
-| Registration No. 75256 | Embremma Injection (Emcure Pharmaceuticals Ltd) | Vial of 2 ml Injection |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 75256 | Embremma Injection | Vial of 2 ml Injection | Valid |
+| 75269 | Eribilin Injection | Vial of 2 ml Solution for Injection | Valid |
+| 75829 | Ebunat 0.5mg Injection | Vial of 1 Injection | Valid |
+| 77600 | Epbriv 0.44mg Injection | Vial of 2 ml Injection | Valid |
+| 78834 | Evaira Injection | Vial of 2 ml Injection | Valid |
+| 104185 | Halaven 1mg Injection | Vial of 2 ml Injection | Valid |
+| 135674 | Mitobulin Solution for Injection | Vial of 1 Solution for Injection | Valid |
+| 220046 | Teceris Injection | Vial of 2 ml Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

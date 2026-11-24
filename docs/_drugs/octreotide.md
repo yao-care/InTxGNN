@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 612
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Octreotide"
 predicted_indications: ["vulvar inverted follicular keratosis", "seborrheic keratosis"]
 description: "Octreotide: predicted new indication Vulvar inverted follicular keratosis (evidence level L5). In India: at least 20 listed products"
@@ -70,15 +70,38 @@ Currently no related literature available.
 
 ## India Market Information
 
-Octreotide is marketed in India as injectable products. There are 20 valid single-ingredient registrations and none are cancelled. The approved indication text is not available for these registrations. The five main authorizations are listed below.
+Octreotide is marketed in India as injectable products. There are 20 valid single-ingredient registrations and none are cancelled. The approved indication text is not available for these registrations.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| 207477 | Sandostatin 0.05mg Injection | Vial of 1, injection | Novartis India Ltd |
-| 201402 | Sandostatin LAR 20mg Injection | Vial of 1 ml, injection | Novartis India Ltd |
-| 163875 | Octride Depot 10mg Injection | Vial of 1, injection | Sun Pharmaceutical Industries Ltd |
-| 162773 | Octride 0.05mg Injection | Vial of 1 ml, injection | Sun Pharmaceutical Industries Ltd |
-| 167046 | Okeron 0.05mg Injection | Vial of 1 ml, injection | Wockhardt Ltd |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 22138 | Astide 100mcg Injection | Vial of 1 Injection | Valid |
+| 38332 | Celostatin Lar 20mg Injection | Vial of 1 Injection | Valid |
+| 87272 | Ferotide 0.1mg Injection | Vial of 1 ml Injection | Valid |
+| 89982 | Fetide 100mcg Injection | Vial of 1 Injection | Valid |
+| 161758 | Octride 0.1mg Injection | Vial of 1 Injection | Valid |
+| 162767 | Okeron 0.1mg Injection | Vial of 1 ml Injection | Valid |
+| 162773 | Octride 0.05mg Injection | Vial of 1 ml Injection | Valid |
+| 163527 | Octotide 0.1mg Injection | Vial of 1 ml Injection | Valid |
+| 163875 | Octride Depot 10mg Injection | Vial of 1 Injection | Valid |
+| 165950 | Octotide 0.05mg Injection | Vial of 1 ml Injection | Valid |
+| 167046 | Okeron 0.05mg Injection | Vial of 1 ml Injection | Valid |
+| 168167 | Octiviz Injection | Ampoule of 1 ml Injection | Valid |
+| 168843 | Ozark 50mcg Injection | Vial of 1 Injection | Valid |
+| 169320 | Ozark 100mcg Injection | Vial of 1 Injection | Valid |
+| 170627 | Octatide 50mcg Injection | Vial of 1 Injection | Valid |
+| 171136 | Ocumeg 50mcg Injection | Vial of 1 ml Injection | Valid |
+| 171718 | Octiross 100mg Injection | Vial of 1 ml Injection | Valid |
+| 201402 | Sandostatin LAR 20mg Injection | Vial of 1 ml Injection | Valid |
+| 207477 | Sandostatin 0.05mg Injection | Vial of 1 Injection | Valid |
+| 212202 | Supertide 100mcg Injection | Vial of 1 Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 222
 evidence_level: L4
 indication_count: 9
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Cyproterone Acetate: predicted new indication Migraine disorder (evidence level L4). Approved use: Not stated in the India license records (the drug's general clinical…"
 monitor_inn: "Cyproterone acetate"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "Prinzmetal angina", "antithrombin deficiency type 2", "heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "amenorrhea (disease)", "breast fibrocystic disease", "thrombophilia"]
@@ -88,15 +88,38 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-Cyproterone acetate has 20 valid single-ingredient registrations; the license records provide no approved indication text. Five main authorizations:
+Cyproterone acetate has 20 valid single-ingredient registrations; the license records provide no approved indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Registration No. 40795 | Carrol Tablet | Strip of 10 tablets | Not stated |
-| Registration No. 35019 | Carpela Tablet | Strip of 21 tablets | Not stated |
-| Registration No. 59882 | Dianette 2mg/0.035mg Tablet | Strip of 21 tablets | Not stated |
-| Registration No. 74045 | Estranon Tablet | Strip of 21 tablets | Not stated |
-| Registration No. 94234 | Ginette 35 Tablet | Strip of 21 tablets | Not stated |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 34678 | Cystelia 35 Tablet | Strip of 21 tablets | Valid |
+| 35019 | Carpela Tablet | Strip of 21 tablets | Valid |
+| 35917 | Cypokare 2mg/0.035mg Tablet | Strip of 21 tablets | Valid |
+| 37794 | Cyna Kit Tablet | Strip of 28 tablets | Valid |
+| 37949 | Conshe 35 Tablet | Strip of 21 tablets | Valid |
+| 39507 | Carrol 2mg/0.035mg Tablet | Strip of 21 tablets | Valid |
+| 40328 | Cysvia 35 Tablet | Strip of 21 tablets | Valid |
+| 40795 | Carrol Tablet | Strip of 10 tablets | Valid |
+| 41921 | Coc 2mg/0.035mg Tablet | Strip of 21 tablets | Valid |
+| 59882 | Dianette 2mg/0.035mg Tablet | Strip of 21 tablets | Valid |
+| 74045 | Estranon Tablet | Strip of 21 tablets | Valid |
+| 74658 | Elyn-35 Tablet | Strip of 28 tablets | Valid |
+| 85050 | Frewil 2mg/0.035mg Tablet | Strip of 21 tablets | Valid |
+| 85841 | Femigrace Capsule | Strip of 21 capsules | Valid |
+| 94234 | Ginette 35 Tablet | Strip of 21 tablets | Valid |
+| 115639 | Krimson 35 Tablet | Strip of 21 tablets | Valid |
+| 116579 | Kiterone 35 Tablet | Strip of 21 tablets | Valid |
+| 116889 | Krisma 2mg/0.035mg Tablet | Strip of 21 tablets | Valid |
+| 133617 | MY Pill Tablet | Strip of 21 tablets | Valid |
+| 202442 | Sismyo M 35 Tablet | Strip of 21 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ---
 

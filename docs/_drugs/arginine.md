@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 68
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Arginine: predicted new indication gastroparesis (evidence level L4). Approved use: Not stated in the available licence data"
 monitor_inn: "Arginine"
 predicted_indications: ["gastroparesis (disease)"]
@@ -80,21 +80,33 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-Licence records do not include approved indication text. The main authorisations are:
+Licence records do not include approved indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 5598 | Argioram Sachet Sugar Free (KRP Pharma) | Sachet of 5 g granules | Not stated |
-| 230912 | UGR A Softgel Capsule (Zelleven Healthcare) | Packet of 10 vaginal capsules | Not stated |
-| 1509 | Argifizz 1500mg Tablet (Novelty Healthshine) | Strip of 10 tablets | Not stated |
-| 231213 | Upgar Powder Lemony Orange Sugar Free (Karisca Healthcare) | Sachet of 10 g powder | Not stated |
-| 3873 | Arginall 500mg Capsule (Xeno Pharmaceuticals) | Strip of 10 capsules | Not stated |
+<!-- licenses:begin -->
 
-All 11 registrations are valid products, and none are cancelled.
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 1509 | Argifizz 1500mg Tablet | Strip of 10 tablets | Valid |
+| 3105 | Argitrust Sachet Orange Sugar Free | Sachet of 5 gm Powder | Valid |
+| 3489 | Argicon Sachet | Sachet of 5 gm Granules | Valid |
+| 3873 | Arginall 500mg Capsule | Strip of 10 capsules | Valid |
+| 5598 | Argioram Sachet Sugar Free | Sachet of 5 gm Granules | Valid |
+| 7380 | Anine Sachet Orange Sugar Free | Sachet of 5 gm Granules | Valid |
+| 39765 | Care 36 Sachet Lemony Orange Sugar Free | Sachet of 10 gm Granules | Valid |
+| 95403 | Groargin Tablet | Strip of 10 tablets | Valid |
+| 185598 | RG-Grow Sachet | Sachet of 5 gm Granules | Valid |
+| 230912 | UGR A Softgel Capsule | Packet of 10 Vaginal Capsules | Valid |
+| 231213 | Upgar Powder Lemony Orange Sugar Free | Sachet of 10 gm Powder | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
+
+All registrations are valid products, and none are cancelled.
 
 <!-- review:begin in-lic-20261106-arginine-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "All 11 registrations are valid single-ingredient products, and none are cancelled." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+> **Review correction (2026-11-24)**: Originally stated: "All 11 registrations are valid single-ingredient products, and none are cancelled." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Revised 2026-11-24: the hard-coded number of records and the wording about the old table were dropped; the Quick Overview and the product table under India Market Information show the current figures. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
 
 <!-- review:end in-lic-20261106-arginine-1 -->
 
@@ -137,7 +149,7 @@ Below is the review log for this page: statements checked against official India
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-24 | Removed: "single-ingredient" | Corrected (revised 2026-11-24; earlier version kept in the record) | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 

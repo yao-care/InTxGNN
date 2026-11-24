@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Albendazole"
 predicted_indications: ["coenurosis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Albendazole: predicted new indication Coenurosis (evidence level L5). In India: at least 20 listed products"
 ---
 
@@ -94,15 +94,38 @@ The publications are reviews or case reports on neurocysticercosis or albendazol
 
 ## India Market Information
 
-Albendazole is marketed in India, with 20 valid single-ingredient licences in the data compiled for this report (the list may be partial). Approved indication text is not recorded for these licences. Main examples:
+Albendazole is marketed in India, with 20 valid single-ingredient licences in the data compiled for this report (the list may be partial). Approved indication text is not recorded for these licences.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 242463 | Wormivon 400mg Tablet | strip of 1 Tablet | Not recorded |
-| 11982 | Alden 400mg Tablet | strip of 50 tablets | Not recorded |
-| 81868 | Elminex 400mg Tablet | strip of 1 Tablet | Not recorded |
-| 33514 | Banhelmin 200mg Suspension | bottle of 10 ml Suspension | Not recorded |
-| 226974 | Tikworm Oral Drops | bottle of 10 ml Oral Drops | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 6165 | Alzol 400mg Tablet | Strip of 1 Tablet | Valid |
+| 11982 | Alden 400mg Tablet | Strip of 50 tablets | Valid |
+| 15527 | Alio 400mg Tablet | Strip of 10 tablets | Valid |
+| 22014 | Alda 400mg Tablet | Strip of 1 Tablet | Valid |
+| 22518 | Alboven 400mg Chewable Tablet | Strip of 1 Chewable Tablet | Valid |
+| 25383 | Axidazole 400mg Tablet | Strip of 10 tablets | Valid |
+| 28292 | Benzo 400mg Tablet | Strip of 1 Tablet | Valid |
+| 29369 | Benil 150mg Tablet | Strip of 10 tablets | Valid |
+| 30707 | Brosa 400mg Tablet | Strip of 3 tablets | Valid |
+| 33514 | Banhelmin 200mg Suspension | Bottle of 10 ml Suspension | Valid |
+| 38628 | Captiva 400mg Tablet | Strip of 1 Tablet | Valid |
+| 81868 | Elminex 400mg Tablet | Strip of 1 Tablet | Valid |
+| 96690 | Gococo 400mg Tablet | Strip of 1 Tablet | Valid |
+| 138385 | Mahabend 400mg Tablet | Strip of 1 Tablet | Valid |
+| 160083 | Nikal 200mg Oral Suspension | Bottle of 10 ml Oral Suspension | Valid |
+| 203078 | Suzol Tablet | Strip of 1 Tablet | Valid |
+| 226974 | Tikworm Oral Drops | Bottle of 10 ml Oral Drops | Valid |
+| 242463 | Wormivon 400mg Tablet | Strip of 1 Tablet | Valid |
+| 243009 | Wenkil 400mg Tablet | Strip of 10 tablets | Valid |
+| 243641 | Wormicas 200mg Oral Suspension | Bottle of 10 ml Oral Suspension | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 477
 evidence_level: L2
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Lenalidomide"
 predicted_indications: ["myeloid leukemia", "refractory cytopenia of childhood", "aregenerative anemia", "severe congenital hypochromic anemia with ringed sideroblasts"]
 description: "Lenalidomide: predicted new indication Myeloid leukemia (evidence level L2). In India: at least 20 listed products"
@@ -98,15 +98,38 @@ The literature is mostly reviews. No randomized controlled trial of lenalidomide
 
 ## India Market Information
 
-The 20 valid single-ingredient registrations have no approved indication text on file. The five below are examples:
+The 20 valid single-ingredient registrations have no approved indication text on file.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 100230 | Giolen 10mg Capsule (Innova Formulations) | Strip of 30 capsules | Not available |
-| 122393 | Lenmid 25mg Tablet (Cipla) | Strip of 10 tablets | Not available |
-| 123458 | Laviat 10mg Capsule (Zydus Cadila) | Strip of 10 capsules | Not available |
-| 124068 | Lenome 5mg Capsule (Intas) | Strip of 30 capsules | Not available |
-| 122993 | Lenalid 15 Capsule (Natco) | Bottle of 30 capsules | Not available |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 50499 | Celomide 25 Capsule | Strip of 10 capsules | Valid |
+| 100230 | Giolen 10mg Capsule | Strip of 30 capsules | Valid |
+| 122393 | Lenmid 25mg Tablet | Strip of 10 tablets | Valid |
+| 122993 | Lenalid 15 Capsule | Bottle of 30 capsules | Valid |
+| 123094 | Lenome 10 Capsule | Strip of 10 capsules | Valid |
+| 123458 | Laviat 10mg Capsule | Strip of 10 capsules | Valid |
+| 124064 | Lenome 25 Capsule | Bottle of 10 capsules | Valid |
+| 124068 | Lenome 5mg Capsule | Strip of 30 capsules | Valid |
+| 125414 | Laviat 25 Capsule | Bottle of 10 capsules | Valid |
+| 126683 | Ledomed 25mg Capsule | Bottle of 10 capsules | Valid |
+| 127286 | Lenofect 5mg Capsule | Strip of 10 capsules | Valid |
+| 127624 | Lenava 10 Capsule | Bottle of 10 capsules | Valid |
+| 128637 | Lenated 10mg Capsule | Strip of 10 capsules | Valid |
+| 129558 | Lenaget 10mg Capsule | Strip of 10 capsules | Valid |
+| 129588 | Lindoshil 25mg Capsule | Bottle of 10 capsules | Valid |
+| 146222 | Mydolen 25mg Capsule | Bottle of 10 capsules | Valid |
+| 146743 | Mmlinoda 10mg Capsule | Strip of 10 capsules | Valid |
+| 155122 | Nojetor 10mg Capsule | Strip of 10 capsules | Valid |
+| 158044 | Nojetor 25mg Capsule | Strip of 30 capsules | Valid |
+| 191591 | Relidomide 25 Capsule | Bottle of 21 capsules | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

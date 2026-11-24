@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "Dorzolamide"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "alopecia", "diffuse alopecia areata", "congestive heart failure", "acute pulmonary heart disease", "respiratory failure"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Dorzolamide: predicted new indication hypotrichosis simplex of the scalp (evidence level L5). In India: at least 20 listed products"
 ---
 
@@ -78,15 +78,38 @@ Currently no related literature available.
 
 ## India Market Information
 
-Dorzolamide is marketed in India, and the licences reviewed are all valid. The five licences below are examples, and the full list may be partial. The licence records contain no approved-indication text.
+Dorzolamide is marketed in India, and the licences reviewed are all valid. The licence records contain no approved-indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 63099 | Dorz Eye Drop | Bottle of 5 ml eye drop | Not recorded in the local data |
-| 58413 | Dorzox Eye Drop | Bottle of 5 ml eye drop | Not recorded in the local data |
-| 58797 | Dorsun Eye Drop | Packet of 5 ml eye drop | Not recorded in the local data |
-| 73821 | Endor Eye Drop | Packet of 5 ml eye drop | Not recorded in the local data |
-| 64940 | Doreye Eye Drop | Bottle of 5 ml eye drop | Not recorded in the local data |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 35284 | Cosopt Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 58413 | Dorzox Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 58797 | Dorsun Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 60834 | Dorzox T PF Eye Drop | Bottle of 10 ml Eye Drop | Valid |
+| 60936 | Dorsenz Eye Drop | Packet of 5 ml Ophthalmic Solution | Valid |
+| 61426 | Dorsenz-T Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 62272 | Dormide T Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 63099 | Dorz Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 63937 | Dorzoeye T Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 64940 | Doreye Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 65293 | Dorzina T Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 65793 | Dorzone-T Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 66394 | Doreye-T Eye Drop | Bottle of 5 ml Ophthalmic Solution | Valid |
+| 73760 | Endor Plus Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 73821 | Endor Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 135248 | Monosopt Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 153024 | Nimtas T Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+| 189143 | Right Angle Eye Drop | Bottle of 3 ml Eye Drop | Valid |
+| 222856 | Timovis-D Eye Drop | Packet of 5 ml Eye Drop | Valid |
+| 236858 | Vidroz T Eye Drop | Bottle of 5 ml Eye Drop | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 All registered forms are ophthalmic (eye drops or ophthalmic solution). None is intended for scalp application.
 

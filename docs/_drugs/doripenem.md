@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Doripenem"
 predicted_indications: ["hepatoportal sclerosis", "hepatopulmonary syndrome", "idiopathic copper-associated cirrhosis", "early-onset familial noncirrhotic portal hypertension", "primitive portal vein thrombosis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Doripenem: predicted new indication Hepatoportal sclerosis (evidence level L5). Approved use: Cholecystitis, low phospholipid associated cholelithiasis…"
 ---
 
@@ -71,15 +71,38 @@ Currently no related literature available.
 
 ## India Market Information
 
-At least 20 single-ingredient injectable registrations are listed, all valid. The list may be partial. No approved indication text is recorded in the licence data. Five main registrations are shown below.
+At least 20 single-ingredient injectable registrations are listed, all valid. The list may be partial. No approved indication text is recorded in the licence data.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 65614 | Dori 500mg Injection | Vial of 1 injection | Not recorded |
-| 69040 | Doriray 500mg Injection | Vial of 1 injection | Not recorded |
-| 112816 | Inarem 250mg Injection | Vial of 1 injection | Not recorded |
-| 62869 | Dorilon 500mg Injection | Vial of 1 injection | Not recorded |
-| 158086 | Nozodor 500mg Injection | Vial of 1 ml injection | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 62869 | Dorilon 500mg Injection | Vial of 1 Injection | Valid |
+| 65519 | Doritrum 500mg Injection | Vial of 1 Injection | Valid |
+| 65614 | Dori 500mg Injection | Vial of 1 Injection | Valid |
+| 65832 | Doripik 500mg Injection | Vial of 1 Injection | Valid |
+| 66363 | Denem 500mg Injection | Vial of 1 Injection | Valid |
+| 68153 | Dori Nxt 500mg Injection | Vial of 1 Injection | Valid |
+| 68471 | Dorbrooks 500mg Injection | Vial of 1 Injection | Valid |
+| 69040 | Doriray 500mg Injection | Vial of 1 Injection | Valid |
+| 69592 | Doriblast 500mg Injection | Vial of 1 Injection | Valid |
+| 69627 | Doriplug 500mg Injection | Vial of 1 Injection | Valid |
+| 69842 | Dorap 500mg Injection | Vial of 1 Injection | Valid |
+| 70160 | Dpenem 500mg Injection | Vial of 1 Injection | Valid |
+| 70530 | Doripem 500mg Injection | Vial of 1 Injection | Valid |
+| 71468 | Doreross Injection | Vial of 1 Injection | Valid |
+| 80654 | Exeldor 500mg Injection | Vial of 1 Injection | Valid |
+| 112816 | Inarem 250mg Injection | Vial of 1 Injection | Valid |
+| 144210 | Mydor Injection | Vial of 1 Injection | Valid |
+| 158086 | Nozodor 500mg Injection | Vial of 1 ml Injection | Valid |
+| 179068 | Penam 500 Injection | Vial of 1 Injection | Valid |
+| 207621 | Supernem 500mg Injection | Vial of 1 Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

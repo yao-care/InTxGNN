@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 755
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Rosuvastatin"
 predicted_indications: ["cholesterol-ester transfer protein deficiency", "brain stem infarction", "HIV infectious disease", "hypoalphalipoproteinemia", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "ABri amyloidosis"]
 description: "Rosuvastatin: predicted new indication Cholesterol-ester transfer protein deficiency (evidence level L5). In India: at least 20 listed products"
@@ -114,13 +114,36 @@ Shown for Familial Hypercholesterolemia (up to 10 most relevant, RCTs first).
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 191412 | Rosutime 10mg Tablet (TTK Healthcare Ltd) | Strip of 10 tablets | Not specified |
-| 193515 | Rosmi 5mg Tablet (Cadila Pharmaceuticals Ltd) | Strip of 10 tablets | Not specified |
-| 36307 | Crevast 20 Tablet (Eris Lifesciences Ltd) | Strip of 15 tablets | Not specified |
-| 184168 | Rosuvas 20 Tablet (Sun Pharmaceutical Industries Ltd) | Strip of 10 tablets | Not specified |
-| 185654 | Rosave CV 20mg/75mg Capsule (Alembic Pharmaceuticals Ltd) | Strip of 10 capsules | Not specified |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 36307 | Crevast 20 Tablet | Strip of 15 tablets | Valid |
+| 184168 | Rosuvas 20 Tablet | Strip of 10 tablets | Valid |
+| 185310 | Rosucrest 10 Tablet | Strip of 10 tablets | Valid |
+| 185384 | Rosycap CV 20 Capsule | Strip of 10 capsules | Valid |
+| 185492 | Rosvas 10mg Tablet | Strip of 10 tablets | Valid |
+| 185654 | Rosave CV 20mg/75mg Capsule | Strip of 10 capsules | Valid |
+| 186690 | Roznyle 10 Tablet | Strip of 10 tablets | Valid |
+| 188380 | Rosat 5mg Tablet | Strip of 10 tablets | Valid |
+| 188608 | Rosmi 40mg Tablet | Strip of 10 tablets | Valid |
+| 188736 | Rosycap-ASP 20/150 Capsule | Strip of 15 capsules | Valid |
+| 189345 | Rosumed 10mg Tablet | Strip of 10 tablets | Valid |
+| 189862 | Rosuline 5 Tablet | Strip of 10 tablets | Valid |
+| 191412 | Rosutime 10mg Tablet | Strip of 10 tablets | Valid |
+| 193515 | Rosmi 5mg Tablet | Strip of 10 tablets | Valid |
+| 193934 | Rosulam 10mg Tablet | Strip of 10 tablets | Valid |
+| 196202 | Rosvachem 10mg Tablet | Strip of 10 tablets | Valid |
+| 199438 | Rosuvoiza 10mg/75mg Tablet | Strip of 10 tablets | Valid |
+| 220713 | Truvas 20 Tablet | Strip of 10 tablets | Valid |
+| 241835 | Winlip 5mg Tablet | Strip of 10 tablets | Valid |
+| 244219 | Xoten C 20mg/75mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 All 20 registrations are valid. Several products carry rosuvastatin in combination with other agents (for example, the "CV" capsules), although the data classify all 20 as single-ingredient licences.
 

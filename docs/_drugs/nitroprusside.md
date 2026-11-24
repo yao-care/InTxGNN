@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 604
 evidence_level: L4
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Nitroprusside: predicted new indication Migraine disorder (evidence level L4). Approved use: Not recorded in the licence data"
 monitor_inn: "Nitroprusside"
 drugbank_id: DB00325
@@ -98,11 +98,17 @@ Pulmonary hypertension (the more plausible alternative):
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 151420 | Nipress 50mg Injection (Samarth Life Sciences Pvt Ltd) | Vial of 1 injection | Not recorded |
-| 177604 | Pruside 50mg Injection (Troikaa Pharmaceuticals Ltd) | Vial of 1 injection | Not recorded |
-| 152581 | Nitoside 50mg Injection (Neon Laboratories Ltd) | Vial of 1 injection | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 151420 | Nipress 50mg Injection | Vial of 1 Injection | Valid |
+| 152581 | Nitoside 50mg Injection | Vial of 1 Injection | Valid |
+| 177604 | Pruside 50mg Injection | Vial of 1 Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

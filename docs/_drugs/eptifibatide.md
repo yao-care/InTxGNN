@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 317
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Eptifibatide: predicted new indication Rheumatoid arthritis (evidence level L5). Approved use: Acute coronary syndrome"
 monitor_inn: "Eptifibatide"
 predicted_indications: ["rheumatoid arthritis", "hereditary persistence of fetal hemoglobin-sickle cell disease syndrome", "sickle cell-hemoglobin E disease syndrome", "sickle cell-hemoglobin d disease syndrome", "sickle cell-beta-thalassemia disease syndrome", "sickle cell-hemoglobin c disease syndrome", "hemoglobinopathy", "female breast carcinoma", "beta-thalassemia with other manifestations", "partial deletion of the short arm of chromosome 16"]
@@ -96,15 +96,38 @@ No publications are linked to rheumatoid arthritis. The following are linked to 
 
 ## India Market Information
 
-Eptifibatide is marketed in India under 20 valid single-ingredient registrations. Approved indication text is not listed for these products. The main authorizations are:
+Eptifibatide is marketed in India under 20 valid single-ingredient registrations. Approved indication text is not listed for these products.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 109891 | Integrilin Injection (Merck Ltd) | Bottle of 100 ml infusion | Not listed |
-| 77081 | Eptifab 0.75mg/ml Infusion (Abbott) | Bottle of 100 ml infusion | Not listed |
-| 83357 | Eptide 20mg Injection (Sun Pharmaceutical) | Vial of 10 ml injection | Not listed |
-| 108424 | Intiflo 20mg Injection (Cipla) | Vial of 10 ml injection | Not listed |
-| 83167 | Eptigrilin 20mg Injection (Zydus Cadila) | Vial of 10 ml injection | Not listed |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 48418 | Clotide 20mg Injection | Vial of 10 ml Injection | Valid |
+| 73745 | Eptiflo Injection | Vial of 10 ml Injection | Valid |
+| 77081 | Eptifab 0.75mg/ml Infusion | Bottle of 100 ml Infusion | Valid |
+| 79961 | Eptiflo 0.75mg/ml Infusion | Bottle of 100 ml Infusion | Valid |
+| 83167 | Eptigrilin 20mg Injection | Vial of 10 ml Injection | Valid |
+| 83270 | Eptibind 0.75mg/ml Infusion | Bottle of 100 ml Infusion | Valid |
+| 83271 | Eptibind 20mg Injection | Vial of 10 ml Injection | Valid |
+| 83357 | Eptide 20mg Injection | Vial of 10 ml Injection | Valid |
+| 83539 | Eptiba Infusion | Bottle of 100 ml Infusion | Valid |
+| 83540 | Eptiba 20mg Injection | Vial of 10 ml Injection | Valid |
+| 83934 | Eptigrilin 0.75mg/ml Infusion | Bottle of 100 ml Infusion | Valid |
+| 87800 | Fleta Bolus 20mg Injection | Vial of 10 ml Injection | Valid |
+| 108424 | Intiflo 20mg Injection | Vial of 10 ml Injection | Valid |
+| 108485 | Intiflo 0.75mg/ml Infusion | Bottle of 100 ml Infusion | Valid |
+| 109891 | Integrilin Injection | Bottle of 100 ml Infusion | Valid |
+| 113111 | Intifyrex-Taj 2mg/ml Injection | Vial of 10 ml Injection | Valid |
+| 113413 | Interiglin 20mg Injection | Vial of 10 ml Injection | Valid |
+| 113698 | Intifyrex-Taj 0.75mg Injection | Vial of 100 ml Injection | Valid |
+| 231301 | Unigrilin 75 Injection | Vial of 100 ml Injection | Valid |
+| 232044 | Unigrilin 20mg Injection | Vial of 10 ml Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 All products are injectable or infusion forms.
 

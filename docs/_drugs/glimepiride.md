@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Glimepiride"
 predicted_indications: ["classic stiff person syndrome", "focal stiff limb syndrome", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Glimepiride: predicted new indication Classic stiff person syndrome (evidence level L5). Approved use: Type 2 diabetes mellitus"
 ---
 
@@ -81,15 +81,38 @@ Currently no related literature available for classic stiff person syndrome.
 
 ## India Market Information
 
-At least 20 licences were found, and the list may be partial. All listed products are valid. The licence records contain no approved indication text. The table shows five of them.
+At least 20 licences were found, and the list may be partial. All listed products are valid. The licence records contain no approved indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 208521 | Supride 2mg Tablet | Strip of 10 tablets | Not stated in records |
-| 15505 | Adride 4mg Tablet | Strip of 10 tablets | Not stated in records |
-| 16440 | Asoride 1mg Tablet | Strip of 10 tablets | Not stated in records |
-| 102727 | Glimtec 2mg Tablet | Strip of 10 tablets | Not stated in records |
-| 99220 | Glenavon 2mg Tablet | Strip of 10 tablets | Not stated in records |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 15505 | Adride 4mg Tablet | Strip of 10 tablets | Valid |
+| 16440 | Asoride 1mg Tablet | Strip of 10 tablets | Valid |
+| 18287 | Ameto G Forte 3mg/1000mg Tablet | Strip of 15 tablets | Valid |
+| 81192 | Ecoglim MV 2mg/500mg/0.2mg Tablet SR | Strip of 10 tablet sr | Valid |
+| 97092 | Glim MP 2mg/500mg/15mg Tablet | Strip of 15 tablets | Valid |
+| 98054 | GM 2mg/500mg Tablet | Strip of 10 tablets | Valid |
+| 98481 | GM 1mg/500mg Tablet | Strip of 10 tablets | Valid |
+| 99220 | Glenavon 2mg Tablet | Strip of 10 tablets | Valid |
+| 100010 | Glimicord M 2 Forte Tablet | Strip of 10 tablets | Valid |
+| 101960 | Glimipill M 1mg/500mg Tablet | Strip of 10 tablets | Valid |
+| 102727 | Glimtec 2mg Tablet | Strip of 10 tablets | Valid |
+| 117403 | Kyrambol M1 Tablet | Strip of 10 tablets | Valid |
+| 134735 | Metsmall GV 2 Tablet SR | Strip of 10 tablet sr | Valid |
+| 137046 | Metasens VG 2mg Tablet | Strip of 10 tablets | Valid |
+| 161445 | Nuglim M Forte 4mg/1000mg Tablet | Strip of 10 tablets | Valid |
+| 205817 | StayHappi Glimepiride+Metformin 1mg/500mg Tablet | Strip of 10 tablets | Valid |
+| 208521 | Supride 2mg Tablet | Strip of 10 tablets | Valid |
+| 234378 | Voglimac GM 1 HD Tablet | Strip of 10 tablets | Valid |
+| 237045 | Voglow GM 1 Forte 1mg/1000mg/0.2mg Tablet SR | Strip of 10 tablet sr | Valid |
+| 246540 | Zoryl M 1 Forte Tablet PR | Strip of 15 Tablet pr | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ---
 

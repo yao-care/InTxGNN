@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 449
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Isoniazid: predicted new indication Conjunctivitis (evidence level L5). Approved use: Pulmonary tuberculosis"
 monitor_inn: "Isoniazid"
 predicted_indications: ["conjunctivitis"]
@@ -83,15 +83,38 @@ The publications most relevant to TB-related eye disease are listed below. All a
 
 ## India Market Information
 
-Isoniazid is marketed in India with 20 valid registrations, all as single-entry records (mostly fixed-dose combination anti-tubercular products). The data compiled for this report contain no approved indication text. Examples:
+Isoniazid is marketed in India with 20 valid registrations, all as single-entry records (mostly fixed-dose combination anti-tubercular products). The data compiled for this report contain no approved indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 224928 | Tibizim Forte Tablet | Strip of 10 tablets | Not available |
-| 192406 | RF 3 150 mg/100 mg/500 mg Tablet | Strip of 10 tablets | Not available |
-| 209857 | Scc JR Plus 150 mg/75 mg/400 mg Tablet | Strip of 10 tablets | Not available |
-| 42286 | CAVICIN E KIT | Packet of 1 kit | Not available |
-| 253567 | Zyrifa Capsule | Strip of 10 capsules | Not available |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 11015 | AC 4 Kit | Strip of 5 kit | Valid |
+| 18744 | Anticox Z 450 mg/300 mg/750 mg Tablet | Strip of 3 tablets | Valid |
+| 42286 | CAVICIN E KIT | Packet of 1 Kit | Valid |
+| 113060 | Isopyrif Tablet | Strip of 10 tablets | Valid |
+| 133970 | Macox-ZH Kid Tablet DT | Strip of 10 tablet dt | Valid |
+| 171982 | Orif 3 Tablet | Strip of 10 tablets | Valid |
+| 186381 | RF 4 Kit | Packet of 4 kit | Valid |
+| 189782 | Rhz 150mg/500mg/225mg Tablet | Strip of 10 tablets | Valid |
+| 192406 | RF 3 150 mg/100 mg/500 mg Tablet | Strip of 10 tablets | Valid |
+| 193571 | Rifacil 6 Kid Tablet | Strip of 10 tablets | Valid |
+| 193858 | Rhz Forte 225 mg/150 mg/750 mg Tablet | Strip of 10 tablets | Valid |
+| 195577 | Remcox ZH Tablet | Strip of 10 tablets | Valid |
+| 197400 | Rifacom EZ Tablet | Strip of 4 tablets | Valid |
+| 209857 | Scc JR Plus 150 mg/75 mg/400 mg Tablet | Strip of 10 tablets | Valid |
+| 220524 | Tricox 150mg/500mg/225mg Tablet | Strip of 10 tablets | Valid |
+| 224928 | Tibizim Forte Tablet | Strip of 10 tablets | Valid |
+| 228323 | Tbrid-Z Tablet | Strip of 10 tablets | Valid |
+| 229628 | Tibizim SF Tablet | Strip of 10 tablets | Valid |
+| 235284 | Vicox EZ Tablet | Strip of 6 tablets | Valid |
+| 253567 | Zyrifa Capsule | Strip of 10 capsules | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 All marketed forms are oral tablets, capsules, or kits. No ophthalmic formulation is registered, so the route needed for conjunctivitis is not currently available.
 

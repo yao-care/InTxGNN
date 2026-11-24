@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Cefuroxime"
 predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "Peptostreptococcus infectious disease", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cefuroxime: predicted new indication hyperamylasemia (evidence level L5). In India: at least 20 listed products"
 ---
 
@@ -69,15 +69,44 @@ Currently no related literature available.
 
 ## India Market Information
 
-Cefuroxime is marketed in India. The data compiled for this report list 20 valid licences, all for single-ingredient products and none cancelled; this list may be partial. The licence records carry no approved-indication text. Products come as tablets, syrup, dry syrup and powder for injection.
+Cefuroxime is marketed in India. The data compiled for this report list 20 valid licences, none cancelled; this list may be partial. The licence records carry no approved-indication text. Products come as tablets, syrup, dry syrup and powder for injection.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 49401 | Cefuset 250mg Tablet | Strip of 10 tablets | Not recorded |
-| 93293 | Furix 250mg Tablet | Strip of 10 tablets | Not recorded |
-| 146188 | Mutum 250mg Tablet | Strip of 10 tablets | Not recorded |
-| 54213 | Cefumex 250mg Tablet | Strip of 10 tablets | Not recorded |
-| 191766 | Relicef 1.5gm Injection | Vial of 1 powder for injection | Not recorded |
+<!-- review:begin in-lic-20261124-cefuroxime-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "The data compiled for this report list 20 valid licences, all for single-ingredient products and none cancelled; this list may be partial." Removed: it described the products as single-ingredient (or as having no combination products), which does not match the Indian medicine data (the Indian Medicine Dataset): some of the recorded products are fixed-dose combinations. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124-cefuroxime-1 -->
+
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 15798 | Aksicef 250mg Tablet | Strip of 6 tablets | Valid |
+| 18745 | Acctum 125mg Syrup | Bottle of 30 ml Syrup | Valid |
+| 39549 | Cefstal 500 Tablet | Strip of 10 tablets | Valid |
+| 42230 | Cefuko 500mg Tablet | Strip of 10 tablets | Valid |
+| 46688 | Cefuture 500 Tablet | Strip of 10 tablets | Valid |
+| 47389 | Cefuraz 500mg Tablet | Strip of 10 tablets | Valid |
+| 49401 | Cefuset 250mg Tablet | Strip of 10 tablets | Valid |
+| 54213 | Cefumex 250mg Tablet | Strip of 10 tablets | Valid |
+| 63659 | Dicef CV 500mg/125mg Tablet | Strip of 6 tablets | Valid |
+| 85488 | Furocef 250mg Tablet | Strip of 10 tablets | Valid |
+| 92876 | Furopea CV 500mg/125mg Tablet | Strip of 6 tablets | Valid |
+| 93293 | Furix 250mg Tablet | Strip of 10 tablets | Valid |
+| 107117 | Horoxime 250mg Tablet | Strip of 10 tablets | Valid |
+| 109865 | I M Sure 500mg Tablet | Strip of 10 tablets | Valid |
+| 146188 | Mutum 250mg Tablet | Strip of 10 tablets | Valid |
+| 148139 | Meroxime 250mg Tablet | Strip of 6 tablets | Valid |
+| 191766 | Relicef 1.5gm Injection | Vial of 1 Powder for Injection | Valid |
+| 194008 | Roxime 125mg Dry Syrup | Bottle of 30 ml Dry Syrup | Valid |
+| 211321 | Svcef 250mg Tablet | Strip of 4 tablets | Valid |
+| 242935 | Wanocef CV 500mg/125mg Tablet | Strip of 6 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 
@@ -105,11 +134,12 @@ The prediction is supported by no clinical trials or publications, and there is 
 
 ## Review Log
 
-Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: cefuroxime sodium prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0a145288-733a-4966-b7ae-dc96eb103d8c) |
+| 2026-11-24 | Removed: the single-ingredient claim | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Caffeine"
 predicted_indications: ["nasal cavity disease", "thrombotic disease", "papillary conjunctivitis", "neuralgia", "glossodynia", "coccygodynia", "trigeminal autonomic cephalalgia", "vein disease"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Caffeine: predicted new indication nasal cavity disease (evidence level L5). In India: at least 20 listed products"
 ---
 
@@ -86,15 +86,38 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 209998 | Snokey Cold Plus Tablet | strip of 10 tablets | Not recorded |
-| 202438 | Signcold Tablet | strip of 10 tablets | Not recorded |
-| 150830 | NT Grain Tablet | strip of 10 tablets | Not recorded |
-| 235665 | Vinoryl Tablet | strip of 10 tablets | Not recorded |
-| 144331 | Makzine P Tablet | strip of 10 tablets | Not recorded |
+<!-- licenses:begin -->
 
-At least 20 valid registrations are on record, and this list may be partial. Only the first five are shown.
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 8901 | Albicold Tablet | Strip of 10 tablets | Valid |
+| 41224 | Colep Tablet | Strip of 10 tablets | Valid |
+| 41633 | Cold XL Plus Tablet | Strip of 10 tablets | Valid |
+| 110307 | Icego Tablet | Strip of 10 tablets | Valid |
+| 119007 | Kabiflu Tablet | Strip of 10 tablets | Valid |
+| 125246 | Limosan Cold Tablet | Strip of 10 tablets | Valid |
+| 144331 | Makzine P Tablet | Strip of 10 tablets | Valid |
+| 150830 | NT Grain Tablet | Strip of 10 tablets | Valid |
+| 151848 | Nimsin Cold Tablet | Strip of 10 tablets | Valid |
+| 152582 | Nochu Tablet | Strip of 10 tablets | Valid |
+| 155243 | Nazofed Tablet | Strip of 10 tablets | Valid |
+| 155695 | Nuks Cold Tablet | Strip of 10 tablets | Valid |
+| 157295 | Nazodox Tablet | Strip of 10 tablets | Valid |
+| 157609 | Nazorick Plus Tablet | Strip of 10 tablets | Valid |
+| 189015 | Relax Cold Tablet | Strip of 10 tablets | Valid |
+| 192636 | Rinocet AC Tablet | Strip of 10 tablets | Valid |
+| 202438 | Signcold Tablet | Strip of 10 tablets | Valid |
+| 206201 | Swakam Cold Plus Tablet | Strip of 10 tablets | Valid |
+| 209998 | Snokey Cold Plus Tablet | Strip of 10 tablets | Valid |
+| 235665 | Vinoryl Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
+
+At least 20 valid registrations are on record, and this list may be partial.
 
 ---
 

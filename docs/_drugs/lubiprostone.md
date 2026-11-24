@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 508
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Lubiprostone"
 drugbank_id: DB01046
 predicted_indications: ["alopecia", "congenital hypotrichosis milia", "hypotrichosis simplex of the scalp", "diffuse alopecia areata", "pulmonary hypertension", "kyphoscoliotic heart disease", "Raynaud disease", "pulmonary hypertension, primary, autosomal recessive", "phaeochromocytoma", "peripheral vascular disease"]
@@ -69,9 +69,15 @@ All ten predictions have evidence level L5 and a Hold recommendation.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 121000 | Lubowel 24 Soft Gelatin Capsule (Sun Pharmaceutical Industries Ltd) | Strip of 15 soft gelatin capsules (oral) | Not stated in the license record |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 121000 | Lubowel 24 Soft Gelatin Capsule | Strip of 15 soft gelatin capsules | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

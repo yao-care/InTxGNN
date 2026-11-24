@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "Durvalumab"
 predicted_indications: ["uterine ligament adenocarcinoma", "endocervical carcinoma", "adenoid cystic carcinoma of the cervix uteri", "uterine ligament serous adenocarcinoma", "signet ring cell variant cervical mucinous adenocarcinoma", "intestinal variant cervical mucinous adenocarcinoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Durvalumab: predicted new indication Uterine ligament adenocarcinoma (evidence level L5). In India: 2 listed products (2 not discontinued)"
 ---
 
@@ -88,10 +88,16 @@ Currently no related literature available for uterine ligament adenocarcinoma.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Registration No. 108524 | Imfinzi Injection (AstraZeneca) | Vial of 10 ml injection | Indication text not available |
-| Registration No. 108392 | Imfinzi Injection (AstraZeneca) | Vial of 2.4 ml injection | Indication text not available |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 108392 | Imfinzi Injection | Vial of 2.4 ml Injection | Valid |
+| 108524 | Imfinzi Injection | Vial of 10 ml Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

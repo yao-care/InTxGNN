@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 909
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Ziprasidone"
 predicted_indications: ["trichotillomania", "hydranencephaly (disease)", "congenital disorder of glycosylation with defective fucosylation", "myopia X-linked", "retinal dystrophy with or without extraocular anomalies", "Tourette syndrome", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia 26, X-linked, female-limited", "syndromic myopia"]
 description: "Ziprasidone: predicted new indication Trichotillomania (evidence level L5). In India: 14 listed products (14 not discontinued)"
@@ -72,15 +72,30 @@ Currently no related literature available.
 
 ## India Market Information
 
-Ziprasidone is marketed in India. All 14 recorded licences are valid single-ingredient products, and none are cancelled. Five main authorizations are listed below. The licence records carry no approved-indication text.
+Ziprasidone is marketed in India. All 14 recorded licences are valid single-ingredient products, and none are cancelled. The licence records carry no approved-indication text.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| 248770 | Zipra 20mg Capsule | Strip of 10 capsules | Zydus Cadila |
-| 251150 | Zipris 20mg Capsule | Strip of 10 capsules | Sunrise Remedies Pvt Ltd |
-| 249523 | Zipral 40mg Capsule | Strip of 10 capsules | Lifecare Neuro Products Ltd |
-| 7383 | Azona 40mg Capsule | Strip of 10 capsules | Torrent Pharmaceuticals Ltd |
-| 248256 | Zipradep 80mg Tablet | Strip of 10 tablets | Emco Biotech |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 7383 | Azona 40mg Capsule | Strip of 10 capsules | Valid |
+| 9436 | Azona 20mg Capsule | Strip of 10 capsules | Valid |
+| 12979 | Azona 80mg Capsule | Strip of 10 capsules | Valid |
+| 247026 | Zipsydon 40 Capsule | Strip of 10 capsules | Valid |
+| 247055 | Zipsydon 20 Capsule | Strip of 10 capsules | Valid |
+| 248256 | Zipradep 80mg Tablet | Strip of 10 tablets | Valid |
+| 248770 | Zipra 20mg Capsule | Strip of 10 capsules | Valid |
+| 249523 | Zipral 40mg Capsule | Strip of 10 capsules | Valid |
+| 249645 | Zipra 40mg Capsule | Strip of 10 capsules | Valid |
+| 249999 | Zipral 20mg Capsule | Strip of 10 capsules | Valid |
+| 251150 | Zipris 20mg Capsule | Strip of 10 capsules | Valid |
+| 251172 | Zipris 40mg Capsule | Strip of 10 capsules | Valid |
+| 251688 | Zipsydon 60mg Capsule | Strip of 10 capsules | Valid |
+| 252781 | Zipris 80mg Capsule | Strip of 10 capsules | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

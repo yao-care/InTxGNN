@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Iopromide"
 predicted_indications: ["osteoarthritis", "rheumatoid arthritis", "brachyolmia", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "alopecia", "myosclerosis", "hemoglobinopathy", "pseudoachondroplasia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Iopromide: predicted new indication Osteoarthritis (evidence level L5). Approved use: Not stated in the licence records compiled for this report"
 ---
 
@@ -70,12 +70,18 @@ Currently no related literature available.
 
 The licence records compiled for this report list four valid single-ingredient registrations, all held by Zydus Cadila. None includes approved indication text.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 233071 | Ultravist 0.623gm Infusion | Bottle of 100 ml infusion | Not stated in records |
-| 230534 | Ultravist 300mg I/ml Injection | Vial of 50 ml injection | Not stated in records |
-| 230913 | Ultravist 300mg I/ml Injection | Vial of 100 ml injection | Not stated in records |
-| 230682 | Ultravist 370mg I/ml Injection | Vial of 100 ml injection | Not stated in records |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 230534 | Ultravist 300mg I/ml Injection | Vial of 50 ml Injection | Valid |
+| 230682 | Ultravist 370mg I/ml Injection | Vial of 100 ml Injection | Valid |
+| 230913 | Ultravist 300mg I/ml Injection | Vial of 100 ml Injection | Valid |
+| 233071 | Ultravist 0.623gm Infusion | Bottle of 100 ml Infusion | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Safety Considerations
 

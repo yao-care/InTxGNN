@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 662
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 monitor_inn: "Pheniramine"
 predicted_indications: ["nasal cavity disease"]
 description: "Pheniramine: predicted new indication Nasal cavity disease (evidence level L5). In India: 16 listed products (16 not discontinued)"
@@ -88,15 +88,32 @@ None of these publications provides direct efficacy evidence for pheniramine in 
 
 ## India Market Information
 
-Pheniramine is marketed in India with 16 valid single-ingredient registrations and no cancelled ones. Dosage forms include injections, tablets and syrup. The indication text is empty in the registration records. Five main registrations are listed below.
+Pheniramine is marketed in India with 16 valid single-ingredient registrations and no cancelled ones. Dosage forms include injections, tablets and syrup. The indication text is empty in the registration records.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Registration No. 114 | Avil Injection (Sanofi India Ltd) | Vial of 2 ml injection | Not stated in the records |
-| Registration No. 56 | Avil Injection (Sanofi India Ltd) | Vial of 10 ml injection | Not stated in the records |
-| Registration No. 5 | Avil 25 Tablet (Sanofi India Ltd) | Strip of 15 tablets | Not stated in the records |
-| Registration No. 226 | Avil 50mg Tablet (Sanofi India Ltd) | Strip of 15 tablets | Not stated in the records |
-| Registration No. 178677 | Pheril 100mg Syrup (Ciron Drugs & Pharmaceuticals) | Bottle of 100 ml syrup | Not stated in the records |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 5 | Avil 25 Tablet | Strip of 15 tablets | Valid |
+| 56 | Avil Injection | Vial of 10 ml Injection | Valid |
+| 114 | Avil Injection | Vial of 2 ml Injection | Valid |
+| 226 | Avil 50mg Tablet | Strip of 15 tablets | Valid |
+| 10745 | Alergipar 10mg Injection | Vial of 10 ml Injection | Valid |
+| 60677 | Delcuf D Syrup | Bottle of 100 ml Syrup | Valid |
+| 73150 | Eralet 25mg Tablet | Strip of 15 tablets | Valid |
+| 75781 | Eralet 50mg Tablet | Strip of 15 tablets | Valid |
+| 78381 | Eurovil 22.75mg Injection | Vial of 2 ml Injection | Valid |
+| 109454 | Instavil 22.75mg Injection | Vial of 2 ml Injection | Valid |
+| 110068 | Intavil 25mg Injection | Vial of 10 ml Injection | Valid |
+| 117664 | Kayphen 22.75mg Injection | Vial of 1 Injection | Valid |
+| 152589 | Nicophen 22.75mg Injection | Vial of 2 ml Injection | Valid |
+| 177856 | Phentix 22.75mg Injection | Vial of 2 ml Injection | Valid |
+| 178677 | Pheril 100mg Syrup | Bottle of 100 ml Syrup | Valid |
+| 180260 | Pakvil 22.75mg Injection | Vial of 10 ml Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ---
 

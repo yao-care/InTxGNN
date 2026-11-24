@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 373
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Flutamide"
 predicted_indications: ["fibroma of prostate", "Brenner tumor", "benign reproductive system neoplasm", "prostate leiomyoma", "benign prostate phyllodes tumor", "HIV infectious disease", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome"]
 description: "Flutamide: predicted new indication Fibroma of prostate (evidence level L5). In India: 7 listed products (7 not discontinued)"
@@ -102,13 +102,21 @@ No publications are available for the top-ranked prediction. The table below sho
 
 Seven valid single-ingredient registrations exist. All are 250 mg oral tablets supplied as strips of 10. No approved indication text is recorded for any of them.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 34456 | Cytomid 250 Tablet (Cipla Ltd) | Strip of 10 tablets | Not recorded |
-| 225020 | Ticum 250mg Tablet (Neon Laboratories Ltd) | Strip of 10 tablets | Not recorded |
-| 89698 | Flutacare 250mg Tablet (Criticare Laboratories Pvt Ltd) | Strip of 10 tablets | Not recorded |
-| 87899 | Flutide 250mg Tablet (Samarth Life Sciences Pvt Ltd) | Strip of 10 tablets | Not recorded |
-| 89008 | Flutatec 250mg Tablet (United Biotech Pvt Ltd) | Strip of 10 tablets | Not recorded |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 34456 | Cytomid 250 Tablet | Strip of 10 tablets | Valid |
+| 85005 | Flutamide 250mg Tablet | Strip of 10 tablets | Valid |
+| 87899 | Flutide 250mg Tablet | Strip of 10 tablets | Valid |
+| 89008 | Flutatec 250mg Tablet | Strip of 10 tablets | Valid |
+| 89698 | Flutacare 250mg Tablet | Strip of 10 tablets | Valid |
+| 176208 | Prostamid 250mg Tablet | Strip of 10 tablets | Valid |
+| 225020 | Ticum 250mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 ## Cytotoxicity
 

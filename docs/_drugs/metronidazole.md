@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 545
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Metronidazole: predicted new indication Pneumocystosis (evidence level L5). Approved use: Peritonitis, endocarditis, anaerobic bacterial infections, giardiasis…"
 monitor_inn: "Metronidazole"
 predicted_indications: ["pneumocystosis", "punctate epithelial keratoconjunctivitis", "ulcerative proctosigmoiditis", "nocardiosis", "postmenopausal atrophic vaginitis", "Cryptococcal meningitis", "papillary conjunctivitis", "myiasis", "cap polyposis", "ulceration of vulva"]
@@ -85,15 +85,44 @@ None of these publications reports metronidazole efficacy against Pneumocystis.
 
 ## India Market Information
 
-Metronidazole has 20 valid registrations in India, all single-ingredient products. The approved indication text is not available for the registrations listed.
+Metronidazole has 20 valid registrations in India. The approved indication text is not available for the registrations listed.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Registration No. 84136 | Flagyl 200 Tablet (Abbott) | Strip of 15 tablets | — |
-| Registration No. 94564 | Gramogyl Suspension (Sun Pharmaceutical) | Bottle of 60 ml suspension | — |
-| Registration No. 251435 | Zoacide 500mg Infusion (Wockhardt) | Bottle of 100 ml infusion | — |
-| Registration No. 203188 | Septigard Ointment (Vanguard Therapeutics) | Tube of 10 gm ointment | — |
-| Registration No. 26834 | Balgyl 400mg Tablet (Micro Labs) | Strip of 10 tablets | — |
+<!-- review:begin in-lic-20261124-metronidazole-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "Metronidazole has 20 valid registrations in India, all single-ingredient products." Removed: it described the products as single-ingredient (or as having no combination products), which does not match the Indian medicine data (the Indian Medicine Dataset): some of the recorded products are fixed-dose combinations. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124-metronidazole-1 -->
+
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 7617 | Ashmet 500mg Infusion | Bottle of 100 ml Infusion | Valid |
+| 12276 | Aldezol 200mg Tablet | Strip of 10 tablets | Valid |
+| 12568 | Anflox M Suspension | Bottle of 30 ml Suspension | Valid |
+| 26834 | Balgyl 400mg Tablet | Strip of 10 tablets | Valid |
+| 43345 | Combizol F Syrup | Bottle of 30 ml Syrup | Valid |
+| 71273 | Denogyl N Oral Suspension | Bottle of 30 ml Oral Suspension | Valid |
+| 84136 | Flagyl 200 Tablet | Strip of 15 tablets | Valid |
+| 94564 | Gramogyl Suspension | Bottle of 60 ml Suspension | Valid |
+| 96827 | Glomet 400mg Tablet | Strip of 10 tablets | Valid |
+| 118125 | Klassak 100 mg/100 mg Suspension | Bottle of 30 ml Suspension | Valid |
+| 123017 | Largyl N 100 mg/100 mg Suspension | Bottle of 60 ml Suspension | Valid |
+| 125096 | Loc Syrup | Bottle of 30 ml Syrup | Valid |
+| 135526 | Metron 100mg Suspension | Bottle of 30 ml Suspension | Valid |
+| 140225 | Mebgyl 400mg Tablet | Strip of 10 tablets | Valid |
+| 149566 | Metrokos 500mg Infusion | Bottle of 100 ml Infusion | Valid |
+| 154033 | Normetrogyl 400mg/400mg Syrup | Bottle of 30 ml Syrup | Valid |
+| 158456 | Normec M Syrup | Bottle of 30 ml Syrup | Valid |
+| 203188 | Septigard Ointment | Tube of 10 gm Ointment | Valid |
+| 229494 | Tosgyl Suspension | Bottle of 30 ml Suspension | Valid |
+| 251435 | Zoacide 500mg Infusion | Bottle of 100 ml Infusion | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 Available forms include oral tablets, syrups and suspensions, intravenous infusion, and topical ointment.
 
@@ -130,11 +159,12 @@ The other predictions (punctate epithelial keratoconjunctivitis, nocardiosis, po
 
 ## Review Log
 
-Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: metronidazole prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=49360d6f-c8b3-420e-af75-154cf7b05255) |
+| 2026-11-24 | Removed: the single-ingredient claim | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 

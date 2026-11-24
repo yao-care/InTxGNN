@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 330
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Etodolac"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "hypermobility of coccyx"]
 description: "Etodolac: predicted new indication Acromesomelic dysplasia, Hunter-Thompson type (evidence level L5). In India: at least 20 listed products"
@@ -82,15 +82,44 @@ Currently no related literature available.
 
 ## India Market Information
 
-Etodolac has 20 valid registrations in India, all single-entity listings. Several products combine etodolac with other actives such as thiocolchicoside, paracetamol or tramadol. The licence records contain no approved-indication text. Five main plain-etodolac products are shown below.
+Etodolac has 20 valid registrations in India. Several products combine etodolac with other actives such as thiocolchicoside, paracetamol or tramadol. The licence records contain no approved-indication text. Five main plain-etodolac products are shown below.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| 72346 | Etova 400 Tablet | Strip of 10 tablets | Ipca Laboratories Ltd |
-| 73022 | Etova 200 Tablet | Strip of 10 tablets | Ipca Laboratories Ltd |
-| 75459 | Edonix 600mg Tablet ER | Strip of 10 extended-release tablets | Ajanta Pharma Ltd |
-| 72861 | Etornext-ER Tablet | Strip of 10 extended-release tablets | Alembic Pharmaceuticals Ltd |
-| 73477 | Etosafe ER Tablet | Strip of 10 extended-release tablets | Wanbury Ltd |
+<!-- review:begin in-lic-20261124-etodolac-1 -->
+
+> **Review correction (2026-11-24)**: Originally stated: "Etodolac has 20 valid registrations in India, all single-entity listings." Removed: it described the products as single-ingredient (or as having no combination products), which does not match the Indian medicine data (the Indian Medicine Dataset): some of the recorded products are fixed-dose combinations. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261124-etodolac-1 -->
+
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 72040 | Dolanox P 400mg/325mg Tablet | Strip of 10 tablets | Valid |
+| 72346 | Etova 400 Tablet | Strip of 10 tablets | Valid |
+| 72861 | Etornext-ER Tablet | Strip of 10 tablet er | Valid |
+| 73022 | Etova 200 Tablet | Strip of 10 tablets | Valid |
+| 73477 | Etosafe ER Tablet | Strip of 10 tablet er | Valid |
+| 75403 | Etogesic MR 400mg/8mg Tablet | Strip of 10 tablets | Valid |
+| 75459 | Edonix 600mg Tablet ER | Strip of 10 tablet er | Valid |
+| 77181 | Etomight 400mg Tablet ER | Strip of 10 tablet er | Valid |
+| 77392 | Edothi-ER 400 Tablet | Strip of 10 tablet er | Valid |
+| 78268 | Etoteem TH 400mg/4mg Tablet | Strip of 10 tablets | Valid |
+| 79035 | Etodenz-XT Tablet | Strip of 10 tablets | Valid |
+| 80095 | Etulac 400mg Tablet ER | Strip of 10 tablet er | Valid |
+| 80925 | Etoteem 400mg Tablet | Strip of 10 tablets | Valid |
+| 81108 | Epolis P 400mg/325mg Tablet | Strip of 10 tablets | Valid |
+| 81431 | Etoswift 400mg Tablet ER | Strip of 10 tablet er | Valid |
+| 91885 | Fiendoc TH 400mg/4mg Tablet | Strip of 10 tablets | Valid |
+| 119214 | Kandolac 400mg/4mg Tablet MR | Strip of 10 tablet mr | Valid |
+| 139968 | Megtios TH 400mg/4mg Tablet | Strip of 10 tablets | Valid |
+| 227289 | Tomoltif 300mg/325mg Tablet | Strip of 10 tablets | Valid |
+| 227628 | Telor ED 400mg/325mg Tablet | Strip of 10 tablets | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 All products are oral formulations.
 
@@ -129,11 +158,12 @@ The prediction has no clinical trials or publications behind it. The target is a
 
 ## Review Log
 
-Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-19 | "Detailed mechanism-of-action data for etodolac is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Etodolac Er (etodolac) prescribing information, Advanced Rx Pharmacy of Tennessee, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=baebdfb2-17f6-9081-e053-2a95a90ab331) |
+| 2026-11-24 | Removed: the single-ingredient claim | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 

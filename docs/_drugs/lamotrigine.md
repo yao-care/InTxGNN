@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 470
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Lamotrigine: predicted new indication Trigeminal nerve neoplasm (evidence level L5). Approved use: Epilepsy (including partial epilepsy and Lennox-Gastaut syndrome)"
 monitor_inn: "Lamotrigine"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia"]
@@ -84,15 +84,38 @@ Currently no related clinical trials registered for trigeminal nerve neoplasm.
 
 ## India Market Information
 
-Lamotrigine has 20 valid single-ingredient registrations, with no cancelled licences. The registration records do not list approved indication text. Five of the main registrations:
+Lamotrigine has 20 valid single-ingredient registrations, with no cancelled licences. The registration records do not list approved indication text.
 
-| Authorization Number | Product Name | Dosage Form |
-|---------|------|------|
-| Registration No. 122080 | Lamictal 50mg Tablet DT | Strip of 14 dispersible tablets |
-| Registration No. 121198 | Lametec 100 DT Tablet | Strip of 10 dispersible tablets |
-| Registration No. 121788 | Lamosyn 100 Tablet | Strip of 10 tablets |
-| Registration No. 121707 | Lamitor DT 25 Tablet | Strip of 15 dispersible tablets |
-| Registration No. 114357 | JI Lmt OD 200mg Tablet SR | Strip of 10 sustained-release tablets |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 75191 | Epilam 50mg Tablet DT | Strip of 10 tablet dt | Valid |
+| 91720 | Flylep-OD 50 Tablet | Strip of 10 tablet dt | Valid |
+| 114357 | JI Lmt OD 200mg Tablet SR | Strip of 10 tablet sr | Valid |
+| 121198 | Lametec 100 DT Tablet | Strip of 10 tablet dt | Valid |
+| 121707 | Lamitor DT 25 Tablet | Strip of 15 tablet dt | Valid |
+| 121709 | Lamosyn 50 Tablet | Strip of 10 tablets | Valid |
+| 121788 | Lamosyn 100 Tablet | Strip of 10 tablets | Valid |
+| 122080 | Lamictal 50mg Tablet DT | Strip of 14 tablet dt | Valid |
+| 125132 | Lamictin 100mg Tablet DT | Strip of 10 tablet dt | Valid |
+| 125424 | Lemit 25 Tablet | Strip of 10 tablets | Valid |
+| 127605 | Lemogin 25mg Tablet DT | Strip of 10 tablet dt | Valid |
+| 127636 | Lamorig 50mg Tablet | Strip of 10 tablets | Valid |
+| 128382 | Lemogen 25mg Tablet | Strip of 10 tablets | Valid |
+| 128689 | Laogine 25mg Tablet | Strip of 10 tablets | Valid |
+| 129014 | Lamight 100mg Tablet | Strip of 10 tablets | Valid |
+| 129937 | Laogine 50mg Tablet | Strip of 10 tablets | Valid |
+| 130001 | Lemogin 100mg Tablet DT | Strip of 10 tablet dt | Valid |
+| 131100 | Lamiace 100mg Tablet DT | Strip of 10 tablet dt | Valid |
+| 159293 | Nombre OD 100mg Tablet | Strip of 10 tablets | Valid |
+| 225048 | Tablodep 100mg Tablet DT | Strip of 10 tablet dt | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 All products are oral formulations.
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Ritonavir"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ritonavir: predicted new indication Feline acquired immunodeficiency syndrome (evidence level L5). Approved use: Chronic hepatitis C virus infection, hepatitis C virus infection…"
 ---
 
@@ -82,21 +82,39 @@ Currently no related literature available for feline acquired immunodeficiency s
 
 ## India Market Information
 
-Ritonavir is marketed in India with 17 valid approvals. The licence records contain no approved indication text. The five listed below are examples of the 17.
+Ritonavir is marketed in India, and all its recorded approvals are valid. The licence records contain no approved indication text.
 
 <!-- review:begin in-lic-20261106-ritonavir-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "Ritonavir is marketed in India with 17 valid single-ingredient approvals." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+> **Review correction (2026-11-24)**: Originally stated: "Ritonavir is marketed in India with 17 valid single-ingredient approvals." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Revised 2026-11-24: the hard-coded number of records and the wording about the old table were dropped; the Quick Overview and the product table under India Market Information show the current figures. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
 
 <!-- review:end in-lic-20261106-ritonavir-1 -->
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 127028 | Lopimune 50 mg/200 mg Capsule (Cipla Ltd) | Strip of 30 capsules | Not stated in the records |
-| 195263 | Ritomax 100mg Capsule (Alkem Laboratories Ltd) | Box of 60 capsules | Not stated in the records |
-| 235925 | Viriton 100mg Tablet (Sun Pharmaceutical Industries Ltd) | Bottle of 60 tablets | Not stated in the records |
-| 76377 | Empetus 100mg Tablet (Emcure Pharmaceuticals Ltd) | Strip of 30 tablets | Not stated in the records |
-| 185243 | Ritomune 100mg Capsule (Cipla Ltd) | Strip of 30 capsules | Not stated in the records |
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 8310 | Alltera 50 mg/200 mg Tablet | Bottle of 120 tablets | Valid |
+| 75802 | Emletra Tablet | Bottle of 60 tablets | Valid |
+| 76377 | Empetus 100mg Tablet | Strip of 30 tablets | Valid |
+| 80732 | Emletra Junior 25 mg/100 mg Tablet | Bottle of 60 tablets | Valid |
+| 104781 | Hivus-LR 50mg/200mg Tablet | Bottle of 60 tablets | Valid |
+| 122147 | Lopimune Tablet | Bottle of 60 tablets | Valid |
+| 127028 | Lopimune 50 mg/200 mg Capsule | Strip of 30 capsules | Valid |
+| 127787 | Lopirova Tablet | Bottle of 60 tablets | Valid |
+| 185243 | Ritomune 100mg Capsule | Strip of 30 capsules | Valid |
+| 187294 | Ritomune 100mg Tablet | Bottle of 60 tablets | Valid |
+| 187335 | Ritocom 50 mg/200 mg Tablet | Strip of 30 tablets | Valid |
+| 189571 | Ritomax 100mg Tablet | Strip of 30 tablets | Valid |
+| 195263 | Ritomax 100mg Capsule | Box of 60 capsules | Valid |
+| 196316 | Ritomax L 33.3 mg/133.3 mg Capsule | Box of 90 capsules | Valid |
+| 198093 | Ritomax L Forte 50 mg/200 mg Tablet | Strip of 30 tablets | Valid |
+| 235925 | Viriton 100mg Tablet | Bottle of 60 tablets | Valid |
+| 239449 | V Letra 33.3 mg/133.3 mg Capsule | Box of 60 capsules | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+<!-- licenses:end -->
 
 All products are oral formulations (capsules and tablets). No veterinary product is listed.
 
@@ -139,7 +157,7 @@ Below is the review log for this page: statements checked against official India
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-24 | Removed: "single-ingredient" | Corrected (revised 2026-11-24; earlier version kept in the record) | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 | 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Norvir (ritonavir) prescribing information, AbbVie Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2849298e-de6e-47bb-8194-56e075b33fc3) |
 
 <!-- review:end log -->

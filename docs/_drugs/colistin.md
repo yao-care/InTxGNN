@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "colistin"
 predicted_indications: ["postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "infective urethral stricture", "paratyphoid fever", "sinusitis", "chronic rhinosinusitis", "chronic ethmoidal sinusitis"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 description: "Colistin: predicted new indication postinfectious vasculitis (evidence level L5). In India: at least 20 listed products"
 ---
 
@@ -68,6 +68,37 @@ Currently no related clinical trials registered.
 Currently no related literature available.
 
 ## India Market Information
+
+<!-- licenses:begin -->
+
+| Dataset ID | Product Name | Pack Size | Status |
+|------|------|------|------|
+| 19505 | Acostin 4.5Million iu Injection | Vial of 1 ml Injection | Valid |
+| 37190 | Coly Monas 2 Injection | Vial of 1 Injection | Valid |
+| 37755 | Coly Monas 3 Injection | Vial of 1 Injection | Valid |
+| 41100 | Colgit DS 25mg Dry Syrup | Bottle of 30 ml Dry Syrup | Valid |
+| 44467 | Colizin Oral Suspension | Bottle of 30 ml Oral Suspension | Valid |
+| 53427 | Colifate Suspension | Bottle of 30 ml Suspension | Valid |
+| 53957 | Colicease 2Million IU Injection | Vial of 1 ml Injection | Valid |
+| 95523 | GD Safe 12.5mg Syrup | Bottle of 30 ml Syrup | Valid |
+| 104503 | Hopstin 1Million IU Injection | Vial of 1 ml Injection | Valid |
+| 112018 | Iystin 12.5mg Suspension | Bottle of 30 ml Suspension | Valid |
+| 117887 | Kallistro 2Million IU Powder for Injection | Vial of 1 Powder for Injection | Valid |
+| 160029 | Nonumycin 12.5mg Syrup | Bottle of 30 ml Syrup | Valid |
+| 160401 | Nelomycin 12.5mg Syrup | Bottle of 30 ml Syrup | Valid |
+| 181015 | Pmx 1Million IU Injection | Vial of 1 Injection | Valid |
+| 183900 | Quickstin 12.5mg Dry Syrup | Bottle of 30 ml Dry Syrup | Valid |
+| 229116 | Tifmycine 12.5mg Dry Syrup | Bottle of 30 ml Dry Syrup | Valid |
+| 241471 | Walamycin DS 25mg Suspension | Bottle of 30 ml Suspension | Valid |
+| 242576 | Walapride 12.5mg Dry Syrup | Bottle of 30 ml Dry Syrup | Valid |
+| 244243 | Xylomonas 3Million IU Injection | Vial of 1 Injection | Valid |
+| 244352 | Xylomonas 4.5 MIU Injection | Vial of 1 Injection | Valid |
+
+Source: Indian Medicine Dataset (junioralive/Indian-Medicine-Dataset on GitHub), a third-party compilation of Indian medicine prices; dataset ID, product name and pack size as recorded in the dataset. CDSCO approval status is not included in this data.
+
+Only part of the licence list is held in the data; the list may be incomplete.
+
+<!-- licenses:end -->
 
 Colistin is marketed in India. The local data list at least 20 valid single-ingredient registrations, and this list may be partial. Products come as injections (vials of 1, 2, 3 and 4.5 million IU), syrups, dry syrups, suspensions and an oral suspension. Approved indication text is not recorded in the local data.
 
