@@ -15,7 +15,7 @@ last_modified_at: 2026-11-25
 ---
 
 <p class="key-answer" data-question="What news is there about Ascorbic Acid?">
-<strong>Ascorbic Acid</strong> currently has <strong>5 news articles</strong>, with 0 predicted indications.
+<strong>Ascorbic Acid</strong> currently has <strong>6 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,15 @@ This page combines the AI-predicted indications for Ascorbic Acid with the lates
 <p><a href="{{ '/drugs/ascorbic-acid/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (6)
+
+### [Severe Cucurbitacin Toxicity Following Bitter Bottle Gourd Juice Consumption Presenting With Shock, Toxic Hepatitis, and Dialysis-Requiring Acute-on-Chronic Kidney Disease With Biopsy-Proven Renal Injury: A Case Report](https://news.google.com/rss/articles/CBMi7wJBVV95cUxNQ1pxSktfRzNRaE54bmdmSXdmTGRQSVVodVAyWUd1dmJNNGgtS3BzVzQ1VHBmMjBkNms0QXotLXQzaEd4dVBBQWRBMGdaOWdGZk40OGM0Q0pndGZsQ1RxWlR1LWlKQ2VkUENSeXFjR2E4M2pxNDRoRE1KU3VwM1NldmtpdmxrR0NSTGpTbmgybWprUFRwNWp0d0trOUJ0aFhUOWQzUmU1WXRYTGNManhXa0Y4Mm40VGtEZlNEbG9jSGVicXdscGJkbXZ2RjQ2V1B6OUpHdXl2X21RQUF1anQ1U1UtQW96WnJJQlF1VU0wUmczTXJ6cWtoWUJlaEIycHBQWllQajFjQlFPWVBrWlluTHRrQzNvUGVBeEdSVFpSOFpXR1VEZ0VsWVhCQ1pIdXZfYzZCUGNYVVo0T0tMd1ZQZEg2cmhsNE1pWGYwYWFJWV9RZ0h1TlM1ZHI0dEN5MmR1b1VMTE5SZGs1RTNFVWVB?oc=5)
+
+2026-11-25 <span class="news-indication-tag">injury</span>
+
+Source: [Cureus](https://news.google.com/rss/articles/CBMi7wJBVV95cUxNQ1pxSktfRzNRaE54bmdmSXdmTGRQSVVodVAyWUd1dmJNNGgtS3BzVzQ1VHBmMjBkNms0QXotLXQzaEd4dVBBQWRBMGdaOWdGZk40OGM0Q0pndGZsQ1RxWlR1LWlKQ2VkUENSeXFjR2E4M2pxNDRoRE1KU3VwM1NldmtpdmxrR0NSTGpTbmgybWprUFRwNWp0d0trOUJ0aFhUOWQzUmU1WXRYTGNManhXa0Y4Mm40VGtEZlNEbG9jSGVicXdscGJkbXZ2RjQ2V1B6OUpHdXl2X21RQUF1anQ1U1UtQW96WnJJQlF1VU0wUmczTXJ6cWtoWUJlaEIycHBQWllQajFjQlFPWVBrWlluTHRrQzNvUGVBeEdSVFpSOFpXR1VEZ0VsWVhCQ1pIdXZfYzZCUGNYVVo0T0tMd1ZQZEg2cmhsNE1pWGYwYWFJWV9RZ0h1TlM1ZHI0dEN5MmR1b1VMTE5SZGs1RTNFVWVB?oc=5)
+
+---
 
 ### [Admission platelet-to-white blood cell ratio and in-hospital mortality after traumatic brain injury: a two-database cohort study](https://news.google.com/rss/articles/CBMiX0FVX3lxTE4yNkhEdTQ5NDVUZUlYOXBudS13SlpqN1lmdmw5WnFyMzBsckFoa1BSNjdxMmZjVmg4ZnBHZ0QtUVhySmswSnZkRmlxeksxdzJ2S3ZvNzdfTVZadW1fOEpr?oc=5)
 

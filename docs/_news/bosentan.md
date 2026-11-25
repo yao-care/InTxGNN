@@ -15,7 +15,7 @@ last_modified_at: 2026-11-25
 ---
 
 <p class="key-answer" data-question="What news is there about Bosentan?">
-<strong>Bosentan</strong> currently has <strong>4 news articles</strong>, with 8 predicted indications.
+<strong>Bosentan</strong> currently has <strong>6 news articles</strong>, with 8 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,23 @@ This page combines the AI-predicted indications for Bosentan with the latest hea
 <p><a href="{{ '/drugs/bosentan/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (6)
+
+### [Rheumatoid arthritis doesn’t begin with aching joints. Biological processes start years before](https://news.google.com/rss/articles/CBMilwFBVV95cUxOaEp2Q0tka3JhcXNmRUtiUTFBMzQyWncwYU5JYy1TM0ltQkNQWWh5NmVCd3lPS3JVaWZ4Mm5Ja19QMW1UaURXVzlNdjB0VHV0Xy1zVnFvU1JhVk05V3VOdWRJd1lYazAwZHRUQnp3a0c2UDMtUjU2UG8zTHg2MVMtZFFfdExad1V0MWZVX1loOVVEbmhvcmxJ0gGcAUFVX3lxTFBFdTBJWmczdVdQQnd1UEoxWnEtTWRna0VteTNUSk53QkdWeTh6dzRtSDRUaGhwY2cyZDZ0c0RLeVZRRzU2aXBybGdvaVJLTmhEc3BManoySUphX08xOEczQ1dhY2xocllQLWcwdXVGUTVtYkNjRFNOcjU1U0JNMmgtU2pSWjBjSkQ5UnRYb3Y1MEluYS1xR2lHeTd6LQ?oc=5)
+
+2026-11-25 <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">rheumatoid arthritis</span>
+
+Source: [ThePrint](https://news.google.com/rss/articles/CBMilwFBVV95cUxOaEp2Q0tka3JhcXNmRUtiUTFBMzQyWncwYU5JYy1TM0ltQkNQWWh5NmVCd3lPS3JVaWZ4Mm5Ja19QMW1UaURXVzlNdjB0VHV0Xy1zVnFvU1JhVk05V3VOdWRJd1lYazAwZHRUQnp3a0c2UDMtUjU2UG8zTHg2MVMtZFFfdExad1V0MWZVX1loOVVEbmhvcmxJ0gGcAUFVX3lxTFBFdTBJWmczdVdQQnd1UEoxWnEtTWRna0VteTNUSk53QkdWeTh6dzRtSDRUaGhwY2cyZDZ0c0RLeVZRRzU2aXBybGdvaVJLTmhEc3BManoySUphX08xOEczQ1dhY2xocllQLWcwdXVGUTVtYkNjRFNOcjU1U0JNMmgtU2pSWjBjSkQ5UnRYb3Y1MEluYS1xR2lHeTd6LQ?oc=5)
+
+---
+
+### [As Cold Winds Blow, Knees Ache... '5 Ways' to Manage Arthritis in Winter](https://news.google.com/rss/articles/CBMigAFBVV95cUxOa1FNZUktZVM5eFZoUUdKVTgyd2d0REg0b29YWXFjVloyWFV6Z01SbW95QWhPajRhZy1GRjRtY0Y5N1JFc2psOVFwQjdzU0JTcGJWSmtIWjdrYkdmWDJtT085ZGZjVnNrZFFWcmJsMzdrSFNzcV8zTlRETDlTQWpldg?oc=5)
+
+2026-11-24 <span class="news-indication-tag">cold</span> <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">joint pain</span> <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">rheumatoid arthritis</span>
+
+Source: [스포츠조선](https://news.google.com/rss/articles/CBMigAFBVV95cUxOa1FNZUktZVM5eFZoUUdKVTgyd2d0REg0b29YWXFjVloyWFV6Z01SbW95QWhPajRhZy1GRjRtY0Y5N1JFc2psOVFwQjdzU0JTcGJWSmtIWjdrYkdmWDJtT085ZGZjVnNrZFFWcmJsMzdrSFNzcV8zTlRETDlTQWpldg?oc=5)
+
+---
 
 ### [Mercy Health expert offers tips for protecting bone and joint health in cold weather](https://news.google.com/rss/articles/CBMixwFBVV95cUxNYjJXQV9BdGoyZW1qUkxsV2c4Unk4ZTFCN1BPbUFSTzVtM3k3aVBzU3FaZW5teGdfRm5UamNQNXZ5ZzFOVGE1b1ZpZW00UHg1eURINEhDcTNRQ1pzYTNpTlVwWE5DUmYtTkk4ZFQyUG5QNFhuQXdTRF93MjJsaU9SZnJIaUZMRzR6WEVYN1hVcXFJb1JoZHlhZ1F3a0U2RkRPdnZQN2czMk80ZWJsVDZ2MlNKUDJZMHFLNHRKdDJWVHhKV2hnUlVJ0gHbAUFVX3lxTE1OenVQSjc3bWp0Q3R0Mm1IUFNUSkowOF82Rjl6TmpnNUlfdlBxWjdmYmlxRXZMRWRCd1FVSkc4c3p5OURGcUwxbEpkakNYYmY1SDN1clh0VnZJcERXbGpnVENueV9kekctYUJBbGxLdnBwTTlIZWYwMmh2a0oxaWY1V3V3b0haS1BhUzlRcG9PcmJhM2pDVmtTcDZfSmJ4cWZoNHc3cF91Z2VXM3FWVEozSjVTNEVOUGhja3BWOGRrUC1yS2FnallJemloU2Y5OFpHQ05mWFN3dWZyQQ?oc=5)
 

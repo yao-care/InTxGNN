@@ -3,7 +3,7 @@ layout: default
 title: "dementia (alzheimer) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about dementia (alzheimer). 17 articles, 8 related drugs."
+description: "Health news about dementia (alzheimer). 18 articles, 8 related drugs."
 permalink: /news/alzheimer/
 last_modified_at: 2026-11-25
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-25
 ---
 
 <p class="key-answer" data-question="What news is there about dementia (alzheimer)?">
-<strong>dementia (alzheimer)</strong> currently has <strong>17 news articles</strong> and 8 related drugs.
+<strong>dementia (alzheimer)</strong> currently has <strong>18 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,15 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (17)
+## Related News (18)
+
+### [Air pollution accelerates dementia by reprogramming brain's immune cells: study - The Hindu](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbHhaRnNWRWoxUE9rZTVfT1FZdndBODk5bUJUZmpvS3VpOUppWkRXV3Z6MnVEdWhhNVNzYVJIS1R0RmliVUlVNURLdHlnN2R4SG9FeWxHWnBSRUJTMXNyaVc3SWZnUmYzRWFCb3hDdDFSOFBOVnpUY25fY1NDeUhuSGgtWWJSdVB2ejdJRFcwdF9QNHhsbk5KTk9yWmppQW03dFJObWNETEJZTnI2WHFnbGx2dFZvTlY4MU1YVklEV0xQVHhlT1FoLUlCOUtvN292RHc3U9IB2wFBVV95cUxNcjBuY2g2QlpkWmhHUFI1TDFpSGhHbkJ5MDJnc01yNHpES25iVTlNaVZGTWJSd2hsSWJ4RTYtQ29BVVAxU040NG5USC1oQVRSOG9CTlpwQlN6R2FaUjdkbHdaRnlJVEtGdEIxODgzbFYxTzNpaGMxT0hHRjNzTjBVcGxXT1pBQ0xzQnUtN0l5Y294Zmxvbm5xRkYzQW9ULTJoZmI0ajFrQktMUXlfUjhrdjRaV01VR0xqRDkwV0hVa0V0cmpQUHdlTVBmVWFKQmN1c3RQTG14ZzZMdFU?oc=5)
+
+2026-11-25
+
+Source: [The Hindu](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbHhaRnNWRWoxUE9rZTVfT1FZdndBODk5bUJUZmpvS3VpOUppWkRXV3Z6MnVEdWhhNVNzYVJIS1R0RmliVUlVNURLdHlnN2R4SG9FeWxHWnBSRUJTMXNyaVc3SWZnUmYzRWFCb3hDdDFSOFBOVnpUY25fY1NDeUhuSGgtWWJSdVB2ejdJRFcwdF9QNHhsbk5KTk9yWmppQW03dFJObWNETEJZTnI2WHFnbGx2dFZvTlY4MU1YVklEV0xQVHhlT1FoLUlCOUtvN292RHc3U9IB2wFBVV95cUxNcjBuY2g2QlpkWmhHUFI1TDFpSGhHbkJ5MDJnc01yNHpES25iVTlNaVZGTWJSd2hsSWJ4RTYtQ29BVVAxU040NG5USC1oQVRSOG9CTlpwQlN6R2FaUjdkbHdaRnlJVEtGdEIxODgzbFYxTzNpaGMxT0hHRjNzTjBVcGxXT1pBQ0xzQnUtN0l5Y294Zmxvbm5xRkYzQW9ULTJoZmI0ajFrQktMUXlfUjhrdjRaV01VR0xqRDkwV0hVa0V0cmpQUHdlTVBmVWFKQmN1c3RQTG14ZzZMdFU?oc=5)
+
+---
 
 ### [Air Pollution May Trigger Dementia by Reprogramming Brain’s Immune Cells: Study - Deccan Chronicle](https://news.google.com/rss/articles/CBMixgFBVV95cUxON1ViNm9CN1ZkR0RYcjlWdHVhNjlvZHFzQUpJQTdYaktHdjd1OGlmU2k0ZVFoWDdKRTZhY3RqMHc3QVZoaU1SRXRnMHdBUlBha1hWT3RzdzhqRk5ueklEYXF2WE5JLUVpaVVuLUlRX2IxZWpOdEpJTGMxYjNvOHRoYlZmeGNiMW5IUW5tTGJEQm5nSVlFcVdnWnJ5MUQ2MUtXaHlOTkVjVk1Sd2hMQWFYWjlJRHZUWXdIbGNuSVpxZWVNbUJBSEHSAcsBQVVfeXFMT1kwNHJzVl80NnoyaEhCNlFLa002eGc4RjE2bkdOTDBpdnd5SjJfSmp3ZmpmaUs3eWtWYmtEOGxBV0NUUHRvZUhBYUZUTUtJWkFQQTJVcFd5eWRyWjBpOTJhcGRBekJxSnBmZVlveHYyQmd2bGRyY3ZNMUR4THNHNFhzcjZ0MjNuN2tkRU5VTHplZkRFWnVKallaUnRLX2h3TEVfWFhQU3RZVFVXNUxoZElsZ1Y2Q203dHpLcElfS09MejRRemU0N1JiWVE?oc=5)
 

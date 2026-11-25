@@ -3,9 +3,9 @@ layout: default
 title: "lung cancer (small cell lung carcinoma) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about lung cancer (small cell lung carcinoma). 15 articles, 5 related drugs."
+description: "Health news about lung cancer (small cell lung carcinoma). 17 articles, 5 related drugs."
 permalink: /news/small-cell-lung-carcinoma/
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 ---
 
 # lung cancer (small cell lung carcinoma) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-24
 ---
 
 <p class="key-answer" data-question="What news is there about lung cancer (small cell lung carcinoma)?">
-<strong>lung cancer (small cell lung carcinoma)</strong> currently has <strong>15 news articles</strong> and 5 related drugs.
+<strong>lung cancer (small cell lung carcinoma)</strong> currently has <strong>17 news articles</strong> and 5 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,23 @@ This page brings together the latest health news about “lung cancer” and lis
 </ul>
 </div>
 
-## Related News (15)
+## Related News (17)
+
+### [Opportunities and pitfalls of cell-free DNA fragmentomics as a liquid biopsy](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBEVGVuc3lZRXVfeVpVU0Z6YkNETnQwX3I3UjhkeG5GcWtIZjZsU3hYYXpfdUpuX1p4Rm15WkdSd0FmcDU5MDgwTEVTV1ZTbGcyQlJWZklWZnBTeU1uNEMw?oc=5)
+
+2026-11-25
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBEVGVuc3lZRXVfeVpVU0Z6YkNETnQwX3I3UjhkeG5GcWtIZjZsU3hYYXpfdUpuX1p4Rm15WkdSd0FmcDU5MDgwTEVTV1ZTbGcyQlJWZklWZnBTeU1uNEMw?oc=5)
+
+---
+
+### [Understanding Lung Cancer beyond smoking - The New Indian Express](https://news.google.com/rss/articles/CBMipAFBVV95cUxNZ1k3eGp0MWVoWUYzVm5DWmhocXRzNEQwV3c1UlBjLVJIOXRmQkp2UVNPdC1vY29HYS1sVWpMRk0xby1ISl9KVkJhUHAxdU1XbDVvRXg5YzlYNkt4NEs1ZVEwOFJ3RDVsLUF5bUlwdUpzSnQtbHlIQU9qQnJTejhWQmhFQTY0QnRFclJkVkxtUm5xcWZHMEkzNE80Yzl4UVJRVVhmWNIBsgFBVV95cUxQVzNjaDJVcEZ2cFFKdDFhVkRWOW1OUGVrMVpLeGFpaGt6cXd2UVIwQ2I4RnlTWlFhcUlOTjVRQjUwM1h3dHg2N2R6aDdrVXBZX0k3eWF4RzQ1VzAtM1VTeUJ6WnNJcEhBazduOE1rTjFSUEQ0YVhPRFU3dXV4VTgtWWZnX1dWM1JvQm1nQWQ3VUVVZnc3S1B1V2lKN3M3emY2eWpOR1k2VlRDb2pxanc1bTN3?oc=5)
+
+2026-11-25
+
+Source: [The New Indian Express](https://news.google.com/rss/articles/CBMipAFBVV95cUxNZ1k3eGp0MWVoWUYzVm5DWmhocXRzNEQwV3c1UlBjLVJIOXRmQkp2UVNPdC1vY29HYS1sVWpMRk0xby1ISl9KVkJhUHAxdU1XbDVvRXg5YzlYNkt4NEs1ZVEwOFJ3RDVsLUF5bUlwdUpzSnQtbHlIQU9qQnJTejhWQmhFQTY0QnRFclJkVkxtUm5xcWZHMEkzNE80Yzl4UVJRVVhmWNIBsgFBVV95cUxQVzNjaDJVcEZ2cFFKdDFhVkRWOW1OUGVrMVpLeGFpaGt6cXd2UVIwQ2I4RnlTWlFhcUlOTjVRQjUwM1h3dHg2N2R6aDdrVXBZX0k3eWF4RzQ1VzAtM1VTeUJ6WnNJcEhBazduOE1rTjFSUEQ0YVhPRFU3dXV4VTgtWWZnX1dWM1JvQm1nQWQ3VUVVZnc3S1B1V2lKN3M3emY2eWpOR1k2VlRDb2pxanc1bTN3?oc=5)
+
+---
 
 ### [From lung cancer in non-smokers to rising breast cancer deaths: South India's cancer profile is changing - The South First](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPY0Q3dDVnSF9Pd0g0cmhqV0k1dk5YTW5jcHhZQjNGZkRMeUhOOGdudTRYdW83dUM2Z0c4LVVHZUUwSWcxbXJoUXBkMHBhbkRqTDlwM1VSQ2FhbUxMbW55ZUZIN0NGdjNxb3ZjZ0gtQ0NxUWdEcnlqWXAxczl1ektialN6Y1NSMFFWZ2RXcTF4Y0I5d09uaU9jNUJGSWdlM0t1M0ticzNjYTlKR3l6clJTS3RHVUxCdWJRNkdtcEdTRXVLSzVYTUJfQzM5UEtPZzBuREE?oc=5)
 

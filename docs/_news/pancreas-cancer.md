@@ -3,9 +3,9 @@ layout: default
 title: "pancreatic cancer (pancreas cancer) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about pancreatic cancer (pancreas cancer). 21 articles, 1 related drugs."
+description: "Health news about pancreatic cancer (pancreas cancer). 22 articles, 1 related drugs."
 permalink: /news/pancreas-cancer/
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 ---
 
 # pancreatic cancer (pancreas cancer) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-24
 ---
 
 <p class="key-answer" data-question="What news is there about pancreatic cancer (pancreas cancer)?">
-<strong>pancreatic cancer (pancreas cancer)</strong> currently has <strong>21 news articles</strong> and 1 related drugs.
+<strong>pancreatic cancer (pancreas cancer)</strong> currently has <strong>22 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page brings together the latest health news about “pancreatic cancer” a
 </ul>
 </div>
 
-## Related News (21)
+## Related News (22)
+
+### [Daraxonrasib-chemotherapy combination shows deep, durable responses in metastatic pancreatic cancer - Oncology Central](https://news.google.com/rss/articles/CBMizAFBVV95cUxOUnpoSmJUb1ZFN3YyMXNwNXZfU1FYVF9xa1hTTjZ2RlFkNFFPU3BtSi1SZ3lVV0FoNDUzUVl3LUJzZjZoY1NQdGdrS0pNMFVzZGNodXl6UHE1d1hTeXlKTmRUR2FPWFZoTXZscDFHN3JpWFM1aFVlam01RzhqMjk0elgydkd5dkNKeF9LbzNZdTZ0MGxhZ3hrSExwWVRHRmRRd2J3MlZFZVRjWmNlaExHc3Yza2lzMEgwbHRUZUVyeTEyUVQwZ2FhTVBxNDc?oc=5)
+
+2026-11-25
+
+Source: [Oncology Central](https://news.google.com/rss/articles/CBMizAFBVV95cUxOUnpoSmJUb1ZFN3YyMXNwNXZfU1FYVF9xa1hTTjZ2RlFkNFFPU3BtSi1SZ3lVV0FoNDUzUVl3LUJzZjZoY1NQdGdrS0pNMFVzZGNodXl6UHE1d1hTeXlKTmRUR2FPWFZoTXZscDFHN3JpWFM1aFVlam01RzhqMjk0elgydkd5dkNKeF9LbzNZdTZ0MGxhZ3hrSExwWVRHRmRRd2J3MlZFZVRjWmNlaExHc3Yza2lzMEgwbHRUZUVyeTEyUVQwZ2FhTVBxNDc?oc=5)
+
+---
 
 ### [Pill plus chemo shrank pancreatic tumours in 61% in early trial | Tap to know more | Inshorts](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc1JTRmU1NTR2UDBRZDRPaG55T0Q4dmQ1V081ZkJkd05PS3lqUFZoNGZ1RndXTS1Od2hqR2txY2FIMHpWWnRxR3VmQ3gzbGQ5YnN4S1FkX1Zzb0pGM3RPUkVCTWlOU3lNRzhjWEMtaHJHZUE2TFlNaTY3MEl3RDR0Ml9DeUJqSmtLSWNJV3pJdFl3Y2FXUTI5NEtLaDJaSEt4SllWZ25CN1Fyd9IBrwFBVV95cUxOMUpZYy1vVGZnWlJFaWZOcVVCRl90cGJVT3pZZUM0Z2RGeTVSY3hHdHlvM2hJemhmNmdWUnI1enRBbnRQOVhiQUpFVnM3dkZoZmg3VGxHR3UxYm82VkdUSlNBNHN5XzlNNFFaWEVBT011Y0RkcGhsN0Vqc25FX3Q1LUl4LVhLRGloMjVZTmNnSW9yM1dlQkxQYzI3VEVHTmNrejJmWlYzT0QtU1R4Y2dV?oc=5)
 

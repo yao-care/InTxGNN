@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Azathioprine. 7 predicted indications."
 permalink: /news/azathioprine/
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-25
 ---
 
 # Azathioprine News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="What news is there about Azathioprine?">
-<strong>Azathioprine</strong> currently has <strong>6 news articles</strong>, with 7 predicted indications.
+<strong>Azathioprine</strong> currently has <strong>7 news articles</strong>, with 7 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -39,7 +39,15 @@ This page combines the AI-predicted indications for Azathioprine with the latest
 <p><a href="{{ '/drugs/azathioprine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (6)
+## Related News (7)
+
+### [How Certain Foods in Adolescence Are Linked to IBD Risk - MedPage Today](https://news.google.com/rss/articles/CBMigwFBVV95cUxNcmd4bjRNemNSWjg5cHMyT0p4aVRETk9FWUdFeTVUVGJZUTg2bk84STJFa3J6Z3RWRDZYM2ZXOWxqRjBkZ2hoLXhDTFhLbkVpa1gzMElmaEFYbDE3djhOQzJzNVF5RU8tcV81SmRjeW9iTW1wNnNlajFzN1Z2WHdJR01Dbw?oc=5)
+
+2026-11-25 <span class="news-indication-tag">inflammatory bowel disease</span>
+
+Source: [MedPage Today](https://news.google.com/rss/articles/CBMigwFBVV95cUxNcmd4bjRNemNSWjg5cHMyT0p4aVRETk9FWUdFeTVUVGJZUTg2bk84STJFa3J6Z3RWRDZYM2ZXOWxqRjBkZ2hoLXhDTFhLbkVpa1gzMElmaEFYbDE3djhOQzJzNVF5RU8tcV81SmRjeW9iTW1wNnNlajFzN1Z2WHdJR01Dbw?oc=5)
+
+---
 
 ### [Cochrane review challenges benefits of turmeric supplements for knee osteoarthritis](https://news.google.com/rss/articles/CBMiywFBVV95cUxQME1MTXpRZnNNLWR1Ul9WeWZ2SDdoMFFnVzViNkEwQjE3eUUxVUQ1R21wX0tpWVZHV0plRllmZFhRRmh3N3kyODRTeHIzNHhmNWJzdy10b1JpQ1VITGJuUlRkZi1ZOGkwTTNmNnRHbVM2U3p6M2Y2Vm9CMlRMdDQtcnFZVlNFZU1wQjY2aGYxcWJtVGpYZ01CSWlYb1gzbGd0blMzc3BDbTlaOFV3d1hEajlmclZsYmNnTlROUDJMSWJaMUlWNTItbGROOA?oc=5)
 

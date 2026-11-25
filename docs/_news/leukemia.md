@@ -3,7 +3,7 @@ layout: default
 title: "myeloid leukemia (leukemia) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about myeloid leukemia (leukemia). 1 articles, 5 related drugs."
+description: "Health news about myeloid leukemia (leukemia). 2 articles, 5 related drugs."
 permalink: /news/leukemia/
 last_modified_at: 2026-11-25
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-25
 ---
 
 <p class="key-answer" data-question="What news is there about myeloid leukemia (leukemia)?">
-<strong>myeloid leukemia (leukemia)</strong> currently has <strong>1 news articles</strong> and 5 related drugs.
+<strong>myeloid leukemia (leukemia)</strong> currently has <strong>2 news articles</strong> and 5 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,15 @@ This page brings together the latest health news about “myeloid leukemia” an
 </ul>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [First mutations on the path to AML may arise by age 20, study finds](https://news.google.com/rss/articles/CBMihgFBVV95cUxPdXEyUW1LTDg4SDliVXo2Q1docVRrcVhrZTlwODV4MzFHS1pOOEJNZVA3Z3pLa3ZlQ3kwd2k4Y2Y2WjNHR3h5b2tlcWdvUFFhcmZtMGRxWjlHc1hBR3FSd241VWhjWF9LMUJKeHFZQnNXMHVRTnhTWHNXUjhZbzljUElEaUZJUQ?oc=5)
+
+2026-11-24
+
+Source: [AllSci](https://news.google.com/rss/articles/CBMihgFBVV95cUxPdXEyUW1LTDg4SDliVXo2Q1docVRrcVhrZTlwODV4MzFHS1pOOEJNZVA3Z3pLa3ZlQ3kwd2k4Y2Y2WjNHR3h5b2tlcWdvUFFhcmZtMGRxWjlHc1hBR3FSd241VWhjWF9LMUJKeHFZQnNXMHVRTnhTWHNXUjhZbzljUElEaUZJUQ?oc=5)
+
+---
 
 ### [First mutations on the path to AML may arise by age 20, study finds](https://news.google.com/rss/articles/CBMihgFBVV95cUxPdXEyUW1LTDg4SDliVXo2Q1docVRrcVhrZTlwODV4MzFHS1pOOEJNZVA3Z3pLa3ZlQ3kwd2k4Y2Y2WjNHR3h5b2tlcWdvUFFhcmZtMGRxWjlHc1hBR3FSd241VWhjWF9LMUJKeHFZQnNXMHVRTnhTWHNXUjhZbzljUElEaUZJUQ?oc=5)
 

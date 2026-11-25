@@ -15,7 +15,7 @@ last_modified_at: 2026-11-25
 ---
 
 <p class="key-answer" data-question="What news is there about Albendazole?">
-<strong>Albendazole</strong> currently has <strong>163 news articles</strong>, with 1 predicted indications.
+<strong>Albendazole</strong> currently has <strong>175 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,13 +33,101 @@ This page combines the AI-predicted indications for Albendazole with the latest 
 <p><a href="{{ '/drugs/albendazole/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (163)
+## Related News (175)
+
+### [WHO congratulates India on administering over ten million doses of HPV vaccine - News On AIR](https://news.google.com/rss/articles/CBMipwFBVV95cUxQakVaZmRIRWE4TTdYZEhNdWxHWjRqOXVOTm1CVEhEM0pGUjc3R1JVR1g2WUtscU1FZDVFd3BmZ25LV3ZScHpLeWdMYjJRbXJ4YXU1bU1GbkxMWmQ0NS00YUk5dWVQWXBpQ2pDUDFuS3dXZjNLb3BRVHliNnlPN05PVzd0N3pDVGpXeGNnVWRfdTNINkluYmZtU0syNDBjallIdXBKVFI0RQ?oc=5)
+
+2026-11-25 <span class="news-indication-tag">cancer</span>
+
+Source: [News On AIR](https://news.google.com/rss/articles/CBMipwFBVV95cUxQakVaZmRIRWE4TTdYZEhNdWxHWjRqOXVOTm1CVEhEM0pGUjc3R1JVR1g2WUtscU1FZDVFd3BmZ25LV3ZScHpLeWdMYjJRbXJ4YXU1bU1GbkxMWmQ0NS00YUk5dWVQWXBpQ2pDUDFuS3dXZjNLb3BRVHliNnlPN05PVzd0N3pDVGpXeGNnVWRfdTNINkluYmZtU0syNDBjallIdXBKVFI0RQ?oc=5)
+
+---
+
+### [Morphea and SSc Both Linked to Higher Cancer Incidence](https://news.google.com/rss/articles/CBMirgFBVV95cUxQTzhJX05GNEVkX1pSSGtXUWJFb1hFZEVmQjVVTnplQ2h1WXpwV2lTYTNiTGZwTlRYZGZ6cG5fVU9fT05tQ3V3ekJ6cUVvam16RDctYk45cXFjS2Q1VmRSekFORnl1X2ZyZ2ROS3JULUNGYmpNY2lrT3I0MTl4NnJ1Qm5lSWpvQ200ajdyaFlLTE1SclJaWDFuOURhMHFJejhUTDdvY3MwaDcxX0NfYnc?oc=5)
+
+2026-11-25 <span class="news-indication-tag">cancer</span>
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMirgFBVV95cUxQTzhJX05GNEVkX1pSSGtXUWJFb1hFZEVmQjVVTnplQ2h1WXpwV2lTYTNiTGZwTlRYZGZ6cG5fVU9fT05tQ3V3ekJ6cUVvam16RDctYk45cXFjS2Q1VmRSekFORnl1X2ZyZ2ROS3JULUNGYmpNY2lrT3I0MTl4NnJ1Qm5lSWpvQ200ajdyaFlLTE1SclJaWDFuOURhMHFJejhUTDdvY3MwaDcxX0NfYnc?oc=5)
+
+---
+
+### [Opportunities and pitfalls of cell-free DNA fragmentomics as a liquid biopsy](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBEVGVuc3lZRXVfeVpVU0Z6YkNETnQwX3I3UjhkeG5GcWtIZjZsU3hYYXpfdUpuX1p4Rm15WkdSd0FmcDU5MDgwTEVTV1ZTbGcyQlJWZklWZnBTeU1uNEMw?oc=5)
+
+2026-11-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">lung cancer</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBEVGVuc3lZRXVfeVpVU0Z6YkNETnQwX3I3UjhkeG5GcWtIZjZsU3hYYXpfdUpuX1p4Rm15WkdSd0FmcDU5MDgwTEVTV1ZTbGcyQlJWZklWZnBTeU1uNEMw?oc=5)
+
+---
+
+### [Air pollution accelerates dementia by reprogramming brain's immune cells: study - The Hindu](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbHhaRnNWRWoxUE9rZTVfT1FZdndBODk5bUJUZmpvS3VpOUppWkRXV3Z6MnVEdWhhNVNzYVJIS1R0RmliVUlVNURLdHlnN2R4SG9FeWxHWnBSRUJTMXNyaVc3SWZnUmYzRWFCb3hDdDFSOFBOVnpUY25fY1NDeUhuSGgtWWJSdVB2ejdJRFcwdF9QNHhsbk5KTk9yWmppQW03dFJObWNETEJZTnI2WHFnbGx2dFZvTlY4MU1YVklEV0xQVHhlT1FoLUlCOUtvN292RHc3U9IB2wFBVV95cUxNcjBuY2g2QlpkWmhHUFI1TDFpSGhHbkJ5MDJnc01yNHpES25iVTlNaVZGTWJSd2hsSWJ4RTYtQ29BVVAxU040NG5USC1oQVRSOG9CTlpwQlN6R2FaUjdkbHdaRnlJVEtGdEIxODgzbFYxTzNpaGMxT0hHRjNzTjBVcGxXT1pBQ0xzQnUtN0l5Y294Zmxvbm5xRkYzQW9ULTJoZmI0ajFrQktMUXlfUjhrdjRaV01VR0xqRDkwV0hVa0V0cmpQUHdlTVBmVWFKQmN1c3RQTG14ZzZMdFU?oc=5)
+
+2026-11-25 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">alzheimer</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
+
+Source: [The Hindu](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbHhaRnNWRWoxUE9rZTVfT1FZdndBODk5bUJUZmpvS3VpOUppWkRXV3Z6MnVEdWhhNVNzYVJIS1R0RmliVUlVNURLdHlnN2R4SG9FeWxHWnBSRUJTMXNyaVc3SWZnUmYzRWFCb3hDdDFSOFBOVnpUY25fY1NDeUhuSGgtWWJSdVB2ejdJRFcwdF9QNHhsbk5KTk9yWmppQW03dFJObWNETEJZTnI2WHFnbGx2dFZvTlY4MU1YVklEV0xQVHhlT1FoLUlCOUtvN292RHc3U9IB2wFBVV95cUxNcjBuY2g2QlpkWmhHUFI1TDFpSGhHbkJ5MDJnc01yNHpES25iVTlNaVZGTWJSd2hsSWJ4RTYtQ29BVVAxU040NG5USC1oQVRSOG9CTlpwQlN6R2FaUjdkbHdaRnlJVEtGdEIxODgzbFYxTzNpaGMxT0hHRjNzTjBVcGxXT1pBQ0xzQnUtN0l5Y294Zmxvbm5xRkYzQW9ULTJoZmI0ajFrQktMUXlfUjhrdjRaV01VR0xqRDkwV0hVa0V0cmpQUHdlTVBmVWFKQmN1c3RQTG14ZzZMdFU?oc=5)
+
+---
+
+### [78-year-old musician with Alzheimer’s found 100 miles from home playing piano after mysterious disappeara - The Times of India](https://news.google.com/rss/articles/CBMiqgJBVV95cUxQZTZ6YmhlSFQ3THUtdWhtOWx1TklPclMyZ2VjX1owYkhYZjB4OEY2ZEpJMEhhTXBkRzRaZC16Q19BNWJQLVo5TE9vSVpaTkhwNERMY0ZLU3M1TEo1VVBUenA3S3NsSmpWUHRicnBTOWZnQTU3X2c2eDV6aGNqOWRNMEVmMC0temhIeHlTbWhJMnJnUThjWTR5UEFoLUlpNlpsUWRfMU9iZl9VR25KcWxvbW1Rd2ppY0dLeTRteDlIQmFNMHpCblpqUzFZZHF6cDJzWl9NWW8zcGNpOVhaUFptakI2NGxMTkR5YjZhWGxIRjhGU3dLdkotS1Z0TDVKS1R3Q2U0bzIteW42V0xoMC1tazlHbXNyc2hqeE1xWk0tN1FLN25sMGhJNnJ30gGvAkFVX3lxTE15QlZDdWx4SWJ0Y1ZtRktmVVhfVWZKRWF5NTVKYzlZM1RIQ25DcF9XdUNTSFJ0ZEhXMkV6TnNLc2xqUWdUenpOUGFYVDlHMkxOSGxzd0NSYTNhNzBocTdtRHJxV2Z5U1YwZ0VqNHVQc1V3elU2emJEVHVxOXZidkVyMktEbHhMX1JUWEN0RGdIaDhpS0c1eEh0OG44dVR1Qk9rWWJNOHBLdVpYeW5vQzNaSmtneGxXMHltQzRuLWFTcDkxUTlxREFiRzcyMlp6TlZqbzRFaWQ2aFpRRzdMdFV4V2gyUF9ER3E1cmo1Z0tVdVE2TVJHYlE4LXU1ZFdpTnNKaUNyU3JxckhGeTd3ZVBCQ3NLdVltajFvWlM2TTRLODlzYkF2dVZuNXdnUXJMZw?oc=5)
+
+2026-11-25 <span class="news-indication-tag">alzheimer</span>
+
+Source: [The Times of India](https://news.google.com/rss/articles/CBMiqgJBVV95cUxQZTZ6YmhlSFQ3THUtdWhtOWx1TklPclMyZ2VjX1owYkhYZjB4OEY2ZEpJMEhhTXBkRzRaZC16Q19BNWJQLVo5TE9vSVpaTkhwNERMY0ZLU3M1TEo1VVBUenA3S3NsSmpWUHRicnBTOWZnQTU3X2c2eDV6aGNqOWRNMEVmMC0temhIeHlTbWhJMnJnUThjWTR5UEFoLUlpNlpsUWRfMU9iZl9VR25KcWxvbW1Rd2ppY0dLeTRteDlIQmFNMHpCblpqUzFZZHF6cDJzWl9NWW8zcGNpOVhaUFptakI2NGxMTkR5YjZhWGxIRjhGU3dLdkotS1Z0TDVKS1R3Q2U0bzIteW42V0xoMC1tazlHbXNyc2hqeE1xWk0tN1FLN25sMGhJNnJ30gGvAkFVX3lxTE15QlZDdWx4SWJ0Y1ZtRktmVVhfVWZKRWF5NTVKYzlZM1RIQ25DcF9XdUNTSFJ0ZEhXMkV6TnNLc2xqUWdUenpOUGFYVDlHMkxOSGxzd0NSYTNhNzBocTdtRHJxV2Z5U1YwZ0VqNHVQc1V3elU2emJEVHVxOXZidkVyMktEbHhMX1JUWEN0RGdIaDhpS0c1eEh0OG44dVR1Qk9rWWJNOHBLdVpYeW5vQzNaSmtneGxXMHltQzRuLWFTcDkxUTlxREFiRzcyMlp6TlZqbzRFaWQ2aFpRRzdMdFV4V2gyUF9ER3E1cmo1Z0tVdVE2TVJHYlE4LXU1ZFdpTnNKaUNyU3JxckhGeTd3ZVBCQ3NLdVltajFvWlM2TTRLODlzYkF2dVZuNXdnUXJMZw?oc=5)
+
+---
+
+### [Novel oral kinase inhibitor CTX 439 suppresses cancer proliferation by disrupting DNA repair](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcVVJcjVKYzNzSmVtVFRvaGJJYzIwZ1paV0lsYTBlYUpYVDZ4MzJveE9ya3dKOW14YU5lZF9rdDBwVUZ2Tk1WYzNQdVpESVVmeVptS1RIaXRuVjZjTUVvYy1KZi0xS1pXTEoyT3VyZnNnVS11eDY2MzZvSmx1X0M4b1h2ZHo2eDNWTHJJMFQ5MDFyTnVaR3JzOFFadldZTmRHVXRFS0FGNmRvOUFFYUU2Nk01Y2xXUkZXaER1cjRlUGVrN0JDQ0EwQnlJd0p6RW02SVExUzloRQ?oc=5)
+
+2026-11-25 <span class="news-indication-tag">cancer</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcVVJcjVKYzNzSmVtVFRvaGJJYzIwZ1paV0lsYTBlYUpYVDZ4MzJveE9ya3dKOW14YU5lZF9rdDBwVUZ2Tk1WYzNQdVpESVVmeVptS1RIaXRuVjZjTUVvYy1KZi0xS1pXTEoyT3VyZnNnVS11eDY2MzZvSmx1X0M4b1h2ZHo2eDNWTHJJMFQ5MDFyTnVaR3JzOFFadldZTmRHVXRFS0FGNmRvOUFFYUU2Nk01Y2xXUkZXaER1cjRlUGVrN0JDQ0EwQnlJd0p6RW02SVExUzloRQ?oc=5)
+
+---
+
+### [Daraxonrasib-chemotherapy combination shows deep, durable responses in metastatic pancreatic cancer - Oncology Central](https://news.google.com/rss/articles/CBMizAFBVV95cUxOUnpoSmJUb1ZFN3YyMXNwNXZfU1FYVF9xa1hTTjZ2RlFkNFFPU3BtSi1SZ3lVV0FoNDUzUVl3LUJzZjZoY1NQdGdrS0pNMFVzZGNodXl6UHE1d1hTeXlKTmRUR2FPWFZoTXZscDFHN3JpWFM1aFVlam01RzhqMjk0elgydkd5dkNKeF9LbzNZdTZ0MGxhZ3hrSExwWVRHRmRRd2J3MlZFZVRjWmNlaExHc3Yza2lzMEgwbHRUZUVyeTEyUVQwZ2FhTVBxNDc?oc=5)
+
+2026-11-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">pancreatic cancer</span> <span class="news-indication-tag">pancreas cancer</span> <span class="news-indication-tag">pancreatic cancer</span>
+
+Source: [Oncology Central](https://news.google.com/rss/articles/CBMizAFBVV95cUxOUnpoSmJUb1ZFN3YyMXNwNXZfU1FYVF9xa1hTTjZ2RlFkNFFPU3BtSi1SZ3lVV0FoNDUzUVl3LUJzZjZoY1NQdGdrS0pNMFVzZGNodXl6UHE1d1hTeXlKTmRUR2FPWFZoTXZscDFHN3JpWFM1aFVlam01RzhqMjk0elgydkd5dkNKeF9LbzNZdTZ0MGxhZ3hrSExwWVRHRmRRd2J3MlZFZVRjWmNlaExHc3Yza2lzMEgwbHRUZUVyeTEyUVQwZ2FhTVBxNDc?oc=5)
+
+---
+
+### [New biosynthetic blueprint could make cancer drug taxol cheaper](https://news.google.com/rss/articles/CBMisAFBVV95cUxOck0wXzJ2N1p6bVNPR25WUUpyZWp1RGFreUdjdHFFZ2VsSzRlWG1wbG95a3NMVmN4MG1ORVhjd3JLbkVkM3c3alUxVnFzZTlUOHlmTWctNElyTTdjWnlJUWlFdzE5akxpZVQ1a3dpSnkzcDZNY2x0X0Rac1lHWXQxSmlrRW9FLVJSN0xydk82MVdWQmJxdTRsWV83R2hjdlFLRTduS01tcEl1V2ZHUkVuTQ?oc=5)
+
+2026-11-25 <span class="news-drug-tag">PACLITAXEL</span> <span class="news-drug-tag">Paclitaxel</span> <span class="news-indication-tag">cancer</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMisAFBVV95cUxOck0wXzJ2N1p6bVNPR25WUUpyZWp1RGFreUdjdHFFZ2VsSzRlWG1wbG95a3NMVmN4MG1ORVhjd3JLbkVkM3c3alUxVnFzZTlUOHlmTWctNElyTTdjWnlJUWlFdzE5akxpZVQ1a3dpSnkzcDZNY2x0X0Rac1lHWXQxSmlrRW9FLVJSN0xydk82MVdWQmJxdTRsWV83R2hjdlFLRTduS01tcEl1V2ZHUkVuTQ?oc=5)
+
+---
+
+### [Understanding Lung Cancer beyond smoking - The New Indian Express](https://news.google.com/rss/articles/CBMipAFBVV95cUxNZ1k3eGp0MWVoWUYzVm5DWmhocXRzNEQwV3c1UlBjLVJIOXRmQkp2UVNPdC1vY29HYS1sVWpMRk0xby1ISl9KVkJhUHAxdU1XbDVvRXg5YzlYNkt4NEs1ZVEwOFJ3RDVsLUF5bUlwdUpzSnQtbHlIQU9qQnJTejhWQmhFQTY0QnRFclJkVkxtUm5xcWZHMEkzNE80Yzl4UVJRVVhmWNIBsgFBVV95cUxQVzNjaDJVcEZ2cFFKdDFhVkRWOW1OUGVrMVpLeGFpaGt6cXd2UVIwQ2I4RnlTWlFhcUlOTjVRQjUwM1h3dHg2N2R6aDdrVXBZX0k3eWF4RzQ1VzAtM1VTeUJ6WnNJcEhBazduOE1rTjFSUEQ0YVhPRFU3dXV4VTgtWWZnX1dWM1JvQm1nQWQ3VUVVZnc3S1B1V2lKN3M3emY2eWpOR1k2VlRDb2pxanc1bTN3?oc=5)
+
+2026-11-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">lung cancer</span>
+
+Source: [The New Indian Express](https://news.google.com/rss/articles/CBMipAFBVV95cUxNZ1k3eGp0MWVoWUYzVm5DWmhocXRzNEQwV3c1UlBjLVJIOXRmQkp2UVNPdC1vY29HYS1sVWpMRk0xby1ISl9KVkJhUHAxdU1XbDVvRXg5YzlYNkt4NEs1ZVEwOFJ3RDVsLUF5bUlwdUpzSnQtbHlIQU9qQnJTejhWQmhFQTY0QnRFclJkVkxtUm5xcWZHMEkzNE80Yzl4UVJRVVhmWNIBsgFBVV95cUxQVzNjaDJVcEZ2cFFKdDFhVkRWOW1OUGVrMVpLeGFpaGt6cXd2UVIwQ2I4RnlTWlFhcUlOTjVRQjUwM1h3dHg2N2R6aDdrVXBZX0k3eWF4RzQ1VzAtM1VTeUJ6WnNJcEhBazduOE1rTjFSUEQ0YVhPRFU3dXV4VTgtWWZnX1dWM1JvQm1nQWQ3VUVVZnc3S1B1V2lKN3M3emY2eWpOR1k2VlRDb2pxanc1bTN3?oc=5)
+
+---
 
 ### [Siddhartha Yadav: New Class of Partially Functional BRCA2 Variants is Associated with Moderate Breast Cancer Risk](https://news.google.com/rss/articles/CBMidkFVX3lxTFBPOHZfV0wwemVTNl9TVVA0MldKOG5xa0JibXRMRl9SOUxmenAyRG5rZFRNTnd0NTNHX2JramluVTdVTldRczBaY1hJQ0ltbWdiWldUUDNZdDE5QjhTUUM1b1pZZDV5cjJCcjNwNnNtWFlZcmdqWVE?oc=5)
 
 2026-11-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
 
 Source: [Oncodaily](https://news.google.com/rss/articles/CBMidkFVX3lxTFBPOHZfV0wwemVTNl9TVVA0MldKOG5xa0JibXRMRl9SOUxmenAyRG5rZFRNTnd0NTNHX2JramluVTdVTldRczBaY1hJQ0ltbWdiWldUUDNZdDE5QjhTUUM1b1pZZDV5cjJCcjNwNnNtWFlZcmdqWVE?oc=5)
+
+---
+
+### [First-of-its-kind trial tests population-wide genetic cancer screening for women](https://news.google.com/rss/articles/CBMixwFBVV95cUxOOWJyTW5VSTlzQ1ZOWllMSkxUeEk1d0JGUkNqcW1scUtKc3gyY0xvRHB3b2dpZC0zXzJsTDBEbTdxY0lZTzVxUmNzTDl1M3hUNno1NkdqcTd4YTFhLVNnQ0ZJWExIQVYzSTNzY3JLOWVGRlp3ckx6TmVKZXpyamxuell2YWhYMlBZYUpINlVkOTBReDdwRDI1dHFGNmV6emJOMWpQUG85cFJseThfX0VVYzl1cVhmZ3l5SFRoN1k5T0tpdWl4QXdn?oc=5)
+
+2026-11-24 <span class="news-indication-tag">cancer</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMixwFBVV95cUxOOWJyTW5VSTlzQ1ZOWllMSkxUeEk1d0JGUkNqcW1scUtKc3gyY0xvRHB3b2dpZC0zXzJsTDBEbTdxY0lZTzVxUmNzTDl1M3hUNno1NkdqcTd4YTFhLVNnQ0ZJWExIQVYzSTNzY3JLOWVGRlp3ckx6TmVKZXpyamxuell2YWhYMlBZYUpINlVkOTBReDdwRDI1dHFGNmV6emJOMWpQUG85cFJseThfX0VVYzl1cVhmZ3l5SFRoN1k5T0tpdWl4QXdn?oc=5)
+
+---
+
+### [First mutations on the path to AML may arise by age 20, study finds](https://news.google.com/rss/articles/CBMihgFBVV95cUxPdXEyUW1LTDg4SDliVXo2Q1docVRrcVhrZTlwODV4MzFHS1pOOEJNZVA3Z3pLa3ZlQ3kwd2k4Y2Y2WjNHR3h5b2tlcWdvUFFhcmZtMGRxWjlHc1hBR3FSd241VWhjWF9LMUJKeHFZQnNXMHVRTnhTWHNXUjhZbzljUElEaUZJUQ?oc=5)
+
+2026-11-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">myeloid leukemia</span> <span class="news-indication-tag">blood cancer</span> <span class="news-indication-tag">myeloid leukemia</span> <span class="news-indication-tag">myeloid leukemia</span> <span class="news-indication-tag">leukemia</span> <span class="news-indication-tag">myeloid leukemia</span>
+
+Source: [AllSci](https://news.google.com/rss/articles/CBMihgFBVV95cUxPdXEyUW1LTDg4SDliVXo2Q1docVRrcVhrZTlwODV4MzFHS1pOOEJNZVA3Z3pLa3ZlQ3kwd2k4Y2Y2WjNHR3h5b2tlcWdvUFFhcmZtMGRxWjlHc1hBR3FSd241VWhjWF9LMUJKeHFZQnNXMHVRTnhTWHNXUjhZbzljUElEaUZJUQ?oc=5)
 
 ---
 
@@ -56,6 +144,14 @@ Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aMWJMQ05XN2
 2026-11-24 <span class="news-indication-tag">cancer</span>
 
 Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE91SjgxdEFEdGZDdm92N1YtclNPMklxN3piZ2ZyUC1JaTNiVnYzbEhhS0FYMTNPYUYyUnVkQkJHS0wyM08yWkt4bnM5UXBDaTBibFJYQi1Vb2o2MXotZnZJ?oc=5)
+
+---
+
+### [PSA Screening at 20 Years: Fewer Deaths, but More Overdiagnosis - The American Journal of Managed Care](https://news.google.com/rss/articles/CBMikAFBVV95cUxPMUdMaGZfSXFsOVFaQmZDVWFFYWtLLVlBOGZWVTJCM1ZJSmtNdWp2ZDY3UlVlOUhLaXVWaXJLT1hrdWxqb2pyS2pPNjFPSDg1SlZ5bUVFTk5pckZMUk1uNHlyVmQ2dGowUlo0MTc4bFg0REN5akwxVnlHYkFzREE2QU1EVUpBX0VldU14U2thaVk?oc=5)
+
+2026-11-24 <span class="news-indication-tag">cancer</span>
+
+Source: [The American Journal of Managed Care](https://news.google.com/rss/articles/CBMikAFBVV95cUxPMUdMaGZfSXFsOVFaQmZDVWFFYWtLLVlBOGZWVTJCM1ZJSmtNdWp2ZDY3UlVlOUhLaXVWaXJLT1hrdWxqb2pyS2pPNjFPSDg1SlZ5bUVFTk5pckZMUk1uNHlyVmQ2dGowUlo0MTc4bFg0REN5akwxVnlHYkFzREE2QU1EVUpBX0VldU14U2thaVk?oc=5)
 
 ---
 
@@ -123,6 +219,14 @@ Source: [Inshorts](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc1JTRmU1
 
 ---
 
+### [AI breast cancer screening trial launches in England with 7 lakh women](https://news.google.com/rss/articles/CBMigAFBVV95cUxQTnVzR1R4T0FVSjNUVXk3RGVhZE0yWnRhWG9Fd0pWZHFXeHU4em1KOW9tRjZ6YVZZWUtmNFFYa3lVeVNUV0N4ZjdWVDNvMkhxZGpQdkhnOUVRdDlJd2VXczdyOC1fRU93c0I1MUNTOGhwR0RVSDl0S0NkbG9BY1J3Nw?oc=5)
+
+2026-11-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+
+Source: [YourStory.com](https://news.google.com/rss/articles/CBMigAFBVV95cUxQTnVzR1R4T0FVSjNUVXk3RGVhZE0yWnRhWG9Fd0pWZHFXeHU4em1KOW9tRjZ6YVZZWUtmNFFYa3lVeVNUV0N4ZjdWVDNvMkhxZGpQdkhnOUVRdDlJd2VXczdyOC1fRU93c0I1MUNTOGhwR0RVSDl0S0NkbG9BY1J3Nw?oc=5)
+
+---
+
 ### [Pancreatic Cancer Awareness Month: Could yellow eyes, unexplained weight loss and abdominal pain be warning...](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVTFzYjV2NWlxSmVieDh6S2U1RGhjby1EbE1FUENGaDh2ZmpxNElHVUJmdnQ2U3JLQzVEQ2s5Nm1KUTF0MFVYdHJnNW9zXzlEUk1xeVk4b1BnNDZfRVRGczhQMVVSd2dVcVF5R2xIWF90ZkRiWUY0UTBmQUdOelJTRVNZS1lKSFItd1FYX1hRSUkxWGxWVGFIaGo1b2JGWTMxR29STWZMNHZhVUFVZFNac3hFa0V3dXZNTm5iNkhqUUlLampWazNPZ2RGWGkzQ3kyWTFnVUloYjFBenI1VFRkOU42cG1namxUX2hoY0MyQdIB9AFBVV95cUxPREJGSVhleEhaTjRxSWpoVFBRYlBZTS11ZmhkaG03NTV3bHNaZC1zRUlRUEZWb1Uyam0yTG9ZckRvS2gtZGJndU4wN3RUN2wzN3JXcGhxTDRJY2JkSUdnZkltYnJ3NzF4UEJRTnlRQmVTZW1scE51WGtCQnNVWlpfRXRfS1lBUFpmZmo0WWZYVHZ0ZUVBY000N2dEaDMxaDhaWm9SQUdJMFFndkduLXYwbl9MTlRJUENxcFdxOWdpVUphcXhLdDRPZ3RrejRtUEZ2MmhySFJoZWtoMEs4OFhqdGlCTnpma0NUZ01Kd0JqOGUxc3R4?oc=5)
 
 2026-11-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">pancreatic cancer</span> <span class="news-indication-tag">pancreatic cancer</span>
@@ -152,14 +256,6 @@ Source: [News-Medical](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQakhh
 2026-11-24 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">alzheimer</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
 
 Source: [News-Medical](https://news.google.com/rss/articles/CBMitAFBVV95cUxQeVdCN2tXbzZJU2FubWduUGN6dTVsQXdIVUlsU1pFWHZxdzlmb1UtdVNzVXZFbHF4elNNanIzMXdKV0ppb2x5Rm52ZUlpUld4VkIwZm9uazNBMlVZUGlkdmViQm84cmFGWHB4S1BfVW9ZdGtjTVhhX2FVN2YxdTNEbHVNRjdfYlZyWGhDTm9mM2pEdVc5ZzV4bmtReUwzWU16SjY0eWpibExuSmk3Q01uLU9LQnM?oc=5)
-
----
-
-### [WHO congratulates India on administering over ten million doses of HPV vaccine - News On AIR](https://news.google.com/rss/articles/CBMipwFBVV95cUxQakVaZmRIRWE4TTdYZEhNdWxHWjRqOXVOTm1CVEhEM0pGUjc3R1JVR1g2WUtscU1FZDVFd3BmZ25LV3ZScHpLeWdMYjJRbXJ4YXU1bU1GbkxMWmQ0NS00YUk5dWVQWXBpQ2pDUDFuS3dXZjNLb3BRVHliNnlPN05PVzd0N3pDVGpXeGNnVWRfdTNINkluYmZtU0syNDBjallIdXBKVFI0RQ?oc=5)
-
-2026-11-24 <span class="news-indication-tag">cancer</span>
-
-Source: [News On AIR](https://news.google.com/rss/articles/CBMipwFBVV95cUxQakVaZmRIRWE4TTdYZEhNdWxHWjRqOXVOTm1CVEhEM0pGUjc3R1JVR1g2WUtscU1FZDVFd3BmZ25LV3ZScHpLeWdMYjJRbXJ4YXU1bU1GbkxMWmQ0NS00YUk5dWVQWXBpQ2pDUDFuS3dXZjNLb3BRVHliNnlPN05PVzd0N3pDVGpXeGNnVWRfdTNINkluYmZtU0syNDBjallIdXBKVFI0RQ?oc=5)
 
 ---
 

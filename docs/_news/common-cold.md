@@ -3,7 +3,7 @@ layout: default
 title: "cold (common cold) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about cold (common cold). 11 articles, 1 related drugs."
+description: "Health news about cold (common cold). 12 articles, 1 related drugs."
 permalink: /news/common-cold/
 last_modified_at: 2026-11-25
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-25
 ---
 
 <p class="key-answer" data-question="What news is there about cold (common cold)?">
-<strong>cold (common cold)</strong> currently has <strong>11 news articles</strong> and 1 related drugs.
+<strong>cold (common cold)</strong> currently has <strong>12 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page brings together the latest health news about “cold” and lists the 
 </ul>
 </div>
 
-## Related News (11)
+## Related News (12)
+
+### [As Cold Winds Blow, Knees Ache... '5 Ways' to Manage Arthritis in Winter](https://news.google.com/rss/articles/CBMigAFBVV95cUxOa1FNZUktZVM5eFZoUUdKVTgyd2d0REg0b29YWXFjVloyWFV6Z01SbW95QWhPajRhZy1GRjRtY0Y5N1JFc2psOVFwQjdzU0JTcGJWSmtIWjdrYkdmWDJtT085ZGZjVnNrZFFWcmJsMzdrSFNzcV8zTlRETDlTQWpldg?oc=5)
+
+2026-11-24
+
+Source: [스포츠조선](https://news.google.com/rss/articles/CBMigAFBVV95cUxOa1FNZUktZVM5eFZoUUdKVTgyd2d0REg0b29YWXFjVloyWFV6Z01SbW95QWhPajRhZy1GRjRtY0Y5N1JFc2psOVFwQjdzU0JTcGJWSmtIWjdrYkdmWDJtT085ZGZjVnNrZFFWcmJsMzdrSFNzcV8zTlRETDlTQWpldg?oc=5)
+
+---
 
 ### [Mercy Health expert offers tips for protecting bone and joint health in cold weather](https://news.google.com/rss/articles/CBMixwFBVV95cUxNYjJXQV9BdGoyZW1qUkxsV2c4Unk4ZTFCN1BPbUFSTzVtM3k3aVBzU3FaZW5teGdfRm5UamNQNXZ5ZzFOVGE1b1ZpZW00UHg1eURINEhDcTNRQ1pzYTNpTlVwWE5DUmYtTkk4ZFQyUG5QNFhuQXdTRF93MjJsaU9SZnJIaUZMRzR6WEVYN1hVcXFJb1JoZHlhZ1F3a0U2RkRPdnZQN2czMk80ZWJsVDZ2MlNKUDJZMHFLNHRKdDJWVHhKV2hnUlVJ0gHbAUFVX3lxTE1OenVQSjc3bWp0Q3R0Mm1IUFNUSkowOF82Rjl6TmpnNUlfdlBxWjdmYmlxRXZMRWRCd1FVSkc4c3p5OURGcUwxbEpkakNYYmY1SDN1clh0VnZJcERXbGpnVENueV9kekctYUJBbGxLdnBwTTlIZWYwMmh2a0oxaWY1V3V3b0haS1BhUzlRcG9PcmJhM2pDVmtTcDZfSmJ4cWZoNHc3cF91Z2VXM3FWVEozSjVTNEVOUGhja3BWOGRrUC1yS2FnallJemloU2Y5OFpHQ05mWFN3dWZyQQ?oc=5)
 

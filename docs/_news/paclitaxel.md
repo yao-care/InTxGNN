@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Paclitaxel. 2 predicted indications."
 permalink: /news/paclitaxel/
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 ---
 
 # Paclitaxel News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-24
 ---
 
 <p class="key-answer" data-question="What news is there about Paclitaxel?">
-<strong>Paclitaxel</strong> currently has <strong>4 news articles</strong>, with 2 predicted indications.
+<strong>Paclitaxel</strong> currently has <strong>5 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,15 @@ This page combines the AI-predicted indications for Paclitaxel with the latest h
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (5)
+
+### [New biosynthetic blueprint could make cancer drug taxol cheaper](https://news.google.com/rss/articles/CBMisAFBVV95cUxOck0wXzJ2N1p6bVNPR25WUUpyZWp1RGFreUdjdHFFZ2VsSzRlWG1wbG95a3NMVmN4MG1ORVhjd3JLbkVkM3c3alUxVnFzZTlUOHlmTWctNElyTTdjWnlJUWlFdzE5akxpZVQ1a3dpSnkzcDZNY2x0X0Rac1lHWXQxSmlrRW9FLVJSN0xydk82MVdWQmJxdTRsWV83R2hjdlFLRTduS01tcEl1V2ZHUkVuTQ?oc=5)
+
+2026-11-25 <span class="news-drug-tag">PACLITAXEL</span> <span class="news-drug-tag">Paclitaxel</span> <span class="news-indication-tag">cancer</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMisAFBVV95cUxOck0wXzJ2N1p6bVNPR25WUUpyZWp1RGFreUdjdHFFZ2VsSzRlWG1wbG95a3NMVmN4MG1ORVhjd3JLbkVkM3c3alUxVnFzZTlUOHlmTWctNElyTTdjWnlJUWlFdzE5akxpZVQ1a3dpSnkzcDZNY2x0X0Rac1lHWXQxSmlrRW9FLVJSN0xydk82MVdWQmJxdTRsWV83R2hjdlFLRTduS01tcEl1V2ZHUkVuTQ?oc=5)
+
+---
 
 ### [Common Cancer Drug Could Be Made In Tobacco Plants](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeVVXQ3A4N1IzSU96S0haWHlQZFlUNGo0Njh3OUJOUko2SGdUZ3pETklWdDk4UDc5Mzg1cVpCRFZWbXpKeFhxRm9kZTJxZXBXekdOUUZEMXRwVWx6WlV6RUtva0FYaVlxYV9XdkZJTFlBS01iN29TY3dSTV9ra21DMFNwREZSNUFHUFViR3pCaW5MOExVQnBKSjhwWlk5TDQwOEJtYzlCZEtZM0k?oc=5)
 
