@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Sotalol. 6 predicted indications."
 permalink: /news/sotalol/
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 ---
 
 # Sotalol News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-24
 ---
 
 <p class="key-answer" data-question="What news is there about Sotalol?">
-<strong>Sotalol</strong> currently has <strong>16 news articles</strong>, with 6 predicted indications.
+<strong>Sotalol</strong> currently has <strong>17 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,15 @@ This page combines the AI-predicted indications for Sotalol with the latest heal
 <p><a href="{{ '/drugs/sotalol/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (16)
+## Related News (17)
+
+### [Your heart disease risk may start building decades earlier than you think](https://news.google.com/rss/articles/CBMivgFBVV95cUxOTWIxaEFrUGw3V3MtUFV6WDBjNEFtTHA1eWRXaEhRRXVneWs3M2EyMDdLTnJXc1BMWTQ5ckZrSXJ3U0JlMWlObWFaZG9qOTRvc1NrZzM5YzhoUzhGcXd6VE5yWndFRFNvU3ppcFlxRnNLRm9INFhZVGd6NkZvRF90b3pLNk81Wm5paC1IeFNzZWs4ZktiMUVWTW52SjBkbkZwNjJHcWNVdXlXWkdZcGtKVTBUWlZ6eDZDWndrMUx3?oc=5)
+
+2026-11-24 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMivgFBVV95cUxOTWIxaEFrUGw3V3MtUFV6WDBjNEFtTHA1eWRXaEhRRXVneWs3M2EyMDdLTnJXc1BMWTQ5ckZrSXJ3U0JlMWlObWFaZG9qOTRvc1NrZzM5YzhoUzhGcXd6VE5yWndFRFNvU3ppcFlxRnNLRm9INFhZVGd6NkZvRF90b3pLNk81Wm5paC1IeFNzZWs4ZktiMUVWTW52SjBkbkZwNjJHcWNVdXlXWkdZcGtKVTBUWlZ6eDZDWndrMUx3?oc=5)
+
+---
 
 ### [From slurred speech to an uneven smile: Doctor shares mini-stroke warning signs and when to call an ambulance | Health - Hindustan Times](https://news.google.com/rss/articles/CBMiiAJBVV95cUxQbTFXblJlTTFjQ1BPNWd2UVlZMlZqY0EzNjBQdUdkcVE3UWw3MFNEZTAyMURTS3h4Wmw3bFhiTDFtZUYwdHBESGtzbm12cG5fVUEwUGpPTXRjRGhGSkYxbHQwQUxWYWhfYXp2a1VwSHdaTHFnQWFHWGplazZlZExYLVJSbmFPRGRfZTdrY0Q1OWR2Q21tOHpadlRsTC05QWN4eUMyYTRQdHlqdHJpd2ZsM1Noa2duX3RQQkM0X1pjZXBVR2xhY090Z3habFVvZXJlY2tWLTRweHFGWXZYbmtfTndkSldkck5VV2V0Z291cVZXVWhPcGp2TGpZblNURmRTWVgyYjk5U03SAY4CQVVfeXFMTjRqQk94bDlSZEt4cjJjYmI4SjdWRzQtWjJMWnVTY1hadTdLYVN1SmRVVEFtdWl0UG4wMTBxUlBWb2R1TVlUSjBjS3VUbHVGN1lNbFZIRHZ4WXVRbzJqVTk3Z21JYzNaOEVnZF9OY0VjaFRiRUU2b05UYWYyVTFsdG56S2M1N1M5UkQ2N1ZXaDNxTnhjREJaZDhQQ05VRTQtX3hyVFhWLU1YU0FzckJTYS1jZzhPdU96RkhjU2Z1M0RXdmxsRHZXLWFsTUEyVVNyYzk1Zk5DQ3FsNEctZ2pueVpaZHZkQXdtejBnUW5zZ0s4REphTlVtRG5kVXA2NlJtVGpwRmJIeVJtQk5FNXhn?oc=5)
 

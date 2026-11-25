@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Iron. 5 predicted indications."
 permalink: /news/iron/
-last_modified_at: 2026-11-23
+last_modified_at: 2026-11-25
 ---
 
 # Iron News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-23
 ---
 
 <p class="key-answer" data-question="What news is there about Iron?">
-<strong>Iron</strong> currently has <strong>7 news articles</strong>, with 5 predicted indications.
+<strong>Iron</strong> currently has <strong>8 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,15 @@ This page combines the AI-predicted indications for Iron with the latest health 
 <p><a href="{{ '/drugs/iron/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (7)
+## Related News (8)
+
+### [Feeling tired and losing your hair? You might have low iron - even if you've tested 'normal' before.](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOYll1dWczRHFtQk02ZjlieGNuNm9GUHcxUHBPRTdpQkgtMVhBRzhSZkU1c2JaSU0yMU1Wdm5xMjg2M2YxaUdFUGI5Z2dYVTExTmI1OVEtV3E3MTR1Y3BmcEZKdjk4MXM5dlpTMGFtLUp0VFJfcTJIaXhUV3d5TTFnZ2FPNnMyUFVfOGxEdlczRjRVcnRSTHBmRzkzN05YU0ZXTkp1bWpoeWppYnhRdHdSTkJwS1JSY1dQT2dBd2kwdndXTDg3aEZzMGZHUzJBUjUxazZPcnB4dHdid0FFU3J4NmNTSQ?oc=5)
+
+2026-11-24 <span class="news-drug-tag">IRON</span> <span class="news-drug-tag">Iron</span>
+
+Source: [Morningstar](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOYll1dWczRHFtQk02ZjlieGNuNm9GUHcxUHBPRTdpQkgtMVhBRzhSZkU1c2JaSU0yMU1Wdm5xMjg2M2YxaUdFUGI5Z2dYVTExTmI1OVEtV3E3MTR1Y3BmcEZKdjk4MXM5dlpTMGFtLUp0VFJfcTJIaXhUV3d5TTFnZ2FPNnMyUFVfOGxEdlczRjRVcnRSTHBmRzkzN05YU0ZXTkp1bWpoeWppYnhRdHdSTkJwS1JSY1dQT2dBd2kwdndXTDg3aEZzMGZHUzJBUjUxazZPcnB4dHdid0FFU3J4NmNTSQ?oc=5)
+
+---
 
 ### [Association between iron status and gallstone disease: a systematic review and meta-analysis](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ya3lmX21rUlp3R3o1WWx0THgxZkE3dUtDaUZ3OElBaEhfV3hwWXc2OXNvLXdnLTh1T2JUN0xHN2ViSlJhQTY1Z0xjUXNmTzhUREdJTGgwVS1HTHhoa1VV?oc=5)
 

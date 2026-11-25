@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Caffeine. 8 predicted indications."
 permalink: /news/caffeine/
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 ---
 
 # Caffeine News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-24
 ---
 
 <p class="key-answer" data-question="What news is there about Caffeine?">
-<strong>Caffeine</strong> currently has <strong>2 news articles</strong>, with 8 predicted indications.
+<strong>Caffeine</strong> currently has <strong>3 news articles</strong>, with 8 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,13 +40,21 @@ This page combines the AI-predicted indications for Caffeine with the latest hea
 <p><a href="{{ '/drugs/caffeine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (3)
 
 ### [The Surprising Link Between Sleep Deprivation, Memory, & Caffeine](https://news.google.com/rss/articles/CBMioAFBVV95cUxQeUlpTHczUkloTVFGQ19aeG1FOWJaRkV5ZTlyQ1loLWNRMUVycmhMbUotckZ3cnZxYnNXNE9ZZWJ3ZWdqZ014emdXNEI0cTNtTkNDQXRuNmVFbEd5bUpCLTlhVTlLWjlJZE9qQTd3R2xEcDllUmIwWk4tY1VuS096UUUyOFZJdzkzb1hQcU1ScFhYelpEVnBxX04wR2RjUFNX?oc=5)
 
 2026-11-24 <span class="news-drug-tag">Caffeine</span> <span class="news-drug-tag">CAFFEINE</span>
 
 Source: [Yahoo](https://news.google.com/rss/articles/CBMioAFBVV95cUxQeUlpTHczUkloTVFGQ19aeG1FOWJaRkV5ZTlyQ1loLWNRMUVycmhMbUotckZ3cnZxYnNXNE9ZZWJ3ZWdqZ014emdXNEI0cTNtTkNDQXRuNmVFbEd5bUpCLTlhVTlLWjlJZE9qQTd3R2xEcDllUmIwWk4tY1VuS096UUUyOFZJdzkzb1hQcU1ScFhYelpEVnBxX04wR2RjUFNX?oc=5)
+
+---
+
+### [Not getting enough sleep? Here's how it's affecting your memory - Medical Xpress](https://news.google.com/rss/articles/CBMibEFVX3lxTE42d2tXejZBd2Zsa19qc3h1S0s0UHVfMTRjM2Z4d04xNExINV9yZWdyX3BpSmw1WUs1YXlQaC0zUVA3MFVQTVBqVE9LTXFJenlud1JJeEwxZFp6NUl6X1NTbnE0X1kyTXZfQUt0WA?oc=5)
+
+2026-11-23 <span class="news-drug-tag">Caffeine</span> <span class="news-drug-tag">CAFFEINE</span>
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMibEFVX3lxTE42d2tXejZBd2Zsa19qc3h1S0s0UHVfMTRjM2Z4d04xNExINV9yZWdyX3BpSmw1WUs1YXlQaC0zUVA3MFVQTVBqVE9LTXFJenlud1JJeEwxZFp6NUl6X1NTbnE0X1kyTXZfQUt0WA?oc=5)
 
 ---
 

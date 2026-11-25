@@ -3,9 +3,9 @@ layout: default
 title: "dementia (alzheimer) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about dementia (alzheimer). 16 articles, 8 related drugs."
+description: "Health news about dementia (alzheimer). 17 articles, 8 related drugs."
 permalink: /news/alzheimer/
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 ---
 
 # dementia (alzheimer) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-24
 ---
 
 <p class="key-answer" data-question="What news is there about dementia (alzheimer)?">
-<strong>dementia (alzheimer)</strong> currently has <strong>16 news articles</strong> and 8 related drugs.
+<strong>dementia (alzheimer)</strong> currently has <strong>17 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,15 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (16)
+## Related News (17)
+
+### [Air Pollution May Trigger Dementia by Reprogramming Brain’s Immune Cells: Study - Deccan Chronicle](https://news.google.com/rss/articles/CBMixgFBVV95cUxON1ViNm9CN1ZkR0RYcjlWdHVhNjlvZHFzQUpJQTdYaktHdjd1OGlmU2k0ZVFoWDdKRTZhY3RqMHc3QVZoaU1SRXRnMHdBUlBha1hWT3RzdzhqRk5ueklEYXF2WE5JLUVpaVVuLUlRX2IxZWpOdEpJTGMxYjNvOHRoYlZmeGNiMW5IUW5tTGJEQm5nSVlFcVdnWnJ5MUQ2MUtXaHlOTkVjVk1Sd2hMQWFYWjlJRHZUWXdIbGNuSVpxZWVNbUJBSEHSAcsBQVVfeXFMT1kwNHJzVl80NnoyaEhCNlFLa002eGc4RjE2bkdOTDBpdnd5SjJfSmp3ZmpmaUs3eWtWYmtEOGxBV0NUUHRvZUhBYUZUTUtJWkFQQTJVcFd5eWRyWjBpOTJhcGRBekJxSnBmZVlveHYyQmd2bGRyY3ZNMUR4THNHNFhzcjZ0MjNuN2tkRU5VTHplZkRFWnVKallaUnRLX2h3TEVfWFhQU3RZVFVXNUxoZElsZ1Y2Q203dHpLcElfS09MejRRemU0N1JiWVE?oc=5)
+
+2026-11-24
+
+Source: [Deccan Chronicle](https://news.google.com/rss/articles/CBMixgFBVV95cUxON1ViNm9CN1ZkR0RYcjlWdHVhNjlvZHFzQUpJQTdYaktHdjd1OGlmU2k0ZVFoWDdKRTZhY3RqMHc3QVZoaU1SRXRnMHdBUlBha1hWT3RzdzhqRk5ueklEYXF2WE5JLUVpaVVuLUlRX2IxZWpOdEpJTGMxYjNvOHRoYlZmeGNiMW5IUW5tTGJEQm5nSVlFcVdnWnJ5MUQ2MUtXaHlOTkVjVk1Sd2hMQWFYWjlJRHZUWXdIbGNuSVpxZWVNbUJBSEHSAcsBQVVfeXFMT1kwNHJzVl80NnoyaEhCNlFLa002eGc4RjE2bkdOTDBpdnd5SjJfSmp3ZmpmaUs3eWtWYmtEOGxBV0NUUHRvZUhBYUZUTUtJWkFQQTJVcFd5eWRyWjBpOTJhcGRBekJxSnBmZVlveHYyQmd2bGRyY3ZNMUR4THNHNFhzcjZ0MjNuN2tkRU5VTHplZkRFWnVKallaUnRLX2h3TEVfWFhQU3RZVFVXNUxoZElsZ1Y2Q203dHpLcElfS09MejRRemU0N1JiWVE?oc=5)
+
+---
 
 ### [Air pollution may damage brain immunity and increase dementia risk](https://news.google.com/rss/articles/CBMitAFBVV95cUxQeVdCN2tXbzZJU2FubWduUGN6dTVsQXdIVUlsU1pFWHZxdzlmb1UtdVNzVXZFbHF4elNNanIzMXdKV0ppb2x5Rm52ZUlpUld4VkIwZm9uazNBMlVZUGlkdmViQm84cmFGWHB4S1BfVW9ZdGtjTVhhX2FVN2YxdTNEbHVNRjdfYlZyWGhDTm9mM2pEdVc5ZzV4bmtReUwzWU16SjY0eWpibExuSmk3Q01uLU9LQnM?oc=5)
 
