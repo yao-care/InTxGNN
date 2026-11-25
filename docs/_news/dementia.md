@@ -3,9 +3,9 @@ layout: default
 title: "alzheimer (dementia) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about alzheimer (dementia). 35 articles, 8 related drugs."
+description: "Health news about alzheimer (dementia). 37 articles, 8 related drugs."
 permalink: /news/dementia/
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 ---
 
 # alzheimer (dementia) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-24
 ---
 
 <p class="key-answer" data-question="What news is there about alzheimer (dementia)?">
-<strong>alzheimer (dementia)</strong> currently has <strong>35 news articles</strong> and 8 related drugs.
+<strong>alzheimer (dementia)</strong> currently has <strong>37 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,23 @@ This page brings together the latest health news about “alzheimer” and lists
 </ul>
 </div>
 
-## Related News (35)
+## Related News (37)
+
+### [Air Pollution May Trigger Dementia by Reprogramming Brain’s Immune Cells: Study - Deccan Chronicle](https://news.google.com/rss/articles/CBMixgFBVV95cUxON1ViNm9CN1ZkR0RYcjlWdHVhNjlvZHFzQUpJQTdYaktHdjd1OGlmU2k0ZVFoWDdKRTZhY3RqMHc3QVZoaU1SRXRnMHdBUlBha1hWT3RzdzhqRk5ueklEYXF2WE5JLUVpaVVuLUlRX2IxZWpOdEpJTGMxYjNvOHRoYlZmeGNiMW5IUW5tTGJEQm5nSVlFcVdnWnJ5MUQ2MUtXaHlOTkVjVk1Sd2hMQWFYWjlJRHZUWXdIbGNuSVpxZWVNbUJBSEHSAcsBQVVfeXFMT1kwNHJzVl80NnoyaEhCNlFLa002eGc4RjE2bkdOTDBpdnd5SjJfSmp3ZmpmaUs3eWtWYmtEOGxBV0NUUHRvZUhBYUZUTUtJWkFQQTJVcFd5eWRyWjBpOTJhcGRBekJxSnBmZVlveHYyQmd2bGRyY3ZNMUR4THNHNFhzcjZ0MjNuN2tkRU5VTHplZkRFWnVKallaUnRLX2h3TEVfWFhQU3RZVFVXNUxoZElsZ1Y2Q203dHpLcElfS09MejRRemU0N1JiWVE?oc=5)
+
+2026-11-24
+
+Source: [Deccan Chronicle](https://news.google.com/rss/articles/CBMixgFBVV95cUxON1ViNm9CN1ZkR0RYcjlWdHVhNjlvZHFzQUpJQTdYaktHdjd1OGlmU2k0ZVFoWDdKRTZhY3RqMHc3QVZoaU1SRXRnMHdBUlBha1hWT3RzdzhqRk5ueklEYXF2WE5JLUVpaVVuLUlRX2IxZWpOdEpJTGMxYjNvOHRoYlZmeGNiMW5IUW5tTGJEQm5nSVlFcVdnWnJ5MUQ2MUtXaHlOTkVjVk1Sd2hMQWFYWjlJRHZUWXdIbGNuSVpxZWVNbUJBSEHSAcsBQVVfeXFMT1kwNHJzVl80NnoyaEhCNlFLa002eGc4RjE2bkdOTDBpdnd5SjJfSmp3ZmpmaUs3eWtWYmtEOGxBV0NUUHRvZUhBYUZUTUtJWkFQQTJVcFd5eWRyWjBpOTJhcGRBekJxSnBmZVlveHYyQmd2bGRyY3ZNMUR4THNHNFhzcjZ0MjNuN2tkRU5VTHplZkRFWnVKallaUnRLX2h3TEVfWFhQU3RZVFVXNUxoZElsZ1Y2Q203dHpLcElfS09MejRRemU0N1JiWVE?oc=5)
+
+---
+
+### [Air Pollution May Trigger Dementia by Reprogramming Brain’s Immune Cells: Study - Deccan Chronicle](https://news.google.com/rss/articles/CBMixgFBVV95cUxON1ViNm9CN1ZkR0RYcjlWdHVhNjlvZHFzQUpJQTdYaktHdjd1OGlmU2k0ZVFoWDdKRTZhY3RqMHc3QVZoaU1SRXRnMHdBUlBha1hWT3RzdzhqRk5ueklEYXF2WE5JLUVpaVVuLUlRX2IxZWpOdEpJTGMxYjNvOHRoYlZmeGNiMW5IUW5tTGJEQm5nSVlFcVdnWnJ5MUQ2MUtXaHlOTkVjVk1Sd2hMQWFYWjlJRHZUWXdIbGNuSVpxZWVNbUJBSEHSAcsBQVVfeXFMT1kwNHJzVl80NnoyaEhCNlFLa002eGc4RjE2bkdOTDBpdnd5SjJfSmp3ZmpmaUs3eWtWYmtEOGxBV0NUUHRvZUhBYUZUTUtJWkFQQTJVcFd5eWRyWjBpOTJhcGRBekJxSnBmZVlveHYyQmd2bGRyY3ZNMUR4THNHNFhzcjZ0MjNuN2tkRU5VTHplZkRFWnVKallaUnRLX2h3TEVfWFhQU3RZVFVXNUxoZElsZ1Y2Q203dHpLcElfS09MejRRemU0N1JiWVE?oc=5)
+
+2026-11-24
+
+Source: [Deccan Chronicle](https://news.google.com/rss/articles/CBMixgFBVV95cUxON1ViNm9CN1ZkR0RYcjlWdHVhNjlvZHFzQUpJQTdYaktHdjd1OGlmU2k0ZVFoWDdKRTZhY3RqMHc3QVZoaU1SRXRnMHdBUlBha1hWT3RzdzhqRk5ueklEYXF2WE5JLUVpaVVuLUlRX2IxZWpOdEpJTGMxYjNvOHRoYlZmeGNiMW5IUW5tTGJEQm5nSVlFcVdnWnJ5MUQ2MUtXaHlOTkVjVk1Sd2hMQWFYWjlJRHZUWXdIbGNuSVpxZWVNbUJBSEHSAcsBQVVfeXFMT1kwNHJzVl80NnoyaEhCNlFLa002eGc4RjE2bkdOTDBpdnd5SjJfSmp3ZmpmaUs3eWtWYmtEOGxBV0NUUHRvZUhBYUZUTUtJWkFQQTJVcFd5eWRyWjBpOTJhcGRBekJxSnBmZVlveHYyQmd2bGRyY3ZNMUR4THNHNFhzcjZ0MjNuN2tkRU5VTHplZkRFWnVKallaUnRLX2h3TEVfWFhQU3RZVFVXNUxoZElsZ1Y2Q203dHpLcElfS09MejRRemU0N1JiWVE?oc=5)
+
+---
 
 ### [Type 2 diabetes linked to 53% higher Alzheimer’s risk in study](https://news.google.com/rss/articles/CBMif0FVX3lxTE1SREVvejVJM1hJY0E1RnlaMkY1b09aY0hKZUJQcll1RFdodlJLalJSendmNWRWUzJMZG1TdV90NzBFQmF3dk1acVY0TW5URTMxaFBwSmNLc0FYSlNCTDhYTDkzcWdlU2h5cE9EdnA5NXZRQ3VjOE05dmZ2R3o2alk?oc=5)
 

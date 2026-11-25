@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Amikacin. 10 predicted indications."
 permalink: /news/amikacin/
-last_modified_at: 2026-11-18
+last_modified_at: 2026-11-25
 ---
 
 # Amikacin News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about Amikacin?">
-<strong>Amikacin</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
+<strong>Amikacin</strong> currently has <strong>2 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,7 @@ This page combines the AI-predicted indications for Amikacin with the latest hea
 <li>punctate epithelial keratoconjunctivitis</li>
 <li class="indication-matched">typhoid fever<span class="indication-tag">📰 typhoid</span></li>
 <li>epiglottitis</li>
-<li>salmonellosis</li>
+<li class="indication-matched">salmonellosis<span class="indication-tag">📰 salmonellosis</span></li>
 <li>congenital analbuminemia</li>
 <li>polyclonal hyperviscosity syndrome</li>
 <li>hyperamylasemia</li>
@@ -42,7 +42,15 @@ This page combines the AI-predicted indications for Amikacin with the latest hea
 <p><a href="{{ '/drugs/amikacin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [How Viral Synergy Accelerates Septicemic Salmonellosis](https://news.google.com/rss/articles/CBMivAFBVV95cUxPOG9aYUZSNGpSXzRlR2hSVUNTOHkwVWZJV1VHdlFNZnRwYVR3ZUhDVXF1QXNYdG1RbEFsNjI0a0xlNkpXLWFfaC04bU5XT0tla3dKRVdIaHFyUnRTY1l0dmZCUjBBTlM3QVdvQmk2WkxUcDJPSGU1UGt5RVptT1c0Q0FwYWVJVkY1VVpzVUl1bHVCVlRjVURQVlFGbzJ0N2FaenBzejZPZlFka2JuQWxPR0tITGJoYTZzT3ZlWg?oc=5)
+
+2026-11-24 <span class="news-indication-tag">salmonellosis</span>
+
+Source: [EMJ](https://news.google.com/rss/articles/CBMivAFBVV95cUxPOG9aYUZSNGpSXzRlR2hSVUNTOHkwVWZJV1VHdlFNZnRwYVR3ZUhDVXF1QXNYdG1RbEFsNjI0a0xlNkpXLWFfaC04bU5XT0tla3dKRVdIaHFyUnRTY1l0dmZCUjBBTlM3QVdvQmk2WkxUcDJPSGU1UGt5RVptT1c0Q0FwYWVJVkY1VVpzVUl1bHVCVlRjVURQVlFGbzJ0N2FaenBzejZPZlFka2JuQWxPR0tITGJoYTZzT3ZlWg?oc=5)
+
+---
 
 ### [ICMR Flags Widespread Antibiotic Resistance Across India: From E. coli To Typhoid, Which Drugs Are Failing? - Health and Me](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNWnZRSlNpckU5NFhsTWhQZGNhWXFiZXlSV0xvdUIyeDFRX0hzdkE3QjJnZDk3bVZ2NG1vb3RXNmstNHc2ZlJRaTc3R29HaXQ3ZEM0VmFFNC1qNkw5Y0w5U25WR2tRMk1VeDJxSVBaVVkwVVl6d0xuektIOWdPNG1ra0pEQmRydkc2cU4wbFYtX0RhdWFKa1Y5am5hRmZUM0dPUzRBSndBQ28ybEkxcHBudk9Pb0dKUzVYc0NzQVVrS3FncnY2Qks3ZWR5RWlDNE1kRU5NanZiaVFMQUtDRWdTd2VmcklWMmU5eGF2TDJMV0RPWXM?oc=5)
 

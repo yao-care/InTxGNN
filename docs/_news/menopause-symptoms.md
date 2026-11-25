@@ -3,9 +3,9 @@ layout: default
 title: "menopause (menopause symptoms) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about menopause (menopause symptoms). 1 articles, 23 related drugs."
+description: "Health news about menopause (menopause symptoms). 2 articles, 23 related drugs."
 permalink: /news/menopause-symptoms/
-last_modified_at: 2026-11-14
+last_modified_at: 2026-11-25
 ---
 
 # menopause (menopause symptoms) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-14
 ---
 
 <p class="key-answer" data-question="What news is there about menopause (menopause symptoms)?">
-<strong>menopause (menopause symptoms)</strong> currently has <strong>1 news articles</strong> and 23 related drugs.
+<strong>menopause (menopause symptoms)</strong> currently has <strong>2 news articles</strong> and 23 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -44,7 +44,15 @@ This page brings together the latest health news about “menopause” and lists
 </ul>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [Targeting Neurokinin Pathways in Menopause VMS: Dual NK-1 and NK-3 Receptor Antagonism](https://news.google.com/rss/articles/CBMi8AFBVV95cUxONy1ReTJ2dHJ1U091RHRkemZUT1p4QnJnWGR3UjE3U1I4dHBNY3FicHlhMnREMkRiWFVBVDFxWGN0d1h6Q3IxOEpYZ0ZHSmo1SlBXc3Q3ZjNkQVFrU05tZzlTTnZacEcxSnVpS080enVmVFNuaDlfZ2RYOWYxRDZDYm5sZDY1VjliLXN4clJQb1BfWG92LUs3WFA3UlVwS2hlOEVfQ0JBd2Y4Z1VsT1RrTjgzeW9mN1liX3dyV3V0ODFQbFdmYmhwTlBXNW15ZENybDJhNDVKUzNIbklndW93WTBraHdRY1VTd1ptWTVBNzQ?oc=5)
+
+2026-11-24
+
+Source: [EMJ](https://news.google.com/rss/articles/CBMi8AFBVV95cUxONy1ReTJ2dHJ1U091RHRkemZUT1p4QnJnWGR3UjE3U1I4dHBNY3FicHlhMnREMkRiWFVBVDFxWGN0d1h6Q3IxOEpYZ0ZHSmo1SlBXc3Q3ZjNkQVFrU05tZzlTTnZacEcxSnVpS080enVmVFNuaDlfZ2RYOWYxRDZDYm5sZDY1VjliLXN4clJQb1BfWG92LUs3WFA3UlVwS2hlOEVfQ0JBd2Y4Z1VsT1RrTjgzeW9mN1liX3dyV3V0ODFQbFdmYmhwTlBXNW15ZENybDJhNDVKUzNIbklndW93WTBraHdRY1VTd1ptWTVBNzQ?oc=5)
+
+---
 
 ### [Menopause and Common Inflammatory Dermatoses: Current Evidence and Clinical Implications](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYUZyUzl1OWR2bWIyOW5VYWN5LWFoMnJkLXhIbUNlTFpHZEhKbjVZVlctc0tSSlFfNjgyaHJpeXVydXFEdWNqQzhKZlcxTnlURmx1S2dCNEx2Z1ljTU5MR0NJQUw0N2w4R0JoV1VoclVmc3VzSXJ1a3h6d1JWZzFhcFVoLTE4NnUxUm1SdnhFQWUtRUVISDlvZXZLbkJkSUQ5MjdEUGYydkU0UUZtc3FmYVdzU0hzc3pDQnpjVTdjUlVESzVrcmMwYkNjbm12c0QtenQ2U2FGY203Zw?oc=5)
 

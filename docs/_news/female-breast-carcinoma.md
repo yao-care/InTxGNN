@@ -3,9 +3,9 @@ layout: default
 title: "breast cancer (female breast carcinoma) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about breast cancer (female breast carcinoma). 9 articles, 9 related drugs."
+description: "Health news about breast cancer (female breast carcinoma). 11 articles, 9 related drugs."
 permalink: /news/female-breast-carcinoma/
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 ---
 
 # breast cancer (female breast carcinoma) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-24
 ---
 
 <p class="key-answer" data-question="What news is there about breast cancer (female breast carcinoma)?">
-<strong>breast cancer (female breast carcinoma)</strong> currently has <strong>9 news articles</strong> and 9 related drugs.
+<strong>breast cancer (female breast carcinoma)</strong> currently has <strong>11 news articles</strong> and 9 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,15 @@ This page brings together the latest health news about “breast cancer” and l
 </ul>
 </div>
 
-## Related News (9)
+## Related News (11)
+
+### [Siddhartha Yadav: New Class of Partially Functional BRCA2 Variants is Associated with Moderate Breast Cancer Risk](https://news.google.com/rss/articles/CBMidkFVX3lxTFBPOHZfV0wwemVTNl9TVVA0MldKOG5xa0JibXRMRl9SOUxmenAyRG5rZFRNTnd0NTNHX2JramluVTdVTldRczBaY1hJQ0ltbWdiWldUUDNZdDE5QjhTUUM1b1pZZDV5cjJCcjNwNnNtWFlZcmdqWVE?oc=5)
+
+2026-11-24
+
+Source: [Oncodaily](https://news.google.com/rss/articles/CBMidkFVX3lxTFBPOHZfV0wwemVTNl9TVVA0MldKOG5xa0JibXRMRl9SOUxmenAyRG5rZFRNTnd0NTNHX2JramluVTdVTldRczBaY1hJQ0ltbWdiWldUUDNZdDE5QjhTUUM1b1pZZDV5cjJCcjNwNnNtWFlZcmdqWVE?oc=5)
+
+---
 
 ### [Synthesis, anticancer activity, and molecular docking of gemcitabine–hydroxycinnamic acid conjugates against breast cancer cells](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xYl8wX3hTMkpULVdxSjVkY2ctYWpoRkhJcjFMdkFCWll5djFBMldqdmFmSUowbkhsbUl4aGJFWG5EWG1mdTNmYy1tM0ZYdnJzbEd6QldfLW4zRml6NmZJ?oc=5)
 
@@ -53,6 +61,14 @@ Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xYl8wX3hTMk
 2026-11-24
 
 Source: [The South First](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPY0Q3dDVnSF9Pd0g0cmhqV0k1dk5YTW5jcHhZQjNGZkRMeUhOOGdudTRYdW83dUM2Z0c4LVVHZUUwSWcxbXJoUXBkMHBhbkRqTDlwM1VSQ2FhbUxMbW55ZUZIN0NGdjNxb3ZjZ0gtQ0NxUWdEcnlqWXAxczl1ektialN6Y1NSMFFWZ2RXcTF4Y0I5d09uaU9jNUJGSWdlM0t1M0ticzNjYTlKR3l6clJTS3RHVUxCdWJRNkdtcEdTRXVLSzVYTUJfQzM5UEtPZzBuREE?oc=5)
+
+---
+
+### [England launches world's largest AI-aided breast cancer screening trial - The Hindu](https://news.google.com/rss/articles/CBMiywFBVV95cUxNa3llWVdnc1ZrQWlWZnp1cjBZTFVUYi00MmxFNlZsc3BCTXdPT2tpSkhobk1xUFBRcVRQenZIZWhOaVNDTmpFc2V2Z3JKYkFSZUYxVXNXajFxSUYzSzJqekhzNzhtTV9iYTdyQ0FqYUhqb3JnNUE0dzZnakwxb2NSbmZmaFI1MmprXzdsYVQ0OUEzRWFOUUdmLTg2U2ZzM2prQk1aeXVYZjVCRHU5VjJvQU1OUExlOVpwQjJ6Zmo3bUZuOUF5NTVCZ3RqY9IB0gFBVV95cUxQbFZQZ3ZYQllWUFVNaUVIaS1YdFJHckpFUjctaFY1TWdMUU1pZ2xCMW96VHhWTXNjQm1QRDZlcVFDbjNNSG0yMEdCOVpkYzFXbTl4RWNHN0dTYndudUhlQ2xQdTFtdlh0OS1DSFZ2eWo2RnNfT25iT0JrTE9USVczTjJiQzc2S1NyVEM2czBMcGMyd0QzcEx0bTJBNFdkdV82dWJtQmFmbzVmTVhyVi1fUEI1dXNIemZ4Tk9SeHhWR1hadE1tNlNmblNkaHBoN3R4eHc?oc=5)
+
+2026-11-23
+
+Source: [The Hindu](https://news.google.com/rss/articles/CBMiywFBVV95cUxNa3llWVdnc1ZrQWlWZnp1cjBZTFVUYi00MmxFNlZsc3BCTXdPT2tpSkhobk1xUFBRcVRQenZIZWhOaVNDTmpFc2V2Z3JKYkFSZUYxVXNXajFxSUYzSzJqekhzNzhtTV9iYTdyQ0FqYUhqb3JnNUE0dzZnakwxb2NSbmZmaFI1MmprXzdsYVQ0OUEzRWFOUUdmLTg2U2ZzM2prQk1aeXVYZjVCRHU5VjJvQU1OUExlOVpwQjJ6Zmo3bUZuOUF5NTVCZ3RqY9IB0gFBVV95cUxQbFZQZ3ZYQllWUFVNaUVIaS1YdFJHckpFUjctaFY1TWdMUU1pZ2xCMW96VHhWTXNjQm1QRDZlcVFDbjNNSG0yMEdCOVpkYzFXbTl4RWNHN0dTYndudUhlQ2xQdTFtdlh0OS1DSFZ2eWo2RnNfT25iT0JrTE9USVczTjJiQzc2S1NyVEM2czBMcGMyd0QzcEx0bTJBNFdkdV82dWJtQmFmbzVmTVhyVi1fUEI1dXNIemZ4Tk9SeHhWR1hadE1tNlNmblNkaHBoN3R4eHc?oc=5)
 
 ---
 

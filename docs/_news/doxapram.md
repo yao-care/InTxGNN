@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Doxapram. 10 predicted indications."
 permalink: /news/doxapram/
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 ---
 
 # Doxapram News
@@ -43,6 +43,14 @@ This page combines the AI-predicted indications for Doxapram with the latest hea
 </div>
 
 ## Related News (26)
+
+### [Your heart disease risk may start building decades earlier than you think](https://news.google.com/rss/articles/CBMivgFBVV95cUxOTWIxaEFrUGw3V3MtUFV6WDBjNEFtTHA1eWRXaEhRRXVneWs3M2EyMDdLTnJXc1BMWTQ5ckZrSXJ3U0JlMWlObWFaZG9qOTRvc1NrZzM5YzhoUzhGcXd6VE5yWndFRFNvU3ppcFlxRnNLRm9INFhZVGd6NkZvRF90b3pLNk81Wm5paC1IeFNzZWs4ZktiMUVWTW52SjBkbkZwNjJHcWNVdXlXWkdZcGtKVTBUWlZ6eDZDWndrMUx3?oc=5)
+
+2026-11-24 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMivgFBVV95cUxOTWIxaEFrUGw3V3MtUFV6WDBjNEFtTHA1eWRXaEhRRXVneWs3M2EyMDdLTnJXc1BMWTQ5ckZrSXJ3U0JlMWlObWFaZG9qOTRvc1NrZzM5YzhoUzhGcXd6VE5yWndFRFNvU3ppcFlxRnNLRm9INFhZVGd6NkZvRF90b3pLNk81Wm5paC1IeFNzZWs4ZktiMUVWTW52SjBkbkZwNjJHcWNVdXlXWkdZcGtKVTBUWlZ6eDZDWndrMUx3?oc=5)
+
+---
 
 ### [GLP-1s Linked to Cardiac Recovery in HFrEF With Obesity](https://news.google.com/rss/articles/CBMimgFBVV95cUxPMUlBenJxek1WNWZQV1I3TUh1MFdTbzZZM3h1M1lBRklwZnc4NzRfa2lMeDd0MllfM1dwQkdwRlZ1VTRlNFZVUU9SZktrOUl5MDM2bkR4QjdYTGo2MFVFUFgwSm1JZm9idzNPeWhhdy1SeTI4T3EweXFfVlk1dGtjSUp3dUlfeGFSU0F2Q0Mya2kxMVRSQ2pXcVF3?oc=5)
 
@@ -97,14 +105,6 @@ Source: [Cureus](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPTG5BY2Z1dk
 2026-11-19 <span class="news-indication-tag">heart disease</span>
 
 Source: [News-Medical](https://news.google.com/rss/articles/CBMirAFBVV95cUxPQm9LWl9WcXkwM3Zka1A3RHJQajE0ekpobUtvbHotWDhEUVdtb0Y2NGtCbjF2SmViaWh2RDNETTdlczVYZE5QWXhZVnNEcFctLWhNeHM3cGhmZWppRkJodlZHOVQxdVhrel9NNVRIeHFBNXdjcGhhLXV5Q0c5T1dPaW1WVTJvaUo3aThBRmlDVTd4RFRRU296LXczQWhJSDlSd2RrbmNGOUNJUWhB?oc=5)
-
----
-
-### [Stopping GLP-1s Linked to Double Heart Event Risk in T2D](https://news.google.com/rss/articles/CBMiogFBVV95cUxOdEQ0WlliTS12MFdrSEh6d1JlUWR5dk44UWxoU0drV1JxT2dsTFp4dmRTcnkwakV4aW5qSzhvbE9KRHh4ZHNZQm1rYnNkcnRsNThrRDVzT1B2RDlDa01wVXFVQ3k2Z2hXYVZ6U2FiaWRhMG00MW5uTEQ2MmVBX2ZhRUlRQjBQdnRHRHhMMHZZZlIzRURfUDNCQkNQaUR0aURGTFE?oc=5)
-
-2026-11-19 <span class="news-indication-tag">heart disease</span>
-
-Source: [Medscape](https://news.google.com/rss/articles/CBMiogFBVV95cUxOdEQ0WlliTS12MFdrSEh6d1JlUWR5dk44UWxoU0drV1JxT2dsTFp4dmRTcnkwakV4aW5qSzhvbE9KRHh4ZHNZQm1rYnNkcnRsNThrRDVzT1B2RDlDa01wVXFVQ3k2Z2hXYVZ6U2FiaWRhMG00MW5uTEQ2MmVBX2ZhRUlRQjBQdnRHRHhMMHZZZlIzRURfUDNCQkNQaUR0aURGTFE?oc=5)
 
 ---
 
