@@ -3,9 +3,9 @@ layout: default
 title: "asthma (saans ki bimari) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about asthma (saans ki bimari). 3 articles, 1 related drugs."
+description: "Health news about asthma (saans ki bimari). 4 articles, 1 related drugs."
 permalink: /news/saans-ki-bimari/
-last_modified_at: 2026-11-18
+last_modified_at: 2026-11-26
 ---
 
 # asthma (saans ki bimari) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about asthma (saans ki bimari)?">
-<strong>asthma (saans ki bimari)</strong> currently has <strong>3 news articles</strong> and 1 related drugs.
+<strong>asthma (saans ki bimari)</strong> currently has <strong>4 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page brings together the latest health news about “asthma” and lists th
 </ul>
 </div>
 
-## Related News (3)
+## Related News (4)
+
+### [Childhood Asthma and Air Pollution: Social Differences](https://news.google.com/rss/articles/CBMipgFBVV95cUxNbkNnX2QyZjY3V21fVmJKbHJiWkE2bnZLQTQ5bE9NRExJcVdKYWNvZTVDV0tXRUdoYmc3NW1jWHBQODJDbmxaMDQ2TFl4M095ellxSUFrX19fVFdlOTNGcGdFVEdKRXV3UVNJTHNEcDRWQ256ZUV5ZG1rb2UwOUJCcFFkRm1xb0t2dVdIMDNZS3dEVW5HZFVJQUNQTUVsc0pxMDM5ckdn?oc=5)
+
+2026-11-26
+
+Source: [EMJ](https://news.google.com/rss/articles/CBMipgFBVV95cUxNbkNnX2QyZjY3V21fVmJKbHJiWkE2bnZLQTQ5bE9NRExJcVdKYWNvZTVDV0tXRUdoYmc3NW1jWHBQODJDbmxaMDQ2TFl4M095ellxSUFrX19fVFdlOTNGcGdFVEdKRXV3UVNJTHNEcDRWQ256ZUV5ZG1rb2UwOUJCcFFkRm1xb0t2dVdIMDNZS3dEVW5HZFVJQUNQTUVsc0pxMDM5ckdn?oc=5)
+
+---
 
 ### [Infant Chest Infection Tied to Higher Odds of Wheeze, Asthma](https://news.google.com/rss/articles/CBMipgFBVV95cUxQYTVqSVhCMjBoUDloZVdONTZuRlNuOWxqUjJSYWNGalhTRkFOd1U4Y3p2Q1M3Vk9Ga3VUR2QyaGhHd1ZxT2htZ09oRnB2RnQwQzdnNUpXQi1UNEtydVMyOU1ZeTNHaklQS0ZGa2NYZUxwdzNsanh0YU9vZWRndTlIZzgtdlIyNjVNbjUtRks2c2tiRVFwV29pUzM1M1hyNmtDYzNvcVN3?oc=5)
 

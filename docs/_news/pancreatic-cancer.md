@@ -3,7 +3,7 @@ layout: default
 title: "pancreatic cancer News"
 parent: Health News
 nav_exclude: true
-description: "Health news about pancreatic cancer. 34 articles, 1 related drugs."
+description: "Health news about pancreatic cancer. 35 articles, 1 related drugs."
 permalink: /news/pancreatic-cancer/
 last_modified_at: 2026-11-26
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-26
 ---
 
 <p class="key-answer" data-question="What news is there about pancreatic cancer?">
-<strong>pancreatic cancer</strong> currently has <strong>34 news articles</strong> and 1 related drugs.
+<strong>pancreatic cancer</strong> currently has <strong>35 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page brings together the latest health news about “pancreatic cancer” a
 </ul>
 </div>
 
-## Related News (34)
+## Related News (35)
+
+### [Daraxonrasib Plus Chemotherapy Shows Promising First-Line Efficacy in Metastatic Pancreatic Cancer - Medical Dialogues](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQUURLdDFhMkhpOFBuV203SWFzZGtOMHhyVkNEUUsxMElMLVBPTnFGeDRkMHVLZ2dZME9EanpZUEtITk9tc3lfcTg5dzFrUURUMExYUjVKUkhhbDhvY3EzWHJKbnJ5Z0cwcWNXdkp2NTlYc3NBSVBNVGJTOTdPSHE0WnVFb2NRenN5U2tYbUNLRWt1d01lOVlMS1EzZ3A3N05jNHhiNmsybXBKejVHN2JLQ3FqeUtaTEg0VTNaUk12U1ZIY1VHU0YtX1B1b3NEZE9nNUJpSlJFekZVQ09vSkVlLdIB5gFBVV95cUxQWFlfcW9MN0tFRmlZd3FLa2ZTZ3dHdzRlZTRCc0E4ZTRWM3lycmZKb1dMc0xPZGdEUE1VT2lQZnpmcUhoV1hWTlNSb1JaSTBkWlpjemRaU0NIM09sSVg2bms2bHVHQUR0cVZzdlFSLWNDNWpPNlNzSXJRVjVCVC1aRVJjUkw0aWQ5Y1BENVFjRWpxOXp5d2ZoX1dQaXhXcENQb21TTGR3Nm9jdDU5VXVROFUxak5ITzF1U01KWENJLUZNYk1HQ2tHSnU2My14QnpHWTZlMm52VlJmdWx3N0pvcnNsbG9DZw?oc=5)
+
+2026-11-26
+
+Source: [Medical Dialogues](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQUURLdDFhMkhpOFBuV203SWFzZGtOMHhyVkNEUUsxMElMLVBPTnFGeDRkMHVLZ2dZME9EanpZUEtITk9tc3lfcTg5dzFrUURUMExYUjVKUkhhbDhvY3EzWHJKbnJ5Z0cwcWNXdkp2NTlYc3NBSVBNVGJTOTdPSHE0WnVFb2NRenN5U2tYbUNLRWt1d01lOVlMS1EzZ3A3N05jNHhiNmsybXBKejVHN2JLQ3FqeUtaTEg0VTNaUk12U1ZIY1VHU0YtX1B1b3NEZE9nNUJpSlJFekZVQ09vSkVlLdIB5gFBVV95cUxQWFlfcW9MN0tFRmlZd3FLa2ZTZ3dHdzRlZTRCc0E4ZTRWM3lycmZKb1dMc0xPZGdEUE1VT2lQZnpmcUhoV1hWTlNSb1JaSTBkWlpjemRaU0NIM09sSVg2bms2bHVHQUR0cVZzdlFSLWNDNWpPNlNzSXJRVjVCVC1aRVJjUkw0aWQ5Y1BENVFjRWpxOXp5d2ZoX1dQaXhXcENQb21TTGR3Nm9jdDU5VXVROFUxak5ITzF1U01KWENJLUZNYk1HQ2tHSnU2My14QnpHWTZlMm52VlJmdWx3N0pvcnNsbG9DZw?oc=5)
+
+---
 
 ### [Pancreatic cancer: Drug combo makes tumors shrink, disappear - Medical News Today](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWmhFbGFFU3FsakV3Nzg4UFVKdFFjeVF5bTk2TGNwanBwTWJBQVdPYkhuQVdVS1ByZjdBVVZvUXhrdFlCaEd6UndFOUVYZmtMaGNlRy1JN2gyYWV3c2MyQ2VIWDJZX01HX081QmJFZjhmWWkzU0pSeHFHSU1xWWNBaHlhX3NvMktIRGRwYVM1NGFHQUdERjZoS1NmNGlRSnlKRFJMR0NGS2MyMXlwRHpHVkNpSzhGcTRu?oc=5)
 

@@ -3,9 +3,9 @@ layout: default
 title: "wheezing (asthma) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about wheezing (asthma). 4 articles, 1 related drugs."
+description: "Health news about wheezing (asthma). 6 articles, 1 related drugs."
 permalink: /news/asthma/
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-26
 ---
 
 # wheezing (asthma) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-21
 ---
 
 <p class="key-answer" data-question="What news is there about wheezing (asthma)?">
-<strong>wheezing (asthma)</strong> currently has <strong>4 news articles</strong> and 1 related drugs.
+<strong>wheezing (asthma)</strong> currently has <strong>6 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,23 @@ This page brings together the latest health news about “wheezing” and lists 
 </ul>
 </div>
 
-## Related News (4)
+## Related News (6)
+
+### [Childhood Asthma and Air Pollution: Social Differences](https://news.google.com/rss/articles/CBMipgFBVV95cUxNbkNnX2QyZjY3V21fVmJKbHJiWkE2bnZLQTQ5bE9NRExJcVdKYWNvZTVDV0tXRUdoYmc3NW1jWHBQODJDbmxaMDQ2TFl4M095ellxSUFrX19fVFdlOTNGcGdFVEdKRXV3UVNJTHNEcDRWQ256ZUV5ZG1rb2UwOUJCcFFkRm1xb0t2dVdIMDNZS3dEVW5HZFVJQUNQTUVsc0pxMDM5ckdn?oc=5)
+
+2026-11-26
+
+Source: [EMJ](https://news.google.com/rss/articles/CBMipgFBVV95cUxNbkNnX2QyZjY3V21fVmJKbHJiWkE2bnZLQTQ5bE9NRExJcVdKYWNvZTVDV0tXRUdoYmc3NW1jWHBQODJDbmxaMDQ2TFl4M095ellxSUFrX19fVFdlOTNGcGdFVEdKRXV3UVNJTHNEcDRWQ256ZUV5ZG1rb2UwOUJCcFFkRm1xb0t2dVdIMDNZS3dEVW5HZFVJQUNQTUVsc0pxMDM5ckdn?oc=5)
+
+---
+
+### [Childhood Asthma and Air Pollution: Social Differences](https://news.google.com/rss/articles/CBMipgFBVV95cUxNbkNnX2QyZjY3V21fVmJKbHJiWkE2bnZLQTQ5bE9NRExJcVdKYWNvZTVDV0tXRUdoYmc3NW1jWHBQODJDbmxaMDQ2TFl4M095ellxSUFrX19fVFdlOTNGcGdFVEdKRXV3UVNJTHNEcDRWQ256ZUV5ZG1rb2UwOUJCcFFkRm1xb0t2dVdIMDNZS3dEVW5HZFVJQUNQTUVsc0pxMDM5ckdn?oc=5)
+
+2026-11-26
+
+Source: [EMJ](https://news.google.com/rss/articles/CBMipgFBVV95cUxNbkNnX2QyZjY3V21fVmJKbHJiWkE2bnZLQTQ5bE9NRExJcVdKYWNvZTVDV0tXRUdoYmc3NW1jWHBQODJDbmxaMDQ2TFl4M095ellxSUFrX19fVFdlOTNGcGdFVEdKRXV3UVNJTHNEcDRWQ256ZUV5ZG1rb2UwOUJCcFFkRm1xb0t2dVdIMDNZS3dEVW5HZFVJQUNQTUVsc0pxMDM5ckdn?oc=5)
+
+---
 
 ### [Wheezing, Dyspnea, and Bronchial Calcifications Revealing Suspected Keutel Syndrome: A Case Report](https://news.google.com/rss/articles/CBMizwFBVV95cUxPeXVvNVNDNjFodUtxLU9vSEhybU5OMlc2T0NEV1JPbHlHbzlyREY4dnZhZ3dJNVBmdTh5a24yV0NYSEh1Zm9CbVpLdFN6S2phR0Y2VVlFOEEwUEIxWE1IY1BORkVqNDJJYU9fenRoZUpLc1paQ3M1RXE1aEZlbHVPeUJfZ0NJVjlHREJVWmtCNjFaZmlRR0hnTWdXQ1lTcHdWYU1tNW95d1cxd0RhWkw3Nk1DcHRwV3ZOUjFzRUpfbmVLMEJCUlRaVkVwYWVaVk0?oc=5)
 

@@ -3,9 +3,9 @@ layout: default
 title: "breast cancer (female breast carcinoma) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about breast cancer (female breast carcinoma). 12 articles, 9 related drugs."
+description: "Health news about breast cancer (female breast carcinoma). 13 articles, 9 related drugs."
 permalink: /news/female-breast-carcinoma/
-last_modified_at: 2026-11-25
+last_modified_at: 2026-11-26
 ---
 
 # breast cancer (female breast carcinoma) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-25
 ---
 
 <p class="key-answer" data-question="What news is there about breast cancer (female breast carcinoma)?">
-<strong>breast cancer (female breast carcinoma)</strong> currently has <strong>12 news articles</strong> and 9 related drugs.
+<strong>breast cancer (female breast carcinoma)</strong> currently has <strong>13 news articles</strong> and 9 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,15 @@ This page brings together the latest health news about “breast cancer” and l
 </ul>
 </div>
 
-## Related News (12)
+## Related News (13)
+
+### [Can AI Detect Breast Cancer Earlier? UK Begins Trial With 700,000 Women](https://news.google.com/rss/articles/CBMivgFBVV95cUxNQTYyREVEQlQxTl94VGJIRlozRzZYcVRUU05paGtJTnp3Um1rQzA3dFZyQU1WSXNDYVI2b0tyRTRHc3g0RjFCamxYdk8zMWRJenpJc3Uxa3Y2MFZZVGxYNGtMQWtGc3JETGkzQW9HMW93RjdvS01zbGNiTXNyYUgya2lCS2V1dWxkdm95Q05lNGhQc3hob25TaWpjZFVHU3ZQWXBxSV9TRU9adFZkRFRwY1ZnVzk1QXZkYi1JbEZn?oc=5)
+
+2026-11-26
+
+Source: [NDTV](https://news.google.com/rss/articles/CBMivgFBVV95cUxNQTYyREVEQlQxTl94VGJIRlozRzZYcVRUU05paGtJTnp3Um1rQzA3dFZyQU1WSXNDYVI2b0tyRTRHc3g0RjFCamxYdk8zMWRJenpJc3Uxa3Y2MFZZVGxYNGtMQWtGc3JETGkzQW9HMW93RjdvS01zbGNiTXNyYUgya2lCS2V1dWxkdm95Q05lNGhQc3hob25TaWpjZFVHU3ZQWXBxSV9TRU9adFZkRFRwY1ZnVzk1QXZkYi1JbEZn?oc=5)
+
+---
 
 ### [Siddhartha Yadav: New Class of Partially Functional BRCA2 Variants is Associated with Moderate Breast Cancer Risk](https://news.google.com/rss/articles/CBMidkFVX3lxTFBPOHZfV0wwemVTNl9TVVA0MldKOG5xa0JibXRMRl9SOUxmenAyRG5rZFRNTnd0NTNHX2JramluVTdVTldRczBaY1hJQ0ltbWdiWldUUDNZdDE5QjhTUUM1b1pZZDV5cjJCcjNwNnNtWFlZcmdqWVE?oc=5)
 

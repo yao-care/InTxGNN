@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Montelukast. 2 predicted indications."
 permalink: /news/montelukast/
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-26
 ---
 
 # Montelukast News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-21
 ---
 
 <p class="key-answer" data-question="What news is there about Montelukast?">
-<strong>Montelukast</strong> currently has <strong>4 news articles</strong>, with 2 predicted indications.
+<strong>Montelukast</strong> currently has <strong>5 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,15 @@ This page combines the AI-predicted indications for Montelukast with the latest 
 <p><a href="{{ '/drugs/montelukast/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (5)
+
+### [Childhood Asthma and Air Pollution: Social Differences](https://news.google.com/rss/articles/CBMipgFBVV95cUxNbkNnX2QyZjY3V21fVmJKbHJiWkE2bnZLQTQ5bE9NRExJcVdKYWNvZTVDV0tXRUdoYmc3NW1jWHBQODJDbmxaMDQ2TFl4M095ellxSUFrX19fVFdlOTNGcGdFVEdKRXV3UVNJTHNEcDRWQ256ZUV5ZG1rb2UwOUJCcFFkRm1xb0t2dVdIMDNZS3dEVW5HZFVJQUNQTUVsc0pxMDM5ckdn?oc=5)
+
+2026-11-26 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">wheezing</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">asthma</span>
+
+Source: [EMJ](https://news.google.com/rss/articles/CBMipgFBVV95cUxNbkNnX2QyZjY3V21fVmJKbHJiWkE2bnZLQTQ5bE9NRExJcVdKYWNvZTVDV0tXRUdoYmc3NW1jWHBQODJDbmxaMDQ2TFl4M095ellxSUFrX19fVFdlOTNGcGdFVEdKRXV3UVNJTHNEcDRWQ256ZUV5ZG1rb2UwOUJCcFFkRm1xb0t2dVdIMDNZS3dEVW5HZFVJQUNQTUVsc0pxMDM5ckdn?oc=5)
+
+---
 
 ### [Wheezing, Dyspnea, and Bronchial Calcifications Revealing Suspected Keutel Syndrome: A Case Report](https://news.google.com/rss/articles/CBMizwFBVV95cUxPeXVvNVNDNjFodUtxLU9vSEhybU5OMlc2T0NEV1JPbHlHbzlyREY4dnZhZ3dJNVBmdTh5a24yV0NYSEh1Zm9CbVpLdFN6S2phR0Y2VVlFOEEwUEIxWE1IY1BORkVqNDJJYU9fenRoZUpLc1paQ3M1RXE1aEZlbHVPeUJfZ0NJVjlHREJVWmtCNjFaZmlRR0hnTWdXQ1lTcHdWYU1tNW95d1cxd0RhWkw3Nk1DcHRwV3ZOUjFzRUpfbmVLMEJCUlRaVkVwYWVaVk0?oc=5)
 

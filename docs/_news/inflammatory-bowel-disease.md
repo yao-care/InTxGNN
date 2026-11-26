@@ -3,9 +3,9 @@ layout: default
 title: "inflammatory bowel disease News"
 parent: Health News
 nav_exclude: true
-description: "Health news about inflammatory bowel disease. 2 articles, 1 related drugs."
+description: "Health news about inflammatory bowel disease. 3 articles, 1 related drugs."
 permalink: /news/inflammatory-bowel-disease/
-last_modified_at: 2026-11-25
+last_modified_at: 2026-11-26
 ---
 
 # inflammatory bowel disease News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-25
 ---
 
 <p class="key-answer" data-question="What news is there about inflammatory bowel disease?">
-<strong>inflammatory bowel disease</strong> currently has <strong>2 news articles</strong> and 1 related drugs.
+<strong>inflammatory bowel disease</strong> currently has <strong>3 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,21 @@ This page brings together the latest health news about “inflammatory bowel dis
 </ul>
 </div>
 
-## Related News (2)
+## Related News (3)
 
 ### [How Certain Foods in Adolescence Are Linked to IBD Risk - MedPage Today](https://news.google.com/rss/articles/CBMigwFBVV95cUxNcmd4bjRNemNSWjg5cHMyT0p4aVRETk9FWUdFeTVUVGJZUTg2bk84STJFa3J6Z3RWRDZYM2ZXOWxqRjBkZ2hoLXhDTFhLbkVpa1gzMElmaEFYbDE3djhOQzJzNVF5RU8tcV81SmRjeW9iTW1wNnNlajFzN1Z2WHdJR01Dbw?oc=5)
 
 2026-11-25
 
 Source: [MedPage Today](https://news.google.com/rss/articles/CBMigwFBVV95cUxNcmd4bjRNemNSWjg5cHMyT0p4aVRETk9FWUdFeTVUVGJZUTg2bk84STJFa3J6Z3RWRDZYM2ZXOWxqRjBkZ2hoLXhDTFhLbkVpa1gzMElmaEFYbDE3djhOQzJzNVF5RU8tcV81SmRjeW9iTW1wNnNlajFzN1Z2WHdJR01Dbw?oc=5)
+
+---
+
+### [Teen Salty Snack Lovers May Face Higher Gut Disease Risk](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBRMndISzFucXViWkZ2TFI5RmhJTzlUSldFMzEzT1NUY3RyYmdwNjU5MlJiYzhVTnNsazlXX0M5ZVRnYnV1TVhsV2F2aDdQYTFoM3hxZWVkQ2s0Wi1tWk5WNmFUaGY?oc=5)
+
+2026-11-25
+
+Source: [StudyFinds](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBRMndISzFucXViWkZ2TFI5RmhJTzlUSldFMzEzT1NUY3RyYmdwNjU5MlJiYzhVTnNsazlXX0M5ZVRnYnV1TVhsV2F2aDdQYTFoM3hxZWVkQ2s0Wi1tWk5WNmFUaGY?oc=5)
 
 ---
 

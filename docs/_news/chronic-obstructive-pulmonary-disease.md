@@ -3,9 +3,9 @@ layout: default
 title: "COPD (chronic obstructive pulmonary disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about COPD (chronic obstructive pulmonary disease). 13 articles, 1 related drugs."
+description: "Health news about COPD (chronic obstructive pulmonary disease). 14 articles, 1 related drugs."
 permalink: /news/chronic-obstructive-pulmonary-disease/
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-26
 ---
 
 # COPD (chronic obstructive pulmonary disease) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-24
 ---
 
 <p class="key-answer" data-question="What news is there about COPD (chronic obstructive pulmonary disease)?">
-<strong>COPD (chronic obstructive pulmonary disease)</strong> currently has <strong>13 news articles</strong> and 1 related drugs.
+<strong>COPD (chronic obstructive pulmonary disease)</strong> currently has <strong>14 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page brings together the latest health news about “COPD” and lists the 
 </ul>
 </div>
 
-## Related News (13)
+## Related News (14)
+
+### [COPD Is No Longer Just An Older Adult's Disease: Why Respiratory Health Needs Attention At Every Age - Health and Me](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNakxWS055QjhqdTdqUXQwYmhUVWhuR0U1cl9lUDlfeDEza2xKYjlZcjIzd0xNeWJMTTdoLXBwTlNueUNpUDJ1OFNoaXhiQmVneUZhMHhqUGFPNHVCWkxRX2owblp6cnY1T3ZRX0ZsR0FhQXVSNGUxaUl5eWg5dUJVVVhlV2stU09yM2d0TXpkd2xXeE5YdzlDYXhPT3lqQlFXT0doWmRZSXA4YzdsYXFYNFlFOUdGSGRsZnVoa1Y3MTBycHFUZ1lBNnBybm5jSTZBa3RKeU0yQ2xsOFdqenBoVkNxWjV2TEZyQWhwMEluZUdjUQ?oc=5)
+
+2026-11-25
+
+Source: [Health and Me](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNakxWS055QjhqdTdqUXQwYmhUVWhuR0U1cl9lUDlfeDEza2xKYjlZcjIzd0xNeWJMTTdoLXBwTlNueUNpUDJ1OFNoaXhiQmVneUZhMHhqUGFPNHVCWkxRX2owblp6cnY1T3ZRX0ZsR0FhQXVSNGUxaUl5eWg5dUJVVVhlV2stU09yM2d0TXpkd2xXeE5YdzlDYXhPT3lqQlFXT0doWmRZSXA4YzdsYXFYNFlFOUdGSGRsZnVoa1Y3MTBycHFUZ1lBNnBybm5jSTZBa3RKeU0yQ2xsOFdqenBoVkNxWjV2TEZyQWhwMEluZUdjUQ?oc=5)
+
+---
 
 ### [Mepolizumab Cuts High-Dose Steroid Days in COPD](https://news.google.com/rss/articles/CBMilwFBVV95cUxOUkVubGw5cE5IZjRsWmNwMDNDaHhRZkp4VnpsdXc4UXBVTjUzUmUtNmhyWUI3Y3VkMk1IOEtmZzJoNkJKQlJQSDZ5TTZJQ1kwSFM2WGl3LTdRM2FkSlc2dXZDaWdSMy1RX0tQazBCZG1JajZkQ0E1VWN1dGlDSXU0WVZ2T1BEUS1JOVlMY1pLRzJoVWVkbmI4?oc=5)
 
