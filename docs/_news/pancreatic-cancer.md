@@ -3,9 +3,9 @@ layout: default
 title: "pancreatic cancer News"
 parent: Health News
 nav_exclude: true
-description: "Health news about pancreatic cancer. 32 articles, 1 related drugs."
+description: "Health news about pancreatic cancer. 34 articles, 1 related drugs."
 permalink: /news/pancreatic-cancer/
-last_modified_at: 2026-11-25
+last_modified_at: 2026-11-26
 ---
 
 # pancreatic cancer News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-25
 ---
 
 <p class="key-answer" data-question="What news is there about pancreatic cancer?">
-<strong>pancreatic cancer</strong> currently has <strong>32 news articles</strong> and 1 related drugs.
+<strong>pancreatic cancer</strong> currently has <strong>34 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page brings together the latest health news about “pancreatic cancer” a
 </ul>
 </div>
 
-## Related News (32)
+## Related News (34)
+
+### [Pancreatic cancer: Drug combo makes tumors shrink, disappear - Medical News Today](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWmhFbGFFU3FsakV3Nzg4UFVKdFFjeVF5bTk2TGNwanBwTWJBQVdPYkhuQVdVS1ByZjdBVVZvUXhrdFlCaEd6UndFOUVYZmtMaGNlRy1JN2gyYWV3c2MyQ2VIWDJZX01HX081QmJFZjhmWWkzU0pSeHFHSU1xWWNBaHlhX3NvMktIRGRwYVM1NGFHQUdERjZoS1NmNGlRSnlKRFJMR0NGS2MyMXlwRHpHVkNpSzhGcTRu?oc=5)
+
+2026-11-25
+
+Source: [Medical News Today](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWmhFbGFFU3FsakV3Nzg4UFVKdFFjeVF5bTk2TGNwanBwTWJBQVdPYkhuQVdVS1ByZjdBVVZvUXhrdFlCaEd6UndFOUVYZmtMaGNlRy1JN2gyYWV3c2MyQ2VIWDJZX01HX081QmJFZjhmWWkzU0pSeHFHSU1xWWNBaHlhX3NvMktIRGRwYVM1NGFHQUdERjZoS1NmNGlRSnlKRFJMR0NGS2MyMXlwRHpHVkNpSzhGcTRu?oc=5)
+
+---
 
 ### [Daraxonrasib-chemotherapy combination shows deep, durable responses in metastatic pancreatic cancer - Oncology Central](https://news.google.com/rss/articles/CBMizAFBVV95cUxOUnpoSmJUb1ZFN3YyMXNwNXZfU1FYVF9xa1hTTjZ2RlFkNFFPU3BtSi1SZ3lVV0FoNDUzUVl3LUJzZjZoY1NQdGdrS0pNMFVzZGNodXl6UHE1d1hTeXlKTmRUR2FPWFZoTXZscDFHN3JpWFM1aFVlam01RzhqMjk0elgydkd5dkNKeF9LbzNZdTZ0MGxhZ3hrSExwWVRHRmRRd2J3MlZFZVRjWmNlaExHc3Yza2lzMEgwbHRUZUVyeTEyUVQwZ2FhTVBxNDc?oc=5)
 
@@ -69,6 +77,14 @@ Source: [Inshorts](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc1JTRmU1
 2026-11-24
 
 Source: [Firstpost](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVTFzYjV2NWlxSmVieDh6S2U1RGhjby1EbE1FUENGaDh2ZmpxNElHVUJmdnQ2U3JLQzVEQ2s5Nm1KUTF0MFVYdHJnNW9zXzlEUk1xeVk4b1BnNDZfRVRGczhQMVVSd2dVcVF5R2xIWF90ZkRiWUY0UTBmQUdOelJTRVNZS1lKSFItd1FYX1hRSUkxWGxWVGFIaGo1b2JGWTMxR29STWZMNHZhVUFVZFNac3hFa0V3dXZNTm5iNkhqUUlLampWazNPZ2RGWGkzQ3kyWTFnVUloYjFBenI1VFRkOU42cG1namxUX2hoY0MyQdIB9AFBVV95cUxPREJGSVhleEhaTjRxSWpoVFBRYlBZTS11ZmhkaG03NTV3bHNaZC1zRUlRUEZWb1Uyam0yTG9ZckRvS2gtZGJndU4wN3RUN2wzN3JXcGhxTDRJY2JkSUdnZkltYnJ3NzF4UEJRTnlRQmVTZW1scE51WGtCQnNVWlpfRXRfS1lBUFpmZmo0WWZYVHZ0ZUVBY000N2dEaDMxaDhaWm9SQUdJMFFndkduLXYwbl9MTlRJUENxcFdxOWdpVUphcXhLdDRPZ3RrejRtUEZ2MmhySFJoZWtoMEs4OFhqdGlCTnpma0NUZ01Kd0JqOGUxc3R4?oc=5)
+
+---
+
+### [Raising Awareness for Pancreatic Cancer: Insights from Experts - India News Network](https://news.google.com/rss/articles/CBMingFBVV95cUxOcVhNdGFYRUFoeEktcUF1ZkVTZnRxeE5mOXJXTEx3d2tCLWJ5TlNqbFluVzRxeXhBUDNtUk05di16UlFfRjZGeVZaaWozcy1RU1JXY29WcEwzR1VXWUstTXUxTEN4dGh0ZlpmbUxRT2xJTU9JRUhZZ1d1V1E5a0VnUDN2YXQ0YVJ0NXotTnptT2ZhWHpROWJCUllydkJEZw?oc=5)
+
+2026-11-24
+
+Source: [India News Network](https://news.google.com/rss/articles/CBMingFBVV95cUxOcVhNdGFYRUFoeEktcUF1ZkVTZnRxeE5mOXJXTEx3d2tCLWJ5TlNqbFluVzRxeXhBUDNtUk05di16UlFfRjZGeVZaaWozcy1RU1JXY29WcEwzR1VXWUstTXUxTEN4dGh0ZlpmbUxRT2xJTU9JRUhZZ1d1V1E5a0VnUDN2YXQ0YVJ0NXotTnptT2ZhWHpROWJCUllydkJEZw?oc=5)
 
 ---
 

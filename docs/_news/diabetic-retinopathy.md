@@ -3,9 +3,9 @@ layout: default
 title: "diabetic retinopathy News"
 parent: Health News
 nav_exclude: true
-description: "Health news about diabetic retinopathy. 5 articles, 4 related drugs."
+description: "Health news about diabetic retinopathy. 6 articles, 4 related drugs."
 permalink: /news/diabetic-retinopathy/
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-26
 ---
 
 # diabetic retinopathy News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="What news is there about diabetic retinopathy?">
-<strong>diabetic retinopathy</strong> currently has <strong>5 news articles</strong> and 4 related drugs.
+<strong>diabetic retinopathy</strong> currently has <strong>6 news articles</strong> and 4 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,15 @@ This page brings together the latest health news about â€œdiabetic retinopathyâ€
 </ul>
 </div>
 
-## Related News (5)
+## Related News (6)
+
+### [Evidential deep learning for reliable diabetic retinopathy screening under domain shift](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Ia0hiZk5jV0xNQXhjLXBpR3FDZzZBbWxjREpBSXYxTmw1WkNUalBiemJYbU9HLUhpLTdINkxKOHZ5djhmREJVQzZVaUlTTF9xamJyQzFoNWF5UFA3dFFv?oc=5)
+
+2026-11-25
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Ia0hiZk5jV0xNQXhjLXBpR3FDZzZBbWxjREpBSXYxTmw1WkNUalBiemJYbU9HLUhpLTdINkxKOHZ5djhmREJVQzZVaUlTTF9xamJyQzFoNWF5UFA3dFFv?oc=5)
+
+---
 
 ### [Madhav Netralaya marks World Diabetes Day - The Hitavada](https://news.google.com/rss/articles/CBMilgFBVV95cUxOWXFVSEl0VnZnZjZSbTVkU0U3QXhyTEttYlN4VkxPRHp1RUVFdHdtVUh6X1ZVanVHUjBZY2loc1FEeDFfcHViYy1jRzJ2LTQ3OENYMzJSX1YxUXFBWGlyTWFwOUVsQkNvZGlqeGd0VUpGdmQ0XzB1bVJHa25EdzBPM0xfZk1hSHZNcDVZbGZYZzU5Sk9WaXc?oc=5)
 

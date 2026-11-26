@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Letrozole. 4 predicted indications."
 permalink: /news/letrozole/
-last_modified_at: 2026-11-25
+last_modified_at: 2026-11-26
 ---
 
 # Letrozole News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-25
 ---
 
 <p class="key-answer" data-question="What news is there about Letrozole?">
-<strong>Letrozole</strong> currently has <strong>148 news articles</strong>, with 4 predicted indications.
+<strong>Letrozole</strong> currently has <strong>153 news articles</strong>, with 4 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,15 @@ This page combines the AI-predicted indications for Letrozole with the latest he
 <p><a href="{{ '/drugs/letrozole/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (148)
+## Related News (153)
+
+### [Pancreatic cancer: Drug combo makes tumors shrink, disappear - Medical News Today](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWmhFbGFFU3FsakV3Nzg4UFVKdFFjeVF5bTk2TGNwanBwTWJBQVdPYkhuQVdVS1ByZjdBVVZvUXhrdFlCaEd6UndFOUVYZmtMaGNlRy1JN2gyYWV3c2MyQ2VIWDJZX01HX081QmJFZjhmWWkzU0pSeHFHSU1xWWNBaHlhX3NvMktIRGRwYVM1NGFHQUdERjZoS1NmNGlRSnlKRFJMR0NGS2MyMXlwRHpHVkNpSzhGcTRu?oc=5)
+
+2026-11-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">pancreatic cancer</span> <span class="news-indication-tag">pancreatic cancer</span>
+
+Source: [Medical News Today](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWmhFbGFFU3FsakV3Nzg4UFVKdFFjeVF5bTk2TGNwanBwTWJBQVdPYkhuQVdVS1ByZjdBVVZvUXhrdFlCaEd6UndFOUVYZmtMaGNlRy1JN2gyYWV3c2MyQ2VIWDJZX01HX081QmJFZjhmWWkzU0pSeHFHSU1xWWNBaHlhX3NvMktIRGRwYVM1NGFHQUdERjZoS1NmNGlRSnlKRFJMR0NGS2MyMXlwRHpHVkNpSzhGcTRu?oc=5)
+
+---
 
 ### [WHO congratulates India on administering over ten million doses of HPV vaccine - News On AIR](https://news.google.com/rss/articles/CBMipwFBVV95cUxQakVaZmRIRWE4TTdYZEhNdWxHWjRqOXVOTm1CVEhEM0pGUjc3R1JVR1g2WUtscU1FZDVFd3BmZ25LV3ZScHpLeWdMYjJRbXJ4YXU1bU1GbkxMWmQ0NS00YUk5dWVQWXBpQ2pDUDFuS3dXZjNLb3BRVHliNnlPN05PVzd0N3pDVGpXeGNnVWRfdTNINkluYmZtU0syNDBjallIdXBKVFI0RQ?oc=5)
 
@@ -70,11 +78,27 @@ Source: [News-Medical](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcVVJ
 
 ---
 
+### [India Achieves 1 Crore HPV Vaccination Milestone - Drishti IAS](https://news.google.com/rss/articles/CBMirgFBVV95cUxPNGlZbkQzZzR6akFDTHA3bG90azZ4TDA3aHY0NmFFZDhFQ3dLTWJqdm1GN3FKZUVrQzBCZ1dIcHNFaFhMQ0NYLUg0dHhtVlRBeG1PUS1GYnktSWl3dmQxMTRqQTFIWkdmS3A2cmZweUFXVXNrTExkazlBdmdtQXN4amFfcWJ0dHd3alA1TW1IR2I1TVBnODVwc2ZrQXRGTUd6VENBM1ZrMmp6YXNoUlE?oc=5)
+
+2026-11-25 <span class="news-indication-tag">cancer</span>
+
+Source: [Drishti IAS](https://news.google.com/rss/articles/CBMirgFBVV95cUxPNGlZbkQzZzR6akFDTHA3bG90azZ4TDA3aHY0NmFFZDhFQ3dLTWJqdm1GN3FKZUVrQzBCZ1dIcHNFaFhMQ0NYLUg0dHhtVlRBeG1PUS1GYnktSWl3dmQxMTRqQTFIWkdmS3A2cmZweUFXVXNrTExkazlBdmdtQXN4amFfcWJ0dHd3alA1TW1IR2I1TVBnODVwc2ZrQXRGTUd6VENBM1ZrMmp6YXNoUlE?oc=5)
+
+---
+
 ### [Daraxonrasib-chemotherapy combination shows deep, durable responses in metastatic pancreatic cancer - Oncology Central](https://news.google.com/rss/articles/CBMizAFBVV95cUxOUnpoSmJUb1ZFN3YyMXNwNXZfU1FYVF9xa1hTTjZ2RlFkNFFPU3BtSi1SZ3lVV0FoNDUzUVl3LUJzZjZoY1NQdGdrS0pNMFVzZGNodXl6UHE1d1hTeXlKTmRUR2FPWFZoTXZscDFHN3JpWFM1aFVlam01RzhqMjk0elgydkd5dkNKeF9LbzNZdTZ0MGxhZ3hrSExwWVRHRmRRd2J3MlZFZVRjWmNlaExHc3Yza2lzMEgwbHRUZUVyeTEyUVQwZ2FhTVBxNDc?oc=5)
 
 2026-11-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">pancreatic cancer</span> <span class="news-indication-tag">pancreas cancer</span> <span class="news-indication-tag">pancreatic cancer</span>
 
 Source: [Oncology Central](https://news.google.com/rss/articles/CBMizAFBVV95cUxOUnpoSmJUb1ZFN3YyMXNwNXZfU1FYVF9xa1hTTjZ2RlFkNFFPU3BtSi1SZ3lVV0FoNDUzUVl3LUJzZjZoY1NQdGdrS0pNMFVzZGNodXl6UHE1d1hTeXlKTmRUR2FPWFZoTXZscDFHN3JpWFM1aFVlam01RzhqMjk0elgydkd5dkNKeF9LbzNZdTZ0MGxhZ3hrSExwWVRHRmRRd2J3MlZFZVRjWmNlaExHc3Yza2lzMEgwbHRUZUVyeTEyUVQwZ2FhTVBxNDc?oc=5)
+
+---
+
+### [Review Questions Cancer Society’s Early PSA Guidance](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTW9qLTNaRkZYVUdVWUtoNHRKY3ItUE5kWEI1RlVaemlPQVJEdTY0V3BMTmhZUFB2ZVJzN3pWU3k5RXJhR0FURkUzdUsyOEk1cFpQa18td3VWWUR4TVltYmI0UFdkQXdUTjJRT0tDaEN4WFVrZE40X2xPejFMWUJLMXc4V3ZQTjVaSXFUNnRPejlCQlVKVmtHR0RHM0lBSzh5WFR5Zy1OZFVhQQ?oc=5)
+
+2026-11-25 <span class="news-indication-tag">cancer</span>
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTW9qLTNaRkZYVUdVWUtoNHRKY3ItUE5kWEI1RlVaemlPQVJEdTY0V3BMTmhZUFB2ZVJzN3pWU3k5RXJhR0FURkUzdUsyOEk1cFpQa18td3VWWUR4TVltYmI0UFdkQXdUTjJRT0tDaEN4WFVrZE40X2xPejFMWUJLMXc4V3ZQTjVaSXFUNnRPejlCQlVKVmtHR0RHM0lBSzh5WFR5Zy1OZFVhQQ?oc=5)
 
 ---
 
@@ -198,6 +222,14 @@ Source: [Inshorts](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc1JTRmU1
 
 ---
 
+### [Leukaemia begins developing much earlier than researchers thought, shows UK study](https://news.google.com/rss/articles/CBMihwFBVV95cUxOY3Foc3F3eXhKd29FUWpqc2tvSjgwUkJIWHllcUdvcFp4WWtQcUpqQ0hKTlNJaEtWX2NrX3ZUS2tMd2dsZ3FhREtqekJUeWVwSmtHYWs5bE5zUW5HSEw3c0RFVXFaQ2RuRGF4TVFySU5VYzlVN1ZfS0VqaGpKSVI1cDVoeS1qakXSAYwBQVVfeXFMTm9sR3lNUkxDUU1aZHlqNHFReTRaMVJEcXJ2SEsyeTFMRnVWYTMzQXVaY3FlaUw2RHVzNUZRV0VHTUhNa1p6MGtvQlpGNkdwYlZpeG9ENEhKYlJRd1hqMlhKdE5kWEVJdXNZckFUODRDd1RBdFBxLTlkTk5fNjdVRTE1ZWh5NkdzRE5SaFk?oc=5)
+
+2026-11-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">myeloid leukemia</span> <span class="news-indication-tag">blood cancer</span> <span class="news-indication-tag">myeloid leukemia</span> <span class="news-indication-tag">myeloid leukemia</span> <span class="news-indication-tag">leukemia</span> <span class="news-indication-tag">myeloid leukemia</span>
+
+Source: [ThePrint](https://news.google.com/rss/articles/CBMihwFBVV95cUxOY3Foc3F3eXhKd29FUWpqc2tvSjgwUkJIWHllcUdvcFp4WWtQcUpqQ0hKTlNJaEtWX2NrX3ZUS2tMd2dsZ3FhREtqekJUeWVwSmtHYWs5bE5zUW5HSEw3c0RFVXFaQ2RuRGF4TVFySU5VYzlVN1ZfS0VqaGpKSVI1cDVoeS1qakXSAYwBQVVfeXFMTm9sR3lNUkxDUU1aZHlqNHFReTRaMVJEcXJ2SEsyeTFMRnVWYTMzQXVaY3FlaUw2RHVzNUZRV0VHTUhNa1p6MGtvQlpGNkdwYlZpeG9ENEhKYlJRd1hqMlhKdE5kWEVJdXNZckFUODRDd1RBdFBxLTlkTk5fNjdVRTE1ZWh5NkdzRE5SaFk?oc=5)
+
+---
+
 ### [AI breast cancer screening trial launches in England with 7 lakh women](https://news.google.com/rss/articles/CBMigAFBVV95cUxQTnVzR1R4T0FVSjNUVXk3RGVhZE0yWnRhWG9Fd0pWZHFXeHU4em1KOW9tRjZ6YVZZWUtmNFFYa3lVeVNUV0N4ZjdWVDNvMkhxZGpQdkhnOUVRdDlJd2VXczdyOC1fRU93c0I1MUNTOGhwR0RVSDl0S0NkbG9BY1J3Nw?oc=5)
 
 2026-11-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
@@ -219,6 +251,14 @@ Source: [Firstpost](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVTFzYjV
 2026-11-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
 
 Source: [The Times of India](https://news.google.com/rss/articles/CBMiywFBVV95cUxOSWFUZERoV1F0eXRlMHQ0Rml2XzhqUGx3MC1XV3cxR0hJd0RCT2ZDSHJRUjZnNXJHNm1LNmVXMjgzNUlJWEZXX29LaUs5VF93N25FYWlITERlc09SckFzdnYxMlRlNFZWMFdEOEpZaDVxOWhqMEJhZGlwdXpQWURHTGNzN1pFOGd3czZaUmRab0ltZEFEaVpNUVJ4QnNVN19yWjA3aXRTUkN3MmxYaThaUEJ2cTBYY1p0d3A0TjFqNTlIRzdSMndXRk9yd9IB0wFBVV95cUxNMnhZUzBhd05yd3JDdHlrdmtpUnVfeWs2cVJ0bUR2U1duTmV1bVZTWjN1SWNkem00YWQ2SGl1YmROUTFoeS1Oai16YnBGQUFTelQ1MkRMX3BVcTlfalBtTFJIdkJhd3AzbXZ4U3FPUGduRkpGMmF3eDNJY3NpQXZtLVBGTFQ4VlA2MklnVnN6STBGOFpZSG9ReWZKVG41MWVxd2xKUmRSN3ZWdlU3MnRKcHcxLVc4VzYtX2JTU3lSdERnSlJWQXYweS1qeUF0eVhKSkww?oc=5)
+
+---
+
+### [Raising Awareness for Pancreatic Cancer: Insights from Experts - India News Network](https://news.google.com/rss/articles/CBMingFBVV95cUxOcVhNdGFYRUFoeEktcUF1ZkVTZnRxeE5mOXJXTEx3d2tCLWJ5TlNqbFluVzRxeXhBUDNtUk05di16UlFfRjZGeVZaaWozcy1RU1JXY29WcEwzR1VXWUstTXUxTEN4dGh0ZlpmbUxRT2xJTU9JRUhZZ1d1V1E5a0VnUDN2YXQ0YVJ0NXotTnptT2ZhWHpROWJCUllydkJEZw?oc=5)
+
+2026-11-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">pancreatic cancer</span> <span class="news-indication-tag">pancreatic cancer</span>
+
+Source: [India News Network](https://news.google.com/rss/articles/CBMingFBVV95cUxOcVhNdGFYRUFoeEktcUF1ZkVTZnRxeE5mOXJXTEx3d2tCLWJ5TlNqbFluVzRxeXhBUDNtUk05di16UlFfRjZGeVZaaWozcy1RU1JXY29WcEwzR1VXWUstTXUxTEN4dGh0ZlpmbUxRT2xJTU9JRUhZZ1d1V1E5a0VnUDN2YXQ0YVJ0NXotTnptT2ZhWHpROWJCUllydkJEZw?oc=5)
 
 ---
 

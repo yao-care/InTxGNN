@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Beta Carotene. 0 predicted indications."
 permalink: /news/beta_carotene/
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-26
 ---
 
 # Beta Carotene News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="What news is there about Beta Carotene?">
-<strong>Beta Carotene</strong> currently has <strong>5 news articles</strong>, with 0 predicted indications.
+<strong>Beta Carotene</strong> currently has <strong>6 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,15 @@ This page combines the AI-predicted indications for Beta Carotene with the lates
 <p><a href="{{ '/drugs/beta-carotene/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (6)
+
+### [Evidential deep learning for reliable diabetic retinopathy screening under domain shift](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Ia0hiZk5jV0xNQXhjLXBpR3FDZzZBbWxjREpBSXYxTmw1WkNUalBiemJYbU9HLUhpLTdINkxKOHZ5djhmREJVQzZVaUlTTF9xamJyQzFoNWF5UFA3dFFv?oc=5)
+
+2026-11-25 <span class="news-indication-tag">diabetic retinopathy</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Ia0hiZk5jV0xNQXhjLXBpR3FDZzZBbWxjREpBSXYxTmw1WkNUalBiemJYbU9HLUhpLTdINkxKOHZ5djhmREJVQzZVaUlTTF9xamJyQzFoNWF5UFA3dFFv?oc=5)
+
+---
 
 ### [Madhav Netralaya marks World Diabetes Day - The Hitavada](https://news.google.com/rss/articles/CBMilgFBVV95cUxOWXFVSEl0VnZnZjZSbTVkU0U3QXhyTEttYlN4VkxPRHp1RUVFdHdtVUh6X1ZVanVHUjBZY2loc1FEeDFfcHViYy1jRzJ2LTQ3OENYMzJSX1YxUXFBWGlyTWFwOUVsQkNvZGlqeGd0VUpGdmQ0XzB1bVJHa25EdzBPM0xfZk1hSHZNcDVZbGZYZzU5Sk9WaXc?oc=5)
 

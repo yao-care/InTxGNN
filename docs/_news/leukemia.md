@@ -3,9 +3,9 @@ layout: default
 title: "myeloid leukemia (leukemia) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about myeloid leukemia (leukemia). 2 articles, 5 related drugs."
+description: "Health news about myeloid leukemia (leukemia). 4 articles, 5 related drugs."
 permalink: /news/leukemia/
-last_modified_at: 2026-11-25
+last_modified_at: 2026-11-26
 ---
 
 # myeloid leukemia (leukemia) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-25
 ---
 
 <p class="key-answer" data-question="What news is there about myeloid leukemia (leukemia)?">
-<strong>myeloid leukemia (leukemia)</strong> currently has <strong>2 news articles</strong> and 5 related drugs.
+<strong>myeloid leukemia (leukemia)</strong> currently has <strong>4 news articles</strong> and 5 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,7 @@ This page brings together the latest health news about “myeloid leukemia” an
 </ul>
 </div>
 
-## Related News (2)
+## Related News (4)
 
 ### [First mutations on the path to AML may arise by age 20, study finds](https://news.google.com/rss/articles/CBMihgFBVV95cUxPdXEyUW1LTDg4SDliVXo2Q1docVRrcVhrZTlwODV4MzFHS1pOOEJNZVA3Z3pLa3ZlQ3kwd2k4Y2Y2WjNHR3h5b2tlcWdvUFFhcmZtMGRxWjlHc1hBR3FSd241VWhjWF9LMUJKeHFZQnNXMHVRTnhTWHNXUjhZbzljUElEaUZJUQ?oc=5)
 
@@ -49,6 +49,22 @@ Source: [AllSci](https://news.google.com/rss/articles/CBMihgFBVV95cUxPdXEyUW1LTD
 2026-11-24
 
 Source: [AllSci](https://news.google.com/rss/articles/CBMihgFBVV95cUxPdXEyUW1LTDg4SDliVXo2Q1docVRrcVhrZTlwODV4MzFHS1pOOEJNZVA3Z3pLa3ZlQ3kwd2k4Y2Y2WjNHR3h5b2tlcWdvUFFhcmZtMGRxWjlHc1hBR3FSd241VWhjWF9LMUJKeHFZQnNXMHVRTnhTWHNXUjhZbzljUElEaUZJUQ?oc=5)
+
+---
+
+### [Leukaemia begins developing much earlier than researchers thought, shows UK study](https://news.google.com/rss/articles/CBMihwFBVV95cUxOY3Foc3F3eXhKd29FUWpqc2tvSjgwUkJIWHllcUdvcFp4WWtQcUpqQ0hKTlNJaEtWX2NrX3ZUS2tMd2dsZ3FhREtqekJUeWVwSmtHYWs5bE5zUW5HSEw3c0RFVXFaQ2RuRGF4TVFySU5VYzlVN1ZfS0VqaGpKSVI1cDVoeS1qakXSAYwBQVVfeXFMTm9sR3lNUkxDUU1aZHlqNHFReTRaMVJEcXJ2SEsyeTFMRnVWYTMzQXVaY3FlaUw2RHVzNUZRV0VHTUhNa1p6MGtvQlpGNkdwYlZpeG9ENEhKYlJRd1hqMlhKdE5kWEVJdXNZckFUODRDd1RBdFBxLTlkTk5fNjdVRTE1ZWh5NkdzRE5SaFk?oc=5)
+
+2026-11-24
+
+Source: [ThePrint](https://news.google.com/rss/articles/CBMihwFBVV95cUxOY3Foc3F3eXhKd29FUWpqc2tvSjgwUkJIWHllcUdvcFp4WWtQcUpqQ0hKTlNJaEtWX2NrX3ZUS2tMd2dsZ3FhREtqekJUeWVwSmtHYWs5bE5zUW5HSEw3c0RFVXFaQ2RuRGF4TVFySU5VYzlVN1ZfS0VqaGpKSVI1cDVoeS1qakXSAYwBQVVfeXFMTm9sR3lNUkxDUU1aZHlqNHFReTRaMVJEcXJ2SEsyeTFMRnVWYTMzQXVaY3FlaUw2RHVzNUZRV0VHTUhNa1p6MGtvQlpGNkdwYlZpeG9ENEhKYlJRd1hqMlhKdE5kWEVJdXNZckFUODRDd1RBdFBxLTlkTk5fNjdVRTE1ZWh5NkdzRE5SaFk?oc=5)
+
+---
+
+### [Leukaemia begins developing much earlier than researchers thought, shows UK study](https://news.google.com/rss/articles/CBMihwFBVV95cUxOY3Foc3F3eXhKd29FUWpqc2tvSjgwUkJIWHllcUdvcFp4WWtQcUpqQ0hKTlNJaEtWX2NrX3ZUS2tMd2dsZ3FhREtqekJUeWVwSmtHYWs5bE5zUW5HSEw3c0RFVXFaQ2RuRGF4TVFySU5VYzlVN1ZfS0VqaGpKSVI1cDVoeS1qakXSAYwBQVVfeXFMTm9sR3lNUkxDUU1aZHlqNHFReTRaMVJEcXJ2SEsyeTFMRnVWYTMzQXVaY3FlaUw2RHVzNUZRV0VHTUhNa1p6MGtvQlpGNkdwYlZpeG9ENEhKYlJRd1hqMlhKdE5kWEVJdXNZckFUODRDd1RBdFBxLTlkTk5fNjdVRTE1ZWh5NkdzRE5SaFk?oc=5)
+
+2026-11-24
+
+Source: [ThePrint](https://news.google.com/rss/articles/CBMihwFBVV95cUxOY3Foc3F3eXhKd29FUWpqc2tvSjgwUkJIWHllcUdvcFp4WWtQcUpqQ0hKTlNJaEtWX2NrX3ZUS2tMd2dsZ3FhREtqekJUeWVwSmtHYWs5bE5zUW5HSEw3c0RFVXFaQ2RuRGF4TVFySU5VYzlVN1ZfS0VqaGpKSVI1cDVoeS1qakXSAYwBQVVfeXFMTm9sR3lNUkxDUU1aZHlqNHFReTRaMVJEcXJ2SEsyeTFMRnVWYTMzQXVaY3FlaUw2RHVzNUZRV0VHTUhNa1p6MGtvQlpGNkdwYlZpeG9ENEhKYlJRd1hqMlhKdE5kWEVJdXNZckFUODRDd1RBdFBxLTlkTk5fNjdVRTE1ZWh5NkdzRE5SaFk?oc=5)
 
 ---
 

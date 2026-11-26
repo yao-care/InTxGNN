@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Entacapone. 10 predicted indications."
 permalink: /news/entacapone/
-last_modified_at: 2026-11-25
+last_modified_at: 2026-11-26
 ---
 
 # Entacapone News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-25
 ---
 
 <p class="key-answer" data-question="What news is there about Entacapone?">
-<strong>Entacapone</strong> currently has <strong>30 news articles</strong>, with 10 predicted indications.
+<strong>Entacapone</strong> currently has <strong>33 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,23 @@ This page combines the AI-predicted indications for Entacapone with the latest h
 <p><a href="{{ '/drugs/entacapone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (30)
+## Related News (33)
+
+### [Spaceflight reshapes Alzheimer’s disease–associated molecular programs in human brain organoids - Science | AAAS](https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxOTNvSUZRd0EwNEdTVG1SVkhCQ0owZDJPWDRBZnZhVlozNWpnbHBlX1Blc040aHpxOFgyMUlSTFhGMHpLRTNpMURpYl82aUI5Q21lMHk3azNvSWtLTk9v?oc=5)
+
+2026-11-25 <span class="news-indication-tag">alzheimer</span>
+
+Source: [Science | AAAS](https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxOTNvSUZRd0EwNEdTVG1SVkhCQ0owZDJPWDRBZnZhVlozNWpnbHBlX1Blc040aHpxOFgyMUlSTFhGMHpLRTNpMURpYl82aUI5Q21lMHk3azNvSWtLTk9v?oc=5)
+
+---
+
+### [Lithium coordination compound reduces nephrotoxicity and enhances therapeutic effects in Alzheimer’s disease female mice](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ia2s4R19NalUzZ1h1V3ZJSXhfRm5Ma3dOdWgzR1B5blpHQ1lJZnh3UVFEbG1aNzl0R3U4bEFNTXUyVEdPQTJYVXlZRExpNXl2aV9vYWFIaEpaaHZxbUcwMEdrSkM?oc=5)
+
+2026-11-25 <span class="news-indication-tag">alzheimer</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ia2s4R19NalUzZ1h1V3ZJSXhfRm5Ma3dOdWgzR1B5blpHQ1lJZnh3UVFEbG1aNzl0R3U4bEFNTXUyVEdPQTJYVXlZRExpNXl2aV9vYWFIaEpaaHZxbUcwMEdrSkM?oc=5)
+
+---
 
 ### [Air pollution accelerates dementia by reprogramming brain's immune cells: study - The Hindu](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbHhaRnNWRWoxUE9rZTVfT1FZdndBODk5bUJUZmpvS3VpOUppWkRXV3Z6MnVEdWhhNVNzYVJIS1R0RmliVUlVNURLdHlnN2R4SG9FeWxHWnBSRUJTMXNyaVc3SWZnUmYzRWFCb3hDdDFSOFBOVnpUY25fY1NDeUhuSGgtWWJSdVB2ejdJRFcwdF9QNHhsbk5KTk9yWmppQW03dFJObWNETEJZTnI2WHFnbGx2dFZvTlY4MU1YVklEV0xQVHhlT1FoLUlCOUtvN292RHc3U9IB2wFBVV95cUxNcjBuY2g2QlpkWmhHUFI1TDFpSGhHbkJ5MDJnc01yNHpES25iVTlNaVZGTWJSd2hsSWJ4RTYtQ29BVVAxU040NG5USC1oQVRSOG9CTlpwQlN6R2FaUjdkbHdaRnlJVEtGdEIxODgzbFYxTzNpaGMxT0hHRjNzTjBVcGxXT1pBQ0xzQnUtN0l5Y294Zmxvbm5xRkYzQW9ULTJoZmI0ajFrQktMUXlfUjhrdjRaV01VR0xqRDkwV0hVa0V0cmpQUHdlTVBmVWFKQmN1c3RQTG14ZzZMdFU?oc=5)
 
@@ -57,6 +73,14 @@ Source: [The Hindu](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbHhaRnN
 2026-11-25 <span class="news-indication-tag">alzheimer</span>
 
 Source: [The Times of India](https://news.google.com/rss/articles/CBMiqgJBVV95cUxQZTZ6YmhlSFQ3THUtdWhtOWx1TklPclMyZ2VjX1owYkhYZjB4OEY2ZEpJMEhhTXBkRzRaZC16Q19BNWJQLVo5TE9vSVpaTkhwNERMY0ZLU3M1TEo1VVBUenA3S3NsSmpWUHRicnBTOWZnQTU3X2c2eDV6aGNqOWRNMEVmMC0temhIeHlTbWhJMnJnUThjWTR5UEFoLUlpNlpsUWRfMU9iZl9VR25KcWxvbW1Rd2ppY0dLeTRteDlIQmFNMHpCblpqUzFZZHF6cDJzWl9NWW8zcGNpOVhaUFptakI2NGxMTkR5YjZhWGxIRjhGU3dLdkotS1Z0TDVKS1R3Q2U0bzIteW42V0xoMC1tazlHbXNyc2hqeE1xWk0tN1FLN25sMGhJNnJ30gGvAkFVX3lxTE15QlZDdWx4SWJ0Y1ZtRktmVVhfVWZKRWF5NTVKYzlZM1RIQ25DcF9XdUNTSFJ0ZEhXMkV6TnNLc2xqUWdUenpOUGFYVDlHMkxOSGxzd0NSYTNhNzBocTdtRHJxV2Z5U1YwZ0VqNHVQc1V3elU2emJEVHVxOXZidkVyMktEbHhMX1JUWEN0RGdIaDhpS0c1eEh0OG44dVR1Qk9rWWJNOHBLdVpYeW5vQzNaSmtneGxXMHltQzRuLWFTcDkxUTlxREFiRzcyMlp6TlZqbzRFaWQ2aFpRRzdMdFV4V2gyUF9ER3E1cmo1Z0tVdVE2TVJHYlE4LXU1ZFdpTnNKaUNyU3JxckhGeTd3ZVBCQ3NLdVltajFvWlM2TTRLODlzYkF2dVZuNXdnUXJMZw?oc=5)
+
+---
+
+### [US Man With Alzheimer's Goes Missing, Found Playing Piano On Stranger's Lawn](https://news.google.com/rss/articles/CBMitAFBVV95cUxNaEYyTzJGbU9BYWxoVW1tSFlRUmNZSmtpbTQ2MkJ6RlFuZzNWRmVEQ09Eek8wdG1sZlh3cTlILXZlYnpBMHctNFBLX2hhWExBcUNtcWRwWkNpU1AtX2gzLVVzUEdyZ3hCb1FjTGM2ZnZnZm4zR2RKc0dETUlGbUZ2VnRUZWV4bEpDUGtMSURfdHJVVU9PUm1JUlhRMkp6d3BPOHp5aWZDekNBSHljQXItTURuMUPSAbwBQVVfeXFMUHhpUUN6TXJFRXMzWEozWFNndjdsRVJ4M2RQZ0ZCVmFtZExRRzZjVERiOURkTkNCR184RFhMOTV6bUJYV3h5LXIyVEJxTHJ3YVFuSHdUOE1xWUtfNGtrdWhJelRibTFGQ2NjdTBFalFNb0o3eXNKc3pOQU9VbDdmclpqNEhuemdIZnBSRTB6Qi1fa3hwRFFhRkRLME9HeklBc0NuWk56Z0xSdTRjSndTemR3bkdNS0JhX0NGNnU?oc=5)
+
+2026-11-24 <span class="news-indication-tag">alzheimer</span>
+
+Source: [NDTV](https://news.google.com/rss/articles/CBMitAFBVV95cUxNaEYyTzJGbU9BYWxoVW1tSFlRUmNZSmtpbTQ2MkJ6RlFuZzNWRmVEQ09Eek8wdG1sZlh3cTlILXZlYnpBMHctNFBLX2hhWExBcUNtcWRwWkNpU1AtX2gzLVVzUEdyZ3hCb1FjTGM2ZnZnZm4zR2RKc0dETUlGbUZ2VnRUZWV4bEpDUGtMSURfdHJVVU9PUm1JUlhRMkp6d3BPOHp5aWZDekNBSHljQXItTURuMUPSAbwBQVVfeXFMUHhpUUN6TXJFRXMzWEozWFNndjdsRVJ4M2RQZ0ZCVmFtZExRRzZjVERiOURkTkNCR184RFhMOTV6bUJYV3h5LXIyVEJxTHJ3YVFuSHdUOE1xWUtfNGtrdWhJelRibTFGQ2NjdTBFalFNb0o3eXNKc3pOQU9VbDdmclpqNEhuemdIZnBSRTB6Qi1fa3hwRFFhRkRLME9HeklBc0NuWk56Z0xSdTRjSndTemR3bkdNS0JhX0NGNnU?oc=5)
 
 ---
 

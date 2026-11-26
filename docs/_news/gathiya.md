@@ -3,9 +3,9 @@ layout: default
 title: "rheumatoid arthritis (gathiya) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about rheumatoid arthritis (gathiya). 4 articles, 21 related drugs."
+description: "Health news about rheumatoid arthritis (gathiya). 5 articles, 21 related drugs."
 permalink: /news/gathiya/
-last_modified_at: 2026-11-25
+last_modified_at: 2026-11-26
 ---
 
 # rheumatoid arthritis (gathiya) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-25
 ---
 
 <p class="key-answer" data-question="What news is there about rheumatoid arthritis (gathiya)?">
-<strong>rheumatoid arthritis (gathiya)</strong> currently has <strong>4 news articles</strong> and 21 related drugs.
+<strong>rheumatoid arthritis (gathiya)</strong> currently has <strong>5 news articles</strong> and 21 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -49,7 +49,15 @@ This page brings together the latest health news about “rheumatoid arthritis�
 </ul>
 </div>
 
-## Related News (4)
+## Related News (5)
+
+### [Six people with severe rheumatoid arthritis had tried up to eight drugs without lasting success. After a single infusion of engineered immune cells, three went into remission and stopped all their medication - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi3gJBVV95cUxPTEwyVWlKXzkzc0IzZEg2UHdRbGt4b1lxMmZyTllhbG9Db3dYa0RrNW56c19lREpCMG82c1Y5UlNUbkRjUmpQVTJiX0F5WEdaeHRhVWJsd0o3QzY5elM2OVlkYTFrWVVWVVlCVFBuaWMzYm9WSm5seFpkblBhOXZjTHJheThtZEhRRld3d3lpbjVsb0h5al9pTWxrSDZpRTJEMFFUVUZmUDNYZHR1amVqZEM2cllRZF9wTzl5eGh3ZFlscEhKdEpJMUhfd0Y3Y2NDOUhzMHFZQ2gxakV0dEZKcTlDSVYyQ0RxQ3hCUWkyRjhEd1dwVUxaYlZOTVN2SmhDT0YwNUJoaUV2Y1FGY0JEeTdCWkpiNC1fSEpBOUkzR29kTm5iNFM3WHh2NDl0R3BvUzBxbmJyeFd2N29PaWNKN1FKVlh2RnFCOGo1YzRYOVBxU1Q2eHQtMHRnQWVqUQ?oc=5)
+
+2026-11-25
+
+Source: [Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi3gJBVV95cUxPTEwyVWlKXzkzc0IzZEg2UHdRbGt4b1lxMmZyTllhbG9Db3dYa0RrNW56c19lREpCMG82c1Y5UlNUbkRjUmpQVTJiX0F5WEdaeHRhVWJsd0o3QzY5elM2OVlkYTFrWVVWVVlCVFBuaWMzYm9WSm5seFpkblBhOXZjTHJheThtZEhRRld3d3lpbjVsb0h5al9pTWxrSDZpRTJEMFFUVUZmUDNYZHR1amVqZEM2cllRZF9wTzl5eGh3ZFlscEhKdEpJMUhfd0Y3Y2NDOUhzMHFZQ2gxakV0dEZKcTlDSVYyQ0RxQ3hCUWkyRjhEd1dwVUxaYlZOTVN2SmhDT0YwNUJoaUV2Y1FGY0JEeTdCWkpiNC1fSEpBOUkzR29kTm5iNFM3WHh2NDl0R3BvUzBxbmJyeFd2N29PaWNKN1FKVlh2RnFCOGo1YzRYOVBxU1Q2eHQtMHRnQWVqUQ?oc=5)
+
+---
 
 ### [Rheumatoid arthritis doesn’t begin with aching joints. Biological processes start years before](https://news.google.com/rss/articles/CBMilwFBVV95cUxOaEp2Q0tka3JhcXNmRUtiUTFBMzQyWncwYU5JYy1TM0ltQkNQWWh5NmVCd3lPS3JVaWZ4Mm5Ja19QMW1UaURXVzlNdjB0VHV0Xy1zVnFvU1JhVk05V3VOdWRJd1lYazAwZHRUQnp3a0c2UDMtUjU2UG8zTHg2MVMtZFFfdExad1V0MWZVX1loOVVEbmhvcmxJ0gGcAUFVX3lxTFBFdTBJWmczdVdQQnd1UEoxWnEtTWRna0VteTNUSk53QkdWeTh6dzRtSDRUaGhwY2cyZDZ0c0RLeVZRRzU2aXBybGdvaVJLTmhEc3BManoySUphX08xOEczQ1dhY2xocllQLWcwdXVGUTVtYkNjRFNOcjU1U0JNMmgtU2pSWjBjSkQ5UnRYb3Y1MEluYS1xR2lHeTd6LQ?oc=5)
 

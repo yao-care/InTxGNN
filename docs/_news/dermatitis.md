@@ -3,9 +3,9 @@ layout: default
 title: "dermatitis News"
 parent: Health News
 nav_exclude: true
-description: "Health news about dermatitis. 2 articles, 2 related drugs."
+description: "Health news about dermatitis. 3 articles, 2 related drugs."
 permalink: /news/dermatitis/
-last_modified_at: 2026-11-18
+last_modified_at: 2026-11-26
 ---
 
 # dermatitis News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about dermatitis?">
-<strong>dermatitis</strong> currently has <strong>2 news articles</strong> and 2 related drugs.
+<strong>dermatitis</strong> currently has <strong>3 news articles</strong> and 2 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,15 @@ This page brings together the latest health news about “dermatitis” and list
 </ul>
 </div>
 
-## Related News (2)
+## Related News (3)
+
+### [Connecting Type 2 Inflammation and Atopic Dermatitis: Insights From Dr. Paller | Derm Immuno Today](https://news.google.com/rss/articles/CBMirgFBVV95cUxNSlRmUFpoNUtEeWMyY3NwMG9BR2VFa2haeUN3NlVjaXFIWkdIb252MHR3QjI3ekI4bElnNFluQ0tiMUtjMUVQdWhPMEZrbkwwbnFQblkzTlF4bncxcU9xeW91S2ZxZEI0Tk14ZTJCZGxaU0plbFUtSUNmOUFoWWpROUxWaE50bTRhVDdtWDAyWGNiSVBCeGc0V3h1ODFNSkJjWmRfd2JoYzJmc2NqU1E?oc=5)
+
+2026-11-25
+
+Source: [DocWireNews](https://news.google.com/rss/articles/CBMirgFBVV95cUxNSlRmUFpoNUtEeWMyY3NwMG9BR2VFa2haeUN3NlVjaXFIWkdIb252MHR3QjI3ekI4bElnNFluQ0tiMUtjMUVQdWhPMEZrbkwwbnFQblkzTlF4bncxcU9xeW91S2ZxZEI0Tk14ZTJCZGxaU0plbFUtSUNmOUFoWWpROUxWaE50bTRhVDdtWDAyWGNiSVBCeGc0V3h1ODFNSkJjWmRfd2JoYzJmc2NqU1E?oc=5)
+
+---
 
 ### [Novel Therapies Expected Soon for Atopic Dermatitis, HS, CSU](https://news.google.com/rss/articles/CBMirAFBVV95cUxQWW40YlVIZFh6SVBmWUgySXJoalllalJESDdibDVSVzdQTUhNNk5PUmt6eEs2WVlJLUd5Nml5dFdOVHlXR1Q0ZnR1UmduWld0emxkMFJuU3VHeGFsNlhsb0g5eDRxLWU2UDhMbk13MVlmV2h1UTlEV2NzbmlFLTlOUnQwaHVfb3g3OWlnRUVXTW9uWkZPZ1hVM0N6WHk0THFab1hieWRXOW4xcjZE?oc=5)
 

@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to D-Glucose. 0 predicted indications."
 permalink: /news/d-glucose/
-last_modified_at: 2026-11-18
+last_modified_at: 2026-11-26
 ---
 
 # D-Glucose News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about D-Glucose?">
-<strong>D-Glucose</strong> currently has <strong>2 news articles</strong>, with 0 predicted indications.
+<strong>D-Glucose</strong> currently has <strong>3 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page combines the AI-predicted indications for D-Glucose with the latest he
 <p><a href="{{ '/drugs/d-glucose/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (3)
+
+### [Connecting Type 2 Inflammation and Atopic Dermatitis: Insights From Dr. Paller | Derm Immuno Today](https://news.google.com/rss/articles/CBMirgFBVV95cUxNSlRmUFpoNUtEeWMyY3NwMG9BR2VFa2haeUN3NlVjaXFIWkdIb252MHR3QjI3ekI4bElnNFluQ0tiMUtjMUVQdWhPMEZrbkwwbnFQblkzTlF4bncxcU9xeW91S2ZxZEI0Tk14ZTJCZGxaU0plbFUtSUNmOUFoWWpROUxWaE50bTRhVDdtWDAyWGNiSVBCeGc0V3h1ODFNSkJjWmRfd2JoYzJmc2NqU1E?oc=5)
+
+2026-11-25 <span class="news-indication-tag">dermatitis</span>
+
+Source: [DocWireNews](https://news.google.com/rss/articles/CBMirgFBVV95cUxNSlRmUFpoNUtEeWMyY3NwMG9BR2VFa2haeUN3NlVjaXFIWkdIb252MHR3QjI3ekI4bElnNFluQ0tiMUtjMUVQdWhPMEZrbkwwbnFQblkzTlF4bncxcU9xeW91S2ZxZEI0Tk14ZTJCZGxaU0plbFUtSUNmOUFoWWpROUxWaE50bTRhVDdtWDAyWGNiSVBCeGc0V3h1ODFNSkJjWmRfd2JoYzJmc2NqU1E?oc=5)
+
+---
 
 ### [Novel Therapies Expected Soon for Atopic Dermatitis, HS, CSU](https://news.google.com/rss/articles/CBMirAFBVV95cUxQWW40YlVIZFh6SVBmWUgySXJoalllalJESDdibDVSVzdQTUhNNk5PUmt6eEs2WVlJLUd5Nml5dFdOVHlXR1Q0ZnR1UmduWld0emxkMFJuU3VHeGFsNlhsb0g5eDRxLWU2UDhMbk13MVlmV2h1UTlEV2NzbmlFLTlOUnQwaHVfb3g3OWlnRUVXTW9uWkZPZ1hVM0N6WHk0THFab1hieWRXOW4xcjZE?oc=5)
 
