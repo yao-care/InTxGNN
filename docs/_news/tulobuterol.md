@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Tulobuterol. 4 predicted indications."
 permalink: /news/tulobuterol/
-last_modified_at: 2026-11-26
+last_modified_at: 2026-11-27
 ---
 
 # Tulobuterol News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-26
 ---
 
 <p class="key-answer" data-question="What news is there about Tulobuterol?">
-<strong>Tulobuterol</strong> currently has <strong>14 news articles</strong>, with 4 predicted indications.
+<strong>Tulobuterol</strong> currently has <strong>15 news articles</strong>, with 4 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,15 @@ This page combines the AI-predicted indications for Tulobuterol with the latest 
 <p><a href="{{ '/drugs/tulobuterol/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (14)
+## Related News (15)
+
+### [COPD Limits Ability And Curtails Social Life: Experts - SOA | SIKSHA 'O' ANUSANDHAN](https://news.google.com/rss/articles/CBMijgFBVV95cUxONmVRTEVBOFpBUHVKd1NiUElMTHJaejlJRkZaVzkycFZhelBGSHZfOERid3NPa2NZUFRXMWUySkc4eHgyT3JvZkw2YjFCbVFUVlJpYXNUeW5wdVprNGR5ODY1eS11R2FvWXZCc2YxUmJ5ZmNQaXhBRUtqTmZkQ2hmVVVCS1hpaXRTd1dWRnlR?oc=5)
+
+2026-11-25 <span class="news-indication-tag">COPD</span>
+
+Source: [SOA | SIKSHA 'O' ANUSANDHAN](https://news.google.com/rss/articles/CBMijgFBVV95cUxONmVRTEVBOFpBUHVKd1NiUElMTHJaejlJRkZaVzkycFZhelBGSHZfOERid3NPa2NZUFRXMWUySkc4eHgyT3JvZkw2YjFCbVFUVlJpYXNUeW5wdVprNGR5ODY1eS11R2FvWXZCc2YxUmJ5ZmNQaXhBRUtqTmZkQ2hmVVVCS1hpaXRTd1dWRnlR?oc=5)
+
+---
 
 ### [COPD Is No Longer Just An Older Adult's Disease: Why Respiratory Health Needs Attention At Every Age - Health and Me](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNakxWS055QjhqdTdqUXQwYmhUVWhuR0U1cl9lUDlfeDEza2xKYjlZcjIzd0xNeWJMTTdoLXBwTlNueUNpUDJ1OFNoaXhiQmVneUZhMHhqUGFPNHVCWkxRX2owblp6cnY1T3ZRX0ZsR0FhQXVSNGUxaUl5eWg5dUJVVVhlV2stU09yM2d0TXpkd2xXeE5YdzlDYXhPT3lqQlFXT0doWmRZSXA4YzdsYXFYNFlFOUdGSGRsZnVoa1Y3MTBycHFUZ1lBNnBybm5jSTZBa3RKeU0yQ2xsOFdqenBoVkNxWjV2TEZyQWhwMEluZUdjUQ?oc=5)
 

@@ -3,9 +3,9 @@ layout: default
 title: "alzheimer (dementia) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about alzheimer (dementia). 43 articles, 8 related drugs."
+description: "Health news about alzheimer (dementia). 44 articles, 8 related drugs."
 permalink: /news/dementia/
-last_modified_at: 2026-11-26
+last_modified_at: 2026-11-27
 ---
 
 # alzheimer (dementia) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-26
 ---
 
 <p class="key-answer" data-question="What news is there about alzheimer (dementia)?">
-<strong>alzheimer (dementia)</strong> currently has <strong>43 news articles</strong> and 8 related drugs.
+<strong>alzheimer (dementia)</strong> currently has <strong>44 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,15 @@ This page brings together the latest health news about “alzheimer” and lists
 </ul>
 </div>
 
-## Related News (43)
+## Related News (44)
+
+### [Eye Movements Reveal Alzheimer’s Disease Severity](https://news.google.com/rss/articles/CBMilgFBVV95cUxPQjJ1TUYzc3FqYlo2UjNrZkttbGNEX2d4bGVhQThXZHd4OXQyTEtNbEI2QXJNejIyYUtSRTZWS1hnSXNwLW45bW9oRDNaQl9LMGxndy1uaFh2TEtOWXZlbGR4bXVvSkVYSTU4SEZpTEdsd3pJT0xucko2aklIVkRGdnc4V1ZmZ0FqRVRUM2dtTm9Pakd4Ymc?oc=5)
+
+2026-11-26
+
+Source: [EMJ](https://news.google.com/rss/articles/CBMilgFBVV95cUxPQjJ1TUYzc3FqYlo2UjNrZkttbGNEX2d4bGVhQThXZHd4OXQyTEtNbEI2QXJNejIyYUtSRTZWS1hnSXNwLW45bW9oRDNaQl9LMGxndy1uaFh2TEtOWXZlbGR4bXVvSkVYSTU4SEZpTEdsd3pJT0xucko2aklIVkRGdnc4V1ZmZ0FqRVRUM2dtTm9Pakd4Ymc?oc=5)
+
+---
 
 ### [Spaceflight reshapes Alzheimer’s disease–associated molecular programs in human brain organoids - Science | AAAS](https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxOTNvSUZRd0EwNEdTVG1SVkhCQ0owZDJPWDRBZnZhVlozNWpnbHBlX1Blc040aHpxOFgyMUlSTFhGMHpLRTNpMURpYl82aUI5Q21lMHk3azNvSWtLTk9v?oc=5)
 

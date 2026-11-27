@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Iron. 5 predicted indications."
 permalink: /news/iron/
-last_modified_at: 2026-11-25
+last_modified_at: 2026-11-27
 ---
 
 # Iron News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-25
 ---
 
 <p class="key-answer" data-question="What news is there about Iron?">
-<strong>Iron</strong> currently has <strong>9 news articles</strong>, with 5 predicted indications.
+<strong>Iron</strong> currently has <strong>10 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,15 @@ This page combines the AI-predicted indications for Iron with the latest health 
 <p><a href="{{ '/drugs/iron/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (9)
+## Related News (10)
+
+### [Ferritin Associates with Interspecific Variation in Iron Accumulation among Five Economically Important Bivalves: Sequence, Expression, and Functional Analyses - National Institutes of Health (NIH) | (.gov)](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5CclYzOE1IR1gzcVo4WGNBbDg1MHNtWEM3dDhIZHFnbnhyRC1UT0x0N20tOVIxYUM2NVFZVkhRMHhzWXJUOF9jZXVhQWJSYnk5aXQw?oc=5)
+
+2026-11-26 <span class="news-drug-tag">IRON</span> <span class="news-drug-tag">Iron</span>
+
+Source: [National Institutes of Health (NIH) | (.gov)](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5CclYzOE1IR1gzcVo4WGNBbDg1MHNtWEM3dDhIZHFnbnhyRC1UT0x0N20tOVIxYUM2NVFZVkhRMHhzWXJUOF9jZXVhQWJSYnk5aXQw?oc=5)
+
+---
 
 ### [Feeling tired and losing your hair? You might have low iron - even if you've tested 'normal' before.](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWGpRRXhaZEROZ1hnNkh4cGNzdUpfanpWZkJ0ZXFDYXhrbmlKR1ZhZTdiZWtxU0pSejB2Qkx6MG5tWHZGWFBOYWpfS3loUTRVQUctQURzVkFFbTZfQzZOcXVLOVNMb0UxMURfc1ZqUGtCYkliX1dwSmNQTW9PTE51MFVDM21GVmZmSlVic1QyYlNsMWpqYUpUSEZScWJXd2F1SHA0ZS1aMmRaNzFDVTV5dTFCTXFGZmVJQVUwSnBhZWJRMFBOcGgybDNJZVVVS0ozZE9TbFBxbFJQVFVKUC1vQk1heFM?oc=5)
 

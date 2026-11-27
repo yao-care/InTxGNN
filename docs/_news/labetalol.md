@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Labetalol. 3 predicted indications."
 permalink: /news/labetalol/
-last_modified_at: 2026-11-26
+last_modified_at: 2026-11-27
 ---
 
 # Labetalol News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-26
 ---
 
 <p class="key-answer" data-question="What news is there about Labetalol?">
-<strong>Labetalol</strong> currently has <strong>156 news articles</strong>, with 3 predicted indications.
+<strong>Labetalol</strong> currently has <strong>163 news articles</strong>, with 3 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -35,13 +35,45 @@ This page combines the AI-predicted indications for Labetalol with the latest he
 <p><a href="{{ '/drugs/labetalol/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (156)
+## Related News (163)
+
+### [Strand Life eyes market share in multi-cancer early detection - The Economic Times](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNQ2xXVy1yU3VCSlZSTUlfSkRTbzkzVnVJeThtWmNGV3BXUTFwaFlRT0tzcnRsaUhRclpLTTFUNGtPVnhlUUpDSlVEcmtSaHVUalVESEtHRTh3azRVVlJWMFdkSm1oVnlJaGM5ZzFSM2lUbWxQcGk0TTE3WnhKd3ZxUGtZYnNURjhFWkNObFJQYmZka3BHdk5GTklXaENKMGNlclZPNWc1V3hZUmlyb2pTT1ZmX3RDaExZdF9nUnh1VUxfbzl6Rlc3bjZVVm0zYXNwZTVLVVp5enFCSWlqVklqZWZXSGxTXzhIbV9RMm1hWnfSAfYBQVVfeXFMT2V5NDU4RHZhdHVzenNXMVd1bFpxRlFqX3lxSG44aXdrdTVTTmdpS0FON0ktbXRMek5sRWRkQXNCczB2cXZBalEyb2ZaVlBLS1JEU2h0bDV3ZGpKOWtlVF9NTjV3RWh4WHIwRmdZd2JKTnM3M0VweElNblFKX1VhaTdpaFBpNXFmQUxYZFNrTWM4QkxSa0xhQTNYZi0xMmc2dkh4aE5QS2hrYVRaU05Hc0JHWHBfeG1KOUQtOGpoZG4zQXdobW9PZUczZDRUcVNrb1hva0tCMDd4NlpYSlVBZzZHdExWQW9TbFhVbnJLTVNKb0hZaGRR?oc=5)
+
+2026-11-26 <span class="news-indication-tag">cancer</span>
+
+Source: [The Economic Times](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNQ2xXVy1yU3VCSlZSTUlfSkRTbzkzVnVJeThtWmNGV3BXUTFwaFlRT0tzcnRsaUhRclpLTTFUNGtPVnhlUUpDSlVEcmtSaHVUalVESEtHRTh3azRVVlJWMFdkSm1oVnlJaGM5ZzFSM2lUbWxQcGk0TTE3WnhKd3ZxUGtZYnNURjhFWkNObFJQYmZka3BHdk5GTklXaENKMGNlclZPNWc1V3hZUmlyb2pTT1ZmX3RDaExZdF9nUnh1VUxfbzl6Rlc3bjZVVm0zYXNwZTVLVVp5enFCSWlqVklqZWZXSGxTXzhIbV9RMm1hWnfSAfYBQVVfeXFMT2V5NDU4RHZhdHVzenNXMVd1bFpxRlFqX3lxSG44aXdrdTVTTmdpS0FON0ktbXRMek5sRWRkQXNCczB2cXZBalEyb2ZaVlBLS1JEU2h0bDV3ZGpKOWtlVF9NTjV3RWh4WHIwRmdZd2JKTnM3M0VweElNblFKX1VhaTdpaFBpNXFmQUxYZFNrTWM4QkxSa0xhQTNYZi0xMmc2dkh4aE5QS2hrYVRaU05Hc0JHWHBfeG1KOUQtOGpoZG4zQXdobW9PZUczZDRUcVNrb1hva0tCMDd4NlpYSlVBZzZHdExWQW9TbFhVbnJLTVNKb0hZaGRR?oc=5)
+
+---
+
+### [Glucagon-Like Peptide-1 Receptor Agonists and Pancreatic Cancer: Epidemiological Associations and Potential Host-Mediated Pathways](https://news.google.com/rss/articles/CBMi_AFBVV95cUxPbmhxUWpTeWlGVlREZjE3ZHN2RE1FUFV3aWRXa185U1pqMkxxZ1lBcjZzbnR2YTBLUEx4X3MtekE4LVBTVENzOFFPM0xlYmo4TFFCak5EUGFRQXNvQmp6d0FqMUQ5Rm9sNDB1bmRpNTZjX2d5YnBVbldqYW5LdzVCamJiNHN0R2dXczRLTHNEN1JZTEduTDhPRUlNclRMVGZXNW1LMTRMTHJGdE1qVDFHNWlYNGM2Zm5Ib1ZhRmJYQWpWSUNNN3AtQnhkV2tzYmR2Y1dEN0J6eVRLQm9DSHBxZGcxRmktQjVlRDNZc3J0N3JoRDNkakhsNW9MU0g?oc=5)
+
+2026-11-26 <span class="news-drug-tag">Glucagon</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">pancreatic cancer</span> <span class="news-indication-tag">pancreatic cancer</span>
+
+Source: [Cureus](https://news.google.com/rss/articles/CBMi_AFBVV95cUxPbmhxUWpTeWlGVlREZjE3ZHN2RE1FUFV3aWRXa185U1pqMkxxZ1lBcjZzbnR2YTBLUEx4X3MtekE4LVBTVENzOFFPM0xlYmo4TFFCak5EUGFRQXNvQmp6d0FqMUQ5Rm9sNDB1bmRpNTZjX2d5YnBVbldqYW5LdzVCamJiNHN0R2dXczRLTHNEN1JZTEduTDhPRUlNclRMVGZXNW1LMTRMTHJGdE1qVDFHNWlYNGM2Zm5Ib1ZhRmJYQWpWSUNNN3AtQnhkV2tzYmR2Y1dEN0J6eVRLQm9DSHBxZGcxRmktQjVlRDNZc3J0N3JoRDNkakhsNW9MU0g?oc=5)
+
+---
+
+### [Jame Abraham: 51 FDA Approvals in 2026 Marking Progress in Cancer Treatment](https://news.google.com/rss/articles/CBMiXEFVX3lxTE92TjNWM1k1VWpPa3NsZ3ZqcmhBektMazkzOGZNUUswUWo3eWlMN0IyZFVKeFVBa3BXM2N4MDVxOFhrVmZHemU5TU1ZenRScFZvRS1jZW05YU5wdERh?oc=5)
+
+2026-11-26 <span class="news-indication-tag">cancer</span>
+
+Source: [Oncodaily](https://news.google.com/rss/articles/CBMiXEFVX3lxTE92TjNWM1k1VWpPa3NsZ3ZqcmhBektMazkzOGZNUUswUWo3eWlMN0IyZFVKeFVBa3BXM2N4MDVxOFhrVmZHemU5TU1ZenRScFZvRS1jZW05YU5wdERh?oc=5)
+
+---
 
 ### [Daraxonrasib Plus Chemotherapy Shows Promising First-Line Efficacy in Metastatic Pancreatic Cancer - Medical Dialogues](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQUURLdDFhMkhpOFBuV203SWFzZGtOMHhyVkNEUUsxMElMLVBPTnFGeDRkMHVLZ2dZME9EanpZUEtITk9tc3lfcTg5dzFrUURUMExYUjVKUkhhbDhvY3EzWHJKbnJ5Z0cwcWNXdkp2NTlYc3NBSVBNVGJTOTdPSHE0WnVFb2NRenN5U2tYbUNLRWt1d01lOVlMS1EzZ3A3N05jNHhiNmsybXBKejVHN2JLQ3FqeUtaTEg0VTNaUk12U1ZIY1VHU0YtX1B1b3NEZE9nNUJpSlJFekZVQ09vSkVlLdIB5gFBVV95cUxQWFlfcW9MN0tFRmlZd3FLa2ZTZ3dHdzRlZTRCc0E4ZTRWM3lycmZKb1dMc0xPZGdEUE1VT2lQZnpmcUhoV1hWTlNSb1JaSTBkWlpjemRaU0NIM09sSVg2bms2bHVHQUR0cVZzdlFSLWNDNWpPNlNzSXJRVjVCVC1aRVJjUkw0aWQ5Y1BENVFjRWpxOXp5d2ZoX1dQaXhXcENQb21TTGR3Nm9jdDU5VXVROFUxak5ITzF1U01KWENJLUZNYk1HQ2tHSnU2My14QnpHWTZlMm52VlJmdWx3N0pvcnNsbG9DZw?oc=5)
 
-2026-11-26 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">pancreatic cancer</span> <span class="news-indication-tag">pancreatic cancer</span>
+2026-11-26 <span class="news-drug-tag">Glucagon</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">pancreatic cancer</span> <span class="news-indication-tag">pancreatic cancer</span>
 
 Source: [Medical Dialogues](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQUURLdDFhMkhpOFBuV203SWFzZGtOMHhyVkNEUUsxMElMLVBPTnFGeDRkMHVLZ2dZME9EanpZUEtITk9tc3lfcTg5dzFrUURUMExYUjVKUkhhbDhvY3EzWHJKbnJ5Z0cwcWNXdkp2NTlYc3NBSVBNVGJTOTdPSHE0WnVFb2NRenN5U2tYbUNLRWt1d01lOVlMS1EzZ3A3N05jNHhiNmsybXBKejVHN2JLQ3FqeUtaTEg0VTNaUk12U1ZIY1VHU0YtX1B1b3NEZE9nNUJpSlJFekZVQ09vSkVlLdIB5gFBVV95cUxQWFlfcW9MN0tFRmlZd3FLa2ZTZ3dHdzRlZTRCc0E4ZTRWM3lycmZKb1dMc0xPZGdEUE1VT2lQZnpmcUhoV1hWTlNSb1JaSTBkWlpjemRaU0NIM09sSVg2bms2bHVHQUR0cVZzdlFSLWNDNWpPNlNzSXJRVjVCVC1aRVJjUkw0aWQ5Y1BENVFjRWpxOXp5d2ZoX1dQaXhXcENQb21TTGR3Nm9jdDU5VXVROFUxak5ITzF1U01KWENJLUZNYk1HQ2tHSnU2My14QnpHWTZlMm52VlJmdWx3N0pvcnNsbG9DZw?oc=5)
+
+---
+
+### [Modified natural protein holds anti-cancer drugs tighter for targeted delivery](https://news.google.com/rss/articles/CBMixAFBVV95cUxOQ0hZLVczZGpPUTh2QjlxbHNwcTBzUlNuUWsxYVpPVGxiZEZRcUxEYmdhV3gzZVF0enVlOGV3WVdIQVhUdVFWUDBuYnl3Yl81R3hYbExSdDY4SUNHcXJDcm5HN3VycExZdG9ndXpCWmNvd1FGY0piRkJLLWlUOFh2djRYczVFVEdaV0lLeGRVWU9hTm1qLTN4RnkwcW9sRlV1bktGY3RkeFdXV3VyYmpNd3EzUTJ4ODZhRXdzMURoQ09YMjZW?oc=5)
+
+2026-11-26 <span class="news-indication-tag">cancer</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMixAFBVV95cUxOQ0hZLVczZGpPUTh2QjlxbHNwcTBzUlNuUWsxYVpPVGxiZEZRcUxEYmdhV3gzZVF0enVlOGV3WVdIQVhUdVFWUDBuYnl3Yl81R3hYbExSdDY4SUNHcXJDcm5HN3VycExZdG9ndXpCWmNvd1FGY0piRkJLLWlUOFh2djRYczVFVEdaV0lLeGRVWU9hTm1qLTN4RnkwcW9sRlV1bktGY3RkeFdXV3VyYmpNd3EzUTJ4ODZhRXdzMURoQ09YMjZW?oc=5)
 
 ---
 
@@ -85,6 +117,14 @@ Source: [News On AIR](https://news.google.com/rss/articles/CBMipwFBVV95cUxQakVaZ
 
 ---
 
+### [WHO congratulates India on administering over 10 million HPV vaccine doses - News On AIR](https://news.google.com/rss/articles/CBMiogFBVV95cUxOemVyald1MUstZlhfZHdLVThyLUUxTkpXZHBQbHVlb0xrUWVlcmNWTjdtZDk3eXRuMTdCTHJqenFFRnFoTzVmaEFXRFRxYW1UbHBHMVY5T3FHbV9kQWN1aktrSkFDZEdXYWs2ZWZTV1BXSGtfMmdJVW5CUTBNWkhUNlZmeXRvQ3Mta3pxLU1GUTYzT3dRM0w4ZEQwNi1BSEdSTXc?oc=5)
+
+2026-11-25 <span class="news-indication-tag">cancer</span>
+
+Source: [News On AIR](https://news.google.com/rss/articles/CBMiogFBVV95cUxOemVyald1MUstZlhfZHdLVThyLUUxTkpXZHBQbHVlb0xrUWVlcmNWTjdtZDk3eXRuMTdCTHJqenFFRnFoTzVmaEFXRFRxYW1UbHBHMVY5T3FHbV9kQWN1aktrSkFDZEdXYWs2ZWZTV1BXSGtfMmdJVW5CUTBNWkhUNlZmeXRvQ3Mta3pxLU1GUTYzT3dRM0w4ZEQwNi1BSEdSTXc?oc=5)
+
+---
+
 ### [Morphea and SSc Both Linked to Higher Cancer Incidence](https://news.google.com/rss/articles/CBMirgFBVV95cUxQTzhJX05GNEVkX1pSSGtXUWJFb1hFZEVmQjVVTnplQ2h1WXpwV2lTYTNiTGZwTlRYZGZ6cG5fVU9fT05tQ3V3ekJ6cUVvam16RDctYk45cXFjS2Q1VmRSekFORnl1X2ZyZ2ROS3JULUNGYmpNY2lrT3I0MTl4NnJ1Qm5lSWpvQ200ajdyaFlLTE1SclJaWDFuOURhMHFJejhUTDdvY3MwaDcxX0NfYnc?oc=5)
 
 2026-11-25 <span class="news-indication-tag">cancer</span>
@@ -98,6 +138,14 @@ Source: [Medscape](https://news.google.com/rss/articles/CBMirgFBVV95cUxQTzhJX05G
 2026-11-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">lung cancer</span>
 
 Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBEVGVuc3lZRXVfeVpVU0Z6YkNETnQwX3I3UjhkeG5GcWtIZjZsU3hYYXpfdUpuX1p4Rm15WkdSd0FmcDU5MDgwTEVTV1ZTbGcyQlJWZklWZnBTeU1uNEMw?oc=5)
+
+---
+
+### [High PSA Score Does Not Always Indicate Prostate Cancer, Experts Advise Against Panic - ETV Bharat](https://news.google.com/rss/articles/CBMizwFBVV95cUxPSEhYM3V4LVhXZ1EydnlKOXdpeFVrOFpnTXJZeHdrYWU4NnRrb1JNYk52TjE3T09WTGZWVTI4S2hBTG93MXRqbkIxMnJTQzFlM0kyYmVaOHBqdWszQzQtdmF0MzBRY210Q3FQMlpSYUY2TDF4OVJTNkZKN1dvTEpfX0NfUm0zYWVkcG1UZGdGUTJUU2JNakZ6YTdPVGRWZi1aMEE3cjRmWDhNRFctUDRLOUkzNm9NdG9sRG8tQ3RWMGF5a3lvdEFCTTJfTnpMY0nSAdQBQVVfeXFMTWt0LVF6Zk9DNHF2cTk1UzhuTGNnZ3ZHbWhzamowNE9pV0R3SkxQZDZGWEFxQ1ZFU0xtS3ZzVGRLQ21RWUlFLTZqS0ZsME5DY2FwNGJRdlI4M2xxS212ck0yV0JpdXAwcGdOM1UxX25QNzg4UHlTN2I2d3BaaDJiTmJvR01fNmw2d0ZOMXNHa1Z3Q0lZbDJ1bURob2k2cTBia2V3M0wtckplYU9BaDBMNHAyNFJRZlR5azItRlNjaVlSLUIxMjNRUVIwQ0ZoWWRKeXJxV04?oc=5)
+
+2026-11-25 <span class="news-indication-tag">cancer</span>
+
+Source: [ETV Bharat](https://news.google.com/rss/articles/CBMizwFBVV95cUxPSEhYM3V4LVhXZ1EydnlKOXdpeFVrOFpnTXJZeHdrYWU4NnRrb1JNYk52TjE3T09WTGZWVTI4S2hBTG93MXRqbkIxMnJTQzFlM0kyYmVaOHBqdWszQzQtdmF0MzBRY210Q3FQMlpSYUY2TDF4OVJTNkZKN1dvTEpfX0NfUm0zYWVkcG1UZGdGUTJUU2JNakZ6YTdPVGRWZi1aMEE3cjRmWDhNRFctUDRLOUkzNm9NdG9sRG8tQ3RWMGF5a3lvdEFCTTJfTnpMY0nSAdQBQVVfeXFMTWt0LVF6Zk9DNHF2cTk1UzhuTGNnZ3ZHbWhzamowNE9pV0R3SkxQZDZGWEFxQ1ZFU0xtS3ZzVGRLQ21RWUlFLTZqS0ZsME5DY2FwNGJRdlI4M2xxS212ck0yV0JpdXAwcGdOM1UxX25QNzg4UHlTN2I2d3BaaDJiTmJvR01fNmw2d0ZOMXNHa1Z3Q0lZbDJ1bURob2k2cTBia2V3M0wtckplYU9BaDBMNHAyNFJRZlR5azItRlNjaVlSLUIxMjNRUVIwQ0ZoWWRKeXJxV04?oc=5)
 
 ---
 
@@ -122,6 +170,14 @@ Source: [Drishti IAS](https://news.google.com/rss/articles/CBMirgFBVV95cUxPNGlZb
 2026-11-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">pancreatic cancer</span> <span class="news-indication-tag">pancreas cancer</span> <span class="news-indication-tag">pancreatic cancer</span>
 
 Source: [Oncology Central](https://news.google.com/rss/articles/CBMizAFBVV95cUxOUnpoSmJUb1ZFN3YyMXNwNXZfU1FYVF9xa1hTTjZ2RlFkNFFPU3BtSi1SZ3lVV0FoNDUzUVl3LUJzZjZoY1NQdGdrS0pNMFVzZGNodXl6UHE1d1hTeXlKTmRUR2FPWFZoTXZscDFHN3JpWFM1aFVlam01RzhqMjk0elgydkd5dkNKeF9LbzNZdTZ0MGxhZ3hrSExwWVRHRmRRd2J3MlZFZVRjWmNlaExHc3Yza2lzMEgwbHRUZUVyeTEyUVQwZ2FhTVBxNDc?oc=5)
+
+---
+
+### [Scientists produced the chemotherapy drug Taxol in tobacco plants—but it is still years from reaching patients - Medical Daily](https://news.google.com/rss/articles/CBMikAFBVV95cUxNNFNPVFJGc0FQRTBNTEMxLXFsckJOSzFISUpCMW1lMWxqTzUwczFZTTJNUGl0WHhvdXc1bWZvRmo5NmhGaXBNU01kaG85WVJTVFE3UXJ0bW5UT2NPOERzLXVaVXZFc2tBd0REX3FVRGZiMkNkSHFCbnhsMTV6TElhM0NJX0ktVF9mRU1RNXNxWVM?oc=5)
+
+2026-11-25 <span class="news-drug-tag">PACLITAXEL</span> <span class="news-drug-tag">Paclitaxel</span> <span class="news-indication-tag">cancer</span>
+
+Source: [Medical Daily](https://news.google.com/rss/articles/CBMikAFBVV95cUxNNFNPVFJGc0FQRTBNTEMxLXFsckJOSzFISUpCMW1lMWxqTzUwczFZTTJNUGl0WHhvdXc1bWZvRmo5NmhGaXBNU01kaG85WVJTVFE3UXJ0bW5UT2NPOERzLXVaVXZFc2tBd0REX3FVRGZiMkNkSHFCbnhsMTV6TElhM0NJX0ktVF9mRU1RNXNxWVM?oc=5)
 
 ---
 

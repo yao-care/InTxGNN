@@ -3,9 +3,9 @@ layout: default
 title: "heart disease (cardiovascular) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about heart disease (cardiovascular). 26 articles, 31 related drugs."
+description: "Health news about heart disease (cardiovascular). 27 articles, 31 related drugs."
 permalink: /news/cardiovascular/
-last_modified_at: 2026-11-25
+last_modified_at: 2026-11-27
 ---
 
 # heart disease (cardiovascular) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-25
 ---
 
 <p class="key-answer" data-question="What news is there about heart disease (cardiovascular)?">
-<strong>heart disease (cardiovascular)</strong> currently has <strong>26 news articles</strong> and 31 related drugs.
+<strong>heart disease (cardiovascular)</strong> currently has <strong>27 news articles</strong> and 31 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -58,7 +58,15 @@ This page brings together the latest health news about “heart disease” and l
 </ul>
 </div>
 
-## Related News (26)
+## Related News (27)
+
+### [Heart Attack And Stroke Risk May Be Detected 30 Years Early: What Are The Warning Signs? - Health and Me](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVFhXck4xZzhPd3lGXzdlek8xQXpHVndMeEJaWHNERFJaalJ1TlBhYlhPckxqQUhUb0IxMmRvUGNrY1ptcFZDRkhFb3FnamthX1RrWWRrVmR1SjBFb1RaOHQ2WVgwUk9oQm1wVXZha1hfQ01zYmxVcnNkc2p0WnlVZ21uZ0FVSmNtb3lEMzB5T3R6V0hsWUVyNE10dlhsTnBRbW9oZTFIM05DdWh3RV90SlhUSElubTBuYXMzd3o3bVcxQmM4aHhSRHBnV2hoOHk2dWxEQ2JRRGI3VVQyQTVuRGZn?oc=5)
+
+2026-11-26
+
+Source: [Health and Me](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVFhXck4xZzhPd3lGXzdlek8xQXpHVndMeEJaWHNERFJaalJ1TlBhYlhPckxqQUhUb0IxMmRvUGNrY1ptcFZDRkhFb3FnamthX1RrWWRrVmR1SjBFb1RaOHQ2WVgwUk9oQm1wVXZha1hfQ01zYmxVcnNkc2p0WnlVZ21uZ0FVSmNtb3lEMzB5T3R6V0hsWUVyNE10dlhsTnBRbW9oZTFIM05DdWh3RV90SlhUSElubTBuYXMzd3o3bVcxQmM4aHhSRHBnV2hoOHk2dWxEQ2JRRGI3VVQyQTVuRGZn?oc=5)
+
+---
 
 ### [Your heart disease risk may start building decades earlier than you think](https://news.google.com/rss/articles/CBMivgFBVV95cUxOTWIxaEFrUGw3V3MtUFV6WDBjNEFtTHA1eWRXaEhRRXVneWs3M2EyMDdLTnJXc1BMWTQ5ckZrSXJ3U0JlMWlObWFaZG9qOTRvc1NrZzM5YzhoUzhGcXd6VE5yWndFRFNvU3ppcFlxRnNLRm9INFhZVGd6NkZvRF90b3pLNk81Wm5paC1IeFNzZWs4ZktiMUVWTW52SjBkbkZwNjJHcWNVdXlXWkdZcGtKVTBUWlZ6eDZDWndrMUx3?oc=5)
 

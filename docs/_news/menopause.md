@@ -3,9 +3,9 @@ layout: default
 title: "menopause News"
 parent: Health News
 nav_exclude: true
-description: "Health news about menopause. 2 articles, 23 related drugs."
+description: "Health news about menopause. 3 articles, 23 related drugs."
 permalink: /news/menopause/
-last_modified_at: 2026-11-25
+last_modified_at: 2026-11-27
 ---
 
 # menopause News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-25
 ---
 
 <p class="key-answer" data-question="What news is there about menopause?">
-<strong>menopause</strong> currently has <strong>2 news articles</strong> and 23 related drugs.
+<strong>menopause</strong> currently has <strong>3 news articles</strong> and 23 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -44,7 +44,15 @@ This page brings together the latest health news about “menopause” and lists
 </ul>
 </div>
 
-## Related News (2)
+## Related News (3)
+
+### [The menopause India does not treat - The Hindu](https://news.google.com/rss/articles/CBMimwFBVV95cUxPQlcwcy1haTdOOXFsaDVGUlhmT0NSblM2QVFuX2pVNmRPQjdpbEdmaVl5M0dIRUpwOEY5dWlHdW5Jc2dDcVlzRjhWRXp2VWM2TV9fQmVwODJRZm5NZ2tBVVRLSVNVZDVqUmprcUtNSDFjTC1xZGt0STJhZDJiODdlaHMycEh4WTVSNE9tZk1Kc0JUWnBVVFdyQ2thQdIBogFBVV95cUxOZmF3cVF0a3ZZVVdHUzBVeHR1dVZhMV81czBuZm1scVBEdnNRcGtlakduVnM3Q1FHVTNFa3hwVURwQm5tcTJBT3Rlcndad1c2WVAzZUZna2M1Z3EtQ1VxLVBtWG5EZWhjY0I2Qjc4M2FaVDdwQm1nTWRQQVlOSnFsekZqaGNBOWRKLUZqQklJTHM1dEFTbkVXRXdicTZDZC1FSVE?oc=5)
+
+2026-11-26
+
+Source: [The Hindu](https://news.google.com/rss/articles/CBMimwFBVV95cUxPQlcwcy1haTdOOXFsaDVGUlhmT0NSblM2QVFuX2pVNmRPQjdpbEdmaVl5M0dIRUpwOEY5dWlHdW5Jc2dDcVlzRjhWRXp2VWM2TV9fQmVwODJRZm5NZ2tBVVRLSVNVZDVqUmprcUtNSDFjTC1xZGt0STJhZDJiODdlaHMycEh4WTVSNE9tZk1Kc0JUWnBVVFdyQ2thQdIBogFBVV95cUxOZmF3cVF0a3ZZVVdHUzBVeHR1dVZhMV81czBuZm1scVBEdnNRcGtlakduVnM3Q1FHVTNFa3hwVURwQm5tcTJBT3Rlcndad1c2WVAzZUZna2M1Z3EtQ1VxLVBtWG5EZWhjY0I2Qjc4M2FaVDdwQm1nTWRQQVlOSnFsekZqaGNBOWRKLUZqQklJTHM1dEFTbkVXRXdicTZDZC1FSVE?oc=5)
+
+---
 
 ### [Targeting Neurokinin Pathways in Menopause VMS: Dual NK-1 and NK-3 Receptor Antagonism](https://news.google.com/rss/articles/CBMi8AFBVV95cUxONy1ReTJ2dHJ1U091RHRkemZUT1p4QnJnWGR3UjE3U1I4dHBNY3FicHlhMnREMkRiWFVBVDFxWGN0d1h6Q3IxOEpYZ0ZHSmo1SlBXc3Q3ZjNkQVFrU05tZzlTTnZacEcxSnVpS080enVmVFNuaDlfZ2RYOWYxRDZDYm5sZDY1VjliLXN4clJQb1BfWG92LUs3WFA3UlVwS2hlOEVfQ0JBd2Y4Z1VsT1RrTjgzeW9mN1liX3dyV3V0ODFQbFdmYmhwTlBXNW15ZENybDJhNDVKUzNIbklndW93WTBraHdRY1VTd1ptWTVBNzQ?oc=5)
 

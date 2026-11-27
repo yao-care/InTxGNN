@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Paclitaxel. 2 predicted indications."
 permalink: /news/paclitaxel/
-last_modified_at: 2026-11-26
+last_modified_at: 2026-11-27
 ---
 
 # Paclitaxel News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-26
 ---
 
 <p class="key-answer" data-question="What news is there about Paclitaxel?">
-<strong>Paclitaxel</strong> currently has <strong>6 news articles</strong>, with 2 predicted indications.
+<strong>Paclitaxel</strong> currently has <strong>7 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,15 @@ This page combines the AI-predicted indications for Paclitaxel with the latest h
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (6)
+## Related News (7)
+
+### [Scientists produced the chemotherapy drug Taxol in tobacco plants—but it is still years from reaching patients - Medical Daily](https://news.google.com/rss/articles/CBMikAFBVV95cUxNNFNPVFJGc0FQRTBNTEMxLXFsckJOSzFISUpCMW1lMWxqTzUwczFZTTJNUGl0WHhvdXc1bWZvRmo5NmhGaXBNU01kaG85WVJTVFE3UXJ0bW5UT2NPOERzLXVaVXZFc2tBd0REX3FVRGZiMkNkSHFCbnhsMTV6TElhM0NJX0ktVF9mRU1RNXNxWVM?oc=5)
+
+2026-11-25 <span class="news-drug-tag">PACLITAXEL</span> <span class="news-drug-tag">Paclitaxel</span> <span class="news-indication-tag">cancer</span>
+
+Source: [Medical Daily](https://news.google.com/rss/articles/CBMikAFBVV95cUxNNFNPVFJGc0FQRTBNTEMxLXFsckJOSzFISUpCMW1lMWxqTzUwczFZTTJNUGl0WHhvdXc1bWZvRmo5NmhGaXBNU01kaG85WVJTVFE3UXJ0bW5UT2NPOERzLXVaVXZFc2tBd0REX3FVRGZiMkNkSHFCbnhsMTV6TElhM0NJX0ktVF9mRU1RNXNxWVM?oc=5)
+
+---
 
 ### [Can tobacco plants help produce cancer drugs? Scientists achieve 500-fold jump in Taxol](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQYzdOWlN2OXdkQmszQ2ZNUnM5OWlNSXNKMXNtV29wTFlTTW9LRW5oM3g2SF9VRTRDNFJvYV9GSW83RjFKak9yaVFlRGYtSGZtREpCdGNkcTFxSEhXTUhjU29lVl9YMHN1aFNPZUJTZW9QZmFtMF83TjVPa3UwM2NNZXozN0dYZEg1RW9ySkFYZFFOa3dpRVBMcFBxWGJJS0tKdjFxblFPNG1mT1FCTk5Fck9UbkZTajdaUWowNjZLRFJleFliZ1hTNWIxX2VsaG1hNnpOb2xvc09UY2xVWkHSAeMBQVVfeXFMUHhOUm5qSk1IQnpJVVBmQlVTZFlWWHlWeEZ5a0dQSVpRT2JBY3AwZUFaeDBtNmMzekZrNS1FNEpMc2szRWRrTzRJUVUwZlFxZnFBdmJrblNpZDk3OENVLXVRTS1neWh0N3pnclplcVdBTF8yZGQtdUw2UUJhVzI0NE9BX2NDVGJ1M2hZNnlESGVkNDN2ckk0aFdGRUE3U0swMVpYVzU5dWlxLTM1cklQYTZVeFNMYnFxcFBnTTVqTXd5eFVEclRycXBzQU9sUUdPQ0hTcmxwVVg5RTRYcnRJdS0wbjg?oc=5)
 

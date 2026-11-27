@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Amikacin. 10 predicted indications."
 permalink: /news/amikacin/
-last_modified_at: 2026-11-25
+last_modified_at: 2026-11-27
 ---
 
 # Amikacin News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-25
 ---
 
 <p class="key-answer" data-question="What news is there about Amikacin?">
-<strong>Amikacin</strong> currently has <strong>2 news articles</strong>, with 10 predicted indications.
+<strong>Amikacin</strong> currently has <strong>3 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ This page combines the AI-predicted indications for Amikacin with the latest hea
 <p><a href="{{ '/drugs/amikacin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (3)
+
+### [When surgery unmasks the typhoid fever epidemic in Niger: a multicentre retrospective cohort study of 2,931 ileal perforations (2014–2019)](https://news.google.com/rss/articles/CBMipwFBVV95cUxORWRPWWJTQmhKSUhTaDRhZmpHVUl6X2xFeUMycUVGSV9rUVQ1LTdyZ1UyQzJ1eTFuY3hyT3RNZGJFM0ZDQ2VxcDZ3RlppUGVlWGY3TWlSemdubXB0YVN0V29nd1ZWV1pQbDIwc1haOGZlNmY0TWFNeTZFaERlOGxGV0JTb2pQejBZQk9WYmZZWU9KNWZiQWMxcEpDOUQ4QUN3TXBlR0dwaw?oc=5)
+
+2026-11-26 <span class="news-indication-tag">typhoid fever</span> <span class="news-indication-tag">typhoid</span> <span class="news-indication-tag">typhoid fever</span> <span class="news-indication-tag">typhoid fever</span>
+
+Source: [springermedizin.de](https://news.google.com/rss/articles/CBMipwFBVV95cUxORWRPWWJTQmhKSUhTaDRhZmpHVUl6X2xFeUMycUVGSV9rUVQ1LTdyZ1UyQzJ1eTFuY3hyT3RNZGJFM0ZDQ2VxcDZ3RlppUGVlWGY3TWlSemdubXB0YVN0V29nd1ZWV1pQbDIwc1haOGZlNmY0TWFNeTZFaERlOGxGV0JTb2pQejBZQk9WYmZZWU9KNWZiQWMxcEpDOUQ4QUN3TXBlR0dwaw?oc=5)
+
+---
 
 ### [How Viral Synergy Accelerates Septicemic Salmonellosis](https://news.google.com/rss/articles/CBMivAFBVV95cUxPOG9aYUZSNGpSXzRlR2hSVUNTOHkwVWZJV1VHdlFNZnRwYVR3ZUhDVXF1QXNYdG1RbEFsNjI0a0xlNkpXLWFfaC04bU5XT0tla3dKRVdIaHFyUnRTY1l0dmZCUjBBTlM3QVdvQmk2WkxUcDJPSGU1UGt5RVptT1c0Q0FwYWVJVkY1VVpzVUl1bHVCVlRjVURQVlFGbzJ0N2FaenBzejZPZlFka2JuQWxPR0tITGJoYTZzT3ZlWg?oc=5)
 
