@@ -1,5 +1,5 @@
 {
-  "last_check": "2026-11-27T06:27:26.992195",
+  "last_check": "2026-11-27T20:43:34.954252",
   "seen_trials": {
     "Albendazole": [
       "NCT07873398"
@@ -247,6 +247,12 @@
     ],
     "Lenalidomide": [
       "NCT01522976"
+    ],
+    "Dexketoprofen": [
+      "NCT07960901"
+    ],
+    "Nepafenac": [
+      "NCT07962981"
     ]
   }
 }
