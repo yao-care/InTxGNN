@@ -3,7 +3,7 @@ layout: default
 title: "pancreatic cancer (pancreas cancer) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about pancreatic cancer (pancreas cancer). 26 articles, 1 related drugs."
+description: "Health news about pancreatic cancer (pancreas cancer). 28 articles, 1 related drugs."
 permalink: /news/pancreas-cancer/
 last_modified_at: 2026-11-27
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-27
 ---
 
 <p class="key-answer" data-question="What news is there about pancreatic cancer (pancreas cancer)?">
-<strong>pancreatic cancer (pancreas cancer)</strong> currently has <strong>26 news articles</strong> and 1 related drugs.
+<strong>pancreatic cancer (pancreas cancer)</strong> currently has <strong>28 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,23 @@ This page brings together the latest health news about “pancreatic cancer” a
 </ul>
 </div>
 
-## Related News (26)
+## Related News (28)
+
+### [Breakthrough drug gives doctors new tool to fight pancreatic cancer - The National](https://news.google.com/rss/articles/CBMivAFBVV95cUxObTBkNUlKLVVKZ3hxb1hSN1BoQmJScGVpejA3UjFJbE9UQS1IS0FrZDR2aXFabWdfRUZGUjFvNjB4dGVmaUV4MGFqNUlESFo2NTBCZDYycWJUTUdzU3FNWEFKeC0xNkthX2RRX21tRXRWaXlCSHktbmMyMXh0aFplNWZzNVdVUk9vekpNMjB1UURiOEF3ZEJjaWNHVFMwX2x5dlljdWoyOGFuaEp1aG03RjFyTjMyNjFIeGNjaw?oc=5)
+
+2026-11-27
+
+Source: [The National](https://news.google.com/rss/articles/CBMivAFBVV95cUxObTBkNUlKLVVKZ3hxb1hSN1BoQmJScGVpejA3UjFJbE9UQS1IS0FrZDR2aXFabWdfRUZGUjFvNjB4dGVmaUV4MGFqNUlESFo2NTBCZDYycWJUTUdzU3FNWEFKeC0xNkthX2RRX21tRXRWaXlCSHktbmMyMXh0aFplNWZzNVdVUk9vekpNMjB1UURiOEF3ZEJjaWNHVFMwX2x5dlljdWoyOGFuaEp1aG03RjFyTjMyNjFIeGNjaw?oc=5)
+
+---
+
+### [Oncologist explains why pancreatic cancer is often difficult to spot early: When stomach discomfort is more than just acidity, prevention, diagnosis | Health - Hindustan Times](https://news.google.com/rss/articles/CBMiugJBVV95cUxPeU55d21JWEdvNmIwNFMzVy1WMDUxYmJ5RmlLT0NOZjFFd0hLcWJiRDNleUxUdlZBSENXNkdpQ09ubXMxaTRmZjRBa1Y5RHoxVVNYY1NkeEFGcGpDbGt1S0owYUh4Q2ljUU1rVGpuWXJrcTR1a1p2aEhFbTNSaWk4WDJqZGZwVEI5VE1SVm42UG9aZkgxNUpuRXkzWmtNNWFaQWladWYxVVRwaFRHRl9VcXZxQk9MdEZxTjVkUUphbzRuTHF0Z0FLTUFQajNndWFIMFVDcXF4V04zamFYdlY0X2ZWdHFyX2pRRDktX0dLQTMyRG0zZ1RnLTliYUNuQnVvNWpNSXMxSzNWV0M0SlVGaGpDYjJtMHBnWFRVeHdPbmtheXBVQXZlVlJJNXpRUFUxdm9YQkU2MTlZd9IBvwJBVV95cUxPSEZNN2VRd1hvT1FVOHRGMUZmNndYTU5BNmZpM0dUaWEwNnVpRFhfS0pvTzdjSUIyVXlEcjhPbzFyUWJtN21TVTg0SEJwUEZfb0lJYmNoYnFmWVYwU0N3SXk0ZjRsTDFIQmd5aF93SVRCbmtCUHJYYmhwOHhpbVk4QjkxTjJqZVFPRndKdWhBRjcyb0NYT0FvLWdyWVpSbFJrME5OQ3N2Z052ZDZBZDFHaFQyZlY3c2hrR2w1WWdIYmdIcE5SQ0EycUQtX0ZYVVZmMk1PX0lQcmpCNFlpTDRXUDE2di1VbXQ3WUZuT2IwZWJRZmU2WTdiREphdzBwSUwzcGowUVNNZnFSVEczWDZ6TlpnUW9JX0s4R3dnSjVQMkZPWUp2UkVLRFhHby0yWWg0SmFVR1NCM09EaDRPQzY4?oc=5)
+
+2026-11-27
+
+Source: [Hindustan Times](https://news.google.com/rss/articles/CBMiugJBVV95cUxPeU55d21JWEdvNmIwNFMzVy1WMDUxYmJ5RmlLT0NOZjFFd0hLcWJiRDNleUxUdlZBSENXNkdpQ09ubXMxaTRmZjRBa1Y5RHoxVVNYY1NkeEFGcGpDbGt1S0owYUh4Q2ljUU1rVGpuWXJrcTR1a1p2aEhFbTNSaWk4WDJqZGZwVEI5VE1SVm42UG9aZkgxNUpuRXkzWmtNNWFaQWladWYxVVRwaFRHRl9VcXZxQk9MdEZxTjVkUUphbzRuTHF0Z0FLTUFQajNndWFIMFVDcXF4V04zamFYdlY0X2ZWdHFyX2pRRDktX0dLQTMyRG0zZ1RnLTliYUNuQnVvNWpNSXMxSzNWV0M0SlVGaGpDYjJtMHBnWFRVeHdPbmtheXBVQXZlVlJJNXpRUFUxdm9YQkU2MTlZd9IBvwJBVV95cUxPSEZNN2VRd1hvT1FVOHRGMUZmNndYTU5BNmZpM0dUaWEwNnVpRFhfS0pvTzdjSUIyVXlEcjhPbzFyUWJtN21TVTg0SEJwUEZfb0lJYmNoYnFmWVYwU0N3SXk0ZjRsTDFIQmd5aF93SVRCbmtCUHJYYmhwOHhpbVk4QjkxTjJqZVFPRndKdWhBRjcyb0NYT0FvLWdyWVpSbFJrME5OQ3N2Z052ZDZBZDFHaFQyZlY3c2hrR2w1WWdIYmdIcE5SQ0EycUQtX0ZYVVZmMk1PX0lQcmpCNFlpTDRXUDE2di1VbXQ3WUZuT2IwZWJRZmU2WTdiREphdzBwSUwzcGowUVNNZnFSVEczWDZ6TlpnUW9JX0s4R3dnSjVQMkZPWUp2UkVLRFhHby0yWWg0SmFVR1NCM09EaDRPQzY4?oc=5)
+
+---
 
 ### [Glucagon-Like Peptide-1 Receptor Agonists and Pancreatic Cancer: Epidemiological Associations and Potential Host-Mediated Pathways](https://news.google.com/rss/articles/CBMi_AFBVV95cUxPbmhxUWpTeWlGVlREZjE3ZHN2RE1FUFV3aWRXa185U1pqMkxxZ1lBcjZzbnR2YTBLUEx4X3MtekE4LVBTVENzOFFPM0xlYmo4TFFCak5EUGFRQXNvQmp6d0FqMUQ5Rm9sNDB1bmRpNTZjX2d5YnBVbldqYW5LdzVCamJiNHN0R2dXczRLTHNEN1JZTEduTDhPRUlNclRMVGZXNW1LMTRMTHJGdE1qVDFHNWlYNGM2Zm5Ib1ZhRmJYQWpWSUNNN3AtQnhkV2tzYmR2Y1dEN0J6eVRLQm9DSHBxZGcxRmktQjVlRDNZc3J0N3JoRDNkakhsNW9MU0g?oc=5)
 

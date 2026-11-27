@@ -3,7 +3,7 @@ layout: default
 title: "COPD (chronic obstructive pulmonary disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about COPD (chronic obstructive pulmonary disease). 15 articles, 1 related drugs."
+description: "Health news about COPD (chronic obstructive pulmonary disease). 16 articles, 1 related drugs."
 permalink: /news/chronic-obstructive-pulmonary-disease/
 last_modified_at: 2026-11-27
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-27
 ---
 
 <p class="key-answer" data-question="What news is there about COPD (chronic obstructive pulmonary disease)?">
-<strong>COPD (chronic obstructive pulmonary disease)</strong> currently has <strong>15 news articles</strong> and 1 related drugs.
+<strong>COPD (chronic obstructive pulmonary disease)</strong> currently has <strong>16 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page brings together the latest health news about “COPD” and lists the 
 </ul>
 </div>
 
-## Related News (15)
+## Related News (16)
+
+### [Pericapsular Nerve Block for Proximal Humerus Surgery in a Patient With Severe Kyphoscoliosis and Chronic Obstructive Pulmonary Disease: A Case Report](https://news.google.com/rss/articles/CBMilwJBVV95cUxPVzRnWGlaLXBjM2swV1Y2aXBkYVlDcGtRRERwSTlYZzE1cFVUUmtuS1JMbExQUDlLcVpIVmVxNG53RWJOOG9nWm9IRzl1Q3JlUlNER1VuOHIyY1lDQzZFeXo2eWNtclhxS1dmV0QtUElPbEJzeEs4RDBTb2VsSVNodTJqNUJqeUIwNnA1YW1wcjVxMnFldC16czFDZjZVeHNkRGNIYndXZlJ6YTFRcnRmeEhBNzlTb1F4OWphRy0tQkcyTmdaQXIwblRHN1kyWk5qcTVmZmhsQ3Zrdm1jNlhCU3dVUHdBTE52TklEWGZ5MkRwcXA5Z3c0NUh4ZzRMWVBCcnd5cjhOXzVRUGRWbEphQmxKNTFaOTQ?oc=5)
+
+2026-11-27
+
+Source: [Cureus](https://news.google.com/rss/articles/CBMilwJBVV95cUxPVzRnWGlaLXBjM2swV1Y2aXBkYVlDcGtRRERwSTlYZzE1cFVUUmtuS1JMbExQUDlLcVpIVmVxNG53RWJOOG9nWm9IRzl1Q3JlUlNER1VuOHIyY1lDQzZFeXo2eWNtclhxS1dmV0QtUElPbEJzeEs4RDBTb2VsSVNodTJqNUJqeUIwNnA1YW1wcjVxMnFldC16czFDZjZVeHNkRGNIYndXZlJ6YTFRcnRmeEhBNzlTb1F4OWphRy0tQkcyTmdaQXIwblRHN1kyWk5qcTVmZmhsQ3Zrdm1jNlhCU3dVUHdBTE52TklEWGZ5MkRwcXA5Z3c0NUh4ZzRMWVBCcnd5cjhOXzVRUGRWbEphQmxKNTFaOTQ?oc=5)
+
+---
 
 ### [COPD Limits Ability And Curtails Social Life: Experts - SOA | SIKSHA 'O' ANUSANDHAN](https://news.google.com/rss/articles/CBMijgFBVV95cUxONmVRTEVBOFpBUHVKd1NiUElMTHJaejlJRkZaVzkycFZhelBGSHZfOERid3NPa2NZUFRXMWUySkc4eHgyT3JvZkw2YjFCbVFUVlJpYXNUeW5wdVprNGR5ODY1eS11R2FvWXZCc2YxUmJ5ZmNQaXhBRUtqTmZkQ2hmVVVCS1hpaXRTd1dWRnlR?oc=5)
 

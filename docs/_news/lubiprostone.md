@@ -15,7 +15,7 @@ last_modified_at: 2026-11-27
 ---
 
 <p class="key-answer" data-question="What news is there about Lubiprostone?">
-<strong>Lubiprostone</strong> currently has <strong>28 news articles</strong>, with 10 predicted indications.
+<strong>Lubiprostone</strong> currently has <strong>30 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,23 @@ This page combines the AI-predicted indications for Lubiprostone with the latest
 <p><a href="{{ '/drugs/lubiprostone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (28)
+## Related News (30)
+
+### [Can Clinicians Predict Heart Attacks Decades Before?](https://news.google.com/rss/articles/CBMimwFBVV95cUxPbHJObWhsSWJiWHloUDJqOW5GQ2FGRVU2U0VMcU9MVnZjMWNkSUh2ZXBhUVdEc0kzRlpYRkppODRsSDRUMEpTb0tqNUlOQkFLOFRaeE5oaWFzR0x6VWpuVjEzTElmTy1ULS1lZVdRaDh1bzZmMUE5N3doaFlhYmJiRlMzZnVEWlBWMGttb0w2R1NzM05ObGJoZ1EyOA?oc=5)
+
+2026-11-27 <span class="news-indication-tag">cardiovascular</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
+
+Source: [EMJ](https://news.google.com/rss/articles/CBMimwFBVV95cUxPbHJObWhsSWJiWHloUDJqOW5GQ2FGRVU2U0VMcU9MVnZjMWNkSUh2ZXBhUVdEc0kzRlpYRkppODRsSDRUMEpTb0tqNUlOQkFLOFRaeE5oaWFzR0x6VWpuVjEzTElmTy1ULS1lZVdRaDh1bzZmMUE5N3doaFlhYmJiRlMzZnVEWlBWMGttb0w2R1NzM05ObGJoZ1EyOA?oc=5)
+
+---
+
+### [Brushing your way to thicker hair? Electric comb promotes rapid hair regrowth in bald mice](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUmZwSjhpYUpEYVNaX3NaMmpHWFNxTUQ3RVhqMXpBZ1ZPemlQV0xMSHNxYUVSYU1ETEJyNWNPWXlqaUZrd2RYZTNXWUpZbFFaV1lES1I5bHl1ZlFvajV5VTBxN2dhTTRmYXFxeFJqaUE5YW9BVVVFWHBuQWR4THEzOHhRMklUeEJETHJCV2FhM3UxQXRfZWJNMVUxeU5iVkt1S2NZZzRSaVJXWmNSeTA5Nm1HS1ZqMXVLcm1VTUVPU2dCNVUwTHRSYS0wbWVPRVZseC1GNFFUWURIVHhyUnFJ?oc=5)
+
+2026-11-27 <span class="news-indication-tag">alopecia</span> <span class="news-indication-tag">genetic alopecia</span>
+
+Source: [BioTechniques](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUmZwSjhpYUpEYVNaX3NaMmpHWFNxTUQ3RVhqMXpBZ1ZPemlQV0xMSHNxYUVSYU1ETEJyNWNPWXlqaUZrd2RYZTNXWUpZbFFaV1lES1I5bHl1ZlFvajV5VTBxN2dhTTRmYXFxeFJqaUE5YW9BVVVFWHBuQWR4THEzOHhRMklUeEJETHJCV2FhM3UxQXRfZWJNMVUxeU5iVkt1S2NZZzRSaVJXWmNSeTA5Nm1HS1ZqMXVLcm1VTUVPU2dCNVUwTHRSYS0wbWVPRVZseC1GNFFUWURIVHhyUnFJ?oc=5)
+
+---
 
 ### [Heart Attack And Stroke Risk May Be Detected 30 Years Early: What Are The Warning Signs? - Health and Me](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVFhXck4xZzhPd3lGXzdlek8xQXpHVndMeEJaWHNERFJaalJ1TlBhYlhPckxqQUhUb0IxMmRvUGNrY1ptcFZDRkhFb3FnamthX1RrWWRrVmR1SjBFb1RaOHQ2WVgwUk9oQm1wVXZha1hfQ01zYmxVcnNkc2p0WnlVZ21uZ0FVSmNtb3lEMzB5T3R6V0hsWUVyNE10dlhsTnBRbW9oZTFIM05DdWh3RV90SlhUSElubTBuYXMzd3o3bVcxQmM4aHhSRHBnV2hoOHk2dWxEQ2JRRGI3VVQyQTVuRGZn?oc=5)
 

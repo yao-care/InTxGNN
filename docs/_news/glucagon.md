@@ -15,7 +15,7 @@ last_modified_at: 2026-11-27
 ---
 
 <p class="key-answer" data-question="What news is there about Glucagon?">
-<strong>Glucagon</strong> currently has <strong>2 news articles</strong>, with 1 predicted indications.
+<strong>Glucagon</strong> currently has <strong>3 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,15 @@ This page combines the AI-predicted indications for Glucagon with the latest hea
 <p><a href="{{ '/drugs/glucagon/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (3)
+
+### [Breakthrough drug gives doctors new tool to fight pancreatic cancer - The National](https://news.google.com/rss/articles/CBMivAFBVV95cUxObTBkNUlKLVVKZ3hxb1hSN1BoQmJScGVpejA3UjFJbE9UQS1IS0FrZDR2aXFabWdfRUZGUjFvNjB4dGVmaUV4MGFqNUlESFo2NTBCZDYycWJUTUdzU3FNWEFKeC0xNkthX2RRX21tRXRWaXlCSHktbmMyMXh0aFplNWZzNVdVUk9vekpNMjB1UURiOEF3ZEJjaWNHVFMwX2x5dlljdWoyOGFuaEp1aG03RjFyTjMyNjFIeGNjaw?oc=5)
+
+2026-11-27 <span class="news-drug-tag">Glucagon</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">pancreatic cancer</span> <span class="news-indication-tag">pancreatic cancer</span>
+
+Source: [The National](https://news.google.com/rss/articles/CBMivAFBVV95cUxObTBkNUlKLVVKZ3hxb1hSN1BoQmJScGVpejA3UjFJbE9UQS1IS0FrZDR2aXFabWdfRUZGUjFvNjB4dGVmaUV4MGFqNUlESFo2NTBCZDYycWJUTUdzU3FNWEFKeC0xNkthX2RRX21tRXRWaXlCSHktbmMyMXh0aFplNWZzNVdVUk9vekpNMjB1UURiOEF3ZEJjaWNHVFMwX2x5dlljdWoyOGFuaEp1aG03RjFyTjMyNjFIeGNjaw?oc=5)
+
+---
 
 ### [Glucagon-Like Peptide-1 Receptor Agonists and Pancreatic Cancer: Epidemiological Associations and Potential Host-Mediated Pathways](https://news.google.com/rss/articles/CBMi_AFBVV95cUxPbmhxUWpTeWlGVlREZjE3ZHN2RE1FUFV3aWRXa185U1pqMkxxZ1lBcjZzbnR2YTBLUEx4X3MtekE4LVBTVENzOFFPM0xlYmo4TFFCak5EUGFRQXNvQmp6d0FqMUQ5Rm9sNDB1bmRpNTZjX2d5YnBVbldqYW5LdzVCamJiNHN0R2dXczRLTHNEN1JZTEduTDhPRUlNclRMVGZXNW1LMTRMTHJGdE1qVDFHNWlYNGM2Zm5Ib1ZhRmJYQWpWSUNNN3AtQnhkV2tzYmR2Y1dEN0J6eVRLQm9DSHBxZGcxRmktQjVlRDNZc3J0N3JoRDNkakhsNW9MU0g?oc=5)
 

@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Azathioprine. 7 predicted indications."
 permalink: /news/azathioprine/
-last_modified_at: 2026-11-26
+last_modified_at: 2026-11-27
 ---
 
 # Azathioprine News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-26
 ---
 
 <p class="key-answer" data-question="What news is there about Azathioprine?">
-<strong>Azathioprine</strong> currently has <strong>8 news articles</strong>, with 7 predicted indications.
+<strong>Azathioprine</strong> currently has <strong>7 news articles</strong>, with 7 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -39,15 +39,7 @@ This page combines the AI-predicted indications for Azathioprine with the latest
 <p><a href="{{ '/drugs/azathioprine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (8)
-
-### [How Certain Foods in Adolescence Are Linked to IBD Risk - MedPage Today](https://news.google.com/rss/articles/CBMigwFBVV95cUxNcmd4bjRNemNSWjg5cHMyT0p4aVRETk9FWUdFeTVUVGJZUTg2bk84STJFa3J6Z3RWRDZYM2ZXOWxqRjBkZ2hoLXhDTFhLbkVpa1gzMElmaEFYbDE3djhOQzJzNVF5RU8tcV81SmRjeW9iTW1wNnNlajFzN1Z2WHdJR01Dbw?oc=5)
-
-2026-11-25 <span class="news-indication-tag">inflammatory bowel disease</span>
-
-Source: [MedPage Today](https://news.google.com/rss/articles/CBMigwFBVV95cUxNcmd4bjRNemNSWjg5cHMyT0p4aVRETk9FWUdFeTVUVGJZUTg2bk84STJFa3J6Z3RWRDZYM2ZXOWxqRjBkZ2hoLXhDTFhLbkVpa1gzMElmaEFYbDE3djhOQzJzNVF5RU8tcV81SmRjeW9iTW1wNnNlajFzN1Z2WHdJR01Dbw?oc=5)
-
----
+## Related News (7)
 
 ### [Teen Salty Snack Lovers May Face Higher Gut Disease Risk](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBRMndISzFucXViWkZ2TFI5RmhJTzlUSldFMzEzT1NUY3RyYmdwNjU5MlJiYzhVTnNsazlXX0M5ZVRnYnV1TVhsV2F2aDdQYTFoM3hxZWVkQ2s0Wi1tWk5WNmFUaGY?oc=5)
 

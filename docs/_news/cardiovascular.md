@@ -3,7 +3,7 @@ layout: default
 title: "heart disease (cardiovascular) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about heart disease (cardiovascular). 27 articles, 31 related drugs."
+description: "Health news about heart disease (cardiovascular). 28 articles, 31 related drugs."
 permalink: /news/cardiovascular/
 last_modified_at: 2026-11-27
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-27
 ---
 
 <p class="key-answer" data-question="What news is there about heart disease (cardiovascular)?">
-<strong>heart disease (cardiovascular)</strong> currently has <strong>27 news articles</strong> and 31 related drugs.
+<strong>heart disease (cardiovascular)</strong> currently has <strong>28 news articles</strong> and 31 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -58,7 +58,15 @@ This page brings together the latest health news about “heart disease” and l
 </ul>
 </div>
 
-## Related News (27)
+## Related News (28)
+
+### [Can Clinicians Predict Heart Attacks Decades Before?](https://news.google.com/rss/articles/CBMimwFBVV95cUxPbHJObWhsSWJiWHloUDJqOW5GQ2FGRVU2U0VMcU9MVnZjMWNkSUh2ZXBhUVdEc0kzRlpYRkppODRsSDRUMEpTb0tqNUlOQkFLOFRaeE5oaWFzR0x6VWpuVjEzTElmTy1ULS1lZVdRaDh1bzZmMUE5N3doaFlhYmJiRlMzZnVEWlBWMGttb0w2R1NzM05ObGJoZ1EyOA?oc=5)
+
+2026-11-27
+
+Source: [EMJ](https://news.google.com/rss/articles/CBMimwFBVV95cUxPbHJObWhsSWJiWHloUDJqOW5GQ2FGRVU2U0VMcU9MVnZjMWNkSUh2ZXBhUVdEc0kzRlpYRkppODRsSDRUMEpTb0tqNUlOQkFLOFRaeE5oaWFzR0x6VWpuVjEzTElmTy1ULS1lZVdRaDh1bzZmMUE5N3doaFlhYmJiRlMzZnVEWlBWMGttb0w2R1NzM05ObGJoZ1EyOA?oc=5)
+
+---
 
 ### [Heart Attack And Stroke Risk May Be Detected 30 Years Early: What Are The Warning Signs? - Health and Me](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVFhXck4xZzhPd3lGXzdlek8xQXpHVndMeEJaWHNERFJaalJ1TlBhYlhPckxqQUhUb0IxMmRvUGNrY1ptcFZDRkhFb3FnamthX1RrWWRrVmR1SjBFb1RaOHQ2WVgwUk9oQm1wVXZha1hfQ01zYmxVcnNkc2p0WnlVZ21uZ0FVSmNtb3lEMzB5T3R6V0hsWUVyNE10dlhsTnBRbW9oZTFIM05DdWh3RV90SlhUSElubTBuYXMzd3o3bVcxQmM4aHhSRHBnV2hoOHk2dWxEQ2JRRGI3VVQyQTVuRGZn?oc=5)
 

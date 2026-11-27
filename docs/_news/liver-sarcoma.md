@@ -3,9 +3,9 @@ layout: default
 title: "liver cancer (liver sarcoma) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about liver cancer (liver sarcoma). 1 articles, 1 related drugs."
+description: "Health news about liver cancer (liver sarcoma). 2 articles, 1 related drugs."
 permalink: /news/liver-sarcoma/
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-27
 ---
 
 # liver cancer (liver sarcoma) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-15
 ---
 
 <p class="key-answer" data-question="What news is there about liver cancer (liver sarcoma)?">
-<strong>liver cancer (liver sarcoma)</strong> currently has <strong>1 news articles</strong> and 1 related drugs.
+<strong>liver cancer (liver sarcoma)</strong> currently has <strong>2 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page brings together the latest health news about “liver cancer” and li
 </ul>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [Milk Consumption Linked to Increased Liver Cancer Risk](https://news.google.com/rss/articles/CBMinwFBVV95cUxPME9ra3FmX0txazJWRUJCTTFGTk8tdHYtcVk1VVNYbjhwb3dMMkUwOVc1czFQMElQSTROXzJSSnB0ZDVZXzVCN3ZTZS1wUWdrOEE2YzZLeDdpYTFOdjZEcWJaQXhiREJpN0pRWFRVdFBrdi1VbmFpRjc5eFVSSDFGMXZNLXlqRC0tWlF3dTIxOXdrX0VrWTVTQzUybGtxT0U?oc=5)
+
+2026-11-27
+
+Source: [EMJ](https://news.google.com/rss/articles/CBMinwFBVV95cUxPME9ra3FmX0txazJWRUJCTTFGTk8tdHYtcVk1VVNYbjhwb3dMMkUwOVc1czFQMElQSTROXzJSSnB0ZDVZXzVCN3ZTZS1wUWdrOEE2YzZLeDdpYTFOdjZEcWJaQXhiREJpN0pRWFRVdFBrdi1VbmFpRjc5eFVSSDFGMXZNLXlqRC0tWlF3dTIxOXdrX0VrWTVTQzUybGtxT0U?oc=5)
+
+---
 
 ### [The Liver Meeting 2026 Highlights Hepatitis Delta, PBC Targets, MASH Costs - The American Journal of Managed Care](https://news.google.com/rss/articles/CBMinwFBVV95cUxOc3YwY3ZIc0daR0NuaWo4SEp2YllRdlM3c0w0VjB5U3hBbjNmMDJVRTkxU3k3Tkk1aF9MdENJRklvdkNjQjNjWmFTdVBjZTJZR3UzVU01T19Mc3BzTXQwd0dfREJubDVxa04zam5xREtoRHdxZ2RNTDdZYXctZWQ0dlUyQ0wwNnFpQ1FMbU9mRG9PWmszbk9odXoycGtodzg?oc=5)
 

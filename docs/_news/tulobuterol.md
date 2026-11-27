@@ -15,7 +15,7 @@ last_modified_at: 2026-11-27
 ---
 
 <p class="key-answer" data-question="What news is there about Tulobuterol?">
-<strong>Tulobuterol</strong> currently has <strong>15 news articles</strong>, with 4 predicted indications.
+<strong>Tulobuterol</strong> currently has <strong>16 news articles</strong>, with 4 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,15 @@ This page combines the AI-predicted indications for Tulobuterol with the latest 
 <p><a href="{{ '/drugs/tulobuterol/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (15)
+## Related News (16)
+
+### [Pericapsular Nerve Block for Proximal Humerus Surgery in a Patient With Severe Kyphoscoliosis and Chronic Obstructive Pulmonary Disease: A Case Report](https://news.google.com/rss/articles/CBMilwJBVV95cUxPVzRnWGlaLXBjM2swV1Y2aXBkYVlDcGtRRERwSTlYZzE1cFVUUmtuS1JMbExQUDlLcVpIVmVxNG53RWJOOG9nWm9IRzl1Q3JlUlNER1VuOHIyY1lDQzZFeXo2eWNtclhxS1dmV0QtUElPbEJzeEs4RDBTb2VsSVNodTJqNUJqeUIwNnA1YW1wcjVxMnFldC16czFDZjZVeHNkRGNIYndXZlJ6YTFRcnRmeEhBNzlTb1F4OWphRy0tQkcyTmdaQXIwblRHN1kyWk5qcTVmZmhsQ3Zrdm1jNlhCU3dVUHdBTE52TklEWGZ5MkRwcXA5Z3c0NUh4ZzRMWVBCcnd5cjhOXzVRUGRWbEphQmxKNTFaOTQ?oc=5)
+
+2026-11-27 <span class="news-indication-tag">chronic obstructive pulmonary disease</span> <span class="news-indication-tag">chronic obstructive pulmonary disease</span> <span class="news-indication-tag">chronic obstructive pulmonary disease</span> <span class="news-indication-tag">chronic obstructive pulmonary disease</span>
+
+Source: [Cureus](https://news.google.com/rss/articles/CBMilwJBVV95cUxPVzRnWGlaLXBjM2swV1Y2aXBkYVlDcGtRRERwSTlYZzE1cFVUUmtuS1JMbExQUDlLcVpIVmVxNG53RWJOOG9nWm9IRzl1Q3JlUlNER1VuOHIyY1lDQzZFeXo2eWNtclhxS1dmV0QtUElPbEJzeEs4RDBTb2VsSVNodTJqNUJqeUIwNnA1YW1wcjVxMnFldC16czFDZjZVeHNkRGNIYndXZlJ6YTFRcnRmeEhBNzlTb1F4OWphRy0tQkcyTmdaQXIwblRHN1kyWk5qcTVmZmhsQ3Zrdm1jNlhCU3dVUHdBTE52TklEWGZ5MkRwcXA5Z3c0NUh4ZzRMWVBCcnd5cjhOXzVRUGRWbEphQmxKNTFaOTQ?oc=5)
+
+---
 
 ### [COPD Limits Ability And Curtails Social Life: Experts - SOA | SIKSHA 'O' ANUSANDHAN](https://news.google.com/rss/articles/CBMijgFBVV95cUxONmVRTEVBOFpBUHVKd1NiUElMTHJaejlJRkZaVzkycFZhelBGSHZfOERid3NPa2NZUFRXMWUySkc4eHgyT3JvZkw2YjFCbVFUVlJpYXNUeW5wdVprNGR5ODY1eS11R2FvWXZCc2YxUmJ5ZmNQaXhBRUtqTmZkQ2hmVVVCS1hpaXRTd1dWRnlR?oc=5)
 

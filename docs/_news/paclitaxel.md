@@ -15,7 +15,7 @@ last_modified_at: 2026-11-27
 ---
 
 <p class="key-answer" data-question="What news is there about Paclitaxel?">
-<strong>Paclitaxel</strong> currently has <strong>7 news articles</strong>, with 2 predicted indications.
+<strong>Paclitaxel</strong> currently has <strong>8 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,15 @@ This page combines the AI-predicted indications for Paclitaxel with the latest h
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (7)
+## Related News (8)
+
+### [Life-saving cancer drug pumped out by a plant](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBOeEgyN3N1Tk01V3J4amdwVWJzNTR0RTJQTnU5ck9TRk9XV0cxdGlCNUdKV0FDeEZ4Ny1aWUhBYjJseWhYREJpWnRCUWJMOENfUV95SEQxazl0Qm9TZjRv?oc=5)
+
+2026-11-27 <span class="news-drug-tag">PACLITAXEL</span> <span class="news-drug-tag">Paclitaxel</span> <span class="news-indication-tag">cancer</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBOeEgyN3N1Tk01V3J4amdwVWJzNTR0RTJQTnU5ck9TRk9XV0cxdGlCNUdKV0FDeEZ4Ny1aWUhBYjJseWhYREJpWnRCUWJMOENfUV95SEQxazl0Qm9TZjRv?oc=5)
+
+---
 
 ### [Scientists produced the chemotherapy drug Taxol in tobacco plants—but it is still years from reaching patients - Medical Daily](https://news.google.com/rss/articles/CBMikAFBVV95cUxNNFNPVFJGc0FQRTBNTEMxLXFsckJOSzFISUpCMW1lMWxqTzUwczFZTTJNUGl0WHhvdXc1bWZvRmo5NmhGaXBNU01kaG85WVJTVFE3UXJ0bW5UT2NPOERzLXVaVXZFc2tBd0REX3FVRGZiMkNkSHFCbnhsMTV6TElhM0NJX0ktVF9mRU1RNXNxWVM?oc=5)
 

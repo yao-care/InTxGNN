@@ -3,9 +3,9 @@ layout: default
 title: "lung cancer (small cell lung carcinoma) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about lung cancer (small cell lung carcinoma). 17 articles, 5 related drugs."
+description: "Health news about lung cancer (small cell lung carcinoma). 18 articles, 5 related drugs."
 permalink: /news/small-cell-lung-carcinoma/
-last_modified_at: 2026-11-25
+last_modified_at: 2026-11-27
 ---
 
 # lung cancer (small cell lung carcinoma) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-25
 ---
 
 <p class="key-answer" data-question="What news is there about lung cancer (small cell lung carcinoma)?">
-<strong>lung cancer (small cell lung carcinoma)</strong> currently has <strong>17 news articles</strong> and 5 related drugs.
+<strong>lung cancer (small cell lung carcinoma)</strong> currently has <strong>18 news articles</strong> and 5 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,15 @@ This page brings together the latest health news about “lung cancer” and lis
 </ul>
 </div>
 
-## Related News (17)
+## Related News (18)
+
+### [Lung cancer: Doctors call for risk-based screening as cases rise](https://news.google.com/rss/articles/CBMiigFBVV95cUxNYzRsbXdQeWFhM1hNU1Uwb0VieHYzNVgyRkI1RzdWY2M3YnQzcGFvRjJMb3dIbDZjS1RLWUhNTC1YV1FDN2pYY21RWWNIRmZLRHRLT3Y4X0ExcnJHLVkxY0ZrQllrZ0tVR1pwUUk5MVd5VEYxMEhaTVZvcFNidmJ2cm0wN09FSTF2Z0HSAY4BQVVfeXFMTXlXUlVQWmExS0h0MUV6TnlKUVV2Zk9XNERvdG5DVUo1OEhNOG1xMjh3cnNaSmRNMDJ0NHBSR1dtLVpBNDRGMVhZUEo1UVNSc2g2TGl1MzdYdWY5ZVVkUW9rbDYyRVVDZlpSWmNXeWtOVGdfZ3JSVExNVVd5bkxITk9pYVA2NTRLdm9pY2VkZw?oc=5)
+
+2026-11-27
+
+Source: [Healthshots](https://news.google.com/rss/articles/CBMiigFBVV95cUxNYzRsbXdQeWFhM1hNU1Uwb0VieHYzNVgyRkI1RzdWY2M3YnQzcGFvRjJMb3dIbDZjS1RLWUhNTC1YV1FDN2pYY21RWWNIRmZLRHRLT3Y4X0ExcnJHLVkxY0ZrQllrZ0tVR1pwUUk5MVd5VEYxMEhaTVZvcFNidmJ2cm0wN09FSTF2Z0HSAY4BQVVfeXFMTXlXUlVQWmExS0h0MUV6TnlKUVV2Zk9XNERvdG5DVUo1OEhNOG1xMjh3cnNaSmRNMDJ0NHBSR1dtLVpBNDRGMVhZUEo1UVNSc2g2TGl1MzdYdWY5ZVVkUW9rbDYyRVVDZlpSWmNXeWtOVGdfZ3JSVExNVVd5bkxITk9pYVA2NTRLdm9pY2VkZw?oc=5)
+
+---
 
 ### [Opportunities and pitfalls of cell-free DNA fragmentomics as a liquid biopsy](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBEVGVuc3lZRXVfeVpVU0Z6YkNETnQwX3I3UjhkeG5GcWtIZjZsU3hYYXpfdUpuX1p4Rm15WkdSd0FmcDU5MDgwTEVTV1ZTbGcyQlJWZklWZnBTeU1uNEMw?oc=5)
 

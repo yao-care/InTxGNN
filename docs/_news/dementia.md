@@ -3,7 +3,7 @@ layout: default
 title: "alzheimer (dementia) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about alzheimer (dementia). 44 articles, 8 related drugs."
+description: "Health news about alzheimer (dementia). 47 articles, 8 related drugs."
 permalink: /news/dementia/
 last_modified_at: 2026-11-27
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-27
 ---
 
 <p class="key-answer" data-question="What news is there about alzheimer (dementia)?">
-<strong>alzheimer (dementia)</strong> currently has <strong>44 news articles</strong> and 8 related drugs.
+<strong>alzheimer (dementia)</strong> currently has <strong>47 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -37,13 +37,37 @@ This page brings together the latest health news about “alzheimer” and lists
 </ul>
 </div>
 
-## Related News (44)
+## Related News (47)
+
+### [Alzheimer’s therapy trial records improvement in 4 out of 5 participants — ScienceAlert](https://news.google.com/rss/articles/CBMitAFBVV95cUxOekpJWm0tRDRnQmw5M2toa1hIUXFyaDVlRDI0ZDVMdktBVk1pMmoyeUk4QW9vQVhETWRwY2M4Sng3MUlrZFlyXzhvSFdFVzlIRjRQejBqdUVlWS1vdnJLVTc5UW9VblVIdnBYQkJyTDhSRjVyUFYwdkpETlQtYnhqVGRuTW5zeUdDN28telhYR2NGeUoxSFNNM2lUM3NwYUpZMml4REZtYWhCUmh2WVBLX0lsWWY?oc=5)
+
+2026-11-26
+
+Source: [UA.NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxOekpJWm0tRDRnQmw5M2toa1hIUXFyaDVlRDI0ZDVMdktBVk1pMmoyeUk4QW9vQVhETWRwY2M4Sng3MUlrZFlyXzhvSFdFVzlIRjRQejBqdUVlWS1vdnJLVTc5UW9VblVIdnBYQkJyTDhSRjVyUFYwdkpETlQtYnhqVGRuTW5zeUdDN28telhYR2NGeUoxSFNNM2lUM3NwYUpZMml4REZtYWhCUmh2WVBLX0lsWWY?oc=5)
+
+---
 
 ### [Eye Movements Reveal Alzheimer’s Disease Severity](https://news.google.com/rss/articles/CBMilgFBVV95cUxPQjJ1TUYzc3FqYlo2UjNrZkttbGNEX2d4bGVhQThXZHd4OXQyTEtNbEI2QXJNejIyYUtSRTZWS1hnSXNwLW45bW9oRDNaQl9LMGxndy1uaFh2TEtOWXZlbGR4bXVvSkVYSTU4SEZpTEdsd3pJT0xucko2aklIVkRGdnc4V1ZmZ0FqRVRUM2dtTm9Pakd4Ymc?oc=5)
 
 2026-11-26
 
 Source: [EMJ](https://news.google.com/rss/articles/CBMilgFBVV95cUxPQjJ1TUYzc3FqYlo2UjNrZkttbGNEX2d4bGVhQThXZHd4OXQyTEtNbEI2QXJNejIyYUtSRTZWS1hnSXNwLW45bW9oRDNaQl9LMGxndy1uaFh2TEtOWXZlbGR4bXVvSkVYSTU4SEZpTEdsd3pJT0xucko2aklIVkRGdnc4V1ZmZ0FqRVRUM2dtTm9Pakd4Ymc?oc=5)
+
+---
+
+### [How Air Pollution and Alzheimer’s Disease Interact in the Brain](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWjBMZ05vaWxiX3l1VWZ5TlFzQi0wSmFNY01WbF9lY0RoWno3cmpLYzZqSVpKYlNoek5Oa2wxbThSTXJmNWo1WlViWmFUTm5HZi1YVmRvQU9WcnF4VmxSOGdLWHJIQU1FeFNSVjBvVlBEb0RGNElocHZabDkyMUsyVERkYk5GTjJtSHU4c3NxSlZwdjBfeGpSOUxIV3V2Q1JLOUFSVUxvN2w?oc=5)
+
+2026-11-26
+
+Source: [EMJ](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWjBMZ05vaWxiX3l1VWZ5TlFzQi0wSmFNY01WbF9lY0RoWno3cmpLYzZqSVpKYlNoek5Oa2wxbThSTXJmNWo1WlViWmFUTm5HZi1YVmRvQU9WcnF4VmxSOGdLWHJIQU1FeFNSVjBvVlBEb0RGNElocHZabDkyMUsyVERkYk5GTjJtSHU4c3NxSlZwdjBfeGpSOUxIV3V2Q1JLOUFSVUxvN2w?oc=5)
+
+---
+
+### [How Air Pollution and Alzheimer’s Disease Interact in the Brain](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWjBMZ05vaWxiX3l1VWZ5TlFzQi0wSmFNY01WbF9lY0RoWno3cmpLYzZqSVpKYlNoek5Oa2wxbThSTXJmNWo1WlViWmFUTm5HZi1YVmRvQU9WcnF4VmxSOGdLWHJIQU1FeFNSVjBvVlBEb0RGNElocHZabDkyMUsyVERkYk5GTjJtSHU4c3NxSlZwdjBfeGpSOUxIV3V2Q1JLOUFSVUxvN2w?oc=5)
+
+2026-11-26
+
+Source: [EMJ](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWjBMZ05vaWxiX3l1VWZ5TlFzQi0wSmFNY01WbF9lY0RoWno3cmpLYzZqSVpKYlNoek5Oa2wxbThSTXJmNWo1WlViWmFUTm5HZi1YVmRvQU9WcnF4VmxSOGdLWHJIQU1FeFNSVjBvVlBEb0RGNElocHZabDkyMUsyVERkYk5GTjJtSHU4c3NxSlZwdjBfeGpSOUxIV3V2Q1JLOUFSVUxvN2w?oc=5)
 
 ---
 

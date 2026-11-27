@@ -3,9 +3,9 @@ layout: default
 title: "dementia (memory loss) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about dementia (memory loss). 16 articles, 8 related drugs."
+description: "Health news about dementia (memory loss). 17 articles, 8 related drugs."
 permalink: /news/memory-loss/
-last_modified_at: 2026-11-25
+last_modified_at: 2026-11-27
 ---
 
 # dementia (memory loss) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-25
 ---
 
 <p class="key-answer" data-question="What news is there about dementia (memory loss)?">
-<strong>dementia (memory loss)</strong> currently has <strong>16 news articles</strong> and 8 related drugs.
+<strong>dementia (memory loss)</strong> currently has <strong>17 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,15 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (16)
+## Related News (17)
+
+### [How Air Pollution and Alzheimer’s Disease Interact in the Brain](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWjBMZ05vaWxiX3l1VWZ5TlFzQi0wSmFNY01WbF9lY0RoWno3cmpLYzZqSVpKYlNoek5Oa2wxbThSTXJmNWo1WlViWmFUTm5HZi1YVmRvQU9WcnF4VmxSOGdLWHJIQU1FeFNSVjBvVlBEb0RGNElocHZabDkyMUsyVERkYk5GTjJtSHU4c3NxSlZwdjBfeGpSOUxIV3V2Q1JLOUFSVUxvN2w?oc=5)
+
+2026-11-26
+
+Source: [EMJ](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWjBMZ05vaWxiX3l1VWZ5TlFzQi0wSmFNY01WbF9lY0RoWno3cmpLYzZqSVpKYlNoek5Oa2wxbThSTXJmNWo1WlViWmFUTm5HZi1YVmRvQU9WcnF4VmxSOGdLWHJIQU1FeFNSVjBvVlBEb0RGNElocHZabDkyMUsyVERkYk5GTjJtSHU4c3NxSlZwdjBfeGpSOUxIV3V2Q1JLOUFSVUxvN2w?oc=5)
+
+---
 
 ### [Air pollution accelerates dementia by reprogramming brain's immune cells: study - The Hindu](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbHhaRnNWRWoxUE9rZTVfT1FZdndBODk5bUJUZmpvS3VpOUppWkRXV3Z6MnVEdWhhNVNzYVJIS1R0RmliVUlVNURLdHlnN2R4SG9FeWxHWnBSRUJTMXNyaVc3SWZnUmYzRWFCb3hDdDFSOFBOVnpUY25fY1NDeUhuSGgtWWJSdVB2ejdJRFcwdF9QNHhsbk5KTk9yWmppQW03dFJObWNETEJZTnI2WHFnbGx2dFZvTlY4MU1YVklEV0xQVHhlT1FoLUlCOUtvN292RHc3U9IB2wFBVV95cUxNcjBuY2g2QlpkWmhHUFI1TDFpSGhHbkJ5MDJnc01yNHpES25iVTlNaVZGTWJSd2hsSWJ4RTYtQ29BVVAxU040NG5USC1oQVRSOG9CTlpwQlN6R2FaUjdkbHdaRnlJVEtGdEIxODgzbFYxTzNpaGMxT0hHRjNzTjBVcGxXT1pBQ0xzQnUtN0l5Y294Zmxvbm5xRkYzQW9ULTJoZmI0ajFrQktMUXlfUjhrdjRaV01VR0xqRDkwV0hVa0V0cmpQUHdlTVBmVWFKQmN1c3RQTG14ZzZMdFU?oc=5)
 

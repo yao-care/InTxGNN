@@ -3,9 +3,9 @@ layout: default
 title: "alopecia News"
 parent: Health News
 nav_exclude: true
-description: "Health news about alopecia. 1 articles, 14 related drugs."
+description: "Health news about alopecia. 2 articles, 14 related drugs."
 permalink: /news/alopecia/
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-27
 ---
 
 # alopecia News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-16
 ---
 
 <p class="key-answer" data-question="What news is there about alopecia?">
-<strong>alopecia</strong> currently has <strong>1 news articles</strong> and 14 related drugs.
+<strong>alopecia</strong> currently has <strong>2 news articles</strong> and 14 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -43,7 +43,15 @@ This page brings together the latest health news about “alopecia” and lists 
 </ul>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [Brushing your way to thicker hair? Electric comb promotes rapid hair regrowth in bald mice](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUmZwSjhpYUpEYVNaX3NaMmpHWFNxTUQ3RVhqMXpBZ1ZPemlQV0xMSHNxYUVSYU1ETEJyNWNPWXlqaUZrd2RYZTNXWUpZbFFaV1lES1I5bHl1ZlFvajV5VTBxN2dhTTRmYXFxeFJqaUE5YW9BVVVFWHBuQWR4THEzOHhRMklUeEJETHJCV2FhM3UxQXRfZWJNMVUxeU5iVkt1S2NZZzRSaVJXWmNSeTA5Nm1HS1ZqMXVLcm1VTUVPU2dCNVUwTHRSYS0wbWVPRVZseC1GNFFUWURIVHhyUnFJ?oc=5)
+
+2026-11-27
+
+Source: [BioTechniques](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUmZwSjhpYUpEYVNaX3NaMmpHWFNxTUQ3RVhqMXpBZ1ZPemlQV0xMSHNxYUVSYU1ETEJyNWNPWXlqaUZrd2RYZTNXWUpZbFFaV1lES1I5bHl1ZlFvajV5VTBxN2dhTTRmYXFxeFJqaUE5YW9BVVVFWHBuQWR4THEzOHhRMklUeEJETHJCV2FhM3UxQXRfZWJNMVUxeU5iVkt1S2NZZzRSaVJXWmNSeTA5Nm1HS1ZqMXVLcm1VTUVPU2dCNVUwTHRSYS0wbWVPRVZseC1GNFFUWURIVHhyUnFJ?oc=5)
+
+---
 
 ### [Alopecia Areata White Hair Growth Occurs Without Follicular Cycling](https://news.google.com/rss/articles/CBMisgFBVV95cUxQRWVhc0FpODd1eVpYMEExX1VsTkp1blV5T0NiX2dXM05KSlVwVmxaV0h5UzBKU1I3YmJOV2VYR25pcXZGUzY0WVZwMGdDRGF4MmdFU3dRbTI3cmNnQzN6R0pubjJod1k5c0FSUjhRcmVpTlphVk8tdnhMQkE0T0RmVW1QTU9ULXNFb2N0RWJDTlp0LW83endXeGZzX0liWGZtbnREdElZdE9mOWc5akt5cUJ3?oc=5)
 
