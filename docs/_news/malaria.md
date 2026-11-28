@@ -3,9 +3,9 @@ layout: default
 title: "malaria News"
 parent: Health News
 nav_exclude: true
-description: "Health news about malaria. 9 articles, 2 related drugs."
+description: "Health news about malaria. 10 articles, 2 related drugs."
 permalink: /news/malaria/
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-28
 ---
 
 # malaria News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="What news is there about malaria?">
-<strong>malaria</strong> currently has <strong>9 news articles</strong> and 2 related drugs.
+<strong>malaria</strong> currently has <strong>10 news articles</strong> and 2 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,15 @@ This page brings together the latest health news about “malaria” and lists t
 </ul>
 </div>
 
-## Related News (9)
+## Related News (10)
+
+### [Gavi secures up to $214M to restore malaria vaccine funding - FirstWord Pharma](https://news.google.com/rss/articles/CBMiU0FVX3lxTFA2Yk5GamRZM3RkVUxoS0F1QU5ERzdETXpYbEZfZDlRVGR2TW9HeV9aMWZPdDhBY3pZOXY3SnNueXhhWFU0ZDlLMEI5cFlGZFhXOURB?oc=5)
+
+2026-11-27
+
+Source: [FirstWord Pharma](https://news.google.com/rss/articles/CBMiU0FVX3lxTFA2Yk5GamRZM3RkVUxoS0F1QU5ERzdETXpYbEZfZDlRVGR2TW9HeV9aMWZPdDhBY3pZOXY3SnNueXhhWFU0ZDlLMEI5cFlGZFhXOURB?oc=5)
+
+---
 
 ### [President Droupadi Murmu Inaugurates Golden Jubilee Celebrations of ICMR-NIMR - Drishti IAS](https://news.google.com/rss/articles/CBMiygFBVV95cUxPOWg1NHc0aWhUN1F5OU92TEJXSHVhZWZqTzlEUE1jNWRWWUNrUjhpaTJHSEFKbEJqb3JDeE1adkxVRkhVX1VKbjF5Y1E3NlpLLXFnUXpuR2NPQXp6RUsyeGlQcUJxZTN6NFVpYnZNRE9GZUVSVVVHdElFRnBVOEFEaGIwRENnUHU1RTRPWFBnemtuZVdvdzBOTU5QRXEwMlVLQ3RhUzdudV95elVVd29GSU1tMjg3WFQxaTROM2x3emxuRUlWMXZ5YlN3?oc=5)
 

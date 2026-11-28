@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Glucagon. 1 predicted indications."
 permalink: /news/glucagon/
-last_modified_at: 2026-11-27
+last_modified_at: 2026-11-28
 ---
 
 # Glucagon News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-27
 ---
 
 <p class="key-answer" data-question="What news is there about Glucagon?">
-<strong>Glucagon</strong> currently has <strong>3 news articles</strong>, with 1 predicted indications.
+<strong>Glucagon</strong> currently has <strong>4 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,15 @@ This page combines the AI-predicted indications for Glucagon with the latest hea
 <p><a href="{{ '/drugs/glucagon/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (4)
+
+### [High price may deny pancreatic cancer patients ‘breakthrough’ drug - The Times](https://news.google.com/rss/articles/CBMilgFBVV95cUxPb0x6d1NVOE4tQ2k2TTl0WndNVXRuYUdvbE10UTNUenlBRmNqVXFCbnFBc2hLZ1htOUpiOFRxUnFZZ2cxbmRLZzZqUEYxemZudGZiTTRScDFxM3hsUnA3QW82Y2pUZkg4MldGRXlNVmJSRVJXLVkzWXViWW1jQjBMbENlMk9MNVBRdlZ2TDFrVmw0MGhLbnc?oc=5)
+
+2026-11-27 <span class="news-drug-tag">Glucagon</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">pancreatic cancer</span> <span class="news-indication-tag">pancreatic cancer</span>
+
+Source: [The Times](https://news.google.com/rss/articles/CBMilgFBVV95cUxPb0x6d1NVOE4tQ2k2TTl0WndNVXRuYUdvbE10UTNUenlBRmNqVXFCbnFBc2hLZ1htOUpiOFRxUnFZZ2cxbmRLZzZqUEYxemZudGZiTTRScDFxM3hsUnA3QW82Y2pUZkg4MldGRXlNVmJSRVJXLVkzWXViWW1jQjBMbENlMk9MNVBRdlZ2TDFrVmw0MGhLbnc?oc=5)
+
+---
 
 ### [Breakthrough drug gives doctors new tool to fight pancreatic cancer - The National](https://news.google.com/rss/articles/CBMivAFBVV95cUxObTBkNUlKLVVKZ3hxb1hSN1BoQmJScGVpejA3UjFJbE9UQS1IS0FrZDR2aXFabWdfRUZGUjFvNjB4dGVmaUV4MGFqNUlESFo2NTBCZDYycWJUTUdzU3FNWEFKeC0xNkthX2RRX21tRXRWaXlCSHktbmMyMXh0aFplNWZzNVdVUk9vekpNMjB1UURiOEF3ZEJjaWNHVFMwX2x5dlljdWoyOGFuaEp1aG03RjFyTjMyNjFIeGNjaw?oc=5)
 

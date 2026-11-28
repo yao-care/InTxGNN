@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Nadifloxacin. 1 predicted indications."
 permalink: /news/nadifloxacin/
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-28
 ---
 
 # Nadifloxacin News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="What news is there about Nadifloxacin?">
-<strong>Nadifloxacin</strong> currently has <strong>9 news articles</strong>, with 1 predicted indications.
+<strong>Nadifloxacin</strong> currently has <strong>10 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,15 @@ This page combines the AI-predicted indications for Nadifloxacin with the latest
 <p><a href="{{ '/drugs/nadifloxacin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (9)
+## Related News (10)
+
+### [Gavi secures up to $214M to restore malaria vaccine funding - FirstWord Pharma](https://news.google.com/rss/articles/CBMiU0FVX3lxTFA2Yk5GamRZM3RkVUxoS0F1QU5ERzdETXpYbEZfZDlRVGR2TW9HeV9aMWZPdDhBY3pZOXY3SnNueXhhWFU0ZDlLMEI5cFlGZFhXOURB?oc=5)
+
+2026-11-27 <span class="news-indication-tag">malaria</span> <span class="news-indication-tag">malaria</span>
+
+Source: [FirstWord Pharma](https://news.google.com/rss/articles/CBMiU0FVX3lxTFA2Yk5GamRZM3RkVUxoS0F1QU5ERzdETXpYbEZfZDlRVGR2TW9HeV9aMWZPdDhBY3pZOXY3SnNueXhhWFU0ZDlLMEI5cFlGZFhXOURB?oc=5)
+
+---
 
 ### [President Droupadi Murmu Inaugurates Golden Jubilee Celebrations of ICMR-NIMR - Drishti IAS](https://news.google.com/rss/articles/CBMiygFBVV95cUxPOWg1NHc0aWhUN1F5OU92TEJXSHVhZWZqTzlEUE1jNWRWWUNrUjhpaTJHSEFKbEJqb3JDeE1adkxVRkhVX1VKbjF5Y1E3NlpLLXFnUXpuR2NPQXp6RUsyeGlQcUJxZTN6NFVpYnZNRE9GZUVSVVVHdElFRnBVOEFEaGIwRENnUHU1RTRPWFBnemtuZVdvdzBOTU5QRXEwMlVLQ3RhUzdudV95elVVd29GSU1tMjg3WFQxaTROM2x3emxuRUlWMXZ5YlN3?oc=5)
 

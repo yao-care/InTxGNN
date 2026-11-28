@@ -3,9 +3,9 @@ layout: default
 title: "pancreatic cancer (pancreas cancer) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about pancreatic cancer (pancreas cancer). 28 articles, 1 related drugs."
+description: "Health news about pancreatic cancer (pancreas cancer). 29 articles, 1 related drugs."
 permalink: /news/pancreas-cancer/
-last_modified_at: 2026-11-27
+last_modified_at: 2026-11-28
 ---
 
 # pancreatic cancer (pancreas cancer) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-27
 ---
 
 <p class="key-answer" data-question="What news is there about pancreatic cancer (pancreas cancer)?">
-<strong>pancreatic cancer (pancreas cancer)</strong> currently has <strong>28 news articles</strong> and 1 related drugs.
+<strong>pancreatic cancer (pancreas cancer)</strong> currently has <strong>29 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page brings together the latest health news about “pancreatic cancer” a
 </ul>
 </div>
 
-## Related News (28)
+## Related News (29)
+
+### [High price may deny pancreatic cancer patients ‘breakthrough’ drug - The Times](https://news.google.com/rss/articles/CBMilgFBVV95cUxPb0x6d1NVOE4tQ2k2TTl0WndNVXRuYUdvbE10UTNUenlBRmNqVXFCbnFBc2hLZ1htOUpiOFRxUnFZZ2cxbmRLZzZqUEYxemZudGZiTTRScDFxM3hsUnA3QW82Y2pUZkg4MldGRXlNVmJSRVJXLVkzWXViWW1jQjBMbENlMk9MNVBRdlZ2TDFrVmw0MGhLbnc?oc=5)
+
+2026-11-27
+
+Source: [The Times](https://news.google.com/rss/articles/CBMilgFBVV95cUxPb0x6d1NVOE4tQ2k2TTl0WndNVXRuYUdvbE10UTNUenlBRmNqVXFCbnFBc2hLZ1htOUpiOFRxUnFZZ2cxbmRLZzZqUEYxemZudGZiTTRScDFxM3hsUnA3QW82Y2pUZkg4MldGRXlNVmJSRVJXLVkzWXViWW1jQjBMbENlMk9MNVBRdlZ2TDFrVmw0MGhLbnc?oc=5)
+
+---
 
 ### [Breakthrough drug gives doctors new tool to fight pancreatic cancer - The National](https://news.google.com/rss/articles/CBMivAFBVV95cUxObTBkNUlKLVVKZ3hxb1hSN1BoQmJScGVpejA3UjFJbE9UQS1IS0FrZDR2aXFabWdfRUZGUjFvNjB4dGVmaUV4MGFqNUlESFo2NTBCZDYycWJUTUdzU3FNWEFKeC0xNkthX2RRX21tRXRWaXlCSHktbmMyMXh0aFplNWZzNVdVUk9vekpNMjB1UURiOEF3ZEJjaWNHVFMwX2x5dlljdWoyOGFuaEp1aG03RjFyTjMyNjFIeGNjaw?oc=5)
 

@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Ascorbic Acid. 0 predicted indications."
 permalink: /news/ascorbic_acid/
-last_modified_at: 2026-11-25
+last_modified_at: 2026-11-28
 ---
 
 # Ascorbic Acid News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-25
 ---
 
 <p class="key-answer" data-question="What news is there about Ascorbic Acid?">
-<strong>Ascorbic Acid</strong> currently has <strong>6 news articles</strong>, with 0 predicted indications.
+<strong>Ascorbic Acid</strong> currently has <strong>7 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,15 @@ This page combines the AI-predicted indications for Ascorbic Acid with the lates
 <p><a href="{{ '/drugs/ascorbic-acid/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (6)
+## Related News (7)
+
+### [Protective effects and underlying mechanisms of chlorogenic acid, ginsenoside Rg3, and dendrobium polysaccharides in LPS + CS-induced acute lung injury](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5wWTFMcFRtT3lTa1JOOGFCVjI1aVVKNmdiUHJZb2U4RWFacG5TSWQ2ZVI5SnllU2MybjhPNGJOckVQOEdWWjBtajA0YUJpY1RVRnRldDJXUFZqaGRuSUMw?oc=5)
+
+2026-11-27 <span class="news-indication-tag">injury</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5wWTFMcFRtT3lTa1JOOGFCVjI1aVVKNmdiUHJZb2U4RWFacG5TSWQ2ZVI5SnllU2MybjhPNGJOckVQOEdWWjBtajA0YUJpY1RVRnRldDJXUFZqaGRuSUMw?oc=5)
+
+---
 
 ### [Severe Cucurbitacin Toxicity Following Bitter Bottle Gourd Juice Consumption Presenting With Shock, Toxic Hepatitis, and Dialysis-Requiring Acute-on-Chronic Kidney Disease With Biopsy-Proven Renal Injury: A Case Report](https://news.google.com/rss/articles/CBMi7wJBVV95cUxNQ1pxSktfRzNRaE54bmdmSXdmTGRQSVVodVAyWUd1dmJNNGgtS3BzVzQ1VHBmMjBkNms0QXotLXQzaEd4dVBBQWRBMGdaOWdGZk40OGM0Q0pndGZsQ1RxWlR1LWlKQ2VkUENSeXFjR2E4M2pxNDRoRE1KU3VwM1NldmtpdmxrR0NSTGpTbmgybWprUFRwNWp0d0trOUJ0aFhUOWQzUmU1WXRYTGNManhXa0Y4Mm40VGtEZlNEbG9jSGVicXdscGJkbXZ2RjQ2V1B6OUpHdXl2X21RQUF1anQ1U1UtQW96WnJJQlF1VU0wUmczTXJ6cWtoWUJlaEIycHBQWllQajFjQlFPWVBrWlluTHRrQzNvUGVBeEdSVFpSOFpXR1VEZ0VsWVhCQ1pIdXZfYzZCUGNYVVo0T0tMd1ZQZEg2cmhsNE1pWGYwYWFJWV9RZ0h1TlM1ZHI0dEN5MmR1b1VMTE5SZGs1RTNFVWVB?oc=5)
 

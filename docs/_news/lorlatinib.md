@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Lorlatinib. 9 predicted indications."
 permalink: /news/lorlatinib/
-last_modified_at: 2026-11-27
+last_modified_at: 2026-11-28
 ---
 
 # Lorlatinib News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-27
 ---
 
 <p class="key-answer" data-question="What news is there about Lorlatinib?">
-<strong>Lorlatinib</strong> currently has <strong>211 news articles</strong>, with 9 predicted indications.
+<strong>Lorlatinib</strong> currently has <strong>218 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,13 +41,53 @@ This page combines the AI-predicted indications for Lorlatinib with the latest h
 <p><a href="{{ '/drugs/lorlatinib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (211)
+## Related News (218)
+
+### [High price may deny pancreatic cancer patients ‘breakthrough’ drug - The Times](https://news.google.com/rss/articles/CBMilgFBVV95cUxPb0x6d1NVOE4tQ2k2TTl0WndNVXRuYUdvbE10UTNUenlBRmNqVXFCbnFBc2hLZ1htOUpiOFRxUnFZZ2cxbmRLZzZqUEYxemZudGZiTTRScDFxM3hsUnA3QW82Y2pUZkg4MldGRXlNVmJSRVJXLVkzWXViWW1jQjBMbENlMk9MNVBRdlZ2TDFrVmw0MGhLbnc?oc=5)
+
+2026-11-27 <span class="news-drug-tag">Glucagon</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">pancreatic cancer</span> <span class="news-indication-tag">pancreatic cancer</span>
+
+Source: [The Times](https://news.google.com/rss/articles/CBMilgFBVV95cUxPb0x6d1NVOE4tQ2k2TTl0WndNVXRuYUdvbE10UTNUenlBRmNqVXFCbnFBc2hLZ1htOUpiOFRxUnFZZ2cxbmRLZzZqUEYxemZudGZiTTRScDFxM3hsUnA3QW82Y2pUZkg4MldGRXlNVmJSRVJXLVkzWXViWW1jQjBMbENlMk9MNVBRdlZ2TDFrVmw0MGhLbnc?oc=5)
+
+---
+
+### [Long-Term Results of Esophageal and Gastroesophageal Junction Cancer Surgery in a Resource-Constrained Setting: A 25-Year Single-Institution Experience](https://news.google.com/rss/articles/CBMimAJBVV95cUxPZzRoOE9JTTZ2YWZmTEtTR190UW5rNVJnM3kwdzNIeHctMk5wdTJJZ3JKa0hid01YSFlQZW5iaTJiV1Jody1JQVhRa2hBSFc3V3BqaXd6RklRSkFXSDBJelV3MThMOHN0a0xkaVJqV3hSNGczMlI3d0JoNllycDJhNmM2c2owX2pWUkxibHVMVHBvcWJmanZVZmZCc1Y5UjQzY19ycEdsTUhMVlZBdzl5dHdjMExzT0RyNjJ6RjZfNEl2a2pCeW5HTzNfa0l3QldzczlvalVEaUtnT0lQZHQ0dVNINHpzOS1DalpGZWhsdGZEalFDMmVvY0YyLXZlVUtoNE92RkJYTFVVN1pwLXMyNVlSNE9ER1Vq?oc=5)
+
+2026-11-27 <span class="news-indication-tag">cancer</span>
+
+Source: [Cureus](https://news.google.com/rss/articles/CBMimAJBVV95cUxPZzRoOE9JTTZ2YWZmTEtTR190UW5rNVJnM3kwdzNIeHctMk5wdTJJZ3JKa0hid01YSFlQZW5iaTJiV1Jody1JQVhRa2hBSFc3V3BqaXd6RklRSkFXSDBJelV3MThMOHN0a0xkaVJqV3hSNGczMlI3d0JoNllycDJhNmM2c2owX2pWUkxibHVMVHBvcWJmanZVZmZCc1Y5UjQzY19ycEdsTUhMVlZBdzl5dHdjMExzT0RyNjJ6RjZfNEl2a2pCeW5HTzNfa0l3QldzczlvalVEaUtnT0lQZHQ0dVNINHpzOS1DalpGZWhsdGZEalFDMmVvY0YyLXZlVUtoNE92RkJYTFVVN1pwLXMyNVlSNE9ER1Vq?oc=5)
+
+---
+
+### [The role of circadian clock dysfunction in Alzheimer disease pathogenesis](https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1cHhHOTBxcUU5SGR5YXo2QzI2c0owMEt4bS1tUk9hUXJCTUplSHpIZERuTDVWSUg5WndkNThhbVA5dWk5SEh5NnpXcTB2Q3RYd1ZScDJmQ296dWJKMTl3?oc=5)
+
+2026-11-27 <span class="news-indication-tag">alzheimer</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1cHhHOTBxcUU5SGR5YXo2QzI2c0owMEt4bS1tUk9hUXJCTUplSHpIZERuTDVWSUg5WndkNThhbVA5dWk5SEh5NnpXcTB2Q3RYd1ZScDJmQ296dWJKMTl3?oc=5)
+
+---
 
 ### [Milk Consumption Linked to Increased Liver Cancer Risk](https://news.google.com/rss/articles/CBMinwFBVV95cUxPME9ra3FmX0txazJWRUJCTTFGTk8tdHYtcVk1VVNYbjhwb3dMMkUwOVc1czFQMElQSTROXzJSSnB0ZDVZXzVCN3ZTZS1wUWdrOEE2YzZLeDdpYTFOdjZEcWJaQXhiREJpN0pRWFRVdFBrdi1VbmFpRjc5eFVSSDFGMXZNLXlqRC0tWlF3dTIxOXdrX0VrWTVTQzUybGtxT0U?oc=5)
 
 2026-11-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">liver cancer</span>
 
 Source: [EMJ](https://news.google.com/rss/articles/CBMinwFBVV95cUxPME9ra3FmX0txazJWRUJCTTFGTk8tdHYtcVk1VVNYbjhwb3dMMkUwOVc1czFQMElQSTROXzJSSnB0ZDVZXzVCN3ZTZS1wUWdrOEE2YzZLeDdpYTFOdjZEcWJaQXhiREJpN0pRWFRVdFBrdi1VbmFpRjc5eFVSSDFGMXZNLXlqRC0tWlF3dTIxOXdrX0VrWTVTQzUybGtxT0U?oc=5)
+
+---
+
+### [ESMO 2026: Moderna's 42% Melanoma Win Erased $24 Billion, and Biomarkers Stole the Show - BigGo Finance](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1NbjQxbENpX0RCemdXUmVEaDkzYUVhRklJRUIxNjFJRVg0M0Y3UVpiaTQ2MTNUUThJMmJjTUpRb1Z5LXRTTVVNVWM0NDZnS0prdUtHdlQyV0FHZWs?oc=5)
+
+2026-11-27 <span class="news-indication-tag">cancer</span>
+
+Source: [BigGo Finance](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1NbjQxbENpX0RCemdXUmVEaDkzYUVhRklJRUIxNjFJRVg0M0Y3UVpiaTQ2MTNUUThJMmJjTUpRb1Z5LXRTTVVNVWM0NDZnS0prdUtHdlQyV0FHZWs?oc=5)
+
+---
+
+### [Evaluation of therapeutic potential of Nardostachys jatamansi in Alzheimer’s disease through network pharmacology, molecular docking and molecular dynamics](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DSW94MGRyT253cjdhUG9FTHAtU0VTS0hYdzEwWnFHVEctYVFuWXJWdl95VFZ0THN6a0NDOUhXZkpHV1Ata0owaWhmZGt0YlY1TW9Yak1QREhwVTZzdkRR?oc=5)
+
+2026-11-27 <span class="news-indication-tag">alzheimer</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DSW94MGRyT253cjdhUG9FTHAtU0VTS0hYdzEwWnFHVEctYVFuWXJWdl95VFZ0THN6a0NDOUhXZkpHV1Ata0owaWhmZGt0YlY1TW9Yak1QREhwVTZzdkRR?oc=5)
 
 ---
 
@@ -128,6 +168,14 @@ Source: [Livemint](https://news.google.com/rss/articles/CBMi9gFBVV95cUxQdjRzSzZ5
 2026-11-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">lung cancer</span>
 
 Source: [Healthshots](https://news.google.com/rss/articles/CBMiigFBVV95cUxNYzRsbXdQeWFhM1hNU1Uwb0VieHYzNVgyRkI1RzdWY2M3YnQzcGFvRjJMb3dIbDZjS1RLWUhNTC1YV1FDN2pYY21RWWNIRmZLRHRLT3Y4X0ExcnJHLVkxY0ZrQllrZ0tVR1pwUUk5MVd5VEYxMEhaTVZvcFNidmJ2cm0wN09FSTF2Z0HSAY4BQVVfeXFMTXlXUlVQWmExS0h0MUV6TnlKUVV2Zk9XNERvdG5DVUo1OEhNOG1xMjh3cnNaSmRNMDJ0NHBSR1dtLVpBNDRGMVhZUEo1UVNSc2g2TGl1MzdYdWY5ZVVkUW9rbDYyRVVDZlpSWmNXeWtOVGdfZ3JSVExNVVd5bkxITk9pYVA2NTRLdm9pY2VkZw?oc=5)
+
+---
+
+### [How Regulatory Reliance Can Help Expand Access to Cancer Medicines and Diagnostics? - UICC](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9IejRuOTI1c1Nfd0h2SzEzdDZWWnljT1dOTUtCU0pSc09XVTMwbUVMZDBwbURrdm5JSW1naEJSTmd2Nk9qelI4X3hWbHJVakZzY1Vv?oc=5)
+
+2026-11-27 <span class="news-indication-tag">cancer</span>
+
+Source: [Oncodaily](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9IejRuOTI1c1Nfd0h2SzEzdDZWWnljT1dOTUtCU0pSc09XVTMwbUVMZDBwbURrdm5JSW1naEJSTmd2Nk9qelI4X3hWbHJVakZzY1Vv?oc=5)
 
 ---
 
@@ -216,6 +264,14 @@ Source: [Express Healthcare](https://news.google.com/rss/articles/CBMikgFBVV95cU
 2026-11-26 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">alzheimer</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
 
 Source: [EMJ](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWjBMZ05vaWxiX3l1VWZ5TlFzQi0wSmFNY01WbF9lY0RoWno3cmpLYzZqSVpKYlNoek5Oa2wxbThSTXJmNWo1WlViWmFUTm5HZi1YVmRvQU9WcnF4VmxSOGdLWHJIQU1FeFNSVjBvVlBEb0RGNElocHZabDkyMUsyVERkYk5GTjJtSHU4c3NxSlZwdjBfeGpSOUxIV3V2Q1JLOUFSVUxvN2w?oc=5)
+
+---
+
+### [Longitudinal trajectories of plasma biomarkers, amyloid-β burden and cognitive decline in Alzheimer’s disease - Oxford Academic](https://news.google.com/rss/articles/CBMijwFBVV95cUxQUFRKV2JBRnR3TEZGZ2wyMUg3dGNnRHlmREhPZE55c0pYV3pONV9LeDQzX3dmQnBpRVJVREJ4bHdtZkdjTmdfMFZNd3RuWDNsQ1VNVkdhZS0tYldQb2hzaVhnUkJyS25ocjJoTFRvQTBjZHFyVEJfb0xSaVd3bmRIaW5RTzBkclBnUEJGdDRLdw?oc=5)
+
+2026-11-26 <span class="news-indication-tag">alzheimer</span>
+
+Source: [Oxford Academic](https://news.google.com/rss/articles/CBMijwFBVV95cUxQUFRKV2JBRnR3TEZGZ2wyMUg3dGNnRHlmREhPZE55c0pYV3pONV9LeDQzX3dmQnBpRVJVREJ4bHdtZkdjTmdfMFZNd3RuWDNsQ1VNVkdhZS0tYldQb2hzaVhnUkJyS25ocjJoTFRvQTBjZHFyVEJfb0xSaVd3bmRIaW5RTzBkclBnUEJGdDRLdw?oc=5)
 
 ---
 

@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Arsenic Trioxide. 0 predicted indications."
 permalink: /news/arsenic_trioxide/
-last_modified_at: 2026-11-27
+last_modified_at: 2026-11-28
 ---
 
 # Arsenic Trioxide News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-27
 ---
 
 <p class="key-answer" data-question="What news is there about Arsenic Trioxide?">
-<strong>Arsenic Trioxide</strong> currently has <strong>176 news articles</strong>, with 0 predicted indications.
+<strong>Arsenic Trioxide</strong> currently has <strong>180 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -29,13 +29,37 @@ This page combines the AI-predicted indications for Arsenic Trioxide with the la
 <p><a href="{{ '/drugs/arsenic-trioxide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (176)
+## Related News (180)
+
+### [High price may deny pancreatic cancer patients ‘breakthrough’ drug - The Times](https://news.google.com/rss/articles/CBMilgFBVV95cUxPb0x6d1NVOE4tQ2k2TTl0WndNVXRuYUdvbE10UTNUenlBRmNqVXFCbnFBc2hLZ1htOUpiOFRxUnFZZ2cxbmRLZzZqUEYxemZudGZiTTRScDFxM3hsUnA3QW82Y2pUZkg4MldGRXlNVmJSRVJXLVkzWXViWW1jQjBMbENlMk9MNVBRdlZ2TDFrVmw0MGhLbnc?oc=5)
+
+2026-11-27 <span class="news-drug-tag">Glucagon</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">pancreatic cancer</span> <span class="news-indication-tag">pancreatic cancer</span>
+
+Source: [The Times](https://news.google.com/rss/articles/CBMilgFBVV95cUxPb0x6d1NVOE4tQ2k2TTl0WndNVXRuYUdvbE10UTNUenlBRmNqVXFCbnFBc2hLZ1htOUpiOFRxUnFZZ2cxbmRLZzZqUEYxemZudGZiTTRScDFxM3hsUnA3QW82Y2pUZkg4MldGRXlNVmJSRVJXLVkzWXViWW1jQjBMbENlMk9MNVBRdlZ2TDFrVmw0MGhLbnc?oc=5)
+
+---
+
+### [Long-Term Results of Esophageal and Gastroesophageal Junction Cancer Surgery in a Resource-Constrained Setting: A 25-Year Single-Institution Experience](https://news.google.com/rss/articles/CBMimAJBVV95cUxPZzRoOE9JTTZ2YWZmTEtTR190UW5rNVJnM3kwdzNIeHctMk5wdTJJZ3JKa0hid01YSFlQZW5iaTJiV1Jody1JQVhRa2hBSFc3V3BqaXd6RklRSkFXSDBJelV3MThMOHN0a0xkaVJqV3hSNGczMlI3d0JoNllycDJhNmM2c2owX2pWUkxibHVMVHBvcWJmanZVZmZCc1Y5UjQzY19ycEdsTUhMVlZBdzl5dHdjMExzT0RyNjJ6RjZfNEl2a2pCeW5HTzNfa0l3QldzczlvalVEaUtnT0lQZHQ0dVNINHpzOS1DalpGZWhsdGZEalFDMmVvY0YyLXZlVUtoNE92RkJYTFVVN1pwLXMyNVlSNE9ER1Vq?oc=5)
+
+2026-11-27 <span class="news-indication-tag">cancer</span>
+
+Source: [Cureus](https://news.google.com/rss/articles/CBMimAJBVV95cUxPZzRoOE9JTTZ2YWZmTEtTR190UW5rNVJnM3kwdzNIeHctMk5wdTJJZ3JKa0hid01YSFlQZW5iaTJiV1Jody1JQVhRa2hBSFc3V3BqaXd6RklRSkFXSDBJelV3MThMOHN0a0xkaVJqV3hSNGczMlI3d0JoNllycDJhNmM2c2owX2pWUkxibHVMVHBvcWJmanZVZmZCc1Y5UjQzY19ycEdsTUhMVlZBdzl5dHdjMExzT0RyNjJ6RjZfNEl2a2pCeW5HTzNfa0l3QldzczlvalVEaUtnT0lQZHQ0dVNINHpzOS1DalpGZWhsdGZEalFDMmVvY0YyLXZlVUtoNE92RkJYTFVVN1pwLXMyNVlSNE9ER1Vq?oc=5)
+
+---
 
 ### [Milk Consumption Linked to Increased Liver Cancer Risk](https://news.google.com/rss/articles/CBMinwFBVV95cUxPME9ra3FmX0txazJWRUJCTTFGTk8tdHYtcVk1VVNYbjhwb3dMMkUwOVc1czFQMElQSTROXzJSSnB0ZDVZXzVCN3ZTZS1wUWdrOEE2YzZLeDdpYTFOdjZEcWJaQXhiREJpN0pRWFRVdFBrdi1VbmFpRjc5eFVSSDFGMXZNLXlqRC0tWlF3dTIxOXdrX0VrWTVTQzUybGtxT0U?oc=5)
 
 2026-11-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">liver cancer</span>
 
 Source: [EMJ](https://news.google.com/rss/articles/CBMinwFBVV95cUxPME9ra3FmX0txazJWRUJCTTFGTk8tdHYtcVk1VVNYbjhwb3dMMkUwOVc1czFQMElQSTROXzJSSnB0ZDVZXzVCN3ZTZS1wUWdrOEE2YzZLeDdpYTFOdjZEcWJaQXhiREJpN0pRWFRVdFBrdi1VbmFpRjc5eFVSSDFGMXZNLXlqRC0tWlF3dTIxOXdrX0VrWTVTQzUybGtxT0U?oc=5)
+
+---
+
+### [ESMO 2026: Moderna's 42% Melanoma Win Erased $24 Billion, and Biomarkers Stole the Show - BigGo Finance](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1NbjQxbENpX0RCemdXUmVEaDkzYUVhRklJRUIxNjFJRVg0M0Y3UVpiaTQ2MTNUUThJMmJjTUpRb1Z5LXRTTVVNVWM0NDZnS0prdUtHdlQyV0FHZWs?oc=5)
+
+2026-11-27 <span class="news-indication-tag">cancer</span>
+
+Source: [BigGo Finance](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1NbjQxbENpX0RCemdXUmVEaDkzYUVhRklJRUIxNjFJRVg0M0Y3UVpiaTQ2MTNUUThJMmJjTUpRb1Z5LXRTTVVNVWM0NDZnS0prdUtHdlQyV0FHZWs?oc=5)
 
 ---
 
@@ -116,6 +140,14 @@ Source: [Livemint](https://news.google.com/rss/articles/CBMi9gFBVV95cUxQdjRzSzZ5
 2026-11-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">lung cancer</span>
 
 Source: [Healthshots](https://news.google.com/rss/articles/CBMiigFBVV95cUxNYzRsbXdQeWFhM1hNU1Uwb0VieHYzNVgyRkI1RzdWY2M3YnQzcGFvRjJMb3dIbDZjS1RLWUhNTC1YV1FDN2pYY21RWWNIRmZLRHRLT3Y4X0ExcnJHLVkxY0ZrQllrZ0tVR1pwUUk5MVd5VEYxMEhaTVZvcFNidmJ2cm0wN09FSTF2Z0HSAY4BQVVfeXFMTXlXUlVQWmExS0h0MUV6TnlKUVV2Zk9XNERvdG5DVUo1OEhNOG1xMjh3cnNaSmRNMDJ0NHBSR1dtLVpBNDRGMVhZUEo1UVNSc2g2TGl1MzdYdWY5ZVVkUW9rbDYyRVVDZlpSWmNXeWtOVGdfZ3JSVExNVVd5bkxITk9pYVA2NTRLdm9pY2VkZw?oc=5)
+
+---
+
+### [How Regulatory Reliance Can Help Expand Access to Cancer Medicines and Diagnostics? - UICC](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9IejRuOTI1c1Nfd0h2SzEzdDZWWnljT1dOTUtCU0pSc09XVTMwbUVMZDBwbURrdm5JSW1naEJSTmd2Nk9qelI4X3hWbHJVakZzY1Vv?oc=5)
+
+2026-11-27 <span class="news-indication-tag">cancer</span>
+
+Source: [Oncodaily](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9IejRuOTI1c1Nfd0h2SzEzdDZWWnljT1dOTUtCU0pSc09XVTMwbUVMZDBwbURrdm5JSW1naEJSTmd2Nk9qelI4X3hWbHJVakZzY1Vv?oc=5)
 
 ---
 
